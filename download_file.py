@@ -10,7 +10,9 @@ with open('truyen-song-ngu.json') as json_file:
             open("files/photo/categories/" + keyCat + ".jpg", 'wb').write(r.content)
             dataCat['photo'] = base_url + "files/photo/categories/" + keyCat + ".jpg"
         dataStories = dataCat['stories']
+        totalStories = 0
         for keySto in dataStories:
+            totalStories += 1
             dataSto = dataStories[keySto]
             if dataSto["photo"] is not None:
                 r = requests.get(dataSto["photo"], allow_redirects=True)
@@ -21,6 +23,7 @@ with open('truyen-song-ngu.json') as json_file:
                 open("files/audio/stories/" + keySto + ".mp3", 'wb').write(r.content)
                 dataSto['audio'] = base_url + "files/audio/stories/" + keySto + ".mp3"
             dataStories[keySto] = dataSto
+        dataCat['totalStories'] = totalStories
         dataCat['stories'] = dataStories
         dataJsonFile[keyCat] = dataCat
     with open('data.json', 'w', encoding='utf-8') as outfile:

@@ -14,6 +14,8 @@ with open('truyen-song-ngu.json') as json_file:
         for keySto in dataStories:
             totalStories += 1
             dataSto = dataStories[keySto]
+            dataSto["uid"] = dataSto['id']
+            del dataSto['id']
             if dataSto["photo"] is not None:
                 r = requests.get(dataSto["photo"], allow_redirects=True)
                 open("files/photo/stories/" + keySto + ".jpg", 'wb').write(r.content)

@@ -25,6 +25,12 @@ with open('truyen-song-ngu.json') as json_file:
             dataStories[keySto] = dataSto
         dataCat['totalStories'] = totalStories
         dataCat['stories'] = dataStories
+        dataCat["uid"] = dataCat['id']
+        del dataCat['id']
         dataJsonFile[keyCat] = dataCat
     with open('data.json', 'w', encoding='utf-8') as outfile:
         json.dump(dataJsonFile, outfile, ensure_ascii=False, indent=4)
+
+
+# file check-update.json
+# de check update du lieu truyen song ngu

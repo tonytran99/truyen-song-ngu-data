@@ -1,6 +1,5 @@
 {
     "1614081297865": {
-        "id": "1614081297865",
         "name": "Truyện cười song ngữ",
         "description": "Tủyện tập truyện cười sọng ngữ",
         "photo": "https://tonytran99.github.io/truyen-song-ngu-data/files/photo/categories/1614081297865.jpg",
@@ -99,10 +98,10 @@
                 "updatedAt": "2021-02-23T11:58:06.428Z"
             }
         },
-        "totalStories": 7
+        "totalStories": 7,
+        "uid": "1614081297865"
     },
     "1614075442460": {
-        "id": "1614075442460",
         "name": "100 Truyện Ngắn Song Ngữ Dễ Hiểu ( Audio )",
         "description": "Tất cả mẩu truyện ngắn có độ dài khoảng 50 – 80 từ có cả bản word và audio. Mỗi ngày các bạn chỉ nên dành thời gian luyện nghe một câu chuyện, vừa nâng cao vốn từ vựng, luyện listening + speaking.\nQuan trọng hơn, các câu chuyện này đều có ý nghĩa bài học sâu sắc trong cuộc sống từ đây bạn sẽ học hỏi nhiều điều hay lẽ phải để cuộc sống trở nên tốt đẹp hơn.",
         "photo": "https://tonytran99.github.io/truyen-song-ngu-data/files/photo/categories/1614075442460.jpg",
@@ -266,6 +265,7 @@
                 "updatedAt": "2021-02-23T10:27:56.887Z"
             }
         },
-        "totalStories": 12
+        "totalStories": 12,
+        "uid": "1614075442460"
     }
 }

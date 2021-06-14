@@ -1,0 +1,69 @@
+{
+    "word": "attenuation",
+    "type": "noun",
+    "spelling": "",
+    "meanings": [
+        {
+            "content": "hấp thụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy giảm",
+            "type": "",
+            "example": {
+                "en": "I can reverse the polarity by attenuating my axial servo.",
+                "vi": "Tôi tin tôi có thể đảo ngược cực tính bằng cách làm suy giảm trục cơ cấu tự động của tôi."
+            }
+        },
+        {
+            "content": "sự giảm nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm gầy đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm loãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm mảnh đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm mỏng đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm yếu đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự suy giảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắt dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ suy giảm",
+            "type": "",
+            "example": {
+                "en": "This value controls the degree of intensity attenuation by the filter at its point of maximum density",
+                "vi": "Giá trị này điều khiển độ suy giảm mật độ do bộ lọc tại điểm mật độ tối đa"
+            }
+        }
+    ],
+    "hasAudio": 1
+}

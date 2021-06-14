@@ -1,0 +1,24 @@
+{
+    "word": "birthplace",
+    "type": "noun",
+    "spelling": "ˈbɜːθˌpleɪs",
+    "meanings": [
+        {
+            "content": "nơi sinh",
+            "type": "noun",
+            "example": {
+                "en": "This is the birthplace of the world's greatest warriors.",
+                "vi": "Đây là nơi sinh ra những chiến binh vĩ đại nhất thế gian."
+            }
+        },
+        {
+            "content": "sinh quán",
+            "type": "noun",
+            "example": {
+                "en": "I was born in Votkinsk, the birthplace of the famous composer Pyotr Ilich Tchaikovsky.",
+                "vi": "Tôi sinh ra tại Votkinsk, sinh quán của nhạc sĩ nổi tiếng Pyotr Ilich Tchaikovsky."
+            }
+        }
+    ],
+    "hasAudio": 1
+}

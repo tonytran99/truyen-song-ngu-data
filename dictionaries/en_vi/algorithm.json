@@ -1,0 +1,32 @@
+{
+    "word": "algorithm",
+    "type": "noun",
+    "spelling": "/ˈælɡəɹɪðm/, ˈælgəɹɪðm",
+    "meanings": [
+        {
+            "content": "thuật toán",
+            "type": "noun",
+            "example": {
+                "en": "It's just that the algorithm wasn't showing it to me.",
+                "vi": "Chỉ là do thuật toán không cho tôi thấy điều đó."
+            }
+        },
+        {
+            "content": "giải thuật",
+            "type": "",
+            "example": {
+                "en": "For example, these four algorithms were all built by the same guy.",
+                "vi": "Ví dụ, bốn giải thuật này được xây dựng bởi cùng một người."
+            }
+        },
+        {
+            "content": "Thuật toán",
+            "type": "",
+            "example": {
+                "en": "Unable to open password protected files. The password algorithm has not been published",
+                "vi": "Không thể mở các tập tin được bảo vệ bằng mật khẩu. Thuật toán của mật khẩu chưa được công bố"
+            }
+        }
+    ],
+    "hasAudio": 1
+}

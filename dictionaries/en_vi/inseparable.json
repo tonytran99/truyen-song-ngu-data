@@ -1,0 +1,40 @@
+{
+    "word": "inseparable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsep(ə)rəb(ə)l/",
+            "/ɪnˈsɛp(ə)rəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɛp(ə)rəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất ly thân",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thể chia rẽ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thể tách rời",
+            "type": "adjective",
+            "example": {
+                "en": "Like two sides of a coin, the temporal and spiritual are inseparable.",
+                "vi": "Giống như hai mặt của đồng tiền, phần vật chất và thuộc linh không thể tách rời được."
+            }
+        }
+    ]
+}

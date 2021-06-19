@@ -1,0 +1,42 @@
+{
+    "word": "herbicide",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)ərbəˌsīd/",
+            "/ˈ(h)ərbəˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəːbɪsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc diệt cỏ",
+            "type": "noun",
+            "example": {
+                "en": "The local wine growers used insecticides and herbicides that also polluted my crops.",
+                "vi": "Những người trồng nho ở địa phương dùng thuốc trừ sâu và thuốc diệt cỏ làm hại cây cối của tôi."
+            }
+        },
+        {
+            "content": "diệt cỏ",
+            "type": "",
+            "example": {
+                "en": "And after World War II, we started using herbicides",
+                "vi": "Và sau thế chiến thứ hai, chúng ta bắt đầu sử dụng thuốc diệt cỏ"
+            }
+        },
+        {
+            "content": "thuốc trừ cỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

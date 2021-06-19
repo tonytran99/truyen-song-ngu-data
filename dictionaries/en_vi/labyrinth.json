@@ -1,0 +1,58 @@
+{
+    "word": "labyrinth",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlab(ə)ˌrinTH/",
+            "/ˈlæb(ə)ˌrɪnθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlab(ə)rɪnθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cung mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mê cung",
+            "type": "noun",
+            "example": {
+                "en": "This crooked compass will catch the light and point the way to the labyrinth's location.",
+                "vi": "Chiếc la bàn này sẽ giữ những tia sáng và chỉ đường đến mê cung."
+            }
+        },
+        {
+            "content": "mê lộ",
+            "type": "noun",
+            "example": {
+                "en": "A labyrinth is not a maze, Roman.",
+                "vi": "Mê cung khác mê lộ nhiều lắm, Roman."
+            }
+        },
+        {
+            "content": "tai trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường rối",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "twenty",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwen(t)ē/",
+            "/ˈtwɛn(t)i/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwɛnti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai mươi",
+            "type": "",
+            "example": {
+                "en": "Markku was twenty-two and certain that he was the next Einstein.",
+                "vi": "Lúc đó Markku hai mươi mốt tuổi và chắc chắn rằng mình sẽ giống như Einstein."
+            }
+        },
+        {
+            "content": "số hai mươi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "20 tuổi",
+            "type": "",
+            "example": {
+                "en": "Markku was twenty-two and certain that he was the next Einstein.",
+                "vi": "Lúc đó Markku hai mươi mốt tuổi và chắc chắn rằng mình sẽ giống như Einstein."
+            }
+        },
+        {
+            "content": "số 20",
+            "type": "",
+            "example": {
+                "en": "Yet only twenty-one percent of their population is online .",
+                "vi": "Tuy nhiên chỉ 21 phần trăm dân số ở các nước này sử dụng được Internet ."
+            }
+        },
+        {
+            "content": "hai möôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hai mười",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

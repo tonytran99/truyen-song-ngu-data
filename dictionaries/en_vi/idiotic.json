@@ -1,0 +1,50 @@
+{
+    "word": "idiotic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌidēˈädik/",
+            "/ˌɪdiˈɑdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪdɪˈɒtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khờ dại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngu ngốc",
+            "type": "adjective",
+            "example": {
+                "en": "And we believe when to believe is idiotic.",
+                "vi": "Và chúng tôi tin khi niềm tin là sự ngu ngốc."
+            }
+        },
+        {
+            "content": "ngu si",
+            "type": "",
+            "example": {
+                "en": "It's bad enough we have to listen to Harry's idiotic jokes.",
+                "vi": "Chuyện đó đủ tệ để chúng ta phải nghe Với lời đùa cợt ngu si của Harry"
+            }
+        },
+        {
+            "content": "ngốc nghếch",
+            "type": "",
+            "example": {
+                "en": "That's another reason why Chase's suggestion was idiotic.",
+                "vi": "Nó là một lí do khác chứng minh đề xuất của Chase là ngốc nghếch."
+            }
+        }
+    ]
+}

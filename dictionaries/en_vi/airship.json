@@ -1,0 +1,47 @@
+{
+    "word": "airship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerˌSHip/",
+            "/ˈɛrˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí cầu",
+            "type": "noun",
+            "example": {
+                "en": "Go ahead and pull your airship right next to mine.",
+                "vi": "Đi tiếp đi và kéo khí cầu của ông cạnh của tôi ấy."
+            }
+        },
+        {
+            "content": "khinh khí cầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tàu bay",
+            "type": "noun",
+            "example": {
+                "en": "I've decided to lead the fleet of airships to Ba Sing Se alone.",
+                "vi": "Ta đã quyết định sẽ dẫn đoàn tàu bay đến Ba Sing Se một mình."
+            }
+        },
+        {
+            "content": "Khí cầu điều khiển được",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

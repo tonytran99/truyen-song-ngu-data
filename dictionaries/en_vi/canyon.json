@@ -1,0 +1,37 @@
+{
+    "word": "canyon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanyən/",
+            "/ˈkænjən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanjən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vực",
+            "type": "noun",
+            "example": {
+                "en": "In a deep, dark canyon off the coast of California,",
+                "vi": "Dưới hẻm vực sâu và tối ngoài khơi California,"
+            }
+        },
+        {
+            "content": "hẽm núi",
+            "type": "noun",
+            "example": {
+                "en": "On the canyon floor, there were nuggets laying all over the ground.",
+                "vi": "Trên sàn hẽm núi, vàng cục lăn lóc khắp nơi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "configuration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˌfiɡ(y)əˈrāSH(ə)n/",
+            "/kənˌfɪɡ(j)əˈreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˌfɪɡəˈreɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấu hình",
+            "type": "noun",
+            "example": {
+                "en": "The background cannot be configured separately in themed mode",
+                "vi": "Không thể cấu hình riêng nền trong chế độ có sắc thái"
+            }
+        },
+        {
+            "content": "hình dạng",
+            "type": "noun",
+            "example": {
+                "en": "into any configuration that you've programmed in —",
+                "vi": "thành bất kỳ hình dạng nào mà bạn đã lập trình"
+            }
+        },
+        {
+            "content": "dạng",
+            "type": "noun",
+            "example": {
+                "en": "It's ready, but it's not configured for auto switch.",
+                "vi": "Nó đã sẵn sàng, nhưng nó vẫn chưa được định dạng sang chuyển đổi tự động."
+            }
+        },
+        {
+            "content": "cấu thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình thể",
+            "type": "noun",
+            "example": {
+                "en": "In a minute we're going to move to a two-orbital configuration,",
+                "vi": "Trong phút nữa chúng ta sẽ chuyển đến hai hình thể quỹ đạo."
+            }
+        },
+        {
+            "content": "hình trạng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

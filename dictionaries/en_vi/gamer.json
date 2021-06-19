@@ -1,0 +1,30 @@
+{
+    "word": "gamer",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡāmər/",
+            "/ˈɡeɪmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡeɪmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Game thủ",
+            "type": "",
+            "example": {
+                "en": "The gamers are able to chat to each other online and compare solutions .",
+                "vi": "Các game thủ có thể trò chuyện với nhau qua mạng và so sánh các giải pháp ."
+            }
+        }
+    ]
+}

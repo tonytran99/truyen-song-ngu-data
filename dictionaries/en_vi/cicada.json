@@ -1,0 +1,39 @@
+{
+    "word": "cicada",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈkādə/",
+            "/səˈkeɪdə/",
+            "/səˈkädə/",
+            "/səˈkɑdə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈkɑːdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con ve sầu",
+            "type": "noun",
+            "example": {
+                "en": "Yes, you are right, this prescription also contains the shell of cicada molts.",
+                "vi": "Vâng, bạn thấy đúng đó, đơn thuốc này cũng gồm có vỏ con ve sầu đã lột cánh."
+            }
+        },
+        {
+            "content": "ve sầu",
+            "type": "noun",
+            "example": {
+                "en": "Could the periodical cicada’s timing be the product of evolution?",
+                "vi": "Vòng đời của loài ve sầu Magicicada là một sản phẩm của sự tiến hóa?"
+            }
+        }
+    ]
+}

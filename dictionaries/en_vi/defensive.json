@@ -1,0 +1,64 @@
+{
+    "word": "defensive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfensiv/",
+            "/dəˈfɛnsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɛnsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng thủ",
+            "type": "verb",
+            "example": {
+                "en": "If you don't have your defense up you can really get hurt.",
+                "vi": "Nếu không phòng thủ được thì rất dễ bị thương."
+            }
+        },
+        {
+            "content": "thế phòng ngự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế thủ",
+            "type": "adjective",
+            "example": {
+                "en": "The saying that the best defense is a good offense is true as we stand up for our Christian identity.",
+                "vi": "Câu “thế công là thế thủ hay nhất” quả rất đúng khi chúng ta bênh vực vai trò người tín đồ Đấng Christ."
+            }
+        },
+        {
+            "content": "để bảo vệ",
+            "type": "",
+            "example": {
+                "en": "I have spent enough Elvish blood in defense of this accursed land.",
+                "vi": "Ta đã tốn quá nhiều máu Tiên tộc để bảo vệ vùng đất đáng nguyền rủa này rồi."
+            }
+        },
+        {
+            "content": "để che chở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để phòng thủ",
+            "type": "",
+            "example": {
+                "en": "You're not using as much head movement on defense.",
+                "vi": "Anh cũng không sử dụng nhiều cái đầu để phòng thủ."
+            }
+        }
+    ]
+}

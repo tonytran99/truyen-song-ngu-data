@@ -1,0 +1,59 @@
+{
+    "word": "extractive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈstraktiv/",
+            "/ɪkˈstræktɪv/",
+            "/ekˈstraktiv/",
+            "/ɛkˈstræktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstraktɪv/",
+            "/ɛkˈstraktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất chiết",
+            "type": "",
+            "example": {
+                "en": "when you drip a chemical extracted from some red grape skin",
+                "vi": "khi bạn nhỏ một giọt hóa chất chiết xuất từ vỏ nho màu đỏ"
+            }
+        },
+        {
+            "content": "giống chất chiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai khoáng",
+            "type": "",
+            "example": {
+                "en": "Everywhere there has been constant extraction of mineral,",
+                "vi": "Nơi nào cũng có nạn khai khoáng liên miên,"
+            }
+        },
+        {
+            "content": "vật chiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để chiết",
+            "type": "",
+            "example": {
+                "en": "Next, these marine snails were removed from their shells so that their dye glands could be extracted.",
+                "vi": "Tiếp theo, người ta tách những con ốc này khỏi vỏ để chiết lấy tuyến dịch màu."
+            }
+        }
+    ]
+}

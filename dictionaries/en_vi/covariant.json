@@ -1,0 +1,30 @@
+{
+    "word": "covariant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkōˈverēənt/",
+            "/ˌkoʊˈvɛriənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊˈvɛːrɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệp biến",
+            "type": "",
+            "example": {
+                "en": "Transmit a wideband covariant signal.",
+                "vi": "Phát một tín hiệu băng rộng hiệp biến."
+            }
+        }
+    ]
+}

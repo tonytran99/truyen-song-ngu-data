@@ -1,0 +1,57 @@
+{
+    "word": "arrow",
+    "type": [
+        "verb",
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerō/",
+            "/ˈɛroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈarəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tên",
+            "type": "noun",
+            "example": {
+                "en": "He said to go straight out as an arrow.",
+                "vi": "Anh ấy bảo đi thẳng như mũi tên."
+            }
+        },
+        {
+            "content": "mũi tên",
+            "type": "noun",
+            "example": {
+                "en": "The only thing that hurts worse than an arrow going in is an arrow coming out.",
+                "vi": "Thứ duy nhất đau hơn mũi tên đâm vào là mũi tên rút ra!"
+            }
+        },
+        {
+            "content": "sặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình tên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Mũi tên",
+            "type": "",
+            "example": {
+                "en": "The arrow shows you the long axis of the skeleton.",
+                "vi": "Mũi tên chỉ trục dài khung xương."
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "addressee",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌadreˈsē/",
+            "/ˌædrɛˈsi/",
+            "/əˌdreˈsē/",
+            "/əˌdrɛˈsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌadrɛˈsiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người nhận",
+            "type": "",
+            "example": {
+                "en": "The addressee was a Jame Gumb.",
+                "vi": "Người nhận là 1 tên Jame Gumb."
+            }
+        },
+        {
+            "content": "người nhận thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nhận tin",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

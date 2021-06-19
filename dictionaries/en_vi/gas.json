@@ -1,0 +1,173 @@
+{
+    "word": "gas",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡas/",
+            "/ɡæs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡas/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí",
+            "type": "noun",
+            "example": {
+                "en": "The birch had taken up the radioactive gas.",
+                "vi": "Cái cây bạch dương đã hấp thu khí phóng xạ."
+            }
+        },
+        {
+            "content": "chất khí",
+            "type": "noun",
+            "example": {
+                "en": "Is it just poisonous gas, or can he control all aerated substances?",
+                "vi": "Chỉ là điều khiển khí độc, hay là hắn có thể kiểm soát được mọi chất khí?"
+            }
+        },
+        {
+            "content": "khí tê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xăng",
+            "type": "noun",
+            "example": {
+                "en": "Who's paying for the gas?",
+                "vi": "Ai sẽ trả tiền xăng?"
+            }
+        },
+        {
+            "content": "hơi",
+            "type": "noun",
+            "example": {
+                "en": "I have abdominal gas.",
+                "vi": "Bụng tôi bị đầy hơi."
+            }
+        },
+        {
+            "content": "ga",
+            "type": "noun",
+            "example": {
+                "en": "If the snake doesn't get you, the gas will!",
+                "vi": "Nếu con rắn không bắt anh, khi ga cũng sẽ làm anh lịm đi."
+            }
+        },
+        {
+            "content": "khí độc",
+            "type": "",
+            "example": {
+                "en": "Caitlin, we need to do a pulmonary biopsy, extract an active portion of that gas.",
+                "vi": "Caitlin, chúng ta cần phải mổ sinh thiết phổi, lấy ra một mẫu khí độc còn nguyên."
+            }
+        },
+        {
+            "content": "dầu xăng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hơi đốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hơ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chuyện tầm phào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cung cấp hơi đốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cung cấp khí thấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "huyên hoang khoác lác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hơi ngạt",
+            "type": "",
+            "example": {
+                "en": "They put you in the gas chamber if you take your head off at Disney World.",
+                "vi": "Họ sẽ bắt anh vào phòng hơi ngạt nếu anh bỏ mũ ở Disney World đấy."
+            }
+        },
+        {
+            "content": "hơi độc",
+            "type": "",
+            "example": {
+                "en": "With gas masks and cyanide gas canisters, they really won't know what hit them.",
+                "vi": "Bằng mặt nạ hơi và hơi độc cyanide, họ sẽ không biết cái gì đánh họ."
+            }
+        },
+        {
+            "content": "khí nổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khí thắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện tầm phào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói dông dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thả hơi ngạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thả hơi độc",
+            "type": "",
+            "example": {
+                "en": "I'm not ready to gas civilians on live television, but thanks for playing.",
+                "vi": "Tôi chưa sẵn sàng để thả hơi độc vào người dân trên sóng truyền hình trực tiếp."
+            }
+        },
+        {
+            "content": "xì hơi",
+            "type": "",
+            "example": {
+                "en": "But, my mom says if you eat standing up, it gives you gas.",
+                "vi": "Mẹ tớ nói rằng khi cậu ăn đứng, cậu sẽ xì hơi..."
+            }
+        },
+        {
+            "content": "氣",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

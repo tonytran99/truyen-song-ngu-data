@@ -1,0 +1,62 @@
+{
+    "word": "depict",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈpikt/",
+            "/dəˈpɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vẽ",
+            "type": "verb",
+            "example": {
+                "en": "The next full-page illustration depicts a joyful resurrection scene in the new world.",
+                "vi": "Nguyên trang sau có hình vẽ cảnh người chết được sống lại trong thế giới mới."
+            }
+        },
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {
+                "en": "However, the real story is quite different from the one so often depicted.",
+                "vi": "Tuy nhiên, câu chuyện thật thì khác hẳn với câu chuyện người ta thường mô tả."
+            }
+        },
+        {
+            "content": "tả",
+            "type": "",
+            "example": {
+                "en": "I consider that an accurate depiction of events.",
+                "vi": "Tôi cho đó là một sự miêu tả sự kiện rất xác đáng."
+            }
+        },
+        {
+            "content": "biểu hiện",
+            "type": "verb",
+            "example": {
+                "en": "They gloss over problems of the real world with scenes of success depicting security.",
+                "vi": "Họ che đậy các vấn đề trong thực tại bằng những hình ảnh về sự thành công biểu hiện sự an ổn."
+            }
+        },
+        {
+            "content": "miêu tả",
+            "type": "",
+            "example": {
+                "en": "I consider that an accurate depiction of events.",
+                "vi": "Tôi cho đó là một sự miêu tả sự kiện rất xác đáng."
+            }
+        }
+    ]
+}

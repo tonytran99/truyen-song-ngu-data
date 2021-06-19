@@ -1,0 +1,74 @@
+{
+    "word": "fund",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quỹ",
+            "type": "noun",
+            "example": {
+                "en": "And they need to borrow from my trust fund.",
+                "vi": "Họ cần mượn quỹ ủy thác của em."
+            }
+        },
+        {
+            "content": "vốn",
+            "type": "noun",
+            "example": {
+                "en": "The mayor refuses to authorize funding for the production.",
+                "vi": "Thị trưởng từ chối cho phép việc cấp vốn cho vở diễn."
+            }
+        },
+        {
+            "content": "quĩ",
+            "type": "noun",
+            "example": {
+                "en": "How much do you have left in the college fund?",
+                "vi": "Con còn bao nhiêu trong quĩ học đại học?"
+            }
+        },
+        {
+            "content": "kho",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ngân quỹ",
+            "type": "noun",
+            "example": {
+                "en": "He's embezzled several hundred thousand pounds of ministry funds.",
+                "vi": "Mmm. Dường như ông ta đã tham nhũng vài trăm ngàn bảng trong ngân quỹ của bộ."
+            }
+        },
+        {
+            "content": "tiền của",
+            "type": "",
+            "example": {
+                "en": "But it would be a waste of valuable campaign funds.",
+                "vi": "Nhưng thế thì tốn kém tiền của chiến dịch quá."
+            }
+        },
+        {
+            "content": "tài trợ",
+            "type": "",
+            "example": {
+                "en": "Do we have to guess who it was that funded this independent contractor?",
+                "vi": "Ta có cần phải đoán ai đã tài trợ nhà thầu độc lập đó không?"
+            }
+        }
+    ]
+}

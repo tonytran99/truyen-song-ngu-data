@@ -1,0 +1,42 @@
+{
+    "word": "conversely",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvərslē/",
+            "/kənˈvərsli/",
+            "/ˈkänˌvərslē/",
+            "/ˈkɑnˌvərsli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnvəːsli/",
+            "/kənˈvəːsli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngược lại",
+            "type": "adverb",
+            "example": {
+                "en": "A lot of these systems have the converse effect.",
+                "vi": "Rất nhiều trong số các hệ thống này có tác dụng ngược lại."
+            }
+        },
+        {
+            "content": "một cách ngược lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đảo lại",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

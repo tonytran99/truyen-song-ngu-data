@@ -1,0 +1,30 @@
+{
+    "word": "gerbil",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərbəl/",
+            "/ˈdʒərbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːbɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuột nhảy",
+            "type": "noun",
+            "example": {
+                "en": "Hey, Marty, we just seen some kind of giant gerbil.",
+                "vi": "Này, tụi tôi tìm thấy 1 con chuột nhảy to tướng này."
+            }
+        }
+    ]
+}

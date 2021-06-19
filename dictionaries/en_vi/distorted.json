@@ -1,0 +1,43 @@
+{
+    "word": "distorted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈstôrdəd/",
+            "/dɪˈstɔrdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstɔːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị bóp méo",
+            "type": "adjective",
+            "example": {
+                "en": "And it is not subject to the distortions that often mark oral retelling.",
+                "vi": "Và nó không bị bóp méo như thường thấy trong sự truyền miệng."
+            }
+        },
+        {
+            "content": "méo",
+            "type": "adjective",
+            "example": {
+                "en": "Thus, the message from our conscience may have been muffled or distorted.",
+                "vi": "Vì thế, tiếng nói lương tâm của chúng ta có thể đã bị méo mó."
+            }
+        },
+        {
+            "content": "quẹo cọ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

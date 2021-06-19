@@ -1,0 +1,57 @@
+{
+    "word": "guillotine",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiləˌtēn/",
+            "/ˈɡɪləˌtin/",
+            "/ˈɡēəˌtēn/",
+            "/ˈɡiəˌtin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪlətiːn/",
+            "/ˌɡɪləˈtiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chém",
+            "type": "verb",
+            "example": {
+                "en": "I don't want to put our necks out there just to have the guillotine fall.",
+                "vi": "Tôi không muốn giơ đầu ra để chờ máy chém rơi xuống đâu."
+            }
+        },
+        {
+            "content": "chém đầu",
+            "type": "",
+            "example": {
+                "en": "Gerhard was executed at about six o’clock the next morning, likely by guillotine.",
+                "vi": "Anh Gerhard bị tử hình vào khoảng 6 giờ sáng hôm sau, rất có thể là bị chém đầu."
+            }
+        },
+        {
+            "content": "máy chém",
+            "type": "noun",
+            "example": {
+                "en": "I don't want to put our necks out there just to have the guillotine fall.",
+                "vi": "Tôi không muốn giơ đầu ra để chờ máy chém rơi xuống đâu."
+            }
+        },
+        {
+            "content": "Máy chém",
+            "type": "",
+            "example": {
+                "en": "I don't want to put our necks out there just to have the guillotine fall.",
+                "vi": "Tôi không muốn giơ đầu ra để chờ máy chém rơi xuống đâu."
+            }
+        }
+    ]
+}

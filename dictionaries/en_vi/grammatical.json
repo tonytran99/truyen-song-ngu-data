@@ -1,0 +1,42 @@
+{
+    "word": "grammatical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈmadək(ə)l/",
+            "/ɡrəˈmædək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈmatɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngữ pháp",
+            "type": "noun",
+            "example": {
+                "en": "For example, every time I spot a grammatical error, I do a shot.",
+                "vi": "Ví dụ, mỗi khi anh tìm ra lỗi sai ngữ pháp, anh uống một li."
+            }
+        },
+        {
+            "content": "theo ngữ pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về ngữ pháp",
+            "type": "",
+            "example": {
+                "en": "These are grammatical details related to translation.",
+                "vi": "Đây là những chi tiết về ngữ pháp liên hệ tới việc dịch thuật."
+            }
+        }
+    ]
+}

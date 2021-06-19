@@ -1,0 +1,51 @@
+{
+    "word": "guilty",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiltē/",
+            "/ˈɡɪlti/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪlti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tội",
+            "type": "adjective",
+            "example": {
+                "en": "We are not the only ones to believe that he is not guilty.",
+                "vi": "Chúng tôi không phải là những người duy nhất tin rằng cậu ta không có tội."
+            }
+        },
+        {
+            "content": "phạm tội",
+            "type": "adjective",
+            "example": {
+                "en": "Guilty people got guilty, sad people got sad.",
+                "vi": "Kẻ tội lỗi luôn phạm tội lỗi, kẻ buồn bã luôn gặp buồn bã."
+            }
+        },
+        {
+            "content": "có phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tội lỗi",
+            "type": "adjective",
+            "example": {
+                "en": "Guilty people got guilty, sad people got sad.",
+                "vi": "Kẻ tội lỗi luôn phạm tội lỗi, kẻ buồn bã luôn gặp buồn bã."
+            }
+        }
+    ]
+}

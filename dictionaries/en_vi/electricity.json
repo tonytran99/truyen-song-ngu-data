@@ -1,0 +1,81 @@
+{
+    "word": "electricity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlekˈtrisədē/",
+            "/əˌlɛkˈtrɪsədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪlɛkˈtrɪsɪti/",
+            "/ˌɛlɛkˈtrɪsɪti/",
+            "/ˌiːlɛkˈtrɪsɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện",
+            "type": "noun",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        },
+        {
+            "content": "điện năng",
+            "type": "noun",
+            "example": {
+                "en": "Today we're going to be talking about electricity.",
+                "vi": "Hôm nay chúng ta sẽ bàn về điện năng."
+            }
+        },
+        {
+            "content": "điện lực",
+            "type": "",
+            "example": {
+                "en": "Simon works for the national electricity company in the U.K.",
+                "vi": "Simon làm việc cho Công ty điện lực quốc gia ở Anh quốc"
+            }
+        },
+        {
+            "content": "năng lượng điện",
+            "type": "noun",
+            "example": {
+                "en": "A solar cell absorbs light and converts it into electrical energy.",
+                "vi": "Pin mặt trời hấp thu ánh sáng và chuyển đổi nó thành năng lượng điện."
+            }
+        },
+        {
+            "content": "điện học",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Điện",
+            "type": "",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        },
+        {
+            "content": "thể loại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điện khí",
+            "type": "",
+            "example": {
+                "en": "Sources of electricity, gas, and clean water were totally destroyed.",
+                "vi": "Nguồn điện, khí đốt và nước sạch bị phá hủy hoàn toàn."
+            }
+        }
+    ]
+}

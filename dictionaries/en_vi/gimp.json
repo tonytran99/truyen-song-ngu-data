@@ -1,0 +1,31 @@
+{
+    "word": "gimp",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡimp/",
+            "/ɡɪmp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪmp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "GIMP",
+            "type": "",
+            "example": {
+                "en": "Cannot load from the Gimp levels text file",
+                "vi": "Không thể tải từ tập tin văn bản cấp GIMP"
+            }
+        }
+    ]
+}

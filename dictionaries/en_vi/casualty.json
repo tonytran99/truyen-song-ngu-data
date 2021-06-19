@@ -1,0 +1,100 @@
+{
+    "word": "casualty",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaZH(o͞o)əltē/",
+            "/ˈkæʒ(u)əlti/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʒjʊəlti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bị thương",
+            "type": "",
+            "example": {
+                "en": "I repeat, multiple casualties!",
+                "vi": "Tôi nhắc lại, có nhiều người bị thương!"
+            }
+        },
+        {
+            "content": "người chết",
+            "type": "",
+            "example": {
+                "en": "The bomb is an act of war and wars result in civilian casualties.",
+                "vi": "Quả bom sẽ gây chiến tranh và rồi cũng sẽ có người chết."
+            }
+        },
+        {
+            "content": "nạn nhân",
+            "type": "",
+            "example": {
+                "en": "But he was supposed to be the only casualty.",
+                "vi": "Nhưng anh ta đáng ra là nạn nhân duy nhất."
+            }
+        },
+        {
+            "content": "số người bị thương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số người chết",
+            "type": "",
+            "example": {
+                "en": "And human casualties to a minimum.",
+                "vi": "Và giữ số người chết ở mức thấp nhất."
+            }
+        },
+        {
+            "content": "số người mất tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số thương vong",
+            "type": "",
+            "example": {
+                "en": "The battle still rages, and the casualties seem to be increasing.",
+                "vi": "Cuộc chiến vẫn còn diễn ra ác liệt, và số thương vong dường như đang gia tăng."
+            }
+        },
+        {
+            "content": "tai biến",
+            "type": "",
+            "example": {
+                "en": "You promised me there wouldn't be any casualties!",
+                "vi": "Anh hứa với tôi là sẽ không có bất kì tai biến nào hết!"
+            }
+        },
+        {
+            "content": "tai hoạ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tai nạn",
+            "type": "noun",
+            "example": {
+                "en": "There's a real casualty there.",
+                "vi": "Có một tai nạn thiệt dưới kia."
+            }
+        },
+        {
+            "content": "thương vong",
+            "type": "noun",
+            "example": {
+                "en": "You said the bombing was gonna be minor, no casualties.",
+                "vi": "Cô đã nói vụ đánh bom sẽ rất nhỏ, không có thương vong."
+            }
+        }
+    ]
+}

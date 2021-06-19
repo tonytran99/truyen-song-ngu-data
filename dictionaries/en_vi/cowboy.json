@@ -1,0 +1,59 @@
+{
+    "word": "cowboy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkouˌboi/",
+            "/ˈkaʊˌbɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊbɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cao bồi",
+            "type": "noun",
+            "example": {
+                "en": "I can't believe he thinks I'm a cowboy!",
+                "vi": "Không tin được nó nghĩ tớ là cao bồi."
+            }
+        },
+        {
+            "content": "người chăn bò",
+            "type": "",
+            "example": {
+                "en": "One of the cowboys asked me what we should do.",
+                "vi": "Một người chăn bò hỏi tôi xem chúng tôi phải làm gì."
+            }
+        },
+        {
+            "content": "a cowboy movie",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phim cao bồi",
+            "type": "",
+            "example": {
+                "en": "The main feature was usually a cowboy movie with lots of action.",
+                "vi": "Cuốn phim chính thường thường là một phim cao bồi với nhiều trận đấm đá."
+            }
+        },
+        {
+            "content": "Cao bồi",
+            "type": "",
+            "example": {
+                "en": "I can't believe he thinks I'm a cowboy!",
+                "vi": "Không tin được nó nghĩ tớ là cao bồi."
+            }
+        }
+    ]
+}

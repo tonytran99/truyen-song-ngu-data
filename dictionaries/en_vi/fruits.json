@@ -1,0 +1,38 @@
+{
+    "word": "fruits",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "hoa quả",
+            "type": "noun",
+            "example": {
+                "en": "This actually also goes for wine as well as fruit juice.",
+                "vi": "Qui trình này áp dụng cho cả rượu hay nước ép hoa quả."
+            }
+        },
+        {
+            "content": "quả thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành quả",
+            "type": "noun",
+            "example": {
+                "en": "It is only natural for a person to want to enjoy the fruits of his labor.",
+                "vi": "Một người muốn tận hưởng thành quả lao động là điều tự nhiên."
+            }
+        },
+        {
+            "content": "trái cây",
+            "type": "noun",
+            "example": {
+                "en": "This fruit has an unpleasant smell.",
+                "vi": "Loại trái cây này có mùi khó ngửi."
+            }
+        }
+    ]
+}

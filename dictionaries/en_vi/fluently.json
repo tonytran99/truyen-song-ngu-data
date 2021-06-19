@@ -1,0 +1,45 @@
+{
+    "word": "fluently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflo͞oəntlē/",
+            "/ˈfluəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfluːəntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưu loát",
+            "type": "adjective adverb",
+            "example": {
+                "en": "In order to read fluently, it is necessary to understand how words work together in a sentence.",
+                "vi": "Muốn đọc lưu loát, cần hiểu cách các từ ngữ bổ sung lẫn nhau trong một câu."
+            }
+        },
+        {
+            "content": "thông thạo",
+            "type": "",
+            "example": {
+                "en": "They need to speak, read, and write English fluently.",
+                "vi": "Họ phải biết nói, đọc và viết tiếng Anh thông thạo."
+            }
+        },
+        {
+            "content": "trôi chảy",
+            "type": "adverb",
+            "example": {
+                "en": "He read the paragraph fluently and received the certificate.",
+                "vi": "Anh đọc đoạn đó rất trôi chảy và có được bằng."
+            }
+        }
+    ]
+}

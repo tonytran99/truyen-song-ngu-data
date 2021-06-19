@@ -1,0 +1,39 @@
+{
+    "word": "dishwasher",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiSHˌwôSHər/",
+            "/ˈdɪʃˌwɔʃər/",
+            "/ˈdiSHˌwäSHər/",
+            "/ˈdɪʃˌwɑʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪʃwɒʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy rửa chén",
+            "type": "noun",
+            "example": {
+                "en": "You could just throw it in the dishwasher after the meal, and it took care of itself.",
+                "vi": "Chỉ cần bỏ nó vào máy rửa chén sau bữa ăn là xong."
+            }
+        },
+        {
+            "content": "máy rửa bát",
+            "type": "",
+            "example": {
+                "en": "All of our homes come standard equipped with electric oven washer, drier and dishwasher.",
+                "vi": "Tất cả các căn nhà của chúng tôi đều được trang bị lò nướng điện máy giặt, máy sấy và máy rửa bát."
+            }
+        }
+    ]
+}

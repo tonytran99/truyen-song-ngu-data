@@ -1,0 +1,59 @@
+{
+    "word": "err",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/er/",
+            "/ɛr/",
+            "/ər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phạm lỗi",
+            "type": "verb",
+            "example": {
+                "en": "Are we not wise to be like him, particularly when we err?",
+                "vi": "Chẳng phải chúng ta cũng nên noi theo ông, đặc biệt là khi phạm lỗi?"
+            }
+        },
+        {
+            "content": "sai lầm",
+            "type": "",
+            "example": {
+                "en": "Better to err on the side of caution.",
+                "vi": "Thà là sai lầm trong sự thận trọng."
+            }
+        },
+        {
+            "content": "lầm lỗi",
+            "type": "",
+            "example": {
+                "en": "There may even be times when an elder errs, causing some to be disturbed.",
+                "vi": "Thậm chí đôi khi một trưởng lão có thể lầm lỗi, khiến một số người lo âu bối rối."
+            }
+        },
+        {
+            "content": "phạm tội",
+            "type": "",
+            "example": {
+                "en": "Born in sin, we are prone to err.",
+                "vi": "Vì sinh ra trong tội lỗi, chúng ta dễ phạm tội."
+            }
+        },
+        {
+            "content": "đi lang thang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

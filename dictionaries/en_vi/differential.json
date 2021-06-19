@@ -1,0 +1,95 @@
+{
+    "word": "differential",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdifəˈren(t)SH(ə)l/",
+            "/ˌdɪfəˈrɛn(t)ʃ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɪfəˈrɛnʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vi phân",
+            "type": "noun",
+            "example": {
+                "en": "of course, having calculated our differential equation very carefully.",
+                "vi": "đương nhiên, sau khi đã tính các phương trình vi phân thật cẩn thận."
+            }
+        },
+        {
+            "content": "bộ sai tốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chênh lệch",
+            "type": "noun",
+            "example": {
+                "en": "The temperature differential made it all white. It was a whiteout.",
+                "vi": "Nhiệt độ chênh lệch khiến mọi thứ trở nên trắng xóa."
+            }
+        },
+        {
+            "content": "khác nhau",
+            "type": "noun",
+            "example": {
+                "en": "In short, in our real lives, we seek to place trust in a differentiated way.",
+                "vi": "Nói ngắn gọn, trong thực tế chúng ta đặt niềm tin theo nhiều cách khác nhau."
+            }
+        },
+        {
+            "content": "phân biệt",
+            "type": "noun",
+            "example": {
+                "en": "We can continue this differential in five minutes.",
+                "vi": "Chúng ta có thể chẩn đoán phân biệt trong năm phút nữa."
+            }
+        },
+        {
+            "content": "thuộc sai dị/biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc sai động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc vi phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc vi sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vi sai",
+            "type": "noun",
+            "example": {
+                "en": "So, imagine the angular velocity when it's not all spread out from one differential.",
+                "vi": "Hãy nghĩ đến vận tốc góc khi nó không bị trải ra từ một bộ vi sai."
+            }
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "What differentiates success and failure, is your ability to work.",
+                "vi": "Sự khác biệt giữa thành công và thất bại, là sự hợp tác."
+            }
+        }
+    ]
+}

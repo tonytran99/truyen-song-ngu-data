@@ -1,0 +1,69 @@
+{
+    "word": "injured",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinjərd/",
+            "/ˈɪndʒərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪndʒəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị thương",
+            "type": "adjective",
+            "example": {
+                "en": "Tom and three other crew members were injured in the accident.",
+                "vi": "Tom và ba thành viên khác của đội đã bị thương trong tai nạn."
+            }
+        },
+        {
+            "content": "bị làm hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị thương nặng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm sorry that you've been badly injured.",
+                "vi": "Tôi rất buồn là bạn đã bị thương nặng."
+            }
+        },
+        {
+            "content": "bị tổn thương",
+            "type": "",
+            "example": {
+                "en": "I think it was his pride that was injured more than anything.",
+                "vi": "Nhưng tôi nghĩ lòng tự trọng của Chuck bị tổn thương nhiều hơn hết thảy."
+            }
+        },
+        {
+            "content": "bị xúc phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bị thương",
+            "type": "",
+            "example": {
+                "en": "We gotta bring back supplies for the injured.",
+                "vi": "Chúng ta sẽ mang thuốc cho người bị thương."
+            }
+        },
+        {
+            "content": "tỏ vẻ mếch lòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "hepatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈpadik/",
+            "/həˈpædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈpatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gan",
+            "type": "noun",
+            "example": {
+                "en": "Clot's gotta be constricting the flow in the hepatic vein.",
+                "vi": "Tụ máu đang thắt tĩnh mạch gan lại."
+            }
+        },
+        {
+            "content": "bổ gan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây rêu tản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây địa tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớp rêu tản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu gan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc bổ gan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc chữa bệnh gan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

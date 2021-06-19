@@ -1,0 +1,47 @@
+{
+    "word": "vanquish",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaNGkwiSH/",
+            "/ˈvæŋkwɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaŋkwɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "And as a warrior-king, this psalmist vanquished many enemies.",
+                "vi": "Và khi là một vị vua xông pha chiến trận, người viết Thi-thiên này đã chiến thắng nhiều kẻ thù."
+            }
+        },
+        {
+            "content": "đánh bại",
+            "type": "verb",
+            "example": {
+                "en": "When light is present, darkness is vanquished and must depart.",
+                "vi": "Khi có ánh sáng, thì bóng tối bị đánh bại và phải rời đi."
+            }
+        },
+        {
+            "content": "chế ngự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chinh phục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

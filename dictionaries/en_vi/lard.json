@@ -1,0 +1,40 @@
+{
+    "word": "lard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lärd/",
+            "/lɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỡ lợn",
+            "type": "",
+            "example": {
+                "en": "The potatoes are cooked in lard.",
+                "vi": "Chỗ khoai tây đó được chiên mỡ lợn."
+            }
+        },
+        {
+            "content": "油",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

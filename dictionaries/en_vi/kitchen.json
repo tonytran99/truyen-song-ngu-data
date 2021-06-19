@@ -1,0 +1,54 @@
+{
+    "word": "kitchen",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiCH(ə)n/",
+            "/ˈkɪtʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪtʃɪn/",
+            "/ˈkɪtʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà bếp",
+            "type": "noun",
+            "example": {
+                "en": "They're heading through the lobby, towards the kitchen.",
+                "vi": "Phải ngăn hắn lại, hắn đang ở nhà bếp."
+            }
+        },
+        {
+            "content": "bếp",
+            "type": "noun",
+            "example": {
+                "en": "Tom helped Mary in the kitchen.",
+                "vi": "Tom giups Mary làm bếp."
+            }
+        },
+        {
+            "content": "phòng bếp",
+            "type": "",
+            "example": {
+                "en": "It was blocking my view to the kitchen.",
+                "vi": "Nó chắn tầm nhìn của tôi vào phòng bếp."
+            }
+        },
+        {
+            "content": "bếp núc",
+            "type": "noun",
+            "example": {
+                "en": "Girls are best suited for the kitchen not for wrestling",
+                "vi": "Con gái chỉ hợp với bếp núc thôi không phải đấu vật."
+            }
+        }
+    ]
+}

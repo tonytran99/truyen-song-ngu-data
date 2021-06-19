@@ -1,0 +1,39 @@
+{
+    "word": "dispatcher",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspaCHər/",
+            "/dəˈspætʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspatʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ phận gửi đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người gửi đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người điều vận",
+            "type": "",
+            "example": {
+                "en": "I am to receive instructions in those cities from the dispatchers.",
+                "vi": "Tôi sẽ phải nhận chỉ thị tại các thành phố đó qua người điều vận."
+            }
+        }
+    ]
+}

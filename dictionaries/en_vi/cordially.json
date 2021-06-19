@@ -1,0 +1,45 @@
+{
+    "word": "cordially",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrjəlē/",
+            "/ˈkɔrdʒəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːdɪəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thân ái",
+            "type": "",
+            "example": {
+                "en": "I'm afraid the vice president and I had a less-than-cordial encounter yesterday.",
+                "vi": "Tôi e là hôm qua phó tổng thống và tôi đã đụng độ không mấy thân ái."
+            }
+        },
+        {
+            "content": "chân thành",
+            "type": "",
+            "example": {
+                "en": "You are cordially invited to join us in this remembrance meeting on that evening.",
+                "vi": "Chúng tôi chân thành kính mời quý vị cùng chúng tôi cử hành lễ tưởng niệm vào tối hôm đó."
+            }
+        },
+        {
+            "content": "thân mật",
+            "type": "",
+            "example": {
+                "en": "Lincoln was always cordial; I was always a little rude.",
+                "vi": "Lincoln luôn luôn tỏ vẻ thân mật; tôi thì luôn luôn tỏ ra hơi khiếm nhã."
+            }
+        }
+    ]
+}

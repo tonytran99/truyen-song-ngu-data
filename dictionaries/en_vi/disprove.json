@@ -1,0 +1,39 @@
+{
+    "word": "disprove",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈpro͞ov/",
+            "/dɪsˈpruv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈpruːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bác bỏ",
+            "type": "",
+            "example": {
+                "en": "But ideas like these were disproved by Redi, Pasteur, and other scientists.",
+                "vi": "Nhưng lập luận kiểu ấy đã bị Redi, Pasteur và nhiều nhà khoa học khác bác bỏ."
+            }
+        },
+        {
+            "content": "chứng minh là sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân chứng",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

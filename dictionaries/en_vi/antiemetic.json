@@ -1,0 +1,31 @@
+{
+    "word": "antiemetic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)ēəˈmedik/",
+            "/ˌæn(t)iəˈmɛdɪk/",
+            "/ˌanˌtīəˈmedik/",
+            "/ˌænˌtaɪəˈmɛdɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc chống nôn mửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thuốc chống nôn",
+            "type": "",
+            "example": {
+                "en": "Kid's been hanging over a toilet despite antiemetic therapy.",
+                "vi": "Thằng cu phải bám trụ nhà vệ sinh liên tục dù đã sử dụng thuốc chống nôn."
+            }
+        }
+    ]
+}

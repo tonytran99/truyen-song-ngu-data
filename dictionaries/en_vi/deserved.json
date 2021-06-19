@@ -1,0 +1,37 @@
+{
+    "word": "deserved",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzərvd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzəːvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xứng đáng",
+            "type": "",
+            "example": {
+                "en": "This deserves to be finished, and it deserves to be read.",
+                "vi": "Nó đáng được hoàn thiện, và nó xứng đáng để đọc."
+            }
+        },
+        {
+            "content": "đáng",
+            "type": "adjective verb",
+            "example": {
+                "en": "I think that his proposal deserves some thinking.",
+                "vi": "Tôi cho rằng gợi ý của anh ấy đáng được xem xét."
+            }
+        }
+    ]
+}

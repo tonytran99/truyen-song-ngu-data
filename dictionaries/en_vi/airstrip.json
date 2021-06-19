@@ -1,0 +1,45 @@
+{
+    "word": "airstrip",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerˌstrip/",
+            "/ˈɛrˌstrɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːstrɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bãi hạ cánh",
+            "type": "noun",
+            "example": {
+                "en": "We're going to need you to have a girl at the airstrip tonight.",
+                "vi": "Chúng tao cần mày... mang con bé đến bãi hạ cánh vào tối nay."
+            }
+        },
+        {
+            "content": "bãi đáp",
+            "type": "",
+            "example": {
+                "en": "Jj: anyone get directions Back to the airstrip?",
+                "vi": "Có ai có hướng dẫn ra bãi đáp không?"
+            }
+        },
+        {
+            "content": "đường băng",
+            "type": "noun",
+            "example": {
+                "en": "You will meet us at the airstrip, right?",
+                "vi": "Anh sẽ gặp bọn em ở đường băng, đúng không?"
+            }
+        }
+    ]
+}

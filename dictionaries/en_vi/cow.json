@@ -1,0 +1,91 @@
+{
+    "word": "cow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kou/",
+            "/kaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bò",
+            "type": "noun",
+            "example": {
+                "en": "Tom doesn't know how to milk a cow.",
+                "vi": "Tom không biết làm thế nào để vắt sữa con bò"
+            }
+        },
+        {
+            "content": "bò cái",
+            "type": "noun",
+            "example": {
+                "en": "Just what do you think you're doing with that cow?",
+                "vi": "Anh nghĩ anh đang làm gì với con bò cái đó vậy?"
+            }
+        },
+        {
+            "content": "nạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chó biển cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cá voi cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "doạ nạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho sợ hãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thị uy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tê giác cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "voi cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con bò cái",
+            "type": "",
+            "example": {
+                "en": "Just what do you think you're doing with that cow?",
+                "vi": "Anh nghĩ anh đang làm gì với con bò cái đó vậy?"
+            }
+        },
+        {
+            "content": "dọa nạt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

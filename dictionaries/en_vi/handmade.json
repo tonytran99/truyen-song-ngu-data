@@ -1,0 +1,42 @@
+{
+    "word": "handmade",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/han(d)ˈmād/",
+            "/hæn(d)ˈmeɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/han(d)ˈmeɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "手工",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm bằng tay",
+            "type": "",
+            "example": {
+                "en": "We held their babies wrapped in the most beautiful, colorful handmade blankets.",
+                "vi": "Chúng tôi bế các trẻ em sơ sinh của họ được bọc trong những cái mền đẹp nhất, làm bằng tay và đầy màu sắc."
+            }
+        },
+        {
+            "content": "thủ công",
+            "type": "",
+            "example": {
+                "en": "These are some of the products. These are all handmade.",
+                "vi": "Mấy món đồ này chúng đều là thủ công."
+            }
+        }
+    ]
+}

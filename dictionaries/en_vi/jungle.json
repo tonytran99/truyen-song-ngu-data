@@ -1,0 +1,63 @@
+{
+    "word": "jungle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjəNGɡəl/",
+            "/ˈdʒəŋɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌŋɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rừng",
+            "type": "noun",
+            "example": {
+                "en": "Hunters living in the dense understorey of the jungle come in all shapes and sizes.",
+                "vi": "Các kẻ săn mồi sống dưới tán rừng dầy đặc đến với nhiều hình dạng kích thước."
+            }
+        },
+        {
+            "content": "rừng nhiệt đới",
+            "type": "noun",
+            "example": {
+                "en": "When this thing is running, it's like a jungle in here.",
+                "vi": "Khi những thứ này vận hành, nơi đây sẽ giống như một cánh rừng nhiệt đới."
+            }
+        },
+        {
+            "content": "mớ hỗn độn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rừng rậm",
+            "type": "",
+            "example": {
+                "en": "It's never too soon to learn the ways of the jungle, Tiago.",
+                "vi": "Tìm hiểu về rừng rậm càng sớm càng tốt, Tiago."
+            }
+        },
+        {
+            "content": "đại ngàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Rừng rậm",
+            "type": "",
+            "example": {
+                "en": "The jungle has been known to swallow men whole.",
+                "vi": "Rừng rậm được xem là cái lỗ giết người"
+            }
+        }
+    ]
+}

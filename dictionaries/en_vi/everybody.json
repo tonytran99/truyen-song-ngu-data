@@ -1,0 +1,63 @@
+{
+    "word": "everybody",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevrēˌbädē/",
+            "/ˈɛvriˌbɑdi/",
+            "/ˈevrēˌbədē/",
+            "/ˈɛvriˌbədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvrɪbɒdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mọi người",
+            "type": "pronoun, noun",
+            "example": {
+                "en": "But I'm not sure whether it brings happiness to everybody.",
+                "vi": "Nhưng tôi không chắc rằng nó có mang lại hạnh phúc cho mọi người hay không."
+            }
+        },
+        {
+            "content": "ai ai",
+            "type": "",
+            "example": {
+                "en": "The reason for that is that everybody's an expert on consciousness.",
+                "vi": "Lý do là vì mọi người ai ai cũng đều là một chuyên gia về nhận thức."
+            }
+        },
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "But was everybody the maid of honor at Amanda's wedding?",
+                "vi": "Nhưng đâu phải ai cũng là phù dâu ở đám cưới Amanda đâu nhỉ?"
+            }
+        },
+        {
+            "content": "mỗi người",
+            "type": "",
+            "example": {
+                "en": "Imagine you can have everybody make a small donation for one pixel.",
+                "vi": "Hãy tượng tượng mỗi người đóng góp cho một điểm ảnh."
+            }
+        },
+        {
+            "content": "tất cả mọi người",
+            "type": "noun",
+            "example": {
+                "en": "There is enough room for everybody.",
+                "vi": "Có đủ chỗ cho tất cả mọi người."
+            }
+        }
+    ]
+}

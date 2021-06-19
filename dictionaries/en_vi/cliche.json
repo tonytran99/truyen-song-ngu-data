@@ -1,0 +1,40 @@
+{
+    "word": "cliche",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klēˈSHā/",
+            "/kliˈʃeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkliːʃeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rập khuôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáo ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáo rỗng",
+            "type": "tính từ",
+            "example": {
+                "en": "Cliché is sometimes used as an adjective, although some dictionaries do not recognize it as such, listing the word only as a noun and clichéd as the adjective.",
+                "vi": "Cliche đôi khi được sử dụng như một tính từ, mặc dù một số từ điển không ghi nhận, chỉ liệt kê cliche là danh từ và clichéd mới là một tính từ."
+            }
+        }
+    ]
+}

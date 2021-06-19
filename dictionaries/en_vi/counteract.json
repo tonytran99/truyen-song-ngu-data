@@ -1,0 +1,47 @@
+{
+    "word": "counteract",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkoun(t)ərˈakt/",
+            "/ˌkaʊn(t)ərˈækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaʊntərˈakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {
+                "en": "The zapper creates a magnetic field to counteract that.",
+                "vi": "Cái máy này tạo một từ trường chống lại xung điện đó."
+            }
+        },
+        {
+            "content": "kháng cự lại",
+            "type": "",
+            "example": {
+                "en": "To counteract this force, the ship has to be steered in another direction.",
+                "vi": "Để kháng cự lại ảnh hưởng này, con tàu phải điều chỉnh nhằm giữ hướng đi đúng của nó."
+            }
+        },
+        {
+            "content": "làm mất tác dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trung hoà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

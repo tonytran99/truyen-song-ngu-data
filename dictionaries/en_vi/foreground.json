@@ -1,0 +1,56 @@
+{
+    "word": "foreground",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌɡround/",
+            "/ˈfɔrˌɡraʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːɡraʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cận cảnh",
+            "type": "noun",
+            "example": {
+                "en": "In the foreground, tossed high by incoming waves of foaming water, is a large lifeboat.",
+                "vi": "Cận cảnh là một chiếc tàu cấp cứu lớn đang bị tung lên cao bởi những ngọn sóng đầy bọt nước tràn đến."
+            }
+        },
+        {
+            "content": "cảnh gần",
+            "type": "noun",
+            "example": {
+                "en": "Set here the foreground color of the border",
+                "vi": "Ở đây hãy đặt màu cảnh gần của viền"
+            }
+        },
+        {
+            "content": "nổi bật",
+            "type": "",
+            "example": {
+                "en": "to the foreground for me.",
+                "vi": "nổi bật đối với tôi."
+            }
+        },
+        {
+            "content": "tiền cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa vị nổi bật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

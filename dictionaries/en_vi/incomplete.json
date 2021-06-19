@@ -1,0 +1,93 @@
+{
+    "word": "incomplete",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkəmˈplēt/",
+            "/ˌɪnkəmˈplit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkəmˈpliːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không đầy đủ",
+            "type": "",
+            "example": {
+                "en": "Without your report, the overall report would be incomplete",
+                "vi": "Nếu thiếu báo cáo của bạn, báo cáo chung sẽ không đầy đủ"
+            }
+        },
+        {
+            "content": "chưa hoàn thành",
+            "type": "adjective",
+            "example": {
+                "en": "Our road map's a little incomplete at the moment.",
+                "vi": "Bản đồ của chúng ta có một chút chưa hoàn thành."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bất toàn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chưa hoàn thiện",
+            "type": "adjective",
+            "example": {
+                "en": "Thus, the volumes of Earth history are incomplete and disheveled.",
+                "vi": "Do đó, cuốn sách về lịch sử Trái Đất thì chưa hoàn thiện và rối rắm."
+            }
+        },
+        {
+            "content": "dang dở",
+            "type": "adjective",
+            "example": {
+                "en": "\" I am going to complete Vasudha's incomplete story. \"",
+                "vi": "\" Vì thế bố sẽ hoàn thành câu chuyện tình còn dang dở của mẹ con. \""
+            }
+        },
+        {
+            "content": "chưa xong",
+            "type": "adjective",
+            "example": {
+                "en": "Oh, well, unfortunately, it's incomplete.",
+                "vi": "nó vẫn chưa xong."
+            }
+        },
+        {
+            "content": "chưa đầy đủ",
+            "type": "",
+            "example": {
+                "en": "In what sense is man’s knowledge of snow incomplete?",
+                "vi": "Sự hiểu biết của loài người về tuyết chưa đầy đủ theo ý nghĩa nào?"
+            }
+        },
+        {
+            "content": "nửa chừng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không đủ",
+            "type": "",
+            "example": {
+                "en": "But romantic love is incomplete; it is a prelude.",
+                "vi": "Nhưng tình yêu lãng mạn là không đủ; đó chỉ là bắt đầu mà thôi."
+            }
+        }
+    ]
+}

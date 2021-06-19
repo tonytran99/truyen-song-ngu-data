@@ -1,0 +1,46 @@
+{
+    "word": "clerical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklerək(ə)l/",
+            "/ˈklɛrək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɛrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mục sư",
+            "type": "",
+            "example": {
+                "en": "Usually, it's done by a chaplain or a priest or a Moslem cleric.",
+                "vi": "Thường thì người lo chuyện này là Cha tuyên úy của nhà tù một mục sư hay một giáo sĩ Hồi giáo"
+            }
+        },
+        {
+            "content": "tăng lữ",
+            "type": "",
+            "example": {
+                "en": "However, do not confuse the ministry of women who are Jehovah’s Witnesses with the ministry performed by female clerics of other religions.",
+                "vi": "Dù thế, đừng nhầm lẫn người nữ dạy Kinh Thánh của Nhân Chứng Giê-hô-va với người nữ thuộc giới tăng lữ của những đạo khác."
+            }
+        },
+        {
+            "content": "văn phòng",
+            "type": "noun",
+            "example": {
+                "en": "Think clerical work in the army makes you a man?",
+                "vi": "Nghĩ rằng văn phòng làm việc trong quân đội làm cho bạn một người đàn ông?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "undermine",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈmīn/",
+            "/ˌəndərˈmaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈmʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phá ngầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đào dưới chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm suy yếu",
+            "type": "",
+            "example": {
+                "en": "Thus, belief in fate undermines the notion of personal responsibility.",
+                "vi": "Như thế, niềm tin nơi định mệnh làm suy yếu đi khái niệm về trách nhiệm cá nhân."
+            }
+        },
+        {
+            "content": "làm hao mòn",
+            "type": "",
+            "example": {
+                "en": "that doubt would undermine them.",
+                "vi": "rằng sự nghi ngờ sẽ làm hao mòn chúng."
+            }
+        },
+        {
+            "content": "phá hoại",
+            "type": "noun",
+            "example": {
+                "en": "We don't want to undermine the veto of permanent members.",
+                "vi": "Chúng tôi không muốn ngầm phá hoại quyền phủ quyết của thành viên thường trực."
+            }
+        },
+        {
+            "content": "xói mòn chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đục khoét",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

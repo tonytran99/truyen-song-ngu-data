@@ -1,0 +1,39 @@
+{
+    "word": "catheter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaTHədər/",
+            "/ˈkæθədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaθətə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ống thông",
+            "type": "",
+            "example": {
+                "en": "This method uses a thin , flexible tube called a catheter .",
+                "vi": "Phương pháp này sử dụng một ống mỏng , mềm dẻo gọi là ống thông ."
+            }
+        },
+        {
+            "content": "ống thông đường tiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống xông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

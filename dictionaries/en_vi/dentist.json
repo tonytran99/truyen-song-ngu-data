@@ -1,0 +1,60 @@
+{
+    "word": "dentist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈden(t)əst/",
+            "/ˈdɛn(t)əst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛntɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thầy thuốc chữa răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nha sĩ",
+            "type": "noun",
+            "example": {
+                "en": "I don't want to go to the dentist.",
+                "vi": "Tôi không muốn đến nha sĩ."
+            }
+        },
+        {
+            "content": "nha sỹ",
+            "type": "",
+            "example": {
+                "en": "Today I went to the dentist's.",
+                "vi": "Hôm nay tôi đã đi đến gặp nha sỹ."
+            }
+        },
+        {
+            "content": "thợ trồng răng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nha sĩ",
+            "type": "",
+            "example": {
+                "en": "I don't want to go to the dentist.",
+                "vi": "Tôi không muốn đến nha sĩ."
+            }
+        },
+        {
+            "content": "thầy thuốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

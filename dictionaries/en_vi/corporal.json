@@ -1,0 +1,74 @@
+{
+    "word": "corporal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrp(ə)rəl/",
+            "/ˈkɔrp(ə)rəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːp(ə)r(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hạ sĩ",
+            "type": "noun",
+            "example": {
+                "en": "The corporal seems to be having an effect on all of us.",
+                "vi": "Có vẻ như tay hạ sĩ có ảnh hưởng lên tất cả chúng ta."
+            }
+        },
+        {
+            "content": "riêng",
+            "type": "",
+            "example": {
+                "en": "Mr. Saito, this isn't your typical corporate espionage.",
+                "vi": "Ông Saito, đây không phải là hoạt động riêng của tập đoàn ông."
+            }
+        },
+        {
+            "content": "hạ sỹ",
+            "type": "noun",
+            "example": {
+                "en": "If you would kinda tell him Corporal Thomas Doss would've appreciate a brief word.",
+                "vi": "Cô chuyển lời là Hạ Sỹ Thomas Doss muốn nói chuyện với ông ấy được không?"
+            }
+        },
+        {
+            "content": "cá nhân",
+            "type": "adjective noun",
+            "example": {
+                "en": "You'd be amazed what a private security corporation will do for the right price.",
+                "vi": "Cô sẽ ngạc nhiên khi thấy được bọn an ninh cá nhân sẽ làm khi trả đúng giá"
+            }
+        },
+        {
+            "content": "khăn thánh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thể xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc về thân thể",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

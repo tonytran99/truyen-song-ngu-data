@@ -1,0 +1,44 @@
+{
+    "word": "chopstick",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHäpˌstik/",
+            "/ˈtʃɑpˌstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɒpstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đũa",
+            "type": "noun",
+            "example": {
+                "en": "The boy tried eating with chopsticks.",
+                "vi": "Cậu bé thử ăn bằng đũa."
+            }
+        },
+        {
+            "content": "đũa cả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "𥮊",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "𥯖",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "unless",
+    "type": [
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈles/",
+            "/ənˈlɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈlɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trừ khi",
+            "type": "conjunction",
+            "example": {
+                "en": "I won’t forgive you unless you apologise sincerely.",
+                "vi": "Tôi sẽ không tha thứ cho bạn trừ khi bạn thành thật xin lỗi."
+            }
+        },
+        {
+            "content": "nếu",
+            "type": "conjunction",
+            "example": {
+                "en": "Because you know nothing's gonna come of this unless your pals succeed upstairs.",
+                "vi": "Vì ngươi biết sẽ chẳng làm gì được nếu bạn ngươi không thành công ở trên kia."
+            }
+        },
+        {
+            "content": "nếu không",
+            "type": "",
+            "example": {
+                "en": "What we know right now is we can't target them unless we have a plain line of sight.",
+                "vi": "Không thể tấn công chúng nếu không biết chúng ở đâu."
+            }
+        },
+        {
+            "content": "họa chăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừ phi",
+            "type": "conjunction",
+            "example": {
+                "en": "Other joints are usually not affected , unless an injury is involved .",
+                "vi": "Những khớp khác thường không bị viêm , trừ phi bị tổn thương ."
+            }
+        }
+    ]
+}

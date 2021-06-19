@@ -1,0 +1,34 @@
+{
+    "word": "cystitis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/siˈstīdəs/",
+            "/sɪˈstaɪdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈstʌɪtɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viêm bóng đái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "viêm bàng quang",
+            "type": "",
+            "example": {
+                "en": "The most common type of UTI is acute cystitis often referred to as a bladder infection .",
+                "vi": "Loại UTI thường gặp nhất là viêm bàng quang cấp thường được coi như chứng viêm bàng quang ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "equine",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekwīn/",
+            "/ˈɛkwaɪn/",
+            "/ˈēˌkwīn/",
+            "/ˈiˌkwaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːkwʌɪn/",
+            "/ˈiːkwʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngựa",
+            "type": "noun",
+            "example": {
+                "en": "His excellency's royal stables preserve the purest equine bloodline in the world.",
+                "vi": "Chuồng ngựa hoàng gia của ngài nuôi giữ giống ngựa thuần khiết nhất trên thế giới."
+            }
+        },
+        {
+            "content": "có tính chất ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "như ngựa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

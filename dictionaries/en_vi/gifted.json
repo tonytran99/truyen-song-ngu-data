@@ -1,0 +1,70 @@
+{
+    "word": "gifted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiftəd/",
+            "/ˈɡɪftəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪftɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tài",
+            "type": "adjective",
+            "example": {
+                "en": "Although she is young, but she is a gifted healer.",
+                "vi": "Mặc dù nó còn trẻ, nhưng nó có tài chăm sóc."
+            }
+        },
+        {
+            "content": "có năng khiếu",
+            "type": "",
+            "example": {
+                "en": "Alma was an exceptionally gifted and capable man.",
+                "vi": "An Ma là một người có năng khiếu và khả năng đặc biệt."
+            }
+        },
+        {
+            "content": "thiên tài",
+            "type": "",
+            "example": {
+                "en": "Or are we on the verge of all being gifted?",
+                "vi": "Hay là tất cả chúng ta sắp sửa trở thành thiên tài?"
+            }
+        },
+        {
+            "content": "tài giỏi",
+            "type": "adjective",
+            "example": {
+                "en": "You are far too gifted not to be with us.",
+                "vi": "Sẽ là mất mát cho trường ta nếu thiếu đi một sinh viên tài giỏi như cô."
+            }
+        },
+        {
+            "content": "tài năng",
+            "type": "adjective",
+            "example": {
+                "en": "Was it a product of his innate gifts?",
+                "vi": "Có phải là do tài năng bẩm sinh của ông?"
+            }
+        },
+        {
+            "content": "có khiếu",
+            "type": "",
+            "example": {
+                "en": "This is more like a hobby.But I am very gifted",
+                "vi": "Chuyện này nặng nề về sở thích nhiều hơn, nhưng tôi rất có khiếu"
+            }
+        }
+    ]
+}

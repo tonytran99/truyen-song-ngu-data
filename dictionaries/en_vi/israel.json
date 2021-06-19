@@ -1,0 +1,37 @@
+{
+    "word": "israel",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈizrēəl/",
+            "/ˈɪzriəl/",
+            "/ˈizˌrāl/",
+            "/ˈɪzˌreɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪzreɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân dân Do thái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "israel",
+            "type": "",
+            "example": {
+                "en": "Israel's manager is acting as his attorney.",
+                "vi": "Ông bầu của Israel cư xử như thể hắn là một thân chủ."
+            }
+        }
+    ]
+}

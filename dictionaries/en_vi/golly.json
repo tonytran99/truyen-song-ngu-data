@@ -1,0 +1,36 @@
+{
+    "word": "golly",
+    "type": [
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡälē/",
+            "/ˈɡɑli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trời",
+            "type": "adjective interjection noun",
+            "example": {}
+        },
+        {
+            "content": "chao ôi",
+            "type": "",
+            "example": {
+                "en": "Well, golly, they seem so...",
+                "vi": "Chao ôi, có vẻ như họ..."
+            }
+        }
+    ]
+}

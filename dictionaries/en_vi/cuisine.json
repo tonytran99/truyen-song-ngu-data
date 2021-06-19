@@ -1,0 +1,37 @@
+{
+    "word": "cuisine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kwəˈzēn/",
+            "/kwəˈzin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kwɪˈziːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cách nấu nướng",
+            "type": "",
+            "example": {
+                "en": "Wait till you see my repel cuisine!",
+                "vi": "Hãy chờ cho tới khi anh thấy cách nấu nướng ghê tởm của tôi."
+            }
+        },
+        {
+            "content": "ẩm thực",
+            "type": "noun",
+            "example": {
+                "en": "In traditional Japanese cuisine there is a progression in how the dishes are served.",
+                "vi": "Trong ẩm thực Nhật truyền thống, các món ăn phải làm theo trình tự."
+            }
+        }
+    ]
+}

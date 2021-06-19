@@ -1,0 +1,52 @@
+{
+    "word": "fraternity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frəˈtərnədē/",
+            "/frəˈtərnədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frəˈtəːnɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tình anh em",
+            "type": "noun",
+            "example": {
+                "en": "Being in a fraternity is about a lot more than just stepping.",
+                "vi": "Là tình anh em nó to lớn hơn rất nhiều so với stepping."
+            }
+        },
+        {
+            "content": "hữu ái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phường hội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hội nam sinh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hội",
+            "type": "verb",
+            "example": {
+                "en": "We just had a seminar on fraternization last week.",
+                "vi": "Chúng ta vừa có hội thảo về kết thân tuần trước."
+            }
+        }
+    ]
+}

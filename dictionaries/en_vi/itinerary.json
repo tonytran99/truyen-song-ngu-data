@@ -1,0 +1,65 @@
+{
+    "word": "itinerary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īˈtinəˌrerē/",
+            "/aɪˈtɪnəˌrɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪˈtɪn(ə)(rə)ri/",
+            "/ɪˈtɪn(ə)(rə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hành trình",
+            "type": "noun",
+            "example": {
+                "en": "I've got a couple families in the homestead who changed their itinerary.",
+                "vi": "Tôi đã có một vài gia đình trong trại người thay đổi hành trình của họ."
+            }
+        },
+        {
+            "content": "lộ trình",
+            "type": "noun",
+            "example": {
+                "en": "Funny, I didn't get an itinerary.",
+                "vi": "Hài hước thật, Tôi không nhận được lộ trình cơ."
+            }
+        },
+        {
+            "content": "lịch trình",
+            "type": "",
+            "example": {
+                "en": "Who prints out an itinerary for a night out?",
+                "vi": "Ai lại đi in lịch trình cho buổi tối hẹn hò chứ?"
+            }
+        },
+        {
+            "content": "con đường đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhật ký đi đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường đi",
+            "type": "noun",
+            "example": {
+                "en": "I'm gonna look for Adrian's itinerary.",
+                "vi": "Tôi sẽ lần theo đường đi nước bước của Adrian."
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "ensure",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈSHo͝or/",
+            "/ɪnˈʃʊr/",
+            "/enˈSHo͝or/",
+            "/ɛnˈʃʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈʃɔː/",
+            "/ɪnˈʃʊə/",
+            "/ɛnˈʃʊə/",
+            "/ɛnˈʃɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảo đảm",
+            "type": "verb",
+            "example": {
+                "en": "What is done to ensure that congregation funds are used appropriately?",
+                "vi": "Phải làm gì để bảo đảm ngân quỹ hội thánh được dùng đúng cách?"
+            }
+        },
+        {
+            "content": "bảo hiểm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giành được chắc chắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đảm bảo",
+            "type": "",
+            "example": {
+                "en": "And we can't ensure that anybody backing out remains healthy.",
+                "vi": "Và chúng tôi không thể đảm bảo rằng những ai rút lui vẫn còn sống."
+            }
+        }
+    ]
+}

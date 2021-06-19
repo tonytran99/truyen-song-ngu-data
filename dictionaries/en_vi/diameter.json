@@ -1,0 +1,42 @@
+{
+    "word": "diameter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈamədər/",
+            "/daɪˈæmədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈamɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường kính",
+            "type": "noun",
+            "example": {
+                "en": "A transcendental number whose value is the ratio high on any circumference to its diameter.",
+                "vi": "Một số siêu việt có giá trị là tỷ lệ giữa chu vi và đường kính hình tròn."
+            }
+        },
+        {
+            "content": "số phóng to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đường kính",
+            "type": "",
+            "example": {
+                "en": "The funnel's over a mile in diameter, sir.",
+                "vi": "Đường kính phễu hơn một dặm, thưa ông."
+            }
+        }
+    ]
+}

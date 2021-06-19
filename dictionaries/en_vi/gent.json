@@ -1,0 +1,45 @@
+{
+    "word": "gent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jent/",
+            "/dʒɛnt/",
+            "/KHent/",
+            "/xɛnt/",
+            "/ɡent/",
+            "/ɡɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɛnt/",
+            "/xɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngài",
+            "type": "noun",
+            "example": {
+                "en": "I say we take our chances with the gents in front of us.",
+                "vi": "Ta sẽ thử độ hên xui với những quý ngài trước mặt."
+            }
+        },
+        {
+            "content": "của gentleman",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhuôi &",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

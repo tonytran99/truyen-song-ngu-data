@@ -1,0 +1,43 @@
+{
+    "word": "charismatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkerəzˈmadik/",
+            "/ˌkɛrəzˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/karɪzˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {
+                "en": "We'd know a whole lot about charismatic megafauna,",
+                "vi": "Chúng ta biết rất nhiều loài động vật to lớn có sức lôi cuốn,"
+            }
+        },
+        {
+            "content": "thuyết phục",
+            "type": "",
+            "example": {
+                "en": "We speak in the tongues of charismatic leaders",
+                "vi": "Chúng ta nói với luận điệu thuyết phục như lãnh đạo"
+            }
+        },
+        {
+            "content": "Ân tứ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

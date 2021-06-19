@@ -1,0 +1,42 @@
+{
+    "word": "cliff",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klif/",
+            "/klɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vách đá",
+            "type": "noun",
+            "example": {
+                "en": "And I plan to start from a cliff, like catapulted from a cliff.",
+                "vi": "Và tôi dự định xuất phát từ một vách đá, giống như phóng ra từ một vách đá."
+            }
+        },
+        {
+            "content": "Bờ biển dốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bờ vực",
+            "type": "noun",
+            "example": {
+                "en": "So took a running leap and jumped over the edge of a cliff.",
+                "vi": "Thế là tôi nhảy việc và kiểu như nhảy ra khỏi bờ vực vậy."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "artificially",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ärdəˈfiSHəlē/",
+            "/ɑrdəˈfɪʃəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɑːtɪˈfɪʃ(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không tự nhiên",
+            "type": "",
+            "example": {
+                "en": "We keep it dark to create an artificial sleep cycle for the creature.",
+                "vi": "Chúng tôi giữ nó trong bóng tối để tạo ra một chu kỳ ngủ không tự nhiên cho sinh vật."
+            }
+        },
+        {
+            "content": "giả tạo",
+            "type": "",
+            "example": {
+                "en": "Being in the dictionary is an artificial distinction.",
+                "vi": "Hiện hữu trong từ điển chỉ là một sự phân biệt giả tạo."
+            }
+        },
+        {
+            "content": "gượng gạo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

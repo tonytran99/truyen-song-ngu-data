@@ -1,0 +1,52 @@
+{
+    "word": "vanguard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvanˌɡärd/",
+            "/ˈvænˌɡɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvanɡɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiên phong",
+            "type": "adjective",
+            "example": {
+                "en": "I'm the man you want leading the vanguard.",
+                "vi": "Ta là người cậu muốn lãnh đạo đội tiên phong."
+            }
+        },
+        {
+            "content": "quân tiên phong",
+            "type": "noun",
+            "example": {
+                "en": "We'll be at the vanguard tomorrow.",
+                "vi": "Ngày mai chúng ta sẽ là quân tiên phong."
+            }
+        },
+        {
+            "content": "những người tiên phong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền đội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người đi tiên phong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

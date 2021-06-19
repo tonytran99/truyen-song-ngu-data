@@ -1,0 +1,50 @@
+{
+    "word": "frequency",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrēkwənsē/",
+            "/ˈfrikwənsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfriːkw(ə)nsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tần số",
+            "type": "noun",
+            "example": {
+                "en": "Well, now take that frequency and see if you can amplify it.",
+                "vi": "Bây giờ, sử dụng tần số đó, và thử tăng nó lên."
+            }
+        },
+        {
+            "content": "tính thường xuyên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dải tần",
+            "type": "",
+            "example": {
+                "en": "Now imagine your ears were only sensitive to a very limited range of frequencies.",
+                "vi": "Bây giờ hãy tưởng tượng tai bạn chỉ nhạy cảm với một dải tần số rất hạn chế."
+            }
+        },
+        {
+            "content": "tần suất",
+            "type": "",
+            "example": {
+                "en": "Here is the frequency adverb and here is the verb.",
+                "vi": "Đây là trạng từ tần suất và đây là động từ."
+            }
+        }
+    ]
+}

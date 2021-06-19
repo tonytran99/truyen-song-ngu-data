@@ -1,0 +1,53 @@
+{
+    "word": "differently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdif(ə)rəntlē/",
+            "/ˈdɪf(ə)rəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪf(ə)r(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác",
+            "type": "adjective",
+            "example": {
+                "en": "There are significant differences between those two countries.",
+                "vi": "Có những khác biệt rõ rệt giữa hai quốc gia."
+            }
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "There are significant differences between those two countries.",
+                "vi": "Có những khác biệt rõ rệt giữa hai quốc gia."
+            }
+        },
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "What's the difference between a village and a town?",
+                "vi": "Ngôi làng và thị trấn khác nhau chỗ nào?"
+            }
+        },
+        {
+            "content": "một cách khác biệt",
+            "type": "adverb",
+            "example": {
+                "en": "They're going to think about it differently.",
+                "vi": "Họ sẽ nghĩ về chúng một cách khác biệt."
+            }
+        }
+    ]
+}

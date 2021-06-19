@@ -1,0 +1,56 @@
+{
+    "word": "vacate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvāˌkāt/",
+            "/ˈveɪˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/veɪˈkeɪt/",
+            "/vəˈkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ trống",
+            "type": "",
+            "example": {
+                "en": "Ideally, we'd like the Russians to vacate the region.",
+                "vi": "Lý tưởng nhất là người Nga sẽ bỏ trống khu vực đó."
+            }
+        },
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "Ideally, we'd like the Russians to vacate the region.",
+                "vi": "Lý tưởng nhất là người Nga sẽ bỏ trống khu vực đó."
+            }
+        },
+        {
+            "content": "thôi",
+            "type": "verb noun",
+            "example": {
+                "en": "However, I was able to return there only during school vacations.",
+                "vi": "Tuy nhiên, tôi chỉ có thể trở về đó vào kỳ hè mà thôi."
+            }
+        },
+        {
+            "content": "bỏ không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xin thôi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

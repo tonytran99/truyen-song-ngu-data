@@ -1,0 +1,53 @@
+{
+    "word": "factorial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakˈtôrēəl/",
+            "/fækˈtɔriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakˈtɔːrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giai thừa",
+            "type": "noun",
+            "example": {
+                "en": "if you remember your factorials.",
+                "vi": "nếu bạn còn nhớ số giai thừa."
+            }
+        },
+        {
+            "content": "nhân tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc thừa số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thừa số",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Giai thừa",
+            "type": "",
+            "example": {
+                "en": "if you remember your factorials.",
+                "vi": "nếu bạn còn nhớ số giai thừa."
+            }
+        }
+    ]
+}

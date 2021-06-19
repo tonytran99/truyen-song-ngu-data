@@ -1,0 +1,101 @@
+{
+    "word": "challenge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHalənj/",
+            "/ˈtʃæləndʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃalɪn(d)ʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thách thức",
+            "type": "verb",
+            "example": {
+                "en": "So there's a huge scientific challenge, but there's a huge economic challenge too.",
+                "vi": "Vì thế, có một thách thức lớn đối với khoa học và cả đối với nền kinh tế."
+            }
+        },
+        {
+            "content": "thách",
+            "type": "verb",
+            "example": {
+                "en": "The challenges and difficulties were not immediately removed from the people.",
+                "vi": "Những thử thách và khó khăn không phải được cất ngay lập tức khỏi những người này."
+            }
+        },
+        {
+            "content": "thách đố",
+            "type": "",
+            "example": {
+                "en": "Still, talking to your peers about religion may seem like a daunting challenge.",
+                "vi": "Dù sao đi nữa, nói với bạn học về tôn giáo có thể là một thách đố."
+            }
+        },
+        {
+            "content": "thử thách",
+            "type": "noun, verb",
+            "example": {
+                "en": "I love a challenge, and saving the Earth is probably a good one.",
+                "vi": "Tôi thích thử thách, và cứu lấy Trái đất có lẽ là một thử thách hay."
+            }
+        },
+        {
+            "content": "sự thách thức",
+            "type": "",
+            "example": {
+                "en": "But now, I think, the dilemma is the cultural challenge.",
+                "vi": "Nhưng, tôi nghĩ rằng, tình thế lưỡng nan hiện nay chính là sự thách thức văn hóa."
+            }
+        },
+        {
+            "content": "thách đấu",
+            "type": "",
+            "example": {
+                "en": "I accept your challenge, if only to personally ripped the heart out of your pathetic body.",
+                "vi": "Ta chấp nhận thách đấu. để chính tay ta moi tim từ cơ thể thảm hại của ngươi."
+            }
+        },
+        {
+            "content": "hiệu lệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yêu cầu",
+            "type": "verb",
+            "example": {
+                "en": "Many have accepted the challenge and been blessed.",
+                "vi": "Nhiều tín hữu đã chấp nhận lời yêu cầu đó và đã được ban phước."
+            }
+        },
+        {
+            "content": "đòi hỏi",
+            "type": "",
+            "example": {
+                "en": "But the challenges and the opportunities ahead will require even more.",
+                "vi": "Nhưng những khó khăn và cơ hội trong tương lai thậm chí còn đòi hỏi chúng ta nhiều hơn nữa."
+            }
+        }
+    ]
+}

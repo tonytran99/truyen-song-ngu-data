@@ -1,0 +1,49 @@
+{
+    "word": "diary",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdī(ə)rē/",
+            "/ˈdaɪ(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sổ nhật ký",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhật ký",
+            "type": "noun",
+            "example": {
+                "en": "Because, you know, my diary is pretty full.",
+                "vi": "Anh biết nhật ký của tôi đầy rồi mà."
+            }
+        },
+        {
+            "content": "lịch ghi nhớ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nhật ký",
+            "type": "",
+            "example": {
+                "en": "A plan from a book called the Turner diaries.",
+                "vi": "Một âm mưu từ một cuốn sách tên là \" Nhật ký Turner \"."
+            }
+        }
+    ]
+}

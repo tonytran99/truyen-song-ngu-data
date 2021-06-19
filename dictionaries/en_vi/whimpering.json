@@ -1,0 +1,43 @@
+{
+    "word": "whimpering",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)wimp(ə)riNG/",
+            "/ˈ(h)wɪmp(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪmpərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khóc thút thít",
+            "type": "",
+            "example": {
+                "en": "A flabby failure who sits whimpering in his basement.",
+                "vi": "Một tên thất bại ẻo lả khóc thút thít trong căn hầm của hắn."
+            }
+        },
+        {
+            "content": "ri rí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rên rỉ",
+            "type": "",
+            "example": {
+                "en": "Listened to his ragged little breaths, his coughing, his whimpering.",
+                "vi": "Lắng nghe hơi thở nhỏ, không liền mạch của nó, tiếng ho, tiếng rên rỉ của nó."
+            }
+        }
+    ]
+}

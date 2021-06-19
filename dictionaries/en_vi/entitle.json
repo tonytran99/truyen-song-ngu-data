@@ -1,0 +1,40 @@
+{
+    "word": "entitle",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtīdl/",
+            "/ɪnˈtaɪdl/",
+            "/enˈtīdl/",
+            "/ɛnˈtaɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtʌɪt(ə)l/",
+            "/ɛnˈtʌɪt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {
+                "en": "Let me be clear, you are entitled to nothing.",
+                "vi": "Cho phép tôi nói rõ, các bạn không được quyền gì cả."
+            }
+        },
+        {
+            "content": "được phép",
+            "type": "",
+            "example": {
+                "en": "Who is entitled to enjoy it?",
+                "vi": "Ai được phép tận hưởng nó?"
+            }
+        }
+    ]
+}

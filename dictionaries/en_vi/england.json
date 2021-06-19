@@ -1,0 +1,30 @@
+{
+    "word": "england",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiNG(ɡ)lənd/",
+            "/ˈɪŋ(ɡ)lənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪŋɡlənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh",
+            "type": "pronoun noun",
+            "example": {
+                "en": "What he said about England is true.",
+                "vi": "Những điều anh ta đã nói về nước Anh là đúng."
+            }
+        }
+    ]
+}

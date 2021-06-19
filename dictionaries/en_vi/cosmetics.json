@@ -1,0 +1,34 @@
+{
+    "word": "cosmetics",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "mỹ dung phẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỹ phẩm",
+            "type": "",
+            "example": {
+                "en": "Which of the following is the most common injury from cosmetics ?",
+                "vi": "Tổn thương do mỹ phẩm nào dưới đây là thường thấy nhất ?"
+            }
+        },
+        {
+            "content": "phấn sáp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "Mỹ phẩm",
+            "type": "",
+            "example": {
+                "en": "Hypoallergenic cosmetic products do n't cause allergic reactions .",
+                "vi": "Mỹ phẩm có nhãn không dị ứng thì không gây dị ứng ."
+            }
+        }
+    ]
+}

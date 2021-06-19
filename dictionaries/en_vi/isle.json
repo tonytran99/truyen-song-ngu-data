@@ -1,0 +1,47 @@
+{
+    "word": "isle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īl/",
+            "/aɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đảo",
+            "type": "noun",
+            "example": {
+                "en": "They helped the king named Arthur bring peace to the whole isle.",
+                "vi": "Chúng giúp vị Vua tên Arthur duy trì hoà bình trên toàn hòn đảo."
+            }
+        },
+        {
+            "content": "cù lao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hòn đảo",
+            "type": "noun",
+            "example": {
+                "en": "They helped the king named Arthur bring peace to the whole isle.",
+                "vi": "Chúng giúp vị Vua tên Arthur duy trì hoà bình trên toàn hòn đảo."
+            }
+        },
+        {
+            "content": "hòn đảo nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

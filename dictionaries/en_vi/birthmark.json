@@ -1,0 +1,42 @@
+{
+    "word": "birthmark",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərTHˌmärk/",
+            "/ˈbərθˌmɑrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːθmɑːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nốt ruồi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vết bớt",
+            "type": "noun",
+            "example": {
+                "en": "She showed me your birthmark and said, \" You must find him.",
+                "vi": "Trước lúc lâm chung, mẫu thân dùng máu vẽ cho ta xem vết bớt của huynh."
+            }
+        },
+        {
+            "content": "vết chàm",
+            "type": "noun",
+            "example": {
+                "en": "I have a distinctive red birthmark on my scalp that matches a certain friend of the family.",
+                "vi": "Tôi có một vết chàm đặc biệt ở da đầu khớp với một người bạn gia đình."
+            }
+        }
+    ]
+}

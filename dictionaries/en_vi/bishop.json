@@ -1,0 +1,64 @@
+{
+    "word": "bishop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbiSHəp/",
+            "/ˈbɪʃəp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪʃəp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giám mục",
+            "type": "noun",
+            "example": {
+                "en": "Some priests and bishops paid for their appointment.",
+                "vi": "Một số các linh mục và giám mục mua được chức vị của mình."
+            }
+        },
+        {
+            "content": "sĩ",
+            "type": "adjective Suffix noun",
+            "example": {
+                "en": "Have you seen Doc Bishop yet?",
+                "vi": "Anh gặp bác sĩ Bishop chưa?"
+            }
+        },
+        {
+            "content": "cha cả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân \"giám mục\"",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tượng",
+            "type": "",
+            "example": {
+                "en": "Bishop to bishop seven.",
+                "vi": "Tượng đến ô C7."
+            }
+        },
+        {
+            "content": "Giám mục",
+            "type": "",
+            "example": {
+                "en": "The bishop broke his vows to tell me this.",
+                "vi": "Người Giám Mục đó đã vi phạm lời nguyền để tiết lộ điều đó."
+            }
+        }
+    ]
+}

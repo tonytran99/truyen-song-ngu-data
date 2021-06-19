@@ -1,0 +1,59 @@
+{
+    "word": "falsify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôlsəˌfī/",
+            "/ˈfɔlsəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːlsɪfʌɪ/",
+            "/ˈfɒlsɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả mạo",
+            "type": "verb",
+            "example": {
+                "en": "Alison Gopnik: Okay, so his first hypothesis has just been falsified.",
+                "vi": "Alison Gopnik: Uhm, vậy giả thuyết đầu tiên của cậu bé đã bị giả mạo."
+            }
+        },
+        {
+            "content": "bóp méo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả",
+            "type": "",
+            "example": {
+                "en": "All the movements stopped at falsifying.",
+                "vi": "Hoạt động làm giả không có cải tiến nào thêm."
+            }
+        },
+        {
+            "content": "làm sai lệch",
+            "type": "",
+            "example": {
+                "en": "I needed to backstop him, so I falsified his travel records.",
+                "vi": "Tôi cần phải hỗ trợ anh ấy, nên tôi đã làm sai lệch hồ sơ."
+            }
+        },
+        {
+            "content": "xuyên tạc",
+            "type": "verb",
+            "example": {
+                "en": "I have seen you stretch the truth, falsify environmental protection reports, and lie to the media.",
+                "vi": "Tôi đã thấy anh thổi phồng sự thật, cố ý xuyên tạc các báo cáo bảo vệ môi trường và nói dối truyền thông."
+            }
+        }
+    ]
+}

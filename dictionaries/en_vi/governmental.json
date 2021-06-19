@@ -1,0 +1,45 @@
+{
+    "word": "governmental",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡəvər(n)ˈmen(t)əl/",
+            "/ˌɡəvər(n)ˈmɛn(t)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡʌv(ə)nˈmɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính phủ",
+            "type": "noun",
+            "example": {
+                "en": "Rand Enterprises cannot be held responsible for governmental guidelines.",
+                "vi": "Tập đoàn Rand không thể chịu trách nhiệm về những hướng dẫn của chính phủ."
+            }
+        },
+        {
+            "content": "chính quyền",
+            "type": "",
+            "example": {
+                "en": "Some may be enduring persecution, governmental bans, or natural disasters.",
+                "vi": "Có lẽ một số anh chị đang bị ngược đãi, bị chính quyền cấm đoán hoặc chịu mất mát do thiên tai."
+            }
+        },
+        {
+            "content": "thuộc chính quyền",
+            "type": "",
+            "example": {
+                "en": "Jehovah’s Witnesses view the United Nations organization as they do other governmental bodies of the world.",
+                "vi": "Nhân-chứng Giê-hô-va xem tổ chức Liên Hiệp Quốc cũng như họ xem các thành phần thuộc chính quyền khác trên thế giới."
+            }
+        }
+    ]
+}

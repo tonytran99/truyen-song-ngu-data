@@ -1,0 +1,61 @@
+{
+    "word": "yarn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yärn/",
+            "/jɑrn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɑːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sợi",
+            "type": "noun",
+            "example": {
+                "en": "The distaff and the spindle were sticks used to spin or make thread and yarn.",
+                "vi": "Con quay và con suốt là những cây que dùng để xe sợi hoặc làm chỉ."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "noun",
+            "example": {
+                "en": "The striped cat is playing with red yarn.",
+                "vi": "Con mèo lông vằn đang chơi cùng cuộn chỉ đỏ."
+            }
+        },
+        {
+            "content": "chuyện bịa",
+            "type": "",
+            "example": {
+                "en": "Was there any truth at all in that yarn?",
+                "vi": "Rốt cuộc rồi thì có chút sự thật nào trong câu chuyện bịa đặt đó không?"
+            }
+        },
+        {
+            "content": "chuyện huyên thiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kể chuyện bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện huyên thiên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

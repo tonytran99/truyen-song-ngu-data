@@ -1,0 +1,51 @@
+{
+    "word": "indebted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdedəd/",
+            "/ɪnˈdɛdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdɛtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mang ơn",
+            "type": "",
+            "example": {
+                "en": "Why should we feel indebted to our parents?",
+                "vi": "Tại sao chúng ta phải cảm thấy mang ơn cha mẹ?"
+            }
+        },
+        {
+            "content": "hàm ơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc nợ",
+            "type": "",
+            "example": {
+                "en": "Rome is most indebted to you noble knights.",
+                "vi": "Rome mắc nợ mọi người."
+            }
+        },
+        {
+            "content": "đội ơn",
+            "type": "",
+            "example": {
+                "en": "Arendelle is indebted to you, Your Highness.",
+                "vi": "Arendelle đội ơn người, thưa Hoàng tử."
+            }
+        }
+    ]
+}

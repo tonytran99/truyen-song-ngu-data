@@ -1,0 +1,39 @@
+{
+    "word": "tsunami",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(t)so͞oˈnämē/",
+            "/(t)suˈnɑmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tsuːˈnɑːmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sóng thần",
+            "type": "noun",
+            "example": {
+                "en": "The day of the tsunami, he'd actually been in charge of making sure the tsunami gates were closed.",
+                "vi": "Ngày xảy ra sóng thần, anh chịu trách nhiệm đóng chặt cửa chắn sóng thần."
+            }
+        },
+        {
+            "content": "sunami",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sóng lớn ở đại dương",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

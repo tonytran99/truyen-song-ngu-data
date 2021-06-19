@@ -1,0 +1,47 @@
+{
+    "word": "trustful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrəs(t)fəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrʌs(t)fʊl/",
+            "/ˈtrʌs(t)f(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hay tin cậy",
+            "type": "",
+            "example": {
+                "en": "We cannot truly love or trust a stranger.",
+                "vi": "Chúng ta không thể thật lòng yêu thương hay tin cậy một người lạ."
+            }
+        },
+        {
+            "content": "hay tín nhiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nghi ngờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tin người",
+            "type": "",
+            "example": {
+                "en": "Never trust a stranger.",
+                "vi": "Đừng tin người lạ."
+            }
+        }
+    ]
+}

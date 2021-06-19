@@ -1,0 +1,60 @@
+{
+    "word": "converge",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvərj/",
+            "/kənˈvərdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvəːdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hội tụ",
+            "type": "",
+            "example": {
+                "en": "We'll all try to converge at the same time.",
+                "vi": "Chúng ta sẽ cố gắng hội tụ để bay cùng lúc."
+            }
+        },
+        {
+            "content": "đồng quy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quy",
+            "type": "noun",
+            "example": {
+                "en": "We simply must converge",
+                "vi": "Chúng ta phải quy về"
+            }
+        },
+        {
+            "content": "cùng kéo về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng đổ về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập trung",
+            "type": "",
+            "example": {
+                "en": "Sir, we have multiple bogies converging on our starboard flank.",
+                "vi": "Thưa ngài, chúng ta có một số kẻ địch tập trung ở mạn phải tàu."
+            }
+        }
+    ]
+}

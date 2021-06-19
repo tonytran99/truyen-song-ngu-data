@@ -1,0 +1,68 @@
+{
+    "word": "coo",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͞o/",
+            "/ku/",
+            "/ˌsēˌōˈō/",
+            "/ˌsiˌoʊˈoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kuː/",
+            "/siːəʊˈəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gù",
+            "type": "verb",
+            "example": {
+                "en": "And cooing mournfully like doves.",
+                "vi": "Cứ kêu gù gù thảm thương như chim bồ câu."
+            }
+        },
+        {
+            "content": "gáy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhỏ to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói thì thầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rú rí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rủ rỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủ thỉ",
+            "type": "",
+            "example": {
+                "en": "Babies usually love vocal sounds , such as talking , bab bling , singing , and cooing .",
+                "vi": "Trẻ sơ sinh thường thích nghe âm thanh , như là tiếng nói , tiếng bi bô , hát và thủ thỉ ."
+            }
+        }
+    ]
+}

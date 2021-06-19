@@ -1,0 +1,101 @@
+{
+    "word": "intermittent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈmitnt/",
+            "/ˌɪn(t)ərˈmɪtnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈmɪt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gián đoạn",
+            "type": "adjective",
+            "example": {
+                "en": "You have an intermittent tremor in your left hand.",
+                "vi": "Anh có một cơn run rẩy gián đoạn trên tay trái."
+            }
+        },
+        {
+            "content": "lúc chảy lúc không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhẳn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chạy trục trặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách quãng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có nước theo vụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gián cách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lúc có lúc không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sập sùi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thỉnh thoảng lại ngừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từng cơn",
+            "type": "",
+            "example": {
+                "en": "Now, since you haven't been hit by a bus, I assume that it's intermittent.",
+                "vi": "nên tôi nghĩ cậu bị từng cơn bệnh gián đoạn."
+            }
+        },
+        {
+            "content": "từng hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứt đoạn",
+            "type": "adjective",
+            "example": {
+                "en": "During the test ride, he had heard an intermittent grinding sound.",
+                "vi": "Trong lúc lái thử, anh ta đã nghe một tiếng nghiến rít đứt đoạn."
+            }
+        },
+        {
+            "content": "không liên tục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

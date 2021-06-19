@@ -1,0 +1,34 @@
+{
+    "word": "campanile",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkampəˈnēlē/",
+            "/ˌkæmpəˈnili/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkampəˈniːleɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gác chuông",
+            "type": "noun",
+            "example": {
+                "en": "Everybody know what time it is, on the campanile.",
+                "vi": "Ai cũng biết mấy giờ, ở trên gác chuông."
+            }
+        },
+        {
+            "content": "lầu chuông",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

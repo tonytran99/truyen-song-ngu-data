@@ -1,0 +1,258 @@
+{
+    "word": "dash",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daSH/",
+            "/dæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nét",
+            "type": "",
+            "example": {
+                "en": "Little blue cod swimming in for a dash of color.",
+                "vi": "Cá tuyết xanh nhỏ bơi như nét vẽ của mầu sắc."
+            }
+        },
+        {
+            "content": "lao tới",
+            "type": "",
+            "example": {
+                "en": "The dashing horse and the bounding chariot.",
+                "vi": "Ngựa phi nước đại, chiến xa lao tới."
+            }
+        },
+        {
+            "content": "sự hăng hái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "va mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xông tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xô",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ít",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đụng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dashboard",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giội",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chút xíu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chút ít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc đua ngắn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dáng chưng diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dấu gạch ngang",
+            "type": "",
+            "example": {
+                "en": "One guy uses dashes while The other uses ellipses. Heh.",
+                "vi": "1 người dùng dấu gạch ngang trong khi người kia dùng dấu chấm."
+            }
+        },
+        {
+            "content": "gạch ngang",
+            "type": "",
+            "example": {
+                "en": "One guy uses dashes while The other uses ellipses. Heh.",
+                "vi": "1 người dùng dấu gạch ngang trong khi người kia dùng dấu chấm."
+            }
+        },
+        {
+            "content": "làm bối rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chán nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lúng túng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tan nát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tan vỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất vọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tiêu tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghị lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảy bổ tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ném mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nét viết nhanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hăm hở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lao tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhảy bổ vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự va chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xông tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đụng mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng nước vỗ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng nước vỗ bờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính kiên quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính táo bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "văng mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẻ phô trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đập vỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đụng mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một chút",
+            "type": "",
+            "example": {
+                "en": "Says he always adds a dash of chilli powder.",
+                "vi": "Nó bảo hắn luôn thêm vào một chút bột ớt."
+            }
+        },
+        {
+            "content": "đập mạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

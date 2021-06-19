@@ -1,0 +1,53 @@
+{
+    "word": "bash",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baSH/",
+            "/bæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh mạnh",
+            "type": "",
+            "example": {
+                "en": "bashed it so hard they thought it was going to break.",
+                "vi": "đánh mạnh đến nỗi họ nghĩ rằng nó sắp vỡ mất."
+            }
+        },
+        {
+            "content": "đập mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú đánh mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "va mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh vào",
+            "type": "",
+            "example": {
+                "en": "If you get cornered, bash them in the head.",
+                "vi": "Nếu bị tấn công thì đánh vào đầu chúng."
+            }
+        }
+    ]
+}

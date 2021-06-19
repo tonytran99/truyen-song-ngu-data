@@ -1,0 +1,50 @@
+{
+    "word": "clad",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klad/",
+            "/klæd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klad/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phủ",
+            "type": "noun",
+            "example": {
+                "en": "the fact that the cladding doesn't last very long,",
+                "vi": "việc những lớp phủ ngoài không kéo dài được lâu"
+            }
+        },
+        {
+            "content": "che phủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc quần áo cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao bọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc quần áo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

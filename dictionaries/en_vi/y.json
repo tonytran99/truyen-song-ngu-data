@@ -1,0 +1,43 @@
+{
+    "word": "y",
+    "type": [
+        "Letter",
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yes/",
+            "/jɛs/",
+            "/wī/",
+            "/waɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "y",
+            "type": "noun",
+            "example": {
+                "en": "Now do not kill people but y blink",
+                "vi": "Nhưng y lại giết người không chớp mắt"
+            }
+        },
+        {
+            "content": "vật hình Y",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩn số y",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

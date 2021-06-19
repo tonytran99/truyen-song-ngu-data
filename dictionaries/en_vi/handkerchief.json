@@ -1,0 +1,46 @@
+{
+    "word": "handkerchief",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaNGkərCHif/",
+            "/ˈhæŋkərtʃɪf/",
+            "/ˈhaNGkərCHēf/",
+            "/ˈhæŋkərtʃif/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaŋkətʃɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khăn tay",
+            "type": "noun",
+            "example": {
+                "en": "We'll put up our handkerchiefs if we have to.",
+                "vi": "Dùng luôn cả khăn tay nữa, nếu cần."
+            }
+        },
+        {
+            "content": "khăn mùi soa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khăn vuông quàng cổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khăn vuông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

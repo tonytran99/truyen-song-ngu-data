@@ -1,0 +1,52 @@
+{
+    "word": "bleach",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blēCH/",
+            "/blitʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bliːtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuội",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tẩy trắng",
+            "type": "",
+            "example": {
+                "en": "this is coral bleaching. It's a beautiful picture, right?",
+                "vi": "Đây là tẩy trắng san hô. Nó là 1 bức tranh đẹp, đúng không?"
+            }
+        },
+        {
+            "content": "chất tẩy trắng",
+            "type": "",
+            "example": {
+                "en": "Some of you may want the toilet paper with the most bleach in it rather than the most ecologically responsible choice.",
+                "vi": "Một số bạn có thể muốn loại giấy vệ sinh có nhiều chất tẩy trắng nhất hơn là loại thân thiện nhất với mội trường."
+            }
+        },
+        {
+            "content": "thuốc tẩy",
+            "type": "",
+            "example": {
+                "en": "I mean, this isn't hydrochloride or bleach.",
+                "vi": "Không phải mực tàu hay thuốc tẩy đâu."
+            }
+        }
+    ]
+}

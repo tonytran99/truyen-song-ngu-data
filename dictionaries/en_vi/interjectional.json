@@ -1,0 +1,39 @@
+{
+    "word": "interjectional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈjekSH(ə)nl/",
+            "/ˌɪn(t)ərˈdʒɛkʃ(ə)nl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈdʒɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảm thán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói xen vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thán từ",
+            "type": "noun",
+            "example": {
+                "en": "Well, technically \" uh \" and \" oh \" aren't words, they're interjections-",
+                "vi": "Nghiêm túc mà nói thì \" uh \" và \" oh \" không phải là từ, chúng là thán từ-"
+            }
+        }
+    ]
+}

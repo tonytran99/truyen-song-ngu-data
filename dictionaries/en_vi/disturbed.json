@@ -1,0 +1,58 @@
+{
+    "word": "disturbed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstərbd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstəːbd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băn khoăn",
+            "type": "",
+            "example": {
+                "en": "I was disturbed and concerned.",
+                "vi": "Tôi cảm thấy băn khoăn và lo lắng."
+            }
+        },
+        {
+            "content": "bận tâm",
+            "type": "adjective",
+            "example": {
+                "en": "What's really disturbing is the trend line that goes through that",
+                "vi": "Điều đáng bận tâm là đồ thị chỉ ra khuynh hướng"
+            }
+        },
+        {
+            "content": "bị nhiễu loạn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bối rối",
+            "type": "adjective",
+            "example": {
+                "en": "Tom is very disturbed.",
+                "vi": "Tom cực kỳ bối rối."
+            }
+        },
+        {
+            "content": "hoảng loạn",
+            "type": "",
+            "example": {
+                "en": "I am too disturbed to see.",
+                "vi": "Tôi quá hoảng loạn, chẳng còn thấy chi."
+            }
+        }
+    ]
+}

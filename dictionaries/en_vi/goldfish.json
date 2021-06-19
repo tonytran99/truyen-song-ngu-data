@@ -1,0 +1,37 @@
+{
+    "word": "goldfish",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡōl(d)fiSH/",
+            "/ˈɡoʊl(d)fɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəʊl(d)fɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá vàng",
+            "type": "noun",
+            "example": {
+                "en": "The only family you've got is a goldfish.",
+                "vi": "Gia đình theo kiểu mày là có một con cá vàng."
+            }
+        },
+        {
+            "content": "Cá vàng",
+            "type": "",
+            "example": {
+                "en": "A goldfish has a memory span of three seconds .",
+                "vi": "Cá vàng có khả năng ghi nhớ thông tin trong thời gian ngắn 3 giây ."
+            }
+        }
+    ]
+}

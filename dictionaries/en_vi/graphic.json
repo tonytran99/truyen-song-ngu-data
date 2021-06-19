@@ -1,0 +1,64 @@
+{
+    "word": "graphic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrafik/",
+            "/ˈɡræfɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrafɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh động",
+            "type": "",
+            "example": {
+                "en": "Wow, this is graphic.",
+                "vi": "Ooaa, thật sinh động."
+            }
+        },
+        {
+            "content": "đồ họa",
+            "type": "adjective",
+            "example": {
+                "en": "And that animated graphics can make a difference.",
+                "vi": "Và tôi bảo rằng đồ họa ảnh động có thể tạo ra sự khác biệt."
+            }
+        },
+        {
+            "content": "đồ thị",
+            "type": "",
+            "example": {
+                "en": "No. This is a graphic of the world according to Twitter.",
+                "vi": "Không. Đây là đồ thị của thế giới theo thống kê của Twitter."
+            }
+        },
+        {
+            "content": "chữ viết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình chữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạo hình",
+            "type": "",
+            "example": {
+                "en": "Meanwhile, I completed my schooling by studying illustration and graphic arts.",
+                "vi": "Trong lúc đó, tôi học xong ngành nghệ thuật minh họa và tạo hình."
+            }
+        }
+    ]
+}

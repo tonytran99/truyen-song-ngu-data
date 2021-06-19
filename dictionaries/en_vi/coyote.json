@@ -1,0 +1,53 @@
+{
+    "word": "coyote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkīˌōt/",
+            "/ˈkaɪˌoʊt/",
+            "/kīˈōdē/",
+            "/kaɪˈoʊdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔɪˈəʊti/",
+            "/kʌɪˈəʊti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chó sói đồng cỏ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kẻ vô lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người vô loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sói đồng cỏ",
+            "type": "",
+            "example": {
+                "en": "Must have been a coyote, or something like that.",
+                "vi": "Chắc là một con sói đồng cỏ, hoặc gì đó tương tự."
+            }
+        },
+        {
+            "content": "sói đồng cỏ bắc mỹ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

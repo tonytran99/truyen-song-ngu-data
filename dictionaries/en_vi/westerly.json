@@ -1,0 +1,41 @@
+{
+    "word": "westerly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwestərlē/",
+            "/ˈwɛstərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛstəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ hướng tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về hướng tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tây",
+            "type": "adjective noun",
+            "example": {
+                "en": "Senegal is located on the most westerly tip of Africa.",
+                "vi": "Senegal nằm ở mạn cực tây Châu Phi."
+            }
+        }
+    ]
+}

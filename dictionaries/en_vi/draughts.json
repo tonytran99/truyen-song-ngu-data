@@ -1,0 +1,38 @@
+{
+    "word": "draughts",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/draf(t)s/",
+            "/dræf(t)s/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɑːfts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cờ đam",
+            "type": "plural",
+            "example": {
+                "en": "where it had to play draughts with Helen of Troy.",
+                "vi": "trong đó nó phải chơi cờ đam với nàng Helen thành Troy."
+            }
+        },
+        {
+            "content": "Cờ đam",
+            "type": "",
+            "example": {
+                "en": "where it had to play draughts with Helen of Troy.",
+                "vi": "trong đó nó phải chơi cờ đam với nàng Helen thành Troy."
+            }
+        }
+    ]
+}

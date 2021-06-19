@@ -1,0 +1,44 @@
+{
+    "word": "foreword",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌwərd/",
+            "/ˈfɔrˌwərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːwəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời tựa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lời nói đầu",
+            "type": "noun",
+            "example": {
+                "en": "Discuss comments from the foreword, pages 3-4.",
+                "vi": "Thảo luận lời nói đầu nơi trang 3 và 4."
+            }
+        },
+        {
+            "content": "phi lộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phàm lệ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

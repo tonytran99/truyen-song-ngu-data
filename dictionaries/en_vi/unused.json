@@ -1,0 +1,50 @@
+{
+    "word": "unused",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈyo͞ozd/",
+            "/ˌənˈjuzd/",
+            "/ˌənˈyo͞ost/",
+            "/ˌənˈjust/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈjuːzd/",
+            "/ʌnˈjuːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa dùng đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không dùng",
+            "type": "",
+            "example": {
+                "en": "At the end of the day, the unused hours are gone forever.",
+                "vi": "Đến cuối ngày, những giờ không dùng đã trôi đi mất, không bao giờ trở lại."
+            }
+        },
+        {
+            "content": "không quen",
+            "type": "",
+            "example": {
+                "en": "You are quite unused to physical labor, no?",
+                "vi": "Cô không quen với việc lao động tay chân đúng không?"
+            }
+        }
+    ]
+}

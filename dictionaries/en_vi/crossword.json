@@ -1,0 +1,44 @@
+{
+    "word": "crossword",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrôswərd/",
+            "/ˈkrɔswərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɒswəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trò chơi ô chữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ô chữ",
+            "type": "",
+            "example": {
+                "en": "Guess that means we're doing the crossword in the car.",
+                "vi": "Chắc chúng ta phải giải ô chữ trên xe rồi."
+            }
+        },
+        {
+            "content": "Trò chơi ô chữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò chơi ô chư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

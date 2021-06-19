@@ -1,0 +1,103 @@
+{
+    "word": "ginger",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjinjər/",
+            "/ˈdʒɪndʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪndʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gừng",
+            "type": "noun",
+            "example": {
+                "en": "I couldn't find any ginger root for the tea, but I found a map.",
+                "vi": "Tớ không tìm được rễ gừng làm trà. Nhưng tớ tìm thấy một bản đồ."
+            }
+        },
+        {
+            "content": "cây gừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "củ gừng",
+            "type": "noun",
+            "example": {
+                "en": "You can grate fresh ginger into hot water to make tea , or drink ginger ale .",
+                "vi": "Bạn có thể nạo củ gừng tươi vào nước nóng để pha trà , hoặc uống thức uống ướp gừng ."
+            }
+        },
+        {
+            "content": "dũng khí",
+            "type": "",
+            "example": {
+                "en": "Rostov needs someone to ginger him up a bit.",
+                "vi": "Rostov cần người làm tăng dũng khí."
+            }
+        },
+        {
+            "content": "làm hào hứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hăng hái lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sôi nổi lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu hoe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hào hứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hăng hái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp dũng khí cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ướp gừng",
+            "type": "",
+            "example": {
+                "en": "You can grate fresh ginger into hot water to make tea , or drink ginger ale .",
+                "vi": "Bạn có thể nạo củ gừng tươi vào nước nóng để pha trà , hoặc uống thức uống ướp gừng ."
+            }
+        },
+        {
+            "content": "Mứt gừng",
+            "type": "",
+            "example": {
+                "en": "\"... fruit salad with crystallized ginger. \"",
+                "vi": "\"... xà lách trái cây với mứt gừng \""
+            }
+        }
+    ]
+}

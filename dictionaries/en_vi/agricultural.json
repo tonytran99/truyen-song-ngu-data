@@ -1,0 +1,29 @@
+{
+    "word": "agricultural",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌaɡrəˈkəlCH(ə)rəl/",
+            "/ˌæɡrəˈkəltʃ(ə)rəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aɡrɪˈkʌltʃərəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nông nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Although it's called agriculture in the world of food.",
+                "vi": "Mặc dù trong thế giới thực phẩm, nó được gọi là nông nghiệp."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "angiosperm",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanjēəˌspərm/",
+            "/ˈændʒiəˌspərm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈandʒɪə(ʊ)spəːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực vật có hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây hạt kín",
+            "type": "noun",
+            "example": {
+                "en": "of flowering plants, or angiosperms, onto land.",
+                "vi": "của thực vật có hoa hay cây hạt kín lên trên mặt đất."
+            }
+        }
+    ]
+}

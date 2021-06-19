@@ -1,0 +1,45 @@
+{
+    "word": "individuate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌindəˈvijo͞oˌāt/",
+            "/ˌɪndəˈvɪdʒuˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪndɪˈvɪdʒʊeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá tính hoá",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cho một cá tính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định rõ",
+            "type": "",
+            "example": {
+                "en": "The key to my success is identifying talents in individuals.",
+                "vi": "Chìa khóa thành công của tôi là xác định rõ tài năng của từng cá nhân."
+            }
+        }
+    ]
+}

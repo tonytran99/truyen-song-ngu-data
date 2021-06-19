@@ -1,0 +1,50 @@
+{
+    "word": "horsepower",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôrsˌpou(ə)r/",
+            "/ˈhɔrsˌpaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːspaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã lực",
+            "type": "noun",
+            "example": {
+                "en": "They had two machine guns and a cannon, and they had 90 horsepower Ricardo engines.",
+                "vi": "Nó có hai súng máy và một đại bác, và nó có động cơ Ricardo 90 mã lực."
+            }
+        },
+        {
+            "content": "馬力",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sức ngựa",
+            "type": "noun",
+            "example": {
+                "en": "Pergasaurus has got 1,500 horsepower blown and injected with alcohol.",
+                "vi": "Chiếc Pergasaurus với động cơ 1500 sức ngựa..."
+            }
+        },
+        {
+            "content": "Mã lực",
+            "type": "",
+            "example": {
+                "en": "He's gotta have about 2,000 horsepower in that thing.",
+                "vi": "Anh ấy phải có khoảng 2000 Mã Lực trong thứ đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "inaccurate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈakyərət/",
+            "/ɪnˈækjərət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈakjʊrət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "Those that are inaccurate, I have discarded.",
+                "vi": "Những cách sai lầm, thì tôi đã vứt bỏ hết rồi."
+            }
+        },
+        {
+            "content": "trật",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không chính xác",
+            "type": "",
+            "example": {
+                "en": "They'll give him inaccurate locations for all Starfleet vessels.",
+                "vi": "Nhưng đó chỉ là các vị trí không chính xác của các chiến hạm thuộc Hạm đội."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

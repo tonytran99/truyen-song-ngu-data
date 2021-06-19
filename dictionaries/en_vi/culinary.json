@@ -1,0 +1,54 @@
+{
+    "word": "culinary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkələˌnerē/",
+            "/ˈkələˌnɛri/",
+            "/ˈkyo͞oləˌnerē/",
+            "/ˈkjuləˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌlɪn(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc bếp núc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xào nấu được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩm thực",
+            "type": "noun",
+            "example": {
+                "en": "Your resume says that you minored in French culinary arts.",
+                "vi": "CV của anh viết rằng anh có học một chút về nghệ thuật ẩm thực Pháp."
+            }
+        },
+        {
+            "content": "nấu nướng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nấu ăn",
+            "type": "",
+            "example": {
+                "en": "No matter how old I get, always a culinary delight.",
+                "vi": "Vấn đề muôn thuở của tôi luôn luôn là nấu ăn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "insulate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinsəˌlāt/",
+            "/ˈɪnsəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnsjʊleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cách ly",
+            "type": "",
+            "example": {
+                "en": "I have done nothing but try to insulate you, sir.",
+                "vi": "Tôi chỉ cố gắng cách ly ngài ra khỏi việc đó thôi."
+            }
+        },
+        {
+            "content": "cô lập",
+            "type": "",
+            "example": {
+                "en": "not insulating them from it.",
+                "vi": "và không cô lập chúng từ thiên nhiên."
+            }
+        },
+        {
+            "content": "để riêng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

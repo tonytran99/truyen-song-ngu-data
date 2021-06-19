@@ -1,0 +1,43 @@
+{
+    "word": "confusing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfyo͞oziNG/",
+            "/kənˈfjuzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfjuːzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {
+                "en": "We may hear confusing stories and conflicting messages.",
+                "vi": "Chúng ta có thể nghe được những câu chuyện khó hiểu và những sứ điệp mâu thuẫn."
+            }
+        },
+        {
+            "content": "gây bối rối",
+            "type": "",
+            "example": {
+                "en": "Such differences would be confusing, to say the least.",
+                "vi": "Những sự khác biệt như thế ít nhiều gì cũng gây bối rối."
+            }
+        },
+        {
+            "content": "mù mờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

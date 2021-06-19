@@ -1,0 +1,43 @@
+{
+    "word": "hijack",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīˌjak/",
+            "/ˈhaɪˌdʒæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪdʒak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không tặc",
+            "type": "",
+            "example": {
+                "en": "Well, we know this is the hijacker's phone.",
+                "vi": "ta biết đây là điện thoại của tên không tặc."
+            }
+        },
+        {
+            "content": "bắt cóc",
+            "type": "verb",
+            "example": {
+                "en": "She hijacked my jeep and she kidnapped us.",
+                "vi": "Cô ta cướp xe jeep của tôi và bắt cóc chúng tôi."
+            }
+        },
+        {
+            "content": "bắt cóc máy bay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

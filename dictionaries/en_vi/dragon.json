@@ -1,0 +1,93 @@
+{
+    "word": "dragon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdraɡən/",
+            "/ˈdræɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdraɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rồng",
+            "type": "noun",
+            "example": {
+                "en": "There isn't a dragon alive that I can't wrangle!",
+                "vi": "Không có con rồng còn sống nào mà tôi không thể thuần hóa!"
+            }
+        },
+        {
+            "content": "龍",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con rồng",
+            "type": "",
+            "example": {
+                "en": "Well, you need dragons to conquer other dragons.",
+                "vi": "Ngươi cần rồng để chinh phục những con rồng khác."
+            }
+        },
+        {
+            "content": "long",
+            "type": "adjective noun",
+            "example": {
+                "en": "It will be like a battle of dragons!",
+                "vi": "Mọi người đều chờ đợi trận long tranh hổ đấu thế kỷ này."
+            }
+        },
+        {
+            "content": "rắn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bồ câu rồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chòm sao Thiên long",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cá kình",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cá sấu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cá voi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thằn lằn bay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Rồng",
+            "type": "",
+            "example": {
+                "en": "You've already lost us one dragon, do you intend to kill the rest?",
+                "vi": "Cậu đã làm mất con Rồng, cậu tính giết hết số còn lại à?"
+            }
+        }
+    ]
+}

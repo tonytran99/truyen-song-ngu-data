@@ -1,0 +1,51 @@
+{
+    "word": "editorial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌedəˈtôrēəl/",
+            "/ˌɛdəˈtɔriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛdɪˈtɔːrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài xã luận",
+            "type": "noun",
+            "example": {
+                "en": "I just wondered if you'd be interested in today's editorial?",
+                "vi": "Tôi chỉ thắc mắc không biết ông có để ý tới bài xã luận hôm nay không?"
+            }
+        },
+        {
+            "content": "xã luận",
+            "type": "noun",
+            "example": {
+                "en": "I just wondered if you'd be interested in today's editorial?",
+                "vi": "Tôi chỉ thắc mắc không biết ông có để ý tới bài xã luận hôm nay không?"
+            }
+        },
+        {
+            "content": "biên tập",
+            "type": "",
+            "example": {
+                "en": "My editorial director and I went through them and",
+                "vi": "Chỉ đạo biên tập và tôi đã đọc chúng và"
+            }
+        },
+        {
+            "content": "tòa soạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

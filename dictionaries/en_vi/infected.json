@@ -1,0 +1,46 @@
+{
+    "word": "infected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfektəd/",
+            "/ɪnˈfɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị nhiễm khuẩn",
+            "type": "",
+            "example": {
+                "en": "Ear infections started when he was barely four months old.",
+                "vi": "Cậu bị nhiễm khuẩn tai khi mới bốn tháng tuổi."
+            }
+        },
+        {
+            "content": "nhiễm trùng",
+            "type": "",
+            "example": {
+                "en": "An abdominal infection causes sepsis, low blood pressure.",
+                "vi": "Bụng bị nhiễm trùng gây nên nhiễm trùng máu, làm hạ huyết áp."
+            }
+        },
+        {
+            "content": "nhiễm virus",
+            "type": "",
+            "example": {
+                "en": "Those infected With this virus will attack other people anyone, without exception.",
+                "vi": "Người bị nhiễm virus sẽ tấn công những người khác bất kỳ ai, ko có ngoại lệ nào."
+            }
+        }
+    ]
+}

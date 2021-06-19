@@ -1,0 +1,34 @@
+{
+    "word": "eerie",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirē/",
+            "/ˈɪri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỳ quái",
+            "type": "adjective",
+            "example": {
+                "en": "The local human children sing a kind of eerie little rhyme about him.",
+                "vi": "Trẻ con địa phương thường hát những giai điệu kỳ quái về lão."
+            }
+        },
+        {
+            "content": "kỳ lạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

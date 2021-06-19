@@ -1,0 +1,56 @@
+{
+    "word": "faraway",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfärəˌwā/",
+            "/ˈfɑrəˌweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɑːrəweɪ/",
+            "/fɑːrəˈweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xa",
+            "type": "adjective",
+            "example": {
+                "en": "The world was like a faraway planet to which I could not return.",
+                "vi": "Thế giới này giống như một hành tinh xa xôi mà tôi không bao giờ quay về được."
+            }
+        },
+        {
+            "content": "lơ đãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xa xôi",
+            "type": "adverb",
+            "example": {
+                "en": "The world was like a faraway planet to which I could not return.",
+                "vi": "Thế giới này giống như một hành tinh xa xôi mà tôi không bao giờ quay về được."
+            }
+        },
+        {
+            "content": "xa xăm",
+            "type": "adverb",
+            "example": {
+                "en": "And I the faraway prince.",
+                "vi": "Còn với ta là chàng hoàng tử nơi xa xăm kia."
+            }
+        },
+        {
+            "content": "xa xưa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "word": "example",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzampəl/",
+            "/ɪɡˈzæmpəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɑːmp(ə)l/",
+            "/ɛɡˈzɑːmp(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ví dụ",
+            "type": "noun",
+            "example": {
+                "en": "How many examples per day can you add?",
+                "vi": "Mỗi ngày bạn thêm được bao nhiêu câu ví dụ?"
+            }
+        },
+        {
+            "content": "mẫu",
+            "type": "noun",
+            "example": {
+                "en": "Are the members of my family reaping spiritual dividends from my example?",
+                "vi": "Gương mẫu của tôi có đem lợi ích thiêng liêng cho những người trong gia đình tôi không?"
+            }
+        },
+        {
+            "content": "thí dụ",
+            "type": "noun",
+            "example": {
+                "en": "What are some examples of the advances men have made in the technical aspects of communication?",
+                "vi": "Hãy kể vài thí dụ về các tiến bộ của nhân loại trong kỹ thuật truyền tin?"
+            }
+        },
+        {
+            "content": "gương",
+            "type": "noun",
+            "example": {
+                "en": "That blessed example is now passing into the third generation.",
+                "vi": "Tấm gương được phước đó hiện đang được chuyền lại cho thế hệ thứ ba."
+            }
+        },
+        {
+            "content": "dẫn chứng",
+            "type": "noun",
+            "example": {
+                "en": "I've also given her two examples to inspire her.",
+                "vi": "Tôi còn dẫn chứng hai tấm gương để cậu ấy noi theo."
+            }
+        },
+        {
+            "content": "kiểu mẫu",
+            "type": "noun",
+            "example": {
+                "en": "Model your own speech after these good examples.",
+                "vi": "Tập nói theo những kiểu mẫu này."
+            }
+        },
+        {
+            "content": "sự làm gương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tấm gương",
+            "type": "noun",
+            "example": {
+                "en": "Each analogy contains a good example and a bad example.",
+                "vi": "Mỗi sự so sánh này chứa đựng một tấm gương tốt và một tấm gương xấu."
+            }
+        },
+        {
+            "content": "cái tương đương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái để làm gương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm gương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm mẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm thí dụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gương mẫu",
+            "type": "",
+            "example": {
+                "en": "What a remarkable example for young people today!",
+                "vi": "Thật là gương mẫu đáng chú ý cho những người trẻ ngày nay!"
+            }
+        },
+        {
+            "content": "gương sáng",
+            "type": "",
+            "example": {
+                "en": "It is harder to be a good example in some situations than others.",
+                "vi": "Việc nêu gương sáng trong một số tình huống thì khó hơn trong các tình huống khác."
+            }
+        },
+        {
+            "content": "lệ trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền lệ",
+            "type": "",
+            "example": {
+                "en": "Help me set an example.",
+                "vi": "Hãy giúp tôi tạo ra một tiền lệ."
+            }
+        },
+        {
+            "content": "vật so sánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dụ",
+            "type": "",
+            "example": {
+                "en": "How many examples per day can you add?",
+                "vi": "Mỗi ngày bạn thêm được bao nhiêu câu ví dụ?"
+            }
+        },
+        {
+            "content": "thí",
+            "type": "",
+            "example": {
+                "en": "Give some examples of ways to improve your management of money.",
+                "vi": "Hãy nêu ra vài thí dụ về cách cải thiện việc quản lý tiền bạc."
+            }
+        }
+    ]
+}

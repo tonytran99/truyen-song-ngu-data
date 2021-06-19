@@ -1,0 +1,44 @@
+{
+    "word": "funky",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəNGkē/",
+            "/ˈfəŋki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌŋki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bẩn tưởi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hôi hám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khiếp đảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhút nhát",
+            "type": "noun",
+            "example": {
+                "en": "I've been feeling kind of funky lately.",
+                "vi": "Gần đây chị thấy khá là nhút nhát."
+            }
+        }
+    ]
+}

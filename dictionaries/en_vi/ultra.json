@@ -1,0 +1,49 @@
+{
+    "word": "ultra",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəltrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌltrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cực",
+            "type": "adverb",
+            "example": {
+                "en": "he's targeted young, ultra-religious girls, who he assumed wouldn't want to have an abortion.",
+                "vi": "Hắn chọn mục tiêu gái trẻ, cực sùng đạo, người mà hắn nghĩ sẽ không muốn phá thai."
+            }
+        },
+        {
+            "content": "cực đoan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người cực đoan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người quá khích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá khích",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

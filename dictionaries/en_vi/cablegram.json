@@ -1,0 +1,34 @@
+{
+    "word": "cablegram",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkābəlˌɡram/",
+            "/ˈkeɪbəlˌɡræm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪb(ə)lɡram/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cáp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điện tín",
+            "type": "",
+            "example": {
+                "en": "This came from the decoding room, a cablegram from the War Department.",
+                "vi": "Cái này là từ phòng giải mã, một điện tín của Bộ Chiến tranh."
+            }
+        }
+    ]
+}

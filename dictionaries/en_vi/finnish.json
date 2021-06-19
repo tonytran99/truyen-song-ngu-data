@@ -1,0 +1,39 @@
+{
+    "word": "finnish",
+    "type": [
+        "adjective",
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiniSH/",
+            "/ˈfɪnɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪnɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Phần-lan",
+            "type": "",
+            "example": {
+                "en": "Did Marika write you letters in Finnish?",
+                "vi": "Có phải Marika viết thư cho bạn bằng tiếng Phần Lan."
+            }
+        },
+        {
+            "content": "tiếng phần lan",
+            "type": "",
+            "example": {
+                "en": "Did Marika write you letters in Finnish?",
+                "vi": "Có phải Marika viết thư cho bạn bằng tiếng Phần Lan."
+            }
+        }
+    ]
+}

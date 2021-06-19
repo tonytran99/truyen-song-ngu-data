@@ -1,0 +1,63 @@
+{
+    "word": "entity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈen(t)ədē/",
+            "/ˈɛn(t)ədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛntɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực thể",
+            "type": "noun",
+            "example": {
+                "en": "It is beneficial for us to have legal entities.",
+                "vi": "Chúng ta được lợi ích nhờ có các thực thể pháp lý."
+            }
+        },
+        {
+            "content": "đối tượng",
+            "type": "noun",
+            "example": {
+                "en": "Three of the original eight entities were suing each other.",
+                "vi": "Có ba trong số tám đối tượng đã từng kiện nhau."
+            }
+        },
+        {
+            "content": "bản thể",
+            "type": "",
+            "example": {
+                "en": "For centuries, the churches propagated the doctrine of the Trinity, claiming that the Father and the Son are part of the same entity.",
+                "vi": "Trong nhiều thế kỷ, các giáo hội phổ biến rộng rãi thuyết Chúa Ba Ngôi, cho rằng Cha và Con cùng một bản thể."
+            }
+        },
+        {
+            "content": "sự tồn tại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vật thể",
+            "type": "noun",
+            "example": {
+                "en": "They divide this strange entity into two categories, dark matter and dark energy.",
+                "vi": "Họ chia những vật thể kỳ lạ này thành hai loại: vật chất tối và năng lượng tối."
+            }
+        },
+        {
+            "content": "đối thể",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

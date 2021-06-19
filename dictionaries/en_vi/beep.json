@@ -1,0 +1,43 @@
+{
+    "word": "beep",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēp/",
+            "/bip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bíp",
+            "type": "noun",
+            "example": {
+                "en": "We can't come to the phone right now, so please leave a message at the beep.",
+                "vi": "Lúc này chúng tôi không có ở nhà, vui lòng nhắn lại sau tiếng bíp."
+            }
+        },
+        {
+            "content": "bóp còi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu bíp bíp",
+            "type": "",
+            "example": {
+                "en": "and it probably beeps, actually, as it goes on as well.",
+                "vi": "và chắc nó cũng sẽ kêu bíp bíp khi nó chạy."
+            }
+        }
+    ]
+}

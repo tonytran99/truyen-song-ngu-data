@@ -1,0 +1,66 @@
+{
+    "word": "jaded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjādəd/",
+            "/ˈdʒeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒeɪdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chán ngấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chán ứ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiệt sức",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mệt mỏi",
+            "type": "adjective",
+            "example": {
+                "en": "If you stop caring, You're jaded.",
+                "vi": "Nếu anh ngừng quan tâm, anh mệt mỏi."
+            }
+        },
+        {
+            "content": "mệt rã rời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mệt",
+            "type": "adjective",
+            "example": {
+                "en": "If you stop caring, You're jaded.",
+                "vi": "Nếu anh ngừng quan tâm, anh mệt mỏi."
+            }
+        },
+        {
+            "content": "chán",
+            "type": "adjective verb",
+            "example": {
+                "en": "Jade will get bored with you.",
+                "vi": "Jade sẽ chán cậu nhanh thôi."
+            }
+        }
+    ]
+}

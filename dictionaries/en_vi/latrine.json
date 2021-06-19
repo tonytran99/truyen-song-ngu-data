@@ -1,0 +1,63 @@
+{
+    "word": "latrine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ləˈtrēn/",
+            "/ləˈtrin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ləˈtriːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuồng xí",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cầu tiêu",
+            "type": "noun",
+            "example": {
+                "en": "Human excrement should go into a toilet or latrine.",
+                "vi": "Nên hủy phân người nơi cầu tiêu hay hố xí."
+            }
+        },
+        {
+            "content": "hố xí",
+            "type": "",
+            "example": {
+                "en": "As you all know too well, it's long past time to dig a new latrine pit.",
+                "vi": "Như mọi người đã biết rõ đã quá thời điểm đào hố xí mới."
+            }
+        },
+        {
+            "content": "nhà tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà vệ sinh",
+            "type": "noun",
+            "example": {
+                "en": "If there is no toilet, build a simple latrine rather than just relieving yourself in a field.",
+                "vi": "Nếu không có nhà vệ sinh, hãy làm một cầu tiêu đơn giản, đừng phóng uế bừa bãi."
+            }
+        },
+        {
+            "content": "nhà xí",
+            "type": "",
+            "example": {
+                "en": "So I followed her, one day, to the latrine, thinking I might diagnose her condition if I had a stool sample.",
+                "vi": "Nên một ngày nọ, tôi theo cô ta, đến nhà xí, nghĩ rằng mình có thể chẩn đoán bệnh tình, nếu có mẫu phân."
+            }
+        }
+    ]
+}

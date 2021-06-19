@@ -1,0 +1,137 @@
+{
+    "word": "best",
+    "type": [
+        "verb",
+        "noun",
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/best/",
+            "/bɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tốt nhất",
+            "type": "adjective",
+            "example": {
+                "en": "The best way to predict your future is to create it.",
+                "vi": "Cách tốt nhất để dự đoán tương lai của chính mình là tự mình tạo ra nó."
+            }
+        },
+        {
+            "content": "hay nhất",
+            "type": "",
+            "example": {
+                "en": "Best dancer walks tall, gets the best date.",
+                "vi": "Người nhảy hay nhất có thể đi ngẩng cao đầu, cặp một nhỏ xinh nhất."
+            }
+        },
+        {
+            "content": "đẹp nhất",
+            "type": "",
+            "example": {
+                "en": "How much I desire the very best for her.",
+                "vi": "Tôi ước muốn biết bao những điều tốt đẹp nhất cho chị."
+            }
+        },
+        {
+            "content": "hơn",
+            "type": "adverb",
+            "example": {
+                "en": "We'd all best be ready when she does.",
+                "vi": "Tốt hơn hết chúng ta nên sẵn sàng."
+            }
+        },
+        {
+            "content": "tuyệt nhất",
+            "type": "adjective",
+            "example": {
+                "en": "Just lie to me and tell me it wasn't the best night of all time.",
+                "vi": "Chỉ cần dối tôi và nói tôi biết đó không phải là bữa tối tuyệt nhất."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "They are an AL-best 17 and 4 this month.",
+                "vi": "Họ đang dẫn đầu giải đấu, thắng 17 thua 4, trong tháng này."
+            }
+        },
+        {
+            "content": "cái hay nhất",
+            "type": "",
+            "example": {
+                "en": "I can't let you save the best for last.",
+                "vi": "Tao có thể để mày giữ cái hay nhất vào cuối đấy."
+            }
+        },
+        {
+            "content": "cái tốt nhất",
+            "type": "",
+            "example": {
+                "en": "This desk is the best of all the desks.",
+                "vi": "Cái bàn này là cái tốt nhất trong tất cả bàn."
+            }
+        },
+        {
+            "content": "cái đẹp nhất",
+            "type": "",
+            "example": {
+                "en": "This is the best in our shop",
+                "vi": "Nó là cái đẹp nhất của chúng tôi đó"
+            }
+        },
+        {
+            "content": "cố gắng lớn nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giỏi nhất",
+            "type": "adjective",
+            "example": {
+                "en": "Tom thinks he's the best French teacher here.",
+                "vi": "Tom nghĩ rằng mình là giáo viên tiếng Pháp giỏi nhất ở đây."
+            }
+        },
+        {
+            "content": "hơn nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "láu cá hơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần áo đẹp nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ranh ma hơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối ưu",
+            "type": "",
+            "example": {
+                "en": "I'm wondering if state secrets is the best tactic.",
+                "vi": "Tôi nghi ngờ liệu bí mật quốc gia có phải là chiến thuật tối ưu không."
+            }
+        }
+    ]
+}

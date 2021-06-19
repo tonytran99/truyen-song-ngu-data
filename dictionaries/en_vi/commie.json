@@ -1,0 +1,45 @@
+{
+    "word": "commie",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämē/",
+            "/ˈkɑmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cộng sản",
+            "type": "noun",
+            "example": {
+                "en": "Hey, it was him or the commies, right?",
+                "vi": "Nhưng hoặc là ông ta hoặc là cộng sản, phải không?"
+            }
+        },
+        {
+            "content": "thằng VC",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thằng cộng sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người cộng sản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

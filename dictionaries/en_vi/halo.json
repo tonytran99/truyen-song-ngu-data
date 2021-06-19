@@ -1,0 +1,64 @@
+{
+    "word": "halo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhālō/",
+            "/ˈheɪloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quầng",
+            "type": "noun",
+            "example": {
+                "en": "Envision yourself in a halo of glowing white light.",
+                "vi": "Hãy tưởng tượng mình đang trong một quầng sáng trắng rực rỡ."
+            }
+        },
+        {
+            "content": "vầng hào quang",
+            "type": "",
+            "example": {
+                "en": "I finally got rid of my halo.",
+                "vi": "Cuối cùng em đã đánh mất vầng hào quang của mình."
+            }
+        },
+        {
+            "content": "tán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hào quang",
+            "type": "noun",
+            "example": {
+                "en": "Someone's gotta get you a halo or something.",
+                "vi": "Ai đó phải tặng cậu vòng hào quang hay gì đó mới đúng."
+            }
+        },
+        {
+            "content": "quầng sáng",
+            "type": "",
+            "example": {
+                "en": "Envision yourself in a halo of glowing white light.",
+                "vi": "Hãy tưởng tượng mình đang trong một quầng sáng trắng rực rỡ."
+            }
+        },
+        {
+            "content": "vòng sáng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "cormorant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrmərənt/",
+            "/ˈkɔrmərənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːm(ə)r(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cốc",
+            "type": "noun",
+            "example": {
+                "en": "They're a species of cormorant, but they are flightless.",
+                "vi": "Chúng là 1 loại chim cốc nhưng không bay được."
+            }
+        },
+        {
+            "content": "chim cốc",
+            "type": "noun",
+            "example": {
+                "en": "They're a species of cormorant, but they are flightless.",
+                "vi": "Chúng là 1 loại chim cốc nhưng không bay được."
+            }
+        },
+        {
+            "content": "còng cọc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người tham lam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phalacrocorax",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

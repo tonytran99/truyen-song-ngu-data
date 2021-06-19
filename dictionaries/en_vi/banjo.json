@@ -1,0 +1,40 @@
+{
+    "word": "banjo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbanjō/",
+            "/ˈbændʒoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbandʒəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đàn banjô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Băng cầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn banjo",
+            "type": "noun",
+            "example": {
+                "en": "And then I wrote a post about a banjo.",
+                "vi": "Khi đó tôi viết một vài về một cây đàn banjo."
+            }
+        }
+    ]
+}

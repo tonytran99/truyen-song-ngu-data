@@ -1,0 +1,87 @@
+{
+    "word": "danger",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdānjər/",
+            "/ˈdeɪndʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪn(d)ʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự nguy hiểm",
+            "type": "",
+            "example": {
+                "en": "My creation was hopelessly flawed and indeed dangerous.",
+                "vi": "Tác phẩm của ta có thiếu sót lớn và thực sự nguy hiểm."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "noun",
+            "example": {
+                "en": "Some people say Boston is a dangerous city.",
+                "vi": "Một số người nói rằng Boston là thành phố nguy hiểm."
+            }
+        },
+        {
+            "content": "危險",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nguy cơ",
+            "type": "",
+            "example": {
+                "en": "What dangers and challenges would the disciples face?",
+                "vi": "Các môn đồ sẽ gặp những nguy cơ và thử thách nào?"
+            }
+        },
+        {
+            "content": "nạn",
+            "type": "adjective, noun",
+            "example": {
+                "en": "What dangers exist when refugees (a) are fleeing?",
+                "vi": "Người tị nạn có thể gặp những nguy hiểm nào khi (a) đang chạy trốn?"
+            }
+        },
+        {
+            "content": "danger-signal",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiểm hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiểm họa",
+            "type": "adjective, noun",
+            "example": {
+                "en": "Every day, new dangers present themselves, filling our peaceful streets with chaos.",
+                "vi": "Hằng ngày những mối hiểm họa mới xuất hiện, tạo sự hỗn loạn với cuộc sống bình yên."
+            }
+        },
+        {
+            "content": "mối hiểm nghèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối đe doạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

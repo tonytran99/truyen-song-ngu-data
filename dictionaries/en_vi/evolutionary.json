@@ -1,0 +1,56 @@
+{
+    "word": "evolutionary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌevəˈlo͞oSHəˌnerē/",
+            "/ˌɛvəˈluʃəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiːvəˈluːʃ(ə)n(ə)ri/",
+            "/ˌɛvəˈluːʃ(ə)n(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiến hóa",
+            "type": "verb",
+            "example": {
+                "en": "It's more complex when you move up the evolutionary chain.",
+                "vi": "Nó sẽ phức tạp hơn khi anh leo dần theo chuỗi tiến hóa."
+            }
+        },
+        {
+            "content": "sự tiến hoá",
+            "type": "",
+            "example": {
+                "en": "or the evolutionary order of any particular species.",
+                "vi": "hay sự tiến hoá của bất kỳ loại cụ thể nào."
+            }
+        },
+        {
+            "content": "sự tiến triển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyết tiến hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiến hoá",
+            "type": "verb",
+            "example": {
+                "en": "I like to think we're slightly higher on the evolutionary chain than monkeys.",
+                "vi": "Tôi thích nghĩ là chúng ta ở mức tiến hoá cao hơn so với loài khỉ."
+            }
+        }
+    ]
+}

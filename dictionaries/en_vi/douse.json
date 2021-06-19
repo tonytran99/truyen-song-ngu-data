@@ -1,0 +1,48 @@
+{
+    "word": "douse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dous/",
+            "/daʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tắt",
+            "type": "adjective verb adverb",
+            "example": {
+                "en": "However , the increase has done little to douse the criticism.",
+                "vi": "Tuy nhiên , việc tăng lương đó khó mà dập tắt được những lời chỉ trích ."
+            }
+        },
+        {
+            "content": "đóng",
+            "type": "verb",
+            "example": {
+                "en": "Douse it like this.",
+                "vi": "Đóng lại như vậy."
+            }
+        },
+        {
+            "content": "giội nước lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "té nước lên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

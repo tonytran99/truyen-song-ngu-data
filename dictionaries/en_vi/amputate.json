@@ -1,0 +1,45 @@
+{
+    "word": "amputate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈampyəˌtāt/",
+            "/ˈæmpjəˌteɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈampjʊteɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt cụt",
+            "type": "",
+            "example": {
+                "en": "For example, we have a sister in our congregation who had her leg amputated.",
+                "vi": "Thí dụ, trong hội thánh chúng tôi có một chị bị cắt cụt chân."
+            }
+        },
+        {
+            "content": "cưa",
+            "type": "verb",
+            "example": {
+                "en": "one so severe doctors say his leg should be amputated.",
+                "vi": "một chân bị thương nặng đến nỗi bác sĩ nói phải cưa đi."
+            }
+        },
+        {
+            "content": "cắt bỏ",
+            "type": "",
+            "example": {
+                "en": "The only way to prevent that is to amputate.",
+                "vi": "Cách duy nhất để ngăn chặn điều đó là cắt bỏ."
+            }
+        }
+    ]
+}

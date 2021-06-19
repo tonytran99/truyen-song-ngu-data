@@ -1,0 +1,47 @@
+{
+    "word": "insulation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinsəˈlāSH(ə)n/",
+            "/ˌɪnsəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnsjʊˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cách ly",
+            "type": "noun",
+            "example": {
+                "en": "to move out of insulation.",
+                "vi": "để loại bỏ sự cách ly."
+            }
+        },
+        {
+            "content": "cách nhiệt",
+            "type": "",
+            "example": {
+                "en": "Big bodies lose less heat and can carry more insulation.",
+                "vi": "Cơ thể to lớn mất ít nhiệt hơn và dễ cách nhiệt hơn."
+            }
+        },
+        {
+            "content": "sự cách điện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự cô lập",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

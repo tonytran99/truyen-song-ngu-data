@@ -1,0 +1,73 @@
+{
+    "word": "anything",
+    "type": [
+        "noun",
+        "adverb",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈenēˌTHiNG/",
+            "/ˈɛniˌθɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛnɪθɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất cứ cái gì",
+            "type": "",
+            "example": {
+                "en": "I've never finished anything that I've started my entire life.",
+                "vi": "Tớ chưa bao giờ hoàn thành bất cứ cái gì tơ dự định trong suốt cuộc đời."
+            }
+        },
+        {
+            "content": "bất cứ việc gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất cứ vật gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất cứ điều gì",
+            "type": "pronoun",
+            "example": {
+                "en": "You didn't tell her anything?",
+                "vi": "Mày không nói nó bất cứ điều gì phải không?"
+            }
+        },
+        {
+            "content": "cái nào",
+            "type": "",
+            "example": {
+                "en": "If you see anything of interest, take it.",
+                "vi": "Nếu anh thấy thích cái nào, cứ lấy."
+            }
+        },
+        {
+            "content": "việc gì",
+            "type": "",
+            "example": {
+                "en": "I didn't do anything with anyone.",
+                "vi": "Tôi sẽ không làm bất cứ việc gì với bất cứ ai."
+            }
+        },
+        {
+            "content": "vật gì",
+            "type": "",
+            "example": {
+                "en": "I would use anything as a weapon to win.",
+                "vi": "Tôi dùng bất cứ vật gì để làm vũ khí."
+            }
+        }
+    ]
+}

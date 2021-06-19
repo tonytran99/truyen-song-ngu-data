@@ -1,0 +1,45 @@
+{
+    "word": "jeopardize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjepərˌdīz/",
+            "/ˈdʒɛpərˌdaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛpədʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liều",
+            "type": "",
+            "example": {
+                "en": "I don't want to do anything stupid to jeopardize it.",
+                "vi": "Tớ không muốn làm gì đó liều mạng đâu."
+            }
+        },
+        {
+            "content": "gây nguy hiểm",
+            "type": "",
+            "example": {
+                "en": "And now you're jeopardizing all of that for something as petty as closure.",
+                "vi": "Và giờ cậu đang gây nguy hiểm cho tất cả vào những thứ nhỏ nhặt sắp tàn."
+            }
+        },
+        {
+            "content": "nguy hại",
+            "type": "",
+            "example": {
+                "en": "And so let's not jeopardize that future.",
+                "vi": "Vậy nên xin đừng gây nguy hại cho tương lai đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "cape",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kāp/",
+            "/keɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mũi đất",
+            "type": "noun",
+            "example": {
+                "en": "I heard one of the men say those storms rounding the cape pushed us far west of our course.",
+                "vi": "Tôi nghe một người nói là cơn bão ở vùng mũi đất đã đẩy chúng ta lệch khỏi lộ trình về hướng Tây."
+            }
+        },
+        {
+            "content": "áo choàng không tay",
+            "type": "noun",
+            "example": {
+                "en": "She wore a cape.",
+                "vi": "Cô ấy đã mặc áo choàng không tay."
+            }
+        },
+        {
+            "content": "mũi",
+            "type": "noun",
+            "example": {
+                "en": "I swish my cape at you!",
+                "vi": "Tôi sẽ đè nát cái mũi của cậu."
+            }
+        },
+        {
+            "content": "Mũi đất",
+            "type": "",
+            "example": {
+                "en": "That dark headland in the distance is Cape Washington.",
+                "vi": "Mũi đất tối màu ở xa kia là Mũi Washington."
+            }
+        }
+    ]
+}

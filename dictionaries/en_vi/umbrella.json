@@ -1,0 +1,99 @@
+{
+    "word": "umbrella",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəmˈbrelə/",
+            "/ˌəmˈbrɛlə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌmˈbrɛlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dù",
+            "type": "noun",
+            "example": {
+                "en": "My mother bought my little brother a yellow umbrella.",
+                "vi": "Mẹ tôi mua cho em trai tôi một cái dù màu vàng."
+            }
+        },
+        {
+            "content": "ô",
+            "type": "noun",
+            "example": {
+                "en": "It's likely to rain today, so you'd better take your umbrella.",
+                "vi": "Trời sắp mưa đấy, cậu nên cầm ô đi."
+            }
+        },
+        {
+            "content": "cái ô",
+            "type": "",
+            "example": {
+                "en": "Tom needs an umbrella.",
+                "vi": "Tom cần một cái ô."
+            }
+        },
+        {
+            "content": "lọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái dù",
+            "type": "noun",
+            "example": {
+                "en": "My mother bought my little brother a yellow umbrella.",
+                "vi": "Mẹ tôi mua cho em trai tôi một cái dù màu vàng."
+            }
+        },
+        {
+            "content": "cây dù",
+            "type": "noun",
+            "example": {
+                "en": "I took your umbrella by mistake.",
+                "vi": "Tôi đã cầm nhầm cây dù của bạn."
+            }
+        },
+        {
+            "content": "lưới đạn che",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màn yểm hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bảo vệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ô",
+            "type": "Letter",
+            "example": {
+                "en": "It's likely to rain today, so you'd better take your umbrella.",
+                "vi": "Trời sắp mưa đấy, cậu nên cầm ô đi."
+            }
+        },
+        {
+            "content": "tàn",
+            "type": "",
+            "example": {
+                "en": "Umbrella collapsed but their viral legacy continues to spread.",
+                "vi": "Umbrella đã sụp đổ nhưng tàn tích độc hại của nó vẫn tiếp tục lan tỏa."
+            }
+        }
+    ]
+}

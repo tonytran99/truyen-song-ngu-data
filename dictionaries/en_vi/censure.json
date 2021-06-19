@@ -1,0 +1,74 @@
+{
+    "word": "censure",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsen(t)SHər/",
+            "/ˈsɛn(t)ʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛnʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỉ trích",
+            "type": "verb",
+            "example": {
+                "en": "Take each man's censure, but reserve thy judgment.",
+                "vi": "Hãy chỉ trích từng người nhưng đừng lên án chung mọi người"
+            }
+        },
+        {
+            "content": "phê bình",
+            "type": "",
+            "example": {
+                "en": "I deserve neither such praise nor such censure.",
+                "vi": "Tôi không xứng đáng với câu khen ngợi hay phê bình như thế."
+            }
+        },
+        {
+            "content": "khiển trách",
+            "type": "",
+            "example": {
+                "en": "I'll let it be known that you're open to censure.",
+                "vi": "Tôi xin được thông báo là ngài sẽ bị khiển trách."
+            }
+        },
+        {
+            "content": "lời khiển trách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời phê bình",
+            "type": "",
+            "example": {
+                "en": "No history of mental illness, no censures.",
+                "vi": "Không có tiền sử bệnh tâm thần, không có lời phê bình."
+            }
+        },
+        {
+            "content": "sự chỉ trích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khiển trách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phê bình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

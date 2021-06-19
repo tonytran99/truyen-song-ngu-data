@@ -1,0 +1,63 @@
+{
+    "word": "flavor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflāvər/",
+            "/ˈfleɪvər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho gia vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hương vị phảng phất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mùi thơm",
+            "type": "noun",
+            "example": {
+                "en": "Coffee keeps its flavor better in the fridge.",
+                "vi": "Cà-phê để trong tủ lạnh giữ được mùi thơm lâu hơn."
+            }
+        },
+        {
+            "content": "mùi vị",
+            "type": "noun",
+            "example": {
+                "en": "Her panic seeps into her meat, darkens it, fouls the flavor.",
+                "vi": "Sự hoảng sợ đó sẽ ngấm vào thịt, làm hỏng mất mùi vị."
+            }
+        },
+        {
+            "content": "thêm thắt vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vị ngon",
+            "type": "",
+            "example": {
+                "en": "1 Just as a flavorful appetizer builds anticipation for the meal that follows, a good introduction opens the door to a positive Scriptural discussion.",
+                "vi": "1 Một món khai vị ngon sẽ tạo sự hứng thú cho bữa ăn."
+            }
+        },
+        {
+            "content": "Hương liệu",
+            "type": "",
+            "example": {
+                "en": "Today some species of lavender are used to flavor biscuits, cakes, and ice cream.",
+                "vi": "Ngày nay, một vài loại oải hương được dùng làm hương liệu cho bánh quy, bánh ngọt và kem."
+            }
+        }
+    ]
+}

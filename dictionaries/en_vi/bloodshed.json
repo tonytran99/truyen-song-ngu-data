@@ -1,0 +1,71 @@
+{
+    "word": "bloodshed",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblədˌSHed/",
+            "/ˈblədˌʃɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblʌdʃɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đổ máu",
+            "type": "",
+            "example": {
+                "en": "It is naive to think this can be resolved without bloodshed.",
+                "vi": "Thật ngây thơ khi nghĩ rằng chuyện có thể giải quyết mà không có đổ máu."
+            }
+        },
+        {
+            "content": "sự chém giết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đổ máu",
+            "type": "noun",
+            "example": {
+                "en": "Will he bring bloodshed and carnage upon all our heads?",
+                "vi": "hay ông ấy mang lại sự đổ máu và thảm sát đến cho chúng tôi?"
+            }
+        },
+        {
+            "content": "cuộc đổ máu",
+            "type": "",
+            "example": {
+                "en": "Thus a civil war and terrible bloodshed were averted.",
+                "vi": "Như vậy, họ đã tránh được một cuộc nội chiến và cuộc đổ máu khủng khiếp."
+            }
+        },
+        {
+            "content": "giết chóc",
+            "type": "",
+            "example": {
+                "en": "Excuses for bloodshed, all of them.",
+                "vi": "Tất cả đều là cái cớ để giết chóc."
+            }
+        },
+        {
+            "content": "thảm sát",
+            "type": "verb",
+            "example": {
+                "en": "Will he bring bloodshed and carnage upon all our heads?",
+                "vi": "hay ông ấy mang lại sự đổ máu và thảm sát đến cho chúng tôi?"
+            }
+        },
+        {
+            "content": "tàn sát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

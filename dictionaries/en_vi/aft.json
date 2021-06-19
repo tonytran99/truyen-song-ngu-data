@@ -1,0 +1,36 @@
+{
+    "word": "aft",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aft/",
+            "/æft/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːft/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở cuối tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở đuôi tàu",
+            "type": "",
+            "example": {
+                "en": "They're all still aft, sir.",
+                "vi": "Tất cả bọn họ còn ở đuôi tàu, thưa ngài."
+            }
+        }
+    ]
+}

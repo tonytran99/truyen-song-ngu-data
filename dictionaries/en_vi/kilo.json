@@ -1,0 +1,47 @@
+{
+    "word": "kilo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēlō/",
+            "/ˈkiloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cân",
+            "type": "noun",
+            "example": {
+                "en": "Phew! You wouldn't imagine what a kilo of that stuff cost.",
+                "vi": "Anh không tưởng tượng được một cân đáng giá bao nhiêu đâu."
+            }
+        },
+        {
+            "content": "cân tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kilô",
+            "type": "",
+            "example": {
+                "en": "We landed with 40 kilos.",
+                "vi": "Chúng tôi hạ cánh với chỉ 40 kilô nhiên liệu."
+            }
+        },
+        {
+            "content": "viết tắt của kilogramme",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

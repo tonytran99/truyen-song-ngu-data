@@ -1,0 +1,66 @@
+{
+    "word": "barley",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbärlē/",
+            "/ˈbɑrli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɑːli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lúa mạch",
+            "type": "noun",
+            "example": {
+                "en": "Those vessels strained the beer, preventing drinkers from swallowing husks of the barley from which it was brewed.",
+                "vi": "Những hũ này lọc bia để người uống không nuốt phải vỏ lúa mạch."
+            }
+        },
+        {
+            "content": "đại mạch",
+            "type": "noun",
+            "example": {
+                "en": "A barley seedling predicts a baby boy, while emmer foretells a girl.",
+                "vi": "Hạt đại mạch tiên đoán đó là một bé trai, còn hạt lúa mì báo trước một bé gái."
+            }
+        },
+        {
+            "content": "mạch",
+            "type": "noun",
+            "example": {
+                "en": "Why are we stopping at a barley field again?",
+                "vi": "Sao chúng ta lại dừng ở cánh đồng lúa mạch nữa vậy?"
+            }
+        },
+        {
+            "content": "cây lúa mạch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lúa đại",
+            "type": "",
+            "example": {
+                "en": "15 A shiblon is half of a senum; therefore, a shiblon for half a measure of barley.",
+                "vi": "15 Một síp lon giá trị bằng nửa sê num; vậy nên, một síp lon giá trị chỉ bằng nửa giạ lúa đại mạch."
+            }
+        },
+        {
+            "content": "lúa đại-mạch",
+            "type": "",
+            "example": {
+                "en": "15 A shiblon is half of a senum; therefore, a shiblon for half a measure of barley.",
+                "vi": "15 Một síp lon giá trị bằng nửa sê num; vậy nên, một síp lon giá trị chỉ bằng nửa giạ lúa đại mạch."
+            }
+        }
+    ]
+}

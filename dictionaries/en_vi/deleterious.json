@@ -1,0 +1,42 @@
+{
+    "word": "deleterious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdeləˈtirēəs/",
+            "/ˌdɛləˈtɪriəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɛlɪˈtɪərɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hại",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hại",
+            "type": "adjective",
+            "example": {
+                "en": "I was having a... deleterious effect on your prognosis.",
+                "vi": "Việc đó gây ra... ảnh hưởng độc hại tới bệnh tình của cô."
+            }
+        },
+        {
+            "content": "độc",
+            "type": "adjective",
+            "example": {
+                "en": "I was having a... deleterious effect on your prognosis.",
+                "vi": "Việc đó gây ra... ảnh hưởng độc hại tới bệnh tình của cô."
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "coding",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōdiNG/",
+            "/ˈkoʊdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã hóa",
+            "type": "verb",
+            "example": {
+                "en": "The coded material is fed into that machine.",
+                "vi": "Tài liệu đã được mã hóa được đưa vô cái máy kia."
+            }
+        },
+        {
+            "content": "sự lập mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mã hoá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

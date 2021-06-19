@@ -1,0 +1,89 @@
+{
+    "word": "feedback",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēdˌbak/",
+            "/ˈfidˌbæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːdbak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phản hồi",
+            "type": "noun",
+            "example": {
+                "en": "Second, you may get immediate feedback from your teacher.",
+                "vi": "Thứ hai, bạn có thể nhận được ý kiến phản hồi của giáo viên ngay lập tức."
+            }
+        },
+        {
+            "content": "hồi quy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hồi tiếp",
+            "type": "",
+            "example": {
+                "en": "And we need positive feedback loops",
+                "vi": "Và chúng ta cần những vòng hồi tiếp tích cực"
+            }
+        },
+        {
+            "content": "sự hoàn ngược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự liên hệ ngược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nối tiếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp ngược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "góp ý",
+            "type": "noun",
+            "example": {
+                "en": "This is a feedback box called a petition box.",
+                "vi": "Đây là một hòm thư góp ý gọi là hộp kiến nghị."
+            }
+        },
+        {
+            "content": "sự phản hồi",
+            "type": "",
+            "example": {
+                "en": "I'm dealing with, so I appreciate the feedback.",
+                "vi": "tôi đang hướng đến, vì thế tôi cảm kích sự phản hồi."
+            }
+        },
+        {
+            "content": "Thông tin phản hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông tin phản hồi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

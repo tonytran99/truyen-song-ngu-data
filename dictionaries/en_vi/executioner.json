@@ -1,0 +1,45 @@
+{
+    "word": "executioner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeksəˈkyo͞oSH(ə)nər/",
+            "/ˌɛksəˈkjuʃ(ə)nər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛksɪˈkjuːʃ(ə)nə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đao phủ",
+            "type": "noun",
+            "example": {
+                "en": "Inform the executioner his services will be required tomorrow morning.",
+                "vi": "Và ra lệnh cho đao phủ hắn sẽ có chuyện để làm sáng ngày mai."
+            }
+        },
+        {
+            "content": "người hành hình",
+            "type": "noun",
+            "example": {
+                "en": "I'm here to consult with you on the Baudelaire will, for which I understand you are the executioner.",
+                "vi": "Tôi tới đây để tư vấn cho ông về di chúc của nhà Baudelaire, mà tôi hiểu ông là người hành hình nó."
+            }
+        },
+        {
+            "content": "Đao phủ",
+            "type": "",
+            "example": {
+                "en": "Inform the executioner his services will be required tomorrow morning.",
+                "vi": "Và ra lệnh cho đao phủ hắn sẽ có chuyện để làm sáng ngày mai."
+            }
+        }
+    ]
+}

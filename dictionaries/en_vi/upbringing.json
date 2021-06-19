@@ -1,0 +1,45 @@
+{
+    "word": "upbringing",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəpˌbriNGiNG/",
+            "/ˈəpˌbrɪŋɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌpbrɪŋɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự dạy dỗ",
+            "type": "",
+            "example": {
+                "en": "In view of his upbringing, what made Moses’ mildness outstanding?",
+                "vi": "Nói đến sự dạy dỗ thuở thơ ấu của Môi-se, điều gì khiến tính mềm mại của ông đặc sắc?"
+            }
+        },
+        {
+            "content": "sự giáo dục",
+            "type": "",
+            "example": {
+                "en": "I didn't have quite the same upbringing as my adopted siblings.",
+                "vi": "Tôi không có được sự giáo dục như người anh em nuôi của tôi đâu."
+            }
+        },
+        {
+            "content": "dạy dỗ",
+            "type": "",
+            "example": {
+                "en": "However, some children who receive a good parental upbringing forsake the truth.",
+                "vi": "Tuy nhiên, một số trẻ em được cha mẹ dạy dỗ kỹ càng lại bỏ lẽ thật."
+            }
+        }
+    ]
+}

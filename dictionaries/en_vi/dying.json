@@ -1,0 +1,68 @@
+{
+    "word": "dying",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīiNG/",
+            "/ˈdaɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {
+                "en": "People are dying because they don't have jobs.",
+                "vi": "Người dân đang chết dần chết mòn vì không có việc làm."
+            }
+        },
+        {
+            "content": "hấp hối",
+            "type": "",
+            "example": {
+                "en": "Some adore their mothers, some cry when their dogs are dying.",
+                "vi": "Một vài tên tôn thờ mẹ chúng, một vài tên còn khóc khi chó của chúng hấp hối."
+            }
+        },
+        {
+            "content": "sắp tàn",
+            "type": "",
+            "example": {
+                "en": "The night was dark, except for the dying embers of the fire.",
+                "vi": "Bóng tối của màn đêm buông xuống, ngoại trừ đám tro sắp tàn."
+            }
+        },
+        {
+            "content": "sự chết",
+            "type": "noun",
+            "example": {
+                "en": "5 How did humans inherit the sinful, dying condition that plagues us all?",
+                "vi": "5 Tại sao tất cả chúng ta đều bị di truyền tội lỗi và sự chết?"
+            }
+        },
+        {
+            "content": "thốt ra lúc chết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn",
+            "type": "adjective",
+            "example": {
+                "en": "The night was dark, except for the dying embers of the fire.",
+                "vi": "Bóng tối của màn đêm buông xuống, ngoại trừ đám tro sắp tàn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "bazaar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈzär/",
+            "/bəˈzɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈzɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chợ",
+            "type": "noun",
+            "example": {
+                "en": "People sell military equipment in the bazaar .",
+                "vi": "Những người bán thiết bị quân sự trong chợ ."
+            }
+        },
+        {
+            "content": "hàng tạp hoá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

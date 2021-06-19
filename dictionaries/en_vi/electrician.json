@@ -1,0 +1,41 @@
+{
+    "word": "electrician",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlekˈtriSHən/",
+            "/əˌlɛkˈtrɪʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪlɛkˈtrɪʃ(ə)n/",
+            "/ˌɛlɛkˈtrɪʃ(ə)n/",
+            "/ˌiːlɛkˈtrɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ điện",
+            "type": "noun",
+            "example": {
+                "en": "But I think he looks more like our local electrician.",
+                "vi": "Nhưng tôi nghĩ ảnh trông giống anh thợ điện gần nhà hơn."
+            }
+        },
+        {
+            "content": "thợ lắp điện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Thợ sửa điện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

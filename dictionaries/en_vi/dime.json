@@ -1,0 +1,70 @@
+{
+    "word": "dime",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīm/",
+            "/daɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {
+                "en": "So the only way you're gonna survive is if you come back with every last dime.",
+                "vi": "Cho nên cách duy nhất mà mày có thể sống sót nếu mày mang về đủ tiền."
+            }
+        },
+        {
+            "content": "hào",
+            "type": "noun",
+            "example": {
+                "en": "I worked years on that farm and I never received a dime!",
+                "vi": "Ta đã làm lụng ở cái nông trại đó hàng năm trời mà không có nổi một hào!"
+            }
+        },
+        {
+            "content": "cắc",
+            "type": "noun",
+            "example": {
+                "en": "And you are not to spend a single dime of your own money.",
+                "vi": "Và nhớ đừng có dùng một xu một cắc nào tiền của hai người."
+            }
+        },
+        {
+            "content": "xu",
+            "type": "noun",
+            "example": {
+                "en": "If you flunk it, I don't lay out a dime.",
+                "vi": "Nếu anh đánh trật, tôi sẽ không xì ra một xu."
+            }
+        },
+        {
+            "content": "một hào",
+            "type": "",
+            "example": {
+                "en": "I worked years on that farm and I never received a dime!",
+                "vi": "Ta đã làm lụng ở cái nông trại đó hàng năm trời mà không có nổi một hào!"
+            }
+        },
+        {
+            "content": "rẻ tiền",
+            "type": "",
+            "example": {
+                "en": "I took him just like the dime novel says.",
+                "vi": "Tôi đã trả thù hắn giống y như trong tiểu thuyết rẻ tiền."
+            }
+        }
+    ]
+}

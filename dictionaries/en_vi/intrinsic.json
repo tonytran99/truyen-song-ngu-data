@@ -1,0 +1,64 @@
+{
+    "word": "intrinsic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtrinzik/",
+            "/ɪnˈtrɪnzɪk/",
+            "/inˈtrinsik/",
+            "/ɪnˈtrɪnsɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtrɪnsɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên trong",
+            "type": "",
+            "example": {
+                "en": "Because actually, never mind the actual intrinsic value",
+                "vi": "Vì đừng bận tâm tới giá trị đích thực bên trong"
+            }
+        },
+        {
+            "content": "bản chất",
+            "type": "noun",
+            "example": {
+                "en": "You're an intrinsically nice person, and I have a nose for these sorts of things.",
+                "vi": "Cô là người có bản chất tốt, mũi tôi thính mấy chuyện như vậy lắm."
+            }
+        },
+        {
+            "content": "nội tại",
+            "type": "",
+            "example": {
+                "en": "was it had to be passively and intrinsically safe,",
+                "vi": "chính là nó phải đảm bảo an toàn nội tại"
+            }
+        },
+        {
+            "content": "thực chất",
+            "type": "",
+            "example": {
+                "en": "And you also need to make it intrinsically interesting.",
+                "vi": "Và bạn cũng phải làm giáo dục thú vị một cách thực chất."
+            }
+        },
+        {
+            "content": "ở bên trong",
+            "type": "",
+            "example": {
+                "en": "to build a spectroscope that was intrinsically nano-scale.",
+                "vi": "cách chế tạo một kính quang phổ kích cỡ nano ở bên trong."
+            }
+        }
+    ]
+}

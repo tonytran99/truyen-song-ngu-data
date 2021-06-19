@@ -1,0 +1,147 @@
+{
+    "word": "butcher",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝oCHər/",
+            "/ˈbʊtʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊtʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hàng thịt",
+            "type": "noun",
+            "example": {
+                "en": "The baker was Polish, the butcher was Polish, and the parish priest was Polish.",
+                "vi": "Thợ làm bánh là người Ba Lan, người hàng thịt là người Ba Lan, và cha xứ cũng là người Ba Lan."
+            }
+        },
+        {
+            "content": "giết",
+            "type": "verb",
+            "example": {
+                "en": "And her prints were all over the pair of scissors that butchered him.",
+                "vi": "Và vân tay của cô ở đầy khắp trên chiếc kéo được dùng để giết anh ta."
+            }
+        },
+        {
+            "content": "thịt",
+            "type": "noun",
+            "example": {
+                "en": "We are not sheep to be made mutton of by your butchers.",
+                "vi": "Chúng tôi không phải là cừu để bị xả thịt bởi những tên đồ tể của ngài."
+            }
+        },
+        {
+            "content": "mổ",
+            "type": "verb",
+            "example": {
+                "en": "He had this huge butcher's knife.",
+                "vi": "Hắn có một cây dao mổ heo lớn kinh khủng."
+            }
+        },
+        {
+            "content": "giết chóc tàn sát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoa quả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khi in",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ hay tàn sát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ hung bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sai lạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạt sát",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "người bán hàng kẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sát sinh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thịt bò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt lợn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ tể",
+            "type": "noun",
+            "example": {
+                "en": "No butcher is going to touch my war brother.",
+                "vi": "Không một tên đồ tể nào đụng tới chiến hữu của tôi được."
+            }
+        },
+        {
+            "content": "đồ tễ",
+            "type": "",
+            "example": {
+                "en": "The boys call him the Butcher of Barcelona.",
+                "vi": "Người ta gọi hắn là Đồ Tễ Barcelona."
+            }
+        },
+        {
+            "content": "người bán thịt",
+            "type": "noun",
+            "example": {
+                "en": "Ask the butcher when the meats get marked down .",
+                "vi": "Hỏi người bán thịt xem họ đóng dấu thịt khi nào ."
+            }
+        },
+        {
+            "content": "tàn sát",
+            "type": "",
+            "example": {
+                "en": "They butchered my mother, everyone I ever knew.",
+                "vi": "Chúng tàn sát mẹ em, tất cả mọi người em biết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "washing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäSHiNG/",
+            "/ˈwɑʃɪŋ/",
+            "/ˈwôSHiNG/",
+            "/ˈwɔʃɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒʃɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quần áo giặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giặt",
+            "type": "verb",
+            "example": {
+                "en": "Pull into shape after washing.",
+                "vi": "Xếp gọn gàng sau khi giặt xong."
+            }
+        },
+        {
+            "content": "rửa",
+            "type": "verb",
+            "example": {
+                "en": "Can you help me with the washing up?",
+                "vi": "Bạn có thể giúp tôi rửa bát đĩa?"
+            }
+        },
+        {
+            "content": "sự giặt giũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rửa ráy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắm gội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắm rửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đãi quặng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "word": "distribute",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstribyo͞ot/",
+            "/dəˈstrɪbjut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstrɪbjuːt/",
+            "/ˈdɪstrɪbjuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân phát",
+            "type": "",
+            "example": {
+                "en": "The Watchtower magazine is the most widely translated and distributed journal in the world.",
+                "vi": "Tháp Canh là tạp chí được dịch và phân phát rộng rãi nhất trên thế giới."
+            }
+        },
+        {
+            "content": "phân phối",
+            "type": "",
+            "example": {
+                "en": "Distribution plant can't distribute if it's not getting deliveries.",
+                "vi": "Không thể phân phối nếu không nhận được hàng."
+            }
+        },
+        {
+            "content": "phân bố",
+            "type": "",
+            "example": {
+                "en": "How do we distribute ourselves around the world?",
+                "vi": "Chúng ta phân bố bản thân như thế nào vòng quanh thế giới?"
+            }
+        },
+        {
+            "content": "phân loại",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phát",
+            "type": "verb",
+            "example": {
+                "en": "In the past 10 years alone, 51 million copies have been distributed.",
+                "vi": "Chỉ trong mười năm vừa qua, 51 triệu quyển sách đã được phân phát."
+            }
+        },
+        {
+            "content": "phân",
+            "type": "noun",
+            "example": {
+                "en": "Generally within two months following conference, recordings are also available at distribution centers.",
+                "vi": "Thường sẽ có sẵn tại các trung tâm phân phối trong vòng hai tháng sau đại hội."
+            }
+        },
+        {
+            "content": "chia",
+            "type": "verb",
+            "example": {
+                "en": "Now we can distribute this stuff in many different ways.",
+                "vi": "Bây giờ chúng ta có thể chia những thứ này ra nhiều cách khác nhau."
+            }
+        },
+        {
+            "content": "rải",
+            "type": "verb",
+            "example": {
+                "en": "And he could have been distributing bombs right across the entire country by now.",
+                "vi": "Trong thời gian đó hắn có thể đã rải bom khắp cả nước rồi."
+            }
+        },
+        {
+            "content": "rắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ban phát",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phân bổ",
+            "type": "",
+            "example": {
+                "en": "Must be the way the weight is distributed.",
+                "vi": "Chắc là cái cách phân bổ trọng lượng."
+            }
+        },
+        {
+            "content": "sắp xếp",
+            "type": "verb",
+            "example": {
+                "en": "When the shipment arrived later that morning, the Haiti branch office staff set about organizing the supplies for distribution.",
+                "vi": "Sáng hôm đó, khi hàng được chuyển đến, các thành viên tại chi nhánh Haiti bắt đầu sắp xếp đồ phân phát."
+            }
+        },
+        {
+            "content": "xếp loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân tán",
+            "type": "",
+            "example": {
+                "en": "And he called it \"Git.\" Git is distributed version control.",
+                "vi": "Anh gọi nó là Git, nó kiểm soát phiên bản phân tán."
+            }
+        }
+    ]
+}

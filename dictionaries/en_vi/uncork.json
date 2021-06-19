@@ -1,0 +1,34 @@
+{
+    "word": "uncork",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈkôrk/",
+            "/ˌənˈkɔrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈkɔːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở nút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo nút",
+            "type": "",
+            "example": {
+                "en": "So did you uncork?",
+                "vi": "Vậy em đã tháo nút bần ra chưa?"
+            }
+        }
+    ]
+}

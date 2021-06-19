@@ -1,0 +1,63 @@
+{
+    "word": "whet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wet/",
+            "/(h)wɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mài",
+            "type": "verb",
+            "example": {
+                "en": "The only interesting thing he did, was to buy a whetting stone this morning.",
+                "vi": "Chỉ có một điều thú vị duy nhất hắn làm là mua một cục đá mài sáng nay."
+            }
+        },
+        {
+            "content": "gợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngụm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "There's nothing like a shot of whiskey to whet a man's appetite.",
+                "vi": "Không gì bằng một ngụm whiskey để kích thích vị giác."
+            }
+        },
+        {
+            "content": "mài sắc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

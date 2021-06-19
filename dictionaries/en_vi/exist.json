@@ -1,0 +1,91 @@
+{
+    "word": "exist",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzist/",
+            "/ɪɡˈzɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɪst/",
+            "/ɛɡˈzɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tồn tại",
+            "type": "verb",
+            "example": {
+                "en": "The user you to want to send this message to does not exist. Please try with another username.",
+                "vi": "Người dùng bạn muốn gởi tin này đến không tồn tại. Vui lòng thử tên khác."
+            }
+        },
+        {
+            "content": "存在",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "có",
+            "type": "verb",
+            "example": {
+                "en": "The only real proof that their secret world exists.",
+                "vi": "Bằng chứng thật chứng tỏ một thế giới ngầm có tồn tại."
+            }
+        },
+        {
+            "content": "sống",
+            "type": "verb noun",
+            "example": {
+                "en": "If volcanoes exist on other worlds, could we find life there, too?",
+                "vi": "Liệu chúng ta có thể tìm thấy sự sống ở nơi đó không?"
+            }
+        },
+        {
+            "content": "hiện có",
+            "type": "",
+            "example": {
+                "en": "So they're the last breeding pair in existence.",
+                "vi": "Chúng là những cặp cá thể cuối cùng hiện có."
+            }
+        },
+        {
+            "content": "hiện hành",
+            "type": "",
+            "example": {
+                "en": "Not every demand for change in the existing order should be heeded.",
+                "vi": "Không nên chiều theo mọi yêu cầu đòi thay đổi cái trật tự hiện hành."
+            }
+        },
+        {
+            "content": "sống còn",
+            "type": "verb",
+            "example": {
+                "en": "One does not part with the only copy in existence!",
+                "vi": "Ngừi ta không nên tách rời với cái tài liệu sống còn đó!"
+            }
+        },
+        {
+            "content": "tồn",
+            "type": "",
+            "example": {
+                "en": "The user you to want to send this message to does not exist. Please try with another username.",
+                "vi": "Người dùng bạn muốn gởi tin này đến không tồn tại. Vui lòng thử tên khác."
+            }
+        },
+        {
+            "content": "tiếp tục sống",
+            "type": "",
+            "example": {
+                "en": "She did not believe that Lazarus had already gone to some spirit realm to continue his existence.",
+                "vi": "Nàng không tin La-xa-rơ đã đi đến một cõi thần linh để tiếp tục sống."
+            }
+        }
+    ]
+}

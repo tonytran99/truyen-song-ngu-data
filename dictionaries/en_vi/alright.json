@@ -1,0 +1,47 @@
+{
+    "word": "alright",
+    "type": [
+        "adjective",
+        "interjection",
+        "adverb"
+    ],
+    "meanings": [
+        {
+            "content": "tốt",
+            "type": "adjective",
+            "example": {
+                "en": "She's alright, why are you being so dramatic?",
+                "vi": "Cô ấy tốt mà, sao em lại cực đoan về cô ấy thế?"
+            }
+        },
+        {
+            "content": "ổn",
+            "type": "",
+            "example": {
+                "en": "But everythings going to be alright, I promise you.",
+                "vi": "Nhưng bố hứa với con là mọi chuyện sẽ ổn."
+            }
+        },
+        {
+            "content": "khỏe mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "Alright, let's see if we can find someone... as healthy as you tomorrow.",
+                "vi": "Phải rồi, chúng ta hãy xem nếu chúng ta có thể tìm thấy một người nào đó... khỏe mạnh như anh ngày mai."
+            }
+        },
+        {
+            "content": "được",
+            "type": "adjective",
+            "example": {
+                "en": "Wait until you see what Sean can do, alright?",
+                "vi": "Cứ chờ đến lúc bác thấy Sean làm được gì."
+            }
+        },
+        {
+            "content": "dùng như all right",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

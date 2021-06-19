@@ -1,0 +1,79 @@
+{
+    "word": "imagine",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈmajən/",
+            "/ɪˈmædʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmadʒɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "I imagine Tom will be a finalist.",
+                "vi": "Tôi tưởng tượng Tom sẽ bào chung kết."
+            }
+        },
+        {
+            "content": "hình dung",
+            "type": "verb",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        },
+        {
+            "content": "tưởng rằng",
+            "type": "",
+            "example": {
+                "en": "I told myself that the intensity of the pain was only in my imagination.",
+                "vi": "Tôi đã tưởng rằng cơn đau đớn chỉ ở trong trí tưởng tượng của tôi mà thôi."
+            }
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "I suppose I can't imagine someone doing this on purpose.",
+                "vi": "Tôi cho rằng tôi không thể tưởng tượng được lại có người cố ý làm thế."
+            }
+        },
+        {
+            "content": "hình dong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nghĩ rằng",
+            "type": "",
+            "example": {
+                "en": "And I imagine you're paying it off as part of your deal?",
+                "vi": "Và tôi nghĩ rằng cô đang đền đáp lại vì cách họ đối đãi với cô?"
+            }
+        },
+        {
+            "content": "đoán được",
+            "type": "",
+            "example": {
+                "en": "( Eugene narrates ) Well, you could imagine what happened next.",
+                "vi": "Chắc các bạn cũng đoán được chuyện gì xảy ra tiếp theo."
+            }
+        }
+    ]
+}

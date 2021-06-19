@@ -1,0 +1,50 @@
+{
+    "word": "bookcase",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝okˌkās/",
+            "/ˈbʊkˌkeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊkkeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tủ sách",
+            "type": "noun",
+            "example": {
+                "en": "But big selling bookcase. How do we replicate this for children?",
+                "vi": "Nhưng tủ sách bán chạy. Làm sao để sao chép nó cho trẻ em?"
+            }
+        },
+        {
+            "content": "kệ sách",
+            "type": "noun",
+            "example": {
+                "en": "Is it behind this bookcase here?",
+                "vi": "Có phải nó ở đăng sau cái kệ sách này không?"
+            }
+        },
+        {
+            "content": "Kệ sách",
+            "type": "",
+            "example": {
+                "en": "Is it behind this bookcase here?",
+                "vi": "Có phải nó ở đăng sau cái kệ sách này không?"
+            }
+        },
+        {
+            "content": "giá sách",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

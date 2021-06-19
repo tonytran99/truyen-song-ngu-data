@@ -1,0 +1,314 @@
+{
+    "word": "hit",
+    "type": [
+        "pronoun",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hit/",
+            "/hɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh",
+            "type": "noun",
+            "example": {
+                "en": "She argued with him and then hit him.",
+                "vi": "Cô ta gây sự rồi đánh anh ấy."
+            }
+        },
+        {
+            "content": "đập",
+            "type": "noun",
+            "example": {
+                "en": "Parkin was knocked to the ground and hit his head on the rails in the courtyard.",
+                "vi": "Parkin bị đánh té xuống đất. và đầu ổng đập vô hàng rào của sân trong."
+            }
+        },
+        {
+            "content": "đụng",
+            "type": "verb",
+            "example": {
+                "en": "Watch out! That car almost hit you.",
+                "vi": "Hãy cẩn thận! Chiếc xe đó suýt nữa đụng anh rồi."
+            }
+        },
+        {
+            "content": "nện",
+            "type": "",
+            "example": {
+                "en": "I want you to hit me as hard as you can.",
+                "vi": "Tôi muốn anh nện tôi mạnh nhất có thể."
+            }
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {
+                "en": "I'm just trying to look out for the kids who got hit extra hard by this.",
+                "vi": "Thầy chỉ đang cố tìm ra những em bị ảnh hưởng nặng nề bởi chuyện này."
+            }
+        },
+        {
+            "content": "vớ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trúng",
+            "type": "verb",
+            "example": {
+                "en": "My sister hit the jackpot!",
+                "vi": "Chị tôi trúng giải độc đắc."
+            }
+        },
+        {
+            "content": "đòn",
+            "type": "",
+            "example": {
+                "en": "Maybe I wouldn't have trauma problems from being hit.",
+                "vi": "Có lẽ tôi không bị chấn thương vì ăn đòn."
+            }
+        },
+        {
+            "content": "va trúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc thành công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạt tới",
+            "type": "",
+            "example": {
+                "en": "It is hitting every high note. It is running a marathon.",
+                "vi": "đạt tới tầm cao mới, chạy một cuộc đua việt dã,"
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "These are now technologies that are hitting critical mass.",
+                "vi": "Bây giờ có những công nghệ đang tiến dần đến khối lượng tới hạn."
+            }
+        },
+        {
+            "content": "bản hit",
+            "type": "noun",
+            "example": {
+                "en": "And so, it was a ready-made hit.",
+                "vi": "Và vì vậy, bài hát trở thành một bản hit có sẵn"
+            }
+        },
+        {
+            "content": "cú đấm",
+            "type": "noun",
+            "example": {
+                "en": "One day he will be grateful for powerful attack that hit.",
+                "vi": "Rồi một ngày nó sẽ biết ơn vì những cú đấm đó của con."
+            }
+        },
+        {
+            "content": "cụng",
+            "type": "noun",
+            "example": {
+                "en": "I hit my head.",
+                "vi": "Tớ cụng đầu rồi."
+            }
+        },
+        {
+            "content": "làm tổn thương",
+            "type": "",
+            "example": {
+                "en": "And if you wanna hurt him real bad, you hit his wallet.",
+                "vi": "Và nếu anh thực sự muốn làm tổn thương hắn... anh phải đánh đúng ví tiền của hắn."
+            }
+        },
+        {
+            "content": "tẩn",
+            "type": "noun",
+            "example": {
+                "en": "I don't know whether to hit you or hug you.",
+                "vi": "Không biết nên ôm anh hay tẩn anh một trận đây."
+            }
+        },
+        {
+            "content": "đả",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thụi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ghè",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bắn trúng",
+            "type": "",
+            "example": {
+                "en": "I hit the sign and it hit him.",
+                "vi": "Tôi bắn trúng cái bảng và cái bảng rớt trúng hắn."
+            }
+        },
+        {
+            "content": "cú đánh trúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp với",
+            "type": "",
+            "example": {
+                "en": "We'll take everything that made Death Match a hit, combine it with everything we have at our disposal.",
+                "vi": "Ta sẽ tận dụng mọi thứ đã từng có ở \" Trận đấu tử thần \", kết hợp với mọi thứ ta có."
+            }
+        },
+        {
+            "content": "mê đắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận xét gay gắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhằm đánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ném trúng",
+            "type": "",
+            "example": {
+                "en": "Several hit the mark, and the bishop was drenched.",
+                "vi": "Một vài quả banh ném trúng đích và vị giám trợ bị ướt sũng."
+            }
+        },
+        {
+            "content": "va phải",
+            "type": "",
+            "example": {
+                "en": "“When you hit someone, you can say ‘sorry’ and help them up.”",
+                "vi": "“Khi ta va phải một ai đó và làm họ ngã, thì ta có thể nói ‘xin lỗi’ và giúp họ đứng lên.”"
+            }
+        },
+        {
+            "content": "việc may mắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc đạt kết quả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vấp phải",
+            "type": "",
+            "example": {
+                "en": "His wife slipped on a bar of soap and hit the washbasin.",
+                "vi": "Vợ anh ta vấp phải cục xà bông và đập trúng phải bồn rửa mặt."
+            }
+        },
+        {
+            "content": "đam mê",
+            "type": "",
+            "example": {
+                "en": "You know, before this, a passion could come and hit you in the face,",
+                "vi": "Bạn biết đấy, trước đó, niềm đam mê có thể xuất hiện ngay trước mặt bạn"
+            }
+        },
+        {
+            "content": "đánh đập",
+            "type": "",
+            "example": {
+                "en": "If they were caught and hit, bit this, the wounds would be healed faster.",
+                "vi": "Nếu họ bị bắt và đánh đập, họ nhai nó. Vết thương sẽ mau lành hơn."
+            }
+        },
+        {
+            "content": "đúng với",
+            "type": "",
+            "example": {
+                "en": "That's a long way from a self-assured unsub who hits the clubs.",
+                "vi": "Điều đó không đúng với 1 hung thủ tự tin bước vào club."
+            }
+        },
+        {
+            "content": "đạt được",
+            "type": "",
+            "example": {
+                "en": "They often hit their target but miss the point.",
+                "vi": "Chúng thường đạt được mục tiêu nhưng bỏ lỡ ý tưởng."
+            }
+        },
+        {
+            "content": "đấm trúng",
+            "type": "",
+            "example": {
+                "en": "but before his fist hits anything,",
+                "vi": "nhưng trước khi nó kịp đấm trúng,"
+            }
+        },
+        {
+            "content": "đâm",
+            "type": "",
+            "example": {
+                "en": "A few days ago a car hit the billboard.",
+                "vi": "Mấy ngày trước có một chiếc xe đâm vào biển báo."
+            }
+        },
+        {
+            "content": "đấm",
+            "type": "",
+            "example": {
+                "en": "I really need to hit somebody.",
+                "vi": "Tôi muốn đấm ai đó cho thỏa thích."
+            }
+        },
+        {
+            "content": "中",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cú đánh",
+            "type": "noun",
+            "example": {
+                "en": "I didn't know Pudge was gonna hit a home run.",
+                "vi": "Tôi không biết là Pudge có một cú đánh chạy vòng như thế đấy."
+            }
+        },
+        {
+            "content": "lần ghé, trúng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

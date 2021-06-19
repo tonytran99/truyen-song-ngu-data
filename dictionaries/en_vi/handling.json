@@ -1,0 +1,37 @@
+{
+    "word": "handling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandliNG/",
+            "/ˈhændlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỉnh lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xử lý",
+            "type": "",
+            "example": {
+                "en": "My assistant will handle that.",
+                "vi": "Trợ lý của tôi sẽ xử lý việc đó."
+            }
+        },
+        {
+            "content": "điều khiển",
+            "type": "",
+            "example": {
+                "en": "Maybe you don't know how to handle a sensitive one like this.",
+                "vi": "Có lẽ anh không có đủ khả năng để điều khiển nó."
+            }
+        }
+    ]
+}

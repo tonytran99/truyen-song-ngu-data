@@ -1,0 +1,47 @@
+{
+    "word": "excepting",
+    "type": [
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈseptiNG/",
+            "/ɪkˈsɛptɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsɛptɪŋ/",
+            "/ɛkˈsɛptɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trừ",
+            "type": "verb",
+            "example": {
+                "en": "Tom told Mary that everybody except John had already arrived.",
+                "vi": "Tom nói với Mary rằng mọi người đều đã đến ngoại trừ John."
+            }
+        },
+        {
+            "content": "không kể",
+            "type": "",
+            "example": {
+                "en": "except a few weeks here, a few weeks there.",
+                "vi": "không kể một vài tuần nay đây mai đó."
+            }
+        },
+        {
+            "content": "trừ phi",
+            "type": "",
+            "example": {
+                "en": "Neither could prevail except at the expense of the other.",
+                "vi": "Không một người nào có thể thắng trừ phi người kia phải bị thua thiệt."
+            }
+        }
+    ]
+}

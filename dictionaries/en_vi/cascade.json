@@ -1,0 +1,78 @@
+{
+    "word": "cascade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaˈskād/",
+            "/kæˈskeɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kasˈkeɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tầng",
+            "type": "noun",
+            "example": {
+                "en": "And then on top of that, that's created a kind of cascading effect.",
+                "vi": "Sau cùng, điều này đã tạo ra một dạng ảnh hưởng phân tầng."
+            }
+        },
+        {
+            "content": "thác nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đợt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "chảy như thác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghép tầng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màn ren treo rủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nối tầng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ xuống như thác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thác",
+            "type": "",
+            "example": {
+                "en": "has been the discovery of widespread trophic cascades.",
+                "vi": "đã khám phá ra thác dinh dưỡng phổ biến."
+            }
+        }
+    ]
+}

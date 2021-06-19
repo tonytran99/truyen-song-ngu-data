@@ -1,0 +1,52 @@
+{
+    "word": "broke",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brōk/",
+            "/broʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brəʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bần cùng",
+            "type": "",
+            "example": {
+                "en": "a broke Walmart employee with a history of mental problems.",
+                "vi": "nhân viên bần cùng ở Wakmart có vấn đề về thần kinh."
+            }
+        },
+        {
+            "content": "khánh kiệt",
+            "type": "",
+            "example": {
+                "en": "Leave the guy broke and clueless as to who made him that way.",
+                "vi": "Khiến cho hắn khánh kiệt và chẳng biết kẻ nào đã làm hắn bị thế."
+            }
+        },
+        {
+            "content": "túng quẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hết tiền",
+            "type": "",
+            "example": {
+                "en": "Life goes on for those who are divorced, broke and sloppy.",
+                "vi": "Cuộc đời vẫn tiếp diễn, ngay cả với những người... đã ly dị, hết tiền hay bê bối."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "frighten",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrītn/",
+            "/ˈfraɪtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrʌɪt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm hoảng sợ",
+            "type": "",
+            "example": {
+                "en": "But don't frighten the poor girl.",
+                "vi": "Nhưng đừng có làm hoảng sợ cô gái tội nghiệp."
+            }
+        },
+        {
+            "content": "làm sợ",
+            "type": "",
+            "example": {
+                "en": "I'm frightened of him.",
+                "vi": "Tôi bị nó làm sợ nè."
+            }
+        },
+        {
+            "content": "hãi",
+            "type": "",
+            "example": {
+                "en": "Tom felt helpless and frightened.",
+                "vi": "Tom cảm thấy bất lực và sợ hãi."
+            }
+        },
+        {
+            "content": "làm sợ hãi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

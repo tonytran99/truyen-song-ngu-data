@@ -1,0 +1,38 @@
+{
+    "word": "archetype",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärkəˌtīp/",
+            "/ˈɑrkəˌtaɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːkɪtʌɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên mẫu",
+            "type": "noun",
+            "example": {
+                "en": "And we can actually recreate the archetypal forms of nature.",
+                "vi": "Chúng ta có thể tái tạo các dạng nguyên mẫu của tự nhiên."
+            }
+        },
+        {
+            "content": "nguyên hình",
+            "type": "noun",
+            "example": {
+                "en": "Basically, they're saying that it's like an archetype of life.",
+                "vi": "Về căn bản, họ nói nó giống như nguyên hình của sự sống."
+            }
+        }
+    ]
+}

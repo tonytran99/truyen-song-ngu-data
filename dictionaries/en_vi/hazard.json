@@ -1,0 +1,88 @@
+{
+    "word": "hazard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhazərd/",
+            "/ˈhæzərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhazəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguy hiểm",
+            "type": "noun",
+            "example": {
+                "en": "Yes, the road has bumps and detours and even some hazards.",
+                "vi": "Vâng, con đường ghập ghềnh và chông gai và thậm chí còn nguy hiểm nữa."
+            }
+        },
+        {
+            "content": "mạo hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "within the bat genome? Does anybody want to hazard",
+                "vi": "trong bộ gen của dơi? Có ai muốn mạo hiểm"
+            }
+        },
+        {
+            "content": "sự may rủi",
+            "type": "noun",
+            "example": {
+                "en": "Man would have to put his soul at hazard.",
+                "vi": "Một người đàn ông phải phó mặc tâm hồn mình cho sự may rủi."
+            }
+        },
+        {
+            "content": "đánh bạo",
+            "type": "",
+            "example": {
+                "en": "I hazard a guess it must be a very large one?",
+                "vi": "Tôi đánh bạo đoán rằng đó chắc phải là nơi lớn lắm?"
+            }
+        },
+        {
+            "content": "liều",
+            "type": "",
+            "example": {
+                "en": "I am a knight, and I will put myself to the hazard!",
+                "vi": "Anh là một hiệp sĩ... và anh sẽ liều mình!"
+            }
+        },
+        {
+            "content": "mối nguy hiểm",
+            "type": "",
+            "example": {
+                "en": "Together they consider the hazards and steer the ship through any narrow channels to the port.",
+                "vi": "Họ cùng nhau cân nhắc những mối nguy hiểm và lái tàu qua các lối hẹp vào cảng."
+            }
+        },
+        {
+            "content": "bến xe ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối nguy",
+            "type": "noun",
+            "example": {
+                "en": "It is good to learn in advance about potential hearing hazards.",
+                "vi": "Nên biết trước những mối nguy hại đối với thính giác."
+            }
+        },
+        {
+            "content": "trò chơi đen đỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

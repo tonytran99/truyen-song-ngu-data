@@ -1,0 +1,60 @@
+{
+    "word": "insufficient",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinsəˈfiSH(ə)nt/",
+            "/ˌɪnsəˈfɪʃ(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnsəˈfɪʃ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không đủ",
+            "type": "adjective",
+            "example": {
+                "en": "A person may speak with insufficient volume because of having a weak voice.",
+                "vi": "Một người có thể nói không đủ nghe vì giọng yếu."
+            }
+        },
+        {
+            "content": "bất túc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không đầy đủ",
+            "type": "adjective",
+            "example": {
+                "en": "Here, what you see is a picture that shows insufficient democracy.",
+                "vi": "Ở đây, những gì bạn nhìn thấy là một hình ảnh của nền dân chủ không đầy đủ."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "protect the park from polluted water or insufficient water.",
+                "vi": "bảo vệ công viên khỏi nguồn nước ô nhiễm hoặc sự thiếu hụt nước."
+            }
+        },
+        {
+            "content": "thiếu sót",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất cập",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

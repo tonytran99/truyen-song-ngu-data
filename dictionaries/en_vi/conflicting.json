@@ -1,0 +1,38 @@
+{
+    "word": "conflicting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfliktiNG/",
+            "/kənˈflɪktɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈflɪktɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mâu thuẫn",
+            "type": "adjective",
+            "example": {
+                "en": "There's no infighting, there's no conflict over territory.",
+                "vi": "Sẽ không có tranh chấp nội bộ, không có mâu thuẫn tranh giành địa bàn."
+            }
+        },
+        {
+            "content": "đối lập",
+            "type": "adjective",
+            "example": {
+                "en": "These two powers would always have conflicting interests.",
+                "vi": "Hai cường quốc này sẽ luôn luôn có quyền lợi đối lập với nhau."
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "customs",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəstəmz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌstəmz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hải quan",
+            "type": "noun",
+            "example": {
+                "en": "We've had very interesting conversations with customs border agents.",
+                "vi": "Và chúng tôi đã trò chuyện rất thú vị với những nhân viên hải quan."
+            }
+        },
+        {
+            "content": "thuế nhập khẩu",
+            "type": "plural",
+            "example": {}
+        },
+        {
+            "content": "ngành hải quan",
+            "type": "plural",
+            "example": {}
+        },
+        {
+            "content": "Hải quan",
+            "type": "",
+            "example": {
+                "en": "So, customs is letting me keep the dress, but not the pearls.",
+                "vi": "Bên Hải Quan cho tôi được giữ bộ váy, nhưng chuỗi ngọc trai thì không."
+            }
+        }
+    ]
+}

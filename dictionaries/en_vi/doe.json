@@ -1,0 +1,69 @@
+{
+    "word": "doe",
+    "type": [
+        "noun",
+        "adverb",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dō/",
+            "/doʊ/",
+            "/ˌdē ō ˈē/",
+            "/ˌdi oʊ ˈi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nai cái",
+            "type": "noun",
+            "example": {
+                "en": "By the gazelles+ and the does of the field:",
+                "vi": "Nhân danh linh dương+ và nai cái đồng nội:"
+            }
+        },
+        {
+            "content": "hoãng cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hươu cái",
+            "type": "noun",
+            "example": {
+                "en": "And you cast the doe as well, did you?",
+                "vi": "Chính cậu đã điều khiển con hươu cái đó đúng không?"
+            }
+        },
+        {
+            "content": "thỏ cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thỏ rừng cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoẵng cái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hươu",
+            "type": "noun",
+            "example": {
+                "en": "And you cast the doe as well, did you?",
+                "vi": "Chính cậu đã điều khiển con hươu cái đó đúng không?"
+            }
+        }
+    ]
+}

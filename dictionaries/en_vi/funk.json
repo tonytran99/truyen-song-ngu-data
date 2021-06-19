@@ -1,0 +1,79 @@
+{
+    "word": "funk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəNGk/",
+            "/fəŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sợ",
+            "type": "verb",
+            "example": {
+                "en": "Albert, I know you're taking this breakup really hard, and I understand, but you got to get out of this funk.",
+                "vi": "Albert, tôi hiểu cậu gặp khó khăn khi bị đá, nhưng cậu phải vượt qua nỗi sợ này."
+            }
+        },
+        {
+            "content": "lẩn tránh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sợ hãi",
+            "type": "adjective",
+            "example": {
+                "en": "Let's get you out of that funk.",
+                "vi": "Bỏ qua nỗi sợ hãi đó đi."
+            }
+        },
+        {
+            "content": "sự kinh sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chùn bước",
+            "type": "",
+            "example": {
+                "en": "Derek never came out of the funk.",
+                "vi": "Derek không bao giờ chùn bước."
+            }
+        },
+        {
+            "content": "hoảng sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ nhát gan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trốn tránh",
+            "type": "",
+            "example": {
+                "en": "Albert, I know you're taking this breakup really hard, and I understand, but you got to get out of this funk.",
+                "vi": "Albert, tôi biết cậu thấy chuyện chia tay rất khó khăn, và tôi hiểu điều đó, nhưng cậu phải thôi trốn tránh đi."
+            }
+        }
+    ]
+}

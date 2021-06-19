@@ -1,0 +1,41 @@
+{
+    "word": "croatian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krōˈāSHən/",
+            "/kroʊˈeɪʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəʊˈeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Tiếng Cro-xi-an",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người Croa-ti-a",
+            "type": "noun",
+            "example": {
+                "en": "Same goes for the Croatians and the Nazis back in World War ll.",
+                "vi": "Cũng như người Croa-ti-a và Nazis trong thế chiến."
+            }
+        },
+        {
+            "content": "tiếng Cro-xi-an",
+            "type": "proper",
+            "example": {}
+        }
+    ]
+}

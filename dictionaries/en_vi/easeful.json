@@ -1,0 +1,51 @@
+{
+    "word": "easeful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēzfəl/",
+            "/ˈizfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːzfʊl/",
+            "/ˈiːzf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm dịu",
+            "type": "",
+            "example": {
+                "en": "Will you do a painting just for me... to ease my pain?",
+                "vi": "Anh có thể vẽ một bức vẽ riêng cho tôi, để làm dịu nỗi đau?"
+            }
+        },
+        {
+            "content": "tha thẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh thản",
+            "type": "",
+            "example": {
+                "en": "But you must set my soul at ease, Father.",
+                "vi": "Cầu xin cha cho tâm hồn con thanh thản, Thưa cha."
+            }
+        },
+        {
+            "content": "thoải mái",
+            "type": "",
+            "example": {
+                "en": "A dog in the office may help someone be more at ease .",
+                "vi": "Nuôi chó trong cơ quan có thể làm cho người ta thoải mái hơn ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "beach",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēCH/",
+            "/bitʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bãi biển",
+            "type": "noun",
+            "example": {
+                "en": "We had a fun day at the beach.",
+                "vi": "Chúng tôi đã có một ngày thật vui ở bãi biển."
+            }
+        },
+        {
+            "content": "sỏi cát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bãi biển",
+            "type": "",
+            "example": {
+                "en": "We had a fun day at the beach.",
+                "vi": "Chúng tôi đã có một ngày thật vui ở bãi biển."
+            }
+        }
+    ]
+}

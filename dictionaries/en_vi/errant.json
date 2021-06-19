@@ -1,0 +1,63 @@
+{
+    "word": "errant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerənt/",
+            "/ˈɛrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giang hồ",
+            "type": "adjective",
+            "example": {
+                "en": "Is this an errant apprentice or captive?",
+                "vi": "Đệ tử giang hồ hay tù nhân của ngươi?"
+            }
+        },
+        {
+            "content": "không đúng tiêu chuẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "knight-errant",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lang thang",
+            "type": "verb",
+            "example": {
+                "en": "The girl follows heel like errant pup, since I took her master's life.",
+                "vi": "Cô gái đó theo chân anh như một con cún lang thang, từ khi anh lấy đi mạng sống của chủ cô ta."
+            }
+        },
+        {
+            "content": "sai lầm",
+            "type": "",
+            "example": {
+                "en": "I would give no errant cause to doubt intention.",
+                "vi": "Không được tạo ra bất cứ sai lầm nào gây ra ngờ vực cả."
+            }
+        },
+        {
+            "content": "sai sót",
+            "type": "",
+            "example": {
+                "en": "But not when it 's time to rein in errant behavior .",
+                "vi": "Nhưng không phải là lúc kiềm chế hành vi sai sót ."
+            }
+        }
+    ]
+}

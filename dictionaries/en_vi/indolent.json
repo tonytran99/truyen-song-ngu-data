@@ -1,0 +1,44 @@
+{
+    "word": "indolent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈindələnt/",
+            "/ˈɪndələnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnd(ə)l(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biếng nhác",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm biếng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lười biếng",
+            "type": "adjective",
+            "example": {
+                "en": "Since I have become eminent, I have grown indolent.",
+                "vi": "Từ khi trở thành Đức ông, Tôi trở nên lười biếng."
+            }
+        }
+    ]
+}

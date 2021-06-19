@@ -1,0 +1,56 @@
+{
+    "word": "us",
+    "type": [
+        "symbol",
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əs/",
+            "/ˌyo͞o ˈes/",
+            "/ˌju ˈɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chúng ta",
+            "type": "pronoun",
+            "example": {
+                "en": "It's over between us. Give me back my ring!",
+                "vi": "Chuyện giữa chúng ta kết thúc rồi. Trả lại tôi chiếc nhẫn!"
+            }
+        },
+        {
+            "content": "chúng tôi",
+            "type": "pronoun",
+            "example": {
+                "en": "If you will help us, we will be very glad.",
+                "vi": "Nếu bạn giúp chúng tôi, chúng tôi sẽ rất vui."
+            }
+        },
+        {
+            "content": "chúng mình",
+            "type": "pronoun",
+            "example": {
+                "en": "I told her how things were with us.",
+                "vi": "Anh nói với cô ấy mọi chuyện đã xãy ra với chúng mình."
+            }
+        },
+        {
+            "content": "chúng",
+            "type": "pronoun",
+            "example": {
+                "en": "Though living next door, he doesn't even say hello to us.",
+                "vi": "Mặc dù nhà gần nhau, anh ta chưa từng chào hỏi chúng tôi."
+            }
+        }
+    ]
+}

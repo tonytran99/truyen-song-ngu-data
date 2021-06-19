@@ -1,0 +1,35 @@
+{
+    "word": "continental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkäntəˈnent(ə)l/",
+            "/ˌkɑntəˈnɛnt(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒntɪˈnɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lục địa",
+            "type": "noun",
+            "example": {
+                "en": "the fallout of continental dust from central Asia.",
+                "vi": "khỏi hậu quả của bụi lục địa từ Trung Á."
+            }
+        },
+        {
+            "content": "đại lục",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

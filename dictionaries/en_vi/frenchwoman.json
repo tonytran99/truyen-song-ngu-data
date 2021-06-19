@@ -1,0 +1,44 @@
+{
+    "word": "frenchwoman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfren(t)SHˌwo͝omən/",
+            "/ˈfrɛn(t)ʃˌwʊmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛn(t)ʃwʊmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người đàn bà Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn bà Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người Pháp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phụ nữ Pháp",
+            "type": "",
+            "example": {
+                "en": "Our cook, a Frenchwoman told old Julietta.",
+                "vi": "Đầu bếp của chúng tôi, một phụ nữ Pháp: bà già Juliette."
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "word": "bathe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bāT͟H/",
+            "/beɪð/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/beɪð/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tắm",
+            "type": "verb",
+            "example": {
+                "en": "Mary went out into the bath wearing only a towel.",
+                "vi": "Mary bước ra khỏi nhà tắm chỉ với khăn tắm trên người."
+            }
+        },
+        {
+            "content": "tắm rửa",
+            "type": "verb",
+            "example": {
+                "en": "And when they really want it, they give it a bath first.",
+                "vi": "Và khi họ thật sự muốn, họ cho nó tắm rửa sạch sẽ."
+            }
+        },
+        {
+            "content": "rửa ráy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắm gội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rửa",
+            "type": "verb",
+            "example": {
+                "en": "And when they really want it, they give it a bath first.",
+                "vi": "Và khi họ thật sự muốn, họ cho nó tắm rửa sạch sẽ."
+            }
+        },
+        {
+            "content": "ngâm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đầm mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao bọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chảy qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ngập trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rửa sạch",
+            "type": "",
+            "example": {
+                "en": "And when they really want it, they give it a bath first.",
+                "vi": "Và khi họ thật sự muốn, họ cho nó tắm rửa sạch sẽ."
+            }
+        },
+        {
+            "content": "sự tắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp giáp với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở sát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

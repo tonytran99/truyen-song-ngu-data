@@ -1,0 +1,52 @@
+{
+    "word": "exam",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzam/",
+            "/ɪɡˈzæm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzam/",
+            "/ɛɡˈzam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỳ thi",
+            "type": "",
+            "example": {
+                "en": "Study hard so that you can pass the exam.",
+                "vi": "Học chăm chỉ thì bạn mới có thể vượt qua kỳ thi."
+            }
+        },
+        {
+            "content": "thi",
+            "type": "noun",
+            "example": {
+                "en": "It serves you right that you failed your exam. You didn't study for it at all.",
+                "vi": "Bạn thi rớt là đáng đời. Bạn đã không học thi gì cả."
+            }
+        },
+        {
+            "content": "bài thi",
+            "type": "noun",
+            "example": {
+                "en": "A brother has to go write his sister's exam.",
+                "vi": "Một người anh phải đến trường viết bài thi hộ em gái."
+            }
+        },
+        {
+            "content": "của examination",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

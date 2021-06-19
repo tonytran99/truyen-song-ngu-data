@@ -1,0 +1,87 @@
+{
+    "word": "floating",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflōdiNG/",
+            "/ˈfloʊdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfləʊtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thay đổi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "di động",
+            "type": "adjective noun",
+            "example": {
+                "en": "I've never been in a floating house before.",
+                "vi": "Cháu chưa từng được thấy một ngôi nhà di động."
+            }
+        },
+        {
+            "content": "nổi",
+            "type": "verb",
+            "example": {
+                "en": "As bits of rare meat floated in the broth .",
+                "vi": "Nhìn những miếng thịt trôi nổi trong nước dùng ."
+            }
+        },
+        {
+            "content": "phiếm định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hạ thuỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khai trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khởi công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thả trôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trôi",
+            "type": "verb",
+            "example": {
+                "en": "As bits of rare meat floated in the broth .",
+                "vi": "Nhìn những miếng thịt trôi nổi trong nước dùng ."
+            }
+        },
+        {
+            "content": "để bơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

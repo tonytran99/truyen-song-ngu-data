@@ -1,0 +1,96 @@
+{
+    "word": "honey",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhənē/",
+            "/ˈhəni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mật ong",
+            "type": "noun",
+            "example": {
+                "en": "Adam, you wouldn't believe how much honey was out there.",
+                "vi": "Adam, cậu sẽ không tin có bao nhiêu mật ong ngoài kia."
+            }
+        },
+        {
+            "content": "mật",
+            "type": "noun",
+            "example": {
+                "en": "Adam, you wouldn't believe how much honey was out there.",
+                "vi": "Adam, cậu sẽ không tin có bao nhiêu mật ong ngoài kia."
+            }
+        },
+        {
+            "content": "anh yêu",
+            "type": "",
+            "example": {
+                "en": "Why don't you tell our daughter about it, honey?",
+                "vi": "Sao anh không kể cho con gái mình nghe, anh yêu?"
+            }
+        },
+        {
+            "content": "anh yêu quý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con yêu quý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "em yêu",
+            "type": "",
+            "example": {
+                "en": "Look, I got this down to a science, honey.",
+                "vi": "Nhìn này, anh lo được hết, em yêu."
+            }
+        },
+        {
+            "content": "em yêu quý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mình yêu quý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dịu dàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngọt ngào",
+            "type": "",
+            "example": {
+                "en": "♫ Gone with the last train, honey don't you fret ♫",
+                "vi": "♫ Ra đi trên chuyến tàu cuối cùng, sự ngọt ngào đang lan tỏa♫"
+            }
+        },
+        {
+            "content": "Mật ong",
+            "type": "",
+            "example": {
+                "en": "Okay, honey's coming, honey's coming.",
+                "vi": "Mật ong tới đây, mật ong tới đây."
+            }
+        }
+    ]
+}

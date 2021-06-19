@@ -1,0 +1,34 @@
+{
+    "word": "gingivitis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌjinjəˈvīdəs/",
+            "/ˌdʒɪndʒəˈvaɪdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdʒɪndʒɪˈvʌɪtɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng viêm nướu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "viêm lợi",
+            "type": "noun",
+            "example": {
+                "en": "Saliva helps protect teeth and gums from bacteria that cause cavities and gingivitis .",
+                "vi": "Nước bọt giúp bảo vệ răng và nướu chống lại vi khuẩn gây sâu răng và viêm lợi ."
+            }
+        }
+    ]
+}

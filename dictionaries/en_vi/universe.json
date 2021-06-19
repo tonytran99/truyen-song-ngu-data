@@ -1,0 +1,68 @@
+{
+    "word": "universe",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞onəˌvərs/",
+            "/ˈjunəˌvərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːnɪvəːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vũ trụ",
+            "type": "noun",
+            "example": {
+                "en": "There's no doubt: the universe is infinite.",
+                "vi": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+            }
+        },
+        {
+            "content": "宇宙",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thế giới",
+            "type": "noun",
+            "example": {
+                "en": "A different universe in which you make a better move.",
+                "vi": "Một thế giới khác mà ở đó mày thực hiện một nước đi tốt hơn."
+            }
+        },
+        {
+            "content": "vạn vật",
+            "type": "",
+            "example": {
+                "en": "we kept emphasizing the laws of physics are universal.",
+                "vi": "chúng ta nhấn mạnh rằng những quy luật của vật lý áp dụng cho vạn vật."
+            }
+        },
+        {
+            "content": "càn khôn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thiên hạ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thế gian",
+            "type": "",
+            "example": {
+                "en": "Everything else in the universe is the same.",
+                "vi": "Mọi thứ khác trên thế gian cũng như vậy."
+            }
+        }
+    ]
+}

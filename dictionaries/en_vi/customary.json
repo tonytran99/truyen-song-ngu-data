@@ -1,0 +1,66 @@
+{
+    "word": "customary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəstəˌmerē/",
+            "/ˈkəstəˌmɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌstəm(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình thường",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "theo lệ thường",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "theo phong tục",
+            "type": "noun",
+            "example": {
+                "en": "What is a customary marriage, and what is advisable after such a marriage?",
+                "vi": "Hôn lễ theo phong tục là gì, và nên làm gì sau hôn lễ đó?"
+            }
+        },
+        {
+            "content": "theo truyền thống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo tục lệ",
+            "type": "noun",
+            "example": {
+                "en": "It was customary for a servant to pour water over the hands of his master for washing, particularly after meals.",
+                "vi": "Theo tục lệ thì một tôi tớ hay đổ nước trên hai bàn tay để chủ rửa tay, đặc biệt sau bữa ăn."
+            }
+        },
+        {
+            "content": "thành thói quen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông thường",
+            "type": "noun",
+            "example": {
+                "en": "Well, then, it's usually customary to bring the money with you.",
+                "vi": "Vậy thông thường thì ông phải mang theo tiền chứ ạ. Hả?"
+            }
+        }
+    ]
+}

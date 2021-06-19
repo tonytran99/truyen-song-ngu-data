@@ -1,0 +1,42 @@
+{
+    "word": "dismantle",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈman(t)l/",
+            "/dɪsˈmæn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈmant(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháo dỡ",
+            "type": "",
+            "example": {
+                "en": "One morning, I climbed up pretty high on the building to help with dismantling.",
+                "vi": "Vào một buổi sáng, tôi leo lên khá cao để phụ giúp tháo dỡ."
+            }
+        },
+        {
+            "content": "phá huỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "triệt phá",
+            "type": "",
+            "example": {
+                "en": "More than enough time to dismantle the League from the inside.",
+                "vi": "Thừa thời gian để triệt phá Liên Minh từ bên trong."
+            }
+        }
+    ]
+}

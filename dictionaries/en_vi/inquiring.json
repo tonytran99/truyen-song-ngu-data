@@ -1,0 +1,86 @@
+{
+    "word": "inquiring",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkwīriNG/",
+            "/ɪnˈkwaɪrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkwʌɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dò hỏi",
+            "type": "",
+            "example": {
+                "en": "Are you inquiring about my personal life?",
+                "vi": "Anh đang dò hỏi đời tư của tôi đấy à?"
+            }
+        },
+        {
+            "content": "hiếu kỳ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "học hỏi",
+            "type": "adjective",
+            "example": {
+                "en": "Nothing is more nourishing, more stimulating to an active, inquiring mind than being surprised, being amazed.",
+                "vi": "Còn gì bổ dưỡng và thú vị với bộ óc chủ động và ham học hỏi bằng sự ngạc nhiên và sự choáng ngợp?"
+            }
+        },
+        {
+            "content": "quan sát",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thẩm tra",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tìm hiểu",
+            "type": "",
+            "example": {
+                "en": "If you wish to marry well, inquire well.",
+                "vi": "Nếu các anh chị em muốn kết hôn đúng, hãy tìm hiểu rõ."
+            }
+        },
+        {
+            "content": "tìm tòi",
+            "type": "",
+            "example": {
+                "en": "Many young people have an inquiring mind.",
+                "vi": "Nhiều người trẻ có óc tìm tòi."
+            }
+        },
+        {
+            "content": "tò mò",
+            "type": "",
+            "example": {
+                "en": "I must confess, I did myself inquire about you.",
+                "vi": "Cháu phải thú nhận, cháu khá tò mò về ông."
+            }
+        },
+        {
+            "content": "điều tra",
+            "type": "adjective",
+            "example": {
+                "en": "Now, Wendell, did you inquire about the lock cylinder?",
+                "vi": "Wendell, anh đã điều tra về cái ổ khóa chưa?"
+            }
+        }
+    ]
+}

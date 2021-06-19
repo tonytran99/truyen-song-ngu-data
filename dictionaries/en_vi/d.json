@@ -1,0 +1,54 @@
+{
+    "word": "d",
+    "type": [
+        "Letter",
+        "symbol",
+        "adjective",
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diː/",
+            "/dē/",
+            "/di/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Đ",
+            "type": "Letter",
+            "example": {}
+        },
+        {
+            "content": "rê",
+            "type": "",
+            "example": {
+                "en": "So it goes D to B minor.",
+                "vi": "Đi từ Rê thứ đến Xi thứ."
+            }
+        },
+        {
+            "content": "vật hình D",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đ 2 500",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tiếng Bulgaria",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

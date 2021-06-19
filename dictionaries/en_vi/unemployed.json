@@ -1,0 +1,46 @@
+{
+    "word": "unemployed",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəmˈploid/",
+            "/ˌənəmˈplɔɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪmˈplɔɪd/",
+            "/ʌnɛmˈplɔɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất nghiệp",
+            "type": "adjective",
+            "example": {
+                "en": "Only unemployed people date on Wednesdays.",
+                "vi": "Chỉ có những người thất nghiệp mới hẹn hò vào thứ tư."
+            }
+        },
+        {
+            "content": "không được sử dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có việc làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không dùng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

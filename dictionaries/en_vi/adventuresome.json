@@ -1,0 +1,39 @@
+{
+    "word": "adventuresome",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˌven(t)SHərs(ə)m/",
+            "/ədˌvɛn(t)ʃərs(ə)m/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˈvɛntʃəs(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "adventurous",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiêu lưu",
+            "type": "adjective",
+            "example": {
+                "en": "And if you are a little adventuresome, don’t forget to take a boat ride!",
+                "vi": "Và nếu có tí máu phiêu lưu mạo hiểm, xin bạn đừng quên đi một chuyến trên du thuyền nhé!"
+            }
+        },
+        {
+            "content": "thích phiêu lưu",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

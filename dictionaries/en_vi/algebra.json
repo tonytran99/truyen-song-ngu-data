@@ -1,0 +1,47 @@
+{
+    "word": "algebra",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaljəbrə/",
+            "/ˈældʒəbrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaldʒɪbrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đại số",
+            "type": "noun",
+            "example": {
+                "en": "Just tell whoever's playing Santa to brush up on their algebra, physics, and basic trig.",
+                "vi": "Nói người đóng Santa học thêm về đại số và khoa học đi."
+            }
+        },
+        {
+            "content": "đại số học",
+            "type": "noun",
+            "example": {
+                "en": "I'm finding a lot of kids who need to skip algebra, go right to geometry and trig.",
+                "vi": "Tôi nhận ra rất nhiều trẻ em cần phải được miễn đại số, học thẳng lên hình họcvà lượng giác."
+            }
+        },
+        {
+            "content": "代數",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "代數學",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "word": "hospital",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäˌspidl/",
+            "/ˈhɑˌspɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒspɪt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh viện",
+            "type": "noun",
+            "example": {
+                "en": "There are no hospitals in the vicinity of his house.",
+                "vi": "Vùng lân cận xung quanh nhà anh ấy chẳng có cái bệnh viện nào."
+            }
+        },
+        {
+            "content": "nhà thương",
+            "type": "noun",
+            "example": {
+                "en": "I had never been admitted to a hospital.",
+                "vi": "Tôi chưa bao giờ phải vào nhà thương."
+            }
+        },
+        {
+            "content": "bệnh xá",
+            "type": "noun",
+            "example": {
+                "en": "Um, well she came to visit you in the hospital.",
+                "vi": "Ah, cổ thăm bồ trong bệnh xá."
+            }
+        },
+        {
+            "content": "bịnh viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dưỡng đường",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tổ chức cứu tế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổ chức từ thiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "y viện",
+            "type": "noun",
+            "example": {
+                "en": "The military hospital is going to be moved east.",
+                "vi": "Quân y viện sẽ được dời về phía đông."
+            }
+        },
+        {
+            "content": "Bệnh viện",
+            "type": "",
+            "example": {
+                "en": "There are no hospitals in the vicinity of his house.",
+                "vi": "Vùng lân cận xung quanh nhà anh ấy chẳng có cái bệnh viện nào."
+            }
+        }
+    ]
+}

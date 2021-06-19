@@ -1,0 +1,51 @@
+{
+    "word": "flamingo",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fləˈmiNGɡō/",
+            "/fləˈmɪŋɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fləˈmɪŋɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chim hồng hạc",
+            "type": "",
+            "example": {
+                "en": "The greater flamingo is twice the size of the lesser flamingo and stands up to 55 inches tall.",
+                "vi": "Loài hồng hạc lớn có kích thước gấp hai chim hồng hạc nhỏ và cao tới 140 centimét."
+            }
+        },
+        {
+            "content": "hồng hạc",
+            "type": "noun",
+            "example": {
+                "en": "Do you remember that flamingo ashtray I sent you?",
+                "vi": "Con có nhớ cái gạt tàn hình con hồng hạc ta gửi cho con không?"
+            }
+        },
+        {
+            "content": "con hồng hạc",
+            "type": "noun",
+            "example": {
+                "en": "Do you remember that flamingo ashtray I sent you?",
+                "vi": "Con có nhớ cái gạt tàn hình con hồng hạc ta gửi cho con không?"
+            }
+        },
+        {
+            "content": "紅鶴",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

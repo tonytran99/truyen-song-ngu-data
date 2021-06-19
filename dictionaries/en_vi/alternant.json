@@ -1,0 +1,31 @@
+{
+    "word": "alternant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôltərnənt/",
+            "/ˈɔltərnənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɔːlˈtəːnənt/",
+            "/ɒlˈtəːnənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xen kẽ",
+            "type": "",
+            "example": {
+                "en": "This link references the alternate versions of this document",
+                "vi": "Liên kết này chỉ tới các phiên bản xen kẽ của tài liệu này"
+            }
+        }
+    ]
+}

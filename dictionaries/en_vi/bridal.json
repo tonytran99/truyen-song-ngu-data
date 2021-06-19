@@ -1,0 +1,40 @@
+{
+    "word": "bridal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrīdl/",
+            "/ˈbraɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrʌɪd(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đám cưới",
+            "type": "noun",
+            "example": {
+                "en": "So my friends are being really lame and nobody's offered to throw me a bridal shower.",
+                "vi": "Bạn của em đứa nào cũng lười không đứa nào giúp em tổ chức bữa tiệc trước đám cưới."
+            }
+        },
+        {
+            "content": "liên hoan đám cưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiệc cưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

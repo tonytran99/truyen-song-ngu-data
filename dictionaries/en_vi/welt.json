@@ -1,0 +1,73 @@
+{
+    "word": "welt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/welt/",
+            "/wɛlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lằn roi",
+            "type": "",
+            "example": {
+                "en": "It covered the welts and gashes of the scourging He had just suffered.",
+                "vi": "Nó che phủ các lằn roi và vết thương vì Ngài đã bị đánh bằng roi."
+            }
+        },
+        {
+            "content": "lằn",
+            "type": "noun",
+            "example": {
+                "en": "It covered the welts and gashes of the scourging He had just suffered.",
+                "vi": "Nó che phủ các lằn roi và vết thương vì Ngài đã bị đánh bằng roi."
+            }
+        },
+        {
+            "content": "đánh nổi lằn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường viền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diềm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quất",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "vụt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khâu diềm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

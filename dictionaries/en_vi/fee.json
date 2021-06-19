@@ -1,0 +1,95 @@
+{
+    "word": "fee",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fē/",
+            "/fi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lệ phí",
+            "type": "noun",
+            "example": {
+                "en": "Ultimately, we do, in the form of taxes and other fees.",
+                "vi": "Chính chúng ta, qua hình thức thuế và những lệ phí khác."
+            }
+        },
+        {
+            "content": "tiền thù lao",
+            "type": "",
+            "example": {
+                "en": "Half of your fee has been wired into your account.",
+                "vi": "Nửa số tiền thù lao đã được gửi vào tài khoản của cậu."
+            }
+        },
+        {
+            "content": "gia sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "học phí",
+            "type": "",
+            "example": {
+                "en": "Use it for books, then. Or school fees.",
+                "vi": "Mua sách cho nó, đóng học phí cho nó cũng được."
+            }
+        },
+        {
+            "content": "lânh địa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thái ấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền nguyệt liễm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền thưởng",
+            "type": "noun",
+            "example": {
+                "en": "Either way, I bet Brick will pay us a finder's fee.",
+                "vi": "Dù sao đi nữa, tao nghĩ Brick sẽ cho chúng ta tiền thưởng nếu bắt được nó."
+            }
+        },
+        {
+            "content": "đóng nguyệt phí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phí",
+            "type": "",
+            "example": {
+                "en": "Entrance fees to the park now help fund park rangers",
+                "vi": "Phí vào cửa các công viên được sử dụng để thuê kiểm lâm"
+            }
+        },
+        {
+            "content": "phí",
+            "type": "",
+            "example": {
+                "en": "They collect a fee from anyone with money.",
+                "vi": "Họ thu phí từ bất cứ ai có tiền."
+            }
+        }
+    ]
+}

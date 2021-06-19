@@ -1,0 +1,40 @@
+{
+    "word": "lampshade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlam(p)SHād/",
+            "/ˈlæm(p)ʃeɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlampʃeɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chụp đèn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chao đèn",
+            "type": "noun",
+            "example": {
+                "en": "has aspirations to become a flying lampshade on Broadway.",
+                "vi": "được cảm hứng để trở thành chao đèn bay ở Broadway."
+            }
+        },
+        {
+            "content": "tán đèn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

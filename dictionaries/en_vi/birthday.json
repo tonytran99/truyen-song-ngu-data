@@ -1,0 +1,71 @@
+{
+    "word": "birthday",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərTHˌdā/",
+            "/ˈbərθˌdeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːθdeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh nhật",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to bake a cake for Tom's birthday.",
+                "vi": "Tôi sẽ làm một chiếc bánh cho sinh nhật của Tom."
+            }
+        },
+        {
+            "content": "ngày sinh",
+            "type": "noun",
+            "example": {
+                "en": "Look what I got Tom for his birthday.",
+                "vi": "Xem mình có gì cho Tom nhân ngày sinh nhật này."
+            }
+        },
+        {
+            "content": "生日",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngày sinh nhật",
+            "type": "noun",
+            "example": {
+                "en": "Look what I got Tom for his birthday.",
+                "vi": "Xem mình có gì cho Tom nhân ngày sinh nhật này."
+            }
+        },
+        {
+            "content": "đản",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lễ sinh nhật",
+            "type": "",
+            "example": {
+                "en": "People around the globe choose to celebrate a birthday.",
+                "vi": "Người người trên toàn cầu chọn cử hành một lễ sinh nhật."
+            }
+        },
+        {
+            "content": "Sinh nhật",
+            "type": "",
+            "example": {
+                "en": "I'm going to bake a cake for Tom's birthday.",
+                "vi": "Tôi sẽ làm một chiếc bánh cho sinh nhật của Tom."
+            }
+        }
+    ]
+}

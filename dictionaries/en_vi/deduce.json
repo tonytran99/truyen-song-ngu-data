@@ -1,0 +1,55 @@
+{
+    "word": "deduce",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈd(y)o͞os/",
+            "/dəˈd(j)us/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈdjuːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "suy luận",
+            "type": "verb",
+            "example": {
+                "en": "There's no way you just deduced where that key was.",
+                "vi": "Không thể nào bằng cách đó mà anh suy luận ra được nơi cất chìa khóa."
+            }
+        },
+        {
+            "content": "suy diễn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "diễn dịch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "luận ra",
+            "type": "",
+            "example": {
+                "en": "There's no way you just deduced where that key was.",
+                "vi": "Không thể nào bằng cách đó mà anh suy luận ra được nơi cất chìa khóa."
+            }
+        },
+        {
+            "content": "suy ra",
+            "type": "",
+            "example": {
+                "en": "A child could deduce why you're here.",
+                "vi": "Cả đứa trẻ cũng suy ra được lý do cậu đến đây."
+            }
+        }
+    ]
+}

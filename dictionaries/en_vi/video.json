@@ -1,0 +1,75 @@
+{
+    "word": "video",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvidēō/",
+            "/ˈvɪdioʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪdɪəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "truyền hình",
+            "type": "noun",
+            "example": {
+                "en": "It can be enjoyed as video games, as TV shows, books, movies.",
+                "vi": "Họ có thể tận hưởng trò chơi điện tử và chương trình truyền hình, sách, phim ảnh."
+            }
+        },
+        {
+            "content": "dùng trong truyền hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Video",
+            "type": "",
+            "example": {
+                "en": "I skip ads on videos whenever I can.",
+                "vi": "Tôi bỏ qua quảng cáo trên video bất cứ khi nào có thể."
+            }
+        },
+        {
+            "content": "vi đê ô",
+            "type": "noun",
+            "example": {
+                "en": "He recorded each trip on his video camera so that he could view it again in his home.",
+                "vi": "Mỗi chuyến đi, anh thâu băng vi-đê-ô để rồi về nhà xem lại."
+            }
+        },
+        {
+            "content": "viđêô",
+            "type": "",
+            "example": {
+                "en": "What is it, a video glitch?",
+                "vi": "nó là cái gì, một sự cố viđêô à?"
+            }
+        },
+        {
+            "content": "băng hình",
+            "type": "noun",
+            "example": {
+                "en": "You are constantly bombarded by sound, video, and networking.",
+                "vi": "Các em liên tục bị tràn ngập với âm thanh, băng hình và mạng lưới thông tin."
+            }
+        },
+        {
+            "content": "phim video",
+            "type": "",
+            "example": {
+                "en": "Also, get rid of music or videos that feature satanic themes.",
+                "vi": "Ngoài ra cũng nên dẹp bỏ các loại nhạc hoặc phim video nói về Sa-tan."
+            }
+        }
+    ]
+}

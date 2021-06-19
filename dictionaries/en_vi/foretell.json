@@ -1,0 +1,68 @@
+{
+    "word": "foretell",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrˈtel/",
+            "/fɔrˈtɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːˈtɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoán trước",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "báo trước",
+            "type": "verb",
+            "example": {
+                "en": "It's possible he wasn't just recounting the past but foretelling the future.",
+                "vi": "Rất có thể hắn không chỉ kể lại quá khứ... mà còn là báo trước tương lai."
+            }
+        },
+        {
+            "content": "nói trước",
+            "type": "",
+            "example": {
+                "en": "No man can foretell the future in detail.",
+                "vi": "Không người nào có thể nói trước về tương lai một cách chi tiết."
+            }
+        },
+        {
+            "content": "bói",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "báo hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiên tri",
+            "type": "verb",
+            "example": {
+                "en": "A prophet denounces sin and foretells its consequences.",
+                "vi": "Vị tiên tri tố cáo tội lỗi và tiên báo những hậu quả của nó."
+            }
+        },
+        {
+            "content": "tiên đoán",
+            "type": "verb",
+            "example": {
+                "en": "I count the sparkle of constellations to foretell the future of my love.",
+                "vi": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình."
+            }
+        }
+    ]
+}

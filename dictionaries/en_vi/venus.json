@@ -1,0 +1,60 @@
+{
+    "word": "venus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēnəs/",
+            "/ˈvinəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sao Kim",
+            "type": "proper",
+            "example": {
+                "en": "So it's not really a case of Mars and Venus.",
+                "vi": "Vậy đó không thực sự là một trường hợp của sao hỏa và sao kim."
+            }
+        },
+        {
+            "content": "dục tình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhục dục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thần vệ nữ",
+            "type": "proper",
+            "example": {
+                "en": "The first event is called The Release of Venus.",
+                "vi": "Phần thi thứ nhất có tên \" Giải thoát thần Vệ Nữ. \""
+            }
+        },
+        {
+            "content": "thần ái tình",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "sao kim",
+            "type": "",
+            "example": {
+                "en": "So it's not really a case of Mars and Venus.",
+                "vi": "Vậy đó không thực sự là một trường hợp của sao hỏa và sao kim."
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "disinfectant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisənˈfektənt/",
+            "/ˌdɪsənˈfɛktənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsɪnˈfɛkt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc tẩy uế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất tẩy uế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất khử trùng",
+            "type": "noun",
+            "example": {
+                "en": "Sunlight is the best disinfectant.",
+                "vi": "Ánh sáng là chất khử trùng tốt nhất."
+            }
+        },
+        {
+            "content": "chất tẩy trùng",
+            "type": "",
+            "example": {
+                "en": "We've found that propolis is a natural disinfectant.",
+                "vi": "Chúng tôi nhận thấy rằng keo ong là một chất tẩy trùng tự nhiên."
+            }
+        },
+        {
+            "content": "thuốc khử trùng",
+            "type": "noun",
+            "example": {
+                "en": "What about the disinfectant on the cat's claws?",
+                "vi": "Còn về thuốc khử trùng trên móng con mèo thì sao?"
+            }
+        },
+        {
+            "content": "tẩy uế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tẩy uế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

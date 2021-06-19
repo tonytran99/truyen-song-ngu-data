@@ -1,0 +1,45 @@
+{
+    "word": "clairvoyant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌklerˈvoiənt/",
+            "/ˌklɛrˈvɔɪənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɛːˈvɔɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người sáng suốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "minh mẫn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sáng suốt",
+            "type": "",
+            "example": {
+                "en": "We're not all clairvoyant like you.",
+                "vi": "Đâu phải ai cũng sáng suốt như anh."
+            }
+        },
+        {
+            "content": "thầy bói",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

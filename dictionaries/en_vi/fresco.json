@@ -1,0 +1,53 @@
+{
+    "word": "fresco",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfreskō/",
+            "/ˈfrɛskoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛskəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tranh tường",
+            "type": "",
+            "example": {
+                "en": "Visiting Virgil's mausoleum, going to the Nuvolari museum, seeing Mantegna's frescoes.",
+                "vi": "Tham quan lăng của Virgil, đi bảo tàng Nuvolari, xem tranh tường của Mantegna."
+            }
+        },
+        {
+            "content": "bích họa",
+            "type": "",
+            "example": {
+                "en": "Many people will think of the much admired fresco in Milan, Italy, by the painter Leonardo da Vinci (1452-1519).",
+                "vi": "Nhiều người sẽ nghĩ đến bức bích họa rất nổi tiếng ở Milan, Ý, của họa sĩ Leonardo da Vinci (1452-1519)."
+            }
+        },
+        {
+            "content": "lối vẽ trên tường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh nề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẽ tranh tường",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

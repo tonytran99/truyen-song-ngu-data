@@ -1,0 +1,25 @@
+{
+    "word": "completed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {
+                "en": "This building is near completion.",
+                "vi": "Toà nhà này sắp hoàn thành rồi."
+            }
+        },
+        {
+            "content": "được bổ sung",
+            "type": "",
+            "example": {
+                "en": "Make sure that the patient’s documents containing his medical wishes are complete and up-to-date.",
+                "vi": "Hãy chắc chắn rằng những giấy tờ liên quan đến ý nguyện chữa trị y khoa được bổ sung, cập nhật đầy đủ."
+            }
+        }
+    ]
+}

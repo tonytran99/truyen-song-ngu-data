@@ -1,0 +1,55 @@
+{
+    "word": "justifiable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjəstəˌfīəb(ə)l/",
+            "/ˈdʒəstəˌfaɪəb(ə)l/",
+            "/ˌjəstəˈfīəb(ə)l/",
+            "/ˌdʒəstəˈfaɪəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌstɪˌfʌɪəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính đáng",
+            "type": "",
+            "example": {
+                "en": "There's a difference between terrorism and a justifiable act of retaliation.",
+                "vi": "Có sự khác biệt giữa khủng bố và hành động trả đũa chính đáng."
+            }
+        },
+        {
+            "content": "có thể bào chữa",
+            "type": "",
+            "example": {
+                "en": "should or could justify prejudice",
+                "vi": "nên hay có thể bào chữa cho định kiến"
+            }
+        },
+        {
+            "content": "hợp lý",
+            "type": "",
+            "example": {
+                "en": "His message sounds so reasonable and easy to justify.",
+                "vi": "Lời của nó thì nghe rất hợp lý và dễ dàng để biện minh."
+            }
+        },
+        {
+            "content": "hợp pháp",
+            "type": "",
+            "example": {
+                "en": "That's what they always say to justify invading privacy, Skye.",
+                "vi": "Đó là điều họ hay nói để hợp pháp hóa việc xâm chiếm quyền riêng tư thôi, Skye."
+            }
+        }
+    ]
+}

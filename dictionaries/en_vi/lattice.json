@@ -1,0 +1,48 @@
+{
+    "word": "lattice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈladəs/",
+            "/ˈlædəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlatɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưới",
+            "type": "noun",
+            "example": {
+                "en": "as we fly into a lattice of atoms.",
+                "vi": "khi chúng ta bay vào một lưới nguyên tử."
+            }
+        },
+        {
+            "content": "mạng",
+            "type": "noun proper",
+            "example": {
+                "en": "We're looking at crystal lattices to see the bonding process in this.",
+                "vi": "Chúng ta đang quan sát vào những mạng tinh thể để nhìn thấy được quá trình kết nối trong đó."
+            }
+        },
+        {
+            "content": "rèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng rào mắt cáo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "whack",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wak/",
+            "/(h)wæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chùy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "huỵch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú đánh mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh mạnh",
+            "type": "",
+            "example": {
+                "en": "Suppose I have to whack you over the knuckles.",
+                "vi": "Giả sử tôi đánh mạnh vào đốt ngón tay anh."
+            }
+        },
+        {
+            "content": "đòn đau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

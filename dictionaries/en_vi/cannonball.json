@@ -1,0 +1,31 @@
+{
+    "word": "cannonball",
+    "type": [
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanənˌbôl/",
+            "/ˈkænənˌbɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanənbɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đạn đại bác",
+            "type": "",
+            "example": {
+                "en": "A cannonball don't pay no mind",
+                "vi": "♪ Một viên đạn đại bác vô tình"
+            }
+        }
+    ]
+}

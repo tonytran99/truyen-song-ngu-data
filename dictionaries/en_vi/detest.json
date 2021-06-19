@@ -1,0 +1,42 @@
+{
+    "word": "detest",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtest/",
+            "/dəˈtɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghét",
+            "type": "verb",
+            "example": {
+                "en": "People who had held Job in high esteem detested him.",
+                "vi": "Những người trước kia kính phục Gióp nay lại ghét bỏ ông."
+            }
+        },
+        {
+            "content": "ghét cay ghét đắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {
+                "en": "For there are seven detestable things in his heart.",
+                "vi": "Bởi có bảy điều ghê tởm trong lòng hắn."
+            }
+        }
+    ]
+}

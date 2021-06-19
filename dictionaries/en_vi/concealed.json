@@ -1,0 +1,77 @@
+{
+    "word": "concealed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsēld/",
+            "/kənˈsild/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsiːld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "che đậy",
+            "type": "adjective",
+            "example": {
+                "en": "Her laugh was a lie that concealed her sorrow.",
+                "vi": "Nụ cười của cô ấy là một lời nói dối nhằm che đậy nỗi buồn của cô ta."
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "adjective",
+            "example": {
+                "en": "I can' t conceal it Don' t you see?",
+                "vi": "Anh không thể giấu giếm cảm xúc của mình Em không thấy sao?"
+            }
+        },
+        {
+            "content": "kín đáo",
+            "type": "adjective",
+            "example": {
+                "en": "And the hidden treasures in the concealed places,+",
+                "vi": "Và kho báu giấu trong nơi kín đáo,+"
+            }
+        },
+        {
+            "content": "được che đậy",
+            "type": "adjective",
+            "example": {
+                "en": "26 Though his hatred is concealed by deceit,",
+                "vi": "26 Dù căm ghét được che đậy bằng gian dối,"
+            }
+        },
+        {
+            "content": "được giấu giếm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ẩn",
+            "type": "adjective",
+            "example": {
+                "en": "For over two years, her family had been concealed, hiding in an attic in Amsterdam.",
+                "vi": "Trong hơn hai năm trời, gia đình cô ẩn nấp trong một căn gác xép ở Amsterdam."
+            }
+        },
+        {
+            "content": "ẩn giấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ẩn khuất",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

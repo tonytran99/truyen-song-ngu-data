@@ -1,0 +1,44 @@
+{
+    "word": "cretinous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrēt(ə)nəs/",
+            "/ˈkrit(ə)nəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈkrɛt(ə)nəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "độn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dớ dẩn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngu ngốc",
+            "type": "adjective",
+            "example": {
+                "en": "Do me a favor, don't send that cretin to me anymore.",
+                "vi": "Giúp tôi 1 chuyện nhé: đừng để tôi dạy những đứa ngu ngốc như vậy nữa được không?"
+            }
+        },
+        {
+            "content": "ngu si",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

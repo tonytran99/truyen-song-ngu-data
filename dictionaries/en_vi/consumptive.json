@@ -1,0 +1,70 @@
+{
+    "word": "consumptive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəm(p)tiv/",
+            "/kənˈsəm(p)tɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsʌm(p)tɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hao phí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hao tốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc bệnh lao phổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ho lao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lao phổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá hoại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phá huỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu thụ",
+            "type": "",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        }
+    ]
+}

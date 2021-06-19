@@ -1,0 +1,59 @@
+{
+    "word": "dissatisfied",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/di(s)ˈsadəsˌfīd/",
+            "/dɪ(s)ˈsædəsˌfaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈsatɪsfʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất mãn",
+            "type": "adjective",
+            "example": {
+                "en": "But why be overly anxious or dissatisfied with our face or physical form?",
+                "vi": "Nhưng tại sao quá lo lắng hay bất mãn về ngoại hình của mình?"
+            }
+        },
+        {
+            "content": "không bằng lòng",
+            "type": "",
+            "example": {
+                "en": "Please tell me when you're dissatisfied with it, Hemsley.",
+                "vi": "Làm ơn nói cho tôi biết khi nào thì ông không bằng lòng với nó, Hemsley."
+            }
+        },
+        {
+            "content": "không hài lòng",
+            "type": "",
+            "example": {
+                "en": "This means that a lot of people are just left completely dissatisfied",
+                "vi": "Điều này có nghĩa là nhiều người đã bị làm cho không hài lòng"
+            }
+        },
+        {
+            "content": "không thoả mãn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thỏa mãn",
+            "type": "adjective",
+            "example": {
+                "en": "Unfortunately, my logic also left me unhappy and dissatisfied.",
+                "vi": "Rủi thay, lập luận của tôi cũng làm cho tôi khổ sở và không thỏa mãn."
+            }
+        }
+    ]
+}

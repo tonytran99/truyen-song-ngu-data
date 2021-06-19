@@ -1,0 +1,58 @@
+{
+    "word": "willow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwilō/",
+            "/ˈwɪloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liễu",
+            "type": "noun",
+            "example": {
+                "en": "If you put it in willow tea, you won't taste it at all.",
+                "vi": "Bỏ vào trà liễu sẽ làm mất mùi."
+            }
+        },
+        {
+            "content": "cây liễu",
+            "type": "",
+            "example": {
+                "en": "And here is the stream, and the aspen and the alder and the willow.",
+                "vi": "Và đây là dòng suối, và cây dương, gỗ trăn và cây liễu."
+            }
+        },
+        {
+            "content": "Chi Liễu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dương liễu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "máy tước x",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chi liễu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

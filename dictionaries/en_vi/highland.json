@@ -1,0 +1,40 @@
+{
+    "word": "highland",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīlənd/",
+            "/ˈhaɪlənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪlənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cao nguyên",
+            "type": "noun",
+            "example": {
+                "en": "The highlands are no place for a woman to be alone.",
+                "vi": "Vùng cao nguyên rất nguy hiểm đối với những người phụ nữ đơn độc."
+            }
+        },
+        {
+            "content": "rẻo cao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vùng cao nguyên Ê-cốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

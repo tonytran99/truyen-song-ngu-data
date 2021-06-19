@@ -1,0 +1,57 @@
+{
+    "word": "apron",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈāprən/",
+            "/ˈeɪprən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪpr(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tạp dề",
+            "type": "noun",
+            "example": {
+                "en": "Hang up your aprons and line up over here.",
+                "vi": "Treo lên tạp dề của mình và xếp hàng ở đây."
+            }
+        },
+        {
+            "content": "thềm sân khấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái tạp dề",
+            "type": "",
+            "example": {
+                "en": "You need an apron.",
+                "vi": "Anh sẽ cần một cái tạp dề."
+            }
+        },
+        {
+            "content": "tường ngăn nước xói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tấm da phủ chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tấm tạp dề",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

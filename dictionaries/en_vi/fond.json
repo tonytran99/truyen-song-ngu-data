@@ -1,0 +1,80 @@
+{
+    "word": "fond",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fänd/",
+            "/fɑnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɒnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "luyến",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cả tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngây thơ",
+            "type": "",
+            "example": {
+                "en": "Vigilante's not fond of guys who sell Vertigo.",
+                "vi": "Quái hiệp không phải là kẻ ngây thơ như gã bán vertigo."
+            }
+        },
+        {
+            "content": "trìu mếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yêu dấu",
+            "type": "",
+            "example": {
+                "en": "I have fond memories of the day of my baptism when I was eight years old.",
+                "vi": "Tôi có những kỷ niệm yêu dấu về ngày báp têm của mình khi tôi lên tám tuổi."
+            }
+        },
+        {
+            "content": "yêu mến quá đỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "êm đềm",
+            "type": "adjective",
+            "example": {
+                "en": "And our sense of time and place gives us reference points that become fond memories.",
+                "vi": "Ý thức về thời gian và nơi chốn giúp gợi lại trong chúng ta những kỷ niệm êm đềm."
+            }
+        },
+        {
+            "content": "yêu mến",
+            "type": "",
+            "example": {
+                "en": "Oh, I am so pleased you remember my husband's films with such fondness.",
+                "vi": "Tôi rất vui vì anh đã nhớ những phim của chồng tôi với cả sự yêu mến đó."
+            }
+        }
+    ]
+}

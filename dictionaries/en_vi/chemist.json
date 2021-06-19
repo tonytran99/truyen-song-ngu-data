@@ -1,0 +1,55 @@
+{
+    "word": "chemist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeməst/",
+            "/ˈkɛməst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛmɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà hóa học",
+            "type": "noun",
+            "example": {
+                "en": "Most chemists are not experts in evolutionary theory.",
+                "vi": "Hầu hết các nhà hóa học, không phải là chuyên gia trong lý thuyết tiến hóa."
+            }
+        },
+        {
+            "content": "Nhà hóa học",
+            "type": "",
+            "example": {
+                "en": "The chemist is almost ready to give up his formula.",
+                "vi": "Tên nhà hóa học đã sẵn sàng giao nộp công thức."
+            }
+        },
+        {
+            "content": "người bán dược phẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cửa hàng dược phẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà hoá học",
+            "type": "",
+            "example": {
+                "en": "We'll send our chief chemist along to supervise the reconversion process.",
+                "vi": "Chúng tôi sẽ cho nhà hoá học của chúng tôi đi theo để giám sát và chuyển đổi."
+            }
+        }
+    ]
+}

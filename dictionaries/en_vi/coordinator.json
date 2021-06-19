@@ -1,0 +1,45 @@
+{
+    "word": "coordinator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōˈôrdənādər/",
+            "/koʊˈɔrdəneɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkəʊˈɔːdɪneɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều hợp viên",
+            "type": "",
+            "example": {
+                "en": "Main developer and coordinator",
+                "vi": "Nhà phát triển chính và điều hợp viên"
+            }
+        },
+        {
+            "content": "điều phối",
+            "type": "",
+            "example": {
+                "en": "It's keeping me standing. It's involved in coordinated movement.",
+                "vi": "Nó giúp tôi đứng thẳng. Bộ phận này điều phối các cử động cần có sự phối hợp."
+            }
+        },
+        {
+            "content": "điều phối viên",
+            "type": "noun",
+            "example": {
+                "en": "Tom Lungren is executive hiring coordinator for Eikon.",
+                "vi": "Tom Lungren là điều phối viên tuyển dụng vị trí điều hành viên cho Eikon."
+            }
+        }
+    ]
+}

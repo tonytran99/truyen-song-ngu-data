@@ -1,0 +1,40 @@
+{
+    "word": "coefficient",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkōəˈfiSHənt/",
+            "/ˌkoʊəˈfɪʃənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkəʊɪˈfɪʃ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hệ số",
+            "type": "noun",
+            "example": {
+                "en": "You might consider using a round with a superior ballistic coefficient.",
+                "vi": "Mày nên cân nhắc khi sử dụng băng đạn với hệ số đạn đạo cao cấp đi."
+            }
+        },
+        {
+            "content": "force hệ số lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "propulsive hệ số đẩy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "cyst",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sist/",
+            "/sɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nang",
+            "type": "noun",
+            "example": {
+                "en": "The biopsy of your lung cyst showed smooth muscle cells.",
+                "vi": "Kết quả sinh thiết từ u nang phổi cho thấy những tế bào cơ trơn láng."
+            }
+        },
+        {
+            "content": "u nang",
+            "type": "",
+            "example": {
+                "en": "The biopsy of your lung cyst showed smooth muscle cells.",
+                "vi": "Kết quả sinh thiết từ u nang phổi cho thấy những tế bào cơ trơn láng."
+            }
+        },
+        {
+            "content": "túi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bào xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túi bao",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

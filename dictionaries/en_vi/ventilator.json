@@ -1,0 +1,62 @@
+{
+    "word": "ventilator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈven(t)əˌlādər/",
+            "/ˈvɛn(t)əˌleɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛntɪleɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thông gió",
+            "type": "noun",
+            "example": {
+                "en": "Uh, there's got to be a ventilation system.",
+                "vi": "Chắc phải có hệ thống thông gió chứ."
+            }
+        },
+        {
+            "content": "máy thông gió",
+            "type": "",
+            "example": {
+                "en": "At 2100, detainees on Charlie block complained of a foul-smelling odor coming from ventilation.",
+                "vi": "9 giờ tối, đối tượng ở khu Charlie phàn nàn máy thông gió có mùi khó chịu."
+            }
+        },
+        {
+            "content": "quạt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quạt điện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bộ thông gió",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cửa sổ thông gió",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cửa thông hơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

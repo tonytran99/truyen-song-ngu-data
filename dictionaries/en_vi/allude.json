@@ -1,0 +1,42 @@
+{
+    "word": "allude",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlo͞od/",
+            "/əˈlud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈl(j)uːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nói bóng gió",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ám chỉ",
+            "type": "",
+            "example": {
+                "en": "This ancient idiom alludes to the practice of cheating others when using dice.",
+                "vi": "Thành ngữ cổ xưa này ám chỉ việc dùng súc sắc để lừa bịp người khác."
+            }
+        },
+        {
+            "content": "nhắc đến",
+            "type": "",
+            "example": {
+                "en": "It alluded to the resurrection, while enabling me to cope with the immediate loss.",
+                "vi": "Nó nhắc đến sự sống lại trong tương lai và giúp tôi đối phó với nỗi mất mát trong hiện tại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "ephemeris",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈfem(ə)rəs/",
+            "/əˈfɛm(ə)rəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈfɛm(ə)rɪs/",
+            "/ɪˈfiːm(ə)rɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lịch thiên văn",
+            "type": "noun",
+            "example": {
+                "en": "The ephemeris data just didn't sync up.",
+                "vi": "Dữ liệu của lịch thiên văn đã ko được đồng bộ."
+            }
+        },
+        {
+            "content": "con phù du",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Lịch thiên văn",
+            "type": "",
+            "example": {
+                "en": "The ephemeris data just didn't sync up.",
+                "vi": "Dữ liệu của lịch thiên văn đã ko được đồng bộ."
+            }
+        }
+    ]
+}

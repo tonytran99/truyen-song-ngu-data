@@ -1,0 +1,37 @@
+{
+    "word": "illegible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(l)ˈlejəb(ə)l/",
+            "/ɪ(l)ˈlɛdʒəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛdʒɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó đọc",
+            "type": "",
+            "example": {
+                "en": "That's further confirmed By his atrocious, Illegible handwriting.",
+                "vi": "Điều đó được xác nhận thêm từ chữ viết xấu, khó đọc."
+            }
+        },
+        {
+            "content": "không đọc được",
+            "type": "",
+            "example": {
+                "en": "The stone has cracked , which has made the end of the passage almost illegible .",
+                "vi": "Tảng đá này bị mắc kẹt , làm cho phần cuối đoạn gần như không đọc được ."
+            }
+        }
+    ]
+}

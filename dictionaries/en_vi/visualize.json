@@ -1,0 +1,38 @@
+{
+    "word": "visualize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviZH(o͞o)əˌlīz/",
+            "/ˈvɪʒ(u)əˌlaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪʒ(j)ʊəlʌɪz/",
+            "/ˈvɪzjʊəlʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình dung",
+            "type": "",
+            "example": {
+                "en": "And you can visualize this in many ways.",
+                "vi": "Và bạn có thể hình dung điều này bằng nhiều cách."
+            }
+        },
+        {
+            "content": "mường tượng",
+            "type": "",
+            "example": {
+                "en": "There was a chapter on visualization that really interested me.",
+                "vi": "Có một chương về sự mường tượng thực sự hấp dẫn tôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "upload",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəpˌlōd/",
+            "/ˈəpˌloʊd/",
+            "/ˌəpˈlōd/",
+            "/ˌəpˈloʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈləʊd/",
+            "/ˈʌpləʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tải lên",
+            "type": "",
+            "example": {
+                "en": "I'm uploading the operating code to the nanotech.",
+                "vi": "Anh vẫn đang tải lên mã điều hành cho nanotech."
+            }
+        },
+        {
+            "content": "nạp lên, tải lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyền lên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "vase",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vās/",
+            "/veɪs/",
+            "/vāz/",
+            "/veɪz/",
+            "/väz/",
+            "/vɑz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɑːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình",
+            "type": "noun",
+            "example": {
+                "en": "The vase she broke is my aunt's.",
+                "vi": "Bình hoa mà nó làm bể là của dì tôi."
+            }
+        },
+        {
+            "content": "lọ",
+            "type": "",
+            "example": {
+                "en": "I can't put three stems in a vase without it looking like a funeral.",
+                "vi": "Trừ khi giống như đám tang, không thì tôi chẳng cắm nổi đến 3 bông hoa vào lọ."
+            }
+        },
+        {
+            "content": "bình hoa",
+            "type": "noun",
+            "example": {
+                "en": "The vase she broke is my aunt's.",
+                "vi": "Bình hoa mà nó làm bể là của dì tôi."
+            }
+        },
+        {
+            "content": "lọ hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vành loe",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

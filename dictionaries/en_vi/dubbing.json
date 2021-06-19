@@ -1,0 +1,70 @@
+{
+    "word": "dubbing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəbiNG/",
+            "/ˈdəbɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌbɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự lồng tiếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỡ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự bôi mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gán tên cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lồng nhạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phong tên cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sang sửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đặt tên cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Lồng tiếng",
+            "type": "",
+            "example": {
+                "en": "He goes from dubbing cartoons to international banking.",
+                "vi": "Anh ấy xuất phát từ việc lồng tiếng phim hoạt hình đến làm ở ngân hàng quốc tế."
+            }
+        }
+    ]
+}

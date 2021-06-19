@@ -1,0 +1,60 @@
+{
+    "word": "correctly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrektlē/",
+            "/kəˈrɛktli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛk(t)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghiêm chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đúng cách thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng đắn",
+            "type": "",
+            "example": {
+                "en": "I think it's time things were done correctly.",
+                "vi": "Tôi nghĩ đã đến lúc làm mọi việc một cách đúng đắn rồi."
+            }
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "Aggression, correctly channeled, overcomes a lot of flaws.",
+                "vi": "Sự hung hăn, nếu được hướng chính xác, Sẽ giúp chúng ta vượt qua rất nhiều nhược điểm."
+            }
+        },
+        {
+            "content": "một cách chính xác",
+            "type": "adverb",
+            "example": {
+                "en": "There's nothing to be afraid of, as long as you answer my questions correctly.",
+                "vi": "Chẳng có gì phải sợ cả, miễn là cô trả lời những câu hỏi một cách chính xác."
+            }
+        }
+    ]
+}

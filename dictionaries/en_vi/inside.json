@@ -1,0 +1,160 @@
+{
+    "word": "inside",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsīd/",
+            "/ɪnˈsaɪd/",
+            "/ˈinˌsīd/",
+            "/ˈɪnˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsʌɪd/",
+            "/ˈɪnsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên trong",
+            "type": "adverb",
+            "example": {
+                "en": "I opened the box and looked inside.",
+                "vi": "Tôi mở hộp và nhìn vào bên trong."
+            }
+        },
+        {
+            "content": "trong",
+            "type": "adjective adposition",
+            "example": {
+                "en": "The ugly clouds were getting closer, so we went inside.",
+                "vi": "Mây đen kéo tới gần, nên chúng tôi đi vào trong."
+            }
+        },
+        {
+            "content": "mặt trong",
+            "type": "",
+            "example": {
+                "en": "I went inside and found all this cash in a suitcase.",
+                "vi": "Tôi đã vào đó và tìm thấy rất nhiều tiền mặt trong vali."
+            }
+        },
+        {
+            "content": "ở trong",
+            "type": "adposition",
+            "example": {
+                "en": "All the answers you're looking for are inside those pages.",
+                "vi": "Tất cả những thông tin mà ông cần đều ở trong đó."
+            }
+        },
+        {
+            "content": "lòng",
+            "type": "noun",
+            "example": {
+                "en": "I'm gonna study those lines until I know them inside out.",
+                "vi": "Cháu sẽ học những câu thoại này cho tới khi thuộc lòng."
+            }
+        },
+        {
+            "content": "bề trong",
+            "type": "adverb",
+            "example": {
+                "en": "The answer has to do with our figurative heart —what we really are inside.",
+                "vi": "Câu trả lời liên quan đến lòng—con người bề trong của chúng ta."
+            }
+        },
+        {
+            "content": "ruột",
+            "type": "noun",
+            "example": {
+                "en": "Nothing like soaking your insides while you can.",
+                "vi": "Không có gì bằng thấm ruột khi có thể."
+            }
+        },
+        {
+            "content": "trong nhà",
+            "type": "",
+            "example": {
+                "en": "I heard somebody yell to come in, and when nobody was inside, I left.",
+                "vi": "Tôi nghe ai nói hét vào đi, và khi trong nhà không có ai, tôi đi ra."
+            }
+        },
+        {
+            "content": "nội bộ",
+            "type": "",
+            "example": {
+                "en": "Sir, the attack's coming from inside a local network.",
+                "vi": "Thưa ngài, hướng tấn công xuất ra từ mạng nội bộ."
+            }
+        },
+        {
+            "content": "phía trong",
+            "type": "adverb",
+            "example": {
+                "en": "Looks like a beautiful piano sounding board on the inside.",
+                "vi": "Trông như bộ dây tuyệt đẹp phía trong của đàn piano."
+            }
+        },
+        {
+            "content": "phần giữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần trong",
+            "type": "",
+            "example": {
+                "en": "All religions teach that something inside us is immortal.",
+                "vi": "Đạo nào cũng dạy một phần trong con người là bất tử."
+            }
+        },
+        {
+            "content": "từ trong",
+            "type": "",
+            "example": {
+                "en": "Beware of things that will destroy from the inside out, whether big or small!",
+                "vi": "Hãy coi chừng những điều sẽ gây hủy diệt từ trong ra ngoài, cho dù lớn hay nhỏ!"
+            }
+        },
+        {
+            "content": "vào trong",
+            "type": "",
+            "example": {
+                "en": "The ugly clouds were getting closer, so we went inside.",
+                "vi": "Mây đen kéo tới gần, nên chúng tôi đi vào trong."
+            }
+        },
+        {
+            "content": "ở phía trong",
+            "type": "",
+            "example": {
+                "en": "It's such a different world from when I was inside.",
+                "vi": "Nhưng khi ở phía trong đó thì khác hẳn."
+            }
+        },
+        {
+            "content": "nội",
+            "type": "adposition",
+            "example": {
+                "en": "They think it was an inside job by the Bush administration.",
+                "vi": "Họ nghĩ đó là một âm mưu nội phản của chính quyền Bush."
+            }
+        },
+        {
+            "content": "trong vòng",
+            "type": "",
+            "example": {
+                "en": "You're gonna be dead inside of a year.",
+                "vi": "Anh sẽ chết nội trong vòng một năm."
+            }
+        }
+    ]
+}

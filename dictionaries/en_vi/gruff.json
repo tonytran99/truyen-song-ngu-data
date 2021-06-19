@@ -1,0 +1,52 @@
+{
+    "word": "gruff",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cộc cằn",
+            "type": "",
+            "example": {
+                "en": "very gruff voice, from a woman.",
+                "vi": "1 giọng nói rất cộc cằn, từ 1 người phụ nữ,"
+            }
+        },
+        {
+            "content": "thô lỗ",
+            "type": "",
+            "example": {
+                "en": "Young ingenue doctor falling in love with gruff, older mentor-",
+                "vi": "Nữ bác sĩ trẻ đẹp ngây thơ đã trót thầm yêu anh bác sĩ già thô lỗ đây..."
+            }
+        },
+        {
+            "content": "cáu kỉnh",
+            "type": "Verbal; Adjectival",
+            "example": {}
+        },
+        {
+            "content": "cộc lốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thân thiện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

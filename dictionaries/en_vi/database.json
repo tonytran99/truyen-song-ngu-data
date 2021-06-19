@@ -1,0 +1,48 @@
+{
+    "word": "database",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdadəˌbās/",
+            "/ˈdædəˌbeɪs/",
+            "/ˈdādəˌbās/",
+            "/ˈdeɪdəˌbeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪtəbeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơ sở dữ liệu",
+            "type": "noun",
+            "example": {
+                "en": "It's not a new database that you need.",
+                "vi": "Cái chúng ta cần không phải là một cơ sở dữ liệu mới."
+            }
+        },
+        {
+            "content": "CSDL",
+            "type": "noun",
+            "example": {
+                "en": "We ran a DNA test, searched the database and got a match.",
+                "vi": "Đã kiểm tra ADN, đối chiếu CSDL và có 1 sự trùng hợp."
+            }
+        },
+        {
+            "content": "kho dữ liệu",
+            "type": "",
+            "example": {
+                "en": "Run a database search on the guys in that building.",
+                "vi": "Dò kho dữ liệu về mấy gã trong tòa nhà."
+            }
+        }
+    ]
+}

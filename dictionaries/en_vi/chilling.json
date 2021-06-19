@@ -1,0 +1,62 @@
+{
+    "word": "chilling",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHiliNG/",
+            "/ˈtʃɪlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɪlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm nhụt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ớn lạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạnh",
+            "type": "adjective",
+            "example": {
+                "en": "He bounced about very rapidly to stave off the chill.",
+                "vi": "Nó nhảy lên nhảy xuống rất nhanh để chống chọi với cái lạnh."
+            }
+        },
+        {
+            "content": "sự lạnh",
+            "type": "noun",
+            "example": {
+                "en": "You got to experience the chills and thrills of journalism.",
+                "vi": "chị đã trải qua sự lạnh lẽo và sự rùng mình của nghề báo."
+            }
+        },
+        {
+            "content": "sự rợn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự ớn lạnh",
+            "type": "noun",
+            "example": {
+                "en": "In \"All Shook Up,\" a touch is not a touch, but a chill.",
+                "vi": "Trong bài \"All Shook Up\", một cái đụng chạm không phải là đụng chạm mà là một sự ớn lạnh."
+            }
+        }
+    ]
+}

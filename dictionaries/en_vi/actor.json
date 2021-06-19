@@ -1,0 +1,65 @@
+{
+    "word": "actor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktər/",
+            "/ˈæktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "diễn viên",
+            "type": "noun",
+            "example": {
+                "en": "Tom lacks the talent to be an actor.",
+                "vi": "Tom thiếu tài năng để trở thành một diễn viên."
+            }
+        },
+        {
+            "content": "kép",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kép hát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kịch sĩ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nam diễn viên",
+            "type": "noun",
+            "example": {
+                "en": "Who won the Academy Award for best actor in 1981?",
+                "vi": "Ai thắng giải nam diễn viên quả cầu vàng năm 1981?"
+            }
+        },
+        {
+            "content": "tài tử",
+            "type": "noun",
+            "example": {
+                "en": "Best actor in the West.",
+                "vi": "Tài tử giỏi nhất miền Viễn tây."
+            }
+        },
+        {
+            "content": "nữ diễn viên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

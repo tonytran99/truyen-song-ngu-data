@@ -1,0 +1,42 @@
+{
+    "word": "headstone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌstōn/",
+            "/ˈhɛdˌstoʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdstəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mộ chí",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bia",
+            "type": "noun",
+            "example": {
+                "en": "And I'm here to advise a stone maker on his headstone.",
+                "vi": "Giờ ta tới đây để làm lại bia mộ cho nó."
+            }
+        },
+        {
+            "content": "bia mộ",
+            "type": "",
+            "example": {
+                "en": "And I'm here to advise a stone maker on his headstone.",
+                "vi": "Giờ ta tới đây để làm lại bia mộ cho nó."
+            }
+        }
+    ]
+}

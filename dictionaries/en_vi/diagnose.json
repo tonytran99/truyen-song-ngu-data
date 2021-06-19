@@ -1,0 +1,43 @@
+{
+    "word": "diagnose",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdīəɡˈnōs/",
+            "/ˌdaɪəɡˈnoʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəɡnəʊz/",
+            "/dʌɪəɡˈnəʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chẩn đoán",
+            "type": "verb",
+            "example": {
+                "en": "Well, we do need him to diagnose his friend.",
+                "vi": "Chúng tôi rất cần cậu ta để chẩn đoán cho bạn cậu ta."
+            }
+        },
+        {
+            "content": "chẩn bệnh",
+            "type": "",
+            "example": {
+                "en": "This can radically improve the way that doctors diagnose patients.",
+                "vi": "Điều này có thể cải tiến đột phá cách các bác sĩ chẩn bệnh."
+            }
+        },
+        {
+            "content": "chẩn bịnh",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

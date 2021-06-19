@@ -1,0 +1,36 @@
+{
+    "word": "egocentric",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌēɡōˈsentrik/",
+            "/ˌiɡoʊˈsɛntrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛɡə(ʊ)ˈsɛntrɪk/",
+            "/ˌiːɡə(ʊ)ˈsɛntrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vị trí",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ích kỷ",
+            "type": "adjective",
+            "example": {
+                "en": "I feel that I am no longer egocentric and proud.",
+                "vi": "Tôi cảm thấy mình không còn ích kỷ và kiêu ngạo nữa."
+            }
+        }
+    ]
+}

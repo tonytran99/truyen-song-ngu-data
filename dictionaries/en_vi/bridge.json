@@ -1,0 +1,90 @@
+{
+    "word": "bridge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brij/",
+            "/brɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cầu",
+            "type": "noun",
+            "example": {
+                "en": "The new bridge will have been completed by March.",
+                "vi": "Cây cầu mới sẽ được hoàn thành vào tháng ba."
+            }
+        },
+        {
+            "content": "橋",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái cầu",
+            "type": "",
+            "example": {
+                "en": "Make sure nobody comes over the swing bridge.",
+                "vi": "Bảo đảm rằng không có ai tới cái cầu treo đó."
+            }
+        },
+        {
+            "content": "brit",
+            "type": "",
+            "example": {
+                "en": "Then I would go up and deliver them to these 70-year-old women playing bridge.",
+                "vi": "Sau đó giao hàng cho những bà cụ ngoài 70 chơi bài brit."
+            }
+        },
+        {
+            "content": "cầu nối",
+            "type": "noun",
+            "example": {
+                "en": "We would seal the bridge and the reactor room.",
+                "vi": "Chúng ta sẽ niêm phong cầu nối và phòng phản ứng."
+            }
+        },
+        {
+            "content": "sống mũi",
+            "type": "",
+            "example": {
+                "en": "that the surface tension takes it across the bridge of your nose",
+                "vi": "đến nỗi lực căng bề mặt đã ép nó trượt qua bên kia sống mũi"
+            }
+        },
+        {
+            "content": "cương",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sống",
+            "type": "verb noun",
+            "example": {
+                "en": "that the surface tension takes it across the bridge of your nose",
+                "vi": "đến nỗi lực căng bề mặt đã ép nó trượt qua bên kia sống mũi"
+            }
+        },
+        {
+            "content": "bắc cầu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cái ngựa đàn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

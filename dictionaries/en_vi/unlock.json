@@ -1,0 +1,58 @@
+{
+    "word": "unlock",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈläk/",
+            "/ənˈlɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈlɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở khóa",
+            "type": "",
+            "example": {
+                "en": "Turns out that there is still huge unlocked potential.",
+                "vi": "Hóa ra rằng vẫn có những tiềm năng khổng lồ chưa được mở khóa."
+            }
+        },
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "Tom unlocked the safe.",
+                "vi": "Tom mở cửa két sắt."
+            }
+        },
+        {
+            "content": "mở khoá",
+            "type": "",
+            "example": {
+                "en": "A torque wrench is inserted into the key way, in such a fashion as to push the pin upward to unlock a pin code.",
+                "vi": "Chìa vặn ốc được đưa vào lỗ khoá, làm sao để đẩy chốt lên để mở khoá chốt."
+            }
+        },
+        {
+            "content": "tiết lộ",
+            "type": "verb",
+            "example": {
+                "en": "And then you found the drug that you thought unlocked a secret.",
+                "vi": "Và sau đó bạn tìm thấy loại thuốc mà bạn nghĩ có thể tiết lộ một bí mật."
+            }
+        },
+        {
+            "content": "để lộ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

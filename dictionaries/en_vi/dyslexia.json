@@ -1,0 +1,42 @@
+{
+    "word": "dyslexia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəsˈleksēə/",
+            "/dəsˈlɛksiə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈlɛksɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng khó đọc",
+            "type": "noun",
+            "example": {
+                "en": "This difficulty in reading and writing is called dyslexia.",
+                "vi": "Sự khó khăn trong đọc và viết như thế này được gọi là chứng khó đọc."
+            }
+        },
+        {
+            "content": "Chứng khó đọc",
+            "type": "",
+            "example": {
+                "en": "This difficulty in reading and writing is called dyslexia.",
+                "vi": "Sự khó khăn trong đọc và viết như thế này được gọi là chứng khó đọc."
+            }
+        },
+        {
+            "content": "loạn năng đọc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "unseen",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsēn/",
+            "/ˌənˈsin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chuẩn bị trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhìn thấy được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thấy",
+            "type": "",
+            "example": {
+                "en": "But seen or unseen they are always near.",
+                "vi": "Nhưng cho dù thấy được hay không thấy được, thì họ cũng luôn luôn ở gần bên."
+            }
+        },
+        {
+            "content": "không xem trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế giới vô hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô hình",
+            "type": "",
+            "example": {
+                "en": "There are both seen and unseen forces that influence our choices.",
+                "vi": "Có các lực lượng hữu hình lẫn vô hình ảnh hưởng đến những điều chúng ta lựa chọn."
+            }
+        }
+    ]
+}

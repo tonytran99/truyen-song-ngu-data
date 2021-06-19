@@ -1,0 +1,69 @@
+{
+    "word": "burglar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərɡlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːɡlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ trộm",
+            "type": "noun",
+            "example": {
+                "en": "There was a time when a burglar, or robber, took only valuables.",
+                "vi": "Hồi xưa thì các kẻ trộm cắp chỉ tìm kiếm những đồ đáng giá mà thôi."
+            }
+        },
+        {
+            "content": "bỉ vỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ trộm bẻ khoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ trộm đào ngạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ trộm đêm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ăn trộm",
+            "type": "verb",
+            "example": {
+                "en": "I was burglarizing the house of this judge down in Delacroix.",
+                "vi": "Lúc đó tôi đang ăn trộm nhà của 1 thẩm phán tại Delacroix."
+            }
+        },
+        {
+            "content": "kẻ cướp",
+            "type": "",
+            "example": {
+                "en": "Coming home late at night, he might get shot by a burglar.",
+                "vi": "Về nhà muộn một hôm... Kẻ cướp có thể bắn chết hắn."
+            }
+        },
+        {
+            "content": "tên ăn cướp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

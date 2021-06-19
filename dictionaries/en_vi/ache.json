@@ -1,0 +1,85 @@
+{
+    "word": "ache",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/āk/",
+            "/eɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhức",
+            "type": "verb",
+            "example": {
+                "en": "My arms and legs began to burn and ache.",
+                "vi": "Cánh tay và chân của tôi bắt đầu đau nhức."
+            }
+        },
+        {
+            "content": "đau",
+            "type": "adjective verb",
+            "example": {
+                "en": "Took one in the sternum, so my heart aches.",
+                "vi": "Lãnh một phát vào xương ức, ngực đau muốn chết."
+            }
+        },
+        {
+            "content": "đau đớn",
+            "type": "adjective",
+            "example": {
+                "en": "How my heart aches for what happened to Peter on that occasion.",
+                "vi": "Lòng tôi đau đớn biết bao về điều đã xảy ra cho Phi E Rơ vào dịp đó."
+            }
+        },
+        {
+            "content": "đầu",
+            "type": "noun",
+            "example": {
+                "en": "\" Your arm would begin to ache \" said one of the students .",
+                "vi": "\" Cánh tay của thầy sẽ bắt đầu ê ẩm \" một sinh viên thốt lên ."
+            }
+        },
+        {
+            "content": "nhức nhối",
+            "type": "",
+            "example": {
+                "en": "And I went home, and, because the pain in my chest ached so much,",
+                "vi": "Và tôi về nhà, và bởi nối đau trong ngực quá nhức nhối,"
+            }
+        },
+        {
+            "content": "sự nhức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đau",
+            "type": "noun",
+            "example": {
+                "en": "This means that all aches and pains and sicknesses will be removed.",
+                "vi": "Điều này có nghĩa là mọi sự đau đớn, bệnh tật sẽ không còn nữa."
+            }
+        },
+        {
+            "content": "sự đau mình mẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đau đớn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "word": "editor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈedədər/",
+            "/ˈɛdədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biên tập viên",
+            "type": "noun",
+            "example": {
+                "en": "So what did we do? We send it back to the editor.",
+                "vi": "Vậy chúng tôi đã làm gì? Chúng tôi đã gửi ngược tài liệu này đến biên tập viên."
+            }
+        },
+        {
+            "content": "bộ biên soạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ lắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chương trình biên soạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chủ bút",
+            "type": "",
+            "example": {
+                "en": "It was a rag, but the editor taught me one important lesson.",
+                "vi": "Chỗ ấy thật toi tàn, nhưng người chủ bút đã dạy anh bài học quan trọng."
+            }
+        },
+        {
+            "content": "soạn giả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trình soạn thảo",
+            "type": "",
+            "example": {
+                "en": "A KDE text-editor component could not be found; please check your KDE installation",
+                "vi": "Không tìm thấy một thành phần trình soạn thảo văn bản của KDE; xin hãy kiểm tra lại cài đặt KDE"
+            }
+        },
+        {
+            "content": "tổng biên tập",
+            "type": "",
+            "example": {
+                "en": "I'm gonna read and talk to my editor, ok?",
+                "vi": "Tôi sẽ đọc và bàn chuyện với tổng biên tập của tôi, được không?"
+            }
+        },
+        {
+            "content": "chủ biên",
+            "type": "noun",
+            "example": {
+                "en": "So did the deputy editor...",
+                "vi": "Phó chủ biên Lí Sơn cũng chết rồi.."
+            }
+        },
+        {
+            "content": "bộ soạn thảo",
+            "type": "",
+            "example": {
+                "en": "Click here to edit your regular expression using a graphical editor",
+                "vi": "Hãy nhắp vào đây để sửa đổi biểu thức chính quy bằng bộ soạn thảo đồ họa"
+            }
+        }
+    ]
+}

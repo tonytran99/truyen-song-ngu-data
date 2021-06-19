@@ -1,0 +1,43 @@
+{
+    "word": "yin",
+    "type": [
+        "noun",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yin/",
+            "/jɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "âm",
+            "type": "noun",
+            "example": {
+                "en": "Thunder and lightning, as the coupling of yin and yang.",
+                "vi": "Sấm chớp ầm ầm. Là âm dương giao hợp."
+            }
+        },
+        {
+            "content": "陰",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ân",
+            "type": "noun",
+            "example": {
+                "en": "So you're saying there's a problem with Yin Po'?",
+                "vi": "Vậy ý ngươi là, Ân Phá có vấn đề sao?"
+            }
+        }
+    ]
+}

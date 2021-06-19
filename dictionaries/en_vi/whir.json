@@ -1,0 +1,41 @@
+{
+    "word": "whir",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wəː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu vo vo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu vù vù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu vo vo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu vù vù",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

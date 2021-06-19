@@ -1,0 +1,39 @@
+{
+    "word": "doorman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrˌman/",
+            "/ˈdɔrˌmæn/",
+            "/ˈdôrˌmən/",
+            "/ˈdɔrˌmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người gác cửa",
+            "type": "",
+            "example": {
+                "en": "I went to bennet's apartment and told his doorman that I forgot my key.",
+                "vi": "Tôi tới căn hộ của Bennet và bảo người gác cửa là tôi quên chìa khóa."
+            }
+        },
+        {
+            "content": "người gác cổng",
+            "type": "",
+            "example": {
+                "en": "He works as a doorman at a building in midtown.",
+                "vi": "Anh ta làm một người gác cổng tại một tòa nhà ở Midtown."
+            }
+        }
+    ]
+}

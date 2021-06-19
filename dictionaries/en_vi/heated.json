@@ -1,0 +1,78 @@
+{
+    "word": "heated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhēdəd/",
+            "/ˈhidəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhiːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giận dữ",
+            "type": "",
+            "example": {
+                "en": "Nina, we are getting a ton of heat from the police out here about that video.",
+                "vi": "Chúng ta sẽ phải hứng chịu cơn giận dữ của cảnh sát vì cái video đấy."
+            }
+        },
+        {
+            "content": "nóng nảy",
+            "type": "",
+            "example": {
+                "en": "Please understand Commissioner JOO's heated tone in this matter.",
+                "vi": "Xin anh thông cảm cho sự nóng nảy của Đại tướng Joo."
+            }
+        },
+        {
+            "content": "được đốt nóng",
+            "type": "",
+            "example": {
+                "en": "that was heated up by the star's light,",
+                "vi": "do được đốt nóng bởi ánh sáng của ngôi sao,"
+            }
+        },
+        {
+            "content": "gay gắt",
+            "type": "adjective",
+            "example": {
+                "en": "How can you prevent a discussion from becoming heated?",
+                "vi": "Để tránh cuộc bàn luận trở nên gay gắt, bạn có thể làm gì?"
+            }
+        },
+        {
+            "content": "nóng",
+            "type": "adjective",
+            "example": {
+                "en": "Let me heat it up some leftovers for you.",
+                "vi": "Để tôi hâm nóng chút đồ ăn cho bạn."
+            }
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {
+                "en": "Really — I mean, there are very, very heated arguments.",
+                "vi": "Thật ra ý tôi là, có rất rất nhiều cuộc tranh luận sôi nổi."
+            }
+        },
+        {
+            "content": "được đun nóng",
+            "type": "",
+            "example": {
+                "en": "You wouldn't apply heat to a volumetric flask.",
+                "vi": "Không được đun nóng bình đo thể tích."
+            }
+        }
+    ]
+}

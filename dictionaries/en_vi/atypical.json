@@ -1,0 +1,39 @@
+{
+    "word": "atypical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌāˈtipək(ə)l/",
+            "/ˌeɪˈtɪpək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪˈtɪpɪk(ə)l/",
+            "/aˈtɪpɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không điển hình",
+            "type": "",
+            "example": {
+                "en": "So, no matter how atypical these subjects would have to be,",
+                "vi": "Mặc dù các đối tượng này không điển hình"
+            }
+        },
+        {
+            "content": "không đúng kiểu",
+            "type": "",
+            "example": {
+                "en": "That's a bit atypical.",
+                "vi": "Không đúng kiểu gì cả."
+            }
+        }
+    ]
+}

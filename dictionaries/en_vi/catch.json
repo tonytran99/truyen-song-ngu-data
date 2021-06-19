@@ -1,0 +1,484 @@
+{
+    "word": "catch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaCH/",
+            "/kætʃ/",
+            "/keCH/",
+            "/kɛtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/katʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt",
+            "type": "verb",
+            "example": {
+                "en": "I could not catch as many fish as I had expected.",
+                "vi": "Tôi không bắt được đủ số cá như mong đợi."
+            }
+        },
+        {
+            "content": "chộp lấy",
+            "type": "",
+            "example": {
+                "en": "She ran to the door , but her husband was before her , and catching her by the arm , held her tightly .",
+                "vi": "Bà chạy ra đến cửa , nhưng chồng bà ngăn bà lại , chộp lấy cánh tay bà và ôm bà thật chặt ."
+            }
+        },
+        {
+            "content": "đuổi kịp",
+            "type": "verb",
+            "example": {
+                "en": "I had no idea that our enemies would catch up to us so quickly.",
+                "vi": "Chú không hề biết là kẻ thù lại đuổi kịp nhanh như vậy."
+            }
+        },
+        {
+            "content": "mắc",
+            "type": "adjective",
+            "example": {
+                "en": "You cannot catch syphilis from a towel , doorknob , or toilet seat .",
+                "vi": "Bạn không thể mắc bệnh giang mai từ khăn , tay nắm cửa hay bồn cầu ."
+            }
+        },
+        {
+            "content": "vướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "móc",
+            "type": "verb noun",
+            "example": {
+                "en": "Watch out that you don't catch your thumb.",
+                "vi": "Coi chừng đấy, đừng bắt tay mình móc nhé."
+            }
+        },
+        {
+            "content": "kẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt gặp",
+            "type": "",
+            "example": {
+                "en": "What are you gonna do if one of them catches you?",
+                "vi": "Anh sẽ làm gì nếu bị người ta bắt gặp?"
+            }
+        },
+        {
+            "content": "bắt lấy",
+            "type": "",
+            "example": {
+                "en": "No, catching planes and boats on fire, hmm...",
+                "vi": "Không, bắt lấy máy bay và tàu đang cháy,... hmm"
+            }
+        },
+        {
+            "content": "bắt lửa",
+            "type": "",
+            "example": {
+                "en": "Anyway, her tail catches on fire from the back of the volcano.",
+                "vi": "Nhân tiện, đuôi của cô ây bắt lửa từ phía sau ngọn núi lửa"
+            }
+        },
+        {
+            "content": "cái bẫy",
+            "type": "",
+            "example": {
+                "en": "The Obama Administration was caught in a perfect catch-22.",
+                "vi": "Chính quyền Obama đã bị bắt trong cái bẫy hoàn hảo- 22."
+            }
+        },
+        {
+            "content": "cái gài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tóm",
+            "type": "verb",
+            "example": {
+                "en": "I'm gonna catch up with that coward soon enough.",
+                "vi": "Sớm muộn gì, tao cũng tóm được thằng hèn nhát đó."
+            }
+        },
+        {
+            "content": "kẹt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chụp",
+            "type": "verb",
+            "example": {
+                "en": "If I pass out, just promise to catch me before I hit the floor.",
+                "vi": "Nếu tôi có xỉu thì nhớ chụp tôi lại trước khi tôi chạm đất nhé."
+            }
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "I hope you didn't let the fisherman catch you.",
+                "vi": "Anh hy vọng em sẽ không để cho người đánh cá đó bắt gặp."
+            }
+        },
+        {
+            "content": "nhiễm",
+            "type": "verb",
+            "example": {
+                "en": "I hope he didn't die of anything catching.",
+                "vi": "Tôi hy vọng là ông ấy không chết vì bệnh truyền nhiễm."
+            }
+        },
+        {
+            "content": "mắc bệnh",
+            "type": "",
+            "example": {
+                "en": "You cannot catch syphilis from a towel , doorknob , or toilet seat .",
+                "vi": "Bạn không thể mắc bệnh giang mai từ khăn , tay nắm cửa hay bồn cầu ."
+            }
+        },
+        {
+            "content": "vướng vào",
+            "type": "",
+            "example": {
+                "en": "often catch the fishing nets, and weary,",
+                "vi": "thường vướng vào lưới đánh cá, và những đứa trẻ"
+            }
+        },
+        {
+            "content": "vừa",
+            "type": "adjective conjunction verb adverb",
+            "example": {}
+        },
+        {
+            "content": "xe",
+            "type": "noun",
+            "example": {
+                "en": "He failed to catch the 8:30 train.",
+                "vi": "Nó đã lỡ chuyến xe lửa 8:30."
+            }
+        },
+        {
+            "content": "giữ",
+            "type": "verb",
+            "example": {
+                "en": "This crooked compass will catch the light and point the way to the labyrinth's location.",
+                "vi": "Chiếc la bàn này sẽ giữ những tia sáng và chỉ đường đến mê cung."
+            }
+        },
+        {
+            "content": "đoạn",
+            "type": "verb noun",
+            "example": {
+                "en": "But, there's one catch. This is the fatal — you know,",
+                "vi": "Nhưng có một đoạn ghi chép nữa. Đây là một lỗi không thể tránh —"
+            }
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "đớp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bén",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vịn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bắt kịp",
+            "type": "",
+            "example": {
+                "en": "No poverty can catch up with industry.",
+                "vi": "Đói nghèo không thể bắt kịp nền công nghiệp."
+            }
+        },
+        {
+            "content": "bắt được quả tang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị nhiễm",
+            "type": "",
+            "example": {
+                "en": "No, I don't want you to catch a cold.",
+                "vi": "Không được, mẹ không muốn con bị nhiễm lạnh đâu."
+            }
+        },
+        {
+            "content": "chặn đứng",
+            "type": "",
+            "example": {
+                "en": "Such a web could catch a passenger plane in mid-flight!",
+                "vi": "Mạng nhện như thế có thể chặn đứng một phi cơ chở hành khách đang bay trên không trung!"
+            }
+        },
+        {
+            "content": "chợt gặp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chợt thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái bắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái chốt cửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái chộp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái hãm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái then cửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái vồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "câu hỏi mẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "câu được",
+            "type": "",
+            "example": {
+                "en": "You can't catch two fish with one hook.",
+                "vi": "Em không thể bắt hai con bằng một lưỡi câu được"
+            }
+        },
+        {
+            "content": "hiểu được",
+            "type": "",
+            "example": {
+                "en": "She 's watching and catching on .",
+                "vi": "Trẻ nhỏ sẽ quan sát và hiểu được thôi mà ."
+            }
+        },
+        {
+            "content": "khoá dừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy hãm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "món bở",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mưu kế lừa người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc vào",
+            "type": "",
+            "example": {
+                "en": "Which makes me wonder, how did you catch this?",
+                "vi": "Điều đó khiến tôi thắc mắc làm thế nào cậu mắc vào vụ này?"
+            }
+        },
+        {
+            "content": "mẻ cá",
+            "type": "",
+            "example": {
+                "en": "could we halve the catch and double the price for the fishermen",
+                "vi": "liệu chúng ta có thể chia đôi mẻ cá và nhân đôi lợi nhuận cho ngư dân"
+            }
+        },
+        {
+            "content": "nhiều người bị bắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận ra",
+            "type": "",
+            "example": {
+                "en": "because although we all think we can catch a liar",
+                "vi": "vì dù ta đều nghĩ rằng ta có thể nhận ra kẻ nói dối"
+            }
+        },
+        {
+            "content": "níu lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắm lấy",
+            "type": "noun",
+            "example": {
+                "en": "Brothers and sisters on each ward council are beginning to catch the wave.",
+                "vi": "Các anh chị em thuộc mỗi hội đồng tiểu giáo khu đang bắt đầu nắm lấy cơ hội."
+            }
+        },
+        {
+            "content": "nắm được",
+            "type": "",
+            "example": {
+                "en": "You catch my drift?",
+                "vi": "Các cậu nắm được ý của tôi chứ?"
+            }
+        },
+        {
+            "content": "sự bắt",
+            "type": "",
+            "example": {
+                "en": "is really starting to catch on.",
+                "vi": "đã thật sự bắt đầu có kết quả."
+            }
+        },
+        {
+            "content": "sự nắm lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đánh cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo kịp",
+            "type": "",
+            "example": {
+                "en": "He is working hard to catch up with the others.",
+                "vi": "Anh ấy đang làm việc chăm chỉ để theo kịp những người khác."
+            }
+        },
+        {
+            "content": "thu hút",
+            "type": "",
+            "example": {
+                "en": "Something catch your eye there, lassie?",
+                "vi": "Có thứ gì khiến mắt cô bị thu hút hả cô gái?"
+            }
+        },
+        {
+            "content": "tóm lấy",
+            "type": "",
+            "example": {
+                "en": "Today, we've taken a pig, greased it up, and the first one who catches it, wins.",
+                "vi": "Ngày nay, chúng ta bắt lợn, tóm lấy nó, và kẻ nào bắt được nó trước sẽ thắng."
+            }
+        },
+        {
+            "content": "víu lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật bị túm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bắt",
+            "type": "",
+            "example": {
+                "en": "But the truth is we're way too efficient at catching them,",
+                "vi": "Nhưng sự thực là chúng ta có cách đánh bắt quá hiệu quả !"
+            }
+        },
+        {
+            "content": "đánh được",
+            "type": "",
+            "example": {
+                "en": "The fisherman with the largest net is the one most likely to catch fish.",
+                "vi": "Người đánh cá có lưới lớn nhất rất có thể là người sẽ đánh được nhiều cá nhất."
+            }
+        },
+        {
+            "content": "đóng băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bận",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tiếp",
+            "type": "verb",
+            "example": {
+                "en": "We'll catch up later.",
+                "vi": "Chúng ta sẽ tiếp tục sau nhé."
+            }
+        }
+    ]
+}

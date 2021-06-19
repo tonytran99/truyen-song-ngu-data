@@ -1,0 +1,35 @@
+{
+    "word": "facial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfāSHəl/",
+            "/ˈfeɪʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "I can run facial-recognition software on the photos, cross-reference them with our criminal databases.",
+                "vi": "Tôi có thể chạy chương trình nhận dạng khuôn mặt trên hình, đối chiếu chúng với dữ liệu tội phạm mà chúng ta có."
+            }
+        },
+        {
+            "content": "sự xoa bóp mặt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

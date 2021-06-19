@@ -1,0 +1,30 @@
+{
+    "word": "irons",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "bàn là",
+            "type": "noun",
+            "example": {
+                "en": "The supply of electricity was so limited that we could not use a washing machine or an iron.",
+                "vi": "Điện thì rất ít nên chúng tôi không thể sử dụng máy giặt hoặc bàn là."
+            }
+        },
+        {
+            "content": "còng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "song sắt",
+            "type": "",
+            "example": {
+                "en": "You got broad-gauge iron bars on every door, vent and window.",
+                "vi": "Nó có song sắt to chắn ở từng cửa, lỗ thông và cửa sổ."
+            }
+        }
+    ]
+}

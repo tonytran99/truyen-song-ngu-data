@@ -1,0 +1,50 @@
+{
+    "word": "divan",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvan/",
+            "/dəˈvæn/",
+            "/ˈdīˌvan/",
+            "/ˈdaɪˌvæn/",
+            "/diˈvan/",
+            "/dɪˈvæn/",
+            "/ˈdīvan/",
+            "/ˈdaɪvæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvan/",
+            "/dʌɪˈvan/",
+            "/ˈdʌɪvan/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đi văng",
+            "type": "noun",
+            "example": {
+                "en": "Doris, Abigail, go get some sheets and make up the divan in the music room.",
+                "vi": "Doris, Abigail, lấy vài cái mền... và chuẩn bị cái đi-văng trong phòng nhạc."
+            }
+        },
+        {
+            "content": "trường kỷ",
+            "type": "noun",
+            "example": {
+                "en": "She glanced at a divan more beautiful than the others",
+                "vi": "Mắt cô thấy một cái trường kỷ đẹp hơn những cái khác."
+            }
+        },
+        {
+            "content": "phòng hút thuốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

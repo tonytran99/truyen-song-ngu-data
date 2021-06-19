@@ -1,0 +1,57 @@
+{
+    "word": "calibration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaləˈbrāSH(ə)n/",
+            "/kæləˈbreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kalɪˈbreɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự định cỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy chuẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chia độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lấy mẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định chuẩn",
+            "type": "",
+            "example": {
+                "en": "Automatic PANTONE ̈ Color Calibration",
+                "vi": "Tự động định chuẩn màu PANTONE"
+            }
+        },
+        {
+            "content": "định cỡ",
+            "type": "",
+            "example": {
+                "en": "You break things down into these calibrated slices",
+                "vi": "Các bạn chia các nhiệm vụ ra thành các mảnh được định cỡ"
+            }
+        }
+    ]
+}

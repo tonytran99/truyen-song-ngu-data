@@ -1,0 +1,38 @@
+{
+    "word": "concave",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/känˈkāv/",
+            "/kɑnˈkeɪv/",
+            "/ˈkänˌkāv/",
+            "/ˈkɑnˌkeɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnkeɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lõm",
+            "type": "noun",
+            "example": {
+                "en": "Then I began the laborious task of grinding it by hand to make it into a concave mirror.",
+                "vi": "Rồi tôi bắt đầu công việc khó khăn là mài lõm mặt kiếng bằng tay."
+            }
+        },
+        {
+            "content": "hình lòng chão",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

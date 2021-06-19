@@ -1,0 +1,71 @@
+{
+    "word": "existent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzist(ə)nt/",
+            "/ɪɡˈzɪst(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɪst(ə)nt/",
+            "/ɛɡˈzɪst(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có sẵn",
+            "type": "adjective",
+            "example": {
+                "en": "I can take an existing gun, make the modifications.",
+                "vi": "Tôi có thể lấy một cây súng có sẵn, sửa đổi chút ít."
+            }
+        },
+        {
+            "content": "hiện có",
+            "type": "",
+            "example": {
+                "en": "So they're the last breeding pair in existence.",
+                "vi": "Chúng là những cặp cá thể cuối cùng hiện có."
+            }
+        },
+        {
+            "content": "hiện hữu",
+            "type": "adjective",
+            "example": {
+                "en": "Their philosophers taught the existence of two opposing principles.",
+                "vi": "Các triết gia của họ dạy về sự hiện hữu của hai nguyên tắc đối lập."
+            }
+        },
+        {
+            "content": "hiện nay",
+            "type": "",
+            "example": {
+                "en": "Why should I be made to feel I have to apologize for my existence?",
+                "vi": "Sao tôi phải cảm thấy có lỗi với tình trạng hiện nay của tôi?"
+            }
+        },
+        {
+            "content": "hiện thời",
+            "type": "",
+            "example": {
+                "en": "so the government ordered reinforcing of the existing quarries",
+                "vi": "nên chính phủ yêu cầu gia cố lại các mỏ hiện thời"
+            }
+        },
+        {
+            "content": "tồn tại",
+            "type": "adjective",
+            "example": {
+                "en": "The user you to want to send this message to does not exist. Please try with another username.",
+                "vi": "Người dùng bạn muốn gởi tin này đến không tồn tại. Vui lòng thử tên khác."
+            }
+        }
+    ]
+}

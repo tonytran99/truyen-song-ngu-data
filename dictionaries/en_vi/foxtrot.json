@@ -1,0 +1,40 @@
+{
+    "word": "foxtrot",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfäksˌträt/",
+            "/ˈfɑksˌtrɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɒkstrɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhảy fôctrôt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điệu nhảy fôctrôt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "foxtrot",
+            "type": "",
+            "example": {
+                "en": "Foxtrot Charlie, we are ready to disembark.",
+                "vi": "Foxtrot Charlie, sẵn sàng cho tù nhân xuống xe."
+            }
+        }
+    ]
+}

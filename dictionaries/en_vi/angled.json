@@ -1,0 +1,35 @@
+{
+    "word": "angled",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaNGɡəld/",
+            "/ˈæŋɡəld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaŋɡ(ə)ld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có góc",
+            "type": "",
+            "example": {
+                "en": "I have a good angle on the fire, a good reading.",
+                "vi": "Tôi có góc quang sát tốt, thông số rõ."
+            }
+        },
+        {
+            "content": "có góc cạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

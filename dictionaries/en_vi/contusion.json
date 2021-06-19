@@ -1,0 +1,39 @@
+{
+    "word": "contusion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈto͞oZHən/",
+            "/kənˈtuʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtjuːʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự làm giập",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đụng giập",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vết đụng giập",
+            "type": "",
+            "example": {
+                "en": "20 to 30 contusions on all sides, including defensive wounds on the hands and the forearms.",
+                "vi": "20 đến 30 vết đụng giập từ mọi phía, bao gồm vết thương do phản kháng trên bàn tay và cánh tay."
+            }
+        }
+    ]
+}

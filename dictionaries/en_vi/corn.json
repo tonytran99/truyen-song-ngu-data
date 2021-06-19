@@ -1,0 +1,74 @@
+{
+    "word": "corn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kôrn/",
+            "/kɔrn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắp",
+            "type": "noun",
+            "example": {
+                "en": "Corn is an important crop in the United States.",
+                "vi": "Bắp là hạt giống quan trọng trong nước mỹ."
+            }
+        },
+        {
+            "content": "ngô",
+            "type": "noun",
+            "example": {
+                "en": "He should've planted corn like the rest of us.",
+                "vi": "Họ đáng nhẽ nên trồng ngô như tất cả chúng ta."
+            }
+        },
+        {
+            "content": "chai",
+            "type": "noun",
+            "example": {
+                "en": "I never used to get corns.",
+                "vi": "Ta chưa từng quen với vết chai chân."
+            }
+        },
+        {
+            "content": "bắp ngô",
+            "type": "noun",
+            "example": {
+                "en": "The corn I picked, I will give to Mother.",
+                "vi": "Mei sẽ cho mẹ bắp ngô Mei hái."
+            }
+        },
+        {
+            "content": "hạt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây ngũ cốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cục chai ở chân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

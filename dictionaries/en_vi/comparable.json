@@ -1,0 +1,46 @@
+{
+    "word": "comparable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämp(ə)rəb(ə)l/",
+            "/ˈkɑmp(ə)rəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmp(ə)rəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "so sánh được",
+            "type": "",
+            "example": {
+                "en": "You hate them compared to how much I like them.",
+                "vi": "Có thể so sánh được là tôi thích chúng đến chừng nào."
+            }
+        },
+        {
+            "content": "có thể so sánh",
+            "type": "",
+            "example": {
+                "en": "There is nothing else to compare with it in all this world.",
+                "vi": "Không có điều gì khác có thể so sánh với chức tư tế trên khắp thế gian này."
+            }
+        },
+        {
+            "content": "có thể so sánh được",
+            "type": "adjective",
+            "example": {
+                "en": "Because there is nothing in this world to compare with it.",
+                "vi": "Bởi vì không có gì trên thế gian này có thể so sánh được với Nước Trời."
+            }
+        }
+    ]
+}

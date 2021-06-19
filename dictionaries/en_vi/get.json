@@ -1,0 +1,449 @@
+{
+    "word": "get",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡet/",
+            "/ɡɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được",
+            "type": "verb",
+            "example": {
+                "en": "I got a bug in my eye and I can't get it out.",
+                "vi": "Có con bọ nằm trong mắt tôi nhưng tôi không thể lấy nó ra được."
+            }
+        },
+        {
+            "content": "nhận",
+            "type": "verb",
+            "example": {
+                "en": "We get a lot of snow here in the winter.",
+                "vi": "Chúng tôi nhận được rất nhiều tuyết ở đây vào mùa đông."
+            }
+        },
+        {
+            "content": "nhận được",
+            "type": "",
+            "example": {
+                "en": "We get a lot of snow here in the winter.",
+                "vi": "Chúng tôi nhận được rất nhiều tuyết ở đây vào mùa đông."
+            }
+        },
+        {
+            "content": "mua",
+            "type": "verb",
+            "example": {
+                "en": "How did you get Tom to buy that for you?",
+                "vi": "Làm thế nào mà bạn đã khiến Tom mua thứ đó cho bạn&gt;"
+            }
+        },
+        {
+            "content": "đến",
+            "type": "noun",
+            "example": {
+                "en": "I apologize for the methods used to get you here.",
+                "vi": "Tôi xin lỗi vì đã dùng phương pháp này để đưa anh đến."
+            }
+        },
+        {
+            "content": "trở nên",
+            "type": "verb",
+            "example": {
+                "en": "Let's not get greedy here.",
+                "vi": "Đừng trở nên tham lam."
+            }
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "We have to get that document back before Tom shows it to anyone.",
+                "vi": "Chúng ta phải lấy lại tài liệu đó trước khi Tom đưa nó cho bất cứ ai."
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "How long does it take to get to the train station?",
+                "vi": "Mất bao nhiêu thời gian để đi từ đay tới ga?"
+            }
+        },
+        {
+            "content": "mang",
+            "type": "verb noun",
+            "example": {
+                "en": "I'll get him to carry my suitcase upstairs.",
+                "vi": "Tôi sắp yêu cầu anh ấy mang va li của tôi lên tầng."
+            }
+        },
+        {
+            "content": "bị",
+            "type": "verb",
+            "example": {
+                "en": "My eyes get tired very easily.",
+                "vi": "Mắt tôi rất dễ bị mỏi."
+            }
+        },
+        {
+            "content": "phải",
+            "type": "adjective verb",
+            "example": {
+                "en": "They get kind of tiresome after a while, don't you think?",
+                "vi": "Mấy chuyện đó sớm muộn gì cũng chán dần, phải không?"
+            }
+        },
+        {
+            "content": "có được",
+            "type": "",
+            "example": {
+                "en": "We climbed higher so that we might get a better view.",
+                "vi": "Chúng tôi chèo lên cao để có được tầm nhìn đẹp hơn."
+            }
+        },
+        {
+            "content": "đem",
+            "type": "noun",
+            "example": {
+                "en": "Because I can't get children and use them as an excuse to mess things up.",
+                "vi": "Bởi vì hắn không thể đem trẻ con ra để bào chữa cho sự bê tha của mình."
+            }
+        },
+        {
+            "content": "ăn",
+            "type": "verb",
+            "example": {
+                "en": "Hey, do you guys get any of that detainee chow?",
+                "vi": "Cậu thử đồ ăn của đối tượng chưa?"
+            }
+        },
+        {
+            "content": "chịu",
+            "type": "",
+            "example": {
+                "en": "I'm getting tired of this little minstrel act.",
+                "vi": "Chị khó chịu với cái thái độ dân chơi đó rồi."
+            }
+        },
+        {
+            "content": "chuồn",
+            "type": "",
+            "example": {
+                "en": "Now we get outta here before he shows up.",
+                "vi": "Giờ thì chúng ta chuồn khỏi đây trước khi hắn xuất hiện."
+            }
+        },
+        {
+            "content": "lãnh",
+            "type": "verb",
+            "example": {
+                "en": "The chances are you'll get off with life.",
+                "vi": "Nhiều khả năng cô sẽ lãnh án chung thân."
+            }
+        },
+        {
+            "content": "học",
+            "type": "Suffix verb",
+            "example": {
+                "en": "And I was gonna try and get ahead on the syllabus.",
+                "vi": "Và con đang cố học trước chương trình."
+            }
+        },
+        {
+            "content": "tính",
+            "type": "verb",
+            "example": {
+                "en": "If that telepath gets inside your head, he won't be as much fun as I am.",
+                "vi": "Nếu thằng ngoại cảm đó vào được đầu anh, hắn sẽ không vui tính như em đâu."
+            }
+        },
+        {
+            "content": "sinh",
+            "type": "verb",
+            "example": {
+                "en": "Diarrheal disease organisms get transmitted in basically three ways.",
+                "vi": "Các vi sinh vật gây tiêu chảy thường lan truyền theo ba cách sau."
+            }
+        },
+        {
+            "content": "đẻ",
+            "type": "verb",
+            "example": {
+                "en": "Get up, filthy dog!",
+                "vi": "Mày đứng dậy, đồ chó đẻ!"
+            }
+        },
+        {
+            "content": "chuyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảo ai",
+            "type": "",
+            "example": {
+                "en": "We'll get somebody to take a look at it, all right?",
+                "vi": "Tôi sẽ bảo ai đó nhìn cái đó được không?"
+            }
+        },
+        {
+            "content": "bắt được",
+            "type": "",
+            "example": {
+                "en": "They wanted the man who can get the man that nobody can get.",
+                "vi": "Họ muốn có người đã bắt được tên mà không ai có thể bắt."
+            }
+        },
+        {
+            "content": "bắt đầu",
+            "type": "verb",
+            "example": {
+                "en": "Tom is starting to get on my nerves.",
+                "vi": "Tom bắt đầu làm tôi thấy khó chịu."
+            }
+        },
+        {
+            "content": "cung cấp",
+            "type": "",
+            "example": {
+                "en": "Perhaps volcanic heat could generate enough to get life off the ground in Titan.",
+                "vi": "Nhiệt núi lửa có khả năng cung cấp đủ cho sự sống khởi đầu trên bề mặt."
+            }
+        },
+        {
+            "content": "cút đi",
+            "type": "interjection",
+            "example": {
+                "en": "Billy, get lost! I don't want to see you here again.",
+                "vi": "Billy, hãy cút đi! Tôi không muốn nhìn thấy anh ở đây nữa."
+            }
+        },
+        {
+            "content": "hiểu được",
+            "type": "",
+            "example": {
+                "en": "I get the motivation, I get the metaphors, right?",
+                "vi": "Tớ hiểu được động lực, tớ hiểu được phép ẩn dụ, được chứ?"
+            }
+        },
+        {
+            "content": "hỏi được",
+            "type": "",
+            "example": {
+                "en": "You'd be lucky to get a recipe for mud pies out of this guy.",
+                "vi": "May ra thì hỏi được công thức làm bánh bùn thôi."
+            }
+        },
+        {
+            "content": "khiến cho",
+            "type": "",
+            "example": {
+                "en": "Which was probably another reason I decided to get rid of her.",
+                "vi": "Có lẽ đó là một lý do khác khiến cho tôi quyết định tống khứ bả."
+            }
+        },
+        {
+            "content": "kiếm được",
+            "type": "",
+            "example": {
+                "en": "First family member to score a functioning air conditioner gets a reward.",
+                "vi": "Thành viên đầu tiên kiếm được máy điều hòa sẽ được thưởng."
+            }
+        },
+        {
+            "content": "làm cho",
+            "type": "verb",
+            "example": {
+                "en": "Worry about getting Brandon better and getting him home.",
+                "vi": "Hãy lo về việc làm cho Brandon khỏe hơn và mang anh ấy về nhà."
+            }
+        },
+        {
+            "content": "lấy được",
+            "type": "",
+            "example": {
+                "en": "I don't get it.",
+                "vi": "Tôi không lấy được nó."
+            }
+        },
+        {
+            "content": "mua hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc phải",
+            "type": "",
+            "example": {
+                "en": "Perhaps you have wondered: ‘How long does it take to get over grief?",
+                "vi": "Có lẽ bạn thắc mắc: “Phải mất bao lâu mới vượt qua được nỗi đau buồn?"
+            }
+        },
+        {
+            "content": "nhờ ai",
+            "type": "",
+            "example": {
+                "en": "Or go to get help putting it in .",
+                "vi": "Hoặc nên đến nhờ ai đó lắp ghế cho bạn ."
+            }
+        },
+        {
+            "content": "nắm được",
+            "type": "",
+            "example": {
+                "en": "In reality, the explanation is a bit more complicated than this, but you get the gist.",
+                "vi": "Trong thực tế, giải thích là một chút phức tạp hơn điều này, nhưng bạn nắm được ý chính."
+            }
+        },
+        {
+            "content": "sai ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu về",
+            "type": "",
+            "example": {
+                "en": "I'm cycling through every channel but getting a lot of interference and white noise.",
+                "vi": "Tôi đang đảo qua tất cả các kênh... nhưng thu về rất nhiều tín hiệu nhiễu."
+            }
+        },
+        {
+            "content": "thành ra",
+            "type": "",
+            "example": {
+                "en": "But unfortunately the words get transformed as they travel through the air.",
+                "vi": "Tiếc thay câu này qua không khí đến tai người nghe, thành ra"
+            }
+        },
+        {
+            "content": "to have got có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trở thành",
+            "type": "verb",
+            "example": {
+                "en": "You're going to get yourself shot.",
+                "vi": "Bạn đang biến mình trở thành bia đỡ đạn đấy."
+            }
+        },
+        {
+            "content": "tìm hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {
+                "en": "The police will get you to find the bullets.",
+                "vi": "Cảnh sát sẽ bắt bạn tìm ra mấy viên đạn."
+            }
+        },
+        {
+            "content": "tính ra",
+            "type": "",
+            "example": {
+                "en": "All we've gotta do is figure some way to get in.",
+                "vi": "Và việc chúng ta cần làm là tính ra cách nào để vô căn nhà đó."
+            }
+        },
+        {
+            "content": "xin được",
+            "type": "",
+            "example": {
+                "en": "As soon as we get to daycare, you'll be begging to go home.",
+                "vi": "Ngay khi chúng ta tới đó, mọi người sẽ cầu xin được về nhà."
+            }
+        },
+        {
+            "content": "xoay hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đem về",
+            "type": "",
+            "example": {
+                "en": "I have to get some information for the family about a lot of things.",
+                "vi": "Tôi phải tìm hiểu thông tin đem về cho gia đình về rất nhiều chuyện."
+            }
+        },
+        {
+            "content": "đi lấy",
+            "type": "",
+            "example": {
+                "en": "I'm going to get us some tea.",
+                "vi": "Tôi sẽ đi lấy cho chúng ta một ít trà."
+            }
+        },
+        {
+            "content": "đi đến chỗ",
+            "type": "",
+            "example": {
+                "en": "They're always trying to get somewhere where they...",
+                "vi": "Chúng luôn cố gắng đi đến chỗ nào mà chúng..."
+            }
+        },
+        {
+            "content": "đạt đến",
+            "type": "",
+            "example": {
+                "en": "Think of the problems to solve before we get there.",
+                "vi": "Hãy nghĩ về vấn đề để giải quyết trước khi ta đạt đến đó."
+            }
+        },
+        {
+            "content": "lấy",
+            "type": "verb",
+            "example": {
+                "en": "I'm not old enough to get a driver's license.",
+                "vi": "Tớ chưa đủ tuổi lấy bằng lái xe."
+            }
+        },
+        {
+            "content": "hiểu biết",
+            "type": "",
+            "example": {
+                "en": "Tough enough getting it from those who know.",
+                "vi": "Bị những người hiểu biết phê bình đã đủ chán rồi."
+            }
+        },
+        {
+            "content": "thuyết phục",
+            "type": "",
+            "example": {
+                "en": "Assuming that I can get this past my people and convince them, can you convince yours?",
+                "vi": "Giả sử tôi có thể thuyết phục họ, anh có thể thuyết phục người của anh không?"
+            }
+        },
+        {
+            "content": "thành công",
+            "type": "verb",
+            "example": {
+                "en": "We can get this done with no one getting hurt.",
+                "vi": "Chúng ta có thể thành công mà không ai phải bị thương cả."
+            }
+        }
+    ]
+}

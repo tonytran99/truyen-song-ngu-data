@@ -1,0 +1,68 @@
+{
+    "word": "hoist",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hoist/",
+            "/hɔɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɔɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự kéo lên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự nhấc bổng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thang máy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kéo",
+            "type": "verb noun",
+            "example": {
+                "en": "Amy, help Fry hoist the crate, then lock up when you're done.",
+                "vi": "Amy, giúp Fry kéo món hàng lên, và khóa lại kĩ càng khi làm xong."
+            }
+        },
+        {
+            "content": "thăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Vận thăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kéo lên",
+            "type": "",
+            "example": {
+                "en": "I mean, if that knot slips and Julia's on the hoist, she'll break her leg.",
+                "vi": "Ý tôi là nếu cái gút đó bị lỗi lúc Julia kéo lên. Cô ấy sẽ bị gãy chân."
+            }
+        },
+        {
+            "content": "vận thăng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

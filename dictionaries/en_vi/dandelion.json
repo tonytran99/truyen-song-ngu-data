@@ -1,0 +1,58 @@
+{
+    "word": "dandelion",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdandlˌīən/",
+            "/ˈdændlˌaɪən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdandɪlʌɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bồ công anh",
+            "type": "noun",
+            "example": {
+                "en": "Didn’t he know that the dandelion could cast seeds that could give root to dozens of additional weeds?",
+                "vi": "Ông ta không biết rằng cây bồ công anh có thể rải hạt mà sẽ mọc lên thêm thành hàng chục cây cỏ dại sao?"
+            }
+        },
+        {
+            "content": "hoa răng sư-tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây bồ công anh",
+            "type": "",
+            "example": {
+                "en": "Didn’t he know that the dandelion could cast seeds that could give root to dozens of additional weeds?",
+                "vi": "Ông ta không biết rằng cây bồ công anh có thể rải hạt mà sẽ mọc lên thêm thành hàng chục cây cỏ dại sao?"
+            }
+        },
+        {
+            "content": "răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sư-tử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

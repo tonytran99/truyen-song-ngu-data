@@ -1,0 +1,39 @@
+{
+    "word": "galvanometer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡalvəˈnämədər/",
+            "/ˌɡælvəˈnɑmədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡalvəˈnɒmɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gavanô kế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái đo điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điện kế",
+            "type": "",
+            "example": {
+                "en": "Your laser printer has a mirror galvanometer",
+                "vi": "Máy in laser có 1 điện kế gương"
+            }
+        }
+    ]
+}

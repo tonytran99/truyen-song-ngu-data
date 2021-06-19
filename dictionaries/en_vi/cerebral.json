@@ -1,0 +1,37 @@
+{
+    "word": "cerebral",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈrēbrəl/",
+            "/səˈribrəl/",
+            "/ˈserəbrəl/",
+            "/ˈsɛrəbrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛrɪbr(ə)l/",
+            "/səˈriːbr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "não",
+            "type": "noun",
+            "example": {
+                "en": "All they ever told us was a cerebral event.",
+                "vi": "Họ chỉ bảo là tai biến mạch máu não."
+            }
+        },
+        {
+            "content": "âm quặt lưỡi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

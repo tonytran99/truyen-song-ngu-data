@@ -1,0 +1,84 @@
+{
+    "word": "differ",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdifər/",
+            "/ˈdɪfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác",
+            "type": "adjective",
+            "example": {
+                "en": "There are significant differences between those two countries.",
+                "vi": "Có những khác biệt rõ rệt giữa hai quốc gia."
+            }
+        },
+        {
+            "content": "giống",
+            "type": "verb noun",
+            "example": {
+                "en": "Smell has this reputation of being somewhat different for each person.",
+                "vi": "Ai cũng nghĩ với mỗi người, mùi hương đem lại cảm nhận khác nhau, không ai giống ai."
+            }
+        },
+        {
+            "content": "bất đồng",
+            "type": "",
+            "example": {
+                "en": "You'll see the difference.",
+                "vi": "Bạn sẽ thấy sự bất đồng."
+            }
+        },
+        {
+            "content": "khác với",
+            "type": "",
+            "example": {
+                "en": "London is different from Tokyo climatically.",
+                "vi": "London khác với Tokyo về mặt khí hậu."
+            }
+        },
+        {
+            "content": "không giống",
+            "type": "",
+            "example": {
+                "en": "And that maybe being different isn't the end of the world.",
+                "vi": "Và có thể trở nên khác biệt không giống ngày tận thế."
+            }
+        },
+        {
+            "content": "không tán thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đồng ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân biệt với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "The national flag difference is a big problem .",
+                "vi": "Sai sót về quốc kỳ là một sai sót lớn ."
+            }
+        }
+    ]
+}

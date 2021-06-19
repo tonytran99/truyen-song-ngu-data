@@ -1,0 +1,47 @@
+{
+    "word": "commissioner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmiSH(ə)nər/",
+            "/kəˈmɪʃ(ə)nər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɪʃ(ə)nə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người được uỷ quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uỷ viên hội đồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ủy viên",
+            "type": "",
+            "example": {
+                "en": "A ruling this quick means the commissioner was involved.",
+                "vi": "Một kết luận nhanh như vậy nghĩa là ủy viên có liên quan."
+            }
+        },
+        {
+            "content": "ủy viên hội đồng",
+            "type": "noun",
+            "example": {
+                "en": "Prime Minister, the Commissioner was arrive",
+                "vi": "Ngài Thủ tướng, Ủy viên Hội đồng John Du Rose đã đến."
+            }
+        }
+    ]
+}

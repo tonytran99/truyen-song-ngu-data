@@ -1,0 +1,45 @@
+{
+    "word": "expound",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈspound/",
+            "/ɪkˈspaʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspaʊnd/",
+            "/ɛkˈspaʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trình bày chi tiết",
+            "type": "",
+            "example": {
+                "en": "In his introduction, he expounded the advantages of translating directly from the original languages.",
+                "vi": "Trong lời mở đầu, ông trình bày chi tiết những lợi điểm của việc dịch thẳng từ ngôn ngữ gốc."
+            }
+        },
+        {
+            "content": "giảng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giải nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải thích dẫn giải",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

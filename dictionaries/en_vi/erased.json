@@ -1,0 +1,35 @@
+{
+    "word": "erased",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrāst/",
+            "/əˈreɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈreɪzt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị khử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị xoá",
+            "type": "",
+            "example": {
+                "en": "You'll see that you are erased from history.",
+                "vi": "Ngươi sẽ thấy tên ngươi sẽ bị xoá khỏi lịch sử."
+            }
+        }
+    ]
+}

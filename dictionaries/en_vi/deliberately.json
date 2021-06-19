@@ -1,0 +1,42 @@
+{
+    "word": "deliberately",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlib(ə)rətlē/",
+            "/dəˈlɪb(ə)rətli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈlɪb(ə)rətli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏm bẻm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cố tình",
+            "type": "",
+            "example": {
+                "en": "They could be deliberately feeding us bad intel.",
+                "vi": "Chúng có thể cố tình tung tin xấu."
+            }
+        },
+        {
+            "content": "thận trọng",
+            "type": "",
+            "example": {
+                "en": "But the journey must not linger in the deliberation.",
+                "vi": "Nhưng hành trình cũng không tồn tại mãi trong sự thận trọng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "ussr",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌyo͞oˌesˌesˈär/",
+            "/ˌjuˌɛsˌɛsˈɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌjuːˌɛsˌɛsˈɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Liên Xô",
+            "type": "proper",
+            "example": {
+                "en": "Uncle, this is the extorting liquid used by USSR.",
+                "vi": "Chú, đây là chất lỏng được Liên Xô sử dụng để tống tiền."
+            }
+        },
+        {
+            "content": "liên bang cộng hòa xã hội chủ nghĩa Xô Viết",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

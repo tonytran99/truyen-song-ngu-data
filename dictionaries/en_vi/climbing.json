@@ -1,0 +1,52 @@
+{
+    "word": "climbing",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklīmiNG/",
+            "/ˈklaɪmɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklʌɪmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự leo trèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "leo",
+            "type": "adjective",
+            "example": {
+                "en": "The boys were climbing about on the rocks.",
+                "vi": "Bọn con trai đang leo lên khắp các tảng đá."
+            }
+        },
+        {
+            "content": "leo núi",
+            "type": "noun",
+            "example": {
+                "en": "The companionship has studied the rules and techniques of rock climbing.",
+                "vi": "Hai người leo núi đã nghiên cứu những luật lệ và kỹ thuật leo núi."
+            }
+        },
+        {
+            "content": "môn leo núi",
+            "type": "",
+            "example": {
+                "en": "It is an important part of mountain climbing.",
+                "vi": "Đó là một phần quan trọng của môn leo núi."
+            }
+        }
+    ]
+}

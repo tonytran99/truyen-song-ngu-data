@@ -1,0 +1,46 @@
+{
+    "word": "frowning",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrouniNG/",
+            "/ˈfraʊnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfraʊnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàu bạu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chằm vằm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhăn nhó",
+            "type": "adjective",
+            "example": {
+                "en": "I've never seen anyone frown so much in their sleep.",
+                "vi": "Em chưa thấy ai nhăn nhó... nhiều đến thế trong khi ngủ."
+            }
+        },
+        {
+            "content": "quằm quặm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

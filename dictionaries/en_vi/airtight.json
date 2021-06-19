@@ -1,0 +1,50 @@
+{
+    "word": "airtight",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈertīt/",
+            "/ˈɛrtaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːtʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kín hơi",
+            "type": "adjective",
+            "example": {
+                "en": "Therefore, the system must be essentially airtight in order to capture air.",
+                "vi": "Do đó, hệ thống nhất thiết phải kín hơi đễ giữ được khí."
+            }
+        },
+        {
+            "content": "kín",
+            "type": "",
+            "example": {
+                "en": "I'll do a sweep, make sure it's airtight.",
+                "vi": "Tôi sẽ đi kiểm tra và chắc chắn là mọi thứ đều kín"
+            }
+        },
+        {
+            "content": "kín khí",
+            "type": "adjective",
+            "example": {
+                "en": "I'm about to be locked inside this airtight chamber.",
+                "vi": "Một tình nguyện viên dũng cảm đã đồng ý để tự khóa mình bên trong căn phòng kín khí được thiết kế đặc biệt này."
+            }
+        },
+        {
+            "content": "kín gió",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "dent",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dent/",
+            "/dɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vết lõm",
+            "type": "",
+            "example": {
+                "en": "What will happen to the mud pies if you make a dent in the pan?",
+                "vi": "Bánh đó sẽ ra sao nếu cái khuôn bị vết lõm?"
+            }
+        },
+        {
+            "content": "hình rập nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rập hình nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết mẻ",
+            "type": "",
+            "example": {
+                "en": "The wood have little dents or holes?",
+                "vi": "Gỗ có vết mẻ hay lỗ nào không?"
+            }
+        }
+    ]
+}

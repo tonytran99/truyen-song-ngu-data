@@ -1,0 +1,43 @@
+{
+    "word": "hopefully",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōpfəlē/",
+            "/ˈhoʊpfəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊpfʊli/",
+            "/ˈhəʊpf(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hy vọng",
+            "type": "adverb",
+            "example": {
+                "en": "Means there's been some damage, hopefully not permanent.",
+                "vi": "Nghĩa là ở đó bị tổn thương, hy vọng là nó không đã bị lâu."
+            }
+        },
+        {
+            "content": "hy vọng rằng",
+            "type": "",
+            "example": {
+                "en": "And, hopefully, you who are young need some of us who are old.",
+                "vi": "Và hy vọng rằng những người trẻ tuổi cần một số người lớn tuổi trong chúng tôi."
+            }
+        },
+        {
+            "content": "phiên âm",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "apolitical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌāpəˈlidək(ə)l/",
+            "/ˌeɪpəˈlɪdək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪpəˈlɪtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phi chính trị",
+            "type": "adjective",
+            "example": {
+                "en": "And here's what I tell the Senators: sexual harassment is apolitical.",
+                "vi": "Tôi nói với các Thượng nghị sĩ: Quấy rối tình dục là phi chính trị."
+            }
+        },
+        {
+            "content": "không chính trị",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thờ ơ với chính trị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

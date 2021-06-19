@@ -1,0 +1,81 @@
+{
+    "word": "worthy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərT͟Hē/",
+            "/ˈwərði/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwəːði/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng",
+            "type": "adjective",
+            "example": {
+                "en": "Rome is worthy of a visit.",
+                "vi": "Thành phố Rome đáng để viếng thăm."
+            }
+        },
+        {
+            "content": "xứng đáng",
+            "type": "adjective",
+            "example": {
+                "en": "That you are worthy only of defeat, worthy only of death?",
+                "vi": "Rằng ngươi chỉ xứng đáng với thất bại, xứng đáng với cái chết."
+            }
+        },
+        {
+            "content": "vị",
+            "type": "noun adposition",
+            "example": {
+                "en": "We have gathered here today to offer these heroes a worthy send off to their eternal resting place.",
+                "vi": "Chúng ta có mặt tại đây ngày hôm nay để nói lời tiễn đưa những vị anh hùng đến nơi yên nghỉ cuối cùng"
+            }
+        },
+        {
+            "content": "danh nhân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thích hợp",
+            "type": "",
+            "example": {
+                "en": "That's not worthy of you, Ubbe.",
+                "vi": "Nó không thích hợp với ngươi đâu Ubbe"
+            }
+        },
+        {
+            "content": "thích đáng",
+            "type": "",
+            "example": {
+                "en": "“Latter-day Saints should fill their homes with the sound of worthy music.",
+                "vi": "“Các Thánh Hữu Ngày Sau cần phải làm nhà của họ tràn đầy tiếng nhạc thích đáng."
+            }
+        },
+        {
+            "content": "đáng trọng",
+            "type": "",
+            "example": {
+                "en": "Woman was to occupy a unique and worthy place at man’s side.",
+                "vi": "Người nữ có một địa vị đặc biệt và đáng trọng bên cạnh người nam."
+            }
+        },
+        {
+            "content": "đáng đời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "booze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͞oz/",
+            "/buz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/buːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {
+                "en": "I have had this fire inside of me that I can't get rid of with booze or pills.",
+                "vi": "Em có ngọn lửa bùng cháy trong mình mà em không thể thoát được bằng thuốc hay rượu."
+            }
+        },
+        {
+            "content": "bữa rượu tuý luý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhậu nhẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự say sưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uống say tuý luý",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

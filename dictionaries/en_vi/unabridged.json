@@ -1,0 +1,50 @@
+{
+    "word": "unabridged",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈbrijd/",
+            "/ˌənəˈbrɪdʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnəˈbrɪdʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầy đủ",
+            "type": "adjective",
+            "example": {
+                "en": "that would be equivalent to more than two unabridged dictionaries.",
+                "vi": "nó có thể tương đương với hơn hai cuốn từ điển đầy đủ."
+            }
+        },
+        {
+            "content": "không cô gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rút gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tóm tắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên vẹn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

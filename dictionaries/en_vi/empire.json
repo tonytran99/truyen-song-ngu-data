@@ -1,0 +1,65 @@
+{
+    "word": "empire",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈemˌpī(ə)r/",
+            "/ˈɛmˌpaɪ(ə)r/",
+            "/ämˈpir/",
+            "/ɑmˈpɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmpʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đế quốc",
+            "type": "noun",
+            "example": {
+                "en": "The current health crisis, however, is a little more the work of the evil empire.",
+                "vi": "Tuy nhiên, cuộc khủng hoảng sức khoẻ hiện nay giống như có bàn tay của một đế quốc độc ác nhúng vào."
+            }
+        },
+        {
+            "content": "帝國",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đế chế",
+            "type": "noun",
+            "example": {
+                "en": "Kingdoms are won with armies, but empires are made by alliances.",
+                "vi": "Các vương quốc chiến thắng bằng quân đội, nhưng đế chế hình thành bởi liên minh."
+            }
+        },
+        {
+            "content": "vương triều",
+            "type": "noun",
+            "example": {
+                "en": "The Neo-Babylonian period began during the seventh century B.C.E., when the Chaldean dynasty of kings ruled the Babylonian Empire.",
+                "vi": "Thời kỳ Tân Ba-by-lôn bắt đầu thế kỷ thứ bảy TCN, khi các vua thuộc vương triều Canh-đê cai trị đế quốc Ba-by-lôn."
+            }
+        },
+        {
+            "content": "chế chế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đế quốc",
+            "type": "",
+            "example": {
+                "en": "It takes an emperor to rule an empire.",
+                "vi": "Cần có một vị hoàng đế để cai trị một đế quốc."
+            }
+        }
+    ]
+}

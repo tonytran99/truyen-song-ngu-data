@@ -1,0 +1,42 @@
+{
+    "word": "crossroads",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrôsˌrōdz/",
+            "/ˈkrɔsˌroʊdz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɒsrəʊdz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngã tư",
+            "type": "noun",
+            "example": {
+                "en": "Call in company orders and hit them when they reach crossroads.",
+                "vi": "Tập trung đại đội và chặn họ ở ngã tư."
+            }
+        },
+        {
+            "content": "ngã ba",
+            "type": "",
+            "example": {
+                "en": "I stood on that crossroad for a very, very long time.",
+                "vi": "Tôi đứng ở ngã ba đường phân vân trong một thời gian rất lâu."
+            }
+        },
+        {
+            "content": "We came to a crossroads",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

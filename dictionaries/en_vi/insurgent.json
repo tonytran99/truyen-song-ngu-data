@@ -1,0 +1,66 @@
+{
+    "word": "insurgent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsərj(ə)nt/",
+            "/ɪnˈsərdʒ(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsəːdʒ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người khởi nghĩa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nổi loạn",
+            "type": "adjective",
+            "example": {
+                "en": "Currently working for the insurgent force in Zaire.",
+                "vi": "Hiện đang làm cho lực lượng nổi loạn tại Zaire."
+            }
+        },
+        {
+            "content": "khởi nghĩa",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "người nổi dậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nổi loạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổi dậy",
+            "type": "adjective",
+            "example": {
+                "en": "Let's not neglect the insurgency just to the south,",
+                "vi": "Chúng ta không nên thờ ơ với sự nổi dậy về phía nam."
+            }
+        },
+        {
+            "content": "phiến quân",
+            "type": "",
+            "example": {
+                "en": "Sir, we have armed insurgents moving this way.",
+                "vi": "Có phiến quân đang di chuyển về đây."
+            }
+        }
+    ]
+}

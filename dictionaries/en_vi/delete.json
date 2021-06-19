@@ -1,0 +1,71 @@
+{
+    "word": "delete",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlēt/",
+            "/dəˈlit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈliːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gạch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xóa",
+            "type": "",
+            "example": {
+                "en": "We found a deleted file with an account number to a bank in Zurich.",
+                "vi": "Trong ổ cứng có dữ liệu bị xóa ghi số tài khoản ngân hàng Zurich."
+            }
+        },
+        {
+            "content": "bỏ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gạch đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoá đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ lệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoá bỏ",
+            "type": "verb",
+            "example": {
+                "en": "There are no tabs that could be deleted",
+                "vi": "Không có bảng làm việc có thể xoá bỏ"
+            }
+        },
+        {
+            "content": "xóa bỏ",
+            "type": "verb",
+            "example": {
+                "en": "Looks like Pope orders his guy to delete certain shipments from the manifest.",
+                "vi": "Xem ra Popo ra lệnh cho thuộc hạ xóa bỏ vài đơn hàng trong danh sách."
+            }
+        }
+    ]
+}

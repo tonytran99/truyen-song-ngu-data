@@ -1,0 +1,63 @@
+{
+    "word": "income",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌkəm/",
+            "/ˈɪnˌkəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnkʌm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thu nhập",
+            "type": "noun",
+            "example": {
+                "en": "His income is now double what it was ten years ago.",
+                "vi": "Thu nhập của anh ấy đã tăng gấp đôi so với 10 năm trước."
+            }
+        },
+        {
+            "content": "lợi tức",
+            "type": "noun",
+            "example": {
+                "en": "It's difficult to live here without a big income.",
+                "vi": "Rất khó sống ở đây mà không có lợi tức."
+            }
+        },
+        {
+            "content": "doanh thu",
+            "type": "noun",
+            "example": {
+                "en": "Apple is making some 75 percent of its income from product lines introduced within the past five years .",
+                "vi": "Khoảng 75% doanh thu của Apple đến từ các dòng sản phẩm được giới thiệu trong năm năm qua ."
+            }
+        },
+        {
+            "content": "hoa lợi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Thu nhập",
+            "type": "",
+            "example": {
+                "en": "His income is now double what it was ten years ago.",
+                "vi": "Thu nhập của anh ấy đã tăng gấp đôi so với 10 năm trước."
+            }
+        },
+        {
+            "content": "thu nhập; lợi tức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

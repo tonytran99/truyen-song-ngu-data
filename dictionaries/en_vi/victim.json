@@ -1,0 +1,62 @@
+{
+    "word": "victim",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviktəm/",
+            "/ˈvɪktəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪktɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nạn nhân",
+            "type": "noun",
+            "example": {
+                "en": "I'm appealing on behalf of the famine victims.",
+                "vi": "Tôi khẩn khoản kêu gọi các ngài nhân danh các nạn nhân của vụ đói kém."
+            }
+        },
+        {
+            "content": "khổ chủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bị chết vì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bị hại",
+            "type": "noun",
+            "example": {
+                "en": "I'm the victim here, you know?",
+                "vi": "Tôi là người bị hại mà."
+            }
+        },
+        {
+            "content": "người bị lừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật bị hy sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật tế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

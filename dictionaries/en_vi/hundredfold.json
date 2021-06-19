@@ -1,0 +1,44 @@
+{
+    "word": "hundredfold",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈhəndrədˌfōld/",
+            "/ˈhəndrədˌfoʊld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌndrədfəʊld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gấp trăm lần",
+            "type": "",
+            "example": {
+                "en": "a hundredfold multiplication in the quantity of data",
+                "vi": "một phép nhân gấp trăm lần trong số lượng dữ liệu"
+            }
+        },
+        {
+            "content": "một trăm lần hơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gấp một trăm lần",
+            "type": "",
+            "example": {
+                "en": "You give and you get back a hundredfold.",
+                "vi": "Ta cho đi và nhận lại gấp một trăm lần."
+            }
+        }
+    ]
+}

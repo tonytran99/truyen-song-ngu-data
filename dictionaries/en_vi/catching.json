@@ -1,0 +1,67 @@
+{
+    "word": "catching",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaCHiNG/",
+            "/ˈkætʃɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkatʃɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "truyền nhiễm",
+            "type": "",
+            "example": {
+                "en": "I hope he didn't die of anything catching.",
+                "vi": "Tôi hy vọng là ông ấy không chết vì bệnh truyền nhiễm."
+            }
+        },
+        {
+            "content": "bắt",
+            "type": "verb",
+            "example": {
+                "en": "I could not catch as many fish as I had expected.",
+                "vi": "Tôi không bắt được đủ số cá như mong đợi."
+            }
+        },
+        {
+            "content": "hay lây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "I thought I was quite a catch!",
+                "vi": "Tôi nghĩ rằng mình là một người khá hấp dẫn!"
+            }
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyến rũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lây nhiễm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

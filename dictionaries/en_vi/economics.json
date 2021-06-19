@@ -1,0 +1,58 @@
+{
+    "word": "economics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekəˈnämiks/",
+            "/ˌɛkəˈnɑmɪks/",
+            "/ˌēkəˈnämiks/",
+            "/ˌikəˈnɑmɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːkəˈnɒmɪks/",
+            "/ɛkəˈnɒmɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh tế học",
+            "type": "noun",
+            "example": {
+                "en": "Thank you so much for inventing behavioral economics.",
+                "vi": "Cảm ơn ông rất nhiều vì đã sáng lập ra kinh tế học hành vi."
+            }
+        },
+        {
+            "content": "經濟學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kinh tế",
+            "type": "adjective noun",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        },
+        {
+            "content": "kinh tế quốc dân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nền kinh tế",
+            "type": "",
+            "example": {
+                "en": "And this effort well understood the economic challenge.",
+                "vi": "Và nỗ lực này cũng như là một thách thức với nền kinh tế."
+            }
+        }
+    ]
+}

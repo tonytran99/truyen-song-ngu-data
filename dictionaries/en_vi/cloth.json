@@ -1,0 +1,108 @@
+{
+    "word": "cloth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klôTH/",
+            "/klɔθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɒθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vải",
+            "type": "noun",
+            "example": {
+                "en": "This kind of cloth is both cheap and sturdy.",
+                "vi": "Thứ vải này đã rẽ lại bền."
+            }
+        },
+        {
+            "content": "vải vóc",
+            "type": "",
+            "example": {
+                "en": "In future, the demand for cloth will be huge.",
+                "vi": "Trong tương lai, nhu cầu về vải vóc sẽ rất lớn."
+            }
+        },
+        {
+            "content": "khăn",
+            "type": "noun",
+            "example": {
+                "en": "He was wrapped not in silk but in swaddling clothes.",
+                "vi": "Ngài không được quấn trong lụa mà được bọc trong khăn."
+            }
+        },
+        {
+            "content": "giẻ",
+            "type": "noun",
+            "example": {
+                "en": "A warm , damp cloth or a heating pad also may help reduce soreness .",
+                "vi": "Bạn cũng có thể giảm đau bằng một miếng giẻ ướt , ấm ."
+            }
+        },
+        {
+            "content": "miếng vải",
+            "type": "noun",
+            "example": {
+                "en": "Yes, a piece of cloth around a man’s neck can add dignity and make him look respectable.",
+                "vi": "Vâng, một miếng vải choàng cổ có thể tạo vẻ trang trọng cho người đàn ông."
+            }
+        },
+        {
+            "content": "vải bố",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giới thầy tu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khăn lau",
+            "type": "noun",
+            "example": {
+                "en": "She had insisted that I buy a tarnish-free cloth to wrap it in.",
+                "vi": "Vợ tôi khăng khăng đòi tôi mua một cái khăn lau sạch sẽ để gói chúng lại."
+            }
+        },
+        {
+            "content": "khăn trải",
+            "type": "",
+            "example": {
+                "en": "He would throw up and soil the bed clothing.",
+                "vi": "Nó nôn mửa và làm dơ tấm khăn trải giường."
+            }
+        },
+        {
+            "content": "áo thầy tu",
+            "type": "",
+            "example": {
+                "en": "Allan, he's a man of the cloth.",
+                "vi": "Allan, ông ấy mặc áo thầy tu mà."
+            }
+        },
+        {
+            "content": "giẻ lau",
+            "type": "",
+            "example": {
+                "en": "It’s like taking a beautiful garment someone gave you and using it as a cleaning cloth",
+                "vi": "Nó giống như việc bạn lấy chiếc áo đẹp mà người khác tặng để làm giẻ lau"
+            }
+        },
+        {
+            "content": "đồ khăn vải",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "gnash",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/naSH/",
+            "/næʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/naʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghiến",
+            "type": "verb",
+            "example": {
+                "en": "There is where his weeping and the gnashing of his teeth will be.",
+                "vi": "Tại đó, nó sẽ khóc lóc nghiến răng."
+            }
+        },
+        {
+            "content": "nghiến răng",
+            "type": "",
+            "example": {
+                "en": "There is where their weeping and the gnashing of their teeth will be.",
+                "vi": "Tại đó, chúng sẽ khóc lóc nghiến răng."
+            }
+        }
+    ]
+}

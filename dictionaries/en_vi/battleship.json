@@ -1,0 +1,66 @@
+{
+    "word": "battleship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadlˌSHip/",
+            "/ˈbædlˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbat(ə)lʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hạm",
+            "type": "noun",
+            "example": {
+                "en": "Only the battleship,'Paris Commune'could do that with 12 guns.",
+                "vi": "Trên chiến hạm \" Công xã Pari \" có 12 khẩu đại bác như vậy."
+            }
+        },
+        {
+            "content": "tàu chiến lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiến hạm",
+            "type": "",
+            "example": {
+                "en": "The Uruguayan government ordered the battleship back to sea immediately, otherwise it would be interned.",
+                "vi": "Chính quyền Uruguay ra lệnh cho chiến hạm phải trở ra biển ngay lập tức, nếu không thì sẽ bị giam giữ."
+            }
+        },
+        {
+            "content": "tàu chiến",
+            "type": "noun",
+            "example": {
+                "en": "I don't like the idea of having my battleships without air cover.",
+                "vi": "Tôi không thích cái ý nghĩ những chiếc tàu chiến của mình không có máy bay yểm trợ."
+            }
+        },
+        {
+            "content": "Thiết giáp hạm",
+            "type": "",
+            "example": {
+                "en": "You know, the Spanish didn't sink the battleship Maine,",
+                "vi": "Bạn biết đấy, người Tây Ban Nha không đánh chìm chiếc thiết giáp hạm Maine,"
+            }
+        },
+        {
+            "content": "thiết giáp hạm",
+            "type": "",
+            "example": {
+                "en": "You know, the Spanish didn't sink the battleship Maine,",
+                "vi": "Bạn biết đấy, người Tây Ban Nha không đánh chìm chiếc thiết giáp hạm Maine,"
+            }
+        }
+    ]
+}

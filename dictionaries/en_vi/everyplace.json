@@ -1,0 +1,39 @@
+{
+    "word": "everyplace",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevrēˌplās/",
+            "/ˈɛvriˌpleɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvrɪpleɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khắp chốn",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "khắp mọi chỗ",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "khắp nơi",
+            "type": "adverb",
+            "example": {
+                "en": "Baby, there you are, I look everyplace.",
+                "vi": "Cưng ơi, em đây rồi, anh đã tìm khắp nơi."
+            }
+        }
+    ]
+}

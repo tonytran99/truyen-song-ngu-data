@@ -1,0 +1,102 @@
+{
+    "word": "failing",
+    "type": [
+        "noun",
+        "adjective",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfāliNG/",
+            "/ˈfeɪlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhược điểm",
+            "type": "",
+            "example": {
+                "en": "They shunned the failings and vices of paganism.",
+                "vi": "Họ tránh những nhược điểm và sự đồi bại của tà giáo."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "He knows of your remorse for the times you have fallen short or failed.",
+                "vi": "Ngài biết các chị em hối hận về những lần các chị em thiếu sót hoặc thất bại."
+            }
+        },
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "If it fails in the House, we don't get a round two.",
+                "vi": "Nếu Hạ viện không thông qua, chúng ta không có cơ hội thứ hai đâu."
+            }
+        },
+        {
+            "content": "sự không làm tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phá sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự suy nhược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự suy yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thiếu",
+            "type": "",
+            "example": {
+                "en": "Kimball called failing to follow that law a sin of omission with a heavy cost.",
+                "vi": "Kimball nói rằng nếu không tuân theo luật đó thì sẽ mắc một tội về sự thiếu sót kèm theo một hình phạt nghiêm trọng."
+            }
+        },
+        {
+            "content": "sự thất bại",
+            "type": "",
+            "example": {
+                "en": "If they were really failing, don't you think they would be?",
+                "vi": "Nếu họ thực sự thất bại, anh nghĩ họ có khả năng đó sao?"
+            }
+        },
+        {
+            "content": "sự trượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đánh trượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu sót",
+            "type": "",
+            "example": {
+                "en": "He knows of your remorse for the times you have fallen short or failed.",
+                "vi": "Ngài biết các chị em hối hận về những lần các chị em thiếu sót hoặc thất bại."
+            }
+        }
+    ]
+}

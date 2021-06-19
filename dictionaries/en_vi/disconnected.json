@@ -1,0 +1,89 @@
+{
+    "word": "disconnected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdiskəˈnektəd/",
+            "/ˌdɪskəˈnɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪskəˈnɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rời rạc",
+            "type": "adjective",
+            "example": {
+                "en": "What will become of billions of lone, disconnected souls?",
+                "vi": "Hàng tỷ tâm hồn cô đơn, rời rạc sẽ thành thế nào?"
+            }
+        },
+        {
+            "content": "bị cắt rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị phân cách ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị tháo rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gián đoạn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không có mạch lạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không liên thông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mất kết nối",
+            "type": "adjective",
+            "example": {
+                "en": "This disconnect is a problem that I'm trying to help solve.",
+                "vi": "Sự mất kết nối này là vấn đề mà hiện tôi đang cố gắng để khắc phục."
+            }
+        },
+        {
+            "content": "mất liên lạc",
+            "type": "adjective",
+            "example": {
+                "en": "The phones are disconnected.",
+                "vi": "Các điện thoại đã mất liên lạc."
+            }
+        },
+        {
+            "content": "ngắt kết nối",
+            "type": "",
+            "example": {
+                "en": "He found the cell and he would have disconnected.",
+                "vi": "Hắn đã tìm thấy di động và hắn đã ngắt kết nối."
+            }
+        }
+    ]
+}

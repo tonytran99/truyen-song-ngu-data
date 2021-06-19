@@ -1,0 +1,48 @@
+{
+    "word": "via",
+    "type": [
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvīə/",
+            "/ˈvaɪə/",
+            "/ˈvēə/",
+            "/ˈviə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "qua",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "It attaches itself to the central nervous system via the spinal cord.",
+                "vi": "Nó nối vào thần kinh trung ương qua dây xương sống."
+            }
+        },
+        {
+            "content": "theo đường",
+            "type": "",
+            "example": {
+                "en": "Once on European soil, Paul would take the Via Egnatia, and he finally met up with Titus in Macedonia.",
+                "vi": "Khi đặt chân lên Âu Châu, Phao-lô đi theo đường Via Egnatia, và cuối cùng gặp Tít ở Ma-xê-đoan."
+            }
+        },
+        {
+            "content": "thông qua",
+            "type": "adposition",
+            "example": {
+                "en": "I will send the information to you via brainwave.",
+                "vi": "Tôi sẽ gửi thông tin cho cô thông qua sóng não."
+            }
+        }
+    ]
+}

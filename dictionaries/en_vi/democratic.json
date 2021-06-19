@@ -1,0 +1,34 @@
+{
+    "word": "democratic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdeməˈkradik/",
+            "/ˌdɛməˈkrædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛməˈkratɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân chủ",
+            "type": "adjective",
+            "example": {
+                "en": "We need to rediscover the lost art of democratic argument.",
+                "vi": "Chúng ta cần khám phá lại nghệ thuật đã mất của việc tranh luận dân chủ."
+            }
+        },
+        {
+            "content": "tính dân chủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

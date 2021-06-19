@@ -1,0 +1,51 @@
+{
+    "word": "wasteland",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwās(t)land/",
+            "/ˈweɪs(t)lænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪs(t)land/",
+            "/ˈweɪs(t)lənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoang địa",
+            "type": "",
+            "example": {
+                "en": "It is like a wasteland overthrown by foreigners.",
+                "vi": "Nó như hoang địa dân ngoại chiếm lấy."
+            }
+        },
+        {
+            "content": "sa mạc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đất hoang",
+            "type": "noun",
+            "example": {
+                "en": "So I exist in this wasteland.",
+                "vi": "Vì vậy tôi tồn tại ở vùng đất hoang vu này."
+            }
+        },
+        {
+            "content": "đất khô cằn",
+            "type": "noun",
+            "example": {
+                "en": "I will disperse him to a dry and desolate wasteland,",
+                "vi": "Ta sẽ xua hắn đến vùng đất khô cằn và hoang vu,"
+            }
+        }
+    ]
+}

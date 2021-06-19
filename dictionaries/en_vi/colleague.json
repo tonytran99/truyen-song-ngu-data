@@ -1,0 +1,59 @@
+{
+    "word": "colleague",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkälēɡ/",
+            "/ˈkɑliɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒliːɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Tom is my colleague.",
+                "vi": "Tom là đồng nghiệp của tôi."
+            }
+        },
+        {
+            "content": "bạn đồng nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Toshiro immediately discerned that the elder was different from his colleagues.",
+                "vi": "Lập tức ông Toshiro nhận ra trưởng lão đó khác hẳn với các bạn đồng nghiệp của ông."
+            }
+        },
+        {
+            "content": "bạn đồng sự",
+            "type": "",
+            "example": {
+                "en": "I miss my colleague James E.",
+                "vi": "Tôi thấy nhớ người bạn đồng sự James E."
+            }
+        },
+        {
+            "content": "đồng sự",
+            "type": "noun",
+            "example": {
+                "en": "My dear colleague, can we finally start the exam?",
+                "vi": "Các đồng sự thân mến, cuối cùng chúng ta bắt đầu được rồi."
+            }
+        },
+        {
+            "content": "bạn đồng hội",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "amazing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmāziNG/",
+            "/əˈmeɪzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmeɪzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm cho kinh ngạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh ngạc",
+            "type": "",
+            "example": {
+                "en": "I was amazed at what had just happened.",
+                "vi": "Tôi rất lấy làm kinh ngạc trước điều mới vừa xảy ra."
+            }
+        },
+        {
+            "content": "làm sửng sốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyệt diệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyệt vời",
+            "type": "adjective",
+            "example": {
+                "en": "I mean, it's amazing just to actually be in the same room with him.",
+                "vi": "Thật tuyệt vời khi có thể ở cùng một nơi với ông ấy."
+            }
+        }
+    ]
+}

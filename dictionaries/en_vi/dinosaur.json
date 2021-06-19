@@ -1,0 +1,50 @@
+{
+    "word": "dinosaur",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīnəˌsôr/",
+            "/ˈdaɪnəˌsɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪnəsɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khủng long",
+            "type": "noun",
+            "example": {
+                "en": "We're not going to be able to make a dinosaur based on a dinosaur.",
+                "vi": "Không thể nào tạo ra một con khủng long dựa trên một con khủng long thật."
+            }
+        },
+        {
+            "content": "恐龍",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con khủng long",
+            "type": "noun",
+            "example": {
+                "en": "We're not going to be able to make a dinosaur based on a dinosaur.",
+                "vi": "Không thể nào tạo ra một con khủng long dựa trên một con khủng long thật."
+            }
+        },
+        {
+            "content": "Khủng long",
+            "type": "",
+            "example": {
+                "en": "We're living through the golden age of dinosaur discoveries.",
+                "vi": "Chúng ta đang sống ở Thời đại Hoàng Kim của những khám phá về loài Khủng long."
+            }
+        }
+    ]
+}

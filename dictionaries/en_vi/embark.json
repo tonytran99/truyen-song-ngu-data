@@ -1,0 +1,35 @@
+{
+    "word": "embark",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈbärk/",
+            "/əmˈbɑrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbɑːk/",
+            "/ɛmˈbɑːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lên tàu",
+            "type": "",
+            "example": {
+                "en": "We embark at midnight, preparing ourselves for another rough trip.",
+                "vi": "Chúng tôi lên tàu lúc nửa đêm, sẵn sàng cho một chuyến đi nhọc nhằn nữa."
+            }
+        },
+        {
+            "content": "cho lên tàu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

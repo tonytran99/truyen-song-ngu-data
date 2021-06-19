@@ -1,0 +1,42 @@
+{
+    "word": "anthropology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌanTHrəˈpäləjē/",
+            "/ˌænθrəˈpɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌanθrəˈpɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân loại học",
+            "type": "noun",
+            "example": {
+                "en": "So let's look at the concept of traditional anthropology.",
+                "vi": "Chúng ta hãy nhìn lại vào định nghĩa truyền thống của nhân loại học."
+            }
+        },
+        {
+            "content": "人類學",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân chủng học",
+            "type": "noun",
+            "example": {
+                "en": "We were studying medicine and at the same time getting our PhD's in anthropology.",
+                "vi": "Chúng tôi cùng học y dược đồng thời lấy bằng thạc sĩ ngành nhân chủng học."
+            }
+        }
+    ]
+}

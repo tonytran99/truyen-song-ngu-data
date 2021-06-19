@@ -1,0 +1,72 @@
+{
+    "word": "honeyed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhənēd/",
+            "/ˈhənid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌnɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bùi tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có mật",
+            "type": "",
+            "example": {
+                "en": "You know, I didn't get my honey, honey.",
+                "vi": "Chưa có mật ong, cô ơi."
+            }
+        },
+        {
+            "content": "dịu dàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngon ngọt",
+            "type": "adjective",
+            "example": {
+                "en": "Honey from the comb is sweet to the taste.",
+                "vi": "Mật từ tàng ong ngon ngọt trong miệng."
+            }
+        },
+        {
+            "content": "ngọt ngào",
+            "type": "noun",
+            "example": {
+                "en": "And sweeter than honey,+ the honey that drips from the combs.",
+                "vi": "Lại ngọt ngào hơn mật,+ hơn mật chảy từ tàng ong."
+            }
+        },
+        {
+            "content": "ngọt như mật",
+            "type": "",
+            "example": {
+                "en": "So I began to eat it, and it was as sweet as honey in my mouth.",
+                "vi": "Thế là tôi ăn cuộn sách, trong miệng tôi nó ngọt như mật."
+            }
+        },
+        {
+            "content": "đường mật",
+            "type": "noun",
+            "example": {
+                "en": "I do not care for honey in my wine.",
+                "vi": "Tôi không quan tâm tới đường mật trong rượu."
+            }
+        }
+    ]
+}

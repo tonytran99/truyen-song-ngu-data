@@ -1,0 +1,52 @@
+{
+    "word": "civilized",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsivəlīzd/",
+            "/ˈsɪvəlaɪzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪvəlʌɪzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khai hoá",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lễ phép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lịch sự",
+            "type": "adjective",
+            "example": {
+                "en": "Maintain a civil relationship with your former spouse.",
+                "vi": "Duy trì mối giao tiếp lịch sự với người hôn phối trước."
+            }
+        },
+        {
+            "content": "văn minh",
+            "type": "adjective",
+            "example": {
+                "en": "Some people regard today’s civilization as the most prosperous in history.",
+                "vi": "Nhiều người xem nền văn minh ngày nay là nền văn minh phồn thịnh nhất trong lịch sử."
+            }
+        },
+        {
+            "content": "văn vật",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

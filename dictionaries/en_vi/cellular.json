@@ -1,0 +1,73 @@
+{
+    "word": "cellular",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈselyələr/",
+            "/ˈsɛljələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛljʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "di động",
+            "type": "adjective noun",
+            "example": {
+                "en": "Are you talkin'to me on a cellular phone?",
+                "vi": "Mày đang nói chuyện với tao qua điện thoại di động à?"
+            }
+        },
+        {
+            "content": "điện thoại di động",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "có lỗ hổng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc tế bào",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tế bào",
+            "type": "noun",
+            "example": {
+                "en": "On some cellular level that still torments me.",
+                "vi": "Vẫn còn giày vò từng tế bào của tôi."
+            }
+        },
+        {
+            "content": "có ngăn nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có phòng nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có ô hình mạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ô hình mạng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "word": "violate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvīəˌlāt/",
+            "/ˈvaɪəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvʌɪəleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vi phạm",
+            "type": "verb",
+            "example": {
+                "en": "Bush never violated the Geneva Convention.",
+                "vi": "Bush chưa từng vi phạm Công ước Geneva."
+            }
+        },
+        {
+            "content": "xâm phạm",
+            "type": "verb",
+            "example": {
+                "en": "We do not yet know who violated us.",
+                "vi": "Chúng ta vẫn chưa biết kẻ xâm phạm là ai."
+            }
+        },
+        {
+            "content": "phạm",
+            "type": "verb",
+            "example": {
+                "en": "Bush never violated the Geneva Convention.",
+                "vi": "Bush chưa từng vi phạm Công ước Geneva."
+            }
+        },
+        {
+            "content": "hãm hiếp",
+            "type": "",
+            "example": {
+                "en": "She was violated by one of the bucks of the Arapahos.",
+                "vi": "Nó bị một người lính ở Arapahoe hãm hiếp."
+            }
+        },
+        {
+            "content": "xúc phạm",
+            "type": "",
+            "example": {
+                "en": "I just saw 26 blatant health code violations.",
+                "vi": "Tôi đã nhìn thấy 26 tình huống bị xúc phạm."
+            }
+        },
+        {
+            "content": "hãm",
+            "type": "verb",
+            "example": {
+                "en": "She was violated by one of the bucks of the Arapahos.",
+                "vi": "Nó bị một người lính ở Arapahoe hãm hiếp."
+            }
+        },
+        {
+            "content": "lỗi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cưỡng dâm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hiếp dâm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm mất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm trái",
+            "type": "",
+            "example": {
+                "en": "It's that they have violated the very definition of leadership.",
+                "vi": "Mà là họ đã làm trái định nghĩa về lãnh đạo."
+            }
+        },
+        {
+            "content": "phá rối",
+            "type": "",
+            "example": {
+                "en": "It is both a blessed relief and a complete violation.",
+                "vi": "Nó vừa là một niềm hạnh phúc và vừa là phá rối hoàn toàn"
+            }
+        }
+    ]
+}

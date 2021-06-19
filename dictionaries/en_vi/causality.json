@@ -1,0 +1,55 @@
+{
+    "word": "causality",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kôˈzalədē/",
+            "/kɔˈzælədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔːˈzalɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệu ứng vật lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên nhân",
+            "type": "noun",
+            "example": {
+                "en": "And indeed, people know the causal links quite well",
+                "vi": "Và thật ra, mọi người đã biết khá rõ nguyên nhân"
+            }
+        },
+        {
+            "content": "quan hệ nhân quả",
+            "type": "noun",
+            "example": {
+                "en": "And the causality requires a moment of discussion.",
+                "vi": "Và quan hệ nhân quả đòi hỏi phải có thời gian nào đó để bàn bạc."
+            }
+        },
+        {
+            "content": "thuyết nhân quả",
+            "type": "",
+            "example": {
+                "en": "When you think about — you know, creativity has a lot to do with causality too.",
+                "vi": "Khi bạn nghĩ về nó, sáng tạo cũng liên quan khá nhiều đến thuyết nhân quả."
+            }
+        },
+        {
+            "content": "tính nhân quả",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

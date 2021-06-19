@@ -1,0 +1,35 @@
+{
+    "word": "javelin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjav(ə)lən/",
+            "/ˈdʒæv(ə)lən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒav(ə)lɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái lao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lao",
+            "type": "noun",
+            "example": {
+                "en": "23 They will grab hold of the bow and the javelin.",
+                "vi": "23 Chúng sẽ chộp lấy cung và lao."
+            }
+        }
+    ]
+}

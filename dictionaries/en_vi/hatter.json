@@ -1,0 +1,35 @@
+{
+    "word": "hatter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhadər/",
+            "/ˈhædər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhatə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bán mũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làm mũ",
+            "type": "",
+            "example": {
+                "en": "What is the hatter with me?",
+                "vi": "Một người làm mũ sẽ làm được gì?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "email",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēmāl/",
+            "/ˈimeɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːmeɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thư điện tử",
+            "type": "noun",
+            "example": {
+                "en": "I just wanted to check my email.",
+                "vi": "Tôi chỉ muốn kiểm tra hòm thư điện tử thôi."
+            }
+        },
+        {
+            "content": "email",
+            "type": "noun",
+            "example": {
+                "en": "One of the others emailed me just now.",
+                "vi": "Một trong số họ đã email cho tôi mới đây."
+            }
+        },
+        {
+            "content": "thơ điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điện thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gửi thư điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gửi điện thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa chỉ thơ điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa chỉ thư điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa chỉ điện thư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

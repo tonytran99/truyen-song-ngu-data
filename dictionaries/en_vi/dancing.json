@@ -1,0 +1,69 @@
+{
+    "word": "dancing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdansiNG/",
+            "/ˈdænsɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɑːnsɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự nhảy múa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bập bềnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảy múa",
+            "type": "",
+            "example": {
+                "en": "And he was probably one of the beautiful people, dancing and playing tennis.",
+                "vi": "Một người có thể đã từng đẹp, nhảy múa và chơi tennis."
+            }
+        },
+        {
+            "content": "rung rinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khiêu vũ",
+            "type": "",
+            "example": {
+                "en": "His brain was full, nothing made sense the alphabet danced in a disco.",
+                "vi": "Cậu ta bị nhồi sọ, trí não thì bị kẹt với sự khiêu vũ của ABC!"
+            }
+        },
+        {
+            "content": "đang nhảy múa",
+            "type": "",
+            "example": {
+                "en": "And there was a girl in one of the windows and she was dancing.",
+                "vi": "Có một cô bé đứng sau một cái cửa sổ và cô ta đang nhảy múa."
+            }
+        },
+        {
+            "content": "khiêu vũ",
+            "type": "verb",
+            "example": {
+                "en": "I found the person I wanna dance with, all right?",
+                "vi": "Anh đã tìm thấy người anh muốn cùng khiêu vũ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "tusked",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/təskt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʌskt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có nanh",
+            "type": "",
+            "example": {
+                "en": "No, boars have tusks.",
+                "vi": "Không, heo rừng có nanh."
+            }
+        },
+        {
+            "content": "có ngà",
+            "type": "",
+            "example": {
+                "en": "They had large tusks, and we seem to have",
+                "vi": "Chúng có ngà lớn, và chúng ta dường như có"
+            }
+        }
+    ]
+}

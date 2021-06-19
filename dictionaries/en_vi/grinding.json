@@ -1,0 +1,36 @@
+{
+    "word": "grinding",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrīndiNG/",
+            "/ˈɡraɪndɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrʌɪndɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mài",
+            "type": "verb",
+            "example": {
+                "en": "We're not using the appendix anymore, or grinding bone with our wisdom teeth.",
+                "vi": "Chúng ta không còn sử dụng những phần phụ đó nữa, không còn mài xương bằng răng khôn."
+            }
+        },
+        {
+            "content": "ken két",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

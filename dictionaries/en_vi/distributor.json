@@ -1,0 +1,52 @@
+{
+    "word": "distributor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstribyədər/",
+            "/dəˈstrɪbjədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstrɪbjʊtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ phân phối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ phân bố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người phân phát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người phân phối",
+            "type": "",
+            "example": {
+                "en": "who was one of our small distributors —",
+                "vi": "là một trong những người phân phối nhỏ của chúng tôi"
+            }
+        },
+        {
+            "content": "nhà phân phối",
+            "type": "noun",
+            "example": {
+                "en": "There are 30 distributors holding product and money.",
+                "vi": "Có 30 nhà phân phối giữ hàng và tiền."
+            }
+        }
+    ]
+}

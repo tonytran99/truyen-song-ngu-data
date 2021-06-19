@@ -1,0 +1,37 @@
+{
+    "word": "demographics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdeməˈɡrafiks/",
+            "/ˌdɛməˈɡræfɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛməˈɡrafɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân khẩu học",
+            "type": "noun",
+            "example": {
+                "en": "We want a key demographic to get on board, and then...",
+                "vi": "Chúng ta phải điều tra nhân khẩu học rồi sau đó..."
+            }
+        },
+        {
+            "content": "số liệu thống kê dân số",
+            "type": "",
+            "example": {
+                "en": "And we love the idea of the demographics",
+                "vi": "Và chúng tôi yêu ý nghĩa trong số liệu thống kê dân số"
+            }
+        }
+    ]
+}

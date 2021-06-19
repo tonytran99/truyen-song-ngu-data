@@ -1,0 +1,47 @@
+{
+    "word": "bullshit",
+    "type": [
+        "adjective",
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝olˌSHit/",
+            "/ˈbʊlˌʃɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊlʃɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyện nhảm nhí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện phiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảm nhí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vớ vẩn",
+            "type": "",
+            "example": {
+                "en": "Anyone else, you'd say I was bullshitting, right?",
+                "vi": "Nếu là ai khác thì anh sẽ cho là vớ vẩn, đúng không?"
+            }
+        }
+    ]
+}

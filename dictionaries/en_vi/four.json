@@ -1,0 +1,102 @@
+{
+    "word": "four",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôr/",
+            "/fɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bốn",
+            "type": "Cardinal number, numeral",
+            "example": {
+                "en": "Why does a football field have four corners?",
+                "vi": "Tại sao sân bóng bầu dục lại có bốn góc?"
+            }
+        },
+        {
+            "content": "tư",
+            "type": "numeral",
+            "example": {
+                "en": "Fold the paper in four.",
+                "vi": "Gấp giấy làm tư."
+            }
+        },
+        {
+            "content": "bốn tuổi",
+            "type": "",
+            "example": {
+                "en": "At four years of age, more than 80 percent lie.",
+                "vi": "Với trẻ bốn tuổi, hơn 80 phần trăm nói dối."
+            }
+        },
+        {
+            "content": "lên bốn",
+            "type": "",
+            "example": {
+                "en": "Almost unconsciously, I placed my hands on the four throttles of the 747.",
+                "vi": "Gần như không suy nghĩ, tôi đặt tay lên bốn trục điều chỉnh của chiếc 747."
+            }
+        },
+        {
+            "content": "số bốn",
+            "type": "",
+            "example": {
+                "en": "The blaze has struck reactor four , where spent fuel rods are kept .",
+                "vi": "Ngọn lửa làm nổ lò phản ứng số bốn nơi chứa các thanh nhiên liệu đã dùng ."
+            }
+        },
+        {
+            "content": "tứ",
+            "type": "numeral",
+            "example": {
+                "en": "With his mastery of the four elements, he will begin to change hearts.",
+                "vi": "Với khả năng điều khiển tứ đại nguyên tố, Ngài sẽ bắt đầu thay đổi con tim."
+            }
+        },
+        {
+            "content": "bộ bốn",
+            "type": "",
+            "example": {
+                "en": "It was quite a trek—in all, perhaps four or five days of walking.",
+                "vi": "Đó là một chuyến hành trình khá vất vả, có lẽ chàng phải đi bộ bốn đến năm ngày ròng."
+            }
+        },
+        {
+            "content": "con bốn",
+            "type": "",
+            "example": {
+                "en": "I WAS born into a family of nine children—four boys and five girls—on October 11, 1922.",
+                "vi": "TÔI sinh ngày 11-10-1922, trong một gia đình có chín người con—bốn trai, năm gái."
+            }
+        },
+        {
+            "content": "mặt số bốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhóm bốn người chèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền bốn mái chèo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

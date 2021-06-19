@@ -1,0 +1,68 @@
+{
+    "word": "glove",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡləv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlʌv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao tay",
+            "type": "noun",
+            "example": {
+                "en": "He sat reading, with his wife knitting a pair of gloves beside him.",
+                "vi": "Ông ngồi đọc sách, vợ ông thì đang đan đôi bao tay cạnh bên."
+            }
+        },
+        {
+            "content": "găng tay",
+            "type": "noun",
+            "example": {
+                "en": "Who's not wearing gloves?",
+                "vi": "Ai không đeo găng tay?"
+            }
+        },
+        {
+            "content": "găng",
+            "type": "noun",
+            "example": {
+                "en": "Who's not wearing gloves?",
+                "vi": "Ai không đeo găng tay?"
+            }
+        },
+        {
+            "content": "mang bao tay vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tất tay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đeo găng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Găng tay",
+            "type": "",
+            "example": {
+                "en": "Who's not wearing gloves?",
+                "vi": "Ai không đeo găng tay?"
+            }
+        }
+    ]
+}

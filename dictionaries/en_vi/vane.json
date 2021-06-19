@@ -1,0 +1,49 @@
+{
+    "word": "vane",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vān/",
+            "/veɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/veɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cánh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chong chóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chong chóng gió",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cánh quạt",
+            "type": "",
+            "example": {
+                "en": "There was extensive damage to both the guide vanes and fan blades of the engine.",
+                "vi": "Đã có hư hại lớn với cả cánh dẫn hướng lẫn cánh quạt của động cơ."
+            }
+        },
+        {
+            "content": "cánh đuôi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

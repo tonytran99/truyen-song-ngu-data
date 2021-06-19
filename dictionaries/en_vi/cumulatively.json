@@ -1,0 +1,39 @@
+{
+    "word": "cumulatively",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͞omyələdivlē/",
+            "/ˈkjumjələdɪvli/",
+            "/ˈkyo͞omyəˌlādivlē/",
+            "/ˈkjumjəˌleɪdɪvli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjuːmjʊlətɪvli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lũy tích",
+            "type": "",
+            "example": {
+                "en": "Computes the cumulative sum (integral) of the input vector",
+                "vi": "Tính tổng lũy tích (tích phân) cũa véc-tơ nhập. Name"
+            }
+        },
+        {
+            "content": "tích tụ",
+            "type": "",
+            "example": {
+                "en": "It will accumulate, and greenhouse gases tend to be cumulative.",
+                "vi": "Chúng sẽ tích tụ và hiệu ứng nhà kính sẽ tích lũy lại."
+            }
+        }
+    ]
+}

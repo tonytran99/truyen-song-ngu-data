@@ -1,0 +1,46 @@
+{
+    "word": "forgotten",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərˈɡätn/",
+            "/fərˈɡɑtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈɡɒtn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quên",
+            "type": "verb",
+            "example": {
+                "en": "Culture is what remains after one has forgotten all the things one has learned.",
+                "vi": "Văn hóa là điều gì còn lại sau khi người ta đã quên tất cả những điều người ta đã học."
+            }
+        },
+        {
+            "content": "coi nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "coi thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhớ đến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

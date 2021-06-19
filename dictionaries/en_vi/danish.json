@@ -1,0 +1,45 @@
+{
+    "word": "danish",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdāniSH/",
+            "/ˈdeɪnɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪnɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Đan-mạch",
+            "type": "proper",
+            "example": {
+                "en": "Does he speak danish?",
+                "vi": "Cậu ấy biết nói tiếng Đan Mạch không nhỉ?"
+            }
+        },
+        {
+            "content": "Đan-mạch",
+            "type": "",
+            "example": {
+                "en": "Does he speak danish?",
+                "vi": "Cậu ấy biết nói tiếng Đan Mạch không nhỉ?"
+            }
+        },
+        {
+            "content": "đan-mạch",
+            "type": "",
+            "example": {
+                "en": "Does he speak danish?",
+                "vi": "Cậu ấy biết nói tiếng Đan Mạch không nhỉ?"
+            }
+        }
+    ]
+}

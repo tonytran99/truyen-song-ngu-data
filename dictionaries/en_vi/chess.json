@@ -1,0 +1,60 @@
+{
+    "word": "chess",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHes/",
+            "/tʃɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cờ",
+            "type": "noun",
+            "example": {
+                "en": "I've got time to read, to think, to play chess.",
+                "vi": "Tôi đã có thời gian để đọc, để suy nghĩ, chơi cờ."
+            }
+        },
+        {
+            "content": "cờ vua",
+            "type": "noun",
+            "example": {
+                "en": "It is the same as tennis, ping pong, chess.",
+                "vi": "Nó được xem như ngang hàng với tennis, bóng bàn, cờ vua."
+            }
+        },
+        {
+            "content": "kỳ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "môn cờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cờ tướng",
+            "type": "",
+            "example": {
+                "en": "You're a chess player.",
+                "vi": "Anh là dân cờ tướng."
+            }
+        },
+        {
+            "content": "trch cờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

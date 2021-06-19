@@ -1,0 +1,39 @@
+{
+    "word": "cannibal",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanəb(ə)l/",
+            "/ˈkænəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người ăn thịt người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ ăn thịt người",
+            "type": "noun",
+            "example": {
+                "en": "He meets cannibals and giants on his voyages.",
+                "vi": "Anh ấy đụng phải kẻ ăn thịt người và những tên khổng lồ trong cuộc hành trình."
+            }
+        },
+        {
+            "content": "thú ăn thịt đồng loại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

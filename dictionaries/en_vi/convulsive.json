@@ -1,0 +1,50 @@
+{
+    "word": "convulsive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvəlsiv/",
+            "/kənˈvəlsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvʌlsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "co giật",
+            "type": "",
+            "example": {
+                "en": "I think it may have been a febrile convulsion.",
+                "vi": "Tôi nghĩ có thể đây là chứng sốt co giật."
+            }
+        },
+        {
+            "content": "chấn động",
+            "type": "",
+            "example": {
+                "en": "was the culmination of a convulsive, collective effort.",
+                "vi": "là đỉnh điểm của một nỗ lực tập thể gây chấn động."
+            }
+        },
+        {
+            "content": "náo động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối loạn",
+            "type": "",
+            "example": {
+                "en": "If you start to convulse, we'll know you're telling the truth.",
+                "vi": "Khi anh bắt đầu rối loạn, anh sẽ nói sự thật."
+            }
+        }
+    ]
+}

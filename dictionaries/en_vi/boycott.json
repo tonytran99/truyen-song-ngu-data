@@ -1,0 +1,51 @@
+{
+    "word": "boycott",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈboiˌkät/",
+            "/ˈbɔɪˌkɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɔɪkɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tẩy chay",
+            "type": "verb",
+            "example": {
+                "en": "They can disrupt the economy through strikes and boycotts.",
+                "vi": "Họ có thể phá vỡ nền kinh tế bằng đình công và tẩy chay."
+            }
+        },
+        {
+            "content": "bài xích",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự tẩy chay",
+            "type": "",
+            "example": {
+                "en": "from boycotts to lunch counter sit-ins to pickets to marches to freedom rides.",
+                "vi": "từ sự tẩy chay các quán ăn kì thị sắc tộc đến biểu tình, mít tinh rồi tự do."
+            }
+        },
+        {
+            "content": "Tẩy chay",
+            "type": "",
+            "example": {
+                "en": "Some urge economic boycotts of the state .",
+                "vi": "Một số người khác kêu gọi tẩy chay kinh tế ở tiểu bang này ."
+            }
+        }
+    ]
+}

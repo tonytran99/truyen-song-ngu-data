@@ -1,0 +1,58 @@
+{
+    "word": "dowry",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdou(ə)rē/",
+            "/ˈdaʊ(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaʊ(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của hồi môn",
+            "type": "noun",
+            "example": {
+                "en": "And given the size of your dowry, it should be of solid gold.",
+                "vi": "Nếu so với số của hồi môn của em, thì nó phải bằng vàng ròng."
+            }
+        },
+        {
+            "content": "tài năng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hồi môn",
+            "type": "",
+            "example": {
+                "en": "And given the size of your dowry, it should be of solid gold.",
+                "vi": "Nếu so với số của hồi môn của em, thì nó phải bằng vàng ròng."
+            }
+        },
+        {
+            "content": "thiên tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm mạch mỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm mạch nước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "uneducated",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈejəˌkādəd/",
+            "/ˌənˈɛdʒəˌkeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈɛdjʊkeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo dục",
+            "type": "adjective",
+            "example": {
+                "en": "But if you're young, you're uneducated,",
+                "vi": "Nhưng nếu bạn còn trẻ, bạn không được giáo dục,"
+            }
+        },
+        {
+            "content": "không có học thức",
+            "type": "adjective",
+            "example": {
+                "en": "\"The poor are uneducated and cannot do much.\"",
+                "vi": "\"Người nghèo không có học thức và không thể làm được gì nhiều.\""
+            }
+        },
+        {
+            "content": "không được",
+            "type": "adjective",
+            "example": {
+                "en": "The scribes weren’t uneducated, but spelling hadn’t been standardized at the time.",
+                "vi": "Những người ghi chép không phải là những người ít học, nhưng vì chính tả đã không được tiêu chuẩn hóa vào thời đó."
+            }
+        },
+        {
+            "content": "không được giáo dục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô học",
+            "type": "adjective",
+            "example": {
+                "en": "Of course, superstitions are prevalent among both educated and uneducated people.",
+                "vi": "Dĩ nhiên, sự mê tín thịnh hành giữa những người có học lẫn vô học."
+            }
+        }
+    ]
+}

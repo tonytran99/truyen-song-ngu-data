@@ -1,0 +1,343 @@
+{
+    "word": "lay",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lā/",
+            "/leɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/leɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đẻ trứng",
+            "type": "",
+            "example": {
+                "en": "Those hens lay eggs almost every day.",
+                "vi": "Mấy con gà đó hầu như ngày nào cũng đẻ trứng."
+            }
+        },
+        {
+            "content": "đặt",
+            "type": "verb",
+            "example": {
+                "en": "What foundation must I lay before these points can be made clear?",
+                "vi": "Tôi phải đặt nền tảng nào trước khi có thể nói rõ hơn về các điểm này?"
+            }
+        },
+        {
+            "content": "bố trí",
+            "type": "verb",
+            "example": {
+                "en": "We got to lay something out, though.",
+                "vi": "Chúng ta phải bố trí một cái gì đó..."
+            }
+        },
+        {
+            "content": "để",
+            "type": "conjunction verb",
+            "example": {
+                "en": "Does she lay in wait in Cambulac, to strike as you did?",
+                "vi": "Cô ta có đợi ở Cambulac để ám sát tiếp giống ngươi không?"
+            }
+        },
+        {
+            "content": "đẻ",
+            "type": "verb",
+            "example": {
+                "en": "Those hens lay eggs almost every day.",
+                "vi": "Mấy con gà đó hầu như ngày nào cũng đẻ trứng."
+            }
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "I'll lay down some cover fire, you run to the other car.",
+                "vi": "Bố sẽ bò qua lửa đánh lạc hướng còn con thì chạy nhanh tới cái xe kia."
+            }
+        },
+        {
+            "content": "bài ca",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bày biện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lắng xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xẹp xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế tục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nằm",
+            "type": "verb",
+            "example": {
+                "en": "Remember when your Gran was laying here all bloody and dead?",
+                "vi": "Có nhớ bà của cô nằm đây đầy máu và đã chết không?"
+            }
+        },
+        {
+            "content": "bày",
+            "type": "",
+            "example": {
+                "en": "And I would lay out all the standard treatment options",
+                "vi": "Và tôi trình bày tất cả các giải pháp điều trị tiêu chuẩn"
+            }
+        },
+        {
+            "content": "xếp",
+            "type": "",
+            "example": {
+                "en": "I lay low and you take care of all the...",
+                "vi": "Tôi tránh mặt và ông thu xếp tất cả..."
+            }
+        },
+        {
+            "content": "trải",
+            "type": "verb",
+            "example": {
+                "en": "Ahead of them lay 800 miles of the most challenging terrain on the planet.",
+                "vi": "Trước mắt họ là 800 dặm đường trải dài trên những địa hình khắc nghiệt nhất hành tinh."
+            }
+        },
+        {
+            "content": "dọn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cuộc",
+            "type": "verb",
+            "example": {
+                "en": "Our story is she's down there laying groundwork for the primary.",
+                "vi": "Câu chuyện của ta là bà ấy xuống đó để đặt nền móng cho cuộc bầu cử."
+            }
+        },
+        {
+            "content": "quy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rải",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đệ",
+            "type": "noun Prefix",
+            "example": {}
+        },
+        {
+            "content": "cài",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "buộc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "hót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắc",
+            "type": "verb",
+            "example": {
+                "en": "Here, 30 miles northeast of the city of Shiraz, lay the ruins of an ancient capital.",
+                "vi": "Tại đây, 30 dặm về phía Đông Bắc thành phố Shiraz, là tàn tích của một cố đô."
+            }
+        },
+        {
+            "content": "bài hát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bài thơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bài thơ ngắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bài vè ngắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt phải chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công việc",
+            "type": "noun",
+            "example": {
+                "en": "But his true passion lay in his work.",
+                "vi": "Nhưng niềm đam mê của ông ấy là công việc."
+            }
+        },
+        {
+            "content": "dẫn đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao hợp với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chuyên môn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không theo giáo hội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi giáo hội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phủ lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắp đặt",
+            "type": "",
+            "example": {
+                "en": "Desktop switcher that lays the desktops out in a grid",
+                "vi": "Bộ chuyển đổi màn hình nền có sắp đặt các màn hình nền theo lướiName"
+            }
+        },
+        {
+            "content": "tiếng chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trình bày",
+            "type": "",
+            "example": {
+                "en": "And I would lay out all the standard treatment options",
+                "vi": "Và tôi trình bày tất cả các giải pháp điều trị tiêu chuẩn"
+            }
+        },
+        {
+            "content": "trải lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vị trí",
+            "type": "noun",
+            "example": {
+                "en": "give me a lay of the land.",
+                "vi": "cho tôi vị trí của nó."
+            }
+        },
+        {
+            "content": "ăn nằm với",
+            "type": "",
+            "example": {
+                "en": "Lust yielded to action, and he had her brought to him and he lay with her.",
+                "vi": "Dục vọng phát sinh ra hành động, và ông đã truyền mang bà đến với ông và ông đã ăn nằm với bà ta."
+            }
+        },
+        {
+            "content": "đánh cược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa ra",
+            "type": "",
+            "example": {
+                "en": "Listen, Barney lays out some logical points",
+                "vi": "Nghe này, Barney đưa ra vài quan điểm hợp lý"
+            }
+        },
+        {
+            "content": "đưa đến",
+            "type": "",
+            "example": {
+                "en": "I think it got lay over so i'll find Someone who gives me a ride straight to hospital.",
+                "vi": "Có chút chuyện với phi hành đoàn vì thế chị sẽ tìm ai đó đưa đến thẳng bệnh viện."
+            }
+        },
+        {
+            "content": "đường nét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt vào",
+            "type": "",
+            "example": {
+                "en": "His body lay in the tomb.",
+                "vi": "Thi hài của Ngài được đặt vào ngôi mộ."
+            }
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

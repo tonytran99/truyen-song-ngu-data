@@ -1,0 +1,46 @@
+{
+    "word": "update",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈdāt/",
+            "/ˌəpˈdeɪt/",
+            "/ˈəpˌdāt/",
+            "/ˈəpˌdeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈdeɪt/",
+            "/ˈʌpdeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cập nhật",
+            "type": "adjective verb",
+            "example": {
+                "en": "We'll update you at the top of every hour.",
+                "vi": "Chúng tôi sẽ cập nhật thông tin cho ông từng giờ."
+            }
+        },
+        {
+            "content": "caäp nhaät hoùa, hieän ñaïi hoùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiện đại hóa",
+            "type": "",
+            "example": {
+                "en": "The commandments are just modern updates of more ancient laws.",
+                "vi": "Điều răn chỉ là cập nhật hiện đại hóa của những điều luật bị nhầm"
+            }
+        }
+    ]
+}

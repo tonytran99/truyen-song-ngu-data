@@ -1,0 +1,42 @@
+{
+    "word": "collaborate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlabəˌrāt/",
+            "/kəˈlæbəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlabəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cộng tác",
+            "type": "verb",
+            "example": {
+                "en": "I'm grateful to mentors, colleagues, and collaborators around the world.",
+                "vi": "Tôi rất cảm ơn những cố vấn, đồng nghiệp, và cộng tác viên khắp thế giới."
+            }
+        },
+        {
+            "content": "cộng tác với địch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp tác",
+            "type": "",
+            "example": {
+                "en": "A colleague of mine is studying collaborative learning theory.",
+                "vi": "Một đồng nghiệp của bố đang nghiên cứu về học thuyết học cách hợp tác."
+            }
+        }
+    ]
+}

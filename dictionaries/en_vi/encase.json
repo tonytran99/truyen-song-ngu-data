@@ -1,0 +1,42 @@
+{
+    "word": "encase",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkās/",
+            "/ɪnˈkeɪs/",
+            "/enˈkās/",
+            "/ɛnˈkeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkeɪs/",
+            "/ɛnˈkeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho vào thùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bọc",
+            "type": "verb noun",
+            "example": {
+                "en": "and these fuel rods are encased in zirconium,",
+                "vi": "những thanh nhiên liệu này được bọc trong Zirconi,"
+            }
+        },
+        {
+            "content": "cho vào túi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "cowman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoumən/",
+            "/ˈkaʊmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chăn bò",
+            "type": "noun",
+            "example": {
+                "en": "No cowman is, but it's gotta be done.",
+                "vi": "Không có người chăn bò nào giỏi, nhưng bắt buộc phải làm."
+            }
+        },
+        {
+            "content": "trại chăn nuôi",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

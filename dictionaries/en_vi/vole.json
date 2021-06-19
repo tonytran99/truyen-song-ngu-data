@@ -1,0 +1,43 @@
+{
+    "word": "vole",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vōl/",
+            "/voʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuột microtut",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuột đồng",
+            "type": "",
+            "example": {
+                "en": "Thus, birds can “identify areas of high vole density” and focus their efforts there.",
+                "vi": "Nhờ vậy, chim có thể “xác định những vùng có nhiều chuột đồng” và tập trung săn ở đó."
+            }
+        },
+        {
+            "content": "Chuột đồng",
+            "type": "",
+            "example": {
+                "en": "Voles stay active throughout the winter beneath the snow, despite the freezing temperatures above.",
+                "vi": "Chuột đồng hoạt đọng suốt mùa đông dưới lớp tuyết, bất chấp nhiệt độ đóng băng bên trên."
+            }
+        }
+    ]
+}

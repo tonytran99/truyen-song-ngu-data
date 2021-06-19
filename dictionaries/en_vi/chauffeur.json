@@ -1,0 +1,38 @@
+{
+    "word": "chauffeur",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHōˈfər/",
+            "/ʃoʊˈfər/",
+            "/ˈSHōfər/",
+            "/ˈʃoʊfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʃəʊfə/",
+            "/ʃəʊˈfəː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài xế",
+            "type": "noun",
+            "example": {
+                "en": "Josh, can you have the chauffeur pick us up at the back, please?",
+                "vi": "Josh, anh bảo dùm tài xế đón chúng tôi ở sau nhà, nhé?"
+            }
+        },
+        {
+            "content": "người lái xe",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

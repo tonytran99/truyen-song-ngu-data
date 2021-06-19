@@ -1,0 +1,55 @@
+{
+    "word": "hooked",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ho͝okt/",
+            "/hʊkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʊkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hình móc câu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có móc",
+            "type": "",
+            "example": {
+                "en": "We'd never make it without my hook.",
+                "vi": "Không có móc câu thì ta không làm được đâu."
+            }
+        },
+        {
+            "content": "khoăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoằm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quắm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "quặm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

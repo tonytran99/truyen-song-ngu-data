@@ -1,0 +1,80 @@
+{
+    "word": "immature",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiməˈto͝or/",
+            "/ˌɪməˈtʊr/",
+            "/ˌiməˈCHo͝or/",
+            "/ˌɪməˈtʃʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪməˈtjʊə/",
+            "/ˌɪməˈtjɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chưa chín chắn",
+            "type": "adjective",
+            "example": {
+                "en": "I am somewhat immature, but you're more immature.",
+                "vi": "Cứ cho là anh có phần chưa chín chắn đi, nhưng em còn kém chín chắn hơn."
+            }
+        },
+        {
+            "content": "non nớt",
+            "type": "adjective",
+            "example": {
+                "en": "You're the one that's immature.",
+                "vi": "Anh mới là người còn non nớt đấy."
+            }
+        },
+        {
+            "content": "bấy",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chưa chín",
+            "type": "",
+            "example": {
+                "en": "I am somewhat immature, but you're more immature.",
+                "vi": "Cứ cho là anh có phần chưa chín chắn đi, nhưng em còn kém chín chắn hơn."
+            }
+        },
+        {
+            "content": "chưa chín muồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa trưởng thành",
+            "type": "adjective",
+            "example": {
+                "en": "Despite K's immature appearance, his methods were surprisingly refined.",
+                "vi": "Dù cho K có vẻ ngoài chưa trưởng thành, phương pháp của anh ta quả nhiên hiệu nghiệm."
+            }
+        },
+        {
+            "content": "trẻ con",
+            "type": "adjective",
+            "example": {
+                "en": "You're immature, you're selfish, you just insulted me to my face.",
+                "vi": "Anh trẻ con, ích kỉ, anh sỉ nhục tôi ngay tại đây."
+            }
+        },
+        {
+            "content": "như trẻ con",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "initially",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈniSH(ə)lē/",
+            "/ɪˈnɪʃ(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɪʃ(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ban đầu",
+            "type": "adverb",
+            "example": {
+                "en": "The initial death toll will shake world governments to their core.",
+                "vi": "Số người chết ban đầu sẽ làm các chính phủ quốc tế run rẩy tận tâm can."
+            }
+        },
+        {
+            "content": "vào lúc đầu",
+            "type": "",
+            "example": {
+                "en": "Another important factor that I didn't take into account initially",
+                "vi": "Một chỉ số quan trọng khác mà tôi không đưa vào lúc đầu"
+            }
+        },
+        {
+            "content": "lúc đầu",
+            "type": "",
+            "example": {
+                "en": "Perhaps such treatment was a factor in his initial hesitancy toward sharing in the public ministry.",
+                "vi": "Có lẽ vì thái độ đó của bên ngoại nên lúc đầu cha thấy ngại đi rao giảng."
+            }
+        }
+    ]
+}

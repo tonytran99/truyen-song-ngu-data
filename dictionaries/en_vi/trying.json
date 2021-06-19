@@ -1,0 +1,70 @@
+{
+    "word": "trying",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrīiNG/",
+            "/ˈtraɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "When we're in school together, try not to look upset.",
+                "vi": "Khi chúng ta còn học cùng trường, đừng cố tỏ ra khó chịu."
+            }
+        },
+        {
+            "content": "khó khăn",
+            "type": "",
+            "example": {
+                "en": "We were trying to understand the threat against us.",
+                "vi": "Chúng tôi hiểu những khó khăn và mối đe dọa đè lên mình."
+            }
+        },
+        {
+            "content": "gay go",
+            "type": "",
+            "example": {
+                "en": "What trying situation did one congregation face?",
+                "vi": "Một hội thánh đã đối phó với tình huống gay go nào?"
+            }
+        },
+        {
+            "content": "làm mệt nhọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mỏi mệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguy ngập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiền phức",
+            "type": "",
+            "example": {
+                "en": "Just try not to be such a pain in the neck.",
+                "vi": "Chỉ cần cố đừng có tỏ ra phiền phức là được."
+            }
+        }
+    ]
+}

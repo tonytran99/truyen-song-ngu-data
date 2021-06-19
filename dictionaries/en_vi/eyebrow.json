@@ -1,0 +1,45 @@
+{
+    "word": "eyebrow",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīˌbrou/",
+            "/ˈaɪˌbraʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪbraʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lông mày",
+            "type": "noun",
+            "example": {
+                "en": "And told me to tell you, that you got the best eyebrows in the business.",
+                "vi": "Và bảo tôi nhắn với ông, là ông có cặp lông mày đẹp nhất trong giới buôn đó."
+            }
+        },
+        {
+            "content": "mày",
+            "type": "pronoun noun",
+            "example": {
+                "en": "He has dark hair and thick, bushy eyebrows.",
+                "vi": "Hắn có tóc đen và dày, lông mày rậm."
+            }
+        },
+        {
+            "content": "Lông mày",
+            "type": "",
+            "example": {
+                "en": "Thought my eyebrows would never grow back!",
+                "vi": "Lông mày của ta sẽ chả mọc lại nữa!"
+            }
+        }
+    ]
+}

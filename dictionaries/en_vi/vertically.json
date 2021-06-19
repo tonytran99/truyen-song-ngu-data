@@ -1,0 +1,42 @@
+{
+    "word": "vertically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərdək(ə)lē/",
+            "/ˈvərdək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtɪkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "một cách thẳng đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dọc",
+            "type": "",
+            "example": {
+                "en": "And so what we need is to embrace that verticality.",
+                "vi": "Và vì vậy điều chúng ta cần là sử dụng chiều dọc đó."
+            }
+        },
+        {
+            "content": "thẳng đứng",
+            "type": "",
+            "example": {
+                "en": "As I recline, my head says more or less vertical.",
+                "vi": "Khi tôi ngả ra, đầu tôi ít nhiều theo chiều thẳng đứng."
+            }
+        }
+    ]
+}

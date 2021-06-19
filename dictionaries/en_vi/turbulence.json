@@ -1,0 +1,52 @@
+{
+    "word": "turbulence",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərbyələns/",
+            "/ˈtərbjələns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːbjʊl(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giác loạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dòng chảy rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hỗn loạn",
+            "type": "noun",
+            "example": {
+                "en": "as it somehow shows the turbulence in these kind of downtown areas,",
+                "vi": "Nó cho thấy sự hỗn loạn ở các khu vực trung tâm thành phố,"
+            }
+        },
+        {
+            "content": "sự nhiễu loạn",
+            "type": "noun",
+            "example": {
+                "en": "Ladies and gentlemen, we are expecting slight turbulence.",
+                "vi": "Thưa quý vị, chúng ta đang có sự nhiễu loạn không khí nhẹ."
+            }
+        },
+        {
+            "content": "sự náo động",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

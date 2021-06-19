@@ -1,0 +1,38 @@
+{
+    "word": "insulated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinsəˌlādəd/",
+            "/ˈɪnsəˌleɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnsjʊleɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cách nhiệt",
+            "type": "",
+            "example": {
+                "en": "Big bodies lose less heat and can carry more insulation.",
+                "vi": "Cơ thể to lớn mất ít nhiệt hơn và dễ cách nhiệt hơn."
+            }
+        },
+        {
+            "content": "cách điện",
+            "type": "",
+            "example": {
+                "en": "The insulator oxide layer on the other hand is not crystalline .",
+                "vi": "Lớp oxit cách điện nhưng không phải là chất kết tinh ."
+            }
+        }
+    ]
+}

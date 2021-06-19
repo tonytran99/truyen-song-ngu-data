@@ -1,0 +1,38 @@
+{
+    "word": "chapped",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHapt/",
+            "/tʃæpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃapt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nẻ",
+            "type": "adjective",
+            "example": {
+                "en": "Stop those hands from getting chapped.",
+                "vi": "Ngăn cho bàn tay không bị nứt nẻ."
+            }
+        },
+        {
+            "content": "nứt nẻ",
+            "type": "",
+            "example": {
+                "en": "Stop those hands from getting chapped.",
+                "vi": "Ngăn cho bàn tay không bị nứt nẻ."
+            }
+        }
+    ]
+}

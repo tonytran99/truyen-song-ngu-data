@@ -1,0 +1,35 @@
+{
+    "word": "fridge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frij/",
+            "/frɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tủ lạnh",
+            "type": "noun",
+            "example": {
+                "en": "I think I have some leftover pizza in the fridge.",
+                "vi": "Tôi nghĩ là tôi còn một chút pizza thừa trong tủ lạnh"
+            }
+        },
+        {
+            "content": "tủ ướp lạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

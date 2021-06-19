@@ -1,0 +1,52 @@
+{
+    "word": "diver",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīvər/",
+            "/ˈdaɪvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ lặn",
+            "type": "noun",
+            "example": {
+                "en": "A diver jumps off of a cliff hundreds of feet above the ocean.",
+                "vi": "Các thợ lặn nhảy khỏi vách đá cao hàng chục mét xuống biển."
+            }
+        },
+        {
+            "content": "kẻ móc túi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lặn",
+            "type": "noun",
+            "example": {
+                "en": "It's something that happens to scuba divers, but it can happen to free divers.",
+                "vi": "Nó xảy ra với những người lặn bình khí, nhưng cũng có thể xảy ra với những người lặn tự do."
+            }
+        },
+        {
+            "content": "người mò ngọc trai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người mò tàu đắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

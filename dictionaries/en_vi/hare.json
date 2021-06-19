@@ -1,0 +1,39 @@
+{
+    "word": "hare",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/her/",
+            "/hɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thỏ rừng",
+            "type": "noun",
+            "example": {
+                "en": "It is not easy to catch a hare with your bare hands.",
+                "vi": "Bắt thỏ rừng bằng tay thì khó."
+            }
+        },
+        {
+            "content": "thỏ",
+            "type": "noun",
+            "example": {
+                "en": "It is not easy to catch a hare with your bare hands.",
+                "vi": "Bắt thỏ rừng bằng tay thì khó."
+            }
+        }
+    ]
+}

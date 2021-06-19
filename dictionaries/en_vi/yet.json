@@ -1,0 +1,237 @@
+{
+    "word": "yet",
+    "type": [
+        "verb",
+        "noun",
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yet/",
+            "/jɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chưa",
+            "type": "adverb",
+            "example": {
+                "en": "As far as I know, she hasn't departed yet.",
+                "vi": "Theo như tôi biết, cô ta chưa đi đâu."
+            }
+        },
+        {
+            "content": "tuy nhiên",
+            "type": "adverb",
+            "example": {
+                "en": "She was small in stature, yet I stand on her shoulders every day.",
+                "vi": "Vóc dáng bà nhỏ, tuy nhiên tôi được bà giúp đỡ rất nhiều."
+            }
+        },
+        {
+            "content": "nhưng",
+            "type": "conjunction",
+            "example": {
+                "en": "And yet, the contrary is always true as well.",
+                "vi": "Nhưng, sự trái ngược cũng luôn luôn có lý."
+            }
+        },
+        {
+            "content": "vẫn",
+            "type": "adverb",
+            "example": {
+                "en": "And yet you continue to work for the Graysons.",
+                "vi": "Và cô vẫn làm việc cho nhà Grayson."
+            }
+        },
+        {
+            "content": "song",
+            "type": "adverb",
+            "example": {
+                "en": "She never drank, yet there's one glass missing.",
+                "vi": "Bà ấy không bao giờ uống rượu, song lại có một ly biến mất."
+            }
+        },
+        {
+            "content": "mà",
+            "type": "conjunction",
+            "example": {
+                "en": "This morning, I woke up yet again to the sound of crying children.",
+                "vi": "Hôm nay cũng vì tiếng trẻ con khóc mà dậy."
+            }
+        },
+        {
+            "content": "nhưng mà",
+            "type": "",
+            "example": {
+                "en": "We don't know that yet, but that's what I'm trying to find out.",
+                "vi": "Cái đó thì vẫn chưa biết được nhưng mà phải tìm cho ra bằng được"
+            }
+        },
+        {
+            "content": "tuy thế",
+            "type": "",
+            "example": {
+                "en": "And yet you seem willing enough to take his money?",
+                "vi": "Và tuy thế cậu vẫn muốn nhận tiền của ông ấy?"
+            }
+        },
+        {
+            "content": "lại còn",
+            "type": "adverb",
+            "example": {
+                "en": "Hard to believe they still exist, yet their numbers are growing.",
+                "vi": "Khó mà tin nổi họ vẫn tồn tại, mà lại còn bành trướng nữa."
+            }
+        },
+        {
+            "content": "vẫn chưa",
+            "type": "adverb",
+            "example": {
+                "en": "I've not read today's paper yet.",
+                "vi": "Tôi vẫn chưa đọc báo của ngày hôm nay."
+            }
+        },
+        {
+            "content": "đã vậy",
+            "type": "conjunction",
+            "example": {
+                "en": "Yet, another tragedy was just around the corner.",
+                "vi": "Đã vậy, một thảm họa lại sắp xảy ra."
+            }
+        },
+        {
+            "content": "còn",
+            "type": "adverb",
+            "example": {
+                "en": "Tom hasn't got used to the reality yet.",
+                "vi": "Tom còn chưa đáp ứng với thực tế."
+            }
+        },
+        {
+            "content": "đã",
+            "type": "",
+            "example": {
+                "en": "So, you didn't get anything out of him yet, huh?",
+                "vi": "Cô đã không moi được gì phải không?"
+            }
+        },
+        {
+            "content": "hãy",
+            "type": "adverb",
+            "example": {
+                "en": "If you are tempted to give up: Stay yet a little longer.",
+                "vi": "Nếu các anh chị em đang muốn bỏ cuộc: Thì hãy ở lại lâu hơn một chút nữa."
+            }
+        },
+        {
+            "content": "bây giờ",
+            "type": "adverb",
+            "example": {
+                "en": "He may not know it yet, but he needs you to help him.",
+                "vi": "Có thể bây giờ hắn vẫn chưa biết điều đó nhưng hắn cần ông giúp hắn."
+            }
+        },
+        {
+            "content": "còn nữa",
+            "type": "adverb",
+            "example": {
+                "en": "And yet, years of concentration solely on work and individual success",
+                "vi": "Và còn nữa, nhiều năm tập trung vào công việc, thành tựu cá nhân"
+            }
+        },
+        {
+            "content": "dù sao",
+            "type": "",
+            "example": {
+                "en": "Com not quite what I was expecting, but hope for the flowers yet.",
+                "vi": "Không giống như những gì tôi đã mong, nhưng dù sao cũng có hy vọng."
+            }
+        },
+        {
+            "content": "dù thế nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hãy còn",
+            "type": "adverb",
+            "example": {
+                "en": "But there is yet another element in the web of criminal intrigue.",
+                "vi": "Tuy nhiên, hãy còn một yếu tố khác trong vấn đề phức tạp về tội ác."
+            }
+        },
+        {
+            "content": "hơn nữa",
+            "type": "",
+            "example": {
+                "en": "And far greater will yet come to pass.",
+                "vi": "Và nhiều điều quan trọng hơn nữa sẽ xảy ra."
+            }
+        },
+        {
+            "content": "lúc này",
+            "type": "",
+            "example": {
+                "en": "Besides, it's not yet time to cross that bridge.",
+                "vi": "Vả lại, lúc này không phải là lúc để đi qua cái cầu này."
+            }
+        },
+        {
+            "content": "tuy vậy",
+            "type": "adverb",
+            "example": {
+                "en": "I feel as though I am bruised all over, and yet no one can see it.”",
+                "vi": "Tôi cảm thấy như cả người tôi bị bầm thâm tím, tuy vậy không ai thấy được”."
+            }
+        },
+        {
+            "content": "vả lại",
+            "type": "",
+            "example": {
+                "en": "Besides, it's not yet time to cross that bridge.",
+                "vi": "Vả lại, lúc này không phải là lúc để đi qua cái cầu này."
+            }
+        },
+        {
+            "content": "ấy vậy mà",
+            "type": "",
+            "example": {
+                "en": "and yet, we refuse to do anything about it,",
+                "vi": "và ấy vậy mà, chúng ta từ chối làm điều gì đó về vấn đề này,"
+            }
+        },
+        {
+            "content": "rồi",
+            "type": "",
+            "example": {
+                "en": "No drug angles panned out yet, so cross that off the list.",
+                "vi": "Không phát hiện dấu hiệu của thuốc phiện nên gạch bỏ được rồi."
+            }
+        },
+        {
+            "content": "lại nữa",
+            "type": "",
+            "example": {
+                "en": "If he's not back yet, he's not coming back.",
+                "vi": "Nếu tới giờ mà hắn vẫn chưa quay lại, thì hắn sẽ không quay lại nữa đâu."
+            }
+        },
+        {
+            "content": "thậm chí",
+            "type": "adverb",
+            "example": {
+                "en": "The events who's light hasn't even reached us yet.",
+                "vi": "Những sự kiện mà chúng ta thậm chí không hề biết đến."
+            }
+        }
+    ]
+}

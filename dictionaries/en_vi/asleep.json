@@ -1,0 +1,66 @@
+{
+    "word": "asleep",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈslēp/",
+            "/əˈslip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsliːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngủ",
+            "type": "verb",
+            "example": {
+                "en": "On his return he found her daughter asleep.",
+                "vi": "Khi quay trở lại anh ta thấy con gái cô ấy đang ngủ."
+            }
+        },
+        {
+            "content": "tê bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quay tít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tê cóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang ngủ",
+            "type": "",
+            "example": {
+                "en": "On his return he found her daughter asleep.",
+                "vi": "Khi quay trở lại anh ta thấy con gái cô ấy đang ngủ."
+            }
+        },
+        {
+            "content": "ngu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "buồn ngủ",
+            "type": "adjective",
+            "example": {
+                "en": "Apparently, she really did fall asleep at the wheel.",
+                "vi": "Có lẽ bà ta thực sự buồn ngủ khi cầm lái."
+            }
+        }
+    ]
+}

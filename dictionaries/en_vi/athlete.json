@@ -1,0 +1,37 @@
+{
+    "word": "athlete",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaTHˌlēt/",
+            "/ˈæθˌlit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaθliːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lực sĩ",
+            "type": "noun",
+            "example": {
+                "en": "You know, an athlete like you should really have his own video game.",
+                "vi": "Anh biết không, một lực sĩ như anh nên có một trò chơi video riêng đấy."
+            }
+        },
+        {
+            "content": "vận động viên",
+            "type": "",
+            "example": {
+                "en": "This guy must be quite the athlete, huh?",
+                "vi": "Gã này chắc là một vận động viên?"
+            }
+        }
+    ]
+}

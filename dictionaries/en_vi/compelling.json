@@ -1,0 +1,38 @@
+{
+    "word": "compelling",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpeliNG/",
+            "/kəmˈpɛlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpɛlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "And this is the first compelling business benefit.",
+                "vi": "Và đây là lợi ích kinh doanh hấp dẫn đầu tiên."
+            }
+        },
+        {
+            "content": "thuyết phục",
+            "type": "",
+            "example": {
+                "en": "Then we will need a compelling voice to persuade them.",
+                "vi": "Vậy ta sẽ cần một tiếng nói thuyết phục để thuyết phục họ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "climatic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klīˈmadik/",
+            "/klaɪˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klʌɪˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời tiết",
+            "type": "noun",
+            "example": {
+                "en": "Understand the climate down there may be better for my cough.",
+                "vi": "Nghe nói thời tiết ở dưới đó có thể tốt cho bệnh ho của tôi."
+            }
+        },
+        {
+            "content": "khí hậu",
+            "type": "noun",
+            "example": {
+                "en": "Surrounded by the sea, Japan has a mild climate.",
+                "vi": "Bao quanh bở biển, Nhật Bản có khí hậu ôn hoà."
+            }
+        }
+    ]
+}

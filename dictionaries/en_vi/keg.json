@@ -1,0 +1,38 @@
+{
+    "word": "keg",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɡ/",
+            "/kɛɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɛɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thùng chứa",
+            "type": "",
+            "example": {
+                "en": "Dale Ledgerwood's got a keg in the back of his truck.",
+                "vi": "Dale Ledgerwood có một thùng chứa ở đằng sau chiếc xe tải."
+            }
+        },
+        {
+            "content": "thùng",
+            "type": "noun",
+            "example": {
+                "en": "Dale Ledgerwood's got a keg in the back of his truck.",
+                "vi": "Dale Ledgerwood có một thùng chứa ở đằng sau chiếc xe tải."
+            }
+        }
+    ]
+}

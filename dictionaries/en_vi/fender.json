@@ -1,0 +1,45 @@
+{
+    "word": "fender",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfendər/",
+            "/ˈfɛndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lá chắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái chắn bùn",
+            "type": "",
+            "example": {
+                "en": "Strange to mow someone over with your own car and not even wipe the blood off the fender.",
+                "vi": "Thật là lạ khi chèn một ai đó bằng chính chiếc xe của mình mà lại không thèm lau vết máu trên cái chắn bùn."
+            }
+        },
+        {
+            "content": "cái cản sốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật chắn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

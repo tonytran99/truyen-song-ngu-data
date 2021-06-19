@@ -1,0 +1,40 @@
+{
+    "word": "executor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzekyədər/",
+            "/ɪɡˈzɛkjədər/",
+            "/ˈeksəˌkyo͞odər/",
+            "/ˈɛksəˌkjudər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɛkjʊtə/",
+            "/ɛɡˈzɛkjʊtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người thi hành",
+            "type": "",
+            "example": {
+                "en": "Your father drew up a will of which I am executor.",
+                "vi": "Bố anh có bản di chúc mà tôi là người thi hành."
+            }
+        },
+        {
+            "content": "người thực hiện",
+            "type": "",
+            "example": {
+                "en": "I'm the Christians'attorney and one of the executors of the estate.",
+                "vi": "Tôi là luật sư và người thực hiện di chúc của gia đình Christian."
+            }
+        }
+    ]
+}

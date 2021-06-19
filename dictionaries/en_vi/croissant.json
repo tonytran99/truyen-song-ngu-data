@@ -1,0 +1,54 @@
+{
+    "word": "croissant",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/k(r)wäˈsänt/",
+            "/k(r)wɑˈsɑnt/",
+            "/k(r)wäˈsäN/",
+            "/k(r)wɑˈsɑ̃/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrwasɒ̃/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh sừng bò",
+            "type": "noun",
+            "example": {
+                "en": "I went to buy some croissants myself and out of despair, I married the baker.",
+                "vi": "Em tự đi mua một ít bánh sừng bò và trong tuyệt vọng, em đã cưới người làm bánh."
+            }
+        },
+        {
+            "content": "bánh con cua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh croa-xăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh croaxăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bánh sừng bò",
+            "type": "",
+            "example": {
+                "en": "♪ Our last summer ♪ ♪ Morning croissants ♪",
+                "vi": "Mùa hè cuối cùng của chúng ta Bánh sừng bò vào buổi sáng"
+            }
+        }
+    ]
+}

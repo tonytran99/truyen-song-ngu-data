@@ -1,0 +1,54 @@
+{
+    "word": "dejected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈjektəd/",
+            "/dəˈdʒɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈdʒɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buồn nản",
+            "type": "adjective",
+            "example": {
+                "en": "As described at the outset, I was lonely and dejected.",
+                "vi": "Như đã nói ở đầu bài, tôi thấy cô độc và buồn nản."
+            }
+        },
+        {
+            "content": "chán ngán",
+            "type": "adjective",
+            "example": {
+                "en": "But then she turned to me and smiled, and my dejection was immediately an un-mourned memory.",
+                "vi": "Nhưng khi chị ấy tươi cười quay sang cháu cháu quên ngay mọi chán ngán."
+            }
+        },
+        {
+            "content": "chán nản",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps we notice that a spiritual sister is dejected.",
+                "vi": "Có lẽ chúng ta để ý thấy rằng một người chị thiêng liêng bị chán nản."
+            }
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective",
+            "example": {
+                "en": "If you are overlooked, you feel dejected and let down.”",
+                "vi": "Nếu bạn bị bỏ qua, bạn cảm thấy chán nản và thất vọng”."
+            }
+        }
+    ]
+}

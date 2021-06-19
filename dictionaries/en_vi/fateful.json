@@ -1,0 +1,63 @@
+{
+    "word": "fateful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfātfəl/",
+            "/ˈfeɪtfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪtfʊl/",
+            "/ˈfeɪtf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây chết chóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây tai hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "For years, your probability formula has decided the fate of others.",
+                "vi": "Nhiều năm qua, những ảnh hưởng của anh đã quyết định vận mệnh của nhiều người khác."
+            }
+        },
+        {
+            "content": "số mệnh",
+            "type": "noun",
+            "example": {
+                "en": "There is no fate but that which we make for ourselves.",
+                "vi": "Không có số mệnh trời định, chỉ có số mệnh do chúng ta tạo ra."
+            }
+        },
+        {
+            "content": "số đã định trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiên đoán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tiền định",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

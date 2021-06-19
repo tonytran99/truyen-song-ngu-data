@@ -1,0 +1,50 @@
+{
+    "word": "ultimately",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəltəmətlē/",
+            "/ˈəltəmətli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌltɪmətli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuối cùng",
+            "type": "adverb",
+            "example": {
+                "en": "And ultimately, it seems to me, that always works better than propaganda.",
+                "vi": "Và cuối cùng, đối với tôi, điều đó tốt hơn nhiều so với tuyên truyền."
+            }
+        },
+        {
+            "content": "sau cùng",
+            "type": "adverb",
+            "example": {
+                "en": "The question is, ultimately, why does all this interesting stuff exist?",
+                "vi": "Câu hỏi sau cùng là, Tại sao những điều thú vị này tồn tại?"
+            }
+        },
+        {
+            "content": "sau rốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết yếu",
+            "type": "adverb",
+            "example": {
+                "en": "What ultimately will make this situation and her better?",
+                "vi": "Điều thiết yếu nào sẽ làm cho tình huống này và người ấy được tốt hơn?"
+            }
+        }
+    ]
+}

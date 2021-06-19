@@ -1,0 +1,90 @@
+{
+    "word": "circumstantial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsərkəmˈstan(t)SH(ə)l/",
+            "/ˌsərkəmˈstæn(t)ʃ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səːkəmˈstanʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gián tiếp",
+            "type": "",
+            "example": {
+                "en": "Well, it's circumstantial but more than enough to indict.",
+                "vi": "Chỉ là gián tiếp nhưng quá đủ để truy tố."
+            }
+        },
+        {
+            "content": "chi tiết",
+            "type": "",
+            "example": {
+                "en": "Your case was circumstantial at best.",
+                "vi": "Vụ của các anh đã cực kỳ chi tiết."
+            }
+        },
+        {
+            "content": "do hoàn cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do suy diễn",
+            "type": "",
+            "example": {
+                "en": "These quotes are circumstantial.",
+                "vi": "Những trích dẫn này có thể do suy diễn."
+            }
+        },
+        {
+            "content": "hoàn cảnh",
+            "type": "noun",
+            "example": {
+                "en": "I think it was circumstantial.",
+                "vi": "Tôi nghĩ nó phụ thuộc nhiều vào hoàn cảnh."
+            }
+        },
+        {
+            "content": "trường hợp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tuỳ theo hoàn cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình huống",
+            "type": "",
+            "example": {
+                "en": "Well, it is a circumstantial case, but it's a strong circumstantial case.",
+                "vi": "Nó là một tình huống nhạy cảm, nhưng là cần kíp."
+            }
+        },
+        {
+            "content": "tường tận",
+            "type": "",
+            "example": {
+                "en": "We can do that Circumstantially.",
+                "vi": "Ta có thể làm tường tận."
+            }
+        },
+        {
+            "content": "xảy ra bất ngờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

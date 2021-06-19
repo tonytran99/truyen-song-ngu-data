@@ -1,0 +1,39 @@
+{
+    "word": "ere",
+    "type": [
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/er/",
+            "/ɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trước",
+            "type": "adposition",
+            "example": {
+                "en": "I was in h ere before you arrived.",
+                "vi": "Tôi đã ở trong này trước khi anh đến."
+            }
+        },
+        {
+            "content": "trước khi",
+            "type": "",
+            "example": {
+                "en": "I was in h ere before you arrived.",
+                "vi": "Tôi đã ở trong này trước khi anh đến."
+            }
+        }
+    ]
+}

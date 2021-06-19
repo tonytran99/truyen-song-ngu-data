@@ -1,0 +1,48 @@
+{
+    "word": "immutable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(m)ˈmyo͞odəb(ə)l/",
+            "/ɪ(m)ˈmjudəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmjuːtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất biến",
+            "type": "adjective",
+            "example": {
+                "en": "Because of its preserving properties, salt became a symbol of permanence and immutability.",
+                "vi": "Vì có tác dụng bảo quản, muối tượng trưng cho sự lâu bền và bất biến."
+            }
+        },
+        {
+            "content": "bất di bất dịch",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không biến đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thay đổi",
+            "type": "",
+            "example": {
+                "en": "They are immutable and unchanging.",
+                "vi": "Các lệnh truyền của Ngài bất biến và không thay đổi."
+            }
+        }
+    ]
+}

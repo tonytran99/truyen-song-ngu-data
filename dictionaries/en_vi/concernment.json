@@ -1,0 +1,62 @@
+{
+    "word": "concernment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsərnmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəːnm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phần",
+            "type": "noun",
+            "example": {
+                "en": "Would you prefer a small portion applied towards more pressing concerns?",
+                "vi": "Anh thích dùng một phần để.. xua đi những nỗi muộn phiền?"
+            }
+        },
+        {
+            "content": "việc",
+            "type": "noun",
+            "example": {
+                "en": "As far as I'm concerned, they're both loose ends.",
+                "vi": "Vì cả hai người kia vẫn còn việc chưa làm."
+            }
+        },
+        {
+            "content": "lợi lộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lo lắng",
+            "type": "",
+            "example": {
+                "en": "When does legitimate concern cross the line and become inordinate worry?",
+                "vi": "Khi nào mối quan tâm trở thành sự lo lắng thái quá?"
+            }
+        },
+        {
+            "content": "sự lo âu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm quan trọng",
+            "type": "",
+            "example": {
+                "en": "Are you concerned with the seriousness of this privilege today?",
+                "vi": "Bạn có quan tâm đến tầm quan trọng của đặc ân này ngày nay không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "cosmetic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käzˈmedik/",
+            "/kɑzˈmɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒzˈmɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỹ phẩm",
+            "type": "noun",
+            "example": {
+                "en": "I, in turn, support the two of us financially by selling cosmetics.",
+                "vi": "Còn tôi thì bán mỹ phẩm để trang trải chi phí cho hai anh em."
+            }
+        },
+        {
+            "content": "thuốc xức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trang điểm",
+            "type": "",
+            "example": {
+                "en": "And do n't use cosmetics if you have an eye infection like pinkeye .",
+                "vi": "Và cũng chớ nên trang điểm nếu bị nhiễm trùng mắt như bị bệnh đau mắt đỏ chẳng hạn ."
+            }
+        }
+    ]
+}

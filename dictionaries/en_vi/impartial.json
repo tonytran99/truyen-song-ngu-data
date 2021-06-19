@@ -1,0 +1,50 @@
+{
+    "word": "impartial",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpärSHəl/",
+            "/ɪmˈpɑrʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpɑːʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô tư",
+            "type": "adjective",
+            "example": {
+                "en": "Others have written about them, though not always impartially.",
+                "vi": "Người khác đã viết về họ, thường không được vô tư."
+            }
+        },
+        {
+            "content": "công bằng",
+            "type": "adjective",
+            "example": {
+                "en": "They too must be fair, impartial, and approachable.",
+                "vi": "Họ cũng phải công bằng, không thiên vị và dễ đến gần."
+            }
+        },
+        {
+            "content": "công minh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thiên vị",
+            "type": "adjective",
+            "example": {
+                "en": "How you too can show yourself to be impartial.",
+                "vi": "Cách bạn cho thấy mình cũng không thiên vị."
+            }
+        }
+    ]
+}

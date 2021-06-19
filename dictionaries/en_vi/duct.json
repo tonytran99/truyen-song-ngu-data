@@ -1,0 +1,47 @@
+{
+    "word": "duct",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ống",
+            "type": "noun",
+            "example": {
+                "en": "I'll need you when we get to the other end of this duct.",
+                "vi": "Tại vì chúng tôi cần ông khi ta tới đầu kia của cái ống."
+            }
+        },
+        {
+            "content": "ống dẫn",
+            "type": "",
+            "example": {
+                "en": "The metalworkers, for the most part, do ducts behind the ceilings and stuff.",
+                "vi": "Các công nhân luyện kim, chủ yếu làm ống dẫn đằng sau trần nhà và các đồ điện."
+            }
+        },
+        {
+            "content": "kênh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đường ngầm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

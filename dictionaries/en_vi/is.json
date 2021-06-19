@@ -1,0 +1,54 @@
+{
+    "word": "is",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌīˈes/",
+            "/ˌaɪˈɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌʌɪˈɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "là",
+            "type": "verb",
+            "example": {
+                "en": "To share one's passion is to live it fully.",
+                "vi": "Chia sẻ đam mê của ai đó chính là sống thật trọn vẹn với nó."
+            }
+        },
+        {
+            "content": "hiện có",
+            "type": "",
+            "example": {
+                "en": "I do not think Mr. Phelan is facing his commitment in a responsible manner.",
+                "vi": "Và ông Phelan không cho thấy sự cam kết hành động thực hiện có trách nhiệm."
+            }
+        },
+        {
+            "content": "thì",
+            "type": "conjunction noun adverb",
+            "example": {
+                "en": "One book is thin, and the other is thick.",
+                "vi": "Một quyển thì mỏng, và quyển kia thì dày."
+            }
+        },
+        {
+            "content": "tồn tại",
+            "type": "",
+            "example": {
+                "en": "Democracy is the worst form of government, except all the others that have been tried.",
+                "vi": "Trong tất cả các loại hình chính phủ, dân chủ là tệ nhất, trừ mọi chính phủ mà đã tồn tại từ xưa đến giờ."
+            }
+        }
+    ]
+}

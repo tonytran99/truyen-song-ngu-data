@@ -1,0 +1,50 @@
+{
+    "word": "gene",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jēn/",
+            "/dʒin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gen",
+            "type": "noun",
+            "example": {
+                "en": "Yet, when I started graduate school, no one knew what these genes were.",
+                "vi": "Thế nhưng, khi tôi bắt đầu học cao học, không ai biết về những loại gen này."
+            }
+        },
+        {
+            "content": "Gen",
+            "type": "",
+            "example": {
+                "en": "And new hope in gene therapy has been developed",
+                "vi": "Và 1 niềm hi vọng mới về liệu pháp Gen đang được phát triển"
+            }
+        },
+        {
+            "content": "di thể",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gien",
+            "type": "noun",
+            "example": {
+                "en": "Language must have been useful for the genes.",
+                "vi": "Ngôn ngữ hẳn đã hữu ích với các gien."
+            }
+        }
+    ]
+}

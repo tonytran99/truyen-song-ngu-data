@@ -1,0 +1,40 @@
+{
+    "word": "hotline",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhätˌlīn/",
+            "/ˈhɑtˌlaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒtlʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường dây khẩn cấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường dây nóng",
+            "type": "",
+            "example": {
+                "en": "Did the lady from the hotline send you?",
+                "vi": "Cô gái ở đường dây nóng gửi anh đến đây à?"
+            }
+        },
+        {
+            "content": "ñöôøng daây ñieän thoaïi cho caùc vaán ñeà ñaëc bieät",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

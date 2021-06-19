@@ -1,0 +1,58 @@
+{
+    "word": "electrode",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrōd/",
+            "/əˈlɛktroʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện cực",
+            "type": "noun",
+            "example": {
+                "en": "It's fitted with solid electrodes and an electrolyte that's a solution of salt and water.",
+                "vi": "Nó khớp với các điện cực thể rắn và chất điện phân, đó là một dung dịch muối."
+            }
+        },
+        {
+            "content": "電極",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cực",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "We're talking about placing electrodes into the brain.",
+                "vi": "Chúng tôi đang nói tới việc đặt điện cực vào não."
+            }
+        },
+        {
+            "content": "cực điện",
+            "type": "",
+            "example": {
+                "en": "Attach these to the electrodes.",
+                "vi": "Nối cái này vào mấy cực điện."
+            }
+        },
+        {
+            "content": "Điện cực",
+            "type": "",
+            "example": {
+                "en": "We're talking about placing electrodes into the brain.",
+                "vi": "Chúng tôi đang nói tới việc đặt điện cực vào não."
+            }
+        }
+    ]
+}

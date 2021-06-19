@@ -1,0 +1,74 @@
+{
+    "word": "landscape",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)ˌskāp/",
+            "/ˈlæn(d)ˌskeɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)skeɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phong cảnh",
+            "type": "noun",
+            "example": {
+                "en": "What are the thresholds between science and its ability to shape our emotional landscape?",
+                "vi": "Ngưỡng của giữa khoa học Và khả năng hình thành phong cảnh cảm xúc của chúng tôi?"
+            }
+        },
+        {
+            "content": "cảnh sắc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cảnh",
+            "type": "noun",
+            "example": {
+                "en": "So we would take the landscape and we would build up the topography.",
+                "vi": "Chúng tôi bỏ đi phong cảnh và dựng lại địa hình."
+            }
+        },
+        {
+            "content": "cảnh quan",
+            "type": "noun",
+            "example": {
+                "en": "What we see during the day is our landscapes.",
+                "vi": "Cái ta thấy ban ngày là những cảnh quan,"
+            }
+        },
+        {
+            "content": "làm đẹp phong cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơn thủy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thắng cảnh",
+            "type": "noun",
+            "example": {
+                "en": "The clock of climate change is ticking in these magnificent landscapes.",
+                "vi": "Biến đổi khí hậu còn hiện diện ngay trên những thắng cảnh này."
+            }
+        },
+        {
+            "content": "khổ ngang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

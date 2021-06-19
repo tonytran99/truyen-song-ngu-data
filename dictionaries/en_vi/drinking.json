@@ -1,0 +1,38 @@
+{
+    "word": "drinking",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdriNGkiNG/",
+            "/ˈdrɪŋkɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrɪŋkɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rượu chè",
+            "type": "noun",
+            "example": {
+                "en": "Thomas and Doris had been married for over 30 years when Thomas started to drink heavily.",
+                "vi": "Thomas và Doris lấy nhau được hơn 30 năm thì Thomas đâm ra rượu chè be bét."
+            }
+        },
+        {
+            "content": "uống",
+            "type": "noun",
+            "example": {
+                "en": "Before going home, I have a few drinks to relax.",
+                "vi": "Trước khi về nhà, tôi uống một vài ly để thư giãn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "word": "climb",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klīm/",
+            "/klaɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "leo",
+            "type": "verb",
+            "example": {
+                "en": "The boys were climbing about on the rocks.",
+                "vi": "Bọn con trai đang leo lên khắp các tảng đá."
+            }
+        },
+        {
+            "content": "trèo",
+            "type": "verb",
+            "example": {
+                "en": "We climbed up the steep mountain.",
+                "vi": "Chúng tôi trèo lên ngọn nói dốc đứng."
+            }
+        },
+        {
+            "content": "lên",
+            "type": "verb",
+            "example": {
+                "en": "The boys were climbing about on the rocks.",
+                "vi": "Bọn con trai đang leo lên khắp các tảng đá."
+            }
+        },
+        {
+            "content": "leo trèo",
+            "type": "verb",
+            "example": {
+                "en": "My business is to climb and I haven't climbed in five years.",
+                "vi": "Việc của tôi là leo núi, và tôi đã không leo trèo từ năm năm nay."
+            }
+        },
+        {
+            "content": "leo lên",
+            "type": "",
+            "example": {
+                "en": "I'd like to climb your hair, test that out.",
+                "vi": "Em muốn leo lên mái tóc của anh và kiểm tra nó."
+            }
+        },
+        {
+            "content": "leo lên tới",
+            "type": "",
+            "example": {
+                "en": "And we wanted to climb to the top of the mountain, but Daddy said we weren't allowed.",
+                "vi": "Và chúng cháu muốn leo lên tới đỉnh núi, nhưng bố nói chúng cháu không được phép."
+            }
+        },
+        {
+            "content": "lên cao",
+            "type": "",
+            "example": {
+                "en": "We climbed higher so that we might get a better view.",
+                "vi": "Chúng tôi chèo lên cao để có được tầm nhìn đẹp hơn."
+            }
+        },
+        {
+            "content": "sự leo trèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trèo lên",
+            "type": "",
+            "example": {
+                "en": "We climbed up the steep mountain.",
+                "vi": "Chúng tôi trèo lên ngọn nói dốc đứng."
+            }
+        },
+        {
+            "content": "trèo lên tới",
+            "type": "",
+            "example": {
+                "en": "And no sooner than she climbed to the top... she saw something new and died!",
+                "vi": "Vừa trèo lên tới ngọn, nó thấy một thứ mới mẻ và rồi... chết!"
+            }
+        },
+        {
+            "content": "vật phải trèo lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật trèo qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bò",
+            "type": "verb noun",
+            "example": {
+                "en": "Some species climb up rough tree trunks, while others burrow into abrasive sand.",
+                "vi": "Một số loài bò trên các thân cây xù xì, còn loài khác thì chui xuống lớp cát thô ráp."
+            }
+        },
+        {
+            "content": "trèo leo",
+            "type": "",
+            "example": {
+                "en": "Climbing down off sidewalks?",
+                "vi": "Để trèo leo hả?"
+            }
+        }
+    ]
+}

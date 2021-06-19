@@ -1,0 +1,49 @@
+{
+    "word": "inconclusive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkənˈklo͞osiv/",
+            "/ˌɪnkənˈklusɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkənˈkluːsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ lửng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dở dang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không quyết định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thuyết phục được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không xác định",
+            "type": "",
+            "example": {
+                "en": "Your results were inconclusive.",
+                "vi": "Kết quả của em không xác định được."
+            }
+        }
+    ]
+}

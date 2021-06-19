@@ -1,0 +1,55 @@
+{
+    "word": "ventilate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈven(t)əˌlāt/",
+            "/ˈvɛn(t)əˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛntɪleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thông hơi",
+            "type": "",
+            "example": {
+                "en": "You see the sunbeams coming from the ventilation ducts",
+                "vi": "Các bạn thấy những tia nắng từ lỗ thông hơi"
+            }
+        },
+        {
+            "content": "bằng oxy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công bố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hơi",
+            "type": "noun adverb",
+            "example": {
+                "en": "You see the sunbeams coming from the ventilation ducts and the train approaching.",
+                "vi": "Các bạn thấy những tia nắng từ lỗ thông hơi và đoàn tàu đang tiến đến gần."
+            }
+        },
+        {
+            "content": "thông gió",
+            "type": "",
+            "example": {
+                "en": "Uh, there's got to be a ventilation system.",
+                "vi": "Chắc phải có hệ thống thông gió chứ."
+            }
+        }
+    ]
+}

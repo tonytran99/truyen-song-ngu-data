@@ -1,0 +1,58 @@
+{
+    "word": "disable",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisˈāb(ə)l/",
+            "/ˌdɪsˈeɪb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈeɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm cho bất lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tàn tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đủ tư cách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm què quặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá hỏng",
+            "type": "",
+            "example": {
+                "en": "That last car had LoJack, but it was disabled near a farm outside Auxerre.",
+                "vi": "Chiếc xe cuối cùng có trang bị an ninh, nhưng nó đã bị phá hỏng gần một nông trại ngoại ô Auxerre."
+            }
+        },
+        {
+            "content": "vô hiệu hoá",
+            "type": "",
+            "example": {
+                "en": "Dr. Palmer is going to help me remotely disable it.",
+                "vi": "Palmer sẽ giúp tôi vô hiệu hoá nó từ xa."
+            }
+        }
+    ]
+}

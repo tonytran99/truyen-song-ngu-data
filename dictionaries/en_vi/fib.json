@@ -1,0 +1,45 @@
+{
+    "word": "fib",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fib/",
+            "/fɪb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyện bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói dối",
+            "type": "noun",
+            "example": {
+                "en": "It's not like I'd be fibbing.",
+                "vi": "Không sao đâu, tôi sẽ nói dối là được"
+            }
+        },
+        {
+            "content": "nói bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều nói dối nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

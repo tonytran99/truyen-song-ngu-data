@@ -1,0 +1,45 @@
+{
+    "word": "correctional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrekSH(ə)n(ə)l/",
+            "/kəˈrɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛkʃənl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệu chỉnh",
+            "type": "",
+            "example": {
+                "en": "So the Party self-corrects in rather dramatic fashions.",
+                "vi": "Vì thế Đảng tự hiệu chỉnh để phù hợp với những thay đổi thất thường."
+            }
+        },
+        {
+            "content": "sửa chữa",
+            "type": "verb noun",
+            "example": {
+                "en": "There must be a way to correct this somehow.",
+                "vi": "Phải có cách nào đó để sửa chữa nó chứ."
+            }
+        },
+        {
+            "content": "trừng phạt",
+            "type": "",
+            "example": {
+                "en": "Reproof—rebuke, chastening, scolding, or correction, usually in a kind manner.",
+                "vi": "Bẻ trách—quở trách, trừng phạt, rầy la, hay sửa phạt, thường bằng một cách nhân từ."
+            }
+        }
+    ]
+}

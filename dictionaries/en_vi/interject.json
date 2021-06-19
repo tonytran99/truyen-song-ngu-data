@@ -1,0 +1,44 @@
+{
+    "word": "interject",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈjekt/",
+            "/ˌɪn(t)ərˈdʒɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈdʒɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỗng xen vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận xét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói xen vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xen vào",
+            "type": "",
+            "example": {
+                "en": "Can I just interject something here?",
+                "vi": "Tôi có thể xen vào không?"
+            }
+        }
+    ]
+}

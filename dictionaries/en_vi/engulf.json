@@ -1,0 +1,47 @@
+{
+    "word": "engulf",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈɡəlf/",
+            "/ɪnˈɡəlf/",
+            "/enˈɡəlf/",
+            "/ɛnˈɡəlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɡʌlf/",
+            "/ɛnˈɡʌlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhận sâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao phủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tiêu tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận chìm",
+            "type": "",
+            "example": {
+                "en": "We should not allow ourselves to be engulfed by the culture which surrounds us.",
+                "vi": "Chúng ta chớ nên để cho mình bị nhận chìm bởi các ảnh hưởng tà ác vây quanh chúng ta."
+            }
+        }
+    ]
+}

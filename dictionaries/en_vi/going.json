@@ -1,0 +1,102 @@
+{
+    "word": "going",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡōiNG/",
+            "/ˈɡoʊɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəʊɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự ra đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc đi lại",
+            "type": "",
+            "example": {
+                "en": "The spider has taken a great interest in your comings and goings.",
+                "vi": "Con nhện đã bắt đầu quan tâm tới việc đi lại của ngài."
+            }
+        },
+        {
+            "content": "có",
+            "type": "verb",
+            "example": {
+                "en": "If possible, I'd like to go home now.",
+                "vi": "Nếu có thể, tôi muốn được về nhà ngay bây giowf."
+            }
+        },
+        {
+            "content": "hiện có",
+            "type": "",
+            "example": {
+                "en": "Now, there are going to be changes",
+                "vi": "Hiện có nhiều thay đổi"
+            }
+        },
+        {
+            "content": "trạng thái đường sá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tốc độ",
+            "type": "noun",
+            "example": {
+                "en": "Do you think they have any concept of how fast a car can go?",
+                "vi": "Cậu nghĩ họ có chút khái niệm nào về tốc độ của ôtô chứ?"
+            }
+        },
+        {
+            "content": "tồn tại",
+            "type": "",
+            "example": {
+                "en": "And in those five years, it was that one thought that kept me going.",
+                "vi": "Và trong những năm năm đó, chỉ có một ý nghĩ đã giữ tôi tồn tại."
+            }
+        },
+        {
+            "content": "đang chạy",
+            "type": "",
+            "example": {
+                "en": "I'm afraid to go anywhere with that masked psychopath running around.",
+                "vi": "Tôi sợ phải đi ra ngoài khi mà tên điên đeo mặt nạ đang chạy ngoài đó."
+            }
+        },
+        {
+            "content": "đang hoạt động",
+            "type": "",
+            "example": {
+                "en": "pshhh! There's another volcano going.",
+                "vi": "Ppssshhh! Một núi lửa khác đang hoạt động"
+            }
+        },
+        {
+            "content": "đang tiến hành đều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang đi",
+            "type": "",
+            "example": {
+                "en": "I was going to call to let you know where I was.",
+                "vi": "Em đang đi.nh gọi cho anh để anh biết em ở đâu."
+            }
+        }
+    ]
+}

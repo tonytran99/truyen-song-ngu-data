@@ -1,0 +1,32 @@
+{
+    "word": "counseling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkouns(ə)liNG/",
+            "/ˈkaʊns(ə)lɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cố vấn",
+            "type": "noun",
+            "example": {
+                "en": "Thank you for your counsel, Grand Maester.",
+                "vi": "Cám ơn sự cố vấn của ông, Đại học sĩ."
+            }
+        },
+        {
+            "content": "sự tư vấn",
+            "type": "noun",
+            "example": {
+                "en": "And she never will be with the right counsel.",
+                "vi": "Và cô ấy sẽ không bao giờ là ông ấy với sự tư vấn đúng đắn."
+            }
+        }
+    ]
+}

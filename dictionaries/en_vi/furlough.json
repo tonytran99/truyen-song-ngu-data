@@ -1,0 +1,35 @@
+{
+    "word": "furlough",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərlō/",
+            "/ˈfərloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phép nghỉ",
+            "type": "",
+            "example": {
+                "en": "On furlough from the psych unit?",
+                "vi": "Anh lấy phép nghỉ chưa?"
+            }
+        },
+        {
+            "content": "cho nghỉ phép",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

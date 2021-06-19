@@ -1,0 +1,46 @@
+{
+    "word": "developed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈveləpt/",
+            "/dəˈvɛləpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvɛləpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát triển",
+            "type": "adjective",
+            "example": {
+                "en": "Why didn't modern technology develop in China?",
+                "vi": "Tại sao công nghệ hiện đại lại không phát triển ở Trung Quốc?"
+            }
+        },
+        {
+            "content": "tiên tiến",
+            "type": "adjective",
+            "example": {
+                "en": "He's been developing a ship that has advanced warp capabilities...",
+                "vi": "Ông ấy đang phát triển phi thuyền có khả năng gia tốc tiên tiến..."
+            }
+        },
+        {
+            "content": "tân tiến",
+            "type": "adjective",
+            "example": {
+                "en": "The institute leads the world in developing these groundbreaking techniques.",
+                "vi": "Viện dẫn đầu thế giới trong việc phát triển những kĩ thuật tân tiến."
+            }
+        }
+    ]
+}

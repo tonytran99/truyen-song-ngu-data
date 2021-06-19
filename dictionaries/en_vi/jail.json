@@ -1,0 +1,106 @@
+{
+    "word": "jail",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jāl/",
+            "/dʒeɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒeɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tù",
+            "type": "noun",
+            "example": {
+                "en": "Tom didn't want to be sent to jail.",
+                "vi": "Tom không muốn vào tù."
+            }
+        },
+        {
+            "content": "ngục",
+            "type": "noun",
+            "example": {
+                "en": "The words liberty and jail do not fit together very well.",
+                "vi": "Những từ tự do và ngục thất thì không tương xứng với nhau lắm."
+            }
+        },
+        {
+            "content": "khám",
+            "type": "noun",
+            "example": {
+                "en": "If we don't do this, then we go to jail.",
+                "vi": "Nếu chúng ta không chịu làm thì chúng ta vào khám."
+            }
+        },
+        {
+            "content": "goal",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cầm tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lao tù",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngồi tù",
+            "type": "verb",
+            "example": {
+                "en": "Frank put him in jail for a few years.",
+                "vi": "Frank khiến hắn phải ngồi tù vài năm."
+            }
+        },
+        {
+            "content": "nhà tù",
+            "type": "",
+            "example": {
+                "en": "Many young people came to the jail to visit me .",
+                "vi": "Rất đông các bạn trẻ đến nhà tù để thăm tôi ."
+            }
+        },
+        {
+            "content": "nhà đá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ tù",
+            "type": "",
+            "example": {
+                "en": "All I know is, the wrong man's in jail.",
+                "vi": "Tôi chỉ biết là đã bỏ tù lầm người."
+            }
+        },
+        {
+            "content": "nhà giam",
+            "type": "",
+            "example": {
+                "en": "Tom spent the night in jail.",
+                "vi": "Tom ở trong nhà giam cả đêm."
+            }
+        },
+        {
+            "content": "nhà lao",
+            "type": "",
+            "example": {
+                "en": "I don't want to get back on Monday and find all our leadership in jail.",
+                "vi": "Tôi không muốn thứ Hai trở về và thấy toàn bộ lãnh đạo nằm trong nhà lao."
+            }
+        }
+    ]
+}

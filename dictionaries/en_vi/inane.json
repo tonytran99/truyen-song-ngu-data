@@ -1,0 +1,53 @@
+{
+    "word": "inane",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnān/",
+            "/ɪˈneɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈneɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoảng trống vũ tr",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngu ngốc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngớ ngẩn",
+            "type": "",
+            "example": {
+                "en": "When I first read that, I thought, \"That sentence is inane.",
+                "vi": "Khi lần đầu đọc nó, tôi đã nghĩ \"Câu này thật ngớ ngẩn."
+            }
+        },
+        {
+            "content": "trống rỗng",
+            "type": "",
+            "example": {
+                "en": "Now, that's an ending that is flat and inane beyond belief.",
+                "vi": "Cái kết thúc này đúng phẳng lì và trống rỗng đến khó chịu đây nè."
+            }
+        },
+        {
+            "content": "vô nghĩa",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

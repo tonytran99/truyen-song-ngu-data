@@ -1,0 +1,39 @@
+{
+    "word": "firecracker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌkrakər/",
+            "/ˈfaɪ(ə)rˌkrækər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəkrakə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo",
+            "type": "noun",
+            "example": {
+                "en": "The firecracker exploded, and sulfurous fumes filled the overflow area and the chapel.",
+                "vi": "Cây pháo phát nổ, và khói tràn ngập khu vực chỗ ngồi phụ và giáo đường."
+            }
+        },
+        {
+            "content": "Bánh pháo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh pháo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

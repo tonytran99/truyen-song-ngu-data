@@ -1,0 +1,47 @@
+{
+    "word": "colonize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäləˌnīz/",
+            "/ˈkɑləˌnaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒlənʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiếm làm thuộc địa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở",
+            "type": "verb adposition",
+            "example": {}
+        },
+        {
+            "content": "lập thuộc địa",
+            "type": "",
+            "example": {
+                "en": "He saw Columbus and the colonizing of America.",
+                "vi": "Ông đã nhìn thấy Columbus và việc thiết lập thuộc địa ở Châu Mỹ."
+            }
+        },
+        {
+            "content": "định cư",
+            "type": "",
+            "example": {
+                "en": "Do you think mankind will someday colonize the Moon?",
+                "vi": "Bạn thực sự nghĩ rằng con người một ngày nào đó có thể định cư trên Mặt trăng không?"
+            }
+        }
+    ]
+}

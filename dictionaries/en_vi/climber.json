@@ -1,0 +1,53 @@
+{
+    "word": "climber",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklīmər/",
+            "/ˈklaɪmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklʌɪmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây leo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người leo núi",
+            "type": "noun",
+            "example": {
+                "en": "These are some climbers reaching the top of the icefall just at sun-up.",
+                "vi": "Vài người leo núi đã lên đến đỉnh thác băng khi mặt trời lên."
+            }
+        },
+        {
+            "content": "người leo trèo",
+            "type": "noun",
+            "example": {
+                "en": "This one is for more advanced climbers.",
+                "vi": "Cái cây này là dành cho người leo trèo giỏi."
+            }
+        },
+        {
+            "content": "climbing_irons",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chim leo trèo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "coffee",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôfē/",
+            "/ˈkɔfi/",
+            "/ˈkäfē/",
+            "/ˈkɑfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cà phê",
+            "type": "noun, adjective",
+            "example": {
+                "en": "If you drink instant coffee you do not need a coffee pot.",
+                "vi": "Nếu bạn uống cà phê uống liền, thì không cần đến bình cà phê."
+            }
+        },
+        {
+            "content": "cây cà phê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu cà phê",
+            "type": "",
+            "example": {
+                "en": "but with a lot of coffee.",
+                "vi": "nhưng màu cà phê nhiều hơn."
+            }
+        },
+        {
+            "content": "bột cà phê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hột cà phê rang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạt cà phê",
+            "type": "",
+            "example": {
+                "en": "Or am I like the coffee bean ?",
+                "vi": "Hay con sẽ giống hạt cà phê ?"
+            }
+        },
+        {
+            "content": "hột cà phê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

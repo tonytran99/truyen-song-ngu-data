@@ -1,0 +1,30 @@
+{
+    "word": "biomedical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbīōˈmedik(ə)l/",
+            "/ˌbaɪoʊˈmɛdɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪə(ʊ)ˈmɛdɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "y sinh",
+            "type": "adjective",
+            "example": {
+                "en": "In the hospital and in the entire region there's not a single biomedical engineer.",
+                "vi": "Tại bệnh viện này và trong toàn vùng không có đến một kỹ sư y sinh nào cả."
+            }
+        }
+    ]
+}

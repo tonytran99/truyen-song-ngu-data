@@ -1,0 +1,36 @@
+{
+    "word": "electroplate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrəˌplāt/",
+            "/əˈlɛktrəˌpleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrə(ʊ)pleɪt/",
+            "/ɪˌlɛktrə(ʊ)ˈpleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạ điện",
+            "type": "verb",
+            "example": {
+                "en": "He's a director of an electroplating company.",
+                "vi": "Ông ấy là giám đốc công ty mạ điện."
+            }
+        },
+        {
+            "content": "vật mạ điện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

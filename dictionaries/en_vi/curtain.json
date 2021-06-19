@@ -1,0 +1,81 @@
+{
+    "word": "curtain",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "màn",
+            "type": "noun",
+            "example": {
+                "en": "We found out a secret door behind the curtain.",
+                "vi": "Chúng tôi đã tìm thấy cánh cửa bí mật sau màn rèm."
+            }
+        },
+        {
+            "content": "màn cửa",
+            "type": "noun",
+            "example": {
+                "en": "Parents acted like I'd blow my nose on their curtains.",
+                "vi": "Cha mẹ cổ làm như tôi sẵn sàng hỉ mũi vô màn cửa của họ."
+            }
+        },
+        {
+            "content": "rèm",
+            "type": "noun",
+            "example": {
+                "en": "We found out a secret door behind the curtain.",
+                "vi": "Chúng tôi đã tìm thấy cánh cửa bí mật sau màn rèm."
+            }
+        },
+        {
+            "content": "mành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bức màn",
+            "type": "",
+            "example": {
+                "en": "A curtain in the temple, called the veil, was torn in two.",
+                "vi": "Cái màn trong đền thờ, gọi là bức màn che, bị xé làm hai."
+            }
+        },
+        {
+            "content": "che màn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Rèm",
+            "type": "",
+            "example": {
+                "en": "We found out a secret door behind the curtain.",
+                "vi": "Chúng tôi đã tìm thấy cánh cửa bí mật sau màn rèm."
+            }
+        }
+    ]
+}

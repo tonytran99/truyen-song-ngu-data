@@ -1,0 +1,58 @@
+{
+    "word": "employment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈploimənt/",
+            "/əmˈplɔɪmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈplɔɪm(ə)nt/",
+            "/ɛmˈplɔɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc làm",
+            "type": "noun",
+            "example": {
+                "en": "They had to survive difficult economic times, often being without employment.",
+                "vi": "Họ phải trải qua những thời kỳ khó khăn về kinh tế, thường không có việc làm."
+            }
+        },
+        {
+            "content": "sự dùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm công",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự thuê làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công ăn việc làm",
+            "type": "noun",
+            "example": {
+                "en": "What about our choice of occupation or employment?",
+                "vi": "Chúng ta chọn công ăn việc làm như thế nào?"
+            }
+        },
+        {
+            "content": "Người lao động",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

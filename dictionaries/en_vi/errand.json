@@ -1,0 +1,48 @@
+{
+    "word": "errand",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerənd/",
+            "/ˈɛrənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛr(ə)nd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mục đích",
+            "type": "noun",
+            "example": {
+                "en": "For the first time, she asked not for another child but for a divine errand.",
+                "vi": "Lần đầu tiên, nó không cầu xin thêm một đứa con nữa mà cầu xin một mục đích thiêng liêng."
+            }
+        },
+        {
+            "content": "mục đích cuộc đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc lặt vặt",
+            "type": "",
+            "example": {
+                "en": "Also , plan your errands and be sure to lighten the load .",
+                "vi": "Bạn nên sắp xếp các công việc lặt vặt để giảm trọng lượng ."
+            }
+        },
+        {
+            "content": "việc vắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

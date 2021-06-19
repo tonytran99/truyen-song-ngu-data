@@ -1,0 +1,50 @@
+{
+    "word": "integrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)əˌɡrāt/",
+            "/ˈɪn(t)əˌɡreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntɪɡreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp nhất",
+            "type": "",
+            "example": {
+                "en": "Right? It can't be networked. It can't be integrated.",
+                "vi": "Chúng không được kết nối hay hợp nhất với nhau."
+            }
+        },
+        {
+            "content": "chỉ tổng số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội nhập",
+            "type": "",
+            "example": {
+                "en": "Our mission is of cultural integration and independence.",
+                "vi": "Nhiệm vụ của chúng tôi thuộc về sự hội nhập văn hóa và nền độc lập."
+            }
+        },
+        {
+            "content": "tích phân",
+            "type": "",
+            "example": {
+                "en": "And it takes weeks to perform our integrations.",
+                "vi": "Mà vẫn cần hàng tuần mới thực hiện xong các phép tích phân."
+            }
+        }
+    ]
+}

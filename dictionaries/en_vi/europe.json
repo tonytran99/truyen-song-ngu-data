@@ -1,0 +1,30 @@
+{
+    "word": "europe",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orəp/",
+            "/ˈjʊrəp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərəp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "châu âu",
+            "type": "",
+            "example": {
+                "en": "I went to Europe before the war.",
+                "vi": "Tôi đã đến châu Âu trước khi có chiến tranh."
+            }
+        }
+    ]
+}

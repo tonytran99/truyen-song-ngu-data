@@ -1,0 +1,41 @@
+{
+    "word": "holler",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhälər/",
+            "/ˈhɑlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người la",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "la hét",
+            "type": "",
+            "example": {
+                "en": "You can hear the hollering on the floor.",
+                "vi": "Các bạn có thể nghe tiếng la hét trên sàn."
+            }
+        }
+    ]
+}

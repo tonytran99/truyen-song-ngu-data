@@ -1,0 +1,30 @@
+{
+    "word": "documents",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "giấy má",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giấy tờ",
+            "type": "",
+            "example": {
+                "en": "It was my grandfather who decided they needed false documents.",
+                "vi": "Chính ông tôi là người quyết định cần giấy tờ giả mạo."
+            }
+        },
+        {
+            "content": "tài liệu",
+            "type": "noun",
+            "example": {
+                "en": "We have to get that document back before Tom shows it to anyone.",
+                "vi": "Chúng ta phải lấy lại tài liệu đó trước khi Tom đưa nó cho bất cứ ai."
+            }
+        }
+    ]
+}

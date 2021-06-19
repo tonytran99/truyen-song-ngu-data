@@ -1,0 +1,79 @@
+{
+    "word": "human",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)yo͞omən/",
+            "/ˈ(h)jumən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhjuːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con người",
+            "type": "noun",
+            "example": {
+                "en": "People used to think that only humans could use language.",
+                "vi": "Mọi người thường nghĩ rằng chỉ có con người mới có thể sử dụng ngôn nghĩ."
+            }
+        },
+        {
+            "content": "loài người",
+            "type": "noun",
+            "example": {
+                "en": "The humans we are today are not the humans we will be then.",
+                "vi": "Loài người chúng ta hôm nay sẽ không phải là loài người chúng ta sau này."
+            }
+        },
+        {
+            "content": "người",
+            "type": "noun",
+            "example": {
+                "en": "People used to think that only humans could use language.",
+                "vi": "Mọi người thường nghĩ rằng chỉ có con người mới có thể sử dụng ngôn nghĩ."
+            }
+        },
+        {
+            "content": "nhân",
+            "type": "verb noun",
+            "example": {
+                "en": "Language as we know is a human invention.",
+                "vi": "Như chúng ta biết, ngôn ngữ là phát minh của nhân loại."
+            }
+        },
+        {
+            "content": "có tính người",
+            "type": "",
+            "example": {
+                "en": "Because that robot had more humanity than most of us.",
+                "vi": "Bởi vì robot đó có tính người hơn phần lớn chúng ta."
+            }
+        },
+        {
+            "content": "người ta",
+            "type": "",
+            "example": {
+                "en": "They don't seem to suffer from the same fear of heights that humans do.",
+                "vi": "Chúng có vẻ không sợ độ cao theo cách người ta hay làm."
+            }
+        },
+        {
+            "content": "nhân đạo",
+            "type": "",
+            "example": {
+                "en": "A robot caretaker is just as humane as a human caretaker.",
+                "vi": "Một người máy trợ lý cũng nhân đạo như một con người."
+            }
+        }
+    ]
+}

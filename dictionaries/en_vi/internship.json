@@ -1,0 +1,42 @@
+{
+    "word": "internship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈinˌtərnˌSHip/",
+            "/ˈɪnˌtərnˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntəːnʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cương vị giáo sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thực tập",
+            "type": "",
+            "example": {
+                "en": "Your dad tells me that you'll be leaving on your internship soon.",
+                "vi": "Bố cháu bảo cháu sắp ra đi theo dạng thực tập."
+            }
+        },
+        {
+            "content": "thời gian thực tập",
+            "type": "noun",
+            "example": {
+                "en": "So now is the time for that cross-country job, that internship, that startup you want to try.",
+                "vi": "Do đó đây là thời điểm cho công việc tại nước ngoài, cho thời gian thực tập và khởi nghiệp mà bạn muốn thử."
+            }
+        }
+    ]
+}

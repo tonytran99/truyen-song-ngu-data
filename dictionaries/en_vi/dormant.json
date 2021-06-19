@@ -1,0 +1,74 @@
+{
+    "word": "dormant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrmənt/",
+            "/ˈdɔrmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngủ",
+            "type": "verb",
+            "example": {
+                "en": "The female remained dormant until the male matured.",
+                "vi": "Con cái duy trì trạng thái ngủ đông cho tới khi con đực trưởng thành."
+            }
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đang ngủ",
+            "type": "adjective",
+            "example": {
+                "en": "I don't know, sweetheart, but whatever parts of you are dormant are gonna stay that way.",
+                "vi": "Tôi không biết, nhưng dù là phần nào của cô đang ngủ đông thì sẽ vẫn cứ như thế thôi."
+            }
+        },
+        {
+            "content": "không hoạt động",
+            "type": "adjective",
+            "example": {
+                "en": "I've left the Trojan horse dormant to avoid discovery.",
+                "vi": "Tôi đã để Trojan Horse không hoạt động để tránh bị phát hiện"
+            }
+        },
+        {
+            "content": "nằm im lìm",
+            "type": "adjective",
+            "example": {
+                "en": "So the potential for superintelligence lies dormant in matter,",
+                "vi": "Vì thế, tiềm năng của siêu trí tuệ nằm im lìm trong vật chất,"
+            }
+        },
+        {
+            "content": "nằm ngủ",
+            "type": "",
+            "example": {
+                "en": "Not to lie there dormant.",
+                "vi": "Không phải để nằm ngủ yên ở đó."
+            }
+        },
+        {
+            "content": "tiềm tàng",
+            "type": "",
+            "example": {
+                "en": "And yet lingering in each of our spirits are those dormant memories.",
+                "vi": "Và các ký ức đó vẫn còn tiềm tàng trong mỗi tâm hồn của chúng ta."
+            }
+        }
+    ]
+}

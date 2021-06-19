@@ -1,0 +1,37 @@
+{
+    "word": "biologist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīˈäləjəst/",
+            "/baɪˈɑlədʒəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪˈɒlədʒɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà sinh học",
+            "type": "",
+            "example": {
+                "en": "Now, being a biologist, I was very curious about this.",
+                "vi": "Là một nhà sinh học, tôi vô cùng tò mò về điều này."
+            }
+        },
+        {
+            "content": "nhà sinh vật học",
+            "type": "noun",
+            "example": {
+                "en": "I'm a molecular biologist by training, and I've seen a lot of these kinds of drawings.",
+                "vi": "Là một nhà sinh vật học phân tử, tôi đã xem rất nhiều bức vẽ như vậy."
+            }
+        }
+    ]
+}

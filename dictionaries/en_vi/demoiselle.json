@@ -1,0 +1,44 @@
+{
+    "word": "demoiselle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdemwäˈzel/",
+            "/ˌdɛmwɑˈzɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɛmwɑːˈzɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con chuồn chuồn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con hạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô gái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thiếu nữ",
+            "type": "noun",
+            "example": {
+                "en": "described herself as the fair demoiselle",
+                "vi": "miêu tả mình, 1 thiếu nữ xinh đẹp"
+            }
+        }
+    ]
+}

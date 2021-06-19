@@ -1,0 +1,55 @@
+{
+    "word": "intersect",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈsekt/",
+            "/ˌɪn(t)ərˈsɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈsɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt ngang nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao",
+            "type": "verb",
+            "example": {
+                "en": "Walk along the street and turn left at the third intersection.",
+                "vi": "Đi dọc theo con phố và rẽ trái ở nút giao thứ ba."
+            }
+        },
+        {
+            "content": "chéo nhau",
+            "type": "",
+            "example": {
+                "en": "We inhabit a world of intersecting secrecies.",
+                "vi": "Chúng tôi sống ở 1 thế giới có nhiều bí mật đan chéo nhau."
+            }
+        },
+        {
+            "content": "cắt giao nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao nhau",
+            "type": "",
+            "example": {
+                "en": "I want you to go to the point where the circles intersect at the east.",
+                "vi": "Bố muốn con tới điểm nơi vòng tròn giao nhau ở phía Đông."
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "word": "write",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/rīt/",
+            "/raɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/rʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viết",
+            "type": "verb",
+            "example": {
+                "en": "I write you a long letter because I don't have time to write you a short one.",
+                "vi": "Tôi viết cho bạn một bức thư dài vì tôi không có thời gian để viết thư ngắn."
+            }
+        },
+        {
+            "content": "ghi",
+            "type": "verb",
+            "example": {
+                "en": "I'm gonna have to write you up for this.",
+                "vi": "Tôi sẽ phải ghi tên cậu vì chuyện này."
+            }
+        },
+        {
+            "content": "viết sách",
+            "type": "",
+            "example": {
+                "en": "You said you were game for writing a book about the history of this place.",
+                "vi": "Cậu nói có ý định viết sách về lịch sử của nơi này."
+            }
+        },
+        {
+            "content": "viết thư",
+            "type": "",
+            "example": {
+                "en": "I write you a long letter because I don't have time to write you a short one.",
+                "vi": "Tôi viết cho bạn một bức thư dài vì tôi không có thời gian để viết thư ngắn."
+            }
+        },
+        {
+            "content": "biên",
+            "type": "verb",
+            "example": {
+                "en": "Well, it's a challenge writing dialogue that's that dense, but it's also a lot of fun.",
+                "vi": "Thách thức cho biên kịch là thoại phải dầy đặc, đồng thời cũng rất nhiều niềm vui nữa."
+            }
+        },
+        {
+            "content": "soạn",
+            "type": "verb",
+            "example": {
+                "en": "She's a novelist and she writes for the papers.",
+                "vi": "Bà ấy là người viết tiểu thuyết và đang làm cho các tòa soạn."
+            }
+        },
+        {
+            "content": "thảo",
+            "type": "verb",
+            "example": {
+                "en": "I didn't want to trouble you, so I took the liberty of writing it out myself.",
+                "vi": "Tôi không muốn làm phiền ông, nên tôi đã mạn phép tự mình thảo ra nó."
+            }
+        },
+        {
+            "content": "đề",
+            "type": "verb",
+            "example": {
+                "en": "and it was 150 years ago, when writing about evolution,",
+                "vi": "và cách đây 150 năm, khi bàn về vấn đề tiến hóa"
+            }
+        },
+        {
+            "content": "biên soạn",
+            "type": "verb",
+            "example": {
+                "en": "How is the writing done for our publications?",
+                "vi": "Việc biên soạn và dịch các ấn phẩm được tiến hành như thế nào?"
+            }
+        },
+        {
+            "content": "giao dịch thư từ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thư ký",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lộ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thảo ra",
+            "type": "",
+            "example": {
+                "en": "I didn't want to trouble you, so I took the liberty of writing it out myself.",
+                "vi": "Tôi không muốn làm phiền ông, nên tôi đã mạn phép tự mình thảo ra nó."
+            }
+        },
+        {
+            "content": "viết vào",
+            "type": "",
+            "example": {
+                "en": "Please do not write in this library book.",
+                "vi": "Vui lòng không viết vào sách của thư viện."
+            }
+        },
+        {
+            "content": "viết văn",
+            "type": "",
+            "example": {
+                "en": "Then you mudt be trying to write too.",
+                "vi": "Vậy chắc cô cũng đang tập tành viết văn."
+            }
+        },
+        {
+            "content": "điền vào",
+            "type": "",
+            "example": {
+                "en": "cuddy's gonna want me to write it under \" reason for termination.",
+                "vi": "Không là Cuddy sẽ phải muốn tôi điền vào chỗ \" Lý do đuổi việc \"."
+            }
+        },
+        {
+            "content": "tả",
+            "type": "",
+            "example": {
+                "en": "Output specification when the underlying utility writes output data to its standard output",
+                "vi": "Đặc tả xuất khi tiện ích cơ bản đọc dữ liệu xuất từ thiết bị xuất chuẩn"
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "clothes",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klō(T͟H)z/",
+            "/kloʊ(ð)z/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kləʊ(ð)z/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quần áo",
+            "type": "noun plural",
+            "example": {
+                "en": "I will never buy clothes secondhand.",
+                "vi": "Tôi sẽ không bao giờ mua quần áo dùng rồi."
+            }
+        },
+        {
+            "content": "trang phục",
+            "type": "plural",
+            "example": {
+                "en": "We happen to know, there's a list of Catharina, the wife's clothes.",
+                "vi": "Chúng ta tình cờ biết được danh sách trang phục của người vợ Cathrina."
+            }
+        },
+        {
+            "content": "y phục",
+            "type": "noun",
+            "example": {
+                "en": "The sons of the king,+ and all those wearing foreign clothing.",
+                "vi": "Con cháu nhà vua+ và mọi kẻ mặc y phục dân ngoại."
+            }
+        },
+        {
+            "content": "cách ăn mặc",
+            "type": "plural",
+            "example": {
+                "en": "Therefore, give careful advance thought to the clothing you will wear.",
+                "vi": "Vì vậy, hãy suy xét cẩn thận cách ăn mặc của anh chị tại hội nghị."
+            }
+        },
+        {
+            "content": "quần áo bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo quần",
+            "type": "plural",
+            "example": {
+                "en": "These are clothes that Mary made by herself.",
+                "vi": "Đây là những áo quần mà Mary đã tự làm."
+            }
+        },
+        {
+            "content": "áo xống",
+            "type": "plural",
+            "example": {
+                "en": "Indeed, “her clothing is adorned with gold,” and “she will be brought to the king in richly woven garments.”",
+                "vi": "“Áo-xống nàng đều thêu-dệt bằng vàng” và “nàng sẽ mặc áo gấm ra mắt vua”."
+            }
+        },
+        {
+            "content": "quần aó",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

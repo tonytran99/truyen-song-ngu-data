@@ -1,0 +1,120 @@
+{
+    "word": "compliment",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämpləmənt/",
+            "/ˈkɑmpləmənt/",
+            "/ˈkämpləˌment/",
+            "/ˈkɑmpləˌmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmplɪm(ə)nt/",
+            "/ˈkɒmplɪmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời khen",
+            "type": "noun",
+            "example": {
+                "en": "The day after you insulted me in the cafeteria, my compliment bag was empty.",
+                "vi": "Sau ngày mà cậu xúc phạm tôi ở căng tin, túi lời khen của tôi trống rỗng."
+            }
+        },
+        {
+            "content": "ca tụng",
+            "type": "verb",
+            "example": {
+                "en": "Frank, you just missed some compliments about your horse.",
+                "vi": "Anh vừa bỏ lỡ những lời ca tụng tuyệt vời về con ngựa của anh."
+            }
+        },
+        {
+            "content": "khen ngợi",
+            "type": "verb",
+            "example": {
+                "en": "You know, that's about the nicest compliment I've ever got.",
+                "vi": "Cô biết không, đó là lời khen ngợi tử tế nhất mà tôi từng nghe được."
+            }
+        },
+        {
+            "content": "khen",
+            "type": "",
+            "example": {
+                "en": "The day after you insulted me in the cafeteria, my compliment bag was empty.",
+                "vi": "Sau ngày mà cậu xúc phạm tôi ở căng tin, túi lời khen của tôi trống rỗng."
+            }
+        },
+        {
+            "content": "ca ngợi",
+            "type": "verb",
+            "example": {
+                "en": "I want to compliment your body.",
+                "vi": "anh muốn ca ngợi thân hình của em."
+            }
+        },
+        {
+            "content": "lời ca tụng",
+            "type": "noun",
+            "example": {
+                "en": "Frank, you just missed some compliments about your horse.",
+                "vi": "Anh vừa bỏ lỡ những lời ca tụng tuyệt vời về con ngựa của anh."
+            }
+        },
+        {
+            "content": "lời chúc mừng",
+            "type": "",
+            "example": {
+                "en": "Compliments of the season from the management.",
+                "vi": "Ban quản lý gửi lời chúc mừng giáng sinh."
+            }
+        },
+        {
+            "content": "lời thăm hỏi",
+            "type": "",
+            "example": {
+                "en": "I send no compliments to your mother.",
+                "vi": "Tôi không muốn gửi lời thăm hỏi đến mẹ cô."
+            }
+        },
+        {
+            "content": "quà biếu",
+            "type": "",
+            "example": {
+                "en": "Compliments of Herr Mendl.",
+                "vi": "Quà biếu của ông Mendl."
+            }
+        },
+        {
+            "content": "quà tặng",
+            "type": "",
+            "example": {
+                "en": "We're compliments of the management.",
+                "vi": "Chúng tôi là quà tặng của quản lý."
+            }
+        },
+        {
+            "content": "tiền thưởng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tặng biếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "compliment",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

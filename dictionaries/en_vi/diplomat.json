@@ -1,0 +1,39 @@
+{
+    "word": "diplomat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdipləˌmat/",
+            "/ˈdɪpləˌmæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪpləmat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà ngoại giao",
+            "type": "noun",
+            "example": {
+                "en": "Is this just a game that diplomats and academics play?",
+                "vi": "Liệu đây có phải là trò chơi của các nhà ngoại giao và các học giả?"
+            }
+        },
+        {
+            "content": "家外交",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người khéo giao thiệp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

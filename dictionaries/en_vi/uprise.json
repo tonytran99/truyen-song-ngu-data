@@ -1,0 +1,50 @@
+{
+    "word": "uprise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈrīz/",
+            "/ˌəpˈraɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈrʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mọc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dâng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổi dậy",
+            "type": "",
+            "example": {
+                "en": "Caspian is not a victim of this savage uprising.",
+                "vi": "Caspian không phải là nạn nhân của cuộc nổi dậy này."
+            }
+        },
+        {
+            "content": "thức dậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứng dậy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

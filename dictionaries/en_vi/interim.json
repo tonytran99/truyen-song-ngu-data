@@ -1,0 +1,71 @@
+{
+    "word": "interim",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)ərəm/",
+            "/ˈɪn(t)ərəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnt(ə)rɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lâm thời",
+            "type": "adjective",
+            "example": {
+                "en": "Exactly how long is that interim?",
+                "vi": "Chính xác thì cái lâm thời đó kéo dài bao lâu?"
+            }
+        },
+        {
+            "content": "quá độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời gian quá độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong lúc đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạm quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạm thời",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps it's prudent to appoint an interim head of the bank.",
+                "vi": "Có lẽ nên thận trọng trong việc chỉ định một người chủ tạm thời cho ngân hàng."
+            }
+        },
+        {
+            "content": "thời gian chuyển tiếp",
+            "type": "noun",
+            "example": {
+                "en": "and in the interim, an architect will design two or eight",
+                "vi": "và trong khoảng thời gian chuyển tiếp, một kiến trúc sư sẽ thiết kế 2 hay 8"
+            }
+        },
+        {
+            "content": "thời gian tạm quyền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

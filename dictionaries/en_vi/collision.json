@@ -1,0 +1,55 @@
+{
+    "word": "collision",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈliZHən/",
+            "/kəˈlɪʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlɪʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự va chạm",
+            "type": "noun",
+            "example": {
+                "en": "It will calculate a discreet arrival location and avoid any materialization collisions.",
+                "vi": "Tôi tính toán địa điểm đến cẩn thận nhầm tránh bất cứ sự va chạm vật chất nào."
+            }
+        },
+        {
+            "content": "sự va",
+            "type": "",
+            "example": {
+                "en": "It will calculate a discreet arrival location and avoid any materialization collisions.",
+                "vi": "Tôi tính toán địa điểm đến cẩn thận nhầm tránh bất cứ sự va chạm vật chất nào."
+            }
+        },
+        {
+            "content": "sự xung đột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "va chạm",
+            "type": "",
+            "example": {
+                "en": "Little is known about the events leading up to the collision.",
+                "vi": "Sự việc dẫn đến va chạm ít được biết đến."
+            }
+        }
+    ]
+}

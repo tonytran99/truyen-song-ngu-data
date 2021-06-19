@@ -1,0 +1,48 @@
+{
+    "word": "commutative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämyəˌtādiv/",
+            "/ˈkɑmjəˌteɪdɪv/",
+            "/kəˈmyo͞odədiv/",
+            "/kəˈmjudədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmjuːtətɪv/",
+            "/ˈkɒmjʊˌtətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giao hoán",
+            "type": "verb",
+            "example": {
+                "en": "And don't forget about the commutative principle.",
+                "vi": "Và đừng quên tính chất giao hoán:"
+            }
+        },
+        {
+            "content": "thay thế",
+            "type": "",
+            "example": {
+                "en": "The only thing I can do for you is to commute your death sentence to deportation.",
+                "vi": "Điều duy nhất tôi có thể làm cho cô là thay thế bản án tử hình thành lưu đày."
+            }
+        },
+        {
+            "content": "thay đổi",
+            "type": "verb",
+            "example": {
+                "en": "I'll get a room though so I don't have to commute.",
+                "vi": "Tôi sẽ có một phòng mặc dù tôi không cần phải thay đổi."
+            }
+        }
+    ]
+}

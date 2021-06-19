@@ -1,0 +1,86 @@
+{
+    "word": "wane",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wān/",
+            "/weɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuyết",
+            "type": "adjective",
+            "example": {
+                "en": "He will never “set” like the sun or “wane” like the moon.",
+                "vi": "Ngài sẽ không bao giờ “lặn” như mặt trời hoặc “khuyết” như mặt trăng."
+            }
+        },
+        {
+            "content": "giảm",
+            "type": "verb",
+            "example": {
+                "en": "We knew this task would take the entire day, and already our energy and enthusiasm were waning.",
+                "vi": "Chúng tôi biết rằng công việc này sẽ mất cả ngày, và nghị lực cùng lòng nhiệt tình của chúng tôi đã giảm bớt rồi."
+            }
+        },
+        {
+            "content": "xế",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lúc hết thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lúc tàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lúc xế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy yếu",
+            "type": "",
+            "example": {
+                "en": "As Sauron's power grows, her strength wanes.",
+                "vi": "Quyền lực của Sauron càng tăng, sức lực của nó càng suy yếu."
+            }
+        },
+        {
+            "content": "sự khuyết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuần trăng khuyết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tàn tạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

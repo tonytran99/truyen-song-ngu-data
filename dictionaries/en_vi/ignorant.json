@@ -1,0 +1,85 @@
+{
+    "word": "ignorant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiɡnərənt/",
+            "/ˈɪɡnərənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪɡn(ə)r(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không biết",
+            "type": "",
+            "example": {
+                "en": "Can you really be so ignorant of what is happening in Germany?",
+                "vi": "Chuyện xảy ra ở Đức kinh hãi thế kia mà cậu không biết gì sao?"
+            }
+        },
+        {
+            "content": "dốt nát",
+            "type": "adjective",
+            "example": {
+                "en": "You think she prefers ignorant little creeps like you?",
+                "vi": "Anh tưởng cổ thích những thằng nhóc dốt nát như anh sao?"
+            }
+        },
+        {
+            "content": "ngu dốt",
+            "type": "adjective",
+            "example": {
+                "en": "They don't even know you because they're too ignorant to try.",
+                "vi": "Chúng còn không hiểu con vì chúng quá ngu dốt để thử làm việc đó."
+            }
+        },
+        {
+            "content": "dốt",
+            "type": "adjective",
+            "example": {
+                "en": "They don't even know you because they're too ignorant to try.",
+                "vi": "Chúng còn không hiểu con vì chúng quá ngu dốt để thử làm việc đó."
+            }
+        },
+        {
+            "content": "không để ý",
+            "type": "",
+            "example": {
+                "en": "Most people ignore them or are frightened of them.",
+                "vi": "Hầu hết mọi người không để ý hoặc sợ chúng."
+            }
+        },
+        {
+            "content": "thờ ơ",
+            "type": "adjective",
+            "example": {
+                "en": "Alternatively, we can continue to really ignore the climate change problem.",
+                "vi": "Hoặc là ta cứ tiếp tục thờ ơ với nó."
+            }
+        },
+        {
+            "content": "dốt đặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gà mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mê muội",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

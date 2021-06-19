@@ -1,0 +1,35 @@
+{
+    "word": "backer",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakər/",
+            "/ˈbækər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người ủng hộ",
+            "type": "",
+            "example": {
+                "en": "I don't know Limbani, his backers or what for.",
+                "vi": "Tôi không biết Limbani, những người ủng hộ ổng hay lý lẽ của ổng."
+            }
+        },
+        {
+            "content": "người giúp đỡ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

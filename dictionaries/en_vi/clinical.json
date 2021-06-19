@@ -1,0 +1,34 @@
+{
+    "word": "clinical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklinək(ə)l/",
+            "/ˈklɪnək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɪnɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lâm sàng",
+            "type": "adjective",
+            "example": {
+                "en": "We'd like to take this kind of thinking into the clinic.",
+                "vi": "Chúng tôi muốn đưa kiểu suy nghĩ này vào lâm sàng."
+            }
+        },
+        {
+            "content": "lãnh đạm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

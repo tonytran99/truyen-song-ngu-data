@@ -1,0 +1,46 @@
+{
+    "word": "determinate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtərmənət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtəːmɪnət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xác định",
+            "type": "adjective verb",
+            "example": {
+                "en": "This also makes his age impossible to determine.",
+                "vi": "Nó cũng làm cho không thể xác định được tuổi của anh ta."
+            }
+        },
+        {
+            "content": "đã quyết định",
+            "type": "",
+            "example": {
+                "en": "The defendant herself is determined to keep this information secret.",
+                "vi": "Chính bị cáo đã quyết định giữ bí mật thông tin này."
+            }
+        },
+        {
+            "content": "định rõ",
+            "type": "",
+            "example": {
+                "en": "My task was to determine what was true.",
+                "vi": "Nhiệm vụ của tôi là phải định rõ sự thật là gì."
+            }
+        }
+    ]
+}

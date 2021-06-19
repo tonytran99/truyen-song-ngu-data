@@ -1,0 +1,40 @@
+{
+    "word": "financially",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈnan(t)SH(ə)lē/",
+            "/fəˈnæn(t)ʃ(ə)li/",
+            "/fīˈnan(t)SH(ə)lē/",
+            "/faɪˈnæn(t)ʃ(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌɪˈnanʃ(ə)li/",
+            "/fɪˈnanʃ(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về mặt tài chính",
+            "type": "",
+            "example": {
+                "en": "He relies on his wife financially.",
+                "vi": "Anh ấy phụ thuộc vợ về mặt tài chính."
+            }
+        },
+        {
+            "content": "về phương diện tài chính",
+            "type": "",
+            "example": {
+                "en": "With 5,000 students in 2016, this model is financially sustainable.",
+                "vi": "Với 5.000 sinh viên vào năm 2016, mô hình này là bền vững về phương diện tài chính."
+            }
+        }
+    ]
+}

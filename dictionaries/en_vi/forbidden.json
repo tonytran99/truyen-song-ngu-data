@@ -1,0 +1,46 @@
+{
+    "word": "forbidden",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərˈbidn/",
+            "/fərˈbɪdn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈbɪd(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấm",
+            "type": "determiner",
+            "example": {
+                "en": "Because they ate the forbidden fruit, their Father dismissed them from their beautiful home.",
+                "vi": "Bởi vì đã ăn trái cấm, Cha họ đuổi họ ra khỏi chỗ ở đẹp đẽ."
+            }
+        },
+        {
+            "content": "ngăn cấm",
+            "type": "",
+            "example": {
+                "en": "I'm a Kingsguard, forbidden by oath to carry on the family line.",
+                "vi": "Con là Vệ Vương, bị lời thề ngăn cấm lập gia đình."
+            }
+        },
+        {
+            "content": "bị cấm",
+            "type": "adjective",
+            "example": {
+                "en": "Its sale was forbidden, and the existing copies were destroyed.",
+                "vi": "Kinh Thánh đó bị cấm bán và những bản nào đang lưu hành đều bị thiêu hủy."
+            }
+        }
+    ]
+}

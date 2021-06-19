@@ -1,0 +1,65 @@
+{
+    "word": "acceleration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/akˌseləˈrāSH(ə)n/",
+            "/ækˌsɛləˈreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əksɛləˈreɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gia tốc",
+            "type": "noun",
+            "example": {
+                "en": "Why would Wells want the particle accelerator to work again?",
+                "vi": "Tại sao Wells lại cần máy gia tốc hạt hoạt động một lần nữa?"
+            }
+        },
+        {
+            "content": "sự giục gấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm nhanh thêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thúc mau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tăng tốc",
+            "type": "",
+            "example": {
+                "en": "How are we personally reacting to that acceleration?",
+                "vi": "Mỗi chúng ta phản ứng thế nào trước sự tăng tốc đó?"
+            }
+        },
+        {
+            "content": "tăng tốc",
+            "type": "",
+            "example": {
+                "en": "The sodium in her system would have accelerated the drug's effect.",
+                "vi": "Natri trong cơ thể bà ấy sẽ làm tăng tốc tác dụng của thuốc."
+            }
+        },
+        {
+            "content": "độ gia tốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

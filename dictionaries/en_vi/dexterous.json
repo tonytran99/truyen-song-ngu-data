@@ -1,0 +1,55 @@
+{
+    "word": "dexterous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdekst(ə)rəs/",
+            "/ˈdɛkst(ə)rəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛkst(ə)rəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khéo",
+            "type": "adjective",
+            "example": {
+                "en": "Michael would have to choose between dexterity or warmth.",
+                "vi": "Michael sẽ phải chọn giữa sự khéo léo hay ấm áp."
+            }
+        },
+        {
+            "content": "khéo léo",
+            "type": "adjective",
+            "example": {
+                "en": "Michael would have to choose between dexterity or warmth.",
+                "vi": "Michael sẽ phải chọn giữa sự khéo léo hay ấm áp."
+            }
+        },
+        {
+            "content": "có kỹ xảo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khéo tay",
+            "type": "adjective",
+            "example": {
+                "en": "I wonder how he'd score on a Hopkins manual dexterity test.",
+                "vi": "Tôi tự hỏi nó sẽ như nào trên bài kiểm tra độ khéo tay Hopkins."
+            }
+        },
+        {
+            "content": "thuận dùng tay phải",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

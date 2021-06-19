@@ -1,0 +1,50 @@
+{
+    "word": "en",
+    "type": [
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/en/",
+            "/ɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "en",
+            "type": "",
+            "example": {
+                "en": "The Senate will be most pleased to greet news of Sinuessa en Valle's liberation.",
+                "vi": "Viện Nguyên lão sẽ rất mừng khi đón nhận tin giải phóng Sinuessa en Valle."
+            }
+        },
+        {
+            "content": "nờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "en-nờ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "n",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "N",
+            "type": "Letter",
+            "example": {}
+        }
+    ]
+}

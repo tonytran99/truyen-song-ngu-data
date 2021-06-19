@@ -1,0 +1,78 @@
+{
+    "word": "dynamic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈnamik/",
+            "/daɪˈnæmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈnamɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "năng động",
+            "type": "adjective",
+            "example": {
+                "en": "And they're sort of two reciprocal and dynamically interacting systems.",
+                "vi": "Và chúng dường như hai hệ thống tương tác hỗ qua lại và năng động."
+            }
+        },
+        {
+            "content": "động lực",
+            "type": "noun",
+            "example": {
+                "en": "Applied mathematics and particle dynamics for physics majors.",
+                "vi": "Dạy toán ứng dụng và động lực hạt cho chuyên ngành vật lý."
+            }
+        },
+        {
+            "content": "cơ động",
+            "type": "adjective",
+            "example": {
+                "en": "in a very dynamic way as you move across it,",
+                "vi": "một cách rất cơ động như cách bạn di chuyển qua nó,"
+            }
+        },
+        {
+            "content": "chức năng",
+            "type": "adjective noun",
+            "example": {
+                "en": "All right, thus form and function interact dynamically and reciprocally.",
+                "vi": "Vậy đấy, dạng và chức năng tương tác động và tương hỗ."
+            }
+        },
+        {
+            "content": "năng nổ",
+            "type": "",
+            "example": {
+                "en": "A dynamic corps, commander.",
+                "vi": "Một đơn vị năng nổ, thưa chỉ huy."
+            }
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {
+                "en": "His was a dynamic voice in a paralyzed body.",
+                "vi": "Anh là một tiếng nói sôi nổi bên trong một cơ thể bại liệt."
+            }
+        },
+        {
+            "content": "động lực học",
+            "type": "",
+            "example": {
+                "en": "I need to look through to the governing dynamics.",
+                "vi": "Tôi cần phải nhìn xuyên suốt... để làm chủ động lực học."
+            }
+        }
+    ]
+}

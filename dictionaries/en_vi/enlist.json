@@ -1,0 +1,77 @@
+{
+    "word": "enlist",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈlist/",
+            "/ɪnˈlɪst/",
+            "/enˈlist/",
+            "/ɛnˈlɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈlɪst/",
+            "/ɛnˈlɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tòng quân",
+            "type": "verb",
+            "example": {
+                "en": "I enlisted in my father's place, just to fulfill my filial duty",
+                "vi": "Ta thay cha tòng quân, chỉ làm tròn đạo hiếu."
+            }
+        },
+        {
+            "content": "nhập ngũ",
+            "type": "verb",
+            "example": {
+                "en": "Now he enlisted in the military right after that.",
+                "vi": "Ngay sau vụ đó hắn đã xin nhập ngũ."
+            }
+        },
+        {
+            "content": "tuyển",
+            "type": "verb",
+            "example": {
+                "en": "They made sure that you didn't get pregnant during your enlistment.",
+                "vi": "Họ đảm bảo tôi không mang thai trong quá trình tuyển dụng."
+            }
+        },
+        {
+            "content": "chiêu mộ",
+            "type": "verb",
+            "example": {
+                "en": "Unless you enlist a war engineer to help you mount an offensive.",
+                "vi": "Trừ khi ngài chiêu mộ 1 kĩ sư chiến tranh giúp ngài trang bị cho cuộc công kích."
+            }
+        },
+        {
+            "content": "giành được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh thủ",
+            "type": "",
+            "example": {
+                "en": "Enlist the children in their own upbringing.",
+                "vi": "Tranh thủ sự tự giáo dục của bọn trẻ."
+            }
+        },
+        {
+            "content": "đầu quân",
+            "type": "",
+            "example": {
+                "en": "as long as more and more of us enlist ourselves in their cause.",
+                "vi": "miễn là ngày càng nhiều người chúng ta đầu quân vào chiến dịch của họ."
+            }
+        }
+    ]
+}

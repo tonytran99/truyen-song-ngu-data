@@ -1,0 +1,50 @@
+{
+    "word": "corrosion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrōZHən/",
+            "/kəˈroʊʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrəʊʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự gặm mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn mòn",
+            "type": "",
+            "example": {
+                "en": "It's turning green, like some sort of corrosion.",
+                "vi": "Nó có màu xanh lá cây, giống như vài thứ bị ăn mòn vậy."
+            }
+        },
+        {
+            "content": "Sự ăn mòn",
+            "type": "",
+            "example": {
+                "en": "This corrosion has never happened before.",
+                "vi": "Sự ăn mòn chưa bao giờ xảy ra cả."
+            }
+        },
+        {
+            "content": "sự ăn mòn",
+            "type": "",
+            "example": {
+                "en": "Traces of corrosive on the edge.",
+                "vi": "Dấu vết của sự ăn mòn trên các cạnh."
+            }
+        }
+    ]
+}

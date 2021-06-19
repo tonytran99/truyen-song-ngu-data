@@ -1,0 +1,43 @@
+{
+    "word": "dental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈden(t)l/",
+            "/ˈdɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "răng",
+            "type": "noun",
+            "example": {
+                "en": "I'm still trying to pay for this dental work.",
+                "vi": "Tôi vẫn còn đang phải trả tiền cho việc chữa răng đấy nhé."
+            }
+        },
+        {
+            "content": "nha khoa",
+            "type": "noun",
+            "example": {
+                "en": "I've got garcia checking dental Records against other cases.",
+                "vi": "Tôi sẽ cho Garcia kiểm tra hồ sơ nha khoa với các vụ khác."
+            }
+        },
+        {
+            "content": "âm răng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

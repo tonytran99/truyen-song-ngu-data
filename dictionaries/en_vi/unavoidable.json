@@ -1,0 +1,58 @@
+{
+    "word": "unavoidable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈvoidəb(ə)l/",
+            "/ˌənəˈvɔɪdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnəˈvɔɪdəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thể tránh được",
+            "type": "adjective",
+            "example": {
+                "en": "In here, I have produce and boxes that are unavoidable.",
+                "vi": "Tại đây chúng tôi nấu ăn và các loại hộp là thứ mà không thể tránh được."
+            }
+        },
+        {
+            "content": "bất đắc dĩ",
+            "type": "adjective",
+            "example": {
+                "en": "Of course, secular work and other unavoidable situations may temporarily force you out of each other’s company.",
+                "vi": "Dĩ nhiên, việc làm và những hoàn cảnh bất đắc dĩ có thể khiến vợ chồng bạn có ít thời gian bên nhau."
+            }
+        },
+        {
+            "content": "tất yếu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thể tránh khỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tránh khỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tất nhiên",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

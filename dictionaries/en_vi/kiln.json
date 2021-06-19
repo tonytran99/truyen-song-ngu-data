@@ -1,0 +1,38 @@
+{
+    "word": "kiln",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kiln/",
+            "/kɪln/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪln/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò",
+            "type": "noun",
+            "example": {
+                "en": "There was dense smoke rising from the land like the dense smoke of a kiln!",
+                "vi": "Kìa, có khói bốc lên từ vùng đó, dày đặc như khói của lò nung!"
+            }
+        },
+        {
+            "content": "lò nung",
+            "type": "noun",
+            "example": {
+                "en": "There was dense smoke rising from the land like the dense smoke of a kiln!",
+                "vi": "Kìa, có khói bốc lên từ vùng đó, dày đặc như khói của lò nung!"
+            }
+        }
+    ]
+}

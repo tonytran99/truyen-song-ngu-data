@@ -1,0 +1,99 @@
+{
+    "word": "flip",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flip/",
+            "/flɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "búng",
+            "type": "verb",
+            "example": {
+                "en": "Joey D was just the first to flip.",
+                "vi": "Joey D. chỉ là kẻ đầu tiên bị búng thôi."
+            }
+        },
+        {
+            "content": "lật",
+            "type": "",
+            "example": {
+                "en": "You're gonna need to flip it a couple of times, like, okay?",
+                "vi": "Các ngươi phải lật nó lại vài lần đấy, như thế này, được chưa?"
+            }
+        },
+        {
+            "content": "quất",
+            "type": "verb noun",
+            "example": {
+                "en": "Stop flipping your ponytail in my face!",
+                "vi": "Đừng có quất đuôi gà vào mặt tôi nữa!"
+            }
+        },
+        {
+            "content": "vụt",
+            "type": "",
+            "example": {
+                "en": "Just one flip of a switch away.",
+                "vi": "Chỉ cần tắt vụt một cái."
+            }
+        },
+        {
+            "content": "Flíp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bật bật ngón tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyến bay ngắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái búng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái vụt nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lật ngửa",
+            "type": "",
+            "example": {
+                "en": "It's the one that was tails-up. You flipped it to heads.",
+                "vi": "Đây chính là đồng xu em đã lật ngửa mặt của nó"
+            }
+        },
+        {
+            "content": "quất nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh nhẹ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "word": "bum",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mông đít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tồi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bòn rút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạng bét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ lười biếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ ăn bám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm biếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phía sau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô công rồi nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô giá trị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xin xỏ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn bám",
+            "type": "",
+            "example": {
+                "en": "Please stop bumming cigarettes.",
+                "vi": "Dừng ngay cái trò ăn bám thuốc lá đó đi nhé."
+            }
+        },
+        {
+            "content": "đằng sau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dot chay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "utopian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞oˈtōpēən/",
+            "/juˈtoʊpiən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːˈtəʊpɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không tưởng",
+            "type": "noun",
+            "example": {
+                "en": "So I think we should shatter some of our utopian assumptions",
+                "vi": "Vì vậy chúng ta nên phá vỡ những giả định không tưởng về thế giới hoàn mỹ"
+            }
+        },
+        {
+            "content": "lý tưởng",
+            "type": "noun",
+            "example": {
+                "en": "but I watched as the world outside of our utopian bubble",
+                "vi": "nhưng tôi nhìn thấy thế giới bên ngoài cái bong bóng lý tưởng của chúng tôi"
+            }
+        },
+        {
+            "content": "người không tưởng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

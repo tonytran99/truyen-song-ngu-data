@@ -1,0 +1,71 @@
+{
+    "word": "flit",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flit/",
+            "/flɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bay nhẹ nhàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi nhẹ nhàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bay chuyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyển chỗ ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "di chuyển",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "di cư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dọn nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụt qua",
+            "type": "",
+            "example": {
+                "en": "your thoughts and words flit and dart,",
+                "vi": "suy nghĩ và lời nói của bạn chỉ thoáng vụt qua,"
+            }
+        },
+        {
+            "content": "đổi chỗ ở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

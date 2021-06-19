@@ -1,0 +1,37 @@
+{
+    "word": "unusually",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈyo͞oZH(o͞o)əlē/",
+            "/ˌənˈjuʒ(u)əli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈjuːʒ(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiếm",
+            "type": "",
+            "example": {
+                "en": "Nevertheless, being disappointed by a person we trust is not an unusual experience.",
+                "vi": "Tuy nhiên, thất vọng về một người mình tin cậy không phải là chuyện hiếm xảy ra."
+            }
+        },
+        {
+            "content": "khác thường",
+            "type": "",
+            "example": {
+                "en": "Valencia is famous for its unusual architecture.",
+                "vi": "Valencia nỗi tiếng về những công trình kiến trúc khác thường của nó."
+            }
+        }
+    ]
+}

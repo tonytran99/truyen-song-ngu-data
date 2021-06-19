@@ -1,0 +1,40 @@
+{
+    "word": "whiz",
+    "type": [
+        "verb",
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wiz/",
+            "/(h)wɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rít",
+            "type": "",
+            "example": {
+                "en": "And as they whiz by you,",
+                "vi": "Và bởi chúng rít lên bên cạnh bạn,"
+            }
+        },
+        {
+            "content": "tiếng rít",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiếng vèo",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

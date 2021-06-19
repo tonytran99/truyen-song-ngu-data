@@ -1,0 +1,42 @@
+{
+    "word": "femininity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌfeməˈninədē/",
+            "/ˌfɛməˈnɪnədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌfɛmɪˈnɪnɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "feminineness",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nữ tính",
+            "type": "adjective",
+            "example": {
+                "en": "Be a masculine follow or a feminine lead.",
+                "vi": "Hãy cứ là người theo nam tính hay người dẫn nữ tính."
+            }
+        },
+        {
+            "content": "đàn bà",
+            "type": "noun",
+            "example": {
+                "en": "This morbid hatefulness for the feminine is caused by my son's timidity.",
+                "vi": "Bệnh ghét đàn bà của ông không dính dáng gì tới tính nhút nhát của con trai tôi."
+            }
+        }
+    ]
+}

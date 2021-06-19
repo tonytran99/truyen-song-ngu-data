@@ -1,0 +1,38 @@
+{
+    "word": "insure",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈSHo͝or/",
+            "/ɪnˈʃʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈʃɔː/",
+            "/ɪnˈʃʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảo hiểm",
+            "type": "verb",
+            "example": {
+                "en": "We're talking about a guy who was insured by my client.",
+                "vi": "Nói về người được bảo hiểm bởi khách hàng tôi."
+            }
+        },
+        {
+            "content": "đảm bảo",
+            "type": "",
+            "example": {
+                "en": "I just thought that maybe, you know, it was time for the insurance baby.",
+                "vi": "Em chỉ nghĩ là anh biết đấy, đây là lúc thích hợp để sinh một đứa đảm bảo."
+            }
+        }
+    ]
+}

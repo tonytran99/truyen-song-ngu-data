@@ -1,0 +1,70 @@
+{
+    "word": "fiend",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fēnd/",
+            "/find/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fiːnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ma quỷ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quỷ",
+            "type": "noun",
+            "example": {
+                "en": "The same fiend that brought down the arena in Capua?",
+                "vi": "Cũng chính là con quỷ đã đánh sụp đấu trườ ng của Capua?"
+            }
+        },
+        {
+            "content": "kẻ hung ác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ tàn ác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nghiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quỷ sứ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ác quỷ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ác ôn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

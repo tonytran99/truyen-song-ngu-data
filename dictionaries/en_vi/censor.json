@@ -1,0 +1,53 @@
+{
+    "word": "censor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsensər/",
+            "/ˈsɛnsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛnsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiểm duyệt",
+            "type": "verb",
+            "example": {
+                "en": "A censor does only what his work is.",
+                "vi": "Một nhân viên kiểm duyệt chỉ làm nhiệm vụ của mình."
+            }
+        },
+        {
+            "content": "nhân viên kiểm duyệt",
+            "type": "",
+            "example": {
+                "en": "A censor does only what his work is.",
+                "vi": "Một nhân viên kiểm duyệt chỉ làm nhiệm vụ của mình."
+            }
+        },
+        {
+            "content": "giám thị",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làm thiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người kiểm duyệt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

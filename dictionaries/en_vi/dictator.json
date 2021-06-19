@@ -1,0 +1,50 @@
+{
+    "word": "dictator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdikˌtādər/",
+            "/ˈdɪkˌteɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪkˈteɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ độc tài",
+            "type": "noun",
+            "example": {
+                "en": "In fact, I don't want to be a dictator anymore!",
+                "vi": "Thật ra, tôi không muốn làm kẻ độc tài nữa."
+            }
+        },
+        {
+            "content": "người đọc chính tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nhà độc tài",
+            "type": "",
+            "example": {
+                "en": "The dictator, Ferdinand Marcos, had imposed martial law.",
+                "vi": "Nhà độc tài, Ferdinand Marcos, chịu án luật quân sự."
+            }
+        },
+        {
+            "content": "nhà độc tài",
+            "type": "noun",
+            "example": {
+                "en": "Hitler is a megalomaniac who declared himself dictator.",
+                "vi": "Hitler là một tên hoang tưởng tự nhận mình là một nhà độc tài."
+            }
+        }
+    ]
+}

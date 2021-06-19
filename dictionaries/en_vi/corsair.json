@@ -1,0 +1,40 @@
+{
+    "word": "corsair",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkôrˈser/",
+            "/ˌkɔrˈsɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔːˈsɛː/",
+            "/ˈkɔːsɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hải tặc",
+            "type": "noun",
+            "example": {
+                "en": "A fleet of Corsair ships sails from the south.",
+                "vi": "Một đội thuyền hải tặc đã khởi hành từ hướng Nam."
+            }
+        },
+        {
+            "content": "tàu cướp biển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tên cướp biển",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

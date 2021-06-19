@@ -1,0 +1,43 @@
+{
+    "word": "chow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHou/",
+            "/tʃaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống chó su",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {
+                "en": "Boyd, get some chow and do what you can about the mechanical issues.",
+                "vi": "Boyd, lấy ít thức ăn và xử lý các vấn đề máy móc."
+            }
+        },
+        {
+            "content": "đồ ăn",
+            "type": "noun",
+            "example": {
+                "en": "Hey, do you guys get any of that detainee chow?",
+                "vi": "Cậu thử đồ ăn của đối tượng chưa?"
+            }
+        }
+    ]
+}

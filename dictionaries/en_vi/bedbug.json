@@ -1,0 +1,37 @@
+{
+    "word": "bedbug",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbedˌbəɡ/",
+            "/ˈbɛdˌbəɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɛdbʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rệp",
+            "type": "noun",
+            "example": {
+                "en": "Or fought off an army of bedbugs in one of those prison cells?",
+                "vi": "Hay chiến đấu với cả một sư đoàn rệp trong một cái xà lim nhà tù?"
+            }
+        },
+        {
+            "content": "con rệp",
+            "type": "",
+            "example": {
+                "en": "After we lit the oil lamp, we saw that the bed was covered with hundreds of bedbugs.",
+                "vi": "Thắp đèn dầu lên, chúng tôi thấy trên giường có hàng trăm con rệp."
+            }
+        }
+    ]
+}

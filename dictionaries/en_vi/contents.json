@@ -1,0 +1,38 @@
+{
+    "word": "contents",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "nội dung",
+            "type": "",
+            "example": {
+                "en": "But in order for us to do that, we need content.",
+                "vi": "Tuy nhiên, để chúng ta làm việc đó, chúng ta cần nội dung."
+            }
+        },
+        {
+            "content": "內容",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mục lục",
+            "type": "noun",
+            "example": {
+                "en": "This book explains this subject along with 18 others listed here in the contents.",
+                "vi": "Sách này giải thích đề tài này và 18 đề tài khác ghi trong bảng mục lục đây."
+            }
+        },
+        {
+            "content": "dung lượng",
+            "type": "",
+            "example": {
+                "en": "and content sharing across these sites around the planet.",
+                "vi": "và chia sẻ dung lượng thông qua các trang trên toàn cầu."
+            }
+        }
+    ]
+}

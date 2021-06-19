@@ -1,0 +1,48 @@
+{
+    "word": "endemic",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/enˈdemik/",
+            "/ɛnˈdɛmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛnˈdɛmɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh địa phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặc hữu",
+            "type": "adjective",
+            "example": {
+                "en": "It's a plant which is rare, which is endemic to Mauritius.",
+                "vi": "Đó là một loài cây quý hiếm, là loài đặc hữu đối với Mauritius."
+            }
+        },
+        {
+            "content": "địa phương",
+            "type": "noun",
+            "example": {
+                "en": "In the northeastern United States, Lyme disease is endemic—it has been present there for a long time.",
+                "vi": "Ở đông bắc Hoa Kỳ, bệnh Lyme đã có ở địa phương từ lâu."
+            }
+        },
+        {
+            "content": "Endemia",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

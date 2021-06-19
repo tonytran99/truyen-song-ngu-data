@@ -1,0 +1,288 @@
+{
+    "word": "dead",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ded/",
+            "/dɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chết",
+            "type": "adjective, Adjectival; Verbal",
+            "example": {
+                "en": "Tom may not be dead.",
+                "vi": "Có lẽ Tom chưa chết."
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "They are completely dead, but not without hope.",
+                "vi": "Họ hoàn toàn chết, nhưng không phải vô vọng."
+            }
+        },
+        {
+            "content": "tắt",
+            "type": "adjective verb adverb",
+            "example": {
+                "en": "Shooter... male, down, dead.",
+                "vi": "Kẻ nổ súng, đàn ông, tắt thở, chết."
+            }
+        },
+        {
+            "content": "héo",
+            "type": "adjective",
+            "example": {
+                "en": "Look, there have been dead branches all over as we go along.",
+                "vi": "Trên đường đi lên, chỉ thấy cây khô héo"
+            }
+        },
+        {
+            "content": "xỉn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giữa",
+            "type": "noun",
+            "example": {
+                "en": "Take'em back, they're just a couple of dead blokes in the cemetery.",
+                "vi": "Còn đem về, chúng chỉ là hai nấm mồ giữa nghĩa trang."
+            }
+        },
+        {
+            "content": "đục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuất",
+            "type": "adjective",
+            "example": {
+                "en": "What hope can we have for the dead?",
+                "vi": "Có hy vọng nào cho người đã khuất?"
+            }
+        },
+        {
+            "content": "tử vong",
+            "type": "adjective",
+            "example": {
+                "en": "By some estimates, it left about 10 million dead and 20 million mutilated.",
+                "vi": "Người ta ước lượng có khoảng 10 triệu người tử vong và 20 triệu người bị thương tật."
+            }
+        },
+        {
+            "content": "chai điếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hằn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hết hiệu lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không biết đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có thế hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không dùng được nữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hoạt động",
+            "type": "",
+            "example": {
+                "en": "So she's been a dead agent ever since?",
+                "vi": "Nghĩa là kể từ đó, cô ấy là điệp viên không hoạt động?"
+            }
+        },
+        {
+            "content": "không màng đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không sinh sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không vang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngay vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những người đã chết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những người đã khuất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rồi đời",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sững lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thình lình",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thẳng vào",
+            "type": "",
+            "example": {
+                "en": "There's a dead body there, we have to call Luke.",
+                "vi": "Hay để tôi bị một cây kiếm chĩa thẳng vào đầu và phát hiện ra cha tôi là người nguy hiểm nhất thế giới?"
+            }
+        },
+        {
+            "content": "tê bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tê cóng",
+            "type": "",
+            "example": {
+                "en": "Eight sedentary hours later, Barry's only reward is a dead leg.",
+                "vi": "8 giờ yên tĩnh sau, phần thưởng duy nhất dành cho Barry là cái chân tê cóng."
+            }
+        },
+        {
+            "content": "tê liệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắt ngấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác chết",
+            "type": "",
+            "example": {
+                "en": "Using a dead body to file a progress report is original.",
+                "vi": "Việc dùng một xác chết để chuyển hồ sơ báo cáo tiến trình là độc đáo."
+            }
+        },
+        {
+            "content": "đã chết",
+            "type": "adjective",
+            "example": {
+                "en": "Speak well of the dead.",
+                "vi": "Hãy nói tốt cho người đã chết."
+            }
+        },
+        {
+            "content": "đúng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tử",
+            "type": "verb noun",
+            "example": {
+                "en": "Darken Rahl has the power to speak to the dead.",
+                "vi": "Darken Rahl có khả năng nói chuyện với tử thần."
+            }
+        },
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {
+                "en": "I guess the battery must be dead.",
+                "vi": "Tôi đoán cái pin phải bị hỏng."
+            }
+        },
+        {
+            "content": "phật",
+            "type": "noun",
+            "example": {
+                "en": "\" Remorse can make a dead tree bloom. \"",
+                "vi": "Phật kinh có nói, tâm ý hối hận, có thể làm cây khô ra hoa."
+            }
+        },
+        {
+            "content": "佛",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chết rồi",
+            "type": "",
+            "example": {
+                "en": "We should be dead by now.",
+                "vi": "Đáng lẽ chúng ta đã chết rồi."
+            }
+        },
+        {
+            "content": "cái chết",
+            "type": "noun",
+            "example": {
+                "en": "He also raises the dead and makes the lame walk on water.",
+                "vi": "Họ còn có thể cứu sống khỏi cái chết và người què đi trên nước."
+            }
+        },
+        {
+            "content": "ngöôøi cheát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chết",
+            "type": "noun",
+            "example": {
+                "en": "Jimmy Tudeski may be dead but he ain't exactly dead.",
+                "vi": "Jimmy Tudeski có thể đã chết, nhưng hắn không thực sự chết, hiểu chớ?"
+            }
+        }
+    ]
+}

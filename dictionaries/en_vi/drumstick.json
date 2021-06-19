@@ -1,0 +1,44 @@
+{
+    "word": "drumstick",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrəmˌstik/",
+            "/ˈdrəmˌstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌmstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùi trống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cẳng gà",
+            "type": "",
+            "example": {
+                "en": "Good thing it wasn't the drumstick.",
+                "vi": "Cũng may đó không phải là cái cẳng gà."
+            }
+        },
+        {
+            "content": "cẳng gà vịt quay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cẳng gà vịt rán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

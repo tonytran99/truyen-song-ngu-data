@@ -1,0 +1,378 @@
+{
+    "word": "fire",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)r/",
+            "/ˈfaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lửa",
+            "type": "noun",
+            "example": {
+                "en": "The Beatles set the world on fire with their incredible music.",
+                "vi": "The Beatles nhấn chìm cả thế giới trong biển lửa với thứ âm nhạc tuyệt vời của họ."
+            }
+        },
+        {
+            "content": "hoả",
+            "type": "noun",
+            "example": {
+                "en": "I'm told that your prior foster home was destroyed by a fire.",
+                "vi": "Nghe nói là trại trẻ mồ côi trước đây của cháu đã bị hoả hoạn thiêu rụi."
+            }
+        },
+        {
+            "content": "hỏa",
+            "type": "noun",
+            "example": {
+                "en": "Melissa completely lost her head when the house caught on fire. She didn't know what to do.",
+                "vi": "Melissa hoàn toàn mất bình tĩnh khi ngôi nhà phát hỏa. Cô ấy không biết nên làm gì."
+            }
+        },
+        {
+            "content": "vụ cháy",
+            "type": "",
+            "example": {
+                "en": "Yeah, Connie's still shaken up about the car fire.",
+                "vi": "Vâng, Connie vẫn còn run sợ vụ cháy xe."
+            }
+        },
+        {
+            "content": "bắn",
+            "type": "verb",
+            "example": {
+                "en": "There was a guy up on the stacks laying down cover fire with a machine gun.",
+                "vi": "Rồi ở trên gác xép có người dùng sùng máy bắn liên tục."
+            }
+        },
+        {
+            "content": "hỏa lực",
+            "type": "noun",
+            "example": {
+                "en": "Are your troops prepared for that kind of fire power?",
+                "vi": "Người của anh đã chuẩn bị để sử dụng với loại hỏa lực ấy chưa?"
+            }
+        },
+        {
+            "content": "hỏa hoạn",
+            "type": "noun",
+            "example": {
+                "en": "You hear about that warehouse fire a few days back?",
+                "vi": "Các anh biết vụ hỏa hoạn ở một nhà kho mấy ngày trước không?"
+            }
+        },
+        {
+            "content": "火",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hoả hoạn",
+            "type": "",
+            "example": {
+                "en": "Many believed it was destroyed in a catastrophic fire.",
+                "vi": "Nhiều người tin rằng nó đã bị phá huỷ bởi một trận hoả hoạn tàn khốc."
+            }
+        },
+        {
+            "content": "cháy",
+            "type": "noun",
+            "example": {
+                "en": "Last night there was a fire in the neighborhood.",
+                "vi": "Có cháy ở bên hàng xóm nhà mình tối qua."
+            }
+        },
+        {
+            "content": "đốt",
+            "type": "verb",
+            "example": {
+                "en": "Who started the fire?",
+                "vi": "Ai đã đốt lửa?"
+            }
+        },
+        {
+            "content": "nung",
+            "type": "verb",
+            "example": {
+                "en": "Everyday pots like this cup take eight to 10 hours to fire.",
+                "vi": "Những sản phẩm thông dụng như chiếc cốc này cần được nung trong 8 đến 10 giờ."
+            }
+        },
+        {
+            "content": "vụ hỏa hoạn",
+            "type": "noun",
+            "example": {
+                "en": "You hear about that warehouse fire a few days back?",
+                "vi": "Các anh biết vụ hỏa hoạn ở một nhà kho mấy ngày trước không?"
+            }
+        },
+        {
+            "content": "đám cháy",
+            "type": "noun",
+            "example": {
+                "en": "This kerosene is the same exact type used in the other fires.",
+                "vi": "Dầu hỏa này là chính xác loại được dùng trong các đám cháy khác."
+            }
+        },
+        {
+            "content": "thải",
+            "type": "",
+            "example": {
+                "en": "I want you fired.",
+                "vi": "Tôi muốn cậu bị sa thải."
+            }
+        },
+        {
+            "content": "đuổi",
+            "type": "",
+            "example": {
+                "en": "If I fire him now, everyone will wonder why.",
+                "vi": "Nếu tôi đuổi cậu ta bây giờ, mọi người sẽ hỏi lý do tại sao."
+            }
+        },
+        {
+            "content": "hoả lực",
+            "type": "",
+            "example": {
+                "en": "Most of the German fire now is concentrated to the westward.",
+                "vi": "hầu hết hoả lực của bọn Đức đang tập trung về phía Tây."
+            }
+        },
+        {
+            "content": "nhiệt tình",
+            "type": "",
+            "example": {
+                "en": "Perhaps the fire of your testimony has dimmed.",
+                "vi": "Có lẽ lòng nhiệt tình trong chứng ngôn của các anh em đang yếu dần."
+            }
+        },
+        {
+            "content": "nổ súng",
+            "type": "",
+            "example": {
+                "en": "I never should have fired that gun today.",
+                "vi": "Tôi chưa bao giờ phải nổ súng như hôm nay."
+            }
+        },
+        {
+            "content": "sa thải",
+            "type": "",
+            "example": {
+                "en": "I'll fire Tom if I have to.",
+                "vi": "Tôi sẽ sa thải Tom nếu tình huống bắt buộc."
+            }
+        },
+        {
+            "content": "ánh sáng",
+            "type": "noun",
+            "example": {
+                "en": "The cave dwellers don't see the light of the fire.",
+                "vi": "Những người sống trong hang động không nhìn thấy ánh sáng của ngọn lửa."
+            }
+        },
+        {
+            "content": "nổ",
+            "type": "verb",
+            "example": {
+                "en": "All of this is happening without firing a shot.",
+                "vi": "Tất cả những điều này đang diễn ra mà không hề có một tiếng súng nổ ra."
+            }
+        },
+        {
+            "content": "chạy",
+            "type": "verb",
+            "example": {
+                "en": "I can't fire up the engines till we get a good seal on that gate.",
+                "vi": "Tôi không thể cho chạy động cơ tới khi đóng kín được cánh cổng."
+            }
+        },
+        {
+            "content": "sấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hóa",
+            "type": "noun",
+            "example": {
+                "en": "The transfer of energy to the firing is a process very unstable,",
+                "vi": "Việc chuyển hóa loại năng lượng này không ổn định đâu."
+            }
+        },
+        {
+            "content": "bắt lửa",
+            "type": "",
+            "example": {
+                "en": "They caught fire from my cigar ashes and were burning on my crotch!",
+                "vi": "Nó bị bắt lửa từ cái tàn thuốc và đang cháy dưới háng tôi!"
+            }
+        },
+        {
+            "content": "bốc cháy",
+            "type": "",
+            "example": {
+                "en": "So he could see when a single neuron fires.",
+                "vi": "Vì thế anh ấy có thể thấy khi một neron bốc cháy."
+            }
+        },
+        {
+            "content": "cách chức",
+            "type": "verb",
+            "example": {
+                "en": "Tell her to be here or she's fired.",
+                "vi": "Anh bảo cô ta đến nếu không tôi sẽ cách chức cô ta."
+            }
+        },
+        {
+            "content": "cơn sốt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cổ võ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khuyến khích",
+            "type": "",
+            "example": {
+                "en": "Moreover, people around us may encourage an opposite viewpoint, saying that a person has to “fight fire with fire.”",
+                "vi": "Hơn nữa, những người xung quanh có thể khuyến khích chúng ta làm ngược lại. Họ khuyến khích phải “ăn miếng trả miếng”."
+            }
+        },
+        {
+            "content": "khử trùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nổ",
+            "type": "",
+            "example": {
+                "en": "And you're going to fire it.",
+                "vi": "Và em sẽ làm nổ mũi tên đó."
+            }
+        },
+        {
+            "content": "làm phấn khởi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lò sưởi",
+            "type": "",
+            "example": {
+                "en": "I didn't light the fire in her room, so she can dry in the draught.",
+                "vi": "Tôi không nhóm lò sưởi trong phòng, để gió lùa làm khô người cô ta."
+            }
+        },
+        {
+            "content": "nguồn cảm hứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngọn lửa",
+            "type": "noun",
+            "example": {
+                "en": "We don't have enough fuel to feed the fires.",
+                "vi": "Chúng ta không có đủ nguyên liệu để duy trì ngọn lửa."
+            }
+        },
+        {
+            "content": "nóng lên",
+            "type": "",
+            "example": {
+                "en": "How do you spell \" fired up \"?",
+                "vi": "Các bạn đánh vần \" nóng lên \" như thế nào?"
+            }
+        },
+        {
+            "content": "rực đỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bắn hoả lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cháy nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hăng hái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sốt sắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xạ kích",
+            "type": "verb",
+            "example": {
+                "en": "Sir, fire control unit is offline.",
+                "vi": "Thuyền trưởng, xạ kích chỉ thị đèn tắt rồi."
+            }
+        },
+        {
+            "content": "ánh lửa",
+            "type": "noun",
+            "example": {
+                "en": "At night they see fires blazing in the mountains from dusk until dawn.",
+                "vi": "Ban đêm họ thấy ánh lửa đốt trên núi, từ hoàng hôn tới tận bình minh."
+            }
+        },
+        {
+            "content": "đốt cháy",
+            "type": "",
+            "example": {
+                "en": "Monson learns obedience after lighting a field on fire.",
+                "vi": "Monson học cách biết vâng lời sau khi đốt cháy cánh đồng."
+            }
+        },
+        {
+            "content": "lừa",
+            "type": "noun",
+            "example": {
+                "en": "The fire rescue worked perfectly, and Simba fell for it.",
+                "vi": "Kế hoạch giải cứu hoàn thành mĩ mãn. Và Simba đã bị lừa."
+            }
+        }
+    ]
+}

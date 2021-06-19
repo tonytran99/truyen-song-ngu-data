@@ -1,0 +1,38 @@
+{
+    "word": "february",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeb(y)o͞oˌerē/",
+            "/ˈfɛb(j)uˌɛri/",
+            "/ˈfebro͞oˌerē/",
+            "/ˈfɛbruˌɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛbrʊəri/",
+            "/ˈfɛbjʊəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháng hai",
+            "type": "proper",
+            "example": {
+                "en": "And the expedition started in February last year.",
+                "vi": "Và chuyến du hành bắt đầu vào tháng Hai năm ngoái."
+            }
+        },
+        {
+            "content": "thaùng hai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

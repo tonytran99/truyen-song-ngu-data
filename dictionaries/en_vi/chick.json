@@ -1,0 +1,69 @@
+{
+    "word": "chick",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHik/",
+            "/tʃɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gà",
+            "type": "noun",
+            "example": {
+                "en": "My duck and my chick had a fight.",
+                "vi": "Con vịt và con gà của tôi đánh nhau."
+            }
+        },
+        {
+            "content": "chim con",
+            "type": "",
+            "example": {
+                "en": "There is much to do if they're to raise a chick before winter returns.",
+                "vi": "Có nhiều việc phải làm nếu chúng phải nuôi chim con khôn lớn trước khi mùa đông đến."
+            }
+        },
+        {
+            "content": "cô gái",
+            "type": "noun",
+            "example": {
+                "en": "She was naked and naked chicks are hot.",
+                "vi": "Cô ta khoả thân và các cô gái khoả thân đề khieu gợi."
+            }
+        },
+        {
+            "content": "gà con",
+            "type": "",
+            "example": {
+                "en": "It is hard for a baby chick to hatch out of that tough eggshell.",
+                "vi": "Là điều khó khăn cho một con gà con để chui ra khỏi cái vỏ trứng cứng."
+            }
+        },
+        {
+            "content": "gà giò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đàn bà trẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trẻ nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

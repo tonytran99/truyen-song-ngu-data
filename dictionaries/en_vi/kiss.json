@@ -1,0 +1,77 @@
+{
+    "word": "kiss",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kis/",
+            "/kɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hôn",
+            "type": "verb",
+            "example": {
+                "en": "It was obvious that he wanted to kiss her.",
+                "vi": "Rõ ràng là anh ta muốn hôn cô ấy."
+            }
+        },
+        {
+            "content": "cái hôn",
+            "type": "noun",
+            "example": {
+                "en": "She told me to send you a kiss, which I won't deliver.",
+                "vi": "Cô ấy bảo tôi gửi anh một cái hôn, tiếc là tôi không chuyển cho anh đâu."
+            }
+        },
+        {
+            "content": "chạm nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hôn em",
+            "type": "Phrase feminine",
+            "example": {
+                "en": "I would hug and kiss you and call you back to hug and kiss you one more time.",
+                "vi": "Thì anh sẽ ôm hôn em, và gọi em trở lại để ôm hôn em thêm lần nữa."
+            }
+        },
+        {
+            "content": "kẹo bi đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nụ hôn",
+            "type": "noun",
+            "example": {
+                "en": "Tom took off Mary's glasses and they kissed passionately.",
+                "vi": "Tom tháo kính khỏi gương mặt Mary và hai người trao nhau nụ hôn mãnh liệt."
+            }
+        },
+        {
+            "content": "sự chạm nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hôn",
+            "type": "",
+            "example": {
+                "en": "It was obvious that he wanted to kiss her.",
+                "vi": "Rõ ràng là anh ta muốn hôn cô ấy."
+            }
+        }
+    ]
+}

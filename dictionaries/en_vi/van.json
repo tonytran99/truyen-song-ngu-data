@@ -1,0 +1,73 @@
+{
+    "word": "van",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/van/",
+            "/væn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/van/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe tải",
+            "type": "noun",
+            "example": {
+                "en": "Natalie, what did you see in that van?",
+                "vi": "Natalie, cô thấy gì trong thùng xe tải đó?"
+            }
+        },
+        {
+            "content": "đãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cánh chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy quạt thóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những người lãnh đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân tiên phong",
+            "type": "",
+            "example": {
+                "en": "I will lead the van or I will take my men and march them home.",
+                "vi": "Ta sẽ lãnh đạo quân tiên phong, hoặc ta sẽ thu thập người của ta, và dẫn họ về nhà"
+            }
+        },
+        {
+            "content": "tiền đội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe hành lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa vị hàng đầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

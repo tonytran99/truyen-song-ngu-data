@@ -1,0 +1,33 @@
+{
+    "word": "baking",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "mẻ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nướng",
+            "type": "",
+            "example": {
+                "en": "He spent the better part of a day watching you do your impression of a baked potato.",
+                "vi": "Cậu ta dành phần tốt nhất trong ngày để xem anh bắt chước củ khoai nướng."
+            }
+        },
+        {
+            "content": "sự nung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nướng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

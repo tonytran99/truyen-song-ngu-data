@@ -1,0 +1,43 @@
+{
+    "word": "excluding",
+    "type": [
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsklo͞odiNG/",
+            "/ɪkˈskludɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskluːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không kể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừ",
+            "type": "verb",
+            "example": {
+                "en": "If we exclude the night terrors, it could be something systemic.",
+                "vi": "Nếu loại trừ mấy cơn sợ hãi vào ban đêm, có thể là liên quan đến cơ thể."
+            }
+        },
+        {
+            "content": "trừ ra",
+            "type": "",
+            "example": {
+                "en": "On the other hand, some members exclude from their circle of fellowship those who are different.",
+                "vi": "Mặt khác, một số tín hữu đã loại trừ ra khỏi vòng bằng hữu của họ những người không giống họ."
+            }
+        }
+    ]
+}

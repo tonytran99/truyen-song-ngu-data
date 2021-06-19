@@ -1,0 +1,87 @@
+{
+    "word": "embed",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈbed/",
+            "/əmˈbɛd/",
+            "/ˈembed/",
+            "/ˈɛmbɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbɛd/",
+            "/ɛmˈbɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhúng",
+            "type": "",
+            "example": {
+                "en": "You can use this option to embed the selected workspace color profile into the image",
+                "vi": "Bật tùy chọn này để nhúng vào ảnh hồ sơ màu vùng làm việc đã chọn"
+            }
+        },
+        {
+            "content": "gắn vào",
+            "type": "",
+            "example": {
+                "en": "Advanced users will appreciate the Konsole which you can embed into Konqueror (Window-&gt; Show Terminal Emulator",
+                "vi": "Người dùng Linux kinh nghiệm đánh giá cao Konsole vì nó cho phép gắn vào Konqueror (Cửa sổ-&gt; Hiển thị trình lệnh"
+            }
+        },
+        {
+            "content": "bao lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gài trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhúng vào",
+            "type": "",
+            "example": {
+                "en": "You can use this option to embed the selected workspace color profile into the image",
+                "vi": "Bật tùy chọn này để nhúng vào ảnh hồ sơ màu vùng làm việc đã chọn"
+            }
+        },
+        {
+            "content": "ôm lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấn vào",
+            "type": "",
+            "example": {
+                "en": "Well if we can embed biological and chemical networks like a search engine,",
+                "vi": "Nếu chúng ta có thể ấn vào những mạng lưới sinh hóa giống như một công cụ tìm kiếm."
+            }
+        }
+    ]
+}

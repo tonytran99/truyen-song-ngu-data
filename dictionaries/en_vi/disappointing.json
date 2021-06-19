@@ -1,0 +1,43 @@
+{
+    "word": "disappointing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈpoin(t)iNG/",
+            "/ˌdɪsəˈpɔɪn(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈpɔɪntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm thất vọng",
+            "type": "",
+            "example": {
+                "en": "Fathers are destined to disappoint sons, and sons, their fathers.",
+                "vi": "Người cha luôn được định để làm thất vọng con trai họ, và ngược lại."
+            }
+        },
+        {
+            "content": "gây thất vọng",
+            "type": "adjective",
+            "example": {
+                "en": "The quest for a vaccine has been disappointing and frustrating.",
+                "vi": "Công cuộc tìm kiếm thuốc chủng đã vô hiệu và gây thất vọng."
+            }
+        },
+        {
+            "content": "làm chán ngán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

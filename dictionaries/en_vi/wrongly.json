@@ -1,0 +1,60 @@
+{
+    "word": "wrongly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈrôNGlē/",
+            "/ˈrɔŋli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈrɒŋli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không đúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "Why might a few wrongly conclude that they are anointed ones?",
+                "vi": "Tại sao một số người có thể kết luận sai lầm rằng họ được xức dầu?"
+            }
+        },
+        {
+            "content": "bất công",
+            "type": "",
+            "example": {
+                "en": "Though wrongly imprisoned, they were not angry or bitter.",
+                "vi": "Dù bị tù cách bất công nhưng họ không giận dữ hay cay đắng."
+            }
+        },
+        {
+            "content": "sai lầm",
+            "type": "",
+            "example": {
+                "en": "Why might a few wrongly conclude that they are anointed ones?",
+                "vi": "Tại sao một số người có thể kết luận sai lầm rằng họ được xức dầu?"
+            }
+        },
+        {
+            "content": "sai trái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái lý",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

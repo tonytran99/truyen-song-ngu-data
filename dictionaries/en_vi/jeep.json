@@ -1,0 +1,40 @@
+{
+    "word": "jeep",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jēp/",
+            "/dʒip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒiːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe jíp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe gíp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe jeep",
+            "type": "noun",
+            "example": {
+                "en": "She hijacked my jeep and she kidnapped us.",
+                "vi": "Cô ta cướp xe jeep của tôi và bắt cóc chúng tôi."
+            }
+        }
+    ]
+}

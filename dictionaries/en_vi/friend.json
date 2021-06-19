@@ -1,0 +1,116 @@
+{
+    "word": "friend",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frend/",
+            "/frɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạn",
+            "type": "noun",
+            "example": {
+                "en": "Jimmy tried to cajole his parents into letting him drive across the country with his friends.",
+                "vi": "Jimmy cố thuyết phục bố mẹ để anh có thể đi vòng quanh đất nước với bạn."
+            }
+        },
+        {
+            "content": "người bạn",
+            "type": "noun",
+            "example": {
+                "en": "A friend in need is a friend indeed.",
+                "vi": "Một người bạn có mặt lúc ta cần là một người bạn thực sự"
+            }
+        },
+        {
+            "content": "bạn quen",
+            "type": "noun",
+            "example": {
+                "en": "You have a “friend” you met in your youth.",
+                "vi": "Bạn có một “người bạn” quen biết từ lúc niên thiếu."
+            }
+        },
+        {
+            "content": "bạn quen biết",
+            "type": "noun",
+            "example": {
+                "en": "You have a “friend” you met in your youth.",
+                "vi": "Bạn có một “người bạn” quen biết từ lúc niên thiếu."
+            }
+        },
+        {
+            "content": "bằng hữu",
+            "type": "noun",
+            "example": {
+                "en": "My father used to say we find our true friends on the battlefield.",
+                "vi": "Cha ta từng nói chúng ta sẽ tìm được bằng hữu chân chính nơi chiến địa."
+            }
+        },
+        {
+            "content": "bồ bạn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "He simply chose him to be his friend as a class helper.",
+                "vi": "Nó chỉ chọn cậu bé đó làm bạn của nó để làm người giúp đỡ trong lớp học."
+            }
+        },
+        {
+            "content": "người ủng hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bà con thân thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái giúp ích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "He simply chose him to be his friend as a class helper.",
+                "vi": "Nó chỉ chọn cậu bé đó làm bạn của nó để làm người giúp đỡ trong lớp học."
+            }
+        },
+        {
+            "content": "người quen sơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tín đồ Quây-cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ông bạn",
+            "type": "",
+            "example": {
+                "en": "Now, old friend I am ready to be rich.",
+                "vi": "Bây giờ, ông bạn già tôi đang sẵn sàng làm giàu."
+            }
+        }
+    ]
+}

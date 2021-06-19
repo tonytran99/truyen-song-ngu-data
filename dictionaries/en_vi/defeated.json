@@ -1,0 +1,60 @@
+{
+    "word": "defeated",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfēdəd/",
+            "/dəˈfidəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfiːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phơi áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất trận",
+            "type": "verb",
+            "example": {
+                "en": "You're not accustomed to defeat.",
+                "vi": "Anh không hề quen thất trận..."
+            }
+        },
+        {
+            "content": "bại trận",
+            "type": "adjective",
+            "example": {
+                "en": "According to the prophecy, how would the king of the north react to his defeat?",
+                "vi": "Theo lời tiên tri, vua phương bắc phản ứng thế nào trước sự bại trận?"
+            }
+        },
+        {
+            "content": "bị thất bại",
+            "type": "adjective",
+            "example": {
+                "en": "Then, at last, we will ‘look on our adversaries’ as they go down in humiliating defeat.",
+                "vi": "Cuối cùng, chúng ta sẽ “thấy các cừu-địch mình” bị thất bại thê thảm."
+            }
+        },
+        {
+            "content": "bị đánh bại",
+            "type": "adjective",
+            "example": {
+                "en": "Nobody who was wielding the blade was ever defeated in a duel or battle.",
+                "vi": "Người dùng kiếm này quyết đấu chưa bao giờ bị đánh bại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "japanese",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌjapəˈnēz/",
+            "/ˌdʒæpəˈniz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒapəˈniːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Nhật bản",
+            "type": "",
+            "example": {
+                "en": "The Japanese archipelago is struck by a terrible heat wave.",
+                "vi": "Quần đảo Nhật Bản bị tấn công bởi một đợt sóng nhiệt khủng khiếp."
+            }
+        },
+        {
+            "content": "Nhật",
+            "type": "adjective proper abbreviation",
+            "example": {
+                "en": "Do Japanese children really paint the sun red?",
+                "vi": "Có phải trẻ con người Nhật thật sự thích tô mặt trời màu đỏ?"
+            }
+        },
+        {
+            "content": "người nhật",
+            "type": "",
+            "example": {
+                "en": "Do Japanese children really paint the sun red?",
+                "vi": "Có phải trẻ con người Nhật thật sự thích tô mặt trời màu đỏ?"
+            }
+        },
+        {
+            "content": "tiếng nhật",
+            "type": "",
+            "example": {
+                "en": "She smiled a lot but she could not speak Japanese.",
+                "vi": "Cô ấy rất vui vẻ, nhưng lại không biết tiếng Nhật."
+            }
+        }
+    ]
+}

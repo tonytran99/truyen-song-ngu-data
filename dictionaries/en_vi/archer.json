@@ -1,0 +1,48 @@
+{
+    "word": "archer",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärCHər/",
+            "/ˈɑrtʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːtʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "射手",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xạ thủ",
+            "type": "noun",
+            "example": {
+                "en": "Maybe you're a Roman foot soldier or a medieval archer",
+                "vi": "Bạn có thể là một đấu sĩ La Mã, một xạ thủ thời trung cổ"
+            }
+        },
+        {
+            "content": "người bắn cung",
+            "type": "noun",
+            "example": {
+                "en": "Recall that the archer “filled his quiver” with his arrows.",
+                "vi": "Hãy lưu ý là người bắn cung đã đựng các mũi tên “đầy gùi mình”."
+            }
+        },
+        {
+            "content": "chòm sao nhân mã",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

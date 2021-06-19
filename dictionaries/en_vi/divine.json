@@ -1,0 +1,97 @@
+{
+    "word": "divine",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvīn/",
+            "/dəˈvaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoán",
+            "type": "verb",
+            "example": {
+                "en": "Jasper used this place for divination.",
+                "vi": "Jasper từng dùng nơi này để tiên đoán."
+            }
+        },
+        {
+            "content": "bói",
+            "type": "verb",
+            "example": {
+                "en": "So you're a divining rod for others like you.",
+                "vi": "Vậy anh là đôi đũa bói để tìm những người như anh."
+            }
+        },
+        {
+            "content": "thần thánh",
+            "type": "noun",
+            "example": {
+                "en": "Why does it have to be human or divine?",
+                "vi": "Sao cứ phải phân biệt con người và thần thánh?"
+            }
+        },
+        {
+            "content": "tuyệt diệu",
+            "type": "",
+            "example": {
+                "en": "He rumbled a lot of divinely sweet things in that way of his.",
+                "vi": "Ổng thì thầm với tôi rất nhiều lời ngọt ngào tuyệt diệu theo cái cách của ổng."
+            }
+        },
+        {
+            "content": "nhà thần học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "siêu phàm",
+            "type": "",
+            "example": {
+                "en": "He will play divinely, my dear.",
+                "vi": "Nó sẽ chơi một cách siêu phàm, em yêu."
+            }
+        },
+        {
+            "content": "thiêng liêng",
+            "type": "",
+            "example": {
+                "en": "Yet all too commonly, these divine gifts are desecrated.",
+                "vi": "Tuy vậy những ân tứ thiêng liêng này rất thường bị làm mất tính thiêng liêng."
+            }
+        },
+        {
+            "content": "thần thanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiên đoán",
+            "type": "verb",
+            "example": {
+                "en": "Jasper used this place for divination.",
+                "vi": "Jasper từng dùng nơi này để tiên đoán."
+            }
+        },
+        {
+            "content": "tuyệt trần",
+            "type": "",
+            "example": {
+                "en": "What could be more divine than her face?",
+                "vi": "Còn gì có thể đẹp tuyệt trần hơn gương mặt của nó?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "chin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHin/",
+            "/tʃɪn/",
+            "/jin/",
+            "/dʒɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cằm",
+            "type": "noun",
+            "example": {
+                "en": "There's weeds growing chin high in that place.",
+                "vi": "Cỏ dại đã mọc đến ngang cằm ở cái chỗ đó."
+            }
+        },
+        {
+            "content": "giúp đỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ủng hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cằm",
+            "type": "",
+            "example": {
+                "en": "I've got more chins than a Chinese phone book.",
+                "vi": "Cằm tôi còn dày hơn một cuốn danh bạ Trung Quốc."
+            }
+        }
+    ]
+}

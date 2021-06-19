@@ -1,0 +1,52 @@
+{
+    "word": "discourteous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈkərdēəs/",
+            "/dɪsˈkərdiəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈkəːtɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất lịch sự",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khiếm nhã",
+            "type": "adjective",
+            "example": {
+                "en": "I hate to be discourteous, but this is a private exit for my patients.",
+                "vi": "Tôi ghét phải tỏ ra khiếm nhã,... nhưng đây là lối ra riêng dành cho bệnh nhân của tôi."
+            }
+        },
+        {
+            "content": "thiếu lễ độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô lỗ",
+            "type": "",
+            "example": {
+                "en": "Is it because you have been treated unfairly, perhaps discourteously?",
+                "vi": "Có phải vì bạn bị đối xử thô lỗ hoặc bất công?"
+            }
+        }
+    ]
+}

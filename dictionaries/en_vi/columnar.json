@@ -1,0 +1,33 @@
+{
+    "word": "columnar",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈləmnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlʌmnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình cột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình trụ",
+            "type": "noun",
+            "example": {
+                "en": "which is a columnar basalt formation",
+                "vi": "nó có dạng hình trụ được làm từ bazan"
+            }
+        }
+    ]
+}

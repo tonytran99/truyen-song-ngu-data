@@ -1,0 +1,30 @@
+{
+    "word": "golfing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡôlfiNG/",
+            "/ˈɡɔlfɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒlfɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chơi gôn",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know how to play golf.",
+                "vi": "Tom không biết chơi gôn."
+            }
+        }
+    ]
+}

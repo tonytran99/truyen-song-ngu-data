@@ -1,0 +1,55 @@
+{
+    "word": "downhill",
+    "type": [
+        "adjective",
+        "adverb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dounˈhil/",
+            "/daʊnˈhɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊnˈhɪl/",
+            "/ˈdaʊnhɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dốc",
+            "type": "verb",
+            "example": {
+                "en": "All downhill from here, down to the floodplain.",
+                "vi": "Tất cả những con dốc từ đây. Hướng tới vùng lũ lụt."
+            }
+        },
+        {
+            "content": "xuống dốc",
+            "type": "",
+            "example": {
+                "en": "As they came to one steep downhill slope, they scrambled aboard the car and began to coast.",
+                "vi": "Khi đi đến một dốc đồi, họ chen nhau leo lên toa xe và bắt đầu xuống dốc."
+            }
+        },
+        {
+            "content": "cánh xế bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốc xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xuống dốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

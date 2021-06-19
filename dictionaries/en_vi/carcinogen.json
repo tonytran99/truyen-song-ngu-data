@@ -1,0 +1,41 @@
+{
+    "word": "carcinogen",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kärˈsinəjən/",
+            "/kɑrˈsɪnədʒən/",
+            "/ˈkärsənəˌjen/",
+            "/ˈkɑrsənəˌdʒɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːˈsɪnədʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất gây ung thư",
+            "type": "",
+            "example": {
+                "en": "These here are five different organizations that classify carcinogens.",
+                "vi": "Có năm tổ chức khác nhau phân loại các chất gây ung thư."
+            }
+        },
+        {
+            "content": "chất sinh ung thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chất gây ung thư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

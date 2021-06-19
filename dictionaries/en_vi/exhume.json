@@ -1,0 +1,40 @@
+{
+    "word": "exhume",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈz(y)o͞om/",
+            "/ɪɡˈz(j)um/",
+            "/ekˈs(y)o͞om/",
+            "/ɛkˈs(j)um/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛksˈ(h)juːm/",
+            "/ɪɡˈzjuːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khai quật",
+            "type": "",
+            "example": {
+                "en": "Caught here in the midnight act of exhuming a body.",
+                "vi": "Nửa đêm bị phát hiện đang khai quật xác chết."
+            }
+        },
+        {
+            "content": "đào lên",
+            "type": "",
+            "example": {
+                "en": "Is it true you exhume putrid spectre of decimation?",
+                "vi": "Có đúng anh lại đào lên cái hình thức trừng phạt man rợ đó?"
+            }
+        }
+    ]
+}

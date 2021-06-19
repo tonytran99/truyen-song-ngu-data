@@ -1,0 +1,61 @@
+{
+    "word": "golf",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡälf/",
+            "/ɡɑlf/",
+            "/ɡôlf/",
+            "/ɡɔlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɒlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "golf",
+            "type": "noun",
+            "example": {
+                "en": "Except the only thing I hate more than golf is fishing.",
+                "vi": "Chỉ có điều, tôi ghét câu cá hơn chơi golf."
+            }
+        },
+        {
+            "content": "môn đánh gôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chơi gôn",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know how to play golf.",
+                "vi": "Tom không biết chơi gôn."
+            }
+        },
+        {
+            "content": "Golf",
+            "type": "",
+            "example": {
+                "en": "It was the day I got my new English golf shoes.",
+                "vi": "Đó là ngày tôi nhận được đôi giày đánh Golf mới của Anh."
+            }
+        },
+        {
+            "content": "gôn",
+            "type": "noun",
+            "example": {
+                "en": "Tom doesn't know how to play golf.",
+                "vi": "Tom không biết chơi gôn."
+            }
+        }
+    ]
+}

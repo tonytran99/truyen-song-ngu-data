@@ -1,0 +1,63 @@
+{
+    "word": "crave",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krāv/",
+            "/kreɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kreɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khao khát",
+            "type": "",
+            "example": {
+                "en": "But that cadaver did nothing to quiet my craving.",
+                "vi": "Nhưng xác chết đó không làm dịu khao khát của tôi."
+            }
+        },
+        {
+            "content": "nài xin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xin",
+            "type": "verb",
+            "example": {
+                "en": "I must crave your indulgence for appearing in this unseemly fashion.",
+                "vi": "Con xin Người ta thứ vì đã xuất hiện với một bộ dạng không thích hợp như này."
+            }
+        },
+        {
+            "content": "ao ước",
+            "type": "verb",
+            "example": {
+                "en": "How far would we go to gain the acceptance we crave?",
+                "vi": "Chúng ta sẵn sàng làm đến mức nào để đạt được sự chấp nhận mình ao ước?"
+            }
+        },
+        {
+            "content": "khẩn cầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thèm muốn",
+            "type": "",
+            "example": {
+                "en": "It gives him feelings of power and purpose that he craves.",
+                "vi": "Nó cho hắn cảm xúc quyền lực và mục đích mà hắn thèm muốn."
+            }
+        }
+    ]
+}

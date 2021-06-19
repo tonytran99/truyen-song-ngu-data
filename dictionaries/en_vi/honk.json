@@ -1,0 +1,51 @@
+{
+    "word": "honk",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/häNGk/",
+            "/hɑŋk/",
+            "/hôNGk/",
+            "/hɔŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bóp còi",
+            "type": "",
+            "example": {
+                "en": "can't you hear the bus honking?",
+                "vi": "Không nghe thấy lái xe bóp còi à?"
+            }
+        },
+        {
+            "content": "tiếng còi ô tô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng còi",
+            "type": "",
+            "example": {
+                "en": "No car honks, no traffic noise.",
+                "vi": "Không có tiếng còi xe, tiếng ồn ào của giao thông."
+            }
+        }
+    ]
+}

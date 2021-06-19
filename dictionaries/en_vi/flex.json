@@ -1,0 +1,58 @@
+{
+    "word": "flex",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fleks/",
+            "/flɛks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɛks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dây mềm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uốn cong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uốn",
+            "type": "verb",
+            "example": {
+                "en": "I'm gonna flex and bust out of here.",
+                "vi": "Tôi sẽ uốn dẻo và thoát khỏi đây ngay thôi."
+            }
+        },
+        {
+            "content": "cong lại",
+            "type": "",
+            "example": {
+                "en": "When your muscles flex, say in your legs as you walk, they compress nearby veins.",
+                "vi": "Ví dụ, khi bạn bước đi, các cơ của chân cong lại, ép các tĩnh mạch gần đó."
+            }
+        },
+        {
+            "content": "gập lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

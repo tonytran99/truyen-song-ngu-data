@@ -1,0 +1,67 @@
+{
+    "word": "captive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaptiv/",
+            "/ˈkæptɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaptɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị bắt giữ",
+            "type": "",
+            "example": {
+                "en": "How long were you held captive for?",
+                "vi": "Cô đã bị bắt giữ bao lâu rồi?"
+            }
+        },
+        {
+            "content": "bị giam cầm",
+            "type": "",
+            "example": {
+                "en": "The herbs remind us of the bitterness of our captivity, Eleazar.",
+                "vi": "Cỏ nhắc chúng ta nhớ nỗi cay đắng trong tình trạng bị giam cầm, Eleazar."
+            }
+        },
+        {
+            "content": "người bị bắt giữ",
+            "type": "noun",
+            "example": {
+                "en": "So a ransom is something that brings the deliverance of a person held captive.",
+                "vi": "Như vậy thì tiền chuộc hay giá chuộc là một phương tiện để phóng thích một người bị bắt giữ."
+            }
+        },
+        {
+            "content": "người bị giam cầm",
+            "type": "",
+            "example": {
+                "en": "The word “ransom” signifies paying the price for the redemption of captives.",
+                "vi": "Chữ “giá chuộc” có nghĩa là trả một giá tiền để chuộc lại những người bị giam cầm."
+            }
+        },
+        {
+            "content": "tù nhân",
+            "type": "noun",
+            "example": {
+                "en": "You were supposed to bring a captive back here.",
+                "vi": "Cậu không nên mang tù nhân trở lại đây."
+            }
+        },
+        {
+            "content": "tù phạm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

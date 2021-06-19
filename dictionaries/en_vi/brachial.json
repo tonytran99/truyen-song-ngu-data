@@ -1,0 +1,35 @@
+{
+    "word": "brachial",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrākēəl/",
+            "/ˈbrak-/",
+            "/ˈbreɪkiəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbreɪkɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cánh tay",
+            "type": "noun",
+            "example": {
+                "en": "Pass a stent down the brachial artery into the radial artery.",
+                "vi": "Đặt ống stent từ động mạch cánh tay tới động mạch quay."
+            }
+        },
+        {
+            "content": "giống cánh tay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "july",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəˈlī/",
+            "/dʒəˈlaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒʊˈlʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháng bảy",
+            "type": "proper",
+            "example": {
+                "en": "Home builder confidence falls to a record low in July.",
+                "vi": "Niềm tin vào các công ty xây dựng đã giảm thấp kỷ lục trong tháng Bảy."
+            }
+        },
+        {
+            "content": "thaùng baûy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

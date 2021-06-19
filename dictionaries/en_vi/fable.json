@@ -1,0 +1,120 @@
+{
+    "word": "fable",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfābəl/",
+            "/ˈfeɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngụ ngôn",
+            "type": "noun",
+            "example": {
+                "en": "Tea house songs have a way of growing into fables.",
+                "vi": "Những bài hát phòng trà tự trở thành những câu chuyện ngụ ngôn."
+            }
+        },
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "truyền thuyết",
+            "type": "noun",
+            "example": {
+                "en": "Is this but a cunningly devised fable, Esther?",
+                "vi": "Esther, có phải là chuyện truyền thuyết bịa đặt cách khéo léo không?"
+            }
+        },
+        {
+            "content": "truyện ngụ ngôn",
+            "type": "noun",
+            "example": {
+                "en": "the fables that we all carry around in our collective consciousness.",
+                "vi": "truyện ngụ ngôn tất cả chúng ta có trong ý thức tập thể của mình."
+            }
+        },
+        {
+            "content": "cốt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chuyện phiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện tán gẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kể truyện hoang đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêu dệt",
+            "type": "",
+            "example": {
+                "en": "Where it is fabled to exist.",
+                "vi": "Nơi Sha'Ka'Ree được thêu dệt là có tồn tại."
+            }
+        },
+        {
+            "content": "truyện cổ tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyện hoang đường",
+            "type": "",
+            "example": {
+                "en": "I testify to you that the Resurrection is not a fable.",
+                "vi": "Tôi làm chứng với các anh chị em rằng Sự Phục Sinh không phải là một truyện hoang đường."
+            }
+        },
+        {
+            "content": "tình tiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ngụ ngôn",
+            "type": "",
+            "example": {
+                "en": "Tea house songs have a way of growing into fables.",
+                "vi": "Những bài hát phòng trà tự trở thành những câu chuyện ngụ ngôn."
+            }
+        }
+    ]
+}

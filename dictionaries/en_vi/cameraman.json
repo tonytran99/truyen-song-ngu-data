@@ -1,0 +1,64 @@
+{
+    "word": "cameraman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkam(ə)rəˌman/",
+            "/ˈkæm(ə)rəˌmæn/",
+            "/ˈkam(ə)rəmən/",
+            "/ˈkæm(ə)rəmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkamrəmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyên viên quay phim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyên viên thu hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyên viên ghi hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ghi hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người quay phim",
+            "type": "",
+            "example": {
+                "en": "Not just the cameraman and the masked man.",
+                "vi": "Không chỉ người quay phim và người đeo mặt nạ."
+            }
+        },
+        {
+            "content": "nhà quay phim",
+            "type": "",
+            "example": {
+                "en": "Unexpected break-ups left many a cameraman in need of a swift rescue.",
+                "vi": "Việc vỡ băng đột ngột khiến nhiều nhà quay phim cần đến giải cứu khẩn cấp."
+            }
+        },
+        {
+            "content": "phóng viên nhiếp ảnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

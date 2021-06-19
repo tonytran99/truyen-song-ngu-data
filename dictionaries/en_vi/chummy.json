@@ -1,0 +1,43 @@
+{
+    "word": "chummy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHəmē/",
+            "/ˈtʃəmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃʌmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gần gụi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân mật",
+            "type": "",
+            "example": {
+                "en": "Now, you and Sweet Dave looked mighty chummy over here.",
+                "vi": "Và ông với Sweet Dave có vẻ khá thân mật."
+            }
+        },
+        {
+            "content": "thân thiết",
+            "type": "",
+            "example": {
+                "en": "You two seem like you've gotten pretty chummy.",
+                "vi": "Hai người có vẻ như đã khá thân thiết nhỉ."
+            }
+        }
+    ]
+}

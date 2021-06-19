@@ -1,0 +1,44 @@
+{
+    "word": "choppy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHäpē/",
+            "/ˈtʃɑpi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɒpi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sóng vỗ bập bềnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động",
+            "type": "verb noun",
+            "example": {
+                "en": "Looks like it's pretty choppy up there.",
+                "vi": "Hình như có những chấn động phí trên."
+            }
+        },
+        {
+            "content": "nẻ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trở chiều luôn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

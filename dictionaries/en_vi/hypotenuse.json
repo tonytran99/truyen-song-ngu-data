@@ -1,0 +1,40 @@
+{
+    "word": "hypotenuse",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīˈpätnˌ(y)o͞os/",
+            "/haɪˈpɑtnˌ(j)us/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪˈpɒtənjuːz/",
+            "/hʌɪˈpɒtənjuːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cạnh huyền",
+            "type": "noun",
+            "example": {
+                "en": "In a right angle triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+                "vi": "Trong một tam giác vuông, bình phương cạnh huyền... bằng tổng bình phương hai cạnh kia."
+            }
+        },
+        {
+            "content": "đường huyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tam giác#phân loại tam giác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

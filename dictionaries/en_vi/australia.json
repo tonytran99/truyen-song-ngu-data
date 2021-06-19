@@ -1,0 +1,32 @@
+{
+    "word": "australia",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ôˈstrālyə/",
+            "/ɔˈstreɪljə/",
+            "/əˈstrālyə/",
+            "/əˈstreɪljə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɒˈstreɪlɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "úc",
+            "type": "",
+            "example": {
+                "en": "The legal age for marriage in Australia is 18.",
+                "vi": "Tuổi kết hôn hợp pháp ở Úc là 18."
+            }
+        }
+    ]
+}

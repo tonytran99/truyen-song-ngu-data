@@ -1,0 +1,78 @@
+{
+    "word": "binary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīnərē/",
+            "/ˈbaɪnəri/",
+            "/ˈbīˌnərē/",
+            "/ˈbaɪˌnəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪnəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhị phân",
+            "type": "noun",
+            "example": {
+                "en": "These compressed formats are themselves written in binary code.",
+                "vi": "Các định dạng nén này cũng được viết bằng dãy nhị phân."
+            }
+        },
+        {
+            "content": "đôi",
+            "type": "noun adverb",
+            "example": {
+                "en": "And it has a binary companion that goes around it,",
+                "vi": "Và nó có một sao đôi xoay xung quanh cùng lúc,"
+            }
+        },
+        {
+            "content": "nhị nguyên",
+            "type": "",
+            "example": {
+                "en": "is because we think of love as a binary thing.",
+                "vi": "là vì chúng ta coi tình yêu như một thứ nhị nguyên."
+            }
+        },
+        {
+            "content": "cơ hai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hai ngôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưỡng thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nhị hạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nhị nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nhị phân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

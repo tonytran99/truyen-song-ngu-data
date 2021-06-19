@@ -1,0 +1,449 @@
+{
+    "word": "give",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡiv/",
+            "/ɡɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho",
+            "type": "verb",
+            "example": {
+                "en": "Tom, give me a minute. I need to think.",
+                "vi": "Tom, cho tôi một phút. Tôi cần nghĩ đã."
+            }
+        },
+        {
+            "content": "tặng",
+            "type": "verb",
+            "example": {
+                "en": "I'd like to give you a last chance.",
+                "vi": "Anh muốn tặng em một cơ hội nữa."
+            }
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "You must not give way to those demands.",
+                "vi": "Bạn không nên đưa ra những yêu cầu đó."
+            }
+        },
+        {
+            "content": "trao",
+            "type": "verb",
+            "example": {
+                "en": "Those hit men wanted me to give up my source.",
+                "vi": "Bọn sát thủ muốn tôi trao cho chúng nguồn tin."
+            }
+        },
+        {
+            "content": "trả",
+            "type": "verb",
+            "example": {
+                "en": "\"Give me back my book!\" \"What book?\"",
+                "vi": "\"Trả tôi quyển sách đây!\" \"Quyển sách nào cơ?\""
+            }
+        },
+        {
+            "content": "nhường",
+            "type": "",
+            "example": {
+                "en": "Very kind of Arthur to give up his room.",
+                "vi": "Arthur thật tử tế khi đã nhường phòng."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "It reinforces the theory. It doesn't give us proof.",
+                "vi": "Nó chỉ củng cố giả thuyết, nhưng nó không chứng minh được gì cả."
+            }
+        },
+        {
+            "content": "biếu",
+            "type": "",
+            "example": {
+                "en": "They might as well just give us the points.",
+                "vi": "Họ biếu không điểm cho chúng ta rồi."
+            }
+        },
+        {
+            "content": "sinh ra",
+            "type": "",
+            "example": {
+                "en": "Females giving rise to females, giving rise to other females.",
+                "vi": "Con cái sinh ra những con cái, để sinh ra những con cái khác."
+            }
+        },
+        {
+            "content": "tổ chức",
+            "type": "verb noun",
+            "example": {
+                "en": "When will they give a concert?",
+                "vi": "Bao giờ họ tổ chức hòa nhạc nhỉ?"
+            }
+        },
+        {
+            "content": "ban",
+            "type": "noun",
+            "example": {
+                "en": "We should give as generously as we are able.",
+                "vi": "Chúng ta nên ban phát một cách rộng lượng với khả năng của mình."
+            }
+        },
+        {
+            "content": "cấp",
+            "type": "verb noun",
+            "example": {
+                "en": "Really, we are giving you all the information we have.",
+                "vi": "Thật sự chúng tôi đã cung cấp mọi thông tin chúng tôi có."
+            }
+        },
+        {
+            "content": "từ chối",
+            "type": "verb",
+            "example": {
+                "en": "He refused me because I wouldn't give you up.",
+                "vi": "Hắn đã từ chối anh vì anh không chịu bỏ em."
+            }
+        },
+        {
+            "content": "gửi",
+            "type": "verb",
+            "example": {
+                "en": "And I do not give my trust easily.",
+                "vi": "Và ta không dễ dàng gửi gắm niềm tin của mình."
+            }
+        },
+        {
+            "content": "dẫn",
+            "type": "",
+            "example": {
+                "en": "And that activity can be escalating now and giving us an even larger scale event.",
+                "vi": "Các hoạt động đó ngày càng gia tăng và sẽ dẫn đến một sự kiện tầm cỡ hơn."
+            }
+        },
+        {
+            "content": "diễn",
+            "type": "verb",
+            "example": {
+                "en": "After his demonstration, he asked them if any of them would like to give it a try.",
+                "vi": "Sau khi đã thao diễn, ông hỏi có ai trong số họ muốn thử nắn đất sét không."
+            }
+        },
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "He gives to charity, his employees love him.",
+                "vi": "Anh ta mở một quỹ từ thiện, được nhân viên yêu mến."
+            }
+        },
+        {
+            "content": "thết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tan",
+            "type": "verb",
+            "example": {
+                "en": "Then I give my wife a hug, and before long, it’s like nothing unpleasant happened!”",
+                "vi": "Rồi tôi ôm vợ vào lòng, chẳng mấy chốc, mọi chuyện đều tan biến!”."
+            }
+        },
+        {
+            "content": "vỡ",
+            "type": "",
+            "example": {
+                "en": "Ollie, the glass is gonna give!",
+                "vi": "Ollie, kính sắp vỡ rồi!"
+            }
+        },
+        {
+            "content": "biếu xén",
+            "type": "",
+            "example": {
+                "en": "And the one giving gifts to the rich",
+                "vi": "Kẻ biếu xén người giàu nhiều quà cáp"
+            }
+        },
+        {
+            "content": "biểu diễn",
+            "type": "",
+            "example": {
+                "en": "May I please give you a demonstration of casino dominoes?",
+                "vi": "Tôi có thể biểu diễn cho ngài xem domino sòng bạc được không?"
+            }
+        },
+        {
+            "content": "bố thí",
+            "type": "verb",
+            "example": {
+                "en": "I'm not here to encourage you to give money to the next panhandler you meet.",
+                "vi": "Tôi không ở đây để kêu gọi bạn bố thí một kẻ ăn xin bạn sẽ gặp."
+            }
+        },
+        {
+            "content": "cho là",
+            "type": "",
+            "example": {
+                "en": "I figured he meant to give it to you someday.",
+                "vi": "Dì cho là ông định sẽ đưa cháu vào thời điểm thích hợp."
+            }
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "Which is why I don't for a second believe he'd give you the only copy.",
+                "vi": "Thế nên tôi cho rằng hắn sẽ không đưa ông cái đĩa duy nhất."
+            }
+        },
+        {
+            "content": "chuyên tâm",
+            "type": "",
+            "example": {
+                "en": "Soon I will, no doubt, give up all other occupation and simply write.",
+                "vi": "Chắc chắn mình sẽ sớm gác hết mọi công việc khác lại để chuyên tâm vào viết."
+            }
+        },
+        {
+            "content": "chuyển cho",
+            "type": "",
+            "example": {
+                "en": "Can I give you the chip number to give to the right guys?",
+                "vi": "Thế cháu đọc mã số con chip để chú chuyển cho người nào biết xử lý nhé?"
+            }
+        },
+        {
+            "content": "co giãn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "coi như",
+            "type": "",
+            "example": {
+                "en": "I've been asked to give you this small token of our appreciation.",
+                "vi": "Tao được lệnh tặng mày vật kỷ niệm này coi như trọng thưởng."
+            }
+        },
+        {
+            "content": "có thể nhún nhẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cống hiến",
+            "type": "",
+            "example": {
+                "en": "I will give it all that I have, sir.",
+                "vi": "Tôi sẽ cống hiến hết sức, thưa ngài."
+            }
+        },
+        {
+            "content": "gây ra",
+            "type": "",
+            "example": {
+                "en": "I will give you two hours to find the man who did this.",
+                "vi": "Tôi cho anh hai giờ để tìm ra kẻ đã gây ra việc này."
+            }
+        },
+        {
+            "content": "ham mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiến dâng",
+            "type": "",
+            "example": {
+                "en": "I will give life to your cause, in honor of Oenomaus.",
+                "vi": "Tôi sẽ hiến dâng mạng sống cho cuộc chiến này, vì danh dự của Oenomaus."
+            }
+        },
+        {
+            "content": "làm cho",
+            "type": "verb",
+            "example": {
+                "en": "Not nearly as rough as I now intend to give them.",
+                "vi": "Không bằng những gì mà tôi dự định làm cho chúng."
+            }
+        },
+        {
+            "content": "làm lây sang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lún xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miệt mài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhìn ra",
+            "type": "",
+            "example": {
+                "en": "and to give you an idea of the dimensions of this mine,",
+                "vi": "và để bạn nhìn ra về kích thước của mỏ này,"
+            }
+        },
+        {
+            "content": "nhượng bộ",
+            "type": "",
+            "example": {
+                "en": "I'm not giving up a single foot of it.",
+                "vi": "Tôi sẽ không nhượng bộ một tấc đất nào."
+            }
+        },
+        {
+            "content": "nêu cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quay ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sụp đổ",
+            "type": "",
+            "example": {
+                "en": "Jeremiah gives a detailed account of the fall of Jerusalem.",
+                "vi": "Giê-rê-mi tường thuật chi tiết về sự sụp đổ của Giê-ru-sa-lem."
+            }
+        },
+        {
+            "content": "thoả thuận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trao cho",
+            "type": "",
+            "example": {
+                "en": "Those hit men wanted me to give up my source.",
+                "vi": "Bọn sát thủ muốn tôi trao cho chúng nguồn tin."
+            }
+        },
+        {
+            "content": "trao đổi",
+            "type": "",
+            "example": {
+                "en": "I suppose I give you what you want, we go our separate ways.",
+                "vi": "Chúng ta sẽ trao đổi thứ mà chúng ta đang cần."
+            }
+        },
+        {
+            "content": "truyền cho",
+            "type": "",
+            "example": {
+                "en": "Sister, I'll give you some of my vital essence.",
+                "vi": "Tỷ tỷ, muội sẽ truyền cho tỷ một ít nguyên khí nhé"
+            }
+        },
+        {
+            "content": "trĩu xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính co giân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính nhún nhảy được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính đàn hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đem cho",
+            "type": "",
+            "example": {
+                "en": "I want to give her away, but no taker.",
+                "vi": "Còn nữa, anh muốn đem cho nó đi, nhưng kết quả là hỏi mãi mà chẳng ai thèm!"
+            }
+        },
+        {
+            "content": "đem lại",
+            "type": "",
+            "example": {
+                "en": "That you were just giving the people what they wanted, right?",
+                "vi": "Rằng mày chỉ đem lại cho mọi người thứ họ muốn phải chứ?"
+            }
+        },
+        {
+            "content": "đưa cho",
+            "type": "",
+            "example": {
+                "en": "Give me those gloves.",
+                "vi": "Đưa cho tôi đôi găng tay đó."
+            }
+        },
+        {
+            "content": "đưa ra",
+            "type": "",
+            "example": {
+                "en": "You must not give way to those demands.",
+                "vi": "Bạn không nên đưa ra những yêu cầu đó."
+            }
+        },
+        {
+            "content": "để lộ ra",
+            "type": "",
+            "example": {
+                "en": "Such a response may give you a brief surge of satisfaction, but it betrays an immature attitude.",
+                "vi": "Đáp lại như thế khiến bạn hả dạ trong chốc lát, nhưng nó để lộ ra suy nghĩ trẻ con của bạn."
+            }
+        },
+        {
+            "content": "đồng ý",
+            "type": "verb",
+            "example": {
+                "en": "I so appreciate you giving us this time, Nick.",
+                "vi": "Tôi rất cảm kích vì anh đã đồng ý gặp chúng tôi vào lúc này, Nick."
+            }
+        },
+        {
+            "content": "cái",
+            "type": "adjective Prefix",
+            "example": {
+                "en": "But against ordinary people it gives good service.",
+                "vi": "Nhưng, với những người bình thường, cái này rất có tác dụng."
+            }
+        }
+    ]
+}

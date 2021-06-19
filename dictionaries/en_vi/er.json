@@ -1,0 +1,32 @@
+{
+    "word": "er",
+    "type": [
+        "verb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ər/",
+            "/i ˈɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əː/",
+            "/ə/",
+            "/iːˈɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng cấp cứu",
+            "type": "",
+            "example": {
+                "en": "She's pulling a double in the ER tonight.",
+                "vi": "Tối nay cô ấy phải tăng ca ở phòng cấp cứu."
+            }
+        }
+    ]
+}

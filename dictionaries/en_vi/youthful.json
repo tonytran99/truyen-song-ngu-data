@@ -1,0 +1,67 @@
+{
+    "word": "youthful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞oTHfəl/",
+            "/ˈjuθfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːθfʊl/",
+            "/ˈjuːθf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trẻ",
+            "type": "adjective",
+            "example": {
+                "en": "As a youth, you’re simply not qualified to solve your parents’ disputes.",
+                "vi": "Vì còn trẻ nên bạn không có khả năng giải quyết những trận cãi vã của cha mẹ."
+            }
+        },
+        {
+            "content": "trẻ trung",
+            "type": "adjective",
+            "example": {
+                "en": "In our world today, the accent is on youth.",
+                "vi": "Trong thế giới ngày nay của chúng ta, sự chú ý tập trung vào sự trẻ trung."
+            }
+        },
+        {
+            "content": "trẻ tuổi",
+            "type": "adjective",
+            "example": {
+                "en": "These youth need our time and our testimonies.",
+                "vi": "Những người trẻ tuổi này cần thời gian và chứng ngôn của chúng ta."
+            }
+        },
+        {
+            "content": "tuổi trẻ",
+            "type": "noun",
+            "example": {
+                "en": "The clock uncoils the working day, and he wakes up feeling his youth has gone away.",
+                "vi": "Cái đồng hồ đếm hết một ngày, và y thức dậy thấy tuổi trẻ đã ra đi."
+            }
+        },
+        {
+            "content": "thuộc về tuổi trẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của thanh niên",
+            "type": "",
+            "example": {
+                "en": "He's now part of a new government effort, to balance the experience of Saudi youth.",
+                "vi": "Giờ là một phần nỗ lực của chính phủ mới, cân bằng kinh nghiệm sống của thanh niên Saudi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "asylum",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsīləm/",
+            "/əˈsaɪləm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsʌɪləm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viện cứu tế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi ẩn náu",
+            "type": "",
+            "example": {
+                "en": "The issue of asylum seekers in Australia",
+                "vi": "Vấn đề về những người tìm nơi ẩn náu ở Úc"
+            }
+        },
+        {
+            "content": "dưỡng trí viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà thương điên",
+            "type": "noun",
+            "example": {
+                "en": "She should be on a stage, not languishing in some asylum.",
+                "vi": "Lẽ ra cô ấy nên đứng trên sân khấu, chứ không phải héo hon trong nhà thương điên."
+            }
+        },
+        {
+            "content": "nơi an toàn",
+            "type": "noun",
+            "example": {
+                "en": "\"Let's go to Europe; seek asylum, safety.",
+                "vi": "\"Hãy đi đến Châu Âu để tị nạn, để tìm kiếm một nơi an toàn"
+            }
+        },
+        {
+            "content": "nơi nương náu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi trú ẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh viện tâm thần",
+            "type": "",
+            "example": {
+                "en": "In the year 1901, a woman called Auguste was taken to a medical asylum in Frankfurt.",
+                "vi": "Vào năm 1901, một phụ nữ tên Auguste được chuyển vào bệnh viện tâm thần ở Frankfurt."
+            }
+        }
+    ]
+}

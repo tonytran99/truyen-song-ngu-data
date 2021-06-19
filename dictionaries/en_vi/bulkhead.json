@@ -1,0 +1,42 @@
+{
+    "word": "bulkhead",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəlkˌhed/",
+            "/ˈbəlkˌhɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌlkhɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng",
+            "type": "noun",
+            "example": {
+                "en": "Guess we know the bulkhead doors are working.",
+                "vi": "Đoán là giờ chúng ta biết được cửa phòng này vẫn còn hoạt động."
+            }
+        },
+        {
+            "content": "buồng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vách ngăn",
+            "type": "noun",
+            "example": {
+                "en": "It's grade two, for opening heavy secure panels or bulkheads.",
+                "vi": "Mạnh mức 2, chuyên phá ván ô hay vách ngăn chịu lực."
+            }
+        }
+    ]
+}

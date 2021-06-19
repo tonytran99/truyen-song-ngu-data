@@ -1,0 +1,59 @@
+{
+    "word": "hindi",
+    "type": [
+        "adjective",
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhindē/",
+            "/ˈhɪndi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪndi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Hin-đi",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "Tiếng Hin-đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng Hindi",
+            "type": "noun",
+            "example": {
+                "en": "It was the Hindi scolding that did the job.",
+                "vi": "Chính cái câu mắng bằng tiếng Hindi là mấu chốt vụ này."
+            }
+        },
+        {
+            "content": "tiếng Ấn Độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tiếng Hindi",
+            "type": "",
+            "example": {
+                "en": "It was the Hindi scolding that did the job.",
+                "vi": "Chính cái câu mắng bằng tiếng Hindi là mấu chốt vụ này."
+            }
+        },
+        {
+            "content": "tiếng Hin-ddi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "word": "costume",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäsˌt(y)o͞om/",
+            "/ˈkɑsˌt(j)um/",
+            "/käsˈt(y)o͞om/",
+            "/kɑsˈt(j)um/",
+            "/ˈkäst(y)o͞om/",
+            "/ˈkɑst(j)um/",
+            "/ˈkästəm/",
+            "/ˈkɑstəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒstjuːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trang phục",
+            "type": "",
+            "example": {
+                "en": "You need to think carefully about your costume.",
+                "vi": "Cháu phải lựa chọn trang phục cẩn thận."
+            }
+        },
+        {
+            "content": "y phục",
+            "type": "noun",
+            "example": {
+                "en": "I guess I could put on a costume and fly around and pull cats out of trees.",
+                "vi": "Anh đoán anh có thể mặc y phục và bay vòng quanh bắt mèo kẹt trên cây."
+            }
+        },
+        {
+            "content": "cách ăn mặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc quần áo cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phục sức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phục trang",
+            "type": "",
+            "example": {
+                "en": "Learning lines and curtseying for the audience and wearing costumes.",
+                "vi": "Học thoại rồi nhún người chào khán giả rồi được mặc phục trang."
+            }
+        },
+        {
+            "content": "quần áo",
+            "type": "noun",
+            "example": {
+                "en": "I will get you an identical beard and costume.",
+                "vi": "Tôi sẽ tìm cho ngài một bộ râu và quần áo."
+            }
+        }
+    ]
+}

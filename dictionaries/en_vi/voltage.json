@@ -1,0 +1,40 @@
+{
+    "word": "voltage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvōltij/",
+            "/ˈvoʊltɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəʊltɪdʒ/",
+            "/ˈvɒltɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện áp",
+            "type": "noun",
+            "example": {
+                "en": "Dropping the voltage is very effective in reducing chip power .",
+                "vi": "Việc giảm điện áp rất hiệu quả trong việc giảm năng lượng chip ."
+            }
+        },
+        {
+            "content": "thế hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hiệu điện thế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

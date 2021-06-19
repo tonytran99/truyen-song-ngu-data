@@ -1,0 +1,42 @@
+{
+    "word": "hubbub",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəbəb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌbʌb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự náo loạn",
+            "type": "",
+            "example": {
+                "en": "And there's this huge hubbub.",
+                "vi": "Và có một sự náo loạn."
+            }
+        },
+        {
+            "content": "sự ồn ào huyên náo",
+            "type": "noun",
+            "example": {
+                "en": "The daily hubbub in Madrid was an advantage, screening us so that we were not too conspicuous.",
+                "vi": "Sự ồn ào huyên náo hằng ngày ở Madrid là lợi thế, làm người ta khó nhận thấy chúng tôi."
+            }
+        },
+        {
+            "content": "tình trạng hỗn nguyên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

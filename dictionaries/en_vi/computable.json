@@ -1,0 +1,47 @@
+{
+    "word": "computable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpyo͞odəb(ə)l/",
+            "/kəmˈpjudəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpjuːtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể tính",
+            "type": "",
+            "example": {
+                "en": "It basically embeds the most fundamental building block of computing,",
+                "vi": "Về cơ bản ta sẽ gắn những khối xây dựng nền tảng có thể tính toán,"
+            }
+        },
+        {
+            "content": "có thể tính toán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể ước tính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính được",
+            "type": "",
+            "example": {
+                "en": "We have a lot of computer setup right here.",
+                "vi": "Chúng tôi có rất nhiều máy tính được đặt ở đây."
+            }
+        }
+    ]
+}

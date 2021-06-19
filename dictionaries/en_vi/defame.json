@@ -1,0 +1,52 @@
+{
+    "word": "defame",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfām/",
+            "/dəˈfeɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfeɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phỉ báng",
+            "type": "verb",
+            "example": {
+                "en": "You're threatening to sue me for defaming your son?",
+                "vi": "Anh đang dọa sẽ kiện tôi vì đã phỉ báng con anh?"
+            }
+        },
+        {
+            "content": "bới xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mất danh dự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vu",
+            "type": "verb",
+            "example": {
+                "en": "Wrongful imprisonment, defamation of character.",
+                "vi": "Bị giam giữ oan, vu khống..."
+            }
+        }
+    ]
+}

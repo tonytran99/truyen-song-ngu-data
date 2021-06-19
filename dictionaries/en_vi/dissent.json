@@ -1,0 +1,45 @@
+{
+    "word": "dissent",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsent/",
+            "/dəˈsɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất đồng quan điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất đồng ý kiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bất đồng quan điểm",
+            "type": "",
+            "example": {
+                "en": "Otherwise, dissent and investigative journalism are going to become even more difficult in even more places.",
+                "vi": "Hoặc không, ngành báo điều tra và sự bất đồng quan điểm sẽ trở nên khó khăn hơn ở nhiều nơi hơn."
+            }
+        },
+        {
+            "content": "sự bất đồng ý kiến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

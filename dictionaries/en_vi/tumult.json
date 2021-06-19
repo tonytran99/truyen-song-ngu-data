@@ -1,0 +1,73 @@
+{
+    "word": "tumult",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈt(y)o͞oˌməlt/",
+            "/ˈt(j)uˌməlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtjuːmʌlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bối rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lộn xộn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự náo động",
+            "type": "",
+            "example": {
+                "en": "Here worshippers of Diana raised a tumult against Paul (Acts 19:22–41).",
+                "vi": "Tại đây những kẻ thờ Đi Anh dấy lên sự náo động chống lại Phao Lô (CVCSĐ 19:22–41)."
+            }
+        },
+        {
+            "content": "sự om sòm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xáo động",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự xôn xao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ồn ào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng ồn ào",
+            "type": "",
+            "example": {
+                "en": "The tumult and the shouting dies;",
+                "vi": "Tiếng ồn ào và la hét đã ngừng;"
+            }
+        },
+        {
+            "content": "xôn xao",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

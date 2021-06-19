@@ -1,0 +1,108 @@
+{
+    "word": "beast",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēst/",
+            "/bist/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thú vật",
+            "type": "noun",
+            "example": {
+                "en": "They live like beasts and die like beasts.",
+                "vi": "Họ sống như thú vật và chết như thú vật."
+            }
+        },
+        {
+            "content": "thú",
+            "type": "noun",
+            "example": {
+                "en": "A strange beast is roaming through the woods.",
+                "vi": "Một con thú kỳ lạ đang băng qua khu rừng."
+            }
+        },
+        {
+            "content": "người hung bạo",
+            "type": "",
+            "example": {
+                "en": "Figuratively speaking, people who are violent and aggressive in action and speech are compared to wild beasts.",
+                "vi": "Nói theo nghĩa bóng, những người hung bạo, nói năng và hành động dữ tợn được ví như thú dữ."
+            }
+        },
+        {
+            "content": "súc vật",
+            "type": "",
+            "example": {
+                "en": "The clean beasts, however, were preserved not strictly for the purpose of procreation.",
+                "vi": "Tuy nhiên, các súc vật thanh sạch không chỉ được bảo tồn với mục đích sinh sản."
+            }
+        },
+        {
+            "content": "động vật",
+            "type": "noun",
+            "example": {
+                "en": "I mean, I think that looks like some sort of flying animal or beast.",
+                "vi": "Ý tôi là, tôi nghĩ nó trông giống như một loại động vật hay thú nuôi đang bay."
+            }
+        },
+        {
+            "content": "con quái thú",
+            "type": "noun",
+            "example": {
+                "en": "We're going to need a lot of manpower to program that beast.",
+                "vi": "Sẽ cần rất nhiều nhân lực để lập trình con quái thú đó."
+            }
+        },
+        {
+            "content": "con thú",
+            "type": "noun",
+            "example": {
+                "en": "A strange beast is roaming through the woods.",
+                "vi": "Một con thú kỳ lạ đang băng qua khu rừng."
+            }
+        },
+        {
+            "content": "gia súc",
+            "type": "noun",
+            "example": {
+                "en": "There won't be a single bloody beast in this stockyard to start the drove in the morning.",
+                "vi": "Sẽ không còn ai chăn đàn gia súc mỗi buổi sáng nữa đâu."
+            }
+        },
+        {
+            "content": "người mình ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú nuôi",
+            "type": "",
+            "example": {
+                "en": "I mean, I think that looks like some sort of flying animal or beast.",
+                "vi": "Ý tôi là, tôi nghĩ nó trông giống như một loại động vật hay thú nuôi đang bay."
+            }
+        },
+        {
+            "content": "beast",
+            "type": "",
+            "example": {
+                "en": "Free popcorn to anyone who can slay the beast.",
+                "vi": "Bỏng ngô miễn phí cho bất kỳ ai hạ được Beast."
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "word": "gallery",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡal(ə)rē/",
+            "/ˈɡæl(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡal(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà cầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ban công",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bộ sưu tập",
+            "type": "noun",
+            "example": {
+                "en": "Apparently, there was a whole rogue's gallery stored in one of the boxes.",
+                "vi": "Họ có cả 1 bộ sưu tập đấy."
+            }
+        },
+        {
+            "content": "chuồng gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành lang",
+            "type": "noun",
+            "example": {
+                "en": "At the first-floor level, a wooden gallery ran around the wall, providing access to rooms reserved for family use.",
+                "vi": "Ở tầng một có một hành lang bằng gỗ dọc theo tường, dẫn vào các phòng dành cho gia đình."
+            }
+        },
+        {
+            "content": "khán giả chuồng gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mở đương hầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường hầm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đục đường hầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gallery",
+            "type": "noun",
+            "example": {
+                "en": "Gallery mode-do not connect to scanner",
+                "vi": "Chế độ gallery không thể nối vào scanner"
+            }
+        },
+        {
+            "content": "phòng triển lãm",
+            "type": "noun",
+            "example": {
+                "en": "I'm never gonna find another gallery at this age.",
+                "vi": "Mình sẽ chẳng bao giờ tìm được một phòng triển lãm nhận mình vào tuổi này nữa."
+            }
+        },
+        {
+            "content": "phòng trưng bày",
+            "type": "",
+            "example": {
+                "en": "It's just two holes on the gallery wall.",
+                "vi": "Chỉ là hai cái lỗ trên tường phòng trưng bày."
+            }
+        },
+        {
+            "content": "bộ sưu tập ảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong trung bay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

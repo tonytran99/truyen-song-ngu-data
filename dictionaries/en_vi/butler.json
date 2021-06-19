@@ -1,0 +1,37 @@
+{
+    "word": "butler",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbətlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌtlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quản gia",
+            "type": "noun",
+            "example": {
+                "en": "But a broken down, bent, buckled old butler will have to be sufficient.",
+                "vi": "Nhưng một lão quản gia già, khánh kiệt, thọt chân vẫn đủ khả năng."
+            }
+        },
+        {
+            "content": "người hầu",
+            "type": "",
+            "example": {
+                "en": "Be a dear and have the butler give it a wash, would you?",
+                "vi": "Hãy ngoan đem nó cho người hầu đi giặt nhé?"
+            }
+        }
+    ]
+}

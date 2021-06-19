@@ -1,0 +1,41 @@
+{
+    "word": "eke",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēk/",
+            "/ik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thêm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cũng",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "bổ khuyết",
+            "type": "",
+            "example": {
+                "en": "It may yet be possible to eke out a poor existence for radio,",
+                "vi": "Tuy nhiên có khả năng bổ khuyết một sự tồn tại nghèo nàn cho radio"
+            }
+        }
+    ]
+}

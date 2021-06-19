@@ -1,0 +1,61 @@
+{
+    "word": "impound",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpound/",
+            "/ɪmˈpaʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpaʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhốt",
+            "type": "verb",
+            "example": {
+                "en": "I see this car roll by one more time, I'm gonna impound it.",
+                "vi": "Nếu tôi thấy xe này chạy ngang qua đây, Tôi sẽ nhốt nó lại."
+            }
+        },
+        {
+            "content": "giam",
+            "type": "",
+            "example": {
+                "en": "It's nice to be out of the impound, and this is... it's great.",
+                "vi": "Nó quá đẹp so với chỗ phòng giam, và nó... nó thật tuyệt."
+            }
+        },
+        {
+            "content": "ngăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sung công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tịch thu",
+            "type": "",
+            "example": {
+                "en": "Do you really think that I would let somebody impound my car?",
+                "vi": "Các người nghĩ tôi để cho người khác tịch thu xe mình sao?"
+            }
+        },
+        {
+            "content": "tịch thâu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

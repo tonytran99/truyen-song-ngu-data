@@ -1,0 +1,45 @@
+{
+    "word": "eatable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēdəb(ə)l/",
+            "/ˈidəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ăn được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ăn ngon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ ăn",
+            "type": "",
+            "example": {
+                "en": "Eatables are not allowed either",
+                "vi": "Đồ ăn cũng không được mang theo."
+            }
+        }
+    ]
+}

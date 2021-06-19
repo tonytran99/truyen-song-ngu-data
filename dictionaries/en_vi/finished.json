@@ -1,0 +1,117 @@
+{
+    "word": "finished",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiniSHt/",
+            "/ˈfɪnɪʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪnɪʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hết",
+            "type": "verb",
+            "example": {
+                "en": "Blackmail or no blackmail, he will be finished, right?",
+                "vi": "Tống tiền hay không tống tiền, hắn sẽ xử lý hết, đúng không?"
+            }
+        },
+        {
+            "content": "tận",
+            "type": "adjective",
+            "example": {
+                "en": "Finish the remodeling, spend some time with Tracy.",
+                "vi": "ngừng việc này đi. hãy tận hưởng một chút thời gian với Tracy đi."
+            }
+        },
+        {
+            "content": "vãn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đã hoàn chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã hoàn hảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã hoàn thành",
+            "type": "",
+            "example": {
+                "en": "I finished my math assignment.",
+                "vi": "Tôi đã hoàn thành bài tập toán của tôi rồi."
+            }
+        },
+        {
+            "content": "đã kết thúc",
+            "type": "",
+            "example": {
+                "en": "Mr. Miller, the man was finished when he fell.",
+                "vi": "Anh Miller gã đó đã kết thúc khi hắn té xuống vách núi rồi."
+            }
+        },
+        {
+            "content": "đã xong",
+            "type": "",
+            "example": {
+                "en": "With the rooftop garden finished, construction is now complete.",
+                "vi": "Cùng với dự án khu vường trên sân thượng đã xong, Cơ bản nó đã được hoàn thành."
+            }
+        },
+        {
+            "content": "chấm dứt",
+            "type": "",
+            "example": {
+                "en": "I could finish your career with one phone call.",
+                "vi": "Tôi có thể chấm dứt sự nghiệp của cậu bằng một cú điện."
+            }
+        },
+        {
+            "content": "hoàn chỉnh",
+            "type": "",
+            "example": {
+                "en": "It hasn't yet become fine-tuned enough to finish what has been initiated.",
+                "vi": "Nó chưa đủ hoàn chỉnh để kết thúc những gì đã bắt đầu."
+            }
+        },
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {
+                "en": "Tom wondered how long it would take Mary to finish the job.",
+                "vi": "Tom thắc mắc không biết mất bao lâu thì Mary hoàn thành công việc."
+            }
+        },
+        {
+            "content": "hoàn tất",
+            "type": "",
+            "example": {
+                "en": "We can finish it later.",
+                "vi": "Chúng tôi có thể hoàn tất nó sau."
+            }
+        },
+        {
+            "content": "kết thúc",
+            "type": "noun",
+            "example": {
+                "en": "Happy endings are just stories that haven't finished yet.",
+                "vi": "Kết thúc có hậu chỉ vì câu chuyện đó vẫn chưa kết thúc."
+            }
+        }
+    ]
+}

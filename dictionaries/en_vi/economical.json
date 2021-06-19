@@ -1,0 +1,53 @@
+{
+    "word": "economical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekəˈnämik(ə)l/",
+            "/ˌɛkəˈnɑmɪk(ə)l/",
+            "/ˌēkəˈnämik(ə)l/",
+            "/ˌikəˈnɑmɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːkəˈnɒmɪk(ə)l/",
+            "/ɛkəˈnɒmɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiết kiệm",
+            "type": "adjective",
+            "example": {
+                "en": "So they're quite beautiful, but they're beautiful because they're so smart and economical.",
+                "vi": "Chúng đẹp bởi vì chúng thông minh và tiết kiệm."
+            }
+        },
+        {
+            "content": "kinh tế",
+            "type": "adjective noun",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        },
+        {
+            "content": "tiét kiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiệm",
+            "type": "",
+            "example": {
+                "en": "Though we rarely had extra funds, we learned to economize, and we always had what we needed.",
+                "vi": "Dù không dư dả nhưng chúng tôi tập tiết kiệm và luôn có đủ những thứ cần dùng."
+            }
+        }
+    ]
+}

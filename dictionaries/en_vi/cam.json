@@ -1,0 +1,51 @@
+{
+    "word": "cam",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kam/",
+            "/kæm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cam",
+            "type": "noun",
+            "example": {
+                "en": "Well, you said the dash cam only showed one attacker.",
+                "vi": "Anh nói cam hành trình chỉ cho thấy 1 kẻ tấn công."
+            }
+        },
+        {
+            "content": "bánh cam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh lệch tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cơ cấu cam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đĩa lệch trục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

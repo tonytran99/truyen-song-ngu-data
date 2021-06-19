@@ -1,0 +1,99 @@
+{
+    "word": "hug",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ôm",
+            "type": "verb",
+            "example": {
+                "en": "Tom hugged Mary and kissed her.",
+                "vi": "Tom ôm và hôn Mary."
+            }
+        },
+        {
+            "content": "ôm chặt",
+            "type": "",
+            "example": {
+                "en": "It felt like a hug from our daughter.",
+                "vi": "Tôi cảm thấy như được con gái của chúng tôi ôm chặt."
+            }
+        },
+        {
+            "content": "cái ôm chặt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ôm ghì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi sát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấp",
+            "type": "verb",
+            "example": {
+                "en": "Also, hugs not drugs.",
+                "vi": "Ngoài ra, ôm ấp không phải ma túy."
+            }
+        },
+        {
+            "content": "bá",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bám chặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ôm ấp",
+            "type": "",
+            "example": {
+                "en": "Also, hugs not drugs.",
+                "vi": "Ngoài ra, ôm ấp không phải ma túy."
+            }
+        },
+        {
+            "content": "ưa thích",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "Ôm",
+            "type": "",
+            "example": {
+                "en": "Tom hugged Mary and kissed her.",
+                "vi": "Tom ôm và hôn Mary."
+            }
+        },
+        {
+            "content": "cái ôm",
+            "type": "noun",
+            "example": {
+                "en": "I mean, a few tears, a cursory hug?",
+                "vi": "Chỉ vài giọt nước mắt, một cái ôm nhẹ nhàng?"
+            }
+        }
+    ]
+}

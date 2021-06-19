@@ -1,0 +1,58 @@
+{
+    "word": "confidentiality",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/känfədenSHēˈalədē/",
+            "/kɑnfədɛnʃiˈælədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒnfɪdɛnʃɪˈalɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "You were praised for your discretion your strict adherence to confidentiality.",
+                "vi": "Và nghiêm ngặt trong việc giữ bí mật."
+            }
+        },
+        {
+            "content": "bảo mật",
+            "type": "noun",
+            "example": {
+                "en": "We had to agree to total confidentiality and sign a non-disclosure agreement.",
+                "vi": "Chúng tôi phải chấp nhận bảo mật toàn bộ và ký một thỏa thuận không tiết lộ."
+            }
+        },
+        {
+            "content": "cơ mật",
+            "type": "",
+            "example": {
+                "en": "A week... and you're already having confidential conversations with the president.",
+                "vi": "Một tuần... mà cậu đã nói chuyện cơ mật với Tổng thống."
+            }
+        },
+        {
+            "content": "söï bí maät",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cẩn mật",
+            "type": "",
+            "example": {
+                "en": "But Mrs Clinton said diplomats often needed confidentiality to be effective .",
+                "vi": "Nhưng bà Clinton nói rằng các nhà ngoại giao cần phải có sự cẩn mật để đạt được hiệu quả ."
+            }
+        }
+    ]
+}

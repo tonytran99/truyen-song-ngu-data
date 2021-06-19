@@ -1,0 +1,56 @@
+{
+    "word": "franchise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfranˌCHīz/",
+            "/ˈfrænˌtʃaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfran(t)ʃʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyền bầu cử",
+            "type": "",
+            "example": {
+                "en": "Dutton Peabody exercising his franchise.",
+                "vi": "Dutton Peabody thực hành quyền bầu cử."
+            }
+        },
+        {
+            "content": "nhượng quyền",
+            "type": "",
+            "example": {
+                "en": "the biggest exercise in democratic franchise in human history.",
+                "vi": "động thái lớn nhất của sự nhượng quyền dân chủ trong lịch sử."
+            }
+        },
+        {
+            "content": "quyền công dân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tư cách hội viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặc quyền",
+            "type": "noun",
+            "example": {
+                "en": "and quite literally a franchise business.",
+                "vi": "thực sự là một kinh doanh đặc quyền."
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "word": "contented",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈten(t)əd/",
+            "/kənˈtɛn(t)əd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtɛntɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vừa lòng",
+            "type": "",
+            "example": {
+                "en": "Small price to pay to keep him contented.",
+                "vi": "Làm ông ta vừa lòng cũng được 1 khoản nhỏ."
+            }
+        },
+        {
+            "content": "bằng lòng",
+            "type": "adjective",
+            "example": {
+                "en": "Hence, we have learned to be content with a simple life.",
+                "vi": "Vì thế, chúng tôi tập bằng lòng với đời sống giản dị."
+            }
+        },
+        {
+            "content": "hài lòng",
+            "type": "adjective",
+            "example": {
+                "en": "Generally the first dog can be relatively content.",
+                "vi": "Nhìn chung, con chó đầu tiên có thể cảm thấy tương đối hài lòng."
+            }
+        },
+        {
+            "content": "mãn nguyện",
+            "type": "",
+            "example": {
+                "en": "Charity, in positive terms, is patient, kind, and content.",
+                "vi": "Một người có lòng bác ái là người có lòng kiên nhẫn, nhân từ và mãn nguyện."
+            }
+        },
+        {
+            "content": "thoả mãn",
+            "type": "",
+            "example": {
+                "en": "He was just a perfectly lovely guy, perfectly content with his life until hurricane Lynette hit him.",
+                "vi": "Và anh ta chẳng phải Tom. hoàn toàn thoả mãn với đời mình tới khi cơn bão Lynette giáng xuống."
+            }
+        },
+        {
+            "content": "toại nguyện",
+            "type": "adjective",
+            "example": {
+                "en": "Never in my entire life have I ever been as content.",
+                "vi": "cả đời tôi, chưa từng bao giờ tôi có được trạng thái toại nguyện như thế."
+            }
+        },
+        {
+            "content": "vừa ý",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đành lòng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thỏa mãn",
+            "type": "",
+            "example": {
+                "en": "The idea is that having that thing will make us content.",
+                "vi": "Quan niệm cho rằng có được điều đó sẽ khiến chúng ta thỏa mãn."
+            }
+        }
+    ]
+}

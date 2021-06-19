@@ -1,0 +1,59 @@
+{
+    "word": "triplicate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtripləkət/",
+            "/ˈtrɪpləkət/",
+            "/ˈtripləˌkāt/",
+            "/ˈtrɪpləˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɪplɪkət/",
+            "/ˈtrɪplɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản sao ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ba lần",
+            "type": "",
+            "example": {
+                "en": "And they were all paid in triplicate.",
+                "vi": "Và tất cả đều được thanh toán chỉ trong vòng ba lần."
+            }
+        },
+        {
+            "content": "làm thành ba bản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành ba bản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tăng lên ba lần",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

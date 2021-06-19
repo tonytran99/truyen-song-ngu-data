@@ -1,0 +1,71 @@
+{
+    "word": "gravel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡravəl/",
+            "/ˈɡrævəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrav(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sỏi",
+            "type": "noun",
+            "example": {
+                "en": "We headed east until we came to a rough slope of rock and gravel.",
+                "vi": "Chúng tôi cứ đi về phía đông cho đến khi gặp một đường dốc toàn đá và sỏi."
+            }
+        },
+        {
+            "content": "bệnh sỏi thận",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cát chứa vàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm bối rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lúng túng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rải sỏi",
+            "type": "",
+            "example": {
+                "en": "And in Arizona, of course, everybody puts gravel down.",
+                "vi": "Ở Arizona mọi người bắt đầu rải sỏi."
+            }
+        },
+        {
+            "content": "Sỏi",
+            "type": "",
+            "example": {
+                "en": "You know the kind of clay and gravel we got here in the compound?",
+                "vi": "Anh biết loại đất sét và sỏi trong khu trại này không?"
+            }
+        },
+        {
+            "content": "sa",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

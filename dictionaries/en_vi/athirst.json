@@ -1,0 +1,34 @@
+{
+    "word": "athirst",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈTHərst/",
+            "/əˈθərst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈθəːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khát",
+            "type": "adjective",
+            "example": {
+                "en": "And they shall not go hungry, neither athirst.",
+                "vi": "Và họ sẽ không bị đói cũng không bị khát."
+            }
+        },
+        {
+            "content": "khao khát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

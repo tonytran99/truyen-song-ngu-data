@@ -1,0 +1,48 @@
+{
+    "word": "cask",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kask/",
+            "/kæsk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːsk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thùng",
+            "type": "noun",
+            "example": {
+                "en": "and wine casks and all kinds of things.",
+                "vi": "hay trong những thùng rượu và những thứ tương tự như thế."
+            }
+        },
+        {
+            "content": "thùng ton nô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thùng rượu",
+            "type": "",
+            "example": {
+                "en": "and wine casks and all kinds of things.",
+                "vi": "hay trong những thùng rượu và những thứ tương tự như thế."
+            }
+        },
+        {
+            "content": "thùng tonneau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

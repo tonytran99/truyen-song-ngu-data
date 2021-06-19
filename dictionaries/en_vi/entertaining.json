@@ -1,0 +1,47 @@
+{
+    "word": "entertaining",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌen(t)ərˈtāniNG/",
+            "/ˌɛn(t)ərˈteɪnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛntəˈteɪnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thú vị",
+            "type": "noun",
+            "example": {
+                "en": "They were significantly less entertained when this went on for the next week.",
+                "vi": "Sự thú vị giảm đi nhiều khi sự việc này tiếp diễn vào tuần sau đó."
+            }
+        },
+        {
+            "content": "vui thú",
+            "type": "noun",
+            "example": {
+                "en": "They were a happy group and a joy to entertain.",
+                "vi": "Họ là những người vui vẻ, và được đón tiếp họ là điều vui thú."
+            }
+        },
+        {
+            "content": "giải trí",
+            "type": "noun",
+            "example": {
+                "en": "There are games that are praised for being educational and entertaining.",
+                "vi": "Có những trò chơi được khen vì có tác dụng giáo dục và giải trí."
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "fully",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝olē/",
+            "/ˈfʊli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầy đủ",
+            "type": "adverb",
+            "example": {
+                "en": "I don't think you fully appreciate the gravity of the situation.",
+                "vi": "Tôi không nghĩ cậu đánh giá đầy đủ tính nghiêm trọng của tình trạng hiện nay."
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "adverb",
+            "example": {
+                "en": "There are youth who yet need fully to repent.",
+                "vi": "Có các thiếu niên thiếu nữ còn cần phải hối cải hoàn toàn."
+            }
+        },
+        {
+            "content": "trọn",
+            "type": "adverb",
+            "example": {
+                "en": "To share one's passion is to live it fully.",
+                "vi": "Chia sẻ đam mê của ai đó chính là sống thật trọn vẹn với nó."
+            }
+        },
+        {
+            "content": "đầy",
+            "type": "adverb",
+            "example": {
+                "en": "The plane, fully fueled, plunged into a residential complex.",
+                "vi": "Phi cơ chứa đầy nhiên liệu lao xuống một khu cư xá."
+            }
+        },
+        {
+            "content": "ra hồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ít ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

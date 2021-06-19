@@ -1,0 +1,58 @@
+{
+    "word": "inaugurate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnôɡ(y)əˌrāt/",
+            "/ɪˈnɔɡ(j)əˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɔːɡjʊreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khánh thành",
+            "type": "verb",
+            "example": {
+                "en": "What can you tell us about how much I do not know inauguration of the amphitheater?",
+                "vi": "Ngài thấy lễ khánh thành đấu trường mới thế nào?"
+            }
+        },
+        {
+            "content": "tấn phong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho thi hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai mạc",
+            "type": "verb",
+            "example": {
+                "en": "On its inaugural day in 1936, President David O.",
+                "vi": "Trong ngày khai mạc chương trình vào năm 1936, Chủ Tịch David O."
+            }
+        },
+        {
+            "content": "mở đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giới thiệu",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

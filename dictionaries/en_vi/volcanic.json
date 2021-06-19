@@ -1,0 +1,45 @@
+{
+    "word": "volcanic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/välˈkanik/",
+            "/vɑlˈkænɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɒlˈkanɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hung hăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nóng nảy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "núi lửa",
+            "type": "noun",
+            "example": {
+                "en": "Perhaps volcanic heat could generate enough to get life off the ground in Titan.",
+                "vi": "Nhiệt núi lửa có khả năng cung cấp đủ cho sự sống khởi đầu trên bề mặt."
+            }
+        },
+        {
+            "content": "sục sôi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

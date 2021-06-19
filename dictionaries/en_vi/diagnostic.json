@@ -1,0 +1,48 @@
+{
+    "word": "diagnostic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdīəɡˈnästik/",
+            "/ˌdaɪəɡˈnɑstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪəɡˈnɒstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuẩn đoán phát hiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chẩn đoán",
+            "type": "",
+            "example": {
+                "en": "Each one of these genes has potential diagnostic test.",
+                "vi": "Mỗi một gen trong số chúng có tiềm năng cho việc kiểm tra chẩn đoán."
+            }
+        },
+        {
+            "content": "chẩn đoán học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "triệu chứng",
+            "type": "noun",
+            "example": {
+                "en": "Your fourth diagnostic criterion for lupus is psychosis.",
+                "vi": "Triệu chứng tiêu chuẩn thứ tư của bệnh Lupus là rối loạn tâm thần."
+            }
+        }
+    ]
+}

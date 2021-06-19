@@ -1,0 +1,53 @@
+{
+    "word": "crispy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrispē/",
+            "/ˈkrɪspi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪspi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giòn",
+            "type": "adjective, adverb",
+            "example": {
+                "en": "I don't like it seared, I don't like it crispy.",
+                "vi": "Tôi không thích da cá khô. Tôi không thích da cá chiên giòn."
+            }
+        },
+        {
+            "content": "xoăn",
+            "type": "",
+            "example": {
+                "en": "You look a little crispy to be Liam.",
+                "vi": "Tóc cháu xoăn hơi ít để làm Liam."
+            }
+        },
+        {
+            "content": "quăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạt bát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhanh nhẹn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "inter",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtər/",
+            "/ɪnˈtər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtəː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chôn cất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mai táng",
+            "type": "verb",
+            "example": {
+                "en": "Your mother is interred... at the Cedar Heights Funeral Home until arrangements can be made.",
+                "vi": "Mẹ của hai người đang được quàng tạm ở nhà mai táng Cedar Heights cho tới khi sắp xếp xong mọi việc."
+            }
+        },
+        {
+            "content": "chôn",
+            "type": "",
+            "example": {
+                "en": "Eventually, over 1,500 corpses were interred there.",
+                "vi": "Hơn 1.500 thi thể đã được chôn ở đó."
+            }
+        }
+    ]
+}

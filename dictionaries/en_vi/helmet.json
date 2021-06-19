@@ -1,0 +1,65 @@
+{
+    "word": "helmet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhelmət/",
+            "/ˈhɛlmət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛlmɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mũ bảo hiểm",
+            "type": "noun",
+            "example": {
+                "en": "You're playing with fire if you insist on riding your motorcycle without a helmet on.",
+                "vi": "Bạn đang đùa với lửa nếu bạn nhất quyết chạy xe máy mà không đội mũ bảo hiểm."
+            }
+        },
+        {
+            "content": "mũ sắt",
+            "type": "",
+            "example": {
+                "en": "They'll cave your head in with your own helmet.",
+                "vi": "Họ sẽ dùng mũ sắt của anh để nạo đầu anh."
+            }
+        },
+        {
+            "content": "cái chao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái chụp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái nắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mũ cát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Mũ bảo hiểm",
+            "type": "",
+            "example": {
+                "en": "You're playing with fire if you insist on riding your motorcycle without a helmet on.",
+                "vi": "Bạn đang đùa với lửa nếu bạn nhất quyết chạy xe máy mà không đội mũ bảo hiểm."
+            }
+        }
+    ]
+}

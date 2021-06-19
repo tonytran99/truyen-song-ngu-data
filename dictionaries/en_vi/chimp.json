@@ -1,0 +1,30 @@
+{
+    "word": "chimp",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHimp/",
+            "/tʃɪmp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɪmp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tinh tinh",
+            "type": "noun",
+            "example": {
+                "en": "He hasn't spent any time with other chimps.",
+                "vi": "Nó chưa từng sống cùng con tinh tinh nào."
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "canned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kand/",
+            "/kænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kand/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được đóng hộp",
+            "type": "",
+            "example": {
+                "en": "About 45,000 quarts (42,600 L) of fruits and vegetables a year were canned for the entire Bethel family.",
+                "vi": "Mỗi năm, có khoảng 45.000 lọ (cỡ 0,9 lít) trái cây và rau củ được đóng hộp cho cả gia đình Bê-tên."
+            }
+        },
+        {
+            "content": "say bí tỉ",
+            "type": "",
+            "example": {
+                "en": "We can get hammered, blow some chunks in the woods.",
+                "vi": "Chúng ta có thể say bí tỉ, đạp đổ vài khúc cây trong rừng."
+            }
+        },
+        {
+            "content": "say mèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng hộp",
+            "type": "",
+            "example": {
+                "en": "As a boy I always looked forward to canning season.",
+                "vi": "Khi còn niên thiếu, tôi luôn luôn mong đợi mùa đóng hộp trái cây và rau quả."
+            }
+        },
+        {
+            "content": "được ghi vào băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được thu vào đĩa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

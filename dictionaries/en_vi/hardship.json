@@ -1,0 +1,54 @@
+{
+    "word": "hardship",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärdˌSHip/",
+            "/ˈhɑrdˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːdʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự gian khổ",
+            "type": "",
+            "example": {
+                "en": "On the other hand, the humble person endures hardships and trials, even as Job did.",
+                "vi": "Trái lại, người khiêm nhường chịu đựng sự gian khổ và thử thách, như Gióp đã làm."
+            }
+        },
+        {
+            "content": "gian khổ",
+            "type": "",
+            "example": {
+                "en": "And some young people suffer even more obvious hardships.",
+                "vi": "Và một số những người trẻ thậm chí còn chịu đựng nhiều gian khổ hơn nữa."
+            }
+        },
+        {
+            "content": "khó khăn",
+            "type": "",
+            "example": {
+                "en": "We're sorry if detaining you has caused you any hardship.",
+                "vi": "Chúng tôi rất tiếc nếu việc giữ cha đã gây ra khó khăn cho cha."
+            }
+        },
+        {
+            "content": "khổ",
+            "type": "adjective noun",
+            "example": {
+                "en": "Rasband’s ancestors stays strong despite hardship and heartache.",
+                "vi": "Rasband vẫn vững mạnh bất chấp nỗi gian nan và đau khổ."
+            }
+        }
+    ]
+}

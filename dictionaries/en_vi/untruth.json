@@ -1,0 +1,54 @@
+{
+    "word": "untruth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈtro͞oTH/",
+            "/ˌənˈtruθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtruːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyện gi dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều gi dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều nói dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều nói láo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều nói sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói dối",
+            "type": "noun",
+            "example": {
+                "en": "Every lie is an untruth, but not every untruth is a lie.",
+                "vi": "Mọi lời nói dối đều không thật, nhưng không phải mọi lời không thật đều là nói dối."
+            }
+        }
+    ]
+}

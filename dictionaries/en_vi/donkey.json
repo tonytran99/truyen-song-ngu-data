@@ -1,0 +1,67 @@
+{
+    "word": "donkey",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôNGkē/",
+            "/ˈdɔŋki/",
+            "/ˈdäNGkē/",
+            "/ˈdɑŋki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒŋki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa",
+            "type": "noun",
+            "example": {
+                "en": "You can haggle the hind legs off a donkey.",
+                "vi": "Bà có thể trả giá mua cả chân con lừa."
+            }
+        },
+        {
+            "content": "con lừa",
+            "type": "noun",
+            "example": {
+                "en": "You can haggle the hind legs off a donkey.",
+                "vi": "Bà có thể trả giá mua cả chân con lừa."
+            }
+        },
+        {
+            "content": "Donkey",
+            "type": "",
+            "example": {
+                "en": "I'm the Donkey Kong champion of the world.",
+                "vi": "Tôi là trùm thế giới trò Donkey Kong."
+            }
+        },
+        {
+            "content": "chó",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "donkey-engine",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ngu đần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con lùa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

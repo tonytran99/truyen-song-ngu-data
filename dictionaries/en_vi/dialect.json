@@ -1,0 +1,55 @@
+{
+    "word": "dialect",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīəˌlekt/",
+            "/ˈdaɪəˌlɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəlɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phương ngôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương ngữ",
+            "type": "noun",
+            "example": {
+                "en": "Based on their accents and dialects, they must be from a town called Tropoja.",
+                "vi": "Theo ngữ giọng và phương ngữ của chúng thì chắc chúng là dân của Tropoja."
+            }
+        },
+        {
+            "content": "thổ ngữ",
+            "type": "noun",
+            "example": {
+                "en": "It is from a dialect no longer spoken.",
+                "vi": "Nó là từ một thổ ngữ đã không còn được sử dụng."
+            }
+        },
+        {
+            "content": "tiếng địa phương",
+            "type": "noun",
+            "example": {
+                "en": "That dialect coach who helped you with a Southern accent.",
+                "vi": "Người dạy tiếng địa phương giúp cậu nói giọng miền nam."
+            }
+        },
+        {
+            "content": "thổ ngư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

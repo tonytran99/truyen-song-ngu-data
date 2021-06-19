@@ -1,0 +1,44 @@
+{
+    "word": "cutlery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkətlərē/",
+            "/ˈkətləri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌtləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghề làm dao kéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dao kéo",
+            "type": "noun",
+            "example": {
+                "en": "that most of the cutlery in the house had been hidden,",
+                "vi": "đến nỗi hầu hết dao kéo trong nhà đều được giấu đi,"
+            }
+        },
+        {
+            "content": "nghề bán dao kéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "muỗng đũa (spoons and chopsticks), muỗng nĩa (spoons and forks), dao nĩa (knives and forks), thìa muỗng (spoons)",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "irritating",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiriˌtādiNG/",
+            "/ˈɪrɪˌteɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪrɪteɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm phát cáu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bực tức",
+            "type": "",
+            "example": {
+                "en": "Let love, not irritation, motivate what you say.",
+                "vi": "Nói với động lực là tình yêu thương, chứ không phải sự bực tức."
+            }
+        },
+        {
+            "content": "chọc tức",
+            "type": "",
+            "example": {
+                "en": "You didn't ask his secretary, you said that just to irritate him.",
+                "vi": "Anh không hề hỏi thư ký anh ta, anh nói vậy chỉ để chọc tức anh ta."
+            }
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "It's probably a mild skin irritation.",
+                "vi": "Có lẽ là kích thích da nhẹ thôi."
+            }
+        }
+    ]
+}

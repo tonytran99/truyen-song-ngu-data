@@ -1,0 +1,47 @@
+{
+    "word": "hastily",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhāstəlē/",
+            "/ˈheɪstəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪstɪli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lật đật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tất tả",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vội vã",
+            "type": "adverb",
+            "example": {
+                "en": "You recall I had to leave town rather hastily.",
+                "vi": "Anh nhớ tôi đã phải rời thị trấn hơi vội vã."
+            }
+        },
+        {
+            "content": "hấp tấp",
+            "type": "",
+            "example": {
+                "en": "Stress the reasons why we should not hastily form opinions about the people we meet.",
+                "vi": "Nhấn mạnh lý do vì sao chúng ta không nên hấp tấp phán đoán những người mình gặp."
+            }
+        }
+    ]
+}

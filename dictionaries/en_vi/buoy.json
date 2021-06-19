@@ -1,0 +1,85 @@
+{
+    "word": "buoy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͞oē/",
+            "/ˈbui/",
+            "/boi/",
+            "/bɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phao",
+            "type": "noun",
+            "example": {
+                "en": "The strongest swimmer uses the tina as a buoy and leads the group across.",
+                "vi": "Rồi người bơi mạnh nhất dùng cái tina như chiếc phao và dẫn nguyên nhóm qua sông."
+            }
+        },
+        {
+            "content": "chỗ nương tựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giữ cho khỏi chìm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giữ vững tinh thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho phấn chấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nâng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phao cứu đắm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phao tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thả phao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt phao",
+            "type": "",
+            "example": {
+                "en": "I always set the buoy.",
+                "vi": "Anh luôn đặt phao."
+            }
+        }
+    ]
+}

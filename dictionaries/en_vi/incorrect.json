@@ -1,0 +1,60 @@
+{
+    "word": "incorrect",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkəˈrekt/",
+            "/ˌɪnkəˈrɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkəˈrɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sai",
+            "type": "adjective",
+            "example": {
+                "en": "Patiently listen to your child’s point of view, even if you feel that view is incorrect.",
+                "vi": "Hãy kiên nhẫn lắng nghe ý kiến của con, dù bạn nghĩ đó là sai."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "adjective",
+            "example": {
+                "en": "Upon inspection , this information was found to be incorrect .",
+                "vi": "Khi kiểm tra thì thông tin này không đúng ."
+            }
+        },
+        {
+            "content": "còn đầy lỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chính xác",
+            "type": "",
+            "example": {
+                "en": "because we think this is the incorrect diagnosis,",
+                "vi": "vì chúng tôi nghĩ đó là một chẩn đoán không chính xác"
+            }
+        },
+        {
+            "content": "không chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đứng đắn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

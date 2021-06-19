@@ -1,0 +1,55 @@
+{
+    "word": "commence",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmens/",
+            "/kəˈmɛns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɛns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt đầu",
+            "type": "verb",
+            "example": {
+                "en": "I expect firebombing to commence within 48 hours.",
+                "vi": "Tôi hy vọng việc ném bom sẽ bắt đầu trong vòng 48 tiếng nữa."
+            }
+        },
+        {
+            "content": "đỗ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khởi đầu",
+            "type": "",
+            "example": {
+                "en": "The Commencement of Missionary Work",
+                "vi": "Sự Khởi Đầu của Công Việc Truyền Giáo"
+            }
+        },
+        {
+            "content": "mở đầu",
+            "type": "",
+            "example": {
+                "en": "Let the indulging commence.",
+                "vi": "Để người dỗ dành mở đầu nào."
+            }
+        },
+        {
+            "content": "trúng tuyển",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

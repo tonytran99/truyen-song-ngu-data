@@ -1,0 +1,61 @@
+{
+    "word": "inhale",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhāl/",
+            "/ɪnˈheɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈheɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nuốt",
+            "type": "verb",
+            "example": {
+                "en": "He doesn't chew, he inhales.",
+                "vi": "Cậu ấy không nhai mà nuốt luôn."
+            }
+        },
+        {
+            "content": "hít vào",
+            "type": "",
+            "example": {
+                "en": "She must have inhaled some residue with her dying gasps.",
+                "vi": "Bà ấy phải hít vào dư lượng khi thở hổn hển sắp chết."
+            }
+        },
+        {
+            "content": "hít",
+            "type": "verb",
+            "example": {
+                "en": "And we believe he's abusing them as psychoactive inhalants.",
+                "vi": "Và chúng tôi tin hắn lạm dụng chúng như thuốc hít thần kinh."
+            }
+        },
+        {
+            "content": "hút",
+            "type": "verb",
+            "example": {
+                "en": "He drank vintage tea from it, was he inhaling the history?",
+                "vi": "Đã lấy đi pha trà Phổ nhĩ đời Trần mà uống, định hút tiên khí sao?"
+            }
+        },
+        {
+            "content": "hấp",
+            "type": "verb",
+            "example": {
+                "en": "Take your next inhaler.",
+                "vi": "Hãy dùng cái hỗ trợ hô hấp đi."
+            }
+        }
+    ]
+}

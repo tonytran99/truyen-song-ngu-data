@@ -1,0 +1,40 @@
+{
+    "word": "frenchy",
+    "type": [
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfren(t)SHē/",
+            "/ˈfrɛn(t)ʃi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛn(t)ʃi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Pháp",
+            "type": "adjective",
+            "example": {
+                "en": "I never would've taken you for a Frenchie.",
+                "vi": "Tôi không nghĩ cô nói được tiếng Pháp."
+            }
+        },
+        {
+            "content": "theo kiểu Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người Pháp",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

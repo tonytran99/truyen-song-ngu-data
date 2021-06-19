@@ -1,0 +1,42 @@
+{
+    "word": "earthling",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərTHliNG/",
+            "/ˈərθlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːθlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con người",
+            "type": "",
+            "example": {
+                "en": "Earthling, may I shape-shift into your form?",
+                "vi": "Con người ơi, tôi có thể biến hình ra giống bạn không?"
+            }
+        },
+        {
+            "content": "người phàm tục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người trần tục",
+            "type": "",
+            "example": {
+                "en": "Vaporise the earthling and his wretched planet.",
+                "vi": "Hãy làm cái hành tinh khốn khổ này bốc hơi cùng với đám người trần tục này."
+            }
+        }
+    ]
+}

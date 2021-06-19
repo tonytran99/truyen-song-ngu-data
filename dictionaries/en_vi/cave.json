@@ -1,0 +1,71 @@
+{
+    "word": "cave",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kāv/",
+            "/keɪv/",
+            "/ˈkāvē/",
+            "/ˈkeɪvi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪv/",
+            "/ˈkeɪvi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hang",
+            "type": "noun",
+            "example": {
+                "en": "\"What's happening in the cave? I'm curious.\" \"I have no idea.\"",
+                "vi": "\"Trong hang đang xảy ra chuyện gì vậy? Tôi rất là tò mò.\" \"Tôi cũng không biết nữa.\""
+            }
+        },
+        {
+            "content": "hang động",
+            "type": "noun",
+            "example": {
+                "en": "And this particular cave was Lechuguilla, and this cave is incredibly toxic to humans.",
+                "vi": "Và cái hang động được gọi là Lechuguilla, nó cực kì độc hại với con người."
+            }
+        },
+        {
+            "content": "động",
+            "type": "verb noun",
+            "example": {
+                "en": "The Gahe are mighty spirits who dwell in desert caves.",
+                "vi": "Ga'he là vị thần hùng mạnh sống trong các hang động sa mạc."
+            }
+        },
+        {
+            "content": "huyệt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chú ý",
+            "type": "verb",
+            "example": {
+                "en": "You figure if you keep arguing, I'm gonna cave, admit it's all a lie and hire you?",
+                "vi": "Cô cứ tưởng nếu cô tiếp tục mè nheo, tôi sẽ chú ý thừa nhận là mình đã nói dối và sẽ thuê cô chắc?"
+            }
+        },
+        {
+            "content": "Hang",
+            "type": "",
+            "example": {
+                "en": "\"What's happening in the cave? I'm curious.\" \"I have no idea.\"",
+                "vi": "\"Trong hang đang xảy ra chuyện gì vậy? Tôi rất là tò mò.\" \"Tôi cũng không biết nữa.\""
+            }
+        }
+    ]
+}

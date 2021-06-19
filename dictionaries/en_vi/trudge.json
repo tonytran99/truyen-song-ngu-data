@@ -1,0 +1,45 @@
+{
+    "word": "trudge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/trəj/",
+            "/trədʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/trʌdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lê bước",
+            "type": "",
+            "example": {
+                "en": "Kevin had to cancel the cab and trudge out in the snow.",
+                "vi": "Kevin phải hủy chuyến xe đó và lê bước trong tuyết để mua thức ăn."
+            }
+        },
+        {
+            "content": "sự lê bước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi mệt nhọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi mệt nhọc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "cystic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsistik/",
+            "/ˈsɪstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nang",
+            "type": "noun",
+            "example": {
+                "en": "Her uncle Jimmy had died at age 13 of cystic fibrosis.",
+                "vi": "Bác Jimmy của nó đã qua đời lúc 13 tuổi vì bệnh xơ hóa nang."
+            }
+        },
+        {
+            "content": "bào xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u nang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

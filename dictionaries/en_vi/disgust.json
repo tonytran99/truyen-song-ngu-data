@@ -1,0 +1,55 @@
+{
+    "word": "disgust",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈɡəst/",
+            "/dɪsˈɡəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈɡʌst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm phẫn nộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {
+                "en": "I know a lot of what I've said today disgusts you.",
+                "vi": "Tôi biết rất nhiều tôi nói với anh hôm nay khiến anh ghê tởm."
+            }
+        },
+        {
+            "content": "làm chán ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm căm phẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ghê tởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh tởm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

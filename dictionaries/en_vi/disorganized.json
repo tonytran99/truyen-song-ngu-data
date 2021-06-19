@@ -1,0 +1,43 @@
+{
+    "word": "disorganized",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈôrɡəˌnīzd/",
+            "/dɪsˈɔrɡəˌnaɪzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈɔːɡənʌɪzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô tổ chức",
+            "type": "",
+            "example": {
+                "en": "This is starting to look like disorganized labor.",
+                "vi": "Sự việc này có vẻ bắt đầu giống như lao động vô tổ chức rồi."
+            }
+        },
+        {
+            "content": "lộn xộn",
+            "type": "adjective",
+            "example": {
+                "en": "And like him, everything was in disorganized piles,",
+                "vi": "Và giống anh, mọi thứ đều trong một đống lộn xộn,"
+            }
+        },
+        {
+            "content": "thiếu trật tự",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

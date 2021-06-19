@@ -1,0 +1,117 @@
+{
+    "word": "inner",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinər/",
+            "/ˈɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên trong",
+            "type": "adjective",
+            "example": {
+                "en": "My outside self finally matched my inner truth, my inner self.",
+                "vi": "Vẻ ngoài của tôi cuối cùng cũng đã trở về đúng với con người bên trong."
+            }
+        },
+        {
+            "content": "thầm kín",
+            "type": "",
+            "example": {
+                "en": "Continually test yourself by examining your conduct and inner feelings.",
+                "vi": "Hãy tiếp tục thử nghiệm chính mình bằng cách xem xét hạnh kiểm và các cảm nghĩ thầm kín của các bạn."
+            }
+        },
+        {
+            "content": "trong",
+            "type": "adjective adposition",
+            "example": {
+                "en": "I'm really good at inner city schools that are struggling.",
+                "vi": "Tôi thích những trường trong nội thành hơn."
+            }
+        },
+        {
+            "content": "bề trong",
+            "type": "noun",
+            "example": {
+                "en": "Let your secret person of the heart —your true inner self— shine through.",
+                "vi": "Cho người khác thấy rõ con người bề trong của bạn."
+            }
+        },
+        {
+            "content": "nội bộ",
+            "type": "",
+            "example": {
+                "en": "They never let me in the inner circle.",
+                "vi": "Họ không bao giờ cho anh vào sâu trong nội bộ."
+            }
+        },
+        {
+            "content": "nội tâm",
+            "type": "",
+            "example": {
+                "en": "We all have an internal narrative that's our own inner story.",
+                "vi": "Tất cả chúng ta đều có câu chuyện riêng đó là câu chuyện nội tâm của riêng ta."
+            }
+        },
+        {
+            "content": "thân cận",
+            "type": "",
+            "example": {
+                "en": "The people I bring into my inner circle will always be protected.",
+                "vi": "Những người mà tôi đem vào vòng thân cận của mình sẽ luôn được bảo vệ."
+            }
+        },
+        {
+            "content": "thân nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tinh thần",
+            "type": "noun",
+            "example": {
+                "en": "Apparently, she had quite the secret inner life.",
+                "vi": "Hình như bà ta có một đời sống tinh thần bí mật."
+            }
+        },
+        {
+            "content": "trong thâm tâm",
+            "type": "",
+            "example": {
+                "en": "I have never experienced that kind of inner peace.",
+                "vi": "Tôi chưa từng bao giờ cảm thấy được bình an trong thâm tâm như vậy."
+            }
+        },
+        {
+            "content": "vòng sát điểm đen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trong nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trong",
+            "type": "",
+            "example": {
+                "en": "Does this passage imply that Rachel had an inner being that departed at her death?",
+                "vi": "Phải chăng câu này ám chỉ linh hồn ở trong Ra-chên đã ra khỏi nàng lúc nàng chết?"
+            }
+        }
+    ]
+}

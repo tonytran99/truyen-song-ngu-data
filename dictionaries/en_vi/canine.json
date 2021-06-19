@@ -1,0 +1,44 @@
+{
+    "word": "canine",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkāˌnīn/",
+            "/ˈkeɪˌnaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪnʌɪn/",
+            "/ˈkanʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống chó",
+            "type": "",
+            "example": {
+                "en": "And historically, canines have been proven to be highly sensitive to paranormal activity.",
+                "vi": "Trong lịch sử giống chó đã được chứng minh rất nhạy cảm với các hoạt động tâm linh."
+            }
+        },
+        {
+            "content": "họ chó",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "răng nanh",
+            "type": "noun",
+            "example": {
+                "en": "There's some odd muscle structure around the canines.",
+                "vi": "Cơ quanh gốc răng nanh có vẻ hơi lạ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "cursor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con trỏ",
+            "type": "noun",
+            "example": {
+                "en": "The goal is to get you to move that cursor with your mind.",
+                "vi": "Mục đích là giúp anh dy chuyển con trỏ đằng kia bằng ý thức."
+            }
+        },
+        {
+            "content": "con chạy của",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đai gạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điểm nháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con chạy",
+            "type": "",
+            "example": {
+                "en": "Select the cursor theme you want to use",
+                "vi": "Chọn sắc thái con chạy bạn muốn dùng"
+            }
+        }
+    ]
+}

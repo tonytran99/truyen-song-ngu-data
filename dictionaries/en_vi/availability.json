@@ -1,0 +1,57 @@
+{
+    "word": "availability",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌvāləˈbilədē/",
+            "/əˌveɪləˈbɪlədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əveɪləˈbɪlɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính sẵn sàng",
+            "type": "",
+            "example": {
+                "en": "Kaviza provides built-in high availability , does not require shared storage and is a turnkey deployment .",
+                "vi": "Kaviza cung cấp tính sẵn sàng hoạt động cao , không đòi hỏi lưu trữ chia sẻ và là sự triển khai trọn gói ."
+            }
+        },
+        {
+            "content": "tính ích lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự có giá trị",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự có hiệu lực",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tính có lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính khả dụng",
+            "type": "",
+            "example": {
+                "en": "They care about availability,",
+                "vi": "Họ quan tâm đến tính khả dụng,"
+            }
+        }
+    ]
+}

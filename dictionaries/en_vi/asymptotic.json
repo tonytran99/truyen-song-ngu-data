@@ -1,0 +1,34 @@
+{
+    "word": "asymptotic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌasəm(p)ˈtädik/",
+            "/ˌæsəm(p)ˈtɑdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌasɪm(p)ˈtɒtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiệm cận",
+            "type": "adjective",
+            "example": {
+                "en": "slow down and stop, asymptotically stop;",
+                "vi": "chậm lại và dừng, dừng theo tiệm cận;"
+            }
+        },
+        {
+            "content": "gần đúng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "waken",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwākən/",
+            "/ˈweɪkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thức dậy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đánh thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gợi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỉnh dậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dậy",
+            "type": "verb",
+            "example": {
+                "en": "Why didn't you waken me?",
+                "vi": "Sao con không gọi mẹ dậy?"
+            }
+        },
+        {
+            "content": "thức",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dậy lên",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

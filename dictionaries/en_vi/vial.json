@@ -1,0 +1,40 @@
+{
+    "word": "vial",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvī(ə)l/",
+            "/ˈvaɪ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvʌɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cút",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bình",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lọ nhỏ",
+            "type": "",
+            "example": {
+                "en": "They then tried to force a vial into my mouth, and broke it in my teeth.",
+                "vi": "Rồi họ cố gắng nhét một lọ nhỏ vào miệng tôi, và đập cái lọ đó vào răng tôi."
+            }
+        }
+    ]
+}

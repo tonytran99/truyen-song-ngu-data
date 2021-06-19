@@ -1,0 +1,70 @@
+{
+    "word": "engrave",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈɡrāv/",
+            "/ɪnˈɡreɪv/",
+            "/enˈɡrāv/",
+            "/ɛnˈɡreɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɡreɪv/",
+            "/ɛnˈɡreɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khắc",
+            "type": "verb",
+            "example": {
+                "en": "The boys would like to engrave your name here on the gunstock.",
+                "vi": "Mấy anh bạn muốn khắc tên anh lên báng súng ở đây."
+            }
+        },
+        {
+            "content": "chạm",
+            "type": "",
+            "example": {
+                "en": "Do you think Tiffany's would really engrave it for us?",
+                "vi": "Có thật Tiffany sẽ chạm cái này cho chúng tôi?"
+            }
+        },
+        {
+            "content": "trổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thích",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ghi nhớ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khắc sâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khía",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

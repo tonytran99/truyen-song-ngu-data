@@ -1,0 +1,69 @@
+{
+    "word": "bulldozer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝olˌdōzər/",
+            "/ˈbʊlˌdoʊzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊldəʊzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe ủi đất",
+            "type": "noun",
+            "example": {
+                "en": "We have trampled the reefs physically with our boats, our fins, our bulldozers,",
+                "vi": "Chúng ta giẫm đạp lên rạn san hô với những con tàu, máy lọc nước, xe ủi đất"
+            }
+        },
+        {
+            "content": "máy ủi",
+            "type": "noun",
+            "example": {
+                "en": "and bulldozers are pushing piles of soil back and forth.",
+                "vi": "với những chiếc máy ủi đang xới đất"
+            }
+        },
+        {
+            "content": "người doạ dẫm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ép buộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đe doạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Máy ủi",
+            "type": "",
+            "example": {
+                "en": "and bulldozers are pushing piles of soil back and forth.",
+                "vi": "với những chiếc máy ủi đang xới đất"
+            }
+        },
+        {
+            "content": "xe ủi",
+            "type": "",
+            "example": {
+                "en": "Tomorrow morning, I'll give them the keys and the bulldozer will start working.",
+                "vi": "Sáng mai, con sẽ đưa chìa khóa cho họ và xe ủi sẽ bắt đầu làm việc."
+            }
+        }
+    ]
+}

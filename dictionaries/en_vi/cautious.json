@@ -1,0 +1,59 @@
+{
+    "word": "cautious",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôSHəs/",
+            "/ˈkɔʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thận trọng",
+            "type": "adjective",
+            "example": {
+                "en": "The representative wants you to be more cautious.",
+                "vi": "Phía đại diện muốn cậu phải thận trọng hơn."
+            }
+        },
+        {
+            "content": "cẩn thẩn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cẩn thận",
+            "type": "adjective",
+            "example": {
+                "en": "Be cautious about accepting an invitation into a house or an apartment.",
+                "vi": "Hãy cẩn thận khi được mời vào nhà."
+            }
+        },
+        {
+            "content": "cẩn trọng",
+            "type": "adjective",
+            "example": {
+                "en": "Maybe the wife just wantsto be extra cautious.",
+                "vi": "Có thể cô vợ chỉ muốn cẩn trọng hơn thôi."
+            }
+        },
+        {
+            "content": "dè dặt",
+            "type": "adjective",
+            "example": {
+                "en": "There is a special need to be cautious if you choose to compile information from secular sources.",
+                "vi": "Cần đặc biệt dè dặt nếu quyết định sưu tầm nguồn tài liệu ngoài đời."
+            }
+        }
+    ]
+}

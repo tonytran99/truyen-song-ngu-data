@@ -1,0 +1,66 @@
+{
+    "word": "bleeding",
+    "type": [
+        "adjective",
+        "noun",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblēdiNG/",
+            "/ˈblidɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbliːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chảy máu",
+            "type": "",
+            "example": {
+                "en": "Tom might bleed to death if we don't get him to a hospital soon.",
+                "vi": "Tom có lẽ đã chảy máu đến chết nếu như chúng tôi không đưa anh ta đến bệnh viện sớm."
+            }
+        },
+        {
+            "content": "sự chảy máu",
+            "type": "",
+            "example": {
+                "en": "He's sustained some serious internal bleeding.",
+                "vi": "Nó bị một vài sự chảy máu nghiêm trọng ở bên trong."
+            }
+        },
+        {
+            "content": "sự trích máu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rỉ nhựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuất huyết",
+            "type": "",
+            "example": {
+                "en": "Intraventricular hemorrhage is bleeding in the brain .",
+                "vi": "Xuất huyết não thất là dạng xuất huyết não ."
+            }
+        },
+        {
+            "content": "Xuất huyết",
+            "type": "",
+            "example": {
+                "en": "Intraventricular hemorrhage is bleeding in the brain .",
+                "vi": "Xuất huyết não thất là dạng xuất huyết não ."
+            }
+        }
+    ]
+}

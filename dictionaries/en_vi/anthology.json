@@ -1,0 +1,47 @@
+{
+    "word": "anthology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/anˈTHäləjē/",
+            "/ænˈθɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/anˈθɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp tuyển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "văn tuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tuyển tập",
+            "type": "",
+            "example": {
+                "en": "Now, I found this poem in an anthology",
+                "vi": "Tôi đã tìm thấy bài thơ này trong tuyển tập thơ"
+            }
+        },
+        {
+            "content": "tuyển tập",
+            "type": "noun",
+            "example": {
+                "en": "Now, I found this poem in an anthology",
+                "vi": "Tôi đã tìm thấy bài thơ này trong tuyển tập thơ"
+            }
+        }
+    ]
+}

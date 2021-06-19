@@ -1,0 +1,47 @@
+{
+    "word": "carnivore",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärnəˌvôr/",
+            "/ˈkɑrnəˌvɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːnɪvɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây ăn sâu bọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loài ăn thịt",
+            "type": "",
+            "example": {
+                "en": "Now they have 14 herbivores and six carnivores.",
+                "vi": "Giờ họ có 14 loài ăn cỏ và 6 loài ăn thịt."
+            }
+        },
+        {
+            "content": "Động vật ăn thịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động vật ăn thịt",
+            "type": "",
+            "example": {
+                "en": "Throughout time, cats were simultaneously solitary predators of smaller animals and prey for larger carnivores.",
+                "vi": "Từ xưa, mèo vừa là động vật săn mồi cỡ nhỏ đơn độc vừa làm mồi cho những động vật ăn thịt lớn hơn."
+            }
+        }
+    ]
+}

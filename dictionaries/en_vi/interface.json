@@ -1,0 +1,61 @@
+{
+    "word": "interface",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)ərˌfās/",
+            "/ˈɪn(t)ərˌfeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntəfeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giao diện",
+            "type": "noun",
+            "example": {
+                "en": "For a while I was an interface designer.",
+                "vi": "Có một thời gian tôi thiết kế giao diện."
+            }
+        },
+        {
+            "content": "bề mặt chung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt phân giới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những cái chung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Interface",
+            "type": "",
+            "example": {
+                "en": "This has paid all the costs for the transformation of Interface.",
+                "vi": "Nó có thể chi trả cho toàn bộ thay đổi của Interface."
+            }
+        },
+        {
+            "content": "interface",
+            "type": "",
+            "example": {
+                "en": "This has paid all the costs for the transformation of Interface.",
+                "vi": "Nó có thể chi trả cho toàn bộ thay đổi của Interface."
+            }
+        }
+    ]
+}

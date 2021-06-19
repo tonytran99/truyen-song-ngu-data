@@ -1,0 +1,57 @@
+{
+    "word": "ketchup",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeCHəp/",
+            "/ˈkɛtʃəp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛtʃəp/",
+            "/ˈkɛtʃʌp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước xốt cà chua",
+            "type": "noun",
+            "example": {
+                "en": "Now, add ketchup for spice, hmm?",
+                "vi": "Giờ còn thêm cả nước xốt cà chua nấm cho gia vị, hmm?"
+            }
+        },
+        {
+            "content": "ketchup",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước sốt cà chua",
+            "type": "",
+            "example": {
+                "en": "Let's get some burgers too, huh, with some pickles, some ketchup?",
+                "vi": "Hãy lấy thêm ít hambơgơ, dưa ngâm và nước sốt cà chua."
+            }
+        },
+        {
+            "content": "sốt cà chua",
+            "type": "",
+            "example": {
+                "en": "When you broke the ketchup bottle and cleaned it with Monica's towels?",
+                "vi": "Lúc mà cậu làm đổ lọ sốt cà chua và dọn nó đi với khách của Monica?"
+            }
+        },
+        {
+            "content": "Nước sốt cà chua",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

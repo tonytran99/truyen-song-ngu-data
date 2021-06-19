@@ -1,0 +1,33 @@
+{
+    "word": "ducat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌkət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {
+                "en": "A levy of 200,000 ducats for the cost of our armies to date.",
+                "vi": "Khoảng tiền 200,000 ducats là đúng với cái giá của quân chúng ta hôm nay."
+            }
+        },
+        {
+            "content": "đồng đuca",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

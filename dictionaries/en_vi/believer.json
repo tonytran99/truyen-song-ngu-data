@@ -1,0 +1,42 @@
+{
+    "word": "believer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈlēvər/",
+            "/bəˈlivər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈliːvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tín đồ",
+            "type": "noun",
+            "example": {
+                "en": "Paul did not believe any of those negative consequences to be true.",
+                "vi": "Phao-lô không nghĩ rằng niềm tin của tín đồ đạo Đấng Ki-tô dựa trên sự dối trá."
+            }
+        },
+        {
+            "content": "giáo đồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tin",
+            "type": "",
+            "example": {
+                "en": "For example, there are those who believe but don’t know that they believe.",
+                "vi": "Ví dụ, có những người tin nhưng không biết rằng họ tin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "flowery",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflou(ə)rē/",
+            "/ˈflaʊ(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaʊəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoa mỹ",
+            "type": "adjective",
+            "example": {
+                "en": "Such expressions do not need to be flowery or lengthy.",
+                "vi": "Những lời này không cần phải hoa mỹ hay dài dòng."
+            }
+        },
+        {
+            "content": "văn hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bay bướm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có nhiều hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều hoa",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đầy hoa",
+            "type": "adjective",
+            "example": {
+                "en": "Voice: Now simmer blinks on flowery braes ...",
+                "vi": "Giọng nói: Giờ đây, những ánh chớp nhấp nháy trên sườn đồi đầy hoa..."
+            }
+        },
+        {
+            "content": "hoa",
+            "type": "noun",
+            "example": {
+                "en": "Such expressions do not need to be flowery or lengthy.",
+                "vi": "Những lời này không cần phải hoa mỹ hay dài dòng."
+            }
+        }
+    ]
+}

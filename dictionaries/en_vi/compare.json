@@ -1,0 +1,82 @@
+{
+    "word": "compare",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈper/",
+            "/kəmˈpɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "so sánh",
+            "type": "verb",
+            "example": {
+                "en": "How does the eye compare to man-made instruments?",
+                "vi": "Khi so sánh con mắt với những máy móc nhân tạo, chúng ta thấy gì?"
+            }
+        },
+        {
+            "content": "so",
+            "type": "verb",
+            "example": {
+                "en": "The situation has improved considerably compared to what it was.",
+                "vi": "Tình huống đã được cải thiện đáng kể so với trước đây."
+            }
+        },
+        {
+            "content": "đối chiếu",
+            "type": "verb",
+            "example": {
+                "en": "Even though I studied comparative physiology and evolutionary biology",
+                "vi": "Mặc dù tôi học sinh lý học đối chiếu và sinh học tiến hóa"
+            }
+        },
+        {
+            "content": "ví",
+            "type": "verb",
+            "example": {
+                "en": "They were compared to animals, sexually repressed beasts.",
+                "vi": "Họ được ví như thú vật, những quái vật bị kìm nén dục tính."
+            }
+        },
+        {
+            "content": "đọ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tày",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dò",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự so sánh",
+            "type": "",
+            "example": {
+                "en": "Internationally comparable data on life expectancy,",
+                "vi": "Từ sự so sánh dữ liệu quốc tế về tuổi thọ trung bình,"
+            }
+        },
+        {
+            "content": "khám",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

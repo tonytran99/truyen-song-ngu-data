@@ -1,0 +1,34 @@
+{
+    "word": "geometric",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌjēəˈmetrik/",
+            "/ˌdʒiəˈmɛtrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdʒɪəˈmɛtrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình học",
+            "type": "noun",
+            "example": {
+                "en": "It's really a geometric understanding of the world.",
+                "vi": "Nó như là thế giới dưới con mắt hình học."
+            }
+        },
+        {
+            "content": "thuộc hình học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

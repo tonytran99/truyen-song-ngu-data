@@ -1,0 +1,37 @@
+{
+    "word": "ideograph",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈidēəˌɡraf/",
+            "/ˈɪdiəˌɡræf/",
+            "/ˈīdēəˌɡraf/",
+            "/ˈaɪdiəˌɡræf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪdɪə(ʊ)ɡrɑːf/",
+            "/ˈʌɪdɪə(ʊ)ɡrɑːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ tượng hình",
+            "type": "noun",
+            "example": {
+                "en": "I start with the notion of the ideograph.",
+                "vi": "Tôi bắt đầu với khái niệm của chữ tượng hình."
+            }
+        },
+        {
+            "content": "chữ viết ghi ý",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

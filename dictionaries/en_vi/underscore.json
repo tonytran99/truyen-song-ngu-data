@@ -1,0 +1,66 @@
+{
+    "word": "underscore",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌskôr/",
+            "/ˈəndərˌskɔr/",
+            "/ˌəndərˈskôr/",
+            "/ˌəndərˈskɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndəskɔː/",
+            "/ʌndəˈskɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dòng quảng cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dằn giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gạch dưới",
+            "type": "",
+            "example": {
+                "en": "This can be achieved by writing them in capital letters, underscoring the points, or marking them in color.",
+                "vi": "Có thể thực hiện điều này bằng cách viết bằng chữ hoa, gạch dưới, hay đánh dấu bằng viết màu."
+            }
+        },
+        {
+            "content": "gạch đít",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhấn mạnh",
+            "type": "",
+            "example": {
+                "en": "Plus, I think it underscores the importance of the vice presidential situation.",
+                "vi": "Thêm nữa, tôi nghĩ nó nhấn mạnh tầm quan trọng của vai trò Phó Tổng thống."
+            }
+        },
+        {
+            "content": "đường gạch dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dấu gạch dưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

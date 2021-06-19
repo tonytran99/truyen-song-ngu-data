@@ -1,0 +1,83 @@
+{
+    "word": "uncertain",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsərtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsəːt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chắc chắn",
+            "type": "adjective",
+            "example": {
+                "en": "The future is unknown, the future is uncertain, and there are choices.",
+                "vi": "Tương lai thì không biết trước, và không chắc chắn. và không có sự lựa chọn nào."
+            }
+        },
+        {
+            "content": "bấp bênh",
+            "type": "adjective",
+            "example": {
+                "en": "In an uncertain global environment, commodity prices have fallen.",
+                "vi": "Trong bối cảnh kinh tế toàn cầu bấp bênh giá hàng hóa sụt giảm."
+            }
+        },
+        {
+            "content": "bất định",
+            "type": "adjective",
+            "example": {
+                "en": "As we sail into an uncertain future,",
+                "vi": "Vì chúng ta hướng tới một tương lai bất định,"
+            }
+        },
+        {
+            "content": "còn ngờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chắc",
+            "type": "",
+            "example": {
+                "en": "The doctors told us they were uncertain about what would happen next.",
+                "vi": "Các bác sĩ cho biết rằng họ không chắc điều gì sẽ xảy ra kế tiếp."
+            }
+        },
+        {
+            "content": "không kiên định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đáng tin cậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mù mịt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phù phiếm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

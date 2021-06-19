@@ -1,0 +1,48 @@
+{
+    "word": "weasel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēzəl/",
+            "/ˈwizəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːz(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con chồn",
+            "type": "",
+            "example": {
+                "en": "If he was a healthy weasel, the chicken didn't get a chance to say anything.",
+                "vi": "Nếu là một con chồn mạnh khỏe, con gà con sẽ không có cơ hội nói gì đâu."
+            }
+        },
+        {
+            "content": "chồn",
+            "type": "noun",
+            "example": {
+                "en": "If he was a healthy weasel, the chicken didn't get a chance to say anything.",
+                "vi": "Nếu là một con chồn mạnh khỏe, con gà con sẽ không có cơ hội nói gì đâu."
+            }
+        },
+        {
+            "content": "chi chồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chồn bơlet",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

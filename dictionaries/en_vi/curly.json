@@ -1,0 +1,46 @@
+{
+    "word": "curly",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərlē/",
+            "/ˈkərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quăn",
+            "type": "adjective",
+            "example": {
+                "en": "Fat, greasy, curly hair, small cruel eyes piercing through dark glasses.",
+                "vi": "To lớn, tóc quăn, mắt lươn gian xảo, đeo kính râm."
+            }
+        },
+        {
+            "content": "xoăn",
+            "type": "adjective",
+            "example": {
+                "en": "He saw women with curly hair and eyebrows lipsticks.",
+                "vi": "Ông ta thấy những người phụ nữ tóc xoăn, môi nâu.."
+            }
+        },
+        {
+            "content": "xoắn",
+            "type": "",
+            "example": {
+                "en": "It means \" girl with curly hair \".",
+                "vi": "Nó có nghĩa là \" cô gái lông xoắn. \""
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "detergent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtərjənt/",
+            "/dəˈtərdʒənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtəːdʒ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc tẩy",
+            "type": "noun",
+            "example": {
+                "en": "No to shampoo, bar soap, dish soap, dish detergent.",
+                "vi": "Không dầu gội đầu, xà bông, nước rửa bát hay thuốc tẩy."
+            }
+        },
+        {
+            "content": "bột giặt",
+            "type": "noun",
+            "example": {
+                "en": "Use only baby laundry detergents that are fragrance - and dye-free .",
+                "vi": "Chỉ sử dụng bột giặt dành cho trẻ không có mùi và không có chất nhuộm ."
+            }
+        },
+        {
+            "content": "chất tẩy",
+            "type": "noun",
+            "example": {
+                "en": "Well you have this great big tank full of liquid detergent.",
+                "vi": "Bây giờ bạn có một thùng lớn này chứa đầy chất tẩy dạng lỏng."
+            }
+        },
+        {
+            "content": "để làm sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để tẩy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

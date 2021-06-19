@@ -1,0 +1,51 @@
+{
+    "word": "duplex",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈd(y)o͞opleks/",
+            "/ˈd(j)uplɛks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdjuːplɛks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai",
+            "type": "numeral adjective",
+            "example": {
+                "en": "You see, this used to be a duplex.",
+                "vi": "Cô thấy đó, trước đây nó là một căn phòng hai hộ."
+            }
+        },
+        {
+            "content": "ghép cặp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kép đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "song công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Song công",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

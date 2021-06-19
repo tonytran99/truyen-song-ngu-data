@@ -1,0 +1,40 @@
+{
+    "word": "chariot",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHerēət/",
+            "/ˈtʃɛriət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃarɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chở bằng xe ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Xe ngựa chiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe ngựa",
+            "type": "",
+            "example": {
+                "en": "There's cavalry, men on horseback and with chariots.",
+                "vi": "Có kỵ binh, những người trên lưng ngựa hay xe ngựa."
+            }
+        }
+    ]
+}

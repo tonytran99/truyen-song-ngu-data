@@ -1,0 +1,45 @@
+{
+    "word": "upholster",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əpˈhōlstər/",
+            "/əpˈhoʊlstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈhəʊlstə/",
+            "/ʌpˈhɒlstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhồi nệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bọc",
+            "type": "verb noun",
+            "example": {
+                "en": "This is a $ 4,000 sofa, upholstered in Italian silk.",
+                "vi": "Đây là một cái sofa 4.000 đô bọc bằng lụa Ý!"
+            }
+        },
+        {
+            "content": "phủ",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

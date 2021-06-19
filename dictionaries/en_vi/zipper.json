@@ -1,0 +1,48 @@
+{
+    "word": "zipper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈzipər/",
+            "/ˈzɪpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈzɪpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoá kéo",
+            "type": "noun",
+            "example": {
+                "en": "I looked in the zippered pocket of one,",
+                "vi": "Tôi nhìn vào trong túi có khoá kéo của một trong hai,"
+            }
+        },
+        {
+            "content": "phéc-mơ-tuya",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khóa kéo",
+            "type": "noun",
+            "example": {
+                "en": "Actually... my zipper just got caught on my necklace.",
+                "vi": "Thực ra... cái khóa kéo bị kẹt vào vòng cổ."
+            }
+        },
+        {
+            "content": "Phéc-mơ-tuya",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

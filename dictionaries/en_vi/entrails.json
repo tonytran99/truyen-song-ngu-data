@@ -1,0 +1,44 @@
+{
+    "word": "entrails",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈentrālz/",
+            "/ˈɛntreɪlz/",
+            "/ˈentrəlz/",
+            "/ˈɛntrəlz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛntreɪlz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lòng",
+            "type": "noun",
+            "example": {
+                "en": "What do the entrails say?",
+                "vi": "Bộ đồ lòng nói gì?"
+            }
+        },
+        {
+            "content": "ruột",
+            "type": "noun",
+            "example": {
+                "en": "Elbow deep in human entrails?",
+                "vi": "Thúc khuỷu tay sâu trong ruột người?"
+            }
+        },
+        {
+            "content": "bộ lòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

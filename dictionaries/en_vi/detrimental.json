@@ -1,0 +1,50 @@
+{
+    "word": "detrimental",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdetrəˈmen(t)l/",
+            "/ˌdɛtrəˈmɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɛtrɪˈmɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hại",
+            "type": "adjective, Tính từ",
+            "example": {
+                "en": "Some may fear that scattering the ashes is detrimental to the environment.",
+                "vi": "Một số người sợ rằng việc rải tro có hại cho môi sinh."
+            }
+        },
+        {
+            "content": "hại",
+            "type": "",
+            "example": {
+                "en": "But he is a detriment to himself, just as Earth is a detriment to the galaxy.",
+                "vi": "Nhưng anh ta tự làm hại cho bản thân, như trái đất làm tổn hại đến thiên hà."
+            }
+        },
+        {
+            "content": "bất lợi cho",
+            "type": "adjective",
+            "example": {
+                "en": "But by calling him this, you are detrimentally influencing the investigation.",
+                "vi": "Nhưng gọi hắn như vậy, anh đang gây ảnh hưởng bất lợi cho cuộc điều tra."
+            }
+        },
+        {
+            "content": "thiệt hại cho",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

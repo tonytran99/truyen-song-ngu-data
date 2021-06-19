@@ -1,0 +1,61 @@
+{
+    "word": "conference",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänf(ə)rəns/",
+            "/ˈkɑnf(ə)rəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnf(ə)r(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hội nghị",
+            "type": "noun",
+            "example": {
+                "en": "I thought you needed to leave for your conference.",
+                "vi": "Anh tưởng em cần tới hội nghị của em."
+            }
+        },
+        {
+            "content": "會議",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội đàm",
+            "type": "noun",
+            "example": {
+                "en": "Just a conference call with my field commanders.",
+                "vi": "Chỉ là một cuộc hội đàm với mấy chỉ huy."
+            }
+        },
+        {
+            "content": "sự bàn bạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hội ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội thảo",
+            "type": "noun",
+            "example": {
+                "en": "The experience capital in the world of conferences.",
+                "vi": "Kinh đô trải nghiệm của thế giới hội thảo."
+            }
+        }
+    ]
+}

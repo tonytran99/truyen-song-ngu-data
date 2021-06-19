@@ -1,0 +1,58 @@
+{
+    "word": "weld",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weld/",
+            "/wɛld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàn",
+            "type": "",
+            "example": {
+                "en": "I sat in the back with her welding equipment.",
+                "vi": "Em ngồi ở ghế sau với cái đống thiết bị hàn của cô ấy."
+            }
+        },
+        {
+            "content": "needly",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chịu hàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cố kết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắn chặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối hàn",
+            "type": "",
+            "example": {
+                "en": "I've got two more welds on this bypass valve.",
+                "vi": "Tôi còn 2 mối hàn nữa trên van thoát này."
+            }
+        }
+    ]
+}

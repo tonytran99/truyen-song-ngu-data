@@ -1,0 +1,44 @@
+{
+    "word": "cosy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ấm cúng",
+            "type": "adjective",
+            "example": {
+                "en": "Rasmus and Roland have a nice cosy tent.",
+                "vi": "Rasmus và Roland có một cái lều tốt và ấm cúng."
+            }
+        },
+        {
+            "content": "dễ chịu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thoải mái dễ chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấm giỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấm áp",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

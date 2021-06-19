@@ -1,0 +1,89 @@
+{
+    "word": "default",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfôlt/",
+            "/dəˈfɔlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɔːlt/",
+            "/ˈdiːfɔːlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vỡ nợ",
+            "type": "",
+            "example": {
+                "en": "That same panel put us into default in the'80s.",
+                "vi": "Một ban như thế đã đẩy ta vào sự vỡ nợ những năm 80."
+            }
+        },
+        {
+            "content": "quỵt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuyết tịch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "không trả nợ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc định",
+            "type": "noun",
+            "example": {
+                "en": "We have to think again about light as a default solution.",
+                "vi": "Chúng ta phải nghĩ lại về việc coi ánh sáng là một giải pháp mặc định."
+            }
+        },
+        {
+            "content": "sự bỏ cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không đủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xử vắng mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cố hữu",
+            "type": "tính từ",
+            "example": {}
+        }
+    ]
+}

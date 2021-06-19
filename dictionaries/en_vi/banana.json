@@ -1,0 +1,90 @@
+{
+    "word": "banana",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈnanə/",
+            "/bəˈnænə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈnɑːnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuối",
+            "type": "noun, adjective",
+            "example": {
+                "en": "Now, take a look at the ancient ancestor of banana.",
+                "vi": "Bây giờ, xin mời xem tổ tiên của loài chuối."
+            }
+        },
+        {
+            "content": "quả chuối",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to divert and talk about bananas and chocolate.",
+                "vi": "Tôi sẽ nói ra ngoài một chút về những quả chuối và socola."
+            }
+        },
+        {
+            "content": "cây chuối",
+            "type": "noun",
+            "example": {
+                "en": "But we discovered that if you plant banana trees, papaya trees",
+                "vi": "Nhưng chúng tôi phát hiện ra nếu bạn trồng cây chuối, cây đu đủ"
+            }
+        },
+        {
+            "content": "trái chuối",
+            "type": "",
+            "example": {
+                "en": "Because it has as much potassium as three bananas.",
+                "vi": "Bởi vì nó chứa nhiều kali như 3 trái chuối."
+            }
+        },
+        {
+            "content": "màu chuối",
+            "type": "",
+            "example": {
+                "en": "I would describe it more as banana and cream.",
+                "vi": "Tôi nghĩ là giống màu chuối và kem hơn."
+            }
+        },
+        {
+            "content": "hương vị chuối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chuối",
+            "type": "",
+            "example": {
+                "en": "I don't even buy green bananas.",
+                "vi": "Chuối xanh tôi còn không dám mua nữa là."
+            }
+        },
+        {
+            "content": "tiêu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "(cây) chuối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái quả chuối",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

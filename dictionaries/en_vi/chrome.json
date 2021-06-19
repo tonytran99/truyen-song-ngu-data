@@ -1,0 +1,43 @@
+{
+    "word": "chrome",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krōm/",
+            "/kroʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "crom",
+            "type": "noun",
+            "example": {
+                "en": "Some chrome work, put a spoiler on the back.",
+                "vi": "Mạ crom, lắp cánh đuôi phía sau là xong thôi."
+            }
+        },
+        {
+            "content": "crôm",
+            "type": "",
+            "example": {
+                "en": "I thought for sure you'd be showing up with some chrome spinners or something.",
+                "vi": "Tôi tưởng anh sẽ xuất hiện với vành bánh xe mạ crôm chứ."
+            }
+        },
+        {
+            "content": "thuốc màu vàng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

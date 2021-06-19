@@ -1,0 +1,73 @@
+{
+    "word": "kindred",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkindrəd/",
+            "/ˈkɪndrəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪndrɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà con anh em",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng một nguồn gốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng một tông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống nhau",
+            "type": "",
+            "example": {
+                "en": "A kindred spirit, I think.",
+                "vi": "Tâm hồn của chúng tôi rất giống nhau, tôi nghĩ thế."
+            }
+        },
+        {
+            "content": "họ hàng bà con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "họ hàng thân thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quan hệ họ hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "họ hàng",
+            "type": "noun",
+            "example": {
+                "en": "The punishment for those three kindred nations would be severe.",
+                "vi": "Ba quốc gia có quan hệ họ hàng đó sẽ bị trừng phạt nặng nề."
+            }
+        }
+    ]
+}

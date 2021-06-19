@@ -1,0 +1,45 @@
+{
+    "word": "gardening",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärd(ə)niNG/",
+            "/ˈɡɑrd(ə)nɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːd(ə)nɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghề làm vườn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trồng vườn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công việc làm vườn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Làm vườn",
+            "type": "",
+            "example": {
+                "en": "There isn't a garden fairy alive who can control those weeds!",
+                "vi": "Không có một tiên làm vườn nào sống mà bắt được cái đám phá hoại đó!"
+            }
+        }
+    ]
+}

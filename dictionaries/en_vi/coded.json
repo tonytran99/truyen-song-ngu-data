@@ -1,0 +1,30 @@
+{
+    "word": "coded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōdəd/",
+            "/ˈkoʊdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã hoá",
+            "type": "verb",
+            "example": {
+                "en": "The leader of every ship is given codes to Zion's mainframe computer.",
+                "vi": "Chỉ huy của mỗi tàu được mã hoá trong hệ thống máy chủ Zion."
+            }
+        }
+    ]
+}

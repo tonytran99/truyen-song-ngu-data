@@ -1,0 +1,47 @@
+{
+    "word": "astronomical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌastrəˈnämək(ə)l/",
+            "/ˌæstrəˈnɑmək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/astrəˈnɒmɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên văn",
+            "type": "",
+            "example": {
+                "en": "Some of the world's astronomers have telescopes nearby.",
+                "vi": "Một số nhà thiên văn của thế giới có kính thiên văn ở gần đó."
+            }
+        },
+        {
+            "content": "thiên văn học",
+            "type": "noun",
+            "example": {
+                "en": "But when astronomers thought they found it I had to see for myself.",
+                "vi": "Nhưng những nhà thiên văn học nghĩ rằng họ đã thấy nó tôi phải tự mình nhìn thấy."
+            }
+        },
+        {
+            "content": "vô cùng to lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rất lớn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

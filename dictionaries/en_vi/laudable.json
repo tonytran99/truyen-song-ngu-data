@@ -1,0 +1,42 @@
+{
+    "word": "laudable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlôdəb(ə)l/",
+            "/ˈlɔdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlɔːdəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng khen ngợi",
+            "type": "",
+            "example": {
+                "en": "Ms Marin, your effort is laudable, but the execution is unacceptable.",
+                "vi": "Cô Marin, nổ lực của cô là đáng khen ngợi, nhưng hành động vừa rồi không thể chấp nhận được."
+            }
+        },
+        {
+            "content": "đáng ca ngợi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đáng tán dương",
+            "type": "adjective",
+            "example": {
+                "en": "Communism and democracy may both be laudable ideals,",
+                "vi": "Cộng sản và dân chủ có thể đều là lý tưởng đáng tán dương,"
+            }
+        }
+    ]
+}

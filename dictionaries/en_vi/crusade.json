@@ -1,0 +1,51 @@
+{
+    "word": "crusade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kro͞oˈsād/",
+            "/kruˈseɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kruːˈseɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc vận động lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiến dịch",
+            "type": "noun",
+            "example": {
+                "en": "I thought that this crusade would only end with my death.",
+                "vi": "Tôi tưởng rằng chiến dịch này sẽ kết thúc cùng với cái chết của tôi."
+            }
+        },
+        {
+            "content": "cuộc thập tự chinh",
+            "type": "",
+            "example": {
+                "en": "Young Machiavelli has convinced him to join our crusade.",
+                "vi": "Cậu Machiavelli đã thuyết phục ngài tham gia cuộc Thập tự chinh."
+            }
+        },
+        {
+            "content": "cuộc vận động",
+            "type": "",
+            "example": {
+                "en": "In my crusade to make flags of the world more beautiful,",
+                "vi": "Trong cuộc vận động thiết kế những lá cờ đẹp của tôi,"
+            }
+        }
+    ]
+}

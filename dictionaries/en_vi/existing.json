@@ -1,0 +1,54 @@
+{
+    "word": "existing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzistiNG/",
+            "/ɪɡˈzɪstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɪstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiện tại",
+            "type": "noun",
+            "example": {
+                "en": "We can do it with existing political structures.",
+                "vi": "Chúng ta có thể làm được với cơ cấu chính trị hiện tại."
+            }
+        },
+        {
+            "content": "hiện hành",
+            "type": "adjective",
+            "example": {
+                "en": "Not every demand for change in the existing order should be heeded.",
+                "vi": "Không nên chiều theo mọi yêu cầu đòi thay đổi cái trật tự hiện hành."
+            }
+        },
+        {
+            "content": "hiện hữu",
+            "type": "adjective",
+            "example": {
+                "en": "Their philosophers taught the existence of two opposing principles.",
+                "vi": "Các triết gia của họ dạy về sự hiện hữu của hai nguyên tắc đối lập."
+            }
+        },
+        {
+            "content": "tồn tại",
+            "type": "adjective",
+            "example": {
+                "en": "The user you to want to send this message to does not exist. Please try with another username.",
+                "vi": "Người dùng bạn muốn gởi tin này đến không tồn tại. Vui lòng thử tên khác."
+            }
+        }
+    ]
+}

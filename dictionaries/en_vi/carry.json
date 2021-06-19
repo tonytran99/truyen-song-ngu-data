@@ -1,0 +1,434 @@
+{
+    "word": "carry",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerē/",
+            "/ˈkɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkari/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mang",
+            "type": "verb",
+            "example": {
+                "en": "I'll get him to carry my suitcase upstairs.",
+                "vi": "Tôi sắp yêu cầu anh ấy mang va li của tôi lên tầng."
+            }
+        },
+        {
+            "content": "ẵm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chở",
+            "type": "verb",
+            "example": {
+                "en": "Any truck big enough to carry them would be too slow and we'd get caught.",
+                "vi": "Nếu chở chúng trên một chiếc xe to thì quá chậm và bị bắt ngay."
+            }
+        },
+        {
+            "content": "đeo",
+            "type": "verb",
+            "example": {
+                "en": "I always told you, nobody should carry as good a watch as that.",
+                "vi": "Tôi đã nói rồi, không nên đeo một cái đồng hồ tốt như vậy."
+            }
+        },
+        {
+            "content": "khuân",
+            "type": "verb",
+            "example": {
+                "en": "And hungry, as they carry the sheaves of grain.",
+                "vi": "Đói lả khi khuân những bó ngũ cốc."
+            }
+        },
+        {
+            "content": "vác",
+            "type": "",
+            "example": {
+                "en": "Are you carrying weighty responsibilities in the congregation?",
+                "vi": "Có phải bạn đang gánh vác những trách nhiệm nặng nề trong hội thánh không?"
+            }
+        },
+        {
+            "content": "gánh",
+            "type": "verb",
+            "example": {
+                "en": "It's our job to carry the weight of this, not those kids out there.",
+                "vi": "Chúng ta phải gánh trọng trách này, không phải bọn nhóc ngoài ấy."
+            }
+        },
+        {
+            "content": "chứa đựng",
+            "type": "verb",
+            "example": {
+                "en": "Glia are crucial for the very basic carrying of information.",
+                "vi": "Tế bào thần kinh đệm rất quan trọng cho việc chứa đựng thông tin."
+            }
+        },
+        {
+            "content": "cư xử",
+            "type": "verb",
+            "example": {
+                "en": "I'm sorry I got carried away and behaved quite rudely.",
+                "vi": "Tôi rất tiếc vì uống say quá và đã cư xử bất lịch sự."
+            }
+        },
+        {
+            "content": "đem",
+            "type": "verb",
+            "example": {
+                "en": "Books are the bees that carry pollen from one mind to another.",
+                "vi": "Sách vở tựa như bầy ong, đem tinh hoa từ trí tuệ này sang trí tuệ khác."
+            }
+        },
+        {
+            "content": "khiêng",
+            "type": "verb",
+            "example": {
+                "en": "I saw him carry her body out in a plastic bag.",
+                "vi": "Hắn khiêng xác cô ta trong một cái bao bằng plastic."
+            }
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "But what she forgot was that plague is carried on the winds.",
+                "vi": "Nhưng bà ta quên là gió đưa dịch bệnh lây lan."
+            }
+        },
+        {
+            "content": "truyền",
+            "type": "",
+            "example": {
+                "en": "Because of our agency, He carries it unto our hearts.",
+                "vi": "Vì quyền tự quyết của chúng ta, nên Ngài truyền đến tâm hồn chúng ta."
+            }
+        },
+        {
+            "content": "tha",
+            "type": "verb",
+            "example": {
+                "en": "A 5-ounce bird could not carry a 1-pound coconut.",
+                "vi": "Một con chim một lạng không thể tha một trái dừa nửa ký."
+            }
+        },
+        {
+            "content": "dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông qua",
+            "type": "",
+            "example": {
+                "en": "As you chew your food, air is pushed up your nasal passage, carrying with it the smell of your food.",
+                "vi": "Khi bạn nhai thức ăn, không khí được đẩy lên thông qua mũi, mang theo với nó là mùi của thực phẩm."
+            }
+        },
+        {
+            "content": "truyền đi",
+            "type": "",
+            "example": {
+                "en": "Evidently because the human voice carries with remarkable clarity over the smooth surface of a body of water.",
+                "vi": "Chắc là vì giọng nói truyền đi rõ ràng một cách khác thường trên mặt nước phẳng lặng."
+            }
+        },
+        {
+            "content": "nhớ",
+            "type": "verb",
+            "example": {
+                "en": "You remember what old Buddy carried for a side arm?",
+                "vi": "Anh còn nhớ ông già Buddy đeo súng gì bên hông không?"
+            }
+        },
+        {
+            "content": "bê",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bưng",
+            "type": "verb",
+            "example": {
+                "en": "You want me to get one of the little children to carry it for you?",
+                "vi": "Anh muốn tôi kêu một thằng nhỏ bưng phụ chứ?"
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "Are we gonna carry this thing around for ever?",
+                "vi": "Chúng ta định đem theo chuyện này tới suốt đời sao?"
+            }
+        },
+        {
+            "content": "sang",
+            "type": "adjective verb",
+            "example": {}
+        },
+        {
+            "content": "chống",
+            "type": "",
+            "example": {
+                "en": "The kind that makes you think you need to carry around fox repellent?",
+                "vi": "Những loài làm cô nghĩ cần mang theo bình xịt chống cáo hả?"
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "Lina's getting carried away.",
+                "vi": "Lina đã thắng rồi."
+            }
+        },
+        {
+            "content": "đăng",
+            "type": "",
+            "example": {
+                "en": "You'll wear white lace and carry a bouquet of very small pink roses.",
+                "vi": "Cô sẽ mặc áo viền đăng-ten trắng và cầm một bó hoa với những bông hoa hồng rất nhỏ."
+            }
+        },
+        {
+            "content": "đèo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chuyền",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bồng bế",
+            "type": "",
+            "example": {
+                "en": "With them, as usual, were the children carrying children.",
+                "vi": "Với họ, trẻ em bồng bế trẻ em thì rất thường."
+            }
+        },
+        {
+            "content": "chiếm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chống đỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có dáng dấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thái độ",
+            "type": "",
+            "example": {
+                "en": "What attitude do we need as we carry out our dedication?",
+                "vi": "Nên có thái độ nào khi thực hiện sự dâng mình?"
+            }
+        },
+        {
+            "content": "có tầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giữ theo kiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kèm theo",
+            "type": "",
+            "example": {
+                "en": "Every decision we make, good or bad, carries an accompanying consequence.",
+                "vi": "Mỗi quyết định chúng ta chọn, dù đúng hay sai, đều có hậu quả đi kèm theo."
+            }
+        },
+        {
+            "content": "kéo cao lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm dài ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy được",
+            "type": "",
+            "example": {
+                "en": "'Tis my duty to ensure only a true hero carries the blade from this tomb.",
+                "vi": "Nhiệm vụ của ta là đảm bảo rằng chỉ có người hùng đích thực mới lấy được thanh kiếm."
+            }
+        },
+        {
+            "content": "mang lại",
+            "type": "",
+            "example": {
+                "en": "But Kuzawa says the hormone reduction carries with it some health benefits , too .",
+                "vi": "Nhưng Kuzawa cho rằng việc giảm hoóc–môn này cũng mang lại một số lợi ích về sức khoẻ ."
+            }
+        },
+        {
+            "content": "mang theo",
+            "type": "",
+            "example": {
+                "en": "Your lineage carries with it a covenant and promises.",
+                "vi": "Dòng dõi của các em mang theo với mình một giao ước và các lời hứa."
+            }
+        },
+        {
+            "content": "nhớ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bồng vũ khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khiêng thuyền xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyết phục được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp nối",
+            "type": "",
+            "example": {
+                "en": "and we should be allowed to carry on doing it.",
+                "vi": "và chúng ta nên được phép tiếp nối."
+            }
+        },
+        {
+            "content": "tích trữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm bắn xa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm súng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm xa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vượt qua",
+            "type": "",
+            "example": {
+                "en": "Water also had to be carried, sometimes quite a distance, but we overcame these difficulties together.",
+                "vi": "Ngoài ra, chúng tôi cũng phải chở nước từ xa về nhà, nhưng những trở ngại này rồi cũng vượt qua."
+            }
+        },
+        {
+            "content": "vọng xa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xử sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn ở",
+            "type": "",
+            "example": {
+                "en": "The Greek expression that Paul used for the word “behave” may also be rendered “carry on as citizens.”",
+                "vi": "Từ Hy Lạp được dịch là “ăn ở” cũng có thể dịch là “sống đúng với tư cách người công dân” (GKPV, chú thích)."
+            }
+        },
+        {
+            "content": "đem theo",
+            "type": "",
+            "example": {
+                "en": "Do you carry pictures of your children, agent Gideon?",
+                "vi": "Anh có đem theo ảnh con anh không, đặc vụ Gideon?"
+            }
+        },
+        {
+            "content": "đi theo kiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi xa",
+            "type": "",
+            "example": {
+                "en": "They probably got a bit carried away with Reina.",
+                "vi": "Có lẽ chúng sẽ bị Reina mang đi xa thôi."
+            }
+        },
+        {
+            "content": "đoạt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được chấp nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được thông qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạt tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đỡ",
+            "type": "",
+            "example": {
+                "en": "I wanted to return and carry her out myself.",
+                "vi": "Tôi muốn trở lại và đỡ bà cụ ra."
+            }
+        },
+        {
+            "content": "tải",
+            "type": "verb",
+            "example": {
+                "en": "An Oscorp truck carrying plutonium has been hijacked.",
+                "vi": "Một chiếc xe tải vận chuyển Plutonium của Oscorp đã bị cướp."
+            }
+        }
+    ]
+}

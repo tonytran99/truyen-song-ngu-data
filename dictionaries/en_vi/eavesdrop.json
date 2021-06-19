@@ -1,0 +1,38 @@
+{
+    "word": "eavesdrop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēvzˌdräp/",
+            "/ˈivzˌdrɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːvzdrɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghe trộm",
+            "type": "",
+            "example": {
+                "en": "McCourt doesn't want the government eavesdropping on him?",
+                "vi": "McCourt không muốn chính phủ nghe trộm về ông ta à?"
+            }
+        },
+        {
+            "content": "nghe lén",
+            "type": "",
+            "example": {
+                "en": "Waterproof microphones allow the crew to eavesdrop on the dolphins, and so follow them.",
+                "vi": "Dùng microphone không thấm nước cho phép đội quay nghe lén cá heo, và theo dấu chúng."
+            }
+        }
+    ]
+}

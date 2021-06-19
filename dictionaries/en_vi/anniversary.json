@@ -1,0 +1,45 @@
+{
+    "word": "anniversary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌanəˈvərs(ə)rē/",
+            "/ˌænəˈvərs(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/anɪˈvəːs(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày kỷ niệm",
+            "type": "noun",
+            "example": {
+                "en": "Tomorrow is the anniversary of the founding of the village.",
+                "vi": "Ngày mai là ngày kỷ niệm hàng năm ngày tìm thấy ngôi làng này."
+            }
+        },
+        {
+            "content": "kỷ niệm",
+            "type": "verb noun",
+            "example": {
+                "en": "Let's celebrate the anniversary of our first kiss.",
+                "vi": "Hãy ăn mừng kỷ niệm ngày chúng ta hôn nhau lần đầu."
+            }
+        },
+        {
+            "content": "lễ kỷ niệm",
+            "type": "noun",
+            "example": {
+                "en": "Feel like this is just a super weird way to spend your anniversary.",
+                "vi": "Việc này có vẻ kỳ lạ với lễ kỷ niệm của hai người đấy."
+            }
+        }
+    ]
+}

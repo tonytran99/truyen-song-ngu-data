@@ -1,0 +1,43 @@
+{
+    "word": "compulsory",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpəlsərē/",
+            "/kəmˈpəlsəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpʌls(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt buộc",
+            "type": "adjective",
+            "example": {
+                "en": "Why is it such an important part of education as a sort of compulsory subject?",
+                "vi": "Sao nó lại là một phần quan trọng của giáo dục như là một môn bắt buộc?"
+            }
+        },
+        {
+            "content": "cưỡng bách",
+            "type": "",
+            "example": {
+                "en": "To get the answers, we need to know about compulsory service in ancient times.",
+                "vi": "Để có câu trả lời, chúng ta cần biết về lệ cưỡng bách làm phu hoặc làm xâu thời xưa."
+            }
+        },
+        {
+            "content": "ép buộc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

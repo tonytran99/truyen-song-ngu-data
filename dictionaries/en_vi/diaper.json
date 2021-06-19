@@ -1,0 +1,71 @@
+{
+    "word": "diaper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdī(ə)pər/",
+            "/ˈdaɪ(ə)pər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tã",
+            "type": "noun",
+            "example": {
+                "en": "Always remember to wash your hands thoroughly after changing a diaper .",
+                "vi": "Hãy luôn nhớ rửa tay cẩn thận sau khi thay tã lót ."
+            }
+        },
+        {
+            "content": "in hình thoi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khăn vệ sinh khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêu hình thoi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trang trí hình thoi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vải kẻ hình thoi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỉm",
+            "type": "noun",
+            "example": {
+                "en": "Well, do they have to be diapers for newborns?",
+                "vi": "Có nhất thiết phải là bỉm cho trẻ sơ sinh không?"
+            }
+        },
+        {
+            "content": "tã lót",
+            "type": "noun",
+            "example": {
+                "en": "Always remember to wash your hands thoroughly after changing a diaper .",
+                "vi": "Hãy luôn nhớ rửa tay cẩn thận sau khi thay tã lót ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "during",
+    "type": [
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈd(y)o͝oriNG/",
+            "/ˈd(j)ʊrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdjʊərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trong thời gian",
+            "type": "",
+            "example": {
+                "en": "I did literally zero schoolwork during this time.",
+                "vi": "Tôi không làm tý bài tập nào trong thời gian này."
+            }
+        },
+        {
+            "content": "trong lúc",
+            "type": "adposition",
+            "example": {
+                "en": "Did you receive any enlightenment during that period?",
+                "vi": "Các anh chị em có nhận được bất cứ sự soi sáng nào trong lúc đó không?"
+            }
+        },
+        {
+            "content": "trong khi",
+            "type": "adposition",
+            "example": {
+                "en": "I finally remember what I did during my blackouts.",
+                "vi": "Em cuối cùng đã nhớ em làm gì trong khi mất tỉnh táo."
+            }
+        },
+        {
+            "content": "trong khi lúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trải qua",
+            "type": "",
+            "example": {
+                "en": "+ As a lasting statute during all your generations, you should celebrate it in the seventh month.",
+                "vi": "+ Hãy cử hành lễ này vào tháng thứ bảy như một luật lệ vững bền trải qua các đời."
+            }
+        }
+    ]
+}

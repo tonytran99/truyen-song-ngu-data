@@ -1,0 +1,47 @@
+{
+    "word": "informer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfôrmər/",
+            "/ɪnˈfɔrmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɔːmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỉ điểm",
+            "type": "noun",
+            "example": {
+                "en": "None of our informants heard about this going down.",
+                "vi": "Không tên chỉ điểm nào biết về chuyện này."
+            }
+        },
+        {
+            "content": "mật thám",
+            "type": "noun",
+            "example": {
+                "en": "Not only in my case, informers were very close.",
+                "vi": "Không chỉ mỗi trường hợp của tôi, mật thám là những người rất thân thiết."
+            }
+        },
+        {
+            "content": "người tố cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tên mật thám",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

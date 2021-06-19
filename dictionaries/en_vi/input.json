@@ -1,0 +1,74 @@
+{
+    "word": "input",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌpo͝ot/",
+            "/ˈɪnˌpʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnpʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cung cấp tài liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái cho vào",
+            "type": "noun",
+            "example": {
+                "en": "And that means input and output are in the same space",
+                "vi": "Và điều đó nghĩa là những cái cho vào hay lấy ra là cùng một không gian"
+            }
+        },
+        {
+            "content": "dòng điện truyền vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lực truyền vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số tiền cúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dữ liệu đầu vào",
+            "type": "",
+            "example": {
+                "en": "So we want to use this as one of the possible inputs for Flyfire.",
+                "vi": "Vì vậy chúng tôi muốn dùng thứ này như một dữ liệu đầu vào khả dĩ cho Flyfire."
+            }
+        },
+        {
+            "content": "Đầu vào",
+            "type": "",
+            "example": {
+                "en": "The input and the output was by teletype tape at first.",
+                "vi": "Đầu vào và đầu ra ban đầu theo kiểu băng điện tín."
+            }
+        },
+        {
+            "content": "đầu vào",
+            "type": "noun",
+            "example": {
+                "en": "One of them is the input from the user, as you're building your bricks.",
+                "vi": "Một trong số đầu vào đó là từ người dùng,giống như bạn đang xây những viên gạch."
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "blizzard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblizərd/",
+            "/ˈblɪzərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblɪzəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trận bão tuyết",
+            "type": "",
+            "example": {
+                "en": "We were not prepared for this blizzard in June.",
+                "vi": "Chúng tôi đã không chuẩn bị cho trận bão tuyết này vào tháng Sáu."
+            }
+        },
+        {
+            "content": "bão tuyết",
+            "type": "",
+            "example": {
+                "en": "I remember one Sunday, her and me almost got lost in a blizzard.",
+                "vi": "Tôi còn nhớ một Chủ nhật, bả và tôi bị lạc trong bão tuyết."
+            }
+        }
+    ]
+}

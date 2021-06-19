@@ -1,0 +1,51 @@
+{
+    "word": "disagreeable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈɡrēəb(ə)l/",
+            "/ˌdɪsəˈɡriəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈɡriːəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "Though we may disagree, we should not be disagreeable.",
+                "vi": "Mặc dù có thể không đồng ý, nhưng chúng ta không nên khó chịu."
+            }
+        },
+        {
+            "content": "cau có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắt gỏng",
+            "type": "",
+            "example": {
+                "en": "A rather disagreeable animal?",
+                "vi": "Loài vật khá là gắt gỏng?"
+            }
+        },
+        {
+            "content": "không vừa ý",
+            "type": "",
+            "example": {
+                "en": "They may be disagreeable to his formulas. MEN:",
+                "vi": "Có thể họ sẽ không vừa ý với các công thức của cậu ấy."
+            }
+        }
+    ]
+}

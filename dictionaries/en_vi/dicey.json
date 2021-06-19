@@ -1,0 +1,34 @@
+{
+    "word": "dicey",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīsē/",
+            "/ˈdaɪsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguy hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "I don't think the aunt is telling us Everything, and this could get dicey.",
+                "vi": "Tôi không nghĩ dì cô bé đã kể mọi thứ, và nó có thể gây nguy hiểm."
+            }
+        },
+        {
+            "content": "mạo hiểm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

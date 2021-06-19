@@ -1,0 +1,30 @@
+{
+    "word": "farsi",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfärsē/",
+            "/ˈfɑrsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɑːsiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Ba Tư",
+            "type": "proper",
+            "example": {
+                "en": "He's fluent in Farsi and Arabic.",
+                "vi": "Hắn nói thành thạo tiếng Ba Tư và tiếng Ả-rập."
+            }
+        }
+    ]
+}

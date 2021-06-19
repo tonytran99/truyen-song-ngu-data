@@ -1,0 +1,40 @@
+{
+    "word": "disjoint",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈjoint/",
+            "/dɪsˈdʒɔɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈdʒɔɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rời",
+            "type": "verb",
+            "example": {
+                "en": "A collection of disjointed memories and experiences.",
+                "vi": "Một tập hợp những ký ức và kinh nghiệm tách rời."
+            }
+        },
+        {
+            "content": "làm trật khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo rời ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

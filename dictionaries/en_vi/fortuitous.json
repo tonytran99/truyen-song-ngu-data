@@ -1,0 +1,45 @@
+{
+    "word": "fortuitous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrˈto͞oədəs/",
+            "/fɔrˈtuədəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːˈtjuːɪtəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "And though your timing was a function of my gambit, it was nevertheless fortuitous.",
+                "vi": "Và tưởng rằng thời gian của các ngươi là một phần trong bước đầu của ta, đó lại là một sự ngẫu nhiên."
+            }
+        },
+        {
+            "content": "bất ngờ",
+            "type": "",
+            "example": {
+                "en": "Many think that a funeral, is a fortuitous event, without any rules.",
+                "vi": "Nhiều người cho rằng tang lễ... là 1 sự kiện bất ngờ, không có luật lệ gì cả."
+            }
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {
+                "en": "A fortuitous turn of events brought Django and myself together.",
+                "vi": "Một loạt những sự kiện tình cờ đã đưa Django và tôi lại với nhau."
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "word": "assay",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaˌsā/",
+            "/ˈæˌseɪ/",
+            "/aˈsā/",
+            "/æˈseɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈseɪ/",
+            "/ˈaseɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thí nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thử",
+            "type": "verb",
+            "example": {
+                "en": "a fantastic assay to discover drugs,",
+                "vi": "một thử nghiệm tuyệt vời để khám phá thuốc"
+            }
+        },
+        {
+            "content": "kim loại để thử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân tích",
+            "type": "",
+            "example": {
+                "en": "which is you have to do a kind of depth of thought assay.",
+                "vi": "bạn phải có khả năng phân tích ý nghĩ sâu."
+            }
+        },
+        {
+            "content": "sự phân tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xét nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thí nghiệm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thử làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thử thách giá trị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xét nghiệm",
+            "type": "",
+            "example": {
+                "en": "Okay, Brian, let that sit overnight, and then we'll assay in the morning.",
+                "vi": "Được rồi, Brian, để nó qua đêm đi, sáng mai sẽ xét nghiệm."
+            }
+        }
+    ]
+}

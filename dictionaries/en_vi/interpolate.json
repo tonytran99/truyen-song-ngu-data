@@ -1,0 +1,39 @@
+{
+    "word": "interpolate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtərpəˌlāt/",
+            "/ɪnˈtərpəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtəːpəleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xen",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nội suy",
+            "type": "",
+            "example": {
+                "en": "Generates a polynomial interpolation for a set of data",
+                "vi": "Tạo ra sự nội suy đa thức cho một tập dữ liệu. Name"
+            }
+        },
+        {
+            "content": "tự ý thêm từ vào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

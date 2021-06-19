@@ -1,0 +1,50 @@
+{
+    "word": "unwholesome",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈhōlsəm/",
+            "/ˌənˈhoʊlsəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈhəʊls(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "độc",
+            "type": "adjective",
+            "example": {
+                "en": "The body has defenses to rid itself of unwholesome food.",
+                "vi": "Cơ thể có sự phòng thủ để trừ khử thức ăn độc hại."
+            }
+        },
+        {
+            "content": "không hợp vệ sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lành",
+            "type": "",
+            "example": {
+                "en": "It is true that such unwholesome material is all around us.",
+                "vi": "Thật thế, những điều không lành mạnh đó đầy dẫy quanh chúng ta."
+            }
+        },
+        {
+            "content": "không lành mạnh",
+            "type": "",
+            "example": {
+                "en": "It is true that such unwholesome material is all around us.",
+                "vi": "Thật thế, những điều không lành mạnh đó đầy dẫy quanh chúng ta."
+            }
+        }
+    ]
+}

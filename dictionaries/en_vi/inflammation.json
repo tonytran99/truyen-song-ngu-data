@@ -1,0 +1,73 @@
+{
+    "word": "inflammation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinfləˈmāSH(ə)n/",
+            "/ˌɪnfləˈmeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnfləˈmeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viêm",
+            "type": "noun",
+            "example": {
+                "en": "Was there inflammation in the lining of the ventricles?",
+                "vi": "Có phải chỗ viêm nằm trên thành não thất?"
+            }
+        },
+        {
+            "content": "sự đốt cháy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bệnh viêm",
+            "type": "noun",
+            "example": {
+                "en": "That is why hepatitis —inflammation of the liver— can devastate a person’s health.",
+                "vi": "Đó là lý do tại sao bệnh viêm gan có thể hủy hoại sức khỏe của một người."
+            }
+        },
+        {
+            "content": "chứng viêm",
+            "type": "noun",
+            "example": {
+                "en": "Meningitis is an inflammation or infection of the tissue around the brain and spinal cord .",
+                "vi": "Viêm màng não là chứng viêm hay nhiễm trùng mô quanh não và tuỷ sống ."
+            }
+        },
+        {
+            "content": "sự bị khích động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bốc cháy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự khích động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Viêm",
+            "type": "",
+            "example": {
+                "en": "The lung inflammation is a complication of the pancreatic failure, which is reversible.",
+                "vi": "Viêm phổi là biến chứng của suy tụy nghĩa là có thể chữa khỏi."
+            }
+        }
+    ]
+}

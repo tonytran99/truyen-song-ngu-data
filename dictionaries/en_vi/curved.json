@@ -1,0 +1,52 @@
+{
+    "word": "curved",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kərvd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəːvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cong",
+            "type": "adjective",
+            "example": {
+                "en": "Or you could see the first time the two curves diverged, as shown on the left.",
+                "vi": "Hay bạn có thể thấy lần đầu hai đường cong tách ra, như ta thấy ở bên trái."
+            }
+        },
+        {
+            "content": "còng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có đường cong",
+            "type": "adjective",
+            "example": {
+                "en": "The earth’s shadow on the moon is curved.",
+                "vi": "Bóng của trái đất chiếu trên mặt trăng có đường cong."
+            }
+        },
+        {
+            "content": "khum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quắm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

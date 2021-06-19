@@ -1,0 +1,47 @@
+{
+    "word": "unprofitable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈpräfədəb(ə)l/",
+            "/ˌənˈprɑfədəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈprɒfɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có lời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không sinh lợi",
+            "type": "",
+            "example": {
+                "en": "Zero Moustafa had traded a great and important fortune in exchange for one costly, unprofitable, doomed hotel.",
+                "vi": "Zero Moustafa đã đổi một tài sản lớn và quan trọng để lấy một khách sạn đắt tiền nhưng suy tàn và không sinh lợi."
+            }
+        },
+        {
+            "content": "vô ích",
+            "type": "adjective",
+            "example": {
+                "en": "20:25-28 Why is it unprofitable to wield authority for its own sake?",
+                "vi": "20:25-28 Tại sao việc sử dụng quyền hành chỉ vì thích uy quyền là vô ích?"
+            }
+        }
+    ]
+}

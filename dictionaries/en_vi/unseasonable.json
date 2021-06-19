@@ -1,0 +1,52 @@
+{
+    "word": "unseasonable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsēz(ə)nəb(ə)l/",
+            "/ˌənˈsiz(ə)nəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsiːz(ə)nəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không hợp thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đúng lúc",
+            "type": "",
+            "example": {
+                "en": "Well, this is unseasonable.",
+                "vi": "Bây giờ không đúng lúc lắm."
+            }
+        },
+        {
+            "content": "không đúng mùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái mùa",
+            "type": "",
+            "example": {
+                "en": "I could see the ice sweating under the unseasonably warm sun.",
+                "vi": "Tôi có thể nhìn thấy nước đá tan chảy dưới ánh mặt trời ấm áp trái mùa."
+            }
+        },
+        {
+            "content": "trái vụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

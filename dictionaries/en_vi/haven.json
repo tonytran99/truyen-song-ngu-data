@@ -1,0 +1,56 @@
+{
+    "word": "haven",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhāvən/",
+            "/ˈheɪvən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪv(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảng",
+            "type": "noun",
+            "example": {
+                "en": "The few spaceports like this one... are havens for those that don't wish to be found.",
+                "vi": "Vài cảng không gian như thế này là thiên đường cho những ai không muốn bị tìm thấy."
+            }
+        },
+        {
+            "content": "bến tàu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nơi ẩn náu",
+            "type": "",
+            "example": {
+                "en": "If you're healthy, there's a safe haven up in Dalton.",
+                "vi": "Nếu bạn khoẻ mạnh, có nơi ẩn náu an toàn ở Dalton."
+            }
+        },
+        {
+            "content": "nơi trú",
+            "type": "",
+            "example": {
+                "en": "And we're giving you safe haven in return.",
+                "vi": "Đổi lại chúng tôi cho anh một nơi trú ẩn an toàn."
+            }
+        },
+        {
+            "content": "港",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

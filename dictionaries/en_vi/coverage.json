@@ -1,0 +1,83 @@
+{
+    "word": "coverage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəv(ə)rij/",
+            "/ˈkəv(ə)rɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌv(ə)rɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bao quát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảo hiểm",
+            "type": "verb",
+            "example": {
+                "en": "It seems as if your coverage cap limit has been reached.",
+                "vi": "Có vẻ như khi phạm vi bảo hiểm đạt tới giới hạn."
+            }
+        },
+        {
+            "content": "góc quét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phạm vi",
+            "type": "",
+            "example": {
+                "en": "They have coverage like the size of my thumbnail.",
+                "vi": "Họ có phạm vi phủ sóng nhỏ bằng kích thước móng tay cái của tôi"
+            }
+        },
+        {
+            "content": "vùng được gộp vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản báo cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mức bảo hiểm",
+            "type": "",
+            "example": {
+                "en": "It took the Senate just 17 days to ban the use of the guidelines in determining insurance coverage.",
+                "vi": "Thượng nghị viện chỉ mất 17 ngày để cấm việc sử dụng các hướng dẫn đó trong việc xác định mức bảo hiểm."
+            }
+        },
+        {
+            "content": "mức độ bao phủ",
+            "type": "noun",
+            "example": {
+                "en": "the coverage rate really falls down a lot.",
+                "vi": "mức độ bao phủ giảm rất nhiều."
+            }
+        },
+        {
+            "content": "phaïm vi ñöôïc bao haøm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

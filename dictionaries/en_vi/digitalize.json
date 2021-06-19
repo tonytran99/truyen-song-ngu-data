@@ -1,0 +1,42 @@
+{
+    "word": "digitalize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdijədlˌīz/",
+            "/ˈdɪdʒədlˌaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪdʒɪt(ə)lʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "số hoá",
+            "type": "",
+            "example": {
+                "en": "Google Books aims to digitize the publishing industry .",
+                "vi": "Google Books cố gắng số hoá ngành công nghiệp xuất bản ."
+            }
+        },
+        {
+            "content": "số hóa",
+            "type": "",
+            "example": {
+                "en": "Amazon, now with the Kindle, is trying to digitize books.",
+                "vi": "Amazon, hiện tại với Kindle, đang cố gắng số hóa sách."
+            }
+        },
+        {
+            "content": "數化",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

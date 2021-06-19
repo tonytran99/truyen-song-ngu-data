@@ -1,0 +1,55 @@
+{
+    "word": "damsel",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdamzəl/",
+            "/ˈdæmzəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdamz(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiếu nữ",
+            "type": "noun",
+            "example": {
+                "en": "He thinks he's the hero saving the damsel in distress.",
+                "vi": "Cậu nghĩ mình là anh hùng cứu một thiếu nữ gặp nạn..."
+            }
+        },
+        {
+            "content": "cô gái",
+            "type": "noun",
+            "example": {
+                "en": "I am merely trying to save this damsel from what would be the most traumatic experience of her young life.",
+                "vi": "Ta chỉ đang cố cứu cô gái này không phải trải qua trải nghiệm tệ hại nhất tuổi thanh xuân thôi."
+            }
+        },
+        {
+            "content": "khuê nữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nương tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trinh nữ",
+            "type": "noun",
+            "example": {
+                "en": "You're rescuing a damsel?",
+                "vi": "Anh đang cứu 1 trinh nữ à?"
+            }
+        }
+    ]
+}

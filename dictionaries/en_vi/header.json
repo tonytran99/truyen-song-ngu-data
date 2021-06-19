@@ -1,0 +1,68 @@
+{
+    "word": "header",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedər/",
+            "/ˈhɛdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "côlectơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái góp điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đóng đáy thùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu đề",
+            "type": "",
+            "example": {
+                "en": "Font name of the printed header table",
+                "vi": "Tên phông chữ để in bảng tiêu đề"
+            }
+        },
+        {
+            "content": "vòi phun",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống phun",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú đánh đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu trang",
+            "type": "",
+            "example": {
+                "en": "Spacing between header and body",
+                "vi": "Khoảng cách giữa đầu trang và thân"
+            }
+        }
+    ]
+}

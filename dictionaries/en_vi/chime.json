@@ -1,0 +1,110 @@
+{
+    "word": "chime",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHīm/",
+            "/tʃaɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gõ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chuông chùm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng chuông hòa âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuông hoà âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng vần với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoà âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kêu vang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phụ hoạ theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hoà hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phù hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng chuông chùm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng chuông hoà âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xen vào",
+            "type": "",
+            "example": {
+                "en": "Another boy at the table chimed in, “Yeah, why don’t they let you make your own choices?”",
+                "vi": "Một bạn trai khác ngồi cùng bàn xen vào: “Đúng rồi, tại sao họ không để cho bạn tự lựa chọn cho mình chứ?”"
+            }
+        }
+    ]
+}

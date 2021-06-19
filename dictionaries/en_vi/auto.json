@@ -1,0 +1,35 @@
+{
+    "word": "auto",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôdō/",
+            "/ˈɔdoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːtəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe ô tô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự động",
+            "type": "adjective",
+            "example": {
+                "en": "It's ready, but it's not configured for auto switch.",
+                "vi": "Nó đã sẵn sàng, nhưng nó vẫn chưa được định dạng sang chuyển đổi tự động."
+            }
+        }
+    ]
+}

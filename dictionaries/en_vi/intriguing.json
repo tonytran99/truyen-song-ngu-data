@@ -1,0 +1,41 @@
+{
+    "word": "intriguing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinˈtrēɡiNG/",
+            "/ˌɪnˈtriɡɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtriːɡɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Now suddenly she's become a very intriguing young lady.",
+                "vi": "Giờ cô ấy đã trở thành một thiếu nữ hấp dẫn."
+            }
+        },
+        {
+            "content": "gợi thích thú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm say đắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

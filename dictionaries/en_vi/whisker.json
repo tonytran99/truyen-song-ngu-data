@@ -1,0 +1,43 @@
+{
+    "word": "whisker",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)wiskər/",
+            "/ˈ(h)wɪskər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪskə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ria mèo",
+            "type": "",
+            "example": {
+                "en": "Did the function of cat whiskers come about by evolution?",
+                "vi": "Chức năng của ria mèo là do tiến hóa?"
+            }
+        },
+        {
+            "content": "râu mép",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "râu ria",
+            "type": "",
+            "example": {
+                "en": "I'm not a peasant, Mr. Whiskers. Hmm?",
+                "vi": "Tôi không phải nông dân, ngài Râu Ria ạ."
+            }
+        }
+    ]
+}

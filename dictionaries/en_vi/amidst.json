@@ -1,0 +1,42 @@
+{
+    "word": "amidst",
+    "type": [
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmidst/",
+            "/əˈmɪdst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmɪdst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giữa",
+            "type": "noun",
+            "example": {
+                "en": "That joy comes as peace amidst hardship or heartache.",
+                "vi": "Niềm vui đó đến như một sự bình an giữa những lúc khó khăn và đau lòng."
+            }
+        },
+        {
+            "content": "trong quá trình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở giữa",
+            "type": "",
+            "example": {
+                "en": "What an insidious thing is this culture amidst which we live.",
+                "vi": "Chúng ta đang sống ở giữa tập tục này là điều rất xảo quyệt."
+            }
+        }
+    ]
+}

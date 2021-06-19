@@ -1,0 +1,42 @@
+{
+    "word": "emissary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeməˌserē/",
+            "/ˈɛməˌsɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmɪs(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phái viên",
+            "type": "noun",
+            "example": {
+                "en": "I hope Agamemnon's generals are smarter than his emissaries.",
+                "vi": "Ta hy vọng quân đội của Agamemnon thông minh hơn phái viên của ông ta."
+            }
+        },
+        {
+            "content": "phái viên mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sứ thần",
+            "type": "noun",
+            "example": {
+                "en": "There have been no emissaries... from the Russian commander-in-chief.",
+                "vi": "Không có một sứ thần nào từ Tổng Tư lệnh Nga."
+            }
+        }
+    ]
+}

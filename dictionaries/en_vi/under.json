@@ -1,0 +1,91 @@
+{
+    "word": "under",
+    "type": [
+        "adjective",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dưới",
+            "type": "adposition",
+            "example": {
+                "en": "Don't read under insufficient light, for it is bad for your eyes.",
+                "vi": "Đừng đọc dưới ánh sáng yếu, nó rất hại cho mắt bạn."
+            }
+        },
+        {
+            "content": "trong",
+            "type": "adjective adposition",
+            "example": {
+                "en": "I don't want to work under these conditions.",
+                "vi": "Tôi không muốn làm việc trong những điều kiện như thế này."
+            }
+        },
+        {
+            "content": "ở dưới",
+            "type": "adposition",
+            "example": {
+                "en": "But, lucky for us, there's a sewer right under here.",
+                "vi": "May cho chúng ta có ống cống ở dưới chỗ này."
+            }
+        },
+        {
+            "content": "đang",
+            "type": "",
+            "example": {
+                "en": "A new road is under construction.",
+                "vi": "Người ta đang thi công một con đường mới."
+            }
+        },
+        {
+            "content": "bên dưới",
+            "type": "adposition",
+            "example": {
+                "en": "Maybe there's something very gentle under that beard of yours.",
+                "vi": "Có lẽ có một chút gì đó dịu dàng bên dưới hàm râu của ông."
+            }
+        },
+        {
+            "content": "chưa đầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa đến",
+            "type": "",
+            "example": {
+                "en": "And the crew was in and out in under two minutes.",
+                "vi": "Và cả đám ra vào chưa đến 2 phút."
+            }
+        },
+        {
+            "content": "hạ",
+            "type": "verb noun",
+            "example": {
+                "en": "My operatives are under orders to choose death before capture.",
+                "vi": "Thuộc hạ của ta được yêu cầu chọn cái chết trước khi bị bắt."
+            }
+        },
+        {
+            "content": "phía dưới",
+            "type": "adposition",
+            "example": {
+                "en": "But who knows what's really going on under the sheets there, right?",
+                "vi": "Nhưng ai mà biết nổi điều gì thực sự xảy ra phía dưới tấm chăn chứ?"
+            }
+        }
+    ]
+}

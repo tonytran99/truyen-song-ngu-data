@@ -1,0 +1,80 @@
+{
+    "word": "biting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīdiNG/",
+            "/ˈbaɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buốt",
+            "type": "adjective",
+            "example": {
+                "en": "And babbits bawling, the wind biting the bone.",
+                "vi": "Chim kêu vượn hú, gió liếm buốt xương."
+            }
+        },
+        {
+            "content": "cay độc",
+            "type": "",
+            "example": {
+                "en": "Diogenes became known for his biting sarcasm.",
+                "vi": "Diogenes có tiếng là hay mỉa mai cay độc."
+            }
+        },
+        {
+            "content": "chua cay",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm buốt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm cho đau đớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhức nhối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đay nghiến",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "Cắn",
+            "type": "",
+            "example": {
+                "en": "Dogs that bark don't bite.",
+                "vi": "Chó sủa thì không cắn."
+            }
+        },
+        {
+            "content": "đau đớn",
+            "type": "adjective",
+            "example": {
+                "en": "And now in moment, I will crush her jaw so she bites down on it and begins slow and painful death!",
+                "vi": "Tao sẽ bóp hàm ả bất cứ lúc nào... để ả cắn bóng đèn và bắt đầu một cái chết từ từ và đau đớn!"
+            }
+        }
+    ]
+}

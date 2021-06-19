@@ -1,0 +1,67 @@
+{
+    "word": "attribute",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈtriˌbyo͞ot/",
+            "/əˈtrɪˌbjut/",
+            "/ˈatrəˌbyo͞ot/",
+            "/ˈætrəˌbjut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈtrɪbjuːt/",
+            "/ˈatrɪbjuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuộc tính",
+            "type": "noun",
+            "example": {
+                "en": "There are scores of attributes in the scriptures that need to be taught and learned.",
+                "vi": "Trong thánh thư có rất nhiều thuộc tính cần được giảng dạy và học hỏi."
+            }
+        },
+        {
+            "content": "cho là do",
+            "type": "",
+            "example": {
+                "en": "It also causes slight cirrhosis, which Dr. Chase so eagerly attributed to alcohol.",
+                "vi": "Nó cũng dẫn tới bệnh xơ gan nhẹ, điều mà bác sĩ Chase đã rất nhanh chóng cho là do rượu."
+            }
+        },
+        {
+            "content": "gán cho là",
+            "type": "",
+            "example": {
+                "en": "A rise that many political experts are attributing to the recent appearance of Claire Underwood in the-",
+                "vi": "Một sự gia tăng mà các chuyên gia chính trị gán cho là do sự xuất hiện gần đây của Claire Underwood trong..."
+            }
+        },
+        {
+            "content": "quy cho",
+            "type": "",
+            "example": {
+                "en": "The symptoms tormenting me could be attributed to a number of well-known illnesses.",
+                "vi": "Những triệu chứng hành hạ tôi có thể quy cho một số bệnh thông thường."
+            }
+        },
+        {
+            "content": "thuộc ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật tượng trưng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "uranus",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orənəs/",
+            "/ˈjʊrənəs/",
+            "/yo͝oˈrānəs/",
+            "/jʊˈreɪnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərənəs/",
+            "/jʊˈreɪnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "uranus",
+            "type": "",
+            "example": {
+                "en": "Uranus rotating on its side along with its moons.",
+                "vi": "Uranus quay trên rìa, dọc theo những vệ tinh của nó"
+            }
+        },
+        {
+            "content": "sao thiên vương",
+            "type": "",
+            "example": {
+                "en": "Uranus, Neptune, and right there in the center,",
+                "vi": "sao Thiên Vương, Hải Vương, và ở ngay trung tâm,"
+            }
+        }
+    ]
+}

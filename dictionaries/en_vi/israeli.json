@@ -1,0 +1,35 @@
+{
+    "word": "israeli",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/izˈrālē/",
+            "/ɪzˈreɪli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪzˈreɪli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Do thái",
+            "type": "adjective",
+            "example": {
+                "en": "The glue on Israeli postage is certified kosher .",
+                "vi": "Lớp keo dán trên bưu phí của người Do Thái được công nhận là đúng luật ."
+            }
+        },
+        {
+            "content": "thuộc về do thái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

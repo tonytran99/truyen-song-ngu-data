@@ -1,0 +1,44 @@
+{
+    "word": "unconscionable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈkänSH(ə)nəbəl/",
+            "/ˌənˈkɑnʃ(ə)nəbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈkɒnʃ(ə)nəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoàn toàn vô ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá đáng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "táng tận lương tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô lương tâm",
+            "type": "adjective",
+            "example": {
+                "en": "What is this unconscionable lie?",
+                "vi": "Lời nói dối vô lương tâm này là sao?"
+            }
+        }
+    ]
+}

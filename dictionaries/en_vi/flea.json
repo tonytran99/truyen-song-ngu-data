@@ -1,0 +1,67 @@
+{
+    "word": "flea",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flē/",
+            "/fli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fliː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bọ chét",
+            "type": "noun",
+            "example": {
+                "en": "Don't know about ticks, but her dog's definitely got fleas.",
+                "vi": "Ko biết ve thì thế nào chứ chó của cô ấy chắc chắn là có bọ chét."
+            }
+        },
+        {
+            "content": "con bọ chét",
+            "type": "noun",
+            "example": {
+                "en": "Marie bravely removed the fleas one by one.",
+                "vi": "Marie can đảm nặn ra từng con bọ chét."
+            }
+        },
+        {
+            "content": "bọ",
+            "type": "noun",
+            "example": {
+                "en": "Don't know about ticks, but her dog's definitely got fleas.",
+                "vi": "Ko biết ve thì thế nào chứ chó của cô ấy chắc chắn là có bọ chét."
+            }
+        },
+        {
+            "content": "bọ chó",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chợ trời",
+            "type": "",
+            "example": {
+                "en": "from tourist shops and flea markets around the world.",
+                "vi": "từ các cửa hàng bán đồ lưu niệm và \"chợ trời\" trên khắp thế giới."
+            }
+        },
+        {
+            "content": "con rận",
+            "type": "",
+            "example": {
+                "en": "One day ain't but a flea o'hope.",
+                "vi": "Một ngày nào đó – hy vọng nhỏ bằng con rận."
+            }
+        }
+    ]
+}

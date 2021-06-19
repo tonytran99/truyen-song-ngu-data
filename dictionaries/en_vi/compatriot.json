@@ -1,0 +1,44 @@
+{
+    "word": "compatriot",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpātrēət/",
+            "/kəmˈpeɪtriət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpatrɪət/",
+            "/kəmˈpeɪtrɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng bào",
+            "type": "noun",
+            "example": {
+                "en": "She spoke terrible Basque, but I took her for a compatriot.",
+                "vi": "Nàng nói thứ tiếng Basque kinh khủng, nhưng tôi đã coi nàng là một đồng bào."
+            }
+        },
+        {
+            "content": "người đồng xứ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồng hương",
+            "type": "noun",
+            "example": {
+                "en": "I hear I may have the pleasure of exchanging words with an Italian compatriot.",
+                "vi": "Tôi nghe thấy tôi hân hạnh được trao đổi vài lời với một đồng hương người Italy."
+            }
+        }
+    ]
+}

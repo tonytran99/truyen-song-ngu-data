@@ -1,0 +1,50 @@
+{
+    "word": "whichever",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌ(h)wiCHˈevər/",
+            "/ˌ(h)wɪtʃˈɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪtʃˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nào",
+            "type": "",
+            "example": {
+                "en": "Take whichever flower you like.",
+                "vi": "Lấy bất cứ bông hoa nào bạn thích."
+            }
+        },
+        {
+            "content": "bất cứ cái nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất cứ",
+            "type": "",
+            "example": {
+                "en": "Take whichever flower you like.",
+                "vi": "Lấy bất cứ bông hoa nào bạn thích."
+            }
+        },
+        {
+            "content": "cái nào",
+            "type": "",
+            "example": {
+                "en": "Whichever you choose, there is no turning back.",
+                "vi": "Dù con có chọn cái nào, đều không có được quay lại đâu."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "u",
+    "type": [
+        "Letter",
+        "pronoun",
+        "noun",
+        "adjective",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juː/",
+            "/yo͞o/",
+            "/ju/",
+            "/o͞o/",
+            "/u/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juː/",
+            "/uː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "u",
+            "type": "noun",
+            "example": {
+                "en": "Start looking at the food you buy, and you'll see this little \" u. \"",
+                "vi": "Sau này nhìn vào thực phẩm mình mua, và sẽ thấy chữ \" u \" nhỏ này."
+            }
+        },
+        {
+            "content": "vật hình U",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "U",
+            "type": "Letter",
+            "example": {
+                "en": "Adams stocks his U-boats with intercontinental ballistic missiles.",
+                "vi": "Adams chất đầy các chiếc U-boat với hàng tá tên lửa xuyên lục địa."
+            }
+        }
+    ]
+}

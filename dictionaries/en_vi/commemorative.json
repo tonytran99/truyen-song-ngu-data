@@ -1,0 +1,40 @@
+{
+    "word": "commemorative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmem(ə)rədiv/",
+            "/kəˈmɛm(ə)rədɪv/",
+            "/kəˈmeməˌrādiv/",
+            "/kəˈmɛməˌreɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɛm(ə)rətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "để kỷ niệm",
+            "type": "",
+            "example": {
+                "en": "Or were they meant to commemorate an extraterrestrial encounter, one that happened... tens of thousands of years ago?",
+                "vi": "Hay có phải ý nghĩa của chúng là để kỷ niệm một cuộc gặp gỡ ngoài trái đất, đã xảy ra hàng vạn năm trước?"
+            }
+        },
+        {
+            "content": "để tưởng niệm",
+            "type": "",
+            "example": {
+                "en": "The statue commemorates the thousands of Gloucester fishermen known to have died at sea.",
+                "vi": "Bức tượng này dành để tưởng niệm hàng ngàn người đánh cá ở Gloucester đã chết ngoài biển khơi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "word": "directly",
+    "type": [
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈrektlē/",
+            "/dɪˈrɛktli/",
+            "/dīˈrektlē/",
+            "/daɪˈrɛktli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈrɛktli/",
+            "/dʌɪˈrɛktli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thẳng",
+            "type": "adjective",
+            "example": {
+                "en": "It will take you directly up to the repeater.",
+                "vi": "Nó sẽ đưa thẳng cậu lên bộ lặp vô tuyến."
+            }
+        },
+        {
+            "content": "trực tiếp",
+            "type": "",
+            "example": {
+                "en": "I'm standing directly below one of Sydney's busiest train stations.",
+                "vi": "Tôi đang đứng trực tiếp ngay dưới một trong những trạm xe lửa đông nhất Sydney."
+            }
+        },
+        {
+            "content": "ngay",
+            "type": "adjective",
+            "example": {
+                "en": "I'm standing directly below one of Sydney's busiest train stations.",
+                "vi": "Tôi đang đứng trực tiếp ngay dưới một trong những trạm xe lửa đông nhất Sydney."
+            }
+        },
+        {
+            "content": "một cách trực tiếp",
+            "type": "adverb",
+            "example": {
+                "en": "Let me look at this question more directly.",
+                "vi": "Giờ tôi sẽ xem xét câu hỏi này một cách trực tiếp."
+            }
+        },
+        {
+            "content": "tuột",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "lập tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngay lập tức",
+            "type": "adverb",
+            "example": {
+                "en": "The agent in charge of the operation got a promotion directly after.",
+                "vi": "Tay đặc vụ chịu trách nhiệm vụ đó đã thăng tiến ngay lập tức sau đó."
+            }
+        }
+    ]
+}

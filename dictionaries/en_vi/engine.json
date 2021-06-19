@@ -1,0 +1,111 @@
+{
+    "word": "engine",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈenjən/",
+            "/ˈɛndʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛndʒɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động cơ",
+            "type": "noun",
+            "example": {
+                "en": "I can't fire up the engines till we get a good seal on that gate.",
+                "vi": "Tôi không thể cho chạy động cơ tới khi đóng kín được cánh cổng."
+            }
+        },
+        {
+            "content": "máy",
+            "type": "noun",
+            "example": {
+                "en": "Well, shall we start with the engine room?",
+                "vi": "Chúng ta sẽ bắt đầu với phòng máy nhé?"
+            }
+        },
+        {
+            "content": "môtơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dụng cụ",
+            "type": "noun",
+            "example": {
+                "en": "We reverse engineer lab equipment.",
+                "vi": "Chúng tôi tự chế dụng cụ phòng thí nghiệm."
+            }
+        },
+        {
+            "content": "tàu",
+            "type": "adjective noun",
+            "example": {
+                "en": "The engineers drew up plans for a new dock.",
+                "vi": "Những người kỹ sư vẽ ra các kế hoạch cho bến tàu mới."
+            }
+        },
+        {
+            "content": "cơ cấu",
+            "type": "",
+            "example": {
+                "en": "Now, what about the engine?",
+                "vi": "Vậy cơ cấu của ruồi như thế nào?"
+            }
+        },
+        {
+            "content": "dụng cụ chiến tranh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắn động cơ vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lắp máy vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy động cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương tiện",
+            "type": "",
+            "example": {
+                "en": "Men of peace create engines of war.",
+                "vi": "Những con người của hòa bình tạo ra phương tiện chiến tranh."
+            }
+        },
+        {
+            "content": "đầu máy",
+            "type": "",
+            "example": {
+                "en": "However, the engine that was pulling the train over the mountain broke down.",
+                "vi": "Tuy nhiên, cái đầu máy kéo xe lửa lên núi bị hư."
+            }
+        },
+        {
+            "content": "đầu máy xe lửa",
+            "type": "",
+            "example": {
+                "en": "Or, like the old engine, do we say we are too tired—or too old?",
+                "vi": "Hoặc, giống như cái đầu máy xe lửa cũ kỹ, chúng ta nói rằng chúng ta quá mệt mỏi—hay quá lớn tuổi chăng?"
+            }
+        }
+    ]
+}

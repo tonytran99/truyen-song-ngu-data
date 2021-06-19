@@ -1,0 +1,72 @@
+{
+    "word": "whereas",
+    "type": [
+        "noun",
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌ(h)werˈaz/",
+            "/ˌ(h)wɛrˈæz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛːrˈaz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "còn",
+            "type": "adverb",
+            "example": {
+                "en": "One man dug down deep, whereas the other did not.",
+                "vi": "Một người thì đào sâu còn người kia thì không."
+            }
+        },
+        {
+            "content": "bởi vì",
+            "type": "conjunction",
+            "example": {}
+        },
+        {
+            "content": "người khác lại ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhưng trái lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong khi",
+            "type": "",
+            "example": {
+                "en": "Well, saints tend to be myopic, whereas the atheist is almost always innocent.",
+                "vi": "Thì, các vị thánh thường thiển cận, trong khi những người vô thần hầu như lúc nào cũng trong sáng."
+            }
+        },
+        {
+            "content": "trong khi mà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xét rằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc dù",
+            "type": "",
+            "example": {
+                "en": "Whereas if she thinks the powder was poison, even though it's really sugar,",
+                "vi": "Trong khi đó nếu cô ấy nghĩ rằng chất bột là chất độc, mặc dù nó thực sự là đường,"
+            }
+        }
+    ]
+}

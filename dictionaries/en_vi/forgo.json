@@ -1,0 +1,45 @@
+{
+    "word": "forgo",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrˈɡō/",
+            "/fɔrˈɡoʊ/",
+            "/fərˈɡō/",
+            "/fərˈɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːˈɡəʊ/",
+            "/fəˈɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "He had to forgo all the farm activities.",
+                "vi": "Ông phải từ bỏ mọi hoạt động trên nông trại."
+            }
+        },
+        {
+            "content": "kiêng",
+            "type": "",
+            "example": {
+                "en": "Of course, if you are diabetic, then you may have to forgo sugar and perhaps use a substitute.",
+                "vi": "Tất nhiên, nếu bạn bị bệnh tiểu đường thì có lẽ bạn phải kiêng đường và có lẽ dùng một chất thay thế."
+            }
+        },
+        {
+            "content": "thôi",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

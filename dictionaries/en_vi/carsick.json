@@ -1,0 +1,29 @@
+{
+    "word": "carsick",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärˌsik/",
+            "/ˈkɑrˌsɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːsɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "say xe",
+            "type": "adjective",
+            "example": {
+                "en": "Hey, explain to the driver I get carsick.",
+                "vi": "Này, giải thích với tài xế rằng tôi bị say xe."
+            }
+        }
+    ]
+}

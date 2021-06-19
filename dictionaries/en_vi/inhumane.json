@@ -1,0 +1,45 @@
+{
+    "word": "inhumane",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(h)yo͞oˈmān/",
+            "/ˌɪn(h)juˈmeɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnhjʊˈmeɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất nhân",
+            "type": "adjective",
+            "example": {
+                "en": "Not surprisingly, Seneca admits that he returned home “more cruel and inhuman.”",
+                "vi": "Thật dễ hiểu khi Seneca thú nhận rằng ông trở về nhà “tàn ác và bất nhân hơn”."
+            }
+        },
+        {
+            "content": "độc ác",
+            "type": "adjective",
+            "example": {
+                "en": "It's inhumane, and it's torture.",
+                "vi": "Phạt như vậy là độc ác, là tra tấn."
+            }
+        },
+        {
+            "content": "vô nhân đạo",
+            "type": "",
+            "example": {
+                "en": "And then tortured in inhuman ways in all the prisons.",
+                "vi": "Và bị tra tấn bằng những cách vô nhân đạo trong các nhà tù."
+            }
+        }
+    ]
+}

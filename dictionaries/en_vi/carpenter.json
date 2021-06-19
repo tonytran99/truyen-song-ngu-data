@@ -1,0 +1,43 @@
+{
+    "word": "carpenter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärpən(t)ər/",
+            "/ˈkɑrpən(t)ər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːp(ə)ntə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ mộc",
+            "type": "noun",
+            "example": {
+                "en": "In fact, part of the carpenter’s work involved construction.",
+                "vi": "Thật vậy, một phần công việc của người thợ mộc liên quan đến việc xây dựng."
+            }
+        },
+        {
+            "content": "làm nghề thợ mộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thợ mộc",
+            "type": "",
+            "example": {
+                "en": "A carpenter is a person who makes things out of wood, such as tables and chairs and benches.",
+                "vi": "Thợ mộc là một người làm ra đồ vật bằng gỗ, như bàn, ghế và băng để ngồi."
+            }
+        }
+    ]
+}

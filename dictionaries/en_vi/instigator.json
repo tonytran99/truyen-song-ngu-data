@@ -1,0 +1,55 @@
+{
+    "word": "instigator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinstiˌɡādər/",
+            "/ˈɪnstɪˌɡeɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnstɪɡeɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ xúi giục",
+            "type": "noun",
+            "example": {
+                "en": "That account reveals that there was an instigator behind the scenes when Adam first committed sin.",
+                "vi": "Câu chuyện đó tiết lộ là có một kẻ xúi giục ẩn mặt khi A-đam phạm tội lúc đầu."
+            }
+        },
+        {
+            "content": "chủ mưu",
+            "type": "noun",
+            "example": {
+                "en": "We'll not be the instigators of war on the eve of universal peace.",
+                "vi": "Chúng ta không chủ mưu gây chiến trong thời gian diễn ra sự kiện hòa bình này."
+            }
+        },
+        {
+            "content": "kẻ chủ mưu",
+            "type": "noun",
+            "example": {
+                "en": "Judas, however, was the main instigator of the complaint.",
+                "vi": "Tuy nhiên, Giu-đa là kẻ chủ mưu trong việc phàn nàn."
+            }
+        },
+        {
+            "content": "kẻ xúi bẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thủ mưu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

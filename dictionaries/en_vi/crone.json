@@ -1,0 +1,37 @@
+{
+    "word": "crone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krōn/",
+            "/kroʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà già",
+            "type": "noun",
+            "example": {
+                "en": "And would an old crone have attracted your eye?",
+                "vi": "Nếu một bà già thì có thu hút được anh không?"
+            }
+        },
+        {
+            "content": "con cừu già",
+            "type": "",
+            "example": {
+                "en": "Not that old crone.",
+                "vi": "không phải con cừu già ấy."
+            }
+        }
+    ]
+}

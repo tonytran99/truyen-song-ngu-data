@@ -1,0 +1,64 @@
+{
+    "word": "collective",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlektiv/",
+            "/kəˈlɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tập thể",
+            "type": "adjective, noun",
+            "example": {
+                "en": "We know that He has placed a great deal of trust in us, individually and collectively.",
+                "vi": "Chúng tôi biết rằng Ngài đã tin cậy nhiều vào chúng ta, cá nhân lẫn tập thể."
+            }
+        },
+        {
+            "content": "tổng hợp",
+            "type": "adjective",
+            "example": {
+                "en": "They're made up of a collection of organs.",
+                "vi": "Chúng chỉ là tổng hợp của các cơ quan sinh học."
+            }
+        },
+        {
+            "content": "chung",
+            "type": "noun",
+            "example": {
+                "en": "The preparation of that record is our individual and collective responsibility.",
+                "vi": "Việc chuẩn bị cho tập hồ sơ đó là trách nhiệm cá nhân và của chung chúng ta."
+            }
+        },
+        {
+            "content": "danh từ tập họp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập họp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập hợp",
+            "type": "noun",
+            "example": {
+                "en": "Be one of the few black men who live long enough to collect social security.",
+                "vi": "Là một người da đen sống đủ lâu để có thể tập hợp quỹ an ninh xã hội."
+            }
+        }
+    ]
+}

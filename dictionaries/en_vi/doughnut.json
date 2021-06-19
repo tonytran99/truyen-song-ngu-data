@@ -1,0 +1,37 @@
+{
+    "word": "doughnut",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdōˌnət/",
+            "/ˈdoʊˌnət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəʊnʌt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh rán",
+            "type": "noun",
+            "example": {
+                "en": "His food is homemade doughnuts with smashed-up goose livers injected into them.",
+                "vi": "Thức ăn của lão là bánh rán tự làm với nhân là gan ngỗng xay."
+            }
+        },
+        {
+            "content": "Bánh doughnut",
+            "type": "",
+            "example": {
+                "en": "The teacher said she would be “dialing for doughnuts” and would call Megan sometime during the week.",
+                "vi": "Cô giáo nói sẽ gọi điện thoại cho Megan trong tuần để “mua bánh doughnut”."
+            }
+        }
+    ]
+}

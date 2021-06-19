@@ -1,0 +1,55 @@
+{
+    "word": "fertilizer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərdlˌīzər/",
+            "/ˈfərdlˌaɪzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːtɪlʌɪzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân bón",
+            "type": "noun",
+            "example": {
+                "en": "We use fertilizers in our farming, chemical fertilizers.",
+                "vi": "Chúng ta sử dụng phân bón trong trồng trọt, phân bón hóa học."
+            }
+        },
+        {
+            "content": "phân",
+            "type": "noun",
+            "example": {
+                "en": "It uses lots of pesticides, lots of fertilizer, lots of water.",
+                "vi": "Nó sử dụng nhiều thuốc trừ sâu, rất nhiều phân bón, rất nhiều nước."
+            }
+        },
+        {
+            "content": "bón phân",
+            "type": "",
+            "example": {
+                "en": "To work smart—if you irrigate and fertilize, you harvest more.",
+                "vi": "Phải làm việc khôn ngoan—nếu tưới nước và bón phân, thì sẽ thu hoạch được nhiều thêm."
+            }
+        },
+        {
+            "content": "cái làm thụ tinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làm thụ thai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

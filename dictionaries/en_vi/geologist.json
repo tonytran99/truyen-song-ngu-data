@@ -1,0 +1,37 @@
+{
+    "word": "geologist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jēˈäləjəst/",
+            "/dʒiˈɑlədʒəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪˈɒlədʒɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà địa chất",
+            "type": "noun",
+            "example": {
+                "en": "Now, were it quite that easy, geologists would rejoice.",
+                "vi": "Nếu việc đó dễ dàng như vậy, các nhà địa chất sẽ rất vui mừng."
+            }
+        },
+        {
+            "content": "nhà địa chất học",
+            "type": "",
+            "example": {
+                "en": "And this is a term that some geologists are suggesting",
+                "vi": "Các nhà địa chất học đưa ra khái niệm này"
+            }
+        }
+    ]
+}

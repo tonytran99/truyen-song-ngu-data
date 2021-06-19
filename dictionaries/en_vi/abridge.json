@@ -1,0 +1,67 @@
+{
+    "word": "abridge",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbrij/",
+            "/əˈbrɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbrɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rút ngắn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "rút ngắn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tóm tắt",
+            "type": "",
+            "example": {
+                "en": "Mormon compiled and abridged records from the large plates of Nephi to create the book of Alma.",
+                "vi": "Mặc Môn đã biên soạn và tóm tắt các biên sử từ các bảng khắc lớn của Nê Phi để làm thành sách An Ma."
+            }
+        },
+        {
+            "content": "tước",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "lấy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cô gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn chế",
+            "type": "",
+            "example": {
+                "en": "\"No state shall make or enforce any law which shall abridge the privileges or immunities",
+                "vi": "\"Không một bang nào được gây áp lực hoặc áp đặt luật lệ để hạn chế đặc quyền hay quyền bất khả xâm phạm"
+            }
+        }
+    ]
+}

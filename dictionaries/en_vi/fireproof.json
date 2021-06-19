@@ -1,0 +1,43 @@
+{
+    "word": "fireproof",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌpro͞of/",
+            "/ˈfaɪ(ə)rˌpruf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəpruːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chịu lửa",
+            "type": "",
+            "example": {
+                "en": "Fireproof lingerie and a lot of aloe.",
+                "vi": "Đồ lót chịu lửa và một chút lô hội."
+            }
+        },
+        {
+            "content": "chống lửa",
+            "type": "adjective",
+            "example": {
+                "en": "Not so fireproof on the inside, are you?",
+                "vi": "Bên trong mày chống lửa không tốt lắm nhỉ?"
+            }
+        },
+        {
+            "content": "không cháy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

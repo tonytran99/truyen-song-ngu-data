@@ -1,0 +1,45 @@
+{
+    "word": "awhile",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈ(h)wīl/",
+            "/əˈ(h)waɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈwʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "một lúc",
+            "type": "",
+            "example": {
+                "en": "I've actually been here for awhile.",
+                "vi": "Thật ra tớ tới đây một lúc rồi."
+            }
+        },
+        {
+            "content": "một chốc",
+            "type": "",
+            "example": {
+                "en": "Sometimes it is not easy, and you may be standing alone for awhile.",
+                "vi": "Đôi khi không phải là điều dễ dàng và em có thể đứng một mình đơn độc trong một chốc lát."
+            }
+        },
+        {
+            "content": "một lát",
+            "type": "noun",
+            "example": {
+                "en": "I sat there for awhile enjoying the moment .",
+                "vi": "Tôi ngồi ở đó một lát , tận hưởng khoảnh khắc ấy ."
+            }
+        }
+    ]
+}

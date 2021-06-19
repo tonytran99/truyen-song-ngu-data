@@ -1,0 +1,35 @@
+{
+    "word": "arab",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerəb/",
+            "/ˈɛrəb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈarəb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "A-rập",
+            "type": "adjective",
+            "example": {
+                "en": "You want me to call in a strike on a friendly Arab nation?",
+                "vi": "Anh muốn tôi hạ lệnh oanh tạc một nước A Rập trung lập sao?"
+            }
+        },
+        {
+            "content": "ngựa A-rập",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

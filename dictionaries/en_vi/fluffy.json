@@ -1,0 +1,55 @@
+{
+    "word": "fluffy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfləfē/",
+            "/ˈfləfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflʌfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phủ lông tơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có lông tơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mịn mượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "như nùi bông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mịn",
+            "type": "",
+            "example": {
+                "en": "See the fluffy tail?",
+                "vi": "Anh thấy cái đuôi mịn màng không kìa?"
+            }
+        },
+        {
+            "content": "như lông tơ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

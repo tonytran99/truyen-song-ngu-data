@@ -1,0 +1,50 @@
+{
+    "word": "knoll",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nōl/",
+            "/noʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gò",
+            "type": "noun",
+            "example": {
+                "en": "Half go in from over there, half from behind the knoll.",
+                "vi": "Một nửa tiến vô từ trên đó, một nửa từ dưới cái gò kia."
+            }
+        },
+        {
+            "content": "rung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rung chuông gọi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh chuông điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồi nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

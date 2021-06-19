@@ -1,0 +1,56 @@
+{
+    "word": "especial",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈspeSH(ə)l/",
+            "/əˈspɛʃ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈspɛʃ(ə)l/",
+            "/ɛˈspɛʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đặc biệt",
+            "type": "adjective",
+            "example": {
+                "en": "Some of the ingredients in this beverage are harmful, especially if you are pregnant.",
+                "vi": "Một vài thành phần của nước uống này có hại, đặc biệt nếu bạn có thai."
+            }
+        },
+        {
+            "content": "riêng",
+            "type": "adjective",
+            "example": {
+                "en": "I helped my father fix up this part of the basement especially for her.",
+                "vi": "Nhưng tôi đã giúp cha tôi sửa sang góc hầm đó... dành riêng cho chị ấy."
+            }
+        },
+        {
+            "content": "khác thường",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "riêng biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuất sắc",
+            "type": "",
+            "example": {
+                "en": "“Teachers push students to excel academically, especially if the student has some ability.”—April.",
+                "vi": "“Lúc nào giáo viên cũng đòi hỏi học sinh phải học cho xuất sắc, nhất là những bạn có tiềm năng”.—Hạnh."
+            }
+        }
+    ]
+}

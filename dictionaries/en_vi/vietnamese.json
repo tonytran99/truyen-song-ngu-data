@@ -1,0 +1,32 @@
+{
+    "word": "vietnamese",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vēˌetnəˈmēz/",
+            "/viˌɛtnəˈmiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvɪɛtnəˈmiːz/",
+            "/ˈvjɛtnəmiːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Việt nam",
+            "type": "",
+            "example": {
+                "en": "I have many Vietnamese learning books.",
+                "vi": "Tôi có rất nhiều sách học tiếng Việt Nam."
+            }
+        }
+    ]
+}

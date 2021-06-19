@@ -1,0 +1,43 @@
+{
+    "word": "intestinal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtestən(ə)l/",
+            "/ɪnˈtɛstən(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntɛˈstʌɪn(ə)l/",
+            "/ɪnˈtɛstɪn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trong ruột",
+            "type": "",
+            "example": {
+                "en": "We found intestinal edema and air in the blood vessels.",
+                "vi": "Chúng tôi tìm thấy một chỗ phù trong ruột và không khí trong mạch máu ruột anh ta."
+            }
+        },
+        {
+            "content": "ruột",
+            "type": "noun",
+            "example": {
+                "en": "It's like somebody's twisting my intestines with a cement mixer.",
+                "vi": "Cứ như có ai đó xoắn ruột gan tôi bằng máy trộn xi măng vậy."
+            }
+        },
+        {
+            "content": "giống ruột",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

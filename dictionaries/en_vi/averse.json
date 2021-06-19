@@ -1,0 +1,47 @@
+{
+    "word": "averse",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvəːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thích",
+            "type": "",
+            "example": {
+                "en": "No wonder people are averse to doodling at work.",
+                "vi": "Mọi người không thích vẽ vô định trong khi làm việc là một điều hiển nhiên."
+            }
+        },
+        {
+            "content": "ghét",
+            "type": "verb noun",
+            "example": {
+                "en": "However, I had an aversion to the meetings, and I would often throw a tantrum on the way there.",
+                "vi": "Dù vậy, tôi ghét đi nhóm họp và thường nổi giận trên đường đi đến đó."
+            }
+        },
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không muốn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

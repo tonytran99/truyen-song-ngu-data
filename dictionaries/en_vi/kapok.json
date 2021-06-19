@@ -1,0 +1,39 @@
+{
+    "word": "kapok",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkāˌpäk/",
+            "/ˈkeɪˌpɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪpɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bông gạo",
+            "type": "noun",
+            "example": {
+                "en": "A number of the world’s most majestic trees, such as the kapok and the baobab, depend on bats for pollination.",
+                "vi": "Nhiều loại cây cao lớn được thụ phấn nhờ dơi, chẳng hạn như cây bông gạo và baobab."
+            }
+        },
+        {
+            "content": "gòn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bông gòn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

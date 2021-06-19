@@ -1,0 +1,42 @@
+{
+    "word": "edifice",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈedəfəs/",
+            "/ˈɛdəfəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdɪfɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "We let this edifice sink in the ground.",
+                "vi": "Chúng ta để tòa nhà này chìm xuống đất."
+            }
+        },
+        {
+            "content": "dinh thự",
+            "type": "noun",
+            "example": {
+                "en": "the building ceased to be just an edifice and it became media,",
+                "vi": "Nó không còn là thành một dinh thự mà nó trở thành truyền thông,"
+            }
+        },
+        {
+            "content": "phần xây",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

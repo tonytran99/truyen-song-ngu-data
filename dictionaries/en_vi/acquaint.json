@@ -1,0 +1,50 @@
+{
+    "word": "acquaint",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkwānt/",
+            "/əˈkweɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkweɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm quen",
+            "type": "",
+            "example": {
+                "en": "Let us get acquainted in our own way.",
+                "vi": "Hãy để chúng tôi làm quen theo cách riêng của chúng tôi."
+            }
+        },
+        {
+            "content": "báo",
+            "type": "noun verb",
+            "example": {}
+        },
+        {
+            "content": "cho biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho hay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông báo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

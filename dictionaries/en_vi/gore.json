@@ -1,0 +1,88 @@
+{
+    "word": "gore",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡôr/",
+            "/ɡɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máu đông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "húc",
+            "type": "",
+            "example": {
+                "en": "If one can turn the other and gore its flank, the fight will be over.",
+                "vi": "Nếu một bên có thể xoay con còn lại và húc vào sườn của nó, cuộc chiến sẽ kết thúc."
+            }
+        },
+        {
+            "content": "máu",
+            "type": "noun",
+            "example": {
+                "en": "Our fare is mayhem and malice with all the ingenious gore we can devise.",
+                "vi": "Giá vé rạp bát nháo và thủ đoạn nhờ tất cả những bãi máu khéo léo mà chúng tôi có thể chơi chiêu."
+            }
+        },
+        {
+            "content": "múi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cắt thành vạt chéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "doi đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khâu vạt chéo vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mảnh vải chéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mảnh đất chéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạt chéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đâm thủng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

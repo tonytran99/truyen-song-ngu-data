@@ -1,0 +1,50 @@
+{
+    "word": "gob",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡäb/",
+            "/ɡɑb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɒb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mồm",
+            "type": "noun",
+            "example": {
+                "en": "Stick an arrow in his gob.",
+                "vi": "Găm một mũi tên vào mồm hắn."
+            }
+        },
+        {
+            "content": "cục đờm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khạc nhổ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thuỷ thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đờm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

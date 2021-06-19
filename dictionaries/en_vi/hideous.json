@@ -1,0 +1,45 @@
+{
+    "word": "hideous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhidēəs/",
+            "/ˈhɪdiəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪdɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghê tởm",
+            "type": "adjective",
+            "example": {
+                "en": "The most hideous, deformed creature to roam the desert?",
+                "vi": "Sinh vật ghê tởm và xấu xí nhất đi lang thang trong hoang mạc hả?"
+            }
+        },
+        {
+            "content": "gớm guốc",
+            "type": "",
+            "example": {
+                "en": "I wouldn't want to see you if you came back with some hideous injury.",
+                "vi": "Em sẽ không muốn thấy anh nếu anh quay về với những vết thương gớm guốc."
+            }
+        },
+        {
+            "content": "gớm ghiếc",
+            "type": "",
+            "example": {
+                "en": "Stuck in an eternity of watching over that hideous creature my children call brother.",
+                "vi": "Vĩnh viễn phải trông theo cái tạo vật gớm ghiếc mà các con ta gọi là em trai."
+            }
+        }
+    ]
+}

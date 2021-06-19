@@ -1,0 +1,53 @@
+{
+    "word": "broil",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/broil/",
+            "/brɔɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brɔɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nướng",
+            "type": "",
+            "example": {
+                "en": "No, this is a setting for London broil.",
+                "vi": "Như cái lò nướng Luân Đôn rồi này!"
+            }
+        },
+        {
+            "content": "hun nóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nóng như thiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiêu đốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt nướng",
+            "type": "",
+            "example": {
+                "en": "a piece of broiled meat, a quickly made salad with bottled dressing,",
+                "vi": "một miếng thịt nướng, một phần xà lách làm vội với nước xốt đóng chai,"
+            }
+        }
+    ]
+}

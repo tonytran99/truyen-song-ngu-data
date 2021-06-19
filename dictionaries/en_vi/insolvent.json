@@ -1,0 +1,35 @@
+{
+    "word": "insolvent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsälvənt/",
+            "/ɪnˈsɑlvənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɒlv(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không trả được nợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vỡ nợ",
+            "type": "",
+            "example": {
+                "en": "It was close to insolvency.",
+                "vi": "Nó suýt vỡ nợ."
+            }
+        }
+    ]
+}

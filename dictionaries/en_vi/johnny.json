@@ -1,0 +1,39 @@
+{
+    "word": "johnny",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjänē/",
+            "/ˈdʒɑni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɒni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "anh chàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thằng cha",
+            "type": "noun",
+            "example": {
+                "en": "As you're an undercover johnny, I took the precaution of not being followed.",
+                "vi": "Nhưng ông giống như một trong những thằng cha lén lút đó... Tôi phòng ngừa để không bị theo dõi mà"
+            }
+        }
+    ]
+}

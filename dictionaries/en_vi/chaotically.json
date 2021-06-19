@@ -1,0 +1,45 @@
+{
+    "word": "chaotically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kāˈädək(ə)lē/",
+            "/keɪˈɑdək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪˈɒtɪk(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hỗn loạn",
+            "type": "",
+            "example": {
+                "en": "Before you go any further, let me remind you things were very chaotic back then.",
+                "vi": "Trước khi ông nói thêm, tôi xin nhắc là thời đó rất hỗn loạn."
+            }
+        },
+        {
+            "content": "hỗn độn",
+            "type": "",
+            "example": {
+                "en": "It's kind of chaotic because I'm bullying my ideas.",
+                "vi": "Quả là một sự hỗn độn bởi vì tôi đang tự phá các ý tưởng của mình."
+            }
+        },
+        {
+            "content": "một cách hỗn loạn",
+            "type": "",
+            "example": {
+                "en": "They're all just stored chaotically.",
+                "vi": "Tất cả chúng đều được lưu giữ một cách hỗn loạn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "crawfish",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrôˌfiSH/",
+            "/ˈkrɔˌfɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɔːfɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "crayfish",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không giữ lời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nuốt lời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo lui",
+            "type": "",
+            "example": {
+                "en": "Mr Walker, it's a smart man who knows when to crawfish.",
+                "vi": "Ông Walker, đúng là một người khôn ngoan biết khi nào nên tháo lui."
+            }
+        }
+    ]
+}

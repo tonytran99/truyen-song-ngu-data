@@ -1,0 +1,34 @@
+{
+    "word": "cinematic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsinəˈmadik/",
+            "/ˌsɪnəˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪnɪˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuộc về điện ảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điện ảnh",
+            "type": "noun",
+            "example": {
+                "en": "Okay, right, so you just happened to guess the biggest cinematic reveal in history?",
+                "vi": "Vậy ra cậu vừa khám phá được bí mật điện ảnh lớn nhất lịch sử?"
+            }
+        }
+    ]
+}

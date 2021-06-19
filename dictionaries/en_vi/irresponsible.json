@@ -1,0 +1,40 @@
+{
+    "word": "irresponsible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌi(r)rəˈspänsəb(ə)l/",
+            "/ˌɪ(r)rəˈspɑnsəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪrɪˈspɒnsɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô trách nhiệm",
+            "type": "",
+            "example": {
+                "en": "I don't understand why he's being so irresponsible.",
+                "vi": "Không hiểu sao ảnh lại có thể vô trách nhiệm như vậy?"
+            }
+        },
+        {
+            "content": "chưa đủ trách nhiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chịu trách nhiệm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

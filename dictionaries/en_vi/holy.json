@@ -1,0 +1,111 @@
+{
+    "word": "holy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōlē/",
+            "/ˈhoʊli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thần thánh",
+            "type": "adjective, noun",
+            "example": {
+                "en": "Your holy crusade is led by men, not some precious deity.",
+                "vi": "Cuộc Thập tự chinh của các ngươi được lãnh đạo bởi người chứ không phải thần thánh."
+            }
+        },
+        {
+            "content": "thánh",
+            "type": "noun adjective",
+            "example": {
+                "en": "I’ve asked hundreds of young women to share their holy places with me.",
+                "vi": "Tôi đã yêu cầu hàng trăm thiếu nữ chia sẻ “những nơi thánh thiện” của họ với tôi."
+            }
+        },
+        {
+            "content": "linh thiêng",
+            "type": "noun",
+            "example": {
+                "en": "You would spill blood in this holy place?",
+                "vi": "Ngài muốn máu đổ trong chốn linh thiêng này à?"
+            }
+        },
+        {
+            "content": "聖",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trong sạch",
+            "type": "",
+            "example": {
+                "en": "To be holy means to be clean and pure.",
+                "vi": "Thánh có nghĩa là trong sạch và tinh khiết."
+            }
+        },
+        {
+            "content": "Holy Writ kinh thánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái linh thiêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mộ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi linh thiêng",
+            "type": "",
+            "example": {
+                "en": "Into this holy estate these two persons now desire to enter.",
+                "vi": "tại nơi linh thiêng này nơi 2 con người đã mong muốn được bước chân vào."
+            }
+        },
+        {
+            "content": "sùng đạo",
+            "type": "",
+            "example": {
+                "en": "Oh, he was a very holy man, Alfred.",
+                "vi": "À, ông ấy rất là sùng đạo, Alfred à"
+            }
+        },
+        {
+            "content": "thiêng liêng",
+            "type": "adjective",
+            "example": {
+                "en": "That divine authority is, of course, the holy priesthood.",
+                "vi": "Dĩ nhiên, thẩm quyền thiêng liêng đó là thánh chức tư tế."
+            }
+        },
+        {
+            "content": "vật linh thiêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất thánh",
+            "type": "",
+            "example": {
+                "en": "Take off your sandals, because you are standing on holy ground.’",
+                "vi": "Hãy cởi dép, vì ngươi đứng trên đất thánh’."
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "word": "converse",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvərs/",
+            "/ˈkänˌvərs/",
+            "/ˈkɑnˌvərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvəːs/",
+            "/ˈkɒnvəːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyện trò",
+            "type": "",
+            "example": {
+                "en": "What was the likely effect of such conversation on associates?",
+                "vi": "Cuộc chuyện trò đó có thể có ảnh hưởng gì đối với những người chung quanh?"
+            }
+        },
+        {
+            "content": "nghịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội thoại",
+            "type": "verb",
+            "example": {
+                "en": "Do you listen to all of my conversations?",
+                "vi": "Anh nghe tất cả các cuộc hội thoại của tôi?"
+            }
+        },
+        {
+            "content": "nghịch đảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện",
+            "type": "verb noun",
+            "example": {
+                "en": "It is difficult to keep up a conversation with someone who only says Yes and No.",
+                "vi": "Rất là khó để nói chuyện với một người luôn luôn trả lời \"Có\" hay \"Không\"."
+            }
+        },
+        {
+            "content": "trái ngược",
+            "type": "",
+            "example": {
+                "en": "I saw a conversion of his fate line and heart line.",
+                "vi": "Chị thấy có sự trái ngược trong đường số phận và đường tình cảm của cậu ấy."
+            }
+        },
+        {
+            "content": "đàm thoại",
+            "type": "verb",
+            "example": {
+                "en": "If we're going to change course, we need to start a conversation.",
+                "vi": "Nếu chúng ta muốn thay đổi cục diện, chúng ta cần bắt đầu đàm thoại."
+            }
+        },
+        {
+            "content": "đàm đạo",
+            "type": "verb",
+            "example": {
+                "en": "But I do hope that we can continue this conversation in a more intimate setting.",
+                "vi": "Ước gì chúng ta có thể tiếp tục đàm đạo nhưng trong một dịp lãng mạn hơn."
+            }
+        },
+        {
+            "content": "đảo đề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều ngược lại",
+            "type": "",
+            "example": {
+                "en": "I would say that the converse is true.",
+                "vi": "Tôi sẽ nói rằng điều ngược lại cũng đúng."
+            }
+        }
+    ]
+}

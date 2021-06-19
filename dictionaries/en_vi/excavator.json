@@ -1,0 +1,49 @@
+{
+    "word": "excavator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekskəˌvādər/",
+            "/ˈɛkskəˌveɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛkskəveɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy xúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy đào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người khai quật",
+            "type": "noun",
+            "example": {
+                "en": "At this mound, excavators have found a collection of pottery used as writing tablets.",
+                "vi": "Tại gò đất này, những người khai quật đã phát hiện một bộ sưu tập mảnh gốm thường được dùng làm bảng khắc chữ."
+            }
+        },
+        {
+            "content": "người đào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Máy đào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

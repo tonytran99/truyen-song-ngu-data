@@ -1,0 +1,54 @@
+{
+    "word": "kettle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkedl/",
+            "/ˈkɛdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ấm",
+            "type": "noun",
+            "example": {
+                "en": "The kettle is boiling.",
+                "vi": "Ấm nước đang sôi."
+            }
+        },
+        {
+            "content": "ấm đun nước",
+            "type": "noun",
+            "example": {
+                "en": "Now, I looked at a number of kettles available on the market,",
+                "vi": "Bây giờ, hãy thử nhìn vào số lượng ấm đun nước được bán ra trên thị trường"
+            }
+        },
+        {
+            "content": "ấm nước",
+            "type": "noun",
+            "example": {
+                "en": "The kettle is boiling.",
+                "vi": "Ấm nước đang sôi."
+            }
+        },
+        {
+            "content": "Ấm nước",
+            "type": "",
+            "example": {
+                "en": "The kettle is boiling.",
+                "vi": "Ấm nước đang sôi."
+            }
+        }
+    ]
+}

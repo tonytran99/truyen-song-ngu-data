@@ -1,0 +1,69 @@
+{
+    "word": "bog",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bäɡ/",
+            "/bɑɡ/",
+            "/bôɡ/",
+            "/bɔɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầm lầy",
+            "type": "noun",
+            "example": {
+                "en": "Or the bog turtle, needing wet meadows and insects and sunny places.",
+                "vi": "Hay như loài rùa ở vùng đầm lầy cần những đồng cỏ ướt, côn trùng và những nơi có ánh mặt trời."
+            }
+        },
+        {
+            "content": "bãi lầy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làm sa lầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sa lầy",
+            "type": "",
+            "example": {
+                "en": "I have the senate bogged down in procedures.",
+                "vi": "Thượng viện đang sa lầy trong các thủ tục."
+            }
+        },
+        {
+            "content": "vũng lây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bãi lầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vũng lầy",
+            "type": "noun",
+            "example": {
+                "en": "The road has turned into a bog.",
+                "vi": "Con đường biến thành vũng lầy."
+            }
+        }
+    ]
+}

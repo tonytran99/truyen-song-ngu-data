@@ -1,0 +1,66 @@
+{
+    "word": "concede",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsēd/",
+            "/kənˈsid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsiːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhường",
+            "type": "",
+            "example": {
+                "en": "The powerhouse, the telephone exchange, these I concede.",
+                "vi": "Nhà máy điện, tổng đài điện thoại, những thứ đó tôi nhường."
+            }
+        },
+        {
+            "content": "thừa nhận",
+            "type": "",
+            "example": {
+                "en": "Now I'll concede that it's subtle, it's clever.",
+                "vi": "Tôi thừa nhận nó rất tinh vi, rất tài tình."
+            }
+        },
+        {
+            "content": "nhận",
+            "type": "verb",
+            "example": {
+                "en": "Now I'll concede that it's subtle, it's clever.",
+                "vi": "Tôi thừa nhận nó rất tinh vi, rất tài tình."
+            }
+        },
+        {
+            "content": "thua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho",
+            "type": "verb adposition",
+            "example": {
+                "en": "Get her on the phone and I'll concede.",
+                "vi": "Gọi cho cô ta và tôi sẽ thừa nhận mình đã thua."
+            }
+        },
+        {
+            "content": "nhường cho",
+            "type": "",
+            "example": {
+                "en": "Finally, Britain conceded to France’s claim that Tahiti should come under French “protection.”",
+                "vi": "Cuối cùng, Anh Quốc đã nhường cho Pháp quyền “bảo hộ” Tahiti."
+            }
+        }
+    ]
+}

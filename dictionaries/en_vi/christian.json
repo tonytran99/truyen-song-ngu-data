@@ -1,0 +1,64 @@
+{
+    "word": "christian",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrisCHən/",
+            "/ˈkrɪstʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪstʃ(ə)n/",
+            "/ˈkrɪstɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người văn minh",
+            "type": "",
+            "example": {
+                "en": "You're raising up your boy to be a good Christian, I see.",
+                "vi": "Tôi thấy ông đang nuôi dạy anh chàng này trở thành một người văn minh đó."
+            }
+        },
+        {
+            "content": "thánh",
+            "type": "noun adjective",
+            "example": {
+                "en": "Christian elders need to act without delay when problems arise in the congregation.",
+                "vi": "Khi có vấn đề nảy sinh trong hội thánh, các trưởng lão cần nhanh chóng giải quyết."
+            }
+        },
+        {
+            "content": "người theo đạo Cơ-đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tin vào Cơ-đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo Cơ-đốc",
+            "type": "",
+            "example": {
+                "en": "Barack Obama is a Christian.",
+                "vi": "Barack Obama là một người theo đạo Cơ-đốc."
+            }
+        },
+        {
+            "content": "kitô hữu",
+            "type": "",
+            "example": {
+                "en": "But I'm a Muslim and you're a Christian.",
+                "vi": "Nhưng tôi là người Hồi giáo còn em là Kitô hữu."
+            }
+        }
+    ]
+}

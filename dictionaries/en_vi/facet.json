@@ -1,0 +1,49 @@
+{
+    "word": "facet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasət/",
+            "/ˈfæsət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasɪt/",
+            "/ˈfasɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "I will collect every facet of the truth.",
+                "vi": "Ta sẽ xem xét tất cả các mặt của sự thật."
+            }
+        },
+        {
+            "content": "diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khía cạnh",
+            "type": "",
+            "example": {
+                "en": "He also did not say that the whole world would be engulfed by one facet of the sign.",
+                "vi": "Ngài cũng không phán rằng một khía cạnh nào của điềm sẽ lan tràn trên toàn thế giới."
+            }
+        },
+        {
+            "content": "mặt khía cạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

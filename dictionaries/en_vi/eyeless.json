@@ -1,0 +1,37 @@
+{
+    "word": "eyeless",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīləs/",
+            "/ˈaɪləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có mắt",
+            "type": "adjective",
+            "example": {
+                "en": "until the end up like an eyeless cavefish like this one here.",
+                "vi": "và cuối cùng trở thành một loài cá không có mắt giống thế này."
+            }
+        },
+        {
+            "content": "mù",
+            "type": "adjective",
+            "example": {
+                "en": "I am eyeless in Gaza, betrayed to the Philistines.",
+                "vi": "Tôi đã mù quáng ở Gaza, bị giao nộp cho người Philistines."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "focal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfōk(ə)l/",
+            "/ˈfoʊk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəʊk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiêu",
+            "type": "noun",
+            "example": {
+                "en": "It's the focal point of my college apps.",
+                "vi": "Nó là tiêu điểm cho đơn xin vào đại học của em."
+            }
+        },
+        {
+            "content": "tiêu điểm",
+            "type": "",
+            "example": {
+                "en": "It's the focal point of my college apps.",
+                "vi": "Nó là tiêu điểm cho đơn xin vào đại học của em."
+            }
+        },
+        {
+            "content": "trung tâm",
+            "type": "noun",
+            "example": {
+                "en": "And it's a center, a focal point",
+                "vi": "Nó là một trung tâm, trọng điểm"
+            }
+        },
+        {
+            "content": "trọng tâm",
+            "type": "noun",
+            "example": {
+                "en": "Right here, it's just a focal — right there.",
+                "vi": "ngay đây, nó là điểm trọng tâm — ngay đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "yay",
+    "type": [
+        "noun",
+        "adverb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yā/",
+            "/jeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "萬歲",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "vạn tuế",
+            "type": "interjection",
+            "example": {}
+        }
+    ]
+}

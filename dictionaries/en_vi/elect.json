@@ -1,0 +1,107 @@
+{
+    "word": "elect",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlekt/",
+            "/əˈlɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tân cử",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bầu",
+            "type": "noun",
+            "example": {
+                "en": "The former minister of energy was elected president on Sunday.",
+                "vi": "Cựu bộ trưởng bộ năng lượng được bầu làm tổng thống hôm chủ nhật."
+            }
+        },
+        {
+            "content": "chọn",
+            "type": "verb",
+            "example": {
+                "en": "For my elective, I have to take piccolo.",
+                "vi": "Em phải chọn thổi sáo vào thời gian tự chọn."
+            }
+        },
+        {
+            "content": "bầu bán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chọn lọc",
+            "type": "adjective",
+            "example": {
+                "en": "Gathered here today are the Lord’s elect daughters.",
+                "vi": "Các con gái chọn lọc của Chúa đã quy tụ nơi đây ngày hôm nay."
+            }
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "An Animagus is a wizard who elects to turn into an animal.",
+                "vi": "Người hoá Thú là những pháp sư tự quyết định biến thành động vật."
+            }
+        },
+        {
+            "content": "suy cử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã được bầu",
+            "type": "",
+            "example": {
+                "en": "Mr. Mayor, you were elected in a campaign to clean up the city.",
+                "vi": "Ngài thị trưởng, ngài đã được bầu vào chiến dịch dọn sạch thành phố."
+            }
+        },
+        {
+            "content": "đã được chọn",
+            "type": "",
+            "example": {
+                "en": "lp Tin Chi has been elected",
+                "vi": "Diệp Thiên Tứ đã được chọn làm"
+            }
+        },
+        {
+            "content": "được chọn lọc",
+            "type": "adjective",
+            "example": {
+                "en": "In it John rejoices because of the faithfulness of the children of “the elect lady.”",
+                "vi": "Trong bức thư nầy Giăng vui mừng vì sự trung tín của con cái của “bà được chọn lọc”."
+            }
+        },
+        {
+            "content": "tuyển",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bầu cử",
+            "type": "",
+            "example": {
+                "en": "They do not campaign against elections, and they cooperate with elected authorities.",
+                "vi": "Họ không biểu tình chống bầu cử và họ hợp tác với những người đắc cử."
+            }
+        }
+    ]
+}

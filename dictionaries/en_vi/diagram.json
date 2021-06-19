@@ -1,0 +1,67 @@
+{
+    "word": "diagram",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīəˌɡram/",
+            "/ˈdaɪəˌɡræm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəɡram/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu đồ",
+            "type": "noun",
+            "example": {
+                "en": "Draw a simple diagram on the board like the one shown here.",
+                "vi": "Vẽ một biểu đồ đơn giản trên bảng giống như biểu đồ cho thấy ở đây."
+            }
+        },
+        {
+            "content": "sơ đồ",
+            "type": "noun",
+            "example": {
+                "en": "Write what you discover in the appropriate columns of your diagram.",
+                "vi": "Viết điều các em khám phá ra trong các cột thích hợp của sơ đồ của các em."
+            }
+        },
+        {
+            "content": "giản đồ",
+            "type": "",
+            "example": {
+                "en": "This diagram shows the body's lymphatic system,",
+                "vi": "Giản đồ này thể hiện hệ mạch bạch huyết"
+            }
+        },
+        {
+            "content": "đồ biểu",
+            "type": "",
+            "example": {
+                "en": "Maps, diagrams, and other study aids",
+                "vi": "Bản đồ, biểu đồ và những công cụ tra cứu khác"
+            }
+        },
+        {
+            "content": "lược đồ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồ",
+            "type": "verb noun",
+            "example": {
+                "en": "Write what you discover in the appropriate columns of your diagram.",
+                "vi": "Viết điều các em khám phá ra trong các cột thích hợp của sơ đồ của các em."
+            }
+        }
+    ]
+}

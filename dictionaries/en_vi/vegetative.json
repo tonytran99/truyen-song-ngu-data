@@ -1,0 +1,48 @@
+{
+    "word": "vegetative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvejəˌtādiv/",
+            "/ˈvɛdʒəˌteɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛdʒɪtətɪv/",
+            "/ˈvɛdʒɪteɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh dưỡng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cây cỏ",
+            "type": "",
+            "example": {
+                "en": "Pray animals are scarce, and there's no concealing vegetation.",
+                "vi": "Con mồi trở nên rất hiếm, cũng chẳng có chút cây cỏ nào."
+            }
+        },
+        {
+            "content": "thực vật",
+            "type": "noun",
+            "example": {
+                "en": "He thinks that he killed his mother and turned his father into a vegetable.",
+                "vi": "Nó nghĩ mình đã giết mẹ khiến bố phải sống thực vật."
+            }
+        },
+        {
+            "content": "vô vị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

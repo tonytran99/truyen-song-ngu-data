@@ -1,0 +1,84 @@
+{
+    "word": "english",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiNG(ɡ)liSH/",
+            "/ˈɪŋ(ɡ)lɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪŋɡlɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Anh",
+            "type": "adjective, proper",
+            "example": {
+                "en": "I often listened to him speak in English.",
+                "vi": "Tôi thường nghe thấy cậu ta nói tiếng Anh."
+            }
+        },
+        {
+            "content": "người Anh",
+            "type": "adjective, proper",
+            "example": {
+                "en": "No, I am English.",
+                "vi": "Không phải, tôi là người Anh."
+            }
+        },
+        {
+            "content": "Tiếng Anh",
+            "type": "",
+            "example": {
+                "en": "She knows ten times as many English words as I do.",
+                "vi": "Cô ấy biết nhiều từ Tiếng anh gấp 10 lần tôi."
+            }
+        },
+        {
+            "content": "Anh",
+            "type": "proper",
+            "example": {
+                "en": "I often listened to him speak in English.",
+                "vi": "Tôi thường nghe thấy cậu ta nói tiếng Anh."
+            }
+        },
+        {
+            "content": "Ăng Lê",
+            "type": "adjective",
+            "example": {
+                "en": "She was five foot two, very feisty and very English.",
+                "vi": "Bà cao gần mét sáu, rất mạnh mẽ và rất \"Ăng lê\"."
+            }
+        },
+        {
+            "content": "Anh hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cỡ 14",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dịch ra tiếng Anh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "anh",
+            "type": "pronoun noun",
+            "example": {
+                "en": "The owner of the flat speaks excellent English.",
+                "vi": "Ông chủ căn hộ nói tiêng anh giỏi."
+            }
+        }
+    ]
+}

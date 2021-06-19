@@ -1,0 +1,49 @@
+{
+    "word": "cryptography",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kripˈtäɡrəfē/",
+            "/krɪpˈtɑɡrəfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krɪpˈtɒɡrəfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mật mã học",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cách viết mật mã",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mật mã",
+            "type": "noun",
+            "example": {
+                "en": "Cryptocurrencies are based on a special field of mathematics called cryptography.",
+                "vi": "Tiền điện tử được dựa vào một lĩnh vực toán học đặc biệt có tên là mật mã học."
+            }
+        },
+        {
+            "content": "mật mã thuật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Mật mã học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

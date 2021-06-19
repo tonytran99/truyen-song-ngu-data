@@ -1,0 +1,70 @@
+{
+    "word": "wad",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wäd/",
+            "/wɑd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nùi",
+            "type": "",
+            "example": {
+                "en": "It feels just like a big wad of chewing gum.",
+                "vi": "Tôi cảm thấy như một nùi kẹo cao su bự."
+            }
+        },
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cuộn giấy bạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lót bông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lót len",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nút lòng súng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đút nút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nút gạc.",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tăm-bông",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

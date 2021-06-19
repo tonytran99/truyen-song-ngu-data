@@ -1,0 +1,41 @@
+{
+    "word": "twain",
+    "type": [
+        "verb",
+        "noun",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twān/",
+            "/tweɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tweɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai",
+            "type": "Cardinal number",
+            "example": {
+                "en": "On that day the veil of the temple was rent in twain.",
+                "vi": "Vào ngày đó, bức màn che trong đền thờ bị xé làm hai."
+            }
+        },
+        {
+            "content": "đôi",
+            "type": "noun adverb",
+            "example": {}
+        },
+        {
+            "content": "cặp",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

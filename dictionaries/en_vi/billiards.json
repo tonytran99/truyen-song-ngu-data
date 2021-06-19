@@ -1,0 +1,34 @@
+{
+    "word": "billiards",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbilyərdz/",
+            "/ˈbɪljərdz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪljədz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trò chơi bi-a",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bi-a",
+            "type": "plural",
+            "example": {
+                "en": "presumably a billiard ball with a slight bulge around the middle.",
+                "vi": "có lẽ một quả bóng bi-a với một chỗ phình nhỏ khoảng giữa."
+            }
+        }
+    ]
+}

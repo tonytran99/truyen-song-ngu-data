@@ -1,0 +1,69 @@
+{
+    "word": "garment",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärmənt/",
+            "/ˈɡɑrmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái bọc ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc quần áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần áo",
+            "type": "",
+            "example": {
+                "en": "For instance, their skin could be used as garments.",
+                "vi": "Chẳng hạn như da thú có thể được dùng để làm quần áo."
+            }
+        },
+        {
+            "content": "vỏ ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo quần",
+            "type": "noun",
+            "example": {
+                "en": "We should also look closely at the garment.",
+                "vi": "Chúng ta cũng nên thận trọng xem xét áo quần."
+            }
+        },
+        {
+            "content": "trang phục",
+            "type": "",
+            "example": {
+                "en": "When the garment must be removed, such as for swimming, it should be restored as soon as possible.",
+                "vi": "Khi cần phải cởi ra bộ trang phục, như để bơi lội, thì cần phải mặc trang phục vào ngay càng sớm càng tốt."
+            }
+        },
+        {
+            "content": "y phục",
+            "type": "",
+            "example": {
+                "en": "Mourners dressed in special black garments wail, frantically throwing themselves to the ground in sorrow.",
+                "vi": "Những người mặc y phục đen đang vật vã khóc lóc thảm thiết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "alchemist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalkəməst/",
+            "/ˈælkəməst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalkəmɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà giả kim",
+            "type": "noun",
+            "example": {
+                "en": "That ancient dream that had always eluded the alchemists",
+                "vi": "Giấc mơ xa xưa luôn tránh né các nhà giả kim"
+            }
+        },
+        {
+            "content": "nhà luyện đan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

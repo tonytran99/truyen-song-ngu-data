@@ -1,0 +1,35 @@
+{
+    "word": "git",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡit/",
+            "/ɡɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hậu môm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Git",
+            "type": "",
+            "example": {
+                "en": "Every Git system generates this number the same way,",
+                "vi": "Mọi hệ thống Git đều tạo con số này theo cách như nhau,"
+            }
+        }
+    ]
+}

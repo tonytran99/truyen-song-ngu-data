@@ -1,0 +1,50 @@
+{
+    "word": "correctness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrektnəs/",
+            "/kəˈrɛktnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛktnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đúng đắn",
+            "type": "noun",
+            "example": {
+                "en": "The second, I believe, is political correctness.",
+                "vi": "Thứ hai, tôi tin là, là sự đúng đắn về chính trị."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "Apparently, that's not correct.",
+                "vi": "Rõ ràng là điều đó không đúng."
+            }
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "Where we turn to find the correct answers requires great care.",
+                "vi": "Nơi chúng ta tìm kiếm câu trả lời chính xác đòi hỏi sự cẩn thận lớn lao."
+            }
+        },
+        {
+            "content": "sự chính xác",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

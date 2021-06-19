@@ -1,0 +1,121 @@
+{
+    "word": "late",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lāt/",
+            "/leɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/leɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "muộn",
+            "type": "adjective",
+            "example": {
+                "en": "He is proud of never having been late for school.",
+                "vi": "Anh ta hãnh diện chưa bao giờ đến trường muộn."
+            }
+        },
+        {
+            "content": "trễ",
+            "type": "adjective",
+            "example": {
+                "en": "He hadn't realized his mistake until it was too late.",
+                "vi": "Anh ấy đã không nhận ra sai lầm cho đến khi quá trễ."
+            }
+        },
+        {
+            "content": "chậm",
+            "type": "adverb",
+            "example": {
+                "en": "Better late than never.",
+                "vi": "Chậm còn hơn không."
+            }
+        },
+        {
+            "content": "trể",
+            "type": "adjective",
+            "example": {
+                "en": "Hey, I thought you didn't want to be late.",
+                "vi": "Anh tưởng em không muốn bị trể giờ làm."
+            }
+        },
+        {
+            "content": "khuya",
+            "type": "noun",
+            "example": {
+                "en": "Staying up late is not good for the health.",
+                "vi": "Thức khuya không tốt cho sức khỏe."
+            }
+        },
+        {
+            "content": "chậm chân",
+            "type": "adjective",
+            "example": {
+                "en": "I think maybe we too late, Gor.",
+                "vi": "Hình như bọn mình chậm chân rồi, Phệ."
+            }
+        },
+        {
+            "content": "chậm trễ",
+            "type": "adjective",
+            "example": {
+                "en": "As you know, communications have been delayed and frequently garbled lately.",
+                "vi": "Như ngài cũng biết, gần đây truyền thông thường hay chậm trễ và thường xuyên bị sai lệch."
+            }
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {
+                "en": "And if we don't get this man back soon, it'll be too late.",
+                "vi": "Nếu không điều trị sớm, người này sẽ chết."
+            }
+        },
+        {
+            "content": "chiêm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "gần đây",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to say that the boss has been very well lately.",
+                "vi": "Tôi mừng khi thấy gần đây sếp rất khỏe mạnh."
+            }
+        },
+        {
+            "content": "mới rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá cố",
+            "type": "",
+            "example": {
+                "en": "How long has your late husband been deceased?",
+                "vi": "Vậy, người chồng quá cố của cô qua đời đã bao lâu rồi?"
+            }
+        },
+        {
+            "content": "nguyên",
+            "type": "adjective noun",
+            "example": {
+                "en": "In the late afternoon, the sunbaked grasslands begin to cool.",
+                "vi": "Vùng thảo nguyên khô cằn bắt đầu mát dịu vào buổi chiều tà."
+            }
+        }
+    ]
+}

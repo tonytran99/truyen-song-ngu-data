@@ -1,0 +1,43 @@
+{
+    "word": "jew",
+    "type": [
+        "adjective",
+        "verb",
+        "Phrase"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jo͞o/",
+            "/dʒu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Do thái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người Do Thái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người Do thái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người Do-thái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "word": "combat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämˌbat/",
+            "/ˈkɑmˌbæt/",
+            "/kəmˈbat/",
+            "/kəmˈbæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmbat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến đấu",
+            "type": "verb",
+            "example": {
+                "en": "Killing in battle, in combat, is one thing.",
+                "vi": "Giết người trong trận chiến, trong chiến đấu, là một chuyện."
+            }
+        },
+        {
+            "content": "trận đánh",
+            "type": "noun",
+            "example": {
+                "en": "We were involved almost constantly in combat operations.",
+                "vi": "Chúng tôi hầu như không ngừng tham gia vào các trận đánh."
+            }
+        },
+        {
+            "content": "trận",
+            "type": "noun",
+            "example": {
+                "en": "So what you're suggesting is we toss her into combat?",
+                "vi": "Vậy những gì anh đang nói là ném cô ấy vào giữa trận chiến à?"
+            }
+        },
+        {
+            "content": "trận chiến",
+            "type": "noun",
+            "example": {
+                "en": "So what you're suggesting is we toss her into combat?",
+                "vi": "Vậy những gì anh đang nói là ném cô ấy vào giữa trận chiến à?"
+            }
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "We were involved almost constantly in combat operations.",
+                "vi": "Chúng tôi hầu như không ngừng tham gia vào các trận đánh."
+            }
+        },
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {
+                "en": "And to combat his melancholy, he would lose himself in stories of wonder.",
+                "vi": "Và để chống lại vẻ ảm đạm đó, cậu đã chìm sâu vào những câu chuyện kỳ ảo."
+            }
+        },
+        {
+            "content": "trận chiến đấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận đấu",
+            "type": "noun",
+            "example": {
+                "en": "But you must defeat him in single combat.",
+                "vi": "Nhưng người phải hạ hắn trong một trận đấu tay đôi."
+            }
+        },
+        {
+            "content": "tác chiến",
+            "type": "",
+            "example": {
+                "en": "High Command has ordered us to cleanse the combat zone.",
+                "vi": "Bộ chỉ huy tối cao ban hành lệnh thanh trừng và làm trong sạch lãnh thổ tác chiến."
+            }
+        },
+        {
+            "content": "đánh nhau",
+            "type": "",
+            "example": {
+                "en": "I didn't hear no sounds of combat, so I thought you might want a drink.",
+                "vi": "Tôi không nghe tiếng đánh nhau nên tôi nghĩ có thể anh muốn uống một ly."
+            }
+        },
+        {
+            "content": "Đánh nhau",
+            "type": "",
+            "example": {
+                "en": "I didn't hear no sounds of combat, so I thought you might want a drink.",
+                "vi": "Tôi không nghe tiếng đánh nhau nên tôi nghĩ có thể anh muốn uống một ly."
+            }
+        }
+    ]
+}

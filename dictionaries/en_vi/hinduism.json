@@ -1,0 +1,40 @@
+{
+    "word": "hinduism",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhindo͞oˌizəm/",
+            "/ˈhɪnduˌɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪndʊɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Ân-ddộ giáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo Ân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấn độ giáo",
+            "type": "",
+            "example": {
+                "en": "Buddhism differs from Hinduism in that it denies the existence of an immortal soul.",
+                "vi": "Khác với Ấn Độ Giáo, Phật Giáo không tin có linh hồn bất tử."
+            }
+        }
+    ]
+}

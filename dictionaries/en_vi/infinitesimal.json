@@ -1,0 +1,55 @@
+{
+    "word": "infinitesimal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinfinəˈtes(ə)m(ə)l/",
+            "/ˌɪnfɪnəˈtɛs(ə)m(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnfɪnɪˈtɛsɪm(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vi phân",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cực nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhỏ vô cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rất nhỏ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "số lượng rất nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô cùng nhỏ",
+            "type": "adjective",
+            "example": {
+                "en": "and moving more and more to these infinitesimal dimensions.",
+                "vi": "và ngày càng hướng đến những kích thước vô cùng nhỏ."
+            }
+        }
+    ]
+}

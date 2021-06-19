@@ -1,0 +1,96 @@
+{
+    "word": "closet",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkläzət/",
+            "/ˈklɑzət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɒzɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tủ quần áo",
+            "type": "noun",
+            "example": {
+                "en": "Criminal record, divorce, an actual skeleton in your closet?",
+                "vi": "Hồ sơ tội phạm, ly hôn, một bộ xương trong tủ quần áo của cậu?"
+            }
+        },
+        {
+            "content": "buồng nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồng riêng",
+            "type": "",
+            "example": {
+                "en": "They' re in the closet with your clothes",
+                "vi": "Chúng đang trong buồng riêng với quần áo của ông"
+            }
+        },
+        {
+            "content": "giữ trong buồng riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà vệ sinh",
+            "type": "noun",
+            "example": {
+                "en": "I'm not doing anything. You're going to sit in the closet.",
+                "vi": "Tôi sẽ chẳng làm gì cả, nhưng cậu sẽ vào ngồi trong nhà vệ sinh."
+            }
+        },
+        {
+            "content": "phòng họp kín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng hội ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng kho",
+            "type": "",
+            "example": {
+                "en": "From that you inferred someone had been hiding in the closet.",
+                "vi": "Từ đó ông suy ra là có ai đó đang trốn trong cái phòng kho."
+            }
+        },
+        {
+            "content": "phòng để đồ",
+            "type": "",
+            "example": {
+                "en": "Why would his mother's closet be in here?",
+                "vi": "Tại sao phòng để đồ của mẹ hắn ta lại có thể ở trong này?"
+            }
+        },
+        {
+            "content": "tủ đóng trong tường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tủ",
+            "type": "noun",
+            "example": {
+                "en": "Criminal record, divorce, an actual skeleton in your closet?",
+                "vi": "Hồ sơ tội phạm, ly hôn, một bộ xương trong tủ quần áo của cậu?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "cleaning",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklēniNG/",
+            "/ˈklinɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkliːnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự quét tước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sạch",
+            "type": "",
+            "example": {
+                "en": "Mary asked Tom to help her clean her office.",
+                "vi": "Mary nhờ Tom giúp cô làm sạch văn phòng của cô ấy."
+            }
+        },
+        {
+            "content": "sự dọn dẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cleaning",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

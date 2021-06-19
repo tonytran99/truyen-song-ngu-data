@@ -1,0 +1,58 @@
+{
+    "word": "cucumber",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͞oˌkəmbər/",
+            "/ˈkjuˌkəmbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjuːkʌmbə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dưa chuột",
+            "type": "noun",
+            "example": {
+                "en": "When I'm lucky, it's a cucumber or eggplant.",
+                "vi": "Khi tôi may mắn, it'sa dưa chuột hoặc cà tím."
+            }
+        },
+        {
+            "content": "cây dưa chuột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dưa leo",
+            "type": "noun",
+            "example": {
+                "en": "Please, I'm not a child, or a cucumber.",
+                "vi": "Làm ơn đi, anh không phải con nít, hay là trái dưa leo."
+            }
+        },
+        {
+            "content": "quả dưa leo",
+            "type": "noun",
+            "example": {
+                "en": "The first steps in the process of changing a cucumber into a pickle are preparing and cleaning.",
+                "vi": "Các giai đoạn đầu tiên trong tiến trình biến đổi một quả dưa leo thành dưa chua là chuẩn bị và rửa sạch."
+            }
+        },
+        {
+            "content": "quả dưa chuột",
+            "type": "",
+            "example": {
+                "en": "When I'm lucky, it's a cucumber or eggplant.",
+                "vi": "Nếu may mắn, thì quả dưa chuột hoặc quả cà."
+            }
+        }
+    ]
+}

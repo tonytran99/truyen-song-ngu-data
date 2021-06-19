@@ -1,0 +1,87 @@
+{
+    "word": "crackle",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrak(ə)l/",
+            "/ˈkræk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrak(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu răng rắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổ lách tách",
+            "type": "",
+            "example": {
+                "en": "The one source of heat in your house is a fire crackling in the fireplace.",
+                "vi": "Nguồn sưởi ấm duy nhất trong nhà bạn là ngọn lửa đang nổ lách tách trong lò sưởi."
+            }
+        },
+        {
+            "content": "da rạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu lốp bốp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu tanh tách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lách tách",
+            "type": "verb",
+            "example": {
+                "en": "Like the crackling of a blazing fire that consumes stubble.",
+                "vi": "Như tiếng lách tách khi lửa đốt rơm rạ."
+            }
+        },
+        {
+            "content": "tiếng lốp bốp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng răng rắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng tanh tách",
+            "type": "",
+            "example": {
+                "en": "Music, laughter, the crackle of a bonfire and a roasting pig.",
+                "vi": "Âm nhạc, tiếng cười, tiếng tanh tách của ngọn lửa và một con lợn quay."
+            }
+        },
+        {
+            "content": "đồ sứ da rạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

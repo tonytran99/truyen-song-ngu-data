@@ -1,0 +1,58 @@
+{
+    "word": "dribble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdribəl/",
+            "/ˈdrɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chảy nhỏ giọt",
+            "type": "",
+            "example": {
+                "en": "Some of it will dribble into the right place,",
+                "vi": "Một phần sẽ chảy nhỏ giọt vào đúng vị trí,"
+            }
+        },
+        {
+            "content": "chảy nước miếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dòng chảy nhỏ giọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dắt bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhỏ dãi",
+            "type": "",
+            "example": {
+                "en": "I don't want that dog dribbling on my seats.",
+                "vi": "Đừng để con chó nhỏ dãi ra ghế tao đấy"
+            }
+        },
+        {
+            "content": "để chảy nhỏ giọt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

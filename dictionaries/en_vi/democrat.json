@@ -1,0 +1,34 @@
+{
+    "word": "democrat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeməˌkrat/",
+            "/ˈdɛməˌkræt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛməkrat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà dân chủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người dân chủ",
+            "type": "",
+            "example": {
+                "en": "But then the company passes through this dark stage to this Democrat.",
+                "vi": "Nhưng sau đó công ty trải qua thời kì đen tối khi vào tay người Dân chủ."
+            }
+        }
+    ]
+}

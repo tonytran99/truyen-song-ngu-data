@@ -1,0 +1,56 @@
+{
+    "word": "beforehand",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈfôrˌhand/",
+            "/bəˈfɔrˌhænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈfɔːhand/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trước",
+            "type": "adposition",
+            "example": {
+                "en": "Have I not told each of you beforehand and declared it?",
+                "vi": "Chẳng phải ta đã báo trước với mỗi người các con và phán rồi sao?"
+            }
+        },
+        {
+            "content": "sẵn sàng trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuẩn bị trước",
+            "type": "adverb",
+            "example": {
+                "en": "When I have prepared beforehand, however, my mind and heart are more receptive.",
+                "vi": "Tuy nhiên, khi tôi có chuẩn bị trước, thì lòng và trí tôi dễ tiếp nhận hơn."
+            }
+        },
+        {
+            "content": "saün saøng, chuaån bò tröôùc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sớm hơn",
+            "type": "",
+            "example": {
+                "en": "beforehand and probably were better",
+                "vi": "sớm hơn và tốt hơn"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "emote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmōt/",
+            "/əˈmoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈməʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu lộ cảm xúc",
+            "type": "",
+            "example": {
+                "en": "He was not ashamed to show his emotions openly",
+                "vi": "Ngài không cảm thấy xấu hổ khi biểu lộ cảm xúc"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "hale",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hāl/",
+            "/heɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/heɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kéo",
+            "type": "verb noun",
+            "example": {
+                "en": "The apostle Paul too was “haled before kings and governors.”",
+                "vi": "Sứ đồ Phao-lô cũng bị “kéo đến trước mặt các vua và các quan tổng-đốc”."
+            }
+        },
+        {
+            "content": "khoẻ mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "Have Eddie with you, hale and hearty.",
+                "vi": "Và cho Eddy theo, khoẻ mạnh."
+            }
+        },
+        {
+            "content": "tráng kiện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

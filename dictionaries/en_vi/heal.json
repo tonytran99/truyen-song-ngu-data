@@ -1,0 +1,85 @@
+{
+    "word": "heal",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hēl/",
+            "/hil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàn gắn",
+            "type": "verb",
+            "example": {
+                "en": "Words wound more easily than they heal.",
+                "vi": "Lời nói gây tổn thương dễ dàng hơn là hàn gắn."
+            }
+        },
+        {
+            "content": "lành",
+            "type": "verb",
+            "example": {
+                "en": "You got burned, it's healing, I need an answer.",
+                "vi": "Cậu bị bỏng, nó đang lành. Tôi cần một câu trả lời."
+            }
+        },
+        {
+            "content": "liền",
+            "type": "verb",
+            "example": {
+                "en": "I-I mean, the scars healed really well.",
+                "vi": "Mình muốn nói là, những vết sẹo đó sẽ liền nhanh thôi."
+            }
+        },
+        {
+            "content": "líp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chữa khỏi",
+            "type": "",
+            "example": {
+                "en": "You can't heal a broken heart.",
+                "vi": "Bạn không thể chữa khỏi vết thương lòng."
+            }
+        },
+        {
+            "content": "dàn hoà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoà giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lành lại",
+            "type": "",
+            "example": {
+                "en": "You guys are breaking down walls, you're healing.",
+                "vi": "Hai người đã phá được bức tường, vết thương đang lành lại."
+            }
+        },
+        {
+            "content": "chữa khỏi bệnh",
+            "type": "",
+            "example": {
+                "en": "He stood firm and healed the man —right in the center of the synagogue at that! —Mark 3:1-5.",
+                "vi": "Chúa Giê-su đã kiên định và chữa khỏi bệnh cho người ấy ngay tại trung tâm của nhà hội!—Mác 3:1-5."
+            }
+        }
+    ]
+}

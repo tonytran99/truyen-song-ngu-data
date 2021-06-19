@@ -1,0 +1,86 @@
+{
+    "word": "cleaner",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklēnər/",
+            "/ˈklinər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkliːnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy hút bụi",
+            "type": "",
+            "example": {
+                "en": "For example, I get people to dress up their vacuum cleaners.",
+                "vi": "Chẳng hạn, tôi nhờ mọi người mặc đồ cho máy hút bụi của họ."
+            }
+        },
+        {
+            "content": "máy quét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy tẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người",
+            "type": "pronoun noun",
+            "example": {
+                "en": "For example, I get people to dress up their vacuum cleaners.",
+                "vi": "Chẳng hạn, tôi nhờ mọi người mặc đồ cho máy hút bụi của họ."
+            }
+        },
+        {
+            "content": "người dọn dẹp",
+            "type": "noun",
+            "example": {
+                "en": "I'm the cleaner, that's it.",
+                "vi": "Tôi là người dọn dẹp, chỉ vậy thôi."
+            }
+        },
+        {
+            "content": "người lau chùi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người quét tước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người rửa ráy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thoạ đánh giày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ nạo vét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ tẩy quần áo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

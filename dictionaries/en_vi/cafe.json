@@ -1,0 +1,40 @@
+{
+    "word": "cafe",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaˈfā/",
+            "/kæˈfeɪ/",
+            "/kəˈfā/",
+            "/kəˈfeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkafeɪ/",
+            "/ˈkafi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiệm cà phê",
+            "type": "noun",
+            "example": {
+                "en": "I told him you were in the cafe.",
+                "vi": "Tôi bảo anh ta cô ở tiệm cà phê."
+            }
+        },
+        {
+            "content": "quán cà phê",
+            "type": "noun",
+            "example": {
+                "en": "I'm sitting outside, at a cafe, like we planned.",
+                "vi": "Em đang ngồi ngoài trời, ở quán cà phê như ta đã hẹn."
+            }
+        }
+    ]
+}

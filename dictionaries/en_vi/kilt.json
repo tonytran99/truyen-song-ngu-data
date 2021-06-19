@@ -1,0 +1,40 @@
+{
+    "word": "kilt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kilt/",
+            "/kɪlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "váy",
+            "type": "noun",
+            "example": {
+                "en": "The question of the kilt will remain an enigma.",
+                "vi": "Câu hỏi về cái váy kilt đó sẽ vẫn mãi là một bí ẩn."
+            }
+        },
+        {
+            "content": "vén lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xếp nếp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

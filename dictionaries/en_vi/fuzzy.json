@@ -1,0 +1,90 @@
+{
+    "word": "fuzzy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəzē/",
+            "/ˈfəzi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xù",
+            "type": "",
+            "example": {
+                "en": "what's going on in that fuzzy little head.",
+                "vi": "điều gì đang diễn ra trong cái đầu xù bé nhỏ đó."
+            }
+        },
+        {
+            "content": "mờ nhạt",
+            "type": "",
+            "example": {
+                "en": "Sometimes it's best to be deliberately fuzzy and vague.",
+                "vi": "Đôi khi điều tốt nhất là bạn nên cố tình mờ nhạt hơn người khác."
+            }
+        },
+        {
+            "content": "mờ",
+            "type": "adjective",
+            "example": {
+                "en": "Area's still too fuzzy to make any kind of distinction.",
+                "vi": "Vẫn quá mờ để thấy sự khác biệt."
+            }
+        },
+        {
+            "content": "lu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sờn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lờ mờ",
+            "type": "",
+            "example": {
+                "en": "is that people don't usually have a kind of warm, fuzzy, snuggly image of the dictionary.",
+                "vi": "là người ta thường không có một dạng hình ảnh nào ấm áp, lờ mờ và dễ chịu về từ điển."
+            }
+        },
+        {
+            "content": "mơ hồ",
+            "type": "",
+            "example": {
+                "en": "You know, the last few days, they're real fuzzy.",
+                "vi": "Cô biết đấy, mấy ngày hôm nay rất mơ hồ..."
+            }
+        },
+        {
+            "content": "xoăn",
+            "type": "",
+            "example": {
+                "en": "If he knew about half of what I know, his fuzzy little head would explode",
+                "vi": "Nếu ông ta biết khoảng phân nửa những gì tôi biết thì cái đầu tóc xoăn đó sẽ nổ tung lên"
+            }
+        }
+    ]
+}

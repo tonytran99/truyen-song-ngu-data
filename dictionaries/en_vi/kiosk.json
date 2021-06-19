@@ -1,0 +1,42 @@
+{
+    "word": "kiosk",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌäsk/",
+            "/ˈkiˌɑsk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːɒsk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quán",
+            "type": "noun",
+            "example": {
+                "en": "My wife, Giannoula, and I began to worry because our 18-year-old son, George, failed to return from the kiosk where he worked.",
+                "vi": "George, con trai của chúng tôi, làm việc ở một quán hàng."
+            }
+        },
+        {
+            "content": "gian hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ki-ốt",
+            "type": "noun",
+            "example": {
+                "en": "We could change the invisible clerks within the kiosks,",
+                "vi": "Chúng tôi có thể thay những nhân viên vô hình từ ki-ốt,"
+            }
+        }
+    ]
+}

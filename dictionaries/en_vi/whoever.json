@@ -1,0 +1,66 @@
+{
+    "word": "whoever",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ho͞oˈevər/",
+            "/huˈɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/huːˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "You're going to kill whoever got the kidney?",
+                "vi": "Cậu sẽ giết bất cứ ai có thận?"
+            }
+        },
+        {
+            "content": "bất cứ ai",
+            "type": "",
+            "example": {
+                "en": "You're going to kill whoever got the kidney?",
+                "vi": "Cậu sẽ giết bất cứ ai có thận?"
+            }
+        },
+        {
+            "content": "bất cứ người nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dù ai",
+            "type": "",
+            "example": {
+                "en": "We need leverage with whoever is going to run the country.",
+                "vi": "Ta phải tận dụng cho dù ai sẽ lãnh đạo đất nước đó."
+            }
+        },
+        {
+            "content": "người nào",
+            "type": "",
+            "example": {
+                "en": "Which means whoever did is still out there.",
+                "vi": "Có nghĩa người nào làm chuyện đó vẫn còn ngoài đó."
+            }
+        },
+        {
+            "content": "bất kỳ ai",
+            "type": "",
+            "example": {
+                "en": "A flagon of ale for whoever gets these people out of here.",
+                "vi": "Một vại bia cho bất kỳ ai đuổi mấy người này ra khỏi đây."
+            }
+        }
+    ]
+}

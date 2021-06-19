@@ -1,0 +1,42 @@
+{
+    "word": "herbivore",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)ərbəˌvôr/",
+            "/ˈ(h)ərbəˌvɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəːbɪvɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loài ăn cỏ",
+            "type": "noun",
+            "example": {
+                "en": "Now they have 14 herbivores and six carnivores.",
+                "vi": "Giờ họ có 14 loài ăn cỏ và 6 loài ăn thịt."
+            }
+        },
+        {
+            "content": "Động vật ăn cỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động vật ăn cỏ",
+            "type": "noun",
+            "example": {
+                "en": "Most of the biomass is low on the food chain, the herbivores, the parrotfish, the surgeonfish that eat the algae.",
+                "vi": "Hầu hết sinh khối đều thấp ở chuỗi thức ăn, động vật ăn cỏ cá vẹt, cá đuôi gai ăn tảo."
+            }
+        }
+    ]
+}

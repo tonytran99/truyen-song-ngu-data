@@ -1,0 +1,45 @@
+{
+    "word": "constabulary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈstabyəˌlerē/",
+            "/kənˈstæbjəˌlɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈstabjʊləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công an",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lực lượng cảnh sát",
+            "type": "",
+            "example": {
+                "en": "'Cause we need a little more time than the constabulary will allow.",
+                "vi": "Vì chúng ta cần một ít thời gian hơn hơn so với lực lượng cảnh sát sẽ cho phép."
+            }
+        },
+        {
+            "content": "sở công an",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sở cảnh sát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

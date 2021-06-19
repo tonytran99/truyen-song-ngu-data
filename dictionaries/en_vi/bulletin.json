@@ -1,0 +1,63 @@
+{
+    "word": "bulletin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝olətn/",
+            "/ˈbʊlətn/",
+            "/ˈbo͝olədən/",
+            "/ˈbʊlədən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊlɪtɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thông cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông báo",
+            "type": "",
+            "example": {
+                "en": "So, we have washers and dryers, and... we have a bulletin board.",
+                "vi": "Vậy, ta có máy giặt và máy sấy, và... ta có 1 bảng thông báo."
+            }
+        },
+        {
+            "content": "tập san",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bảng",
+            "type": "noun",
+            "example": {
+                "en": "We hope to bring you more on that later in the bulletin.",
+                "vi": "Chúng tôi sẽ tiếp tục thông tin đến các bạn trong các bảng tin sau."
+            }
+        },
+        {
+            "content": "kỷ yếu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bản tin",
+            "type": "noun",
+            "example": {
+                "en": "We interrupt this programme for a special bulletin.",
+                "vi": "Chương trình bị gián đoạn bởi bản tin đặc biệt."
+            }
+        }
+    ]
+}

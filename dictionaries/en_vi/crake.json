@@ -1,0 +1,37 @@
+{
+    "word": "crake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krāk/",
+            "/kreɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kreɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gà nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu như gà nước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

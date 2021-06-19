@@ -1,0 +1,35 @@
+{
+    "word": "biopsy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīˌäpsē/",
+            "/ˈbaɪˌɑpsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪɒpsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh thiết",
+            "type": "noun",
+            "example": {
+                "en": "You don't biopsy a tongue unless you have to biopsy a tongue.",
+                "vi": "Cô không làm sinh thiết lưỡi trừ khi cô bị bắt buộc phải làm sinh thiết lưỡi."
+            }
+        },
+        {
+            "content": "xeùt nghieäm cô theå, sinh thieát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

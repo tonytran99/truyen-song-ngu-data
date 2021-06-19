@@ -1,0 +1,48 @@
+{
+    "word": "gash",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡaSH/",
+            "/ɡæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡaʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vết cắt",
+            "type": "",
+            "example": {
+                "en": "Whole hillsides bear deep gashes hundreds of meters wide.",
+                "vi": "Khắp sườn đồi loang lổ những vết cắt rộng hàng trăm mét."
+            }
+        },
+        {
+            "content": "vết khắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết rạch",
+            "type": "",
+            "example": {
+                "en": "When do I ever take coin over gash?",
+                "vi": "Khi nào tôi có tiền bằng 1 vết rạch dài?"
+            }
+        },
+        {
+            "content": "vết đứt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

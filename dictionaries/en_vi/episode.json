@@ -1,0 +1,66 @@
+{
+    "word": "episode",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈepəˌsōd/",
+            "/ˈɛpəˌsoʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛpɪsəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hồi",
+            "type": "",
+            "example": {
+                "en": "Perhaps you recovered so quickly that you have practically forgotten the episode.",
+                "vi": "Có lẽ bạn phục hồi nhanh đến mức gần như chẳng nhớ đến việc đó."
+            }
+        },
+        {
+            "content": "đoạn",
+            "type": "verb noun",
+            "example": {
+                "en": "I knew that helped stave off depressive episodes.",
+                "vi": "Làm vậy giúp ngăn chặn các giai đoạn trầm cảm."
+            }
+        },
+        {
+            "content": "phần giữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình tiết",
+            "type": "",
+            "example": {
+                "en": "I'm here, Mr Reyes,'cause we heard about your recent... episode.",
+                "vi": "Tôi tới đây, Anh Reyes, vì chúng tôi nghe nói về... tình tiết gần đây của anh."
+            }
+        },
+        {
+            "content": "tập phim",
+            "type": "",
+            "example": {
+                "en": "Then after every episode, I had to go up to the bathtub",
+                "vi": "Sau mỗi tập phim, tôi đều phải chạy vào bồn tắm"
+            }
+        },
+        {
+            "content": "phần",
+            "type": "noun",
+            "example": {
+                "en": "The episode you watched with Yo-han that day.",
+                "vi": "Nhưng cái phần chị xem cùng Yo-han ngày hôm đó."
+            }
+        }
+    ]
+}

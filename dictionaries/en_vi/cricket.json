@@ -1,0 +1,82 @@
+{
+    "word": "cricket",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrikit/",
+            "/ˈkrɪkɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪkɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con dế",
+            "type": "noun",
+            "example": {
+                "en": "And remember the Gordian worm that I showed you, the cricket thing?",
+                "vi": "Bạn có nhớ giun Gordian sống trong những con dế không?"
+            }
+        },
+        {
+            "content": "dế",
+            "type": "noun",
+            "example": {
+                "en": "Just when I was getting used to the sound of crickets.",
+                "vi": "Chỉ khi tôi quen với tiếng của dế mèn."
+            }
+        },
+        {
+            "content": "dế mèn",
+            "type": "",
+            "example": {
+                "en": "Just when I was getting used to the sound of crickets.",
+                "vi": "Chỉ khi tôi quen với tiếng của dế mèn."
+            }
+        },
+        {
+            "content": "môn crikê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chơi crikê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cricket",
+            "type": "",
+            "example": {
+                "en": "Which cricketer has scored the most first class centuries in history?",
+                "vi": "Tuyển thủ cricket nào đã ghi nhiều điểm nhất trong các trận đấu cấp cao?"
+            }
+        },
+        {
+            "content": "cricket",
+            "type": "",
+            "example": {
+                "en": "Which cricketer has scored the most first class centuries in history?",
+                "vi": "Tuyển thủ cricket nào đã ghi nhiều điểm nhất trong các trận đấu cấp cao?"
+            }
+        },
+        {
+            "content": "bóng gậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "crích-kê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "g",
+    "type": [
+        "Letter",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jē/",
+            "/dʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "g",
+            "type": "",
+            "example": {
+                "en": "will be a steeply rising function of r minus g.",
+                "vi": "sẽ là một hàn dốc tăng của r trừ đi g."
+            }
+        },
+        {
+            "content": "gam",
+            "type": "noun",
+            "example": {
+                "en": "AO: Or another one? How about in G minor?",
+                "vi": "AO: Hoặc một nốt khác chăng? Với gam Sol thứ chẳng hạn?"
+            }
+        }
+    ]
+}

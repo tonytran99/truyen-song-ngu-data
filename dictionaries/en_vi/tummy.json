@@ -1,0 +1,42 @@
+{
+    "word": "tummy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəmē/",
+            "/ˈtəmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʌmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dạ dày",
+            "type": "noun",
+            "example": {
+                "en": "I didn't know there was such a difference between a pot belly and a tummy.",
+                "vi": "Anh không biết là một cái bụng phệ và một cái dạ dày khác nhau đấy."
+            }
+        },
+        {
+            "content": "bụng",
+            "type": "noun",
+            "example": {
+                "en": "Why are you taping horse to my tummy?",
+                "vi": "Sao cậu lại dán heroin vào bụng cháu?"
+            }
+        },
+        {
+            "content": "rây",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

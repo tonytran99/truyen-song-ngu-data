@@ -1,0 +1,39 @@
+{
+    "word": "czech",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHek/",
+            "/tʃɛk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɛk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Séc",
+            "type": "proper",
+            "example": {
+                "en": "From now, you are commander of the allied Czech forces.",
+                "vi": "Từ giờ ông sẽ là chỉ huy của quân đội Séc."
+            }
+        },
+        {
+            "content": "tiệp",
+            "type": "",
+            "example": {
+                "en": "Why do I always have to Speak to you in Czech?",
+                "vi": "Tại sao tôi phải nói với cậu bằng tiếng Tiệp chứ?"
+            }
+        }
+    ]
+}

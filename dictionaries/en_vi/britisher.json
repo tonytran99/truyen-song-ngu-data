@@ -1,0 +1,30 @@
+{
+    "word": "britisher",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbridiSHər/",
+            "/ˈbrɪdɪʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɪtɪʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người Anh",
+            "type": "proper",
+            "example": {
+                "en": "The British finally retreated.",
+                "vi": "Người Anh cuối cùng cũng rút lui."
+            }
+        }
+    ]
+}

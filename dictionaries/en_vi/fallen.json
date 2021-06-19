@@ -1,0 +1,39 @@
+{
+    "word": "fallen",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôlən/",
+            "/ˈfɔlən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːlən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngã",
+            "type": "verb",
+            "example": {
+                "en": "But you can't compare Natasha to a fallen woman.",
+                "vi": "Nhưng anh không thể so sánh Natasha với một người đàn bà sa ngã."
+            }
+        },
+        {
+            "content": "rơi",
+            "type": "verb",
+            "example": {
+                "en": "Must have fallen out when he was rolling up.",
+                "vi": "Hẳn đã rơi ra khi hắn xắn tay áo."
+            }
+        }
+    ]
+}

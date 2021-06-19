@@ -1,0 +1,109 @@
+{
+    "word": "hem",
+    "type": [
+        "interjection",
+        "verb",
+        "noun",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hem/",
+            "/hɛm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛm/",
+            "/həm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viền",
+            "type": "noun, verb",
+            "example": {
+                "en": "Everything is grist for the mill — except hem lengths.",
+                "vi": "Những thứ như lúa mạch cho cối xay ngoại trừ chiều dài của đường viền."
+            }
+        },
+        {
+            "content": "cạp",
+            "type": "noun, verb",
+            "example": {}
+        },
+        {
+            "content": "e hèm",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "hèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nẹp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gấu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bao bọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao quanh",
+            "type": "verb",
+            "example": {
+                "en": "that had been hemmed in by dense mats of water hyacinth.",
+                "vi": "bị bao quanh bởi những đám dạ lan hương nước dày đặc."
+            }
+        },
+        {
+            "content": "bao vây",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hắng giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng e hèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng hắng giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng đằng hắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường viền",
+            "type": "noun",
+            "example": {
+                "en": "Everything is grist for the mill — except hem lengths.",
+                "vi": "Những thứ như lúa mạch cho cối xay ngoại trừ chiều dài của đường viền."
+            }
+        },
+        {
+            "content": "đằng hắng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

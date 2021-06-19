@@ -1,0 +1,37 @@
+{
+    "word": "indoors",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdôrz/",
+            "/ɪnˈdɔrz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdɔːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên trong",
+            "type": "adverb",
+            "example": {
+                "en": "Did they have indoor or outdoor plumbing?",
+                "vi": "Chúng có hệ thống nước bên trong hay bên ngoài?"
+            }
+        },
+        {
+            "content": "ở trong nhà",
+            "type": "",
+            "example": {
+                "en": "Basically, every elected official in Gotham should stay indoors.",
+                "vi": "Về cơ bản, mọi cán bộ cao cấp ở Gotham nên ở trong nhà."
+            }
+        }
+    ]
+}

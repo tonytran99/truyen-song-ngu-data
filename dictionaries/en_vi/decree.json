@@ -1,0 +1,88 @@
+{
+    "word": "decree",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈkrē/",
+            "/dəˈkri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈkriː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sắc lệnh",
+            "type": "noun",
+            "example": {
+                "en": "He had decreed the finishing of this temple.",
+                "vi": "Ngài đã ban sắc lệnh là phải hoàn tất đền thờ này."
+            }
+        },
+        {
+            "content": "lệnh",
+            "type": "noun",
+            "example": {
+                "en": "He had decreed the finishing of this temple.",
+                "vi": "Ngài đã ban sắc lệnh là phải hoàn tất đền thờ này."
+            }
+        },
+        {
+            "content": "nghị định",
+            "type": "noun",
+            "example": {
+                "en": "You understand the decree that's been handed down to you?",
+                "vi": "Anh hiểu rõ những gì nghị định đó muốn nói với anh chứ?"
+            }
+        },
+        {
+            "content": "ra chiếu chỉ",
+            "type": "",
+            "example": {
+                "en": "But why did the Emperor send out the imperial decree to him?",
+                "vi": "Nhưng tại sao Hoàng đế... lại ra chiếu chỉ triệu ổng về?"
+            }
+        },
+        {
+            "content": "ra sắc lệnh",
+            "type": "",
+            "example": {
+                "en": "As a result, a magistrate decreed that all gondolas should be painted black.",
+                "vi": "Cuối cùng, một vị quan tòa đã ra sắc lệnh là tất cả thuyền gondola phải sơn màu đen."
+            }
+        },
+        {
+            "content": "sắc luật",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chiếu",
+            "type": "",
+            "example": {
+                "en": "By the mandate of heaven, this Emperor decree hereby.",
+                "vi": "Phụng thiên thừa vận, hoàng đế chiếu viết."
+            }
+        },
+        {
+            "content": "bản án",
+            "type": "",
+            "example": {
+                "en": "I have signed my own decree of death.",
+                "vi": "Thần đã tự tat kí bản án tử cho mình."
+            }
+        },
+        {
+            "content": "saéc leänh, chieáu chæ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

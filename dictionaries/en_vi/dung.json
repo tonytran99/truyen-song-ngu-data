@@ -1,0 +1,76 @@
+{
+    "word": "dung",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəNG/",
+            "/dəŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân",
+            "type": "noun",
+            "example": {
+                "en": "The meat of the birds was much appreciated, and their dung was used for manure.",
+                "vi": "Thịt chim bồ câu rất được ưa thích còn phân thì làm phân bón."
+            }
+        },
+        {
+            "content": "cứt",
+            "type": "noun",
+            "example": {
+                "en": "Every day, he's cleaning horses and cleaning up their dung.",
+                "vi": "Mỗi ngày hắn lau chùi tắm rửa cho ngựa, và dọn dẹp cứt đái cho chúng."
+            }
+        },
+        {
+            "content": "phân chuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân động vật",
+            "type": "noun",
+            "example": {
+                "en": "We produce biogas in India by using animal manure, which usually, in India, is called cow dung.",
+                "vi": "Chúng tôi sản xuất biogas ở Ấn Độ bằng cách sử dụng phân động vật, ở Ấn Độ thường là phân bò."
+            }
+        },
+        {
+            "content": "bón phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân bón",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân thú vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều nhơ bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều ô uế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

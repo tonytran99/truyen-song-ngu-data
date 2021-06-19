@@ -1,0 +1,71 @@
+{
+    "word": "warn",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wôrn/",
+            "/wɔrn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɔːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh cáo",
+            "type": "verb",
+            "example": {
+                "en": "You let me out now and I'll only give you a warning.",
+                "vi": "Nếu anh thả tôi ra ngay thì tôi chỉ cảnh cáo anh thôi."
+            }
+        },
+        {
+            "content": "răn",
+            "type": "",
+            "example": {
+                "en": "They are toying with it, teetering on the verge, disregarding the Bible’s warning.",
+                "vi": "Họ đang đùa với nó, mấp mé bên bờ, coi thường lời răn của Kinh Thánh."
+            }
+        },
+        {
+            "content": "báo cho biết",
+            "type": "",
+            "example": {
+                "en": "Rather, they were warned of the consequences of wrongdoing.",
+                "vi": "Trái lại, họ được báo cho biết trước về những hậu quả của việc phạm tội."
+            }
+        },
+        {
+            "content": "báo trước lưu ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảnh báo",
+            "type": "",
+            "example": {
+                "en": "He warned us not to enter the room.",
+                "vi": "Anh ta đã cảnh báo chúng tôi đừng vào phòng."
+            }
+        },
+        {
+            "content": "đánh động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuyên",
+            "type": "verb",
+            "example": {
+                "en": "What fine counsel do the Scriptures contain to warn us against worldly fantasies?",
+                "vi": "Kinh-thánh chứa đựng lời khuyên tốt nào để cảnh cáo chúng ta chống lại mộng mị thế gian?"
+            }
+        }
+    ]
+}

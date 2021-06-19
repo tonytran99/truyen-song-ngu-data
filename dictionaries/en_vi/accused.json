@@ -1,0 +1,60 @@
+{
+    "word": "accused",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkyo͞ozd/",
+            "/əˈkjuzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkjuːzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị cáo",
+            "type": "noun",
+            "example": {
+                "en": "That same night He was accused of the crime of blasphemy and condemned to death.",
+                "vi": "Cũng trong đêm đó, Ngài đã bị cáo buộc tội phạm thượng và bị kết án tử hình."
+            }
+        },
+        {
+            "content": "bên bị",
+            "type": "noun",
+            "example": {
+                "en": "Mr President, I have come to speak on behalf of the accused.",
+                "vi": "Thưa ngài Tổng thống, tôi đến đây để đại diện cho bên bị cáo."
+            }
+        },
+        {
+            "content": "bên bị cáo",
+            "type": "noun",
+            "example": {
+                "en": "Mr President, I have come to speak on behalf of the accused.",
+                "vi": "Thưa ngài Tổng thống, tôi đến đây để đại diện cho bên bị cáo."
+            }
+        },
+        {
+            "content": "bị buộc tội",
+            "type": "adjective",
+            "example": {
+                "en": "Nobody here would ever be accused or be familiar with Narcissus.",
+                "vi": "Không ai ở đây từng bị buộc tội hoặc được quen thân với Narcissus."
+            }
+        },
+        {
+            "content": "bị can",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

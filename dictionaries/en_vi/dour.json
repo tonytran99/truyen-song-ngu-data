@@ -1,0 +1,42 @@
+{
+    "word": "dour",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/do͝or/",
+            "/dʊr/",
+            "/ˈdou(ə)r/",
+            "/ˈdaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʊə/",
+            "/ˈdaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó lay chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khắc khổ",
+            "type": "",
+            "example": {
+                "en": "I put up a somewhat dour Darwin,",
+                "vi": "Tôi dẫn chứng hình ảnh một Darwin khắc khổ"
+            }
+        },
+        {
+            "content": "nghiêm khắc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

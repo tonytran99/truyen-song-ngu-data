@@ -1,0 +1,43 @@
+{
+    "word": "ensnare",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈsner/",
+            "/ənˈsnɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsnɛː/",
+            "/ɛnˈsnɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bẫy",
+            "type": "verb",
+            "example": {
+                "en": "Some have been ensnared in the net of excessive debt.",
+                "vi": "Một số người bị gài vào bẫy nợ nần chồng chất."
+            }
+        },
+        {
+            "content": "gài bẫy",
+            "type": "",
+            "example": {
+                "en": "And their possessions are ensnared.",
+                "vi": "Tài sản của hắn và con cái bị gài bẫy."
+            }
+        },
+        {
+            "content": "đánh bẫy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

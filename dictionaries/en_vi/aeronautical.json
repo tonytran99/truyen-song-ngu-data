@@ -1,0 +1,34 @@
+{
+    "word": "aeronautical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌerəˈnôdikl/",
+            "/ˌɛrəˈnɔdɪkl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛːrəˈnɔːtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng không",
+            "type": "noun",
+            "example": {
+                "en": "a leading center of aeronautics in the world.",
+                "vi": "một trung tâm hàng đầu của ngành hànG không thế giới."
+            }
+        },
+        {
+            "content": "khoa hàng không",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

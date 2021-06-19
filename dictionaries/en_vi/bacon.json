@@ -1,0 +1,47 @@
+{
+    "word": "bacon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbākən/",
+            "/ˈbeɪkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbeɪk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thịt mỡ muối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt ba chỉ",
+            "type": "noun",
+            "example": {
+                "en": "I got you bacon...",
+                "vi": "Tôi đem thịt ba chỉ lát mỏng-"
+            }
+        },
+        {
+            "content": "Thịt muối",
+            "type": "",
+            "example": {
+                "en": "With a rasher of bacon and some blood sausage.",
+                "vi": "Thêm ít thịt muối và xúc xích tươi."
+            }
+        },
+        {
+            "content": "mỡ thỏi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

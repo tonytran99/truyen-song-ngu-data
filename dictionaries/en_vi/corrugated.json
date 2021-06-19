@@ -1,0 +1,42 @@
+{
+    "word": "corrugated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəˌɡādəd/",
+            "/ˈkɔrəˌɡeɪdəd/",
+            "/ˈkärəˌɡādəd/",
+            "/ˈkɑrəˌɡeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒrəɡeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị gợn sóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có nếp",
+            "type": "",
+            "example": {
+                "en": "So this is a corrugated box and its shadow.",
+                "vi": "Đây là một hộp có nếp sóng và bóng của nó."
+            }
+        },
+        {
+            "content": "dạng uốn nếp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "gown",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡoun/",
+            "/ɡaʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "áo choàng",
+            "type": "noun",
+            "example": {
+                "en": "You slip out of that gown and we'll see if I'm up to it.",
+                "vi": "Cởi bỏ áo choàng ra và hãy xem liệu tôi có đè ngửa bà ra không."
+            }
+        },
+        {
+            "content": "áo",
+            "type": "noun",
+            "example": {
+                "en": "She wants you to have her wedding gown.",
+                "vi": "Bả muốn em mặc áo cưới của bả."
+            }
+        },
+        {
+            "content": "mặc",
+            "type": "verb",
+            "example": {
+                "en": "You know you're in a hospital gown?",
+                "vi": "Cô đang mặc đồ bệnh viện mà?"
+            }
+        },
+        {
+            "content": "áo dài",
+            "type": "noun",
+            "example": {
+                "en": "She stayed dressed in her gown for the rest of the day.",
+                "vi": "Em mặc cái áo dài như vậy cho đến hết ngày."
+            }
+        },
+        {
+            "content": "ăn bận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "váy",
+            "type": "noun",
+            "example": {
+                "en": "You can't climb in a gown, so it'll have to come off.",
+                "vi": "Cô không thể leo trong cái váy dài, nên hãy cởi nó ra."
+            }
+        }
+    ]
+}

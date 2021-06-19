@@ -1,0 +1,47 @@
+{
+    "word": "injector",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈjektər/",
+            "/ɪnˈdʒɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʒɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái để tiêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy phun",
+            "type": "",
+            "example": {
+                "en": "so you have integrated valves, pumps, mixers and injectors —",
+                "vi": "Chúng ta có van, bơm, máy trộn, máy phun tích hợp"
+            }
+        },
+        {
+            "content": "người tiêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòi phun",
+            "type": "",
+            "example": {
+                "en": "The injector performs perfectly in every simulation.",
+                "vi": "Các vòi phun hoạt động rất hoàn hảo trong chế độ mô phỏng."
+            }
+        }
+    ]
+}

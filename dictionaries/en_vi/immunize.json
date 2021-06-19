@@ -1,0 +1,52 @@
+{
+    "word": "immunize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈimyəˌnīz/",
+            "/ˈɪmjəˌnaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmjʊnʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây miễn dịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mất hiệu lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mất tác hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miễn dịch",
+            "type": "verb",
+            "example": {
+                "en": "The body needs vitamin A for the visual and immune systems to work properly .",
+                "vi": "Cơ thể cần vitamin A giúp hệ miễn dịch và thị giác hoạt động tốt ."
+            }
+        },
+        {
+            "content": "tiêm phòng",
+            "type": "",
+            "example": {
+                "en": "or that they had been immunized against measles.",
+                "vi": "hoặc họ được tiêm phòng bệnh sởi"
+            }
+        }
+    ]
+}

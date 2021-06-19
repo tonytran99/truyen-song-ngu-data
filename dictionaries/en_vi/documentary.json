@@ -1,0 +1,46 @@
+{
+    "word": "documentary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdäkyəˈment(ə)rē/",
+            "/ˌdɑkjəˈmɛnt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɒkjʊˈmɛnt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phim tài liệu",
+            "type": "noun",
+            "example": {
+                "en": "I need to watch this documentary on Asian architecture.",
+                "vi": "Anh phải xem bộ phim tài liệu về kiến trúc châu Á này."
+            }
+        },
+        {
+            "content": "tài liệu",
+            "type": "noun",
+            "example": {
+                "en": "I need to watch this documentary on Asian architecture.",
+                "vi": "Anh phải xem bộ phim tài liệu về kiến trúc châu Á này."
+            }
+        },
+        {
+            "content": "tư liệu",
+            "type": "",
+            "example": {
+                "en": "And one documentary writer, who was here and looked at this two months",
+                "vi": "Một nhà viết tư liệu đã ở đây quan sát 2 tháng"
+            }
+        }
+    ]
+}

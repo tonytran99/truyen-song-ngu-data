@@ -1,0 +1,48 @@
+{
+    "word": "craving",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrāviNG/",
+            "/ˈkreɪvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkreɪvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lòng khao khát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự thèm muốn",
+            "type": "",
+            "example": {
+                "en": "This could be the cure for my craving!",
+                "vi": "Chúng có thể chữa lành sự thèm muốn của ta!"
+            }
+        },
+        {
+            "content": "sự khao khát",
+            "type": "",
+            "example": {
+                "en": "But the main characteristics of romantic love are craving:",
+                "vi": "Như đặc điểm chính của tình yêu lãng mạn là sự khao khát:"
+            }
+        },
+        {
+            "content": "sự thèm mún",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

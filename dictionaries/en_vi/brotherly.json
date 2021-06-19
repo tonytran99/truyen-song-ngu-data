@@ -1,0 +1,46 @@
+{
+    "word": "brotherly",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrəT͟Hərlē/",
+            "/ˈbrəðərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrʌðəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh em",
+            "type": "noun",
+            "example": {
+                "en": "I am not given to outbursts of brotherly compassion.",
+                "vi": "Tôi không chịu ảnh hưởng của tình cảm anh em."
+            }
+        },
+        {
+            "content": "như anh em",
+            "type": "",
+            "example": {
+                "en": "What does it mean for us to show brotherly love?",
+                "vi": "Yêu thương nhau như anh em có nghĩa gì?"
+            }
+        },
+        {
+            "content": "tình anh em",
+            "type": "",
+            "example": {
+                "en": "I don't expect you to help me out of brotherly love.",
+                "vi": "Tôi không mong các ông giúp vì tình anh em."
+            }
+        }
+    ]
+}

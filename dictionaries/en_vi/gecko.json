@@ -1,0 +1,51 @@
+{
+    "word": "gecko",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡekō/",
+            "/ˈɡɛkoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɛkəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tắc kè",
+            "type": "noun",
+            "example": {
+                "en": "A gecko snapped its tongue in and out .",
+                "vi": "Một chú tắc kè đang thè lưỡi kiếm mồi ."
+            }
+        },
+        {
+            "content": "thằn lằn",
+            "type": "noun",
+            "example": {
+                "en": "Why do the feet of a gecko adhere to smooth surfaces?",
+                "vi": "Tại sao chân con thằn lằn có khả năng bám vào các mặt phẳng?"
+            }
+        },
+        {
+            "content": "con tắc kè",
+            "type": "noun",
+            "example": {
+                "en": "It's got a gecko on it.",
+                "vi": "và trên đó có cả một con tắc kè."
+            }
+        },
+        {
+            "content": "họ tắc kè",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

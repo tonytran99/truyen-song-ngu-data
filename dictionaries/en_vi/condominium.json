@@ -1,0 +1,44 @@
+{
+    "word": "condominium",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkändəˈminēəm/",
+            "/ˌkɑndəˈmɪniəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒndəˈmɪnɪəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chế độ công quản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước công quản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chung cư",
+            "type": "",
+            "example": {
+                "en": "And today, they crawl out and see condominiums.",
+                "vi": "Và ngày nay, chúng bò lên bờ và thấy các chung cư cao tầng."
+            }
+        },
+        {
+            "content": "căn hộ chung cư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

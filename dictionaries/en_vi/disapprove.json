@@ -1,0 +1,45 @@
+{
+    "word": "disapprove",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈpro͞ov/",
+            "/ˌdɪsəˈpruv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈpruːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phản đối",
+            "type": "verb noun",
+            "example": {
+                "en": "When the disciples saw this, they immediately voiced their disapproval.",
+                "vi": "Khi thấy vậy, các môn đồ lập tức lên tiếng phản đối."
+            }
+        },
+        {
+            "content": "chê",
+            "type": "verb",
+            "example": {
+                "en": "With all that, Andre, you still disapprove?",
+                "vi": "Với tất cả những thứ đó, Andrei, anh vẫn còn chê bai tôi chớ?"
+            }
+        },
+        {
+            "content": "không tán thành",
+            "type": "",
+            "example": {
+                "en": "Chiefly, I disapprove of the fact that he didn't marry my mother.",
+                "vi": "Trên hết, tôi không tán thành cái việc ổng không chịu cưới mẹ tôi."
+            }
+        }
+    ]
+}

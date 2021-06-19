@@ -1,0 +1,71 @@
+{
+    "word": "invariable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinˈverēəb(ə)l/",
+            "/ˌɪnˈvɛriəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛːrɪəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái cố định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái không thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cố định",
+            "type": "",
+            "example": {
+                "en": "the properties are invariant with the print direction.",
+                "vi": "các thuộc tính sẽ cố định so với hướng in."
+            }
+        },
+        {
+            "content": "kiên định",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lúc nào cũng vậy",
+            "type": "adjective",
+            "example": {
+                "en": "Invariably, I found answers—the kind of answers that told me exactly what I needed to know.",
+                "vi": "Lúc nào cũng vậy, tôi bắt gặp những câu trả lời—loại câu trả lời mà cho tôi biết chính xác điều tôi cần biết."
+            }
+        },
+        {
+            "content": "bất biến",
+            "type": "adjective",
+            "example": {
+                "en": "There were a bunch of these types of invariants.",
+                "vi": "Có một loạt các loại vật thể bất biến."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "hepatitis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhepəˈtīdəs/",
+            "/ˌhɛpəˈtaɪdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhɛpəˈtʌɪtɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh viêm gan",
+            "type": "noun",
+            "example": {
+                "en": "For hepatitis, it was also two and a half times.",
+                "vi": "Với bệnh viêm gan, tỉ lệ cũng là 2.5 lần."
+            }
+        },
+        {
+            "content": "viêm gan",
+            "type": "",
+            "example": {
+                "en": "Send for hepatitis serologies and an autoimmune panel.",
+                "vi": "Bảo họ gửi huyết thanh viêm gan và kết quả xét nghiệm tự miễn dịch."
+            }
+        },
+        {
+            "content": "Viêm gan",
+            "type": "",
+            "example": {
+                "en": "Send for hepatitis serologies and an autoimmune panel.",
+                "vi": "Bảo họ gửi huyết thanh viêm gan và kết quả xét nghiệm tự miễn dịch."
+            }
+        }
+    ]
+}

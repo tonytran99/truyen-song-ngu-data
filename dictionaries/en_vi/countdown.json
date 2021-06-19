@@ -1,0 +1,30 @@
+{
+    "word": "countdown",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)doun/",
+            "/ˈkaʊn(t)daʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntdaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đếm ngược",
+            "type": "",
+            "example": {
+                "en": "When the countdown is complete, the reaction should render the volcano inert.",
+                "vi": "Khi quá trình đếm ngược hoàn tất, phản ứng sẽ làm nguội núi lửa."
+            }
+        }
+    ]
+}

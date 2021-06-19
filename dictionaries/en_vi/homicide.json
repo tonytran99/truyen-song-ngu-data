@@ -1,0 +1,50 @@
+{
+    "word": "homicide",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäməˌsīd/",
+            "/ˈhɑməˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒmɪsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giết người",
+            "type": "noun",
+            "example": {
+                "en": "Are these burglaries that turned into homicides or homicides that turned into burglaries?",
+                "vi": "Trộm cắp hóa thành giết người, hay giết người hóa thành trộm cắp?"
+            }
+        },
+        {
+            "content": "phaïm nhaân gieát ngöôøi, haønh ñoäng gieát ngöôøi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tội giết người",
+            "type": "noun",
+            "example": {
+                "en": "His parents put him there to avoid a homicide charge.",
+                "vi": "Gia đình đưa cậu ta vào đó để tránh tội giết người."
+            }
+        },
+        {
+            "content": "án mạng",
+            "type": "noun",
+            "example": {
+                "en": "They were housed the same place as homicide.",
+                "vi": "Chúng được đặt cùng chỗ như bộ phận án mạng."
+            }
+        }
+    ]
+}

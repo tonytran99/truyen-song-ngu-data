@@ -1,0 +1,34 @@
+{
+    "word": "borough",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərō/",
+            "/ˈbəroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thành phố",
+            "type": "noun",
+            "example": {
+                "en": "If you think of medieval cities, medieval cities the boroughs",
+                "vi": "Nếu nghĩ đến các thành phố trung cổ, thì mỗi thành phố, đường phố"
+            }
+        },
+        {
+            "content": "thị xã",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

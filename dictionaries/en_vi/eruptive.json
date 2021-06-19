@@ -1,0 +1,43 @@
+{
+    "word": "eruptive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrəptiv/",
+            "/əˈrəptɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈrʌptɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "eruptional",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổ ra",
+            "type": "",
+            "example": {
+                "en": "What can you do when heated arguments erupt?",
+                "vi": "Phải làm gì khi tranh cãi dữ dội nổ ra?"
+            }
+        },
+        {
+            "content": "phun trào",
+            "type": "",
+            "example": {
+                "en": "We have found weird eruptions on many planets and moons.",
+                "vi": "Chúng ta đã thấy vài vụ phun trào lạ lùng trên nhiều hành tinh và mặt trăng."
+            }
+        }
+    ]
+}

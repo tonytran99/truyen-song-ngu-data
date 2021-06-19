@@ -1,0 +1,53 @@
+{
+    "word": "heyday",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhāˌdā/",
+            "/ˈheɪˌdeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪdeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời hoàng kim",
+            "type": "noun",
+            "example": {
+                "en": "Well, I have been known to frequent discotheques in my heyday.",
+                "vi": "Biết chứ, ta đã từng thường xuyên lui tới các vũ trường trong thời hoàng kim của mình."
+            }
+        },
+        {
+            "content": "thời cực thịnh",
+            "type": "noun",
+            "example": {
+                "en": "In its heyday, Nineveh may have been the largest city in the world.",
+                "vi": "Thời cực thịnh, có lẽ Ni-ni-ve là thành lớn nhất thế giới."
+            }
+        },
+        {
+            "content": "thời sung sức nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời đang độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuổi thanh xuân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "disappoint",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈpoint/",
+            "/ˌdɪsəˈpɔɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈpɔɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm thất vọng",
+            "type": "",
+            "example": {
+                "en": "Fathers are destined to disappoint sons, and sons, their fathers.",
+                "vi": "Người cha luôn được định để làm thất vọng con trai họ, và ngược lại."
+            }
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {
+                "en": "I was greatly disappointed at hearing the news.",
+                "vi": "Tôi đã cực kỳ thất vọng khi nghe tin."
+            }
+        },
+        {
+            "content": "làm chán ngán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất ước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

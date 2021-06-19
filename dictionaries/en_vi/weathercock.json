@@ -1,0 +1,40 @@
+{
+    "word": "weathercock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweT͟Hərˌkäk/",
+            "/ˈwɛðərˌkɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛðəkɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chong chóng",
+            "type": "",
+            "example": {
+                "en": "Oh, you know, whirling around like a weathercock every time the wind changes.",
+                "vi": "Ồ, ông biết rồi, xoay vòng vòng như một cái chong chóng con gà... mỗi khi gió đổi chiều."
+            }
+        },
+        {
+            "content": "người hay xoay chiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chong chóng gió",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

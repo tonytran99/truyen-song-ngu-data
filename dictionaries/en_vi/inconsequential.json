@@ -1,0 +1,56 @@
+{
+    "word": "inconsequential",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkänsəˈkwen(t)SHəl/",
+            "/ˌɪnkɑnsəˈkwɛn(t)ʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnkɒnsɪˈkwɛnʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không hợp lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lôgic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không quan trọng",
+            "type": "",
+            "example": {
+                "en": "The fact that something is a matter of conscience does not mean that it is inconsequential.",
+                "vi": "Sự kiện một quyết định nào đó là vấn đề lương tâm không có nghĩa là nó không quan trọng."
+            }
+        },
+        {
+            "content": "tầm thường",
+            "type": "adjective",
+            "example": {
+                "en": "He ridiculed David as inconsequential and compared him to a runaway servant.",
+                "vi": "Hắn chế nhạo Đa-vít là kẻ tầm thường và so sánh ông với người đầy tớ trốn chủ."
+            }
+        },
+        {
+            "content": "vụn vặt",
+            "type": "",
+            "example": {
+                "en": "Why do you wanna clutter your mind with the inconsequential?",
+                "vi": "Tại sao anh cứ bận tâm với những chuyện vụn vặt như vậy?"
+            }
+        }
+    ]
+}

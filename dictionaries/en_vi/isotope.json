@@ -1,0 +1,46 @@
+{
+    "word": "isotope",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsəˌtōp/",
+            "/ˈaɪsəˌtoʊp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsətəʊp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng vị",
+            "type": "noun",
+            "example": {
+                "en": "Sleepy's reading radionuclides, but they don't match any known isotope.",
+                "vi": "Ngái Ngủ ghi nhận nuclit phóng xạ, nhưng không khớp với đồng vị nào."
+            }
+        },
+        {
+            "content": "chất đồng vị",
+            "type": "",
+            "example": {
+                "en": "But in this case, we measured the different isotopes of oxygen.",
+                "vi": "Nhưng trong trường hợp này, chúng ta đo lường chất đồng vị khác nhau của ôxy"
+            }
+        },
+        {
+            "content": "Đồng vị",
+            "type": "",
+            "example": {
+                "en": "Sleepy's reading radionuclides, but they don't match any known isotope.",
+                "vi": "Ngái Ngủ ghi nhận nuclit phóng xạ, nhưng không khớp với đồng vị nào."
+            }
+        }
+    ]
+}

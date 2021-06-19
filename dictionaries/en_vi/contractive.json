@@ -1,0 +1,63 @@
+{
+    "word": "contractive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtraktiv/",
+            "/kənˈtræktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtraktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "co",
+            "type": "",
+            "example": {
+                "en": "You send a command down, it causes muscles to contract.",
+                "vi": "Các bạn gửi mệnh lệnh xuống, nó khiến các cơ co bóp."
+            }
+        },
+        {
+            "content": "rút",
+            "type": "",
+            "example": {
+                "en": "Okay, so it causes a small involuntary contraction in my hand",
+                "vi": "Ok, nó tạo ra co rút nhẹ ở bàn tay"
+            }
+        },
+        {
+            "content": "co lại được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "co rút",
+            "type": "adjective",
+            "example": {
+                "en": "Okay, so it causes a small involuntary contraction in my hand",
+                "vi": "Ok, nó tạo ra co rút nhẹ ở bàn tay"
+            }
+        },
+        {
+            "content": "làm co",
+            "type": "",
+            "example": {
+                "en": "that stretch and contract the membrane,",
+                "vi": "để kéo giãn và làm co lại lớp màng,"
+            }
+        },
+        {
+            "content": "rút ngắn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

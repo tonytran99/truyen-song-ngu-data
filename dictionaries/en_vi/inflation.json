@@ -1,0 +1,81 @@
+{
+    "word": "inflation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈflāSH(ə)n/",
+            "/ɪnˈfleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tăng giá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thổi phồng",
+            "type": "noun",
+            "example": {
+                "en": "People's memories inflate what they think they saw.",
+                "vi": "Trí nhớ con người thổi phồng lên những gì họ nghĩ rằng họ đã thấy."
+            }
+        },
+        {
+            "content": "lạm phát",
+            "type": "noun",
+            "example": {
+                "en": "Prices of goods go up, inflation is affected.",
+                "vi": "Giá hàng hóa tăng, lạm phát bị ảnh hưởng."
+            }
+        },
+        {
+            "content": "sự bơm phồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "(sự) thổi phồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "(sự) tăng giá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lạm phát",
+            "type": "noun",
+            "example": {
+                "en": "This move halted the inflation but had other disastrous consequences.",
+                "vi": "Việc này ngăn chặn được sự lạm phát, nhưng nó lại gây ra nhiều hậu quả tai hại khác."
+            }
+        },
+        {
+            "content": "sự thổi phồng",
+            "type": "noun",
+            "example": {
+                "en": "This isn't conclusive evidence for inflation,",
+                "vi": "Và nó không phải là bằng chứng thuyết phục cho sự thổi phồng,"
+            }
+        },
+        {
+            "content": "Lạm phát",
+            "type": "",
+            "example": {
+                "en": "That might slow down the price inflation, but it won't halt it.",
+                "vi": "Việc đó có thể làm chậm lạm phát giá cả, nhưng sẽ không ngăn chặn được nó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "ashore",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈSHôr/",
+            "/əˈʃɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈʃɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trên bờ",
+            "type": "",
+            "example": {
+                "en": "Peter listened with rapt attention, as did those ashore.",
+                "vi": "Phi-e-rơ thích thú lắng nghe, và những người trên bờ cũng thế."
+            }
+        },
+        {
+            "content": "lên bờ",
+            "type": "adverb",
+            "example": {
+                "en": "They are some of the first animals ever to come ashore.",
+                "vi": "Chúng là những loài vật đầu tiên di chuyển lên bờ."
+            }
+        },
+        {
+            "content": "vào bờ",
+            "type": "adverb",
+            "example": {
+                "en": "We would row ashore and visit the people all day long.",
+                "vi": "Chúng tôi chèo thuyền vào bờ và đi thăm người dân cả ngày."
+            }
+        }
+    ]
+}

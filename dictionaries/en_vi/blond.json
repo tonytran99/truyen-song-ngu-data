@@ -1,0 +1,33 @@
+{
+    "word": "blond",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bländ/",
+            "/blɑnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tóc vàng hoe",
+            "type": "adjective",
+            "example": {
+                "en": "I may be blonde, but I'm not that blonde.",
+                "vi": "Tôi tóc vàng hoe thật, nhưng không đến mức đấy đâu."
+            }
+        },
+        {
+            "content": "vàng hoe",
+            "type": "",
+            "example": {
+                "en": "I may be blonde, but I'm not that blonde.",
+                "vi": "Tôi tóc vàng hoe thật, nhưng không đến mức đấy đâu."
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "decayed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈkād/",
+            "/dəˈkeɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈkeɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hư",
+            "type": "adjective",
+            "example": {
+                "en": "Food decays quickly in hot weather.",
+                "vi": "Thực phẩm nhanh hư trong thời tiết nóng."
+            }
+        },
+        {
+            "content": "luỗng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mục",
+            "type": "adjective noun",
+            "example": {
+                "en": "She won't see her love die or body decay.",
+                "vi": "Cổ sẽ không thấy tình yêu mình chết hay thân thể mình mục rữa."
+            }
+        },
+        {
+            "content": "mục nát",
+            "type": "",
+            "example": {
+                "en": "A decaying house out on the God-forsaken tip of the island.",
+                "vi": "Một cái nhà mục nát ở ngoài rìa hòn đảo nơi khỉ ho cò gáy."
+            }
+        },
+        {
+            "content": "mủn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ruỗng nát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sún",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

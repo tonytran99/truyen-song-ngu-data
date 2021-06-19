@@ -1,0 +1,35 @@
+{
+    "word": "counterweight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)ərˌwāt/",
+            "/ˈkaʊn(t)ərˌweɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntəweɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đối trọng",
+            "type": "noun",
+            "example": {
+                "en": "Appears to be a counterweight to hold the door open.",
+                "vi": "Có vai trò như vật đối trọng để giữ cửa mở."
+            }
+        },
+        {
+            "content": "đối tượng",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

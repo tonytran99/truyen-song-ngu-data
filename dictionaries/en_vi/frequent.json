@@ -1,0 +1,95 @@
+{
+    "word": "frequent",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrēkwənt/",
+            "/ˈfrikwənt/",
+            "/frēˈkwent/",
+            "/friˈkwɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfriːkw(ə)nt/",
+            "/frɪˈkwɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thường xuyên",
+            "type": "adjective",
+            "example": {
+                "en": "In the last few years it happened frequently.",
+                "vi": "Điều này thường xuyên xảy ra trong những năm gần đây."
+            }
+        },
+        {
+            "content": "hay xảy ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay",
+            "type": "adjective",
+            "example": {
+                "en": "I frequented a massage parlor Just around the corner.",
+                "vi": "Ta hay lui tới một hiệu mátxa ở ngay gần đây."
+            }
+        },
+        {
+            "content": "thường",
+            "type": "adjective",
+            "example": {
+                "en": "In the last few years it happened frequently.",
+                "vi": "Điều này thường xuyên xảy ra trong những năm gần đây."
+            }
+        },
+        {
+            "content": "có luôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay lui tới",
+            "type": "",
+            "example": {
+                "en": "I frequented a massage parlor Just around the corner.",
+                "vi": "Ta hay lui tới một hiệu mátxa ở ngay gần đây."
+            }
+        },
+        {
+            "content": "hay ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lai vãng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lui tới",
+            "type": "",
+            "example": {
+                "en": "I frequented a massage parlor Just around the corner.",
+                "vi": "Ta hay lui tới một hiệu mátxa ở ngay gần đây."
+            }
+        },
+        {
+            "content": "tới lui",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vãng lai",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

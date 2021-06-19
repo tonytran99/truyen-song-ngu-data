@@ -1,0 +1,97 @@
+{
+    "word": "ashamed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈSHāmd/",
+            "/əˈʃeɪmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈʃeɪmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngượng",
+            "type": "adjective",
+            "example": {
+                "en": "There is no reason to feel awkward or ashamed because you believe in creation.",
+                "vi": "Không có lý do nào để cảm thấy ngượng ngùng vì bạn tin nơi sự sáng tạo."
+            }
+        },
+        {
+            "content": "hổ thẹn",
+            "type": "adjective",
+            "example": {
+                "en": "You didn't tell me because you were ashamed.",
+                "vi": "Anh không cho tôi biết vì anh thấy hổ thẹn."
+            }
+        },
+        {
+            "content": "xấu hổ",
+            "type": "adjective",
+            "example": {
+                "en": "He is ashamed of being idle.",
+                "vi": "Ông là xấu hổ vì ở không (không làm gì cả)."
+            }
+        },
+        {
+            "content": "ê",
+            "type": "verb",
+            "example": {
+                "en": "I think i feel ashamed.",
+                "vi": "Tôi nghĩ nó thật ê chề."
+            }
+        },
+        {
+            "content": "bẽ bàng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bẽ mặt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bẽn lẽn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngượng mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ê chệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ốt dột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẹn",
+            "type": "",
+            "example": {
+                "en": "You didn't tell me because you were ashamed.",
+                "vi": "Anh không cho tôi biết vì anh thấy hổ thẹn."
+            }
+        },
+        {
+            "content": "thẹn mặt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

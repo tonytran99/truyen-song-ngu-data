@@ -1,0 +1,39 @@
+{
+    "word": "horrendous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈrendəs/",
+            "/həˈrɛndəs/",
+            "/hôˈrendəs/",
+            "/hɔˈrɛndəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɒˈrɛndəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh khủng",
+            "type": "",
+            "example": {
+                "en": "Unfortunately, he has the wrong vision and horrendous experience.",
+                "vi": "Thật không may, ông ấy có tầm nhìn sai lầm, những kinh nghiệm thật kinh khủng."
+            }
+        },
+        {
+            "content": "khủng khiếp",
+            "type": "",
+            "example": {
+                "en": "I can give you a brace, but you'll still be in horrendous amounts of pain.",
+                "vi": "Tôi có thể nối xương, nhưng anh sẽ bị đau đơn khủng khiếp."
+            }
+        }
+    ]
+}

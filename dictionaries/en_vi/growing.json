@@ -1,0 +1,46 @@
+{
+    "word": "growing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrōiNG/",
+            "/ˈɡroʊɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrəʊɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự lớn lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nuôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang lớn lên",
+            "type": "",
+            "example": {
+                "en": "Some of you are busy mothers of growing children.",
+                "vi": "Một số các chị em là những người mẹ bận rộn với con cái đang lớn lên."
+            }
+        }
+    ]
+}

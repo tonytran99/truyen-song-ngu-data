@@ -1,0 +1,68 @@
+{
+    "word": "donate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdōˌnāt/",
+            "/ˈdoʊˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/də(ʊ)ˈneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tặng",
+            "type": "verb",
+            "example": {
+                "en": "Jewelry or other valuables may be donated as well.",
+                "vi": "Cũng có thể tặng nữ trang hay những vật quý giá khác."
+            }
+        },
+        {
+            "content": "cho",
+            "type": "verb adposition",
+            "example": {
+                "en": "And they did. They donated land where we built the girls' school.",
+                "vi": "Và họ đã làm thế. Họ cho đất nơi chúng tôi có thể xây dựng trường học."
+            }
+        },
+        {
+            "content": "biếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cúng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quyên cúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyên góp",
+            "type": "",
+            "example": {
+                "en": "Digital connectivity was used for everything from food to donations.",
+                "vi": "Kết nối kỹ thuật số sử dụng cho mọi thứ, từ thức ăn đến quyên góp."
+            }
+        },
+        {
+            "content": "đóng góp",
+            "type": "",
+            "example": {
+                "en": "Thank you very much for your generous donation.",
+                "vi": "Xin cảm ơn rất nhiều vì sự đóng góp hào phóng của bạn."
+            }
+        }
+    ]
+}

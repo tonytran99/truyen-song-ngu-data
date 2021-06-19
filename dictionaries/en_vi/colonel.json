@@ -1,0 +1,44 @@
+{
+    "word": "colonel",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərnl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đại tá",
+            "type": "noun",
+            "example": {
+                "en": "How do you think I got to be a colonel?",
+                "vi": "Cô nghĩ làm sao mà tôi trở thành một đại tá?"
+            }
+        },
+        {
+            "content": "thượng tá",
+            "type": "noun",
+            "example": {
+                "en": "Colonel Abel asked me to give this to you.",
+                "vi": "Thượng Tá Abel bảo tôi đưa thứ này cho ông."
+            }
+        },
+        {
+            "content": "Đại tá",
+            "type": "",
+            "example": {
+                "en": "Hey, colonel, I hear they don't even use parachutes!",
+                "vi": "Nè, Đại tá, tôi nghe nói họ còn chưa từng biết dùng dù nữa!"
+            }
+        }
+    ]
+}

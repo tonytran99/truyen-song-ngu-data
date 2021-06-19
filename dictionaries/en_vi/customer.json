@@ -1,0 +1,95 @@
+{
+    "word": "customer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəstəmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌstəmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách hàng",
+            "type": "noun",
+            "example": {
+                "en": "We do this for our customers who handle special clients.",
+                "vi": "Chúng tôi làm việc này cho những khách hàng mà có khách hàng đặc biệt."
+            }
+        },
+        {
+            "content": "gã",
+            "type": "",
+            "example": {
+                "en": "You can't go around afraid all the time that every guy you bump into is a former customer!",
+                "vi": "Em không thể cứ lúc nào cũng sợ rằng mọi gã mà em gặp phải đều là khách hàng cũ của em!"
+            }
+        },
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "There are several customers in the restaurant.",
+                "vi": "Có nhiều khách đến ăn tại nhà hang."
+            }
+        },
+        {
+            "content": "anh chàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạn hàng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mối hàng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thuê bao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tiêu thụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân chủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "客",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Khách hàng",
+            "type": "",
+            "example": {
+                "en": "Our customers give us access to this data",
+                "vi": "Khách hàng cho phép chúng tôi"
+            }
+        },
+        {
+            "content": "người khách",
+            "type": "",
+            "example": {
+                "en": "I've ordered all customers to leave the bathhouse.",
+                "vi": "Đuổi hết mấy người khách trong nhà tắm chưa?"
+            }
+        }
+    ]
+}

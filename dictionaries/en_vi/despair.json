@@ -1,0 +1,75 @@
+{
+    "word": "despair",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsper/",
+            "/dəˈspɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất vọng",
+            "type": "verb",
+            "example": {
+                "en": "We should never let hope be displaced by despair.",
+                "vi": "Chúng ta đừng bao giờ để cho nỗi thất vọng thay thế niềm hy vọng."
+            }
+        },
+        {
+            "content": "sự tuyệt vọng",
+            "type": "noun",
+            "example": {
+                "en": "From what despair does the truth about the soul free us?",
+                "vi": "Sự thật về linh hồn giải thoát chúng ta khỏi sự tuyệt vọng nào?"
+            }
+        },
+        {
+            "content": "tuyệt vọng",
+            "type": "",
+            "example": {
+                "en": "Where there was despair and pain, there is joy and hope.",
+                "vi": "Nơi nào đã có tuyệt vọng và đau đớn, thì nay có niềm vui và hy vọng."
+            }
+        },
+        {
+            "content": "hết hy vọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nỗi thất vọng",
+            "type": "noun",
+            "example": {
+                "en": "We should never let hope be displaced by despair.",
+                "vi": "Chúng ta đừng bao giờ để cho nỗi thất vọng thay thế niềm hy vọng."
+            }
+        },
+        {
+            "content": "nỗi tuyệt vọng",
+            "type": "",
+            "example": {
+                "en": "The adversary uses despair to bind hearts and minds in suffocating darkness.",
+                "vi": "Kẻ nghịch thù sử dụng nỗi tuyệt vọng để trói buộc tâm trí trong bóng tối ngột ngạt."
+            }
+        },
+        {
+            "content": "sự thất vọng",
+            "type": "",
+            "example": {
+                "en": "I will not attempt to convey the depth of Georgiana's despair.",
+                "vi": "Tôi không thể kể ra được sự thất vọng nặng nề của Georgiana."
+            }
+        }
+    ]
+}

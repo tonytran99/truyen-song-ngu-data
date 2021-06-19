@@ -1,0 +1,51 @@
+{
+    "word": "brandish",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrandiSH/",
+            "/ˈbrændɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrandɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vung",
+            "type": "noun",
+            "example": {
+                "en": "Seems it's a little late to be brandishing iron, does it not?",
+                "vi": "Có hơi chút muộn màng để vung kiếm rồi, phải không nhỉ?"
+            }
+        },
+        {
+            "content": "khua",
+            "type": "adjective",
+            "example": {
+                "en": "and started brandishing when I asked him to make a funny face.",
+                "vi": "và khua loạn lên khi tôi bảo ông làm mặt cười."
+            }
+        },
+        {
+            "content": "vung vẩy",
+            "type": "",
+            "example": {
+                "en": "Security would come out, brandish their weapons,",
+                "vi": "Đội bảo vệ đi ra, vung vẩy vũ khí,"
+            }
+        },
+        {
+            "content": "múa",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

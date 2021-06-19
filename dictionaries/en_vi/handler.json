@@ -1,0 +1,42 @@
+{
+    "word": "handler",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandlər/",
+            "/ˈhændlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người huấn luyện",
+            "type": "",
+            "example": {
+                "en": "If Oswald had a handler, it was him.",
+                "vi": "Nếu Oswald người huấn luyện, sát thủ chính là anh ta"
+            }
+        },
+        {
+            "content": "người xử dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người điều khiển",
+            "type": "",
+            "example": {
+                "en": "Why hasn't my handler blown it yet?",
+                "vi": "Tại sao người điều khiển tôi vẫn chưa bấm?"
+            }
+        }
+    ]
+}

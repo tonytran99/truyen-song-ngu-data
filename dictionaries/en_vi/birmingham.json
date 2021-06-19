@@ -1,0 +1,33 @@
+{
+    "word": "birmingham",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərmiNGˌham/",
+            "/ˈbərmɪŋˌhæm/",
+            "/ˈbərmiNGəm/",
+            "/ˈbərmɪŋəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːmɪŋəm/",
+            "/ˈbəːmɪŋˌham/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "birmingham",
+            "type": "",
+            "example": {
+                "en": "Carrie Birmingham, reporting live from the nation's capital.",
+                "vi": "Carrie Birmingham, đưa tin trực tiếp từ thủ đô."
+            }
+        }
+    ]
+}

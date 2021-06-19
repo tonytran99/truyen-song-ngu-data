@@ -1,0 +1,62 @@
+{
+    "word": "complimentary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämpləˈmen(t)ərē/",
+            "/ˌkɑmpləˈmɛn(t)əri/",
+            "/ˌkämpləˈmentrē/",
+            "/ˌkɑmpləˈmɛntri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒmplɪˈmɛnt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biếu",
+            "type": "",
+            "example": {
+                "en": "Some complimentary pink champagne, Mr. Rams-Jones.",
+                "vi": "Một ít sâm-banh hồng làm quà biếu, ông Rams-Jones."
+            }
+        },
+        {
+            "content": "mời",
+            "type": "",
+            "example": {
+                "en": "Can we get you a cup of complimentary coffee?",
+                "vi": "Tôi mời ông một ly cà phê nhé?"
+            }
+        },
+        {
+            "content": "ca ngợi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ca tụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khen ngợi",
+            "type": "verb",
+            "example": {
+                "en": "They loved the first four chapters and, you know, they were really complimentary.",
+                "vi": "Họ thích bốn chương đầu. Họ thực sự khen ngợi nó."
+            }
+        },
+        {
+            "content": "tán tụng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

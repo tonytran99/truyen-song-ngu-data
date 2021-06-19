@@ -1,0 +1,40 @@
+{
+    "word": "creamy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrēmē/",
+            "/ˈkrimi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkriːmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mịn",
+            "type": "",
+            "example": {
+                "en": "A grinding machine is then used to crush the roasted peanuts into a creamy butter.",
+                "vi": "Sau đó người ta dùng máy xay để xay đậu đã rang thành bột thật mịn."
+            }
+        },
+        {
+            "content": "mượt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có nhiều kem",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

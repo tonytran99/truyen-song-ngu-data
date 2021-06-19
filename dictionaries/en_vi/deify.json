@@ -1,0 +1,48 @@
+{
+    "word": "deify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēəˌfī/",
+            "/ˈdiəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪɪfʌɪ/",
+            "/ˈdiːɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phong thần",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sùng bái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tôn làm thần",
+            "type": "",
+            "example": {
+                "en": "Augustus was deified posthumously.",
+                "vi": "Sau khi Au-gút-tơ qua đời, ông được tôn làm thần."
+            }
+        },
+        {
+            "content": "tôn sùng",
+            "type": "",
+            "example": {
+                "en": "He's practically deifying him.",
+                "vi": "Anh ta thật sự tôn sùng hắn."
+            }
+        }
+    ]
+}

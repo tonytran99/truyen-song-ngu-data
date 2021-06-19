@@ -1,0 +1,55 @@
+{
+    "word": "endow",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdou/",
+            "/ɪnˈdaʊ/",
+            "/enˈdou/",
+            "/ɛnˈdaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdaʊ/",
+            "/ɛnˈdaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phú",
+            "type": "verb",
+            "example": {
+                "en": "Birds that catch flying insects are similarly endowed.",
+                "vi": "Những loài chim ăn các loài côn trùng biết bay cũng được phú cho khả năng tương tự."
+            }
+        },
+        {
+            "content": "cúng vốn cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phú cho",
+            "type": "",
+            "example": {
+                "en": "Birds that catch flying insects are similarly endowed.",
+                "vi": "Những loài chim ăn các loài côn trùng biết bay cũng được phú cho khả năng tương tự."
+            }
+        },
+        {
+            "content": "để vốn lại cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ban tặng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

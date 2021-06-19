@@ -1,0 +1,72 @@
+{
+    "word": "incorporate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkôrpəˌrāt/",
+            "/ɪnˈkɔrpəˌreɪt/",
+            "/inˈkôrp(ə)rət/",
+            "/ɪnˈkɔrp(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkɔːpəreɪt/",
+            "/ɪnˈkɔːp(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp nhất",
+            "type": "",
+            "example": {
+                "en": "by either the disruption or incorporation of new genetic information.",
+                "vi": "bằng sự phá vỡ hoặc hợp nhất thông tin di truyền mới."
+            }
+        },
+        {
+            "content": "hợp thành tổ chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp thành đoàn thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp chặt chẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáp nhập",
+            "type": "verb",
+            "example": {
+                "en": "Incorporate Sister Beck’s counsel on patriarchal blessings in the quotations read aloud.",
+                "vi": "Sáp nhập lời khuyên bảo của Chị Beck vào các phước lành tộc trưởng trong những lời trích dẫn mà được đọc lớn."
+            }
+        },
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "I love this incorporating an amusement park into our day.",
+                "vi": "Tớ thích cách kết hợp một công viên giải trí ngay trong ngày của chúng ta"
+            }
+        },
+        {
+            "content": "bao gồm",
+            "type": "",
+            "example": {
+                "en": "(b) What should we incorporate into our daily routine?",
+                "vi": "(b) Thói quen hàng ngày của chúng ta nên bao gồm điều gì?"
+            }
+        }
+    ]
+}

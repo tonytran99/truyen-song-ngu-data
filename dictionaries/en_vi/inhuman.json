@@ -1,0 +1,55 @@
+{
+    "word": "inhuman",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈ(h)yo͞omən/",
+            "/ɪnˈ(h)jumən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈhjuːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dã man",
+            "type": "adjective adverb",
+            "example": {
+                "en": "The Capital isn't completely inhumane.",
+                "vi": "Chúng ta đâu có dã man đến vậy."
+            }
+        },
+        {
+            "content": "tàn bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhân đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô nhân tính",
+            "type": "adjective",
+            "example": {
+                "en": "He's an inhuman monster.",
+                "vi": "Hắn là con quái vật vô nhân tính."
+            }
+        },
+        {
+            "content": "vô nhân đạo",
+            "type": "",
+            "example": {
+                "en": "And then tortured in inhuman ways in all the prisons.",
+                "vi": "Và bị tra tấn bằng những cách vô nhân đạo trong các nhà tù."
+            }
+        }
+    ]
+}

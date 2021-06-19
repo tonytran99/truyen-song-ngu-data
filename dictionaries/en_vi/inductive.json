@@ -1,0 +1,37 @@
+{
+    "word": "inductive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdəktiv/",
+            "/ɪnˈdəktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʌktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảm ứng",
+            "type": "",
+            "example": {
+                "en": "Can you tell us how an induction motor starts?",
+                "vi": "Cậu có thể nói cho chúng tôi biết động cơ cảm ứng khởi động thế nào không?"
+            }
+        },
+        {
+            "content": "quy nạp",
+            "type": "adjective",
+            "example": {
+                "en": "They wrote books and articles promoting inductive method",
+                "vi": "Họ đã viết các sách và bài báo ủng hộ phương pháp quy nạp"
+            }
+        }
+    ]
+}

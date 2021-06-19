@@ -1,0 +1,61 @@
+{
+    "word": "veteran",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvedərən/",
+            "/ˈvɛdərən/",
+            "/ˈvetrən/",
+            "/ˈvɛtrən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛt(ə)r(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cựu chiến binh",
+            "type": "noun",
+            "example": {
+                "en": "Fortunately, everyone on earth is a war veteran.",
+                "vi": "May thay, tất cả mọi người trên thế gian đều là cựu chiến binh cả."
+            }
+        },
+        {
+            "content": "kỳ cựu",
+            "type": "adjective",
+            "example": {
+                "en": "Well, it's always a pleasure to meet a combat veteran.",
+                "vi": "Gặp lại một chiến binh kỳ cựu bao giờ cũng là điều hân hanh."
+            }
+        },
+        {
+            "content": "cựu binh",
+            "type": "",
+            "example": {
+                "en": "Cynthia wants me to work with this group that helps veterans.",
+                "vi": "Cynthia muốn em làm việc với nhóm giúp đỡ cựu binh."
+            }
+        },
+        {
+            "content": "người kỳ cựu",
+            "type": "",
+            "example": {
+                "en": "Gideon's an eight-year veteran.",
+                "vi": "Gideon là người kỳ cựu trong 8 năm."
+            }
+        },
+        {
+            "content": "cuu chien binh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

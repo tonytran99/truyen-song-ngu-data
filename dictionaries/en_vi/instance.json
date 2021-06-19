@@ -1,0 +1,55 @@
+{
+    "word": "instance",
+    "type": [
+        ""
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinstəns/",
+            "/ˈɪnstəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnst(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ví dụ",
+            "type": "noun",
+            "example": {
+                "en": "Embedding nanoparticles in a material for instance, always.",
+                "vi": "Gắn các hạt nano vào một vật liệu, luôn là một ví dụ."
+            }
+        },
+        {
+            "content": "sự xét xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thí dụ",
+            "type": "noun",
+            "example": {
+                "en": "Take me , for instance .",
+                "vi": "Hãy lấy tôi đây làm thí dụ ."
+            }
+        },
+        {
+            "content": "trường hợp cá biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể hiện",
+            "type": "",
+            "example": {
+                "en": "The instance name is empty. Please select an instance",
+                "vi": "Tên thể hiện là rỗng. Vui lòng chọn thể hiện"
+            }
+        }
+    ]
+}

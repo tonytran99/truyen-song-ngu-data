@@ -1,0 +1,50 @@
+{
+    "word": "consciously",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänSHəslē/",
+            "/ˈkɑnʃəsli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnʃəsli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chủ ý",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "có ý thức",
+            "type": "adverb",
+            "example": {
+                "en": "I think it's a way to give consciousness to other synths.",
+                "vi": "Tôi nghĩ đó là cách để cho người máy có ý thức."
+            }
+        },
+        {
+            "content": "cố ý",
+            "type": "",
+            "example": {
+                "en": "People consciously follow things even though, why, we don't know.",
+                "vi": "Con người cố ý làm theo những thứ mà thậm chí chúng ta không biết tại sao."
+            }
+        },
+        {
+            "content": "một cách có ý thức",
+            "type": "",
+            "example": {
+                "en": "Do it consciously, practicing it in daily conversation.",
+                "vi": "Hãy thực tập điều này một cách có ý thức khi nói chuyện hàng ngày."
+            }
+        }
+    ]
+}

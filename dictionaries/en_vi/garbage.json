@@ -1,0 +1,61 @@
+{
+    "word": "garbage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärbij/",
+            "/ˈɡɑrbɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːbɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rác",
+            "type": "noun",
+            "example": {
+                "en": "You can't admit it because you're a piece of garbage.",
+                "vi": "Anh không thể chấp nhận điều đó bởi vì anh là thứ rác rưởi."
+            }
+        },
+        {
+            "content": "rác rưởi",
+            "type": "noun",
+            "example": {
+                "en": "You can't admit it because you're a piece of garbage.",
+                "vi": "Anh không thể chấp nhận điều đó bởi vì anh là thứ rác rưởi."
+            }
+        },
+        {
+            "content": "lòng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rác rến",
+            "type": "noun",
+            "example": {
+                "en": "It was better before with the garbage and the smoke.",
+                "vi": "Trước đây vậy mà tốt hơn, với rác rến và khói thuốc."
+            }
+        },
+        {
+            "content": "ruột",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "văn chương sọt rác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

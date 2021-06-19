@@ -1,0 +1,45 @@
+{
+    "word": "yuan",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌyo͞oˈän/",
+            "/ˌjuˈɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jʊˈɑːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên",
+            "type": "adjective noun",
+            "example": {
+                "en": "The witch was named Zi Yuan, and she was nothing like the General expected.",
+                "vi": "Phù thuỷ ấy tên là Tử Nguyên và trông không giống những gì tướng quân tưởng tượng."
+            }
+        },
+        {
+            "content": "nhân dân tệ",
+            "type": "noun",
+            "example": {
+                "en": "The move should free up banks to lend billions of yuan .",
+                "vi": "Chính sáchnày tạo điều kiện chocác ngân hàng cho vay hàng tỷ nhân dân tệ ."
+            }
+        },
+        {
+            "content": "yuan",
+            "type": "noun",
+            "example": {
+                "en": "We need extras for our film starting today, and we're offering 80 yuan.",
+                "vi": "Chúng tôi cần tuyển vai phụ để hôm nay quay phim 80 yuan một người."
+            }
+        }
+    ]
+}

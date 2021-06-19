@@ -1,0 +1,161 @@
+{
+    "word": "what",
+    "type": [
+        "noun",
+        "adverb",
+        "pronoun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wət/",
+            "/(h)wät/",
+            "/(h)wɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gì",
+            "type": "pronoun, verb",
+            "example": {
+                "en": "I don't know what to do any more.",
+                "vi": "Tôi không còn biết phải làm gì nữa."
+            }
+        },
+        {
+            "content": "nào",
+            "type": "",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        },
+        {
+            "content": "sao",
+            "type": "noun adverb",
+            "example": {
+                "en": "Ignore what he said. He was only joking.",
+                "vi": "Làm sao để dịch tiếng anh hay nhất"
+            }
+        },
+        {
+            "content": "những gì",
+            "type": "pronoun",
+            "example": {
+                "en": "I sure hope Tom does what he said he would do.",
+                "vi": "Chắc chắn là tôi hy vọng Tom sẽ thực hiện những gì anh ấy đã nói."
+            }
+        },
+        {
+            "content": "những điều",
+            "type": "",
+            "example": {
+                "en": "I'm going to do what I've been told.",
+                "vi": "Tôi sẽ làm những điều mà tôi đã nói."
+            }
+        },
+        {
+            "content": "mà",
+            "type": "pronoun",
+            "example": {
+                "en": "I regret not having paid more attention to what the teacher said.",
+                "vi": "Tôi hối hận vì không chú ý hơn đến những gì mà thày giáo đã nói."
+            }
+        },
+        {
+            "content": "biết bao",
+            "type": "",
+            "example": {
+                "en": "How grateful I am, how profoundly grateful for what has happened.",
+                "vi": "Tôi biết ơn biết bao, biết ơn sâu xa về điều đã xảy ra."
+            }
+        },
+        {
+            "content": "cái chi",
+            "type": "",
+            "example": {
+                "en": "What haunts me is the ironic detail that my father and I were snail-gatherers.",
+                "vi": "Điều ám ảnh tôi lại là cái chi tiết mỉa mai rằng tôi và cha tôi là những người sưu tập ốc sên."
+            }
+        },
+        {
+            "content": "cái gì",
+            "type": "pronoun",
+            "example": {
+                "en": "I heard something, but I couldn't tell what it was.",
+                "vi": "Tôi nghe thấy tiếng động gì đó, nhưng tôi không biết cái gì gây ra nó."
+            }
+        },
+        {
+            "content": "cái mà",
+            "type": "",
+            "example": {
+                "en": "I know exactly what I'd want to do if I were Tom.",
+                "vi": "Tôi biết chính xác cái mà tôi sẽ muốn làm nếu tôi là Tom."
+            }
+        },
+        {
+            "content": "làm sao",
+            "type": "",
+            "example": {
+                "en": "Ignore what he said. He was only joking.",
+                "vi": "Làm sao để dịch tiếng anh hay nhất"
+            }
+        },
+        {
+            "content": "người mà",
+            "type": "",
+            "example": {
+                "en": "No need to put up a front, to be what anyone else wants you to be.",
+                "vi": "Không có trách nhiệm gì trở thành người mà người khác muốn anh trở thành."
+            }
+        },
+        {
+            "content": "ra sao",
+            "type": "",
+            "example": {
+                "en": "What happens when this is done and he gets what he wants?",
+                "vi": "Sẽ ra sao nếu việc này kết thúc và hắn có được thứ mình muốn?"
+            }
+        },
+        {
+            "content": "thế nào",
+            "type": "",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        },
+        {
+            "content": "vậy thì sao",
+            "type": "",
+            "example": {
+                "en": "Yeah, he's a psychopathic killer, but so what?",
+                "vi": "Yeah, hắn là một tên sát thủ biến thái, nhưng vậy thì sao nào?"
+            }
+        },
+        {
+            "content": "điều gì",
+            "type": "",
+            "example": {
+                "en": "No one ever really knows what's going through someone else's head.",
+                "vi": "Không ai thực sự biết điều gì đang diễn ra trong đầu của người khác."
+            }
+        },
+        {
+            "content": "điều mà",
+            "type": "",
+            "example": {
+                "en": "I'm going to do what I've been told.",
+                "vi": "Tôi sẽ làm những điều mà tôi đã nói."
+            }
+        }
+    ]
+}

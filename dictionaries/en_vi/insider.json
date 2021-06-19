@@ -1,0 +1,50 @@
+{
+    "word": "insider",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsīdər/",
+            "/ɪnˈsaɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsʌɪdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người của nội bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người trong cuộc",
+            "type": "noun",
+            "example": {
+                "en": "The details on the disaster projections are very inside baseball.",
+                "vi": "Chi tiết về các đề án chỉ người trong cuộc mới nắm được."
+            }
+        },
+        {
+            "content": "người ở trong",
+            "type": "",
+            "example": {
+                "en": "Now we have one on the inside.",
+                "vi": "Giờ ta có một người ở trong đó rồi."
+            }
+        },
+        {
+            "content": "tay trong",
+            "type": "noun",
+            "example": {
+                "en": "How much did they pay you to be their inside man?",
+                "vi": "Họ đã trả anh bao nhiêu để làm tay trong cho họ?"
+            }
+        }
+    ]
+}

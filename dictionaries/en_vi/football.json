@@ -1,0 +1,66 @@
+{
+    "word": "football",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝otˌbôl/",
+            "/ˈfʊtˌbɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊtbɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bóng đá",
+            "type": "noun common",
+            "example": {
+                "en": "The people here are crazy for football.",
+                "vi": "Mọi người đây phát điên vì bóng đá."
+            }
+        },
+        {
+            "content": "bóng",
+            "type": "noun",
+            "example": {
+                "en": "Why does a football field have four corners?",
+                "vi": "Tại sao sân bóng bầu dục lại có bốn góc?"
+            }
+        },
+        {
+            "content": "bóng bầu dục",
+            "type": "proper",
+            "example": {
+                "en": "Why does a football field have four corners?",
+                "vi": "Tại sao sân bóng bầu dục lại có bốn góc?"
+            }
+        },
+        {
+            "content": "môn bóng đá",
+            "type": "noun",
+            "example": {
+                "en": "and I do not mean football.",
+                "vi": "và tôi không có ý là môn bóng đá."
+            }
+        },
+        {
+            "content": "quả bóng đá",
+            "type": "",
+            "example": {
+                "en": "are actually about the size of small footballs,",
+                "vi": "là thực sự khoảng kích thước của những quả bóng đá nhỏ"
+            }
+        },
+        {
+            "content": "túc cầu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

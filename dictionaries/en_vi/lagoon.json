@@ -1,0 +1,45 @@
+{
+    "word": "lagoon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ləˈɡo͞on/",
+            "/ləˈɡun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ləˈɡuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phá",
+            "type": "verb",
+            "example": {
+                "en": "Draped in thick vegetation, Madera cradles a misty lagoon in its crater.",
+                "vi": "Có một phá mù sương trong miệng núi lửa này."
+            }
+        },
+        {
+            "content": "Phá",
+            "type": "",
+            "example": {
+                "en": "Draped in thick vegetation, Madera cradles a misty lagoon in its crater.",
+                "vi": "Có một phá mù sương trong miệng núi lửa này."
+            }
+        },
+        {
+            "content": "đầm phá",
+            "type": "",
+            "example": {
+                "en": "We've tried the whole lagoon.",
+                "vi": "Rồi cả bên đầm phá nữa."
+            }
+        }
+    ]
+}

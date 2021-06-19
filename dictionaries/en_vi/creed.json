@@ -1,0 +1,48 @@
+{
+    "word": "creed",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krēd/",
+            "/krid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tín ngưỡng",
+            "type": "noun",
+            "example": {
+                "en": "But my mother has lived by this creed all her life.",
+                "vi": "Nhưng mẹ tôi đã sống bằng tín ngưỡng này tất cả cuộc sống của cô."
+            }
+        },
+        {
+            "content": "tín điều",
+            "type": "",
+            "example": {
+                "en": "The new cathedrals are the grandiose casinos, and the new creed is that greed is good.",
+                "vi": "Những sòng bạc vĩ đại được xem là nhà thờ mới và tín điều mới tham lam là tốt."
+            }
+        },
+        {
+            "content": "đức tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bản tín điều",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

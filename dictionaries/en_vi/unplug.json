@@ -1,0 +1,46 @@
+{
+    "word": "unplug",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈpləɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈplʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháo nút ra",
+            "type": "",
+            "example": {
+                "en": "An error occurred with the network (e. g. the network cable was accidentally unplugged) for host %",
+                "vi": "Gặp lỗi mạng (v. d. cáp mạng bị tháo nút ra) cho máy %"
+            }
+        },
+        {
+            "content": "rút",
+            "type": "",
+            "example": {
+                "en": "Go to the fuses, and unplug the top right one.",
+                "vi": "Tìm chỗ cầu chì, rồi rút cái trên cùng bên phải."
+            }
+        },
+        {
+            "content": "tháo phích cắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút/tháo phích cắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

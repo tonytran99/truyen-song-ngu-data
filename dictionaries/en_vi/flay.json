@@ -1,0 +1,55 @@
+{
+    "word": "flay",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flā/",
+            "/fleɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fleɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "róc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tước",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "lột da",
+            "type": "",
+            "example": {
+                "en": "I flayed him living along with his wife and brother.",
+                "vi": "Con lột da sống hắn ta, cùng với vợ và em trai hắn."
+            }
+        },
+        {
+            "content": "mẳng mỏ thậm tệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phê bình nghiêm khắc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

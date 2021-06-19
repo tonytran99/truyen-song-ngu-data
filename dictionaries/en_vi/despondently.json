@@ -1,0 +1,42 @@
+{
+    "word": "despondently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspänd(ə)ntlē/",
+            "/dəˈspɑnd(ə)ntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɒnd(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chán nản",
+            "type": "",
+            "example": {
+                "en": "It didn't mention suicide specifically, but it was someone who was despondent.",
+                "vi": "Nhưng nó không đề cập chính xác tới việc tự tử, nhưng người đó đang rất chán nản."
+            }
+        },
+        {
+            "content": "nản lòng",
+            "type": "",
+            "example": {
+                "en": "In some cases, aging causes despondency, even depression.",
+                "vi": "Trong một số trường hợp, tuổi già có thể gây ra nản lòng, thậm chí trầm cảm."
+            }
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {}
+        }
+    ]
+}

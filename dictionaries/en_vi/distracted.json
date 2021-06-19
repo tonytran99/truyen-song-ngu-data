@@ -1,0 +1,62 @@
+{
+    "word": "distracted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstraktəd/",
+            "/dəˈstræktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstraktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mất trí",
+            "type": "",
+            "example": {
+                "en": "Well, I got a little distracted, didn't I?",
+                "vi": "Chắc bố hơi bị mất trí rồi nhỉ?"
+            }
+        },
+        {
+            "content": "quẫn trí",
+            "type": "",
+            "example": {
+                "en": "People are so distracted these days, they don't know who they are.",
+                "vi": "Một ngày nào đó người ta đó người ta quẫn trí không biết họ là ai"
+            }
+        },
+        {
+            "content": "điên cuồng",
+            "type": "",
+            "example": {
+                "en": "And you, you were right there, through all that distraction.",
+                "vi": "Cậu cũng đã ở đó, trải qua sự điên cuồng đó."
+            }
+        },
+        {
+            "content": "bị sao lãng",
+            "type": "",
+            "example": {
+                "en": "Tom is easily distracted.",
+                "vi": "Tom dễ bị sao lãng."
+            }
+        },
+        {
+            "content": "phân tâm",
+            "type": "adjective",
+            "example": {
+                "en": "He gets distracted when he puffs on his inhaler.",
+                "vi": "Hắn sẽ phân tâm khi hắn xịt ống thuốc."
+            }
+        }
+    ]
+}

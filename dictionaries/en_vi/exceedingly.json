@@ -1,0 +1,48 @@
+{
+    "word": "exceedingly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsēdiNGlē/",
+            "/ɪkˈsidɪŋli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsiːdɪŋli/",
+            "/ɛkˈsiːdɪŋli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tối",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "最",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá chừng",
+            "type": "adverb",
+            "example": {
+                "en": "You, on the other hand, are proving exceedingly stupid.",
+                "vi": "đang chứng minh mình ngu ngốc quá chừng."
+            }
+        },
+        {
+            "content": "cực kỳ",
+            "type": "adverb",
+            "example": {
+                "en": "While that feature works exceedingly well , it 's no Siri .",
+                "vi": "Trong khi tính năng đó làm việc cực kỳ tốt , nó lại không có Siri ."
+            }
+        }
+    ]
+}

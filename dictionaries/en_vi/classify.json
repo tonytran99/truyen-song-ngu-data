@@ -1,0 +1,49 @@
+{
+    "word": "classify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasəˌfī/",
+            "/ˈklæsəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân loại",
+            "type": "verb",
+            "example": {
+                "en": "These here are five different organizations that classify carcinogens.",
+                "vi": "Có năm tổ chức khác nhau phân loại các chất gây ung thư."
+            }
+        },
+        {
+            "content": "phân hạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân cấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân lớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liệt",
+            "type": "adjective verb",
+            "example": {}
+        }
+    ]
+}

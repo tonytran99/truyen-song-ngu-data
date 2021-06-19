@@ -1,0 +1,57 @@
+{
+    "word": "commanding",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmandiNG/",
+            "/kəˈmændɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɑːndɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cao",
+            "type": "adjective",
+            "example": {
+                "en": "All I know is that order had to come from pretty high up in the chain of command.",
+                "vi": "Chú chỉ biết hắn nhận lệnh từ một sĩ quan rất cao cấp."
+            }
+        },
+        {
+            "content": "oai vệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ huy",
+            "type": "",
+            "example": {
+                "en": "I command this ship, but you command me.",
+                "vi": "Tôi chỉ huy chiếc tàu này, nhưng ông chỉ huy tôi."
+            }
+        },
+        {
+            "content": "uy nghi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều khiển",
+            "type": "",
+            "example": {
+                "en": "Then the pilot in command invited me to take the captain’s seat.",
+                "vi": "Sau đó, người phi công điều khiển mời tôi ngồi vào ghế của phi công trưởng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "valiant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalyənt/",
+            "/ˈvæljənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dũng cảm",
+            "type": "adjective",
+            "example": {
+                "en": "Take hold of your life and order yourself to be valiant.",
+                "vi": "Hãy kiểm soát cuộc sống của mình và tự ra lệnh cho mình phải dũng cảm."
+            }
+        },
+        {
+            "content": "anh dũng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "anh hùng",
+            "type": "adjective",
+            "example": {
+                "en": "More than a valiant last stand, we need a strategy.",
+                "vi": "Nhiều hơn một người anh hùng cuối cùng còn đứng."
+            }
+        },
+        {
+            "content": "can đảm",
+            "type": "adjective",
+            "example": {
+                "en": "We may think of a courageous person as one who is strong, valiant, even bold.",
+                "vi": "Có thể chúng ta nghĩ người can đảm là người mạnh mẽ, gan dạ, thậm chí dạn dĩ."
+            }
+        },
+        {
+            "content": "gan dạ",
+            "type": "adjective",
+            "example": {
+                "en": "We may think of a courageous person as one who is strong, valiant, even bold.",
+                "vi": "Có thể chúng ta nghĩ người can đảm là người mạnh mẽ, gan dạ, thậm chí dạn dĩ."
+            }
+        },
+        {
+            "content": "kiêu hùng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

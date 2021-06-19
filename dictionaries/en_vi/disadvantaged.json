@@ -1,0 +1,48 @@
+{
+    "word": "disadvantaged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisədˈvan(t)ijd/",
+            "/ˌdɪsədˈvæn(t)ɪdʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsədˈvɑːntɪdʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chịu thiệt thòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người chịu thua thiệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiệt thòi",
+            "type": "",
+            "example": {
+                "en": "Would that not have been to your disadvantage?",
+                "vi": "Làm thế không thiệt thòi cho bạn sao?"
+            }
+        },
+        {
+            "content": "thua thiệt",
+            "type": "",
+            "example": {
+                "en": "Many today believe that honest people are at a disadvantage.",
+                "vi": "Ngày nay, nhiều người cho rằng sống trung thực sẽ bị thua thiệt."
+            }
+        }
+    ]
+}

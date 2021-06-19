@@ -1,0 +1,65 @@
+{
+    "word": "wallop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäləp/",
+            "/ˈwɑləp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒləp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái quất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái vụt mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quất mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu bia",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trận đòn đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụt đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "You pack a mean wallop, by the way.",
+                "vi": "Dù sao thì cô đánh tôi đau đấy."
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "epidemic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌepəˈdemik/",
+            "/ˌɛpəˈdɛmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛpɪˈdɛmɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh dịch",
+            "type": "",
+            "example": {
+                "en": "Many stayed for months, even through the cholera epidemic.",
+                "vi": "Nhiều người đã ở lại hàng tháng, thậm chí trải qua bệnh dịch tả."
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb noun",
+            "example": {
+                "en": "The organization monitoring the development of animal epidemics.",
+                "vi": "Tổ chức theo dõi sự phát triển dịch bệnh của động vật."
+            }
+        },
+        {
+            "content": "bịnh dịch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dịch tễ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ôn dịch",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "Dịch bệnh",
+            "type": "",
+            "example": {
+                "en": "The epidemic in the friends group has shifted to the left, over here.",
+                "vi": "Dịch bệnh trong nhóm bạn đã dịch sang trái, tới đây."
+            }
+        },
+        {
+            "content": "dịch bệnh",
+            "type": "",
+            "example": {
+                "en": "The organization monitoring the development of animal epidemics.",
+                "vi": "Tổ chức theo dõi sự phát triển dịch bệnh của động vật."
+            }
+        }
+    ]
+}

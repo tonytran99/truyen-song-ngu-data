@@ -1,0 +1,68 @@
+{
+    "word": "determinative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtərməˌnādiv/",
+            "/dəˈtərməˌneɪdɪv/",
+            "/dəˈtərmənədiv/",
+            "/dəˈtərmənədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtəːmɪnətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái quyết định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái định lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "And the choices we make about this will determine our future.",
+                "vi": "Và quyết định của chúng ta sẽ quyết định tương lai của chính chúng ta."
+            }
+        },
+        {
+            "content": "từ hạn định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác định",
+            "type": "adjective verb",
+            "example": {
+                "en": "This also makes his age impossible to determine.",
+                "vi": "Nó cũng làm cho không thể xác định được tuổi của anh ta."
+            }
+        },
+        {
+            "content": "định rõ",
+            "type": "",
+            "example": {
+                "en": "My task was to determine what was true.",
+                "vi": "Nhiệm vụ của tôi là phải định rõ sự thật là gì."
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "infirm",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfərm/",
+            "/ɪnˈfərm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfəːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ốm yếu",
+            "type": "",
+            "example": {
+                "en": "Are arrangements complete to help older and infirm brothers and sisters?",
+                "vi": "Có sự sắp đặt trọn vẹn để giúp các anh chị lớn tuổi và ốm yếu không?"
+            }
+        },
+        {
+            "content": "hom hem",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không cương quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kiên định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhu nhược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yếu đuối",
+            "type": "adjective",
+            "example": {
+                "en": "We too are humans having the same infirmities as you have.",
+                "vi": "Chúng tôi cũng là người phàm có những yếu đuối như anh em."
+            }
+        },
+        {
+            "content": "yếu ớt",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

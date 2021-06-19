@@ -1,0 +1,61 @@
+{
+    "word": "comic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämik/",
+            "/ˈkɑmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hài hước",
+            "type": "adjective",
+            "example": {
+                "en": "Well right now, as you can see, the results can be somewhat comical.",
+                "vi": "Ngay lúc này, các bạn thấy đấy, kết quả có thể còn hơi hài hước."
+            }
+        },
+        {
+            "content": "khôi hài",
+            "type": "adjective",
+            "example": {
+                "en": "I mean, some of the things you say are just comical.",
+                "vi": "Ý tôi là, một số điều cậu nói rất khôi hài."
+            }
+        },
+        {
+            "content": "báo tranh chuyện vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diễn viên kịch vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kịch vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyện tranh",
+            "type": "",
+            "example": {
+                "en": "I got a ton of graphic novels and comics.",
+                "vi": "Tôi nhận được cả đống tiểu thuyết và truyện tranh."
+            }
+        }
+    ]
+}

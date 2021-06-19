@@ -1,0 +1,39 @@
+{
+    "word": "falling",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôliNG/",
+            "/ˈfɔlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giảm",
+            "type": "verb",
+            "example": {
+                "en": "And the domestic market is slow , with the price of goods falling .",
+                "vi": "Và thị trường trong nước hoạt động chậm chạp , giá hàng hoá đang sụt giảm ."
+            }
+        },
+        {
+            "content": "huyền",
+            "type": "noun",
+            "example": {
+                "en": "As recorded in the book of Revelation, the apostle John foresaw her fall.",
+                "vi": "Như được ghi trong sách Khải-huyền, sứ đồ Giăng nhìn thấy trước sự sụp đổ của y thị."
+            }
+        }
+    ]
+}

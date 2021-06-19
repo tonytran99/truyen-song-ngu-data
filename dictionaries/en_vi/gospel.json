@@ -1,0 +1,63 @@
+{
+    "word": "gospel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡäspəl/",
+            "/ˈɡɑspəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒsp(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phúc âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sách phúc âm",
+            "type": "",
+            "example": {
+                "en": "The Gospels do not give us an answer.",
+                "vi": "Các sách Phúc Âm không nói gì về điều này."
+            }
+        },
+        {
+            "content": "cẩm nang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên tắc chỉ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách Phúc âm",
+            "type": "",
+            "example": {
+                "en": "The Gospels reveal that Simon Peter had partners in his fishing business.",
+                "vi": "Các sách Phúc âm cho biết rằng Si-môn Phi-e-rơ có bạn cùng làm nghề chài lưới."
+            }
+        },
+        {
+            "content": "điều tin tưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phúc âm thư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

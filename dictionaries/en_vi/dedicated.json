@@ -1,0 +1,54 @@
+{
+    "word": "dedicated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdedəˌkādəd/",
+            "/ˈdɛdəˌkeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛdɪkeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dành cho",
+            "type": "adjective",
+            "example": {
+                "en": "One out of every fifty of your genes is dedicated to it.",
+                "vi": "Cứ trong năm mươi gen của bạn lại có một gen được dành cho giác quan này."
+            }
+        },
+        {
+            "content": "dành riêng",
+            "type": "adjective",
+            "example": {
+                "en": "One meaning of the word consecrate is to dedicate or make holy.",
+                "vi": "Một ý nghĩa của từ biệt riêng là dành riêng cho hoặc làm cho thánh thiện."
+            }
+        },
+        {
+            "content": "tận tâm",
+            "type": "",
+            "example": {
+                "en": "I walked away from that experience with renewed dedication.",
+                "vi": "Sau kinh nghiệm đó, tôi có một lòng tận tâm mới."
+            }
+        },
+        {
+            "content": "tận tụy",
+            "type": "",
+            "example": {
+                "en": "They serve most effectively, and they are completely dedicated to the work.",
+                "vi": "Họ phục vụ hữu hiệu nhất và họ hoàn toàn tận tụy với công việc."
+            }
+        }
+    ]
+}

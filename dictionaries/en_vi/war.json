@@ -1,0 +1,125 @@
+{
+    "word": "war",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wôr/",
+            "/wɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến tranh",
+            "type": "noun",
+            "example": {
+                "en": "If you wish for peace, prepare for war.",
+                "vi": "Nếu bạn muốn hòa bình, hãy chuẩn bị cho chiến tranh."
+            }
+        },
+        {
+            "content": "chiến",
+            "type": "noun",
+            "example": {
+                "en": "If you wish for peace, prepare for war.",
+                "vi": "Nếu bạn muốn hòa bình, hãy chuẩn bị cho chiến tranh."
+            }
+        },
+        {
+            "content": "cuộc chiến",
+            "type": "noun",
+            "example": {
+                "en": "One million people lost their lives in the war.",
+                "vi": "Một triệu người đã ngã xuống trong cuộc chiến đó."
+            }
+        },
+        {
+            "content": "đấu tranh",
+            "type": "",
+            "example": {
+                "en": "The ancient and the modern are at war for the soul of Japan.",
+                "vi": "Bọn người xưa cổ và hiện đại đang đấu tranh giành lấy linh hồn của Nhật bản."
+            }
+        },
+        {
+            "content": "can qua",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {
+                "en": "The war against my sister has already begun.",
+                "vi": "Cuộc chiến chống lại chị tôi đã bắt đầu."
+            }
+        },
+        {
+            "content": "giặc giã",
+            "type": "noun",
+            "example": {
+                "en": "“From now on,” Hanani said, “there will be wars against you.”",
+                "vi": "Ha-na-ni nói: “Từ rày về sau vua sẽ có giặc-giã”."
+            }
+        },
+        {
+            "content": "gây chiến",
+            "type": "",
+            "example": {
+                "en": "The bomb is an act of war and wars result in civilian casualties.",
+                "vi": "Quả bom sẽ gây chiến tranh và rồi cũng sẽ có người chết."
+            }
+        },
+        {
+            "content": "lửa binh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lửa đạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mâu thuẫn",
+            "type": "noun",
+            "example": {
+                "en": "It seemed to me that his internal essence was at war with the norms of the world .",
+                "vi": "Tôi cho rằng nội tâm của anh ấy mâu thuẫn với các chuẩn mực của thế giới ."
+            }
+        },
+        {
+            "content": "xung đột",
+            "type": "verb",
+            "example": {
+                "en": "In Paradise, people will not fight or go to war anymore.",
+                "vi": "Trong địa đàng, người ta sẽ không xung đột với nhau hoặc không tham gia chiến tranh nữa."
+            }
+        },
+        {
+            "content": "đánh nhau",
+            "type": "",
+            "example": {
+                "en": "Who would believe there's a war going on.",
+                "vi": "Ai có thể tin là bên ngoài đang đánh nhau chứ."
+            }
+        },
+        {
+            "content": "đối chọi",
+            "type": "",
+            "example": {
+                "en": "We've been at war since before either of us even existed.",
+                "vi": "Chúng ta đã đối chọi ngay từ khi hai ta chưa tồn tại."
+            }
+        }
+    ]
+}

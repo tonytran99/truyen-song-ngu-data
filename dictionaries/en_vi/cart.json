@@ -1,0 +1,69 @@
+{
+    "word": "cart",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kärt/",
+            "/kɑrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe ngựa",
+            "type": "",
+            "example": {
+                "en": "Teacher, who will drive your cart if I am not around?",
+                "vi": "Phu tử, không có con ai sẽ kéo xe ngựa?"
+            }
+        },
+        {
+            "content": "xe bò",
+            "type": "",
+            "example": {
+                "en": "I found an unattended maid's cart.",
+                "vi": "Tớ tìm được 1 cái xe bò vô chủ."
+            }
+        },
+        {
+            "content": "xe",
+            "type": "noun",
+            "example": {
+                "en": "You three are to come with us on that cart, please.",
+                "vi": "Mời ba anh đi với chúng tôi trên chiếc xe kia."
+            }
+        },
+        {
+            "content": "chở bằng xe bò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chở bằng xe ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mang",
+            "type": "verb noun",
+            "example": {
+                "en": "All those boxes Gunnar carted down here - which are where?",
+                "vi": "Những hộp Gunnar mang xuống đây đâu rồi?"
+            }
+        },
+        {
+            "content": "xe cút kít",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

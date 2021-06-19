@@ -1,0 +1,44 @@
+{
+    "word": "inhaler",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhālər/",
+            "/ɪnˈheɪlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈheɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái để xông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "máy hô hấp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người hít vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống hít",
+            "type": "",
+            "example": {
+                "en": "Zach, where's your inhaler?",
+                "vi": "Zach, ống hít của cháu đâu rồi?"
+            }
+        }
+    ]
+}

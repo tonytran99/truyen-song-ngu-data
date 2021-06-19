@@ -1,0 +1,42 @@
+{
+    "word": "drunkenness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrəNGkənˌnəs/",
+            "/ˈdrəŋkənˌnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌŋk(ə)nˌnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự say rượu",
+            "type": "noun",
+            "example": {
+                "en": "It warns against the bad results of drunkenness, sexual immorality and physical uncleanness.",
+                "vi": "Kinh-thánh cảnh cáo về các hậu quả của sự say rượu, sự tà dâm và sự dơ bẩn của thân thể."
+            }
+        },
+        {
+            "content": "chứng nghiện rượu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Say rượu",
+            "type": "",
+            "example": {
+                "en": "He used to play this drunken character in the movies.",
+                "vi": "Anh ta thường diễn vai say rượu trong các bộ phim."
+            }
+        }
+    ]
+}

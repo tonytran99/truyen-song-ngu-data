@@ -1,0 +1,68 @@
+{
+    "word": "collateral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈladərəl/",
+            "/kəˈlædərəl/",
+            "/kəˈlatrəl/",
+            "/kəˈlætrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlat(ə)r(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phụ thêm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ở bên",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bên",
+            "type": "noun adposition",
+            "example": {
+                "en": "that's written as \"collateral damage.\"",
+                "vi": "thì việc này sẽ được coi là \"sự thiệt hại bên lề\"."
+            }
+        },
+        {
+            "content": "tài sản thế chấp",
+            "type": "",
+            "example": {
+                "en": "She for sure is going to be collateral damage.",
+                "vi": "Cô ta chắc chắn sẽ có được tiền đền bù tài sản thế chấp."
+            }
+        },
+        {
+            "content": "vật bảo lãnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vật thế chấp",
+            "type": "noun",
+            "example": {
+                "en": "But I have this as collateral.",
+                "vi": "Nhưng tôi có thứ này làm vật thế chấp."
+            }
+        },
+        {
+            "content": "đồ ký quỹ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

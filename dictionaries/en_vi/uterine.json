@@ -1,0 +1,40 @@
+{
+    "word": "uterine",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞odəˌrīn/",
+            "/ˈjudəˌraɪn/",
+            "/ˈyo͞odərən/",
+            "/ˈjudərən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːtərɪn/",
+            "/ˈjuːtərʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác cha",
+            "type": "",
+            "example": {
+                "en": "Lionel has a uterine brother.",
+                "vi": "Lionel có một người em khác cha."
+            }
+        },
+        {
+            "content": "tử cung",
+            "type": "",
+            "example": {
+                "en": "She did have a uterine myoma removed eight months ago.",
+                "vi": "Đúng là cô ấy có mổ u xơ tử cung tám tháng trước."
+            }
+        }
+    ]
+}

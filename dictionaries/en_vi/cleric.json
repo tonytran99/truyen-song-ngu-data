@@ -1,0 +1,53 @@
+{
+    "word": "cleric",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklerik/",
+            "/ˈklɛrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɛrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo sĩ",
+            "type": "",
+            "example": {
+                "en": "The exiled cleric, Ayatollah Khomeini, returned to rule Iran.",
+                "vi": "giáo sĩ lưu vong Ayatollah Khomeini trở về để nắm quyền."
+            }
+        },
+        {
+            "content": "mục sư",
+            "type": "",
+            "example": {
+                "en": "Of the 200 clerics interviewed, only 34 percent could cite all Ten Commandments.",
+                "vi": "Trong 200 mục sư được phỏng vấn chỉ 34 phần trăm có thể kể hết Mười Điều Răn."
+            }
+        },
+        {
+            "content": "tu sĩ",
+            "type": "",
+            "example": {
+                "en": "The clerics tell us these relics are still connected to her spirit.",
+                "vi": "Ngài tu sĩ bảo những di vật này vẫn còn kết nối với linh hồn của bà."
+            }
+        },
+        {
+            "content": "linh mục",
+            "type": "noun",
+            "example": {
+                "en": "Black for the cleric, but for the soldier, a prancing bull in yellow.",
+                "vi": "Màu đen cho linh mục, nhưng cho các chiến binh, phải là con bò nghênh ngang màu vàng."
+            }
+        }
+    ]
+}

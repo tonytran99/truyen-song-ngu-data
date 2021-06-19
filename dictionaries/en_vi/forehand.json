@@ -1,0 +1,41 @@
+{
+    "word": "forehand",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌhand/",
+            "/ˈfɔrˌhænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːhand/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cú tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nửa mình trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuận tay",
+            "type": "",
+            "example": {
+                "en": "A poor Nadal forehand putting Djokovic 3-1 ahead in set three .",
+                "vi": "Cú thuận tay không tốt của Nadal đã giúp Djokovic dẫn trước 3-1 trong séc 3 ."
+            }
+        }
+    ]
+}

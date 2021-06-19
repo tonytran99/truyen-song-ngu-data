@@ -1,0 +1,72 @@
+{
+    "word": "commercial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmərSHəl/",
+            "/kəˈmərʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈməːʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thương mại",
+            "type": "adjective",
+            "example": {
+                "en": "This bill will guarantee the commercial destruction of white people everywhere!",
+                "vi": "Dự luật này đảm bảo sẽ huỷ diệt nền thương mại của người da trắng ở mọi nơi!"
+            }
+        },
+        {
+            "content": "giới thiệu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người chào hàng",
+            "type": "",
+            "example": {
+                "en": "Did you see the new commercial?",
+                "vi": "Bạn có thấy người chào hàng mới"
+            }
+        },
+        {
+            "content": "quảng cáo",
+            "type": "noun",
+            "example": {
+                "en": "If I say it's a beer commercial, it's a bloody beer commercial.",
+                "vi": "Tôi đã bảo là quảng cáo bia thì nó chính là quảng cáo bia."
+            }
+        },
+        {
+            "content": "thương nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Come on, Wilco is a beacon of anti-commercialism.",
+                "vi": "Thôi nào, Wilco là cảm hứng cho thuyết chống thương nghiệp."
+            }
+        },
+        {
+            "content": "có tính thương mại",
+            "type": "noun",
+            "example": {
+                "en": "How about something a little more commercial, for God's sakes?",
+                "vi": "Tại sao không phải thứ gì có tính thương mại hơn, lạy Chúa?"
+            }
+        },
+        {
+            "content": "đánh dấu trọng âm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

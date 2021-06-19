@@ -1,0 +1,43 @@
+{
+    "word": "alibi",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaləˌbī/",
+            "/ˈæləˌbaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalɪbʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng chứng ngoại phạm",
+            "type": "noun",
+            "example": {
+                "en": "The guard recognized her, she has an alibi.",
+                "vi": "Usher đã đảm bảo bằng chứng ngoại phạm."
+            }
+        },
+        {
+            "content": "chứng cớ ngoại phạm",
+            "type": "noun",
+            "example": {
+                "en": "Well, I want to follow up on the scholarship, the alibi.",
+                "vi": "Tôi muốn truy vụ học bổng, chứng cớ ngoại phạm."
+            }
+        },
+        {
+            "content": "cớ để cáo lỗi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

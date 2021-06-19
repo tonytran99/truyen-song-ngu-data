@@ -1,0 +1,42 @@
+{
+    "word": "vandalism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvandlˌizəm/",
+            "/ˈvændlˌɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvand(ə)lɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phá hoại",
+            "type": "noun",
+            "example": {
+                "en": "I didn't raise him to be a vandal.",
+                "vi": "Tôi không dạy nó làm kẻ phá hoại."
+            }
+        },
+        {
+            "content": "Chủ nghĩa Vandal",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phá hoại",
+            "type": "noun",
+            "example": {
+                "en": "And graffiti is just one kind of vandalism.",
+                "vi": "Vẽ hoặc viết bậy nơi công cộng chỉ là một hình thức của sự phá hoại."
+            }
+        }
+    ]
+}

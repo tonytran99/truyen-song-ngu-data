@@ -1,0 +1,80 @@
+{
+    "word": "apricot",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaprəˌkät/",
+            "/ˈæprəˌkɑt/",
+            "/ˈāprəˌkät/",
+            "/ˈeɪprəˌkɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪprɪkɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quả mơ",
+            "type": "noun",
+            "example": {
+                "en": "A shoe made of apricot leather for the daughter of a czar.",
+                "vi": "Một chiếc giày làm bằng da khô của quả mơ cho con gái của Nga Hoàng."
+            }
+        },
+        {
+            "content": "cây mơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mơ",
+            "type": "verb noun",
+            "example": {
+                "en": "She looked like a rotting apricot.",
+                "vi": "Con bé nhìn như quả mơ thối vậy."
+            }
+        },
+        {
+            "content": "lê",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "màu mơ chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mở",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trái",
+            "type": "adposition adjective noun adverb",
+            "example": {}
+        },
+        {
+            "content": "mơ châu âu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mơ tây",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

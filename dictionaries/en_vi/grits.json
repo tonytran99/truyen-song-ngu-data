@@ -1,0 +1,50 @@
+{
+    "word": "grits",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrits/",
+            "/ɡrɪts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrɪts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bột yến mạch thô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu ken két",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu sào sạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghiến",
+            "type": "verb",
+            "example": {
+                "en": "Look, we've just gotta grit our teeth and do it.",
+                "vi": "tụi mình sẽ phải nghiến răng và làm thôi."
+            }
+        },
+        {
+            "content": "yến mạch lứt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

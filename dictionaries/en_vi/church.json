@@ -1,0 +1,79 @@
+{
+    "word": "church",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHərCH/",
+            "/tʃərtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃəːtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà thờ",
+            "type": "noun",
+            "example": {
+                "en": "There are as many museums as there are churches.",
+                "vi": "Số lượng bảo tàng và nhà thờ bằng nhau."
+            }
+        },
+        {
+            "content": "giáo hội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Church giáo hội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buổi lễ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giáo phái",
+            "type": "",
+            "example": {
+                "en": "Eventually, Christendom’s churches splintered into numerous sects, most of which tolerate nationalism.",
+                "vi": "Cuối cùng, các giáo hội chia thành nhiều giáo phái, hầu hết đều chấp nhận chủ nghĩa quốc gia."
+            }
+        },
+        {
+            "content": "giáo đường",
+            "type": "noun",
+            "example": {
+                "en": "in the synagogues and the churches and in the mosques.",
+                "vi": "trong giáo đường do thái, nhà thờ, giáo đường hồi giáo."
+            }
+        },
+        {
+            "content": "nhà",
+            "type": "noun Prefix",
+            "example": {
+                "en": "There are as many museums as there are churches.",
+                "vi": "Số lượng bảo tàng và nhà thờ bằng nhau."
+            }
+        },
+        {
+            "content": "Hội thánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà thờ Kitô giáo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

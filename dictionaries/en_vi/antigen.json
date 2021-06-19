@@ -1,0 +1,37 @@
+{
+    "word": "antigen",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)əjən/",
+            "/ˈæn(t)ədʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪdʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kháng nguyên",
+            "type": "noun",
+            "example": {
+                "en": "Every time I try to reverse the antigen, the cellular walls don't hold.",
+                "vi": "Mỗi lần tớ thử đảo ngược kháng nguyên, thành tế bào đều vỡ"
+            }
+        },
+        {
+            "content": "Kháng nguyên",
+            "type": "",
+            "example": {
+                "en": "Every time I try to reverse the antigen, the cellular walls don't hold.",
+                "vi": "Mỗi lần tớ thử đảo ngược kháng nguyên, thành tế bào đều vỡ"
+            }
+        }
+    ]
+}

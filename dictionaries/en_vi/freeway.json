@@ -1,0 +1,47 @@
+{
+    "word": "freeway",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrēˌwā/",
+            "/ˈfriˌweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfriːweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường trục ô tô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường ô tô chính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xa lộ",
+            "type": "noun",
+            "example": {
+                "en": "What freeway are we supposed to be on?",
+                "vi": "Chúng ta đang đi trên xa lộ nào đây?"
+            }
+        },
+        {
+            "content": "đường cao tốc",
+            "type": "",
+            "example": {
+                "en": "I've never been in a freeway chase before!",
+                "vi": "Tớ có từng rượt đuổi trên đường cao tốc đâu."
+            }
+        }
+    ]
+}

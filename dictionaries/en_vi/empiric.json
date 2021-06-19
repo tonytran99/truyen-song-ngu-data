@@ -1,0 +1,46 @@
+{
+    "word": "empiric",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈpirik/",
+            "/əmˈpɪrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛmˈpɪrɪk/",
+            "/ɪmˈpɪrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lang băm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo kinh nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo lối kinh nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thực nghiệm",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "looks like she was compiling empirical data about homicide trends in cleveland.",
+                "vi": "Hình như cô ấy đang soạn dữ liệu thực nghiệm về xu hướng giết người ở Cleveland."
+            }
+        }
+    ]
+}

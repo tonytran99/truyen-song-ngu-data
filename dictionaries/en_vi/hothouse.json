@@ -1,0 +1,40 @@
+{
+    "word": "hothouse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhätˌhous/",
+            "/ˈhɑtˌhaʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒthaʊs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà kính",
+            "type": "",
+            "example": {
+                "en": "Even though these hothouses are now irrigated drop by drop, water consumption continues to increase along with exports.",
+                "vi": "Mặc cho tình trạng tưới tiêu nhỏ giọt trong các nhà kính này, nhu cầu nước vẫn tăng nhanh cùng với hàng xuất khẩu."
+            }
+        },
+        {
+            "content": "phòng sấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trồng ở nhà kính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

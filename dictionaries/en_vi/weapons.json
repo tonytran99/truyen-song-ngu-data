@@ -1,0 +1,39 @@
+{
+    "word": "weapons",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "binh khí",
+            "type": "noun",
+            "example": {
+                "en": "It can detect the crack in a weapon.",
+                "vi": "Nó có thể kiểm tra được vết rạn nứt của các binh khí khác."
+            }
+        },
+        {
+            "content": "kiếm cung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vũ khí",
+            "type": "noun plural",
+            "example": {
+                "en": "Do they have weapons?",
+                "vi": "Họ có vũ khí không?"
+            }
+        },
+        {
+            "content": "đao kiếm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

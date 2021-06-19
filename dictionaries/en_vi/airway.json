@@ -1,0 +1,37 @@
+{
+    "word": "airway",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerwā/",
+            "/ˈɛrweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường hàng không",
+            "type": "noun",
+            "example": {
+                "en": "As soon as the airways are clear, this thing's going up.",
+                "vi": "Ngay khi đường hàng không trống, thứ này sẽ đi lên."
+            }
+        },
+        {
+            "content": "đường thở",
+            "type": "",
+            "example": {
+                "en": "There's only one way to find out if her airway failed.",
+                "vi": "Chỉ có một cách để biết được đường thở của cô ta có sao không."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "vowel",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvou(ə)l/",
+            "/ˈvaʊ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên âm",
+            "type": "noun",
+            "example": {
+                "en": "They stay still, and the vowels dance around the consonants.",
+                "vi": "Chúng ngồi yên, và các nguyên âm nhảy múa xung quanh các phụ âm."
+            }
+        },
+        {
+            "content": "mẫu âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm nguyên âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nguyên âm",
+            "type": "",
+            "example": {
+                "en": "With a gun barrel between your teeth, you speak only in vowels.",
+                "vi": "Bị súng chĩa vào mồm, thì bạn chỉ phát ra được các nguyên âm thôi."
+            }
+        }
+    ]
+}

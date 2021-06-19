@@ -1,0 +1,372 @@
+{
+    "word": "foul",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/foul/",
+            "/faʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {
+                "en": "Yesterday you seemed certain it was foul play.",
+                "vi": "Hôm qua ông còn chắc chắn đó là chơi xấu mà."
+            }
+        },
+        {
+            "content": "gian lận",
+            "type": "",
+            "example": {
+                "en": "With my acceptance of your foul election.",
+                "vi": "với sự đồng ý của tôi trong cuộc bầu cử gian lận của ông."
+            }
+        },
+        {
+            "content": "hôi hám",
+            "type": "adjective",
+            "example": {
+                "en": "Marine scientists believe that this foul-smelling wrapping protects them from predators.",
+                "vi": "Các nhà khoa học biển cho rằng nhờ lớp bao phủ hôi hám ấy mà chúng không bị động vật săn mồi tấn công."
+            }
+        },
+        {
+            "content": "hôi thối",
+            "type": "",
+            "example": {
+                "en": "After floodwaters recede, everything is coated with a foul-smelling thick mud.",
+                "vi": "Sau khi nước rút, mọi thứ đều bị bao bọc bởi một lớp bùn dày hôi thối."
+            }
+        },
+        {
+            "content": "trái luật",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hôi",
+            "type": "",
+            "example": {
+                "en": "The SS saw to it that the food we got was foul and almost inedible.",
+                "vi": "Lính SS chỉ cho chúng tôi ăn những đồ hôi thối và hầu như không ăn được."
+            }
+        },
+        {
+            "content": "rối",
+            "type": "",
+            "example": {
+                "en": "This operation has been a foul-up and it's yourfault.",
+                "vi": "Cái chiến dịch này đã rối beng và đó là lỗi của ông."
+            }
+        },
+        {
+            "content": "tởm",
+            "type": "",
+            "example": {
+                "en": "Liquor is the most foul and evil thing in this here world.",
+                "vi": "Rượu chè là thứ xấu xa, kinh tởm nhất trên cõi đời này!"
+            }
+        },
+        {
+            "content": "gớm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tồi",
+            "type": "adjective",
+            "example": {
+                "en": "Shun it as you would a foul disease, for it is just as deadly.",
+                "vi": "Hãy tránh nó như các anh chị em tránh một căn bệnh tồi tệ, vì nó rất tai hại chết người."
+            }
+        },
+        {
+            "content": "xấu xa",
+            "type": "adjective",
+            "example": {
+                "en": "But foul thoughts lead to terrorist acts like this!",
+                "vi": "Chính những ý nghĩ xấu xa của hắn đã dẫn đến hành động khủng bố hiện tại!"
+            }
+        },
+        {
+            "content": "ươn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bẩn thỉu",
+            "type": "adjective",
+            "example": {
+                "en": "You foul, loathsome, evil little cockroach!",
+                "vi": "Mày nhầm rồi, đồ con gián nhỏ bẩn thỉu và xấu xa!"
+            }
+        },
+        {
+            "content": "bị rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị tắc nghẽn",
+            "type": "",
+            "example": {
+                "en": "All railroads out of Frankfurt are fouled up.",
+                "vi": "Mọi đường sắt ra khỏi Frankfurt đều bị tắc nghẽn."
+            }
+        },
+        {
+            "content": "bị vướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chơi trái luật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chơi xấu",
+            "type": "",
+            "example": {
+                "en": "Yesterday you seemed certain it was foul play.",
+                "vi": "Hôm qua ông còn chắc chắn đó là chơi xấu mà."
+            }
+        },
+        {
+            "content": "chơi ăn gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cáu bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú chơi xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú ăn gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú đấm trái luật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gian trá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kinh tởm",
+            "type": "",
+            "example": {
+                "en": "Liquor is the most foul and evil thing in this here world.",
+                "vi": "Rượu chè là thứ xấu xa, kinh tởm nhất trên cõi đời này!"
+            }
+        },
+        {
+            "content": "làm dơ bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhơ nhuốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rối",
+            "type": "",
+            "example": {
+                "en": "Well, don't get fouled.",
+                "vi": "Tốt, đừng làm rối dây."
+            }
+        },
+        {
+            "content": "làm tắc nghẽn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều hà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều lỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều rêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiễm độc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự va",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô lỗ",
+            "type": "",
+            "example": {
+                "en": "He will be offended if you swear or use foul language.",
+                "vi": "Ngài sẽ phật lòng nếu các em chửi rủa hay dùng lời thô lỗ."
+            }
+        },
+        {
+            "content": "thô tục",
+            "type": "",
+            "example": {
+                "en": "They noted that my foul language and aggressive personality had disappeared.",
+                "vi": "Họ để ý thấy lời nói thô tục và tính cách hung hăng của tôi đã không còn."
+            }
+        },
+        {
+            "content": "trở nên bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trở nên hôi thối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắc nghẽn",
+            "type": "",
+            "example": {
+                "en": "All railroads out of Frankfurt are fouled up.",
+                "vi": "Mọi đường sắt ra khỏi Frankfurt đều bị tắc nghẽn."
+            }
+        },
+        {
+            "content": "tục tĩu",
+            "type": "adjective",
+            "example": {
+                "en": "Stay away from conversation that is sprinkled with foul and filthy words.",
+                "vi": "Hãy tránh xa cuộc chuyện trò đệm bằng những lời thô bỉ và tục tĩu."
+            }
+        },
+        {
+            "content": "va chạm",
+            "type": "",
+            "example": {
+                "en": "No harm, no foul.",
+                "vi": "Không có hại, không va chạm gì."
+            }
+        },
+        {
+            "content": "va chạm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hôi thối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng ghét",
+            "type": "",
+            "example": {
+                "en": "Courtney, I think I've had enough of this foul party.",
+                "vi": "Courtney, ta nghĩ là ta chịu đựng bữa tiệc đáng ghét này đủ rồi."
+            }
+        },
+        {
+            "content": "đụng chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đụng chạm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ác",
+            "type": "adjective",
+            "example": {
+                "en": "If there was foul play, I promise you, we'll come forward.",
+                "vi": "Nếu có gì liên quan đến tội ác Bố hứa với con, ta sẽ công khai chuyện này."
+            }
+        },
+        {
+            "content": "dơ",
+            "type": "",
+            "example": {
+                "en": "properties — sliminess, bad smell, stickiness, decay, foulness —",
+                "vi": "của sự ghê tởm-sự dơ bẩn, hôi, sự nhầy nhụa, thối rữa, ghê sợ-"
+            }
+        },
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "At 2100, detainees on Charlie block complained of a foul-smelling odor coming from ventilation.",
+                "vi": "9 giờ tối, đối tượng ở khu Charlie phàn nàn máy thông gió có mùi khó chịu."
+            }
+        }
+    ]
+}

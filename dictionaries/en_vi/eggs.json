@@ -1,0 +1,25 @@
+{
+    "word": "eggs",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "trứng",
+            "type": "noun",
+            "example": {
+                "en": "It's so hot outside, you could fry an egg.",
+                "vi": "Nóng đến nỗi mà có thể luộc trứng trên nóc xe."
+            }
+        },
+        {
+            "content": "trứng gà",
+            "type": "noun",
+            "example": {
+                "en": "Chicken egg and this one's a penguin egg.",
+                "vi": "Trứng gà, và bên này là trứng chim cánh cụt."
+            }
+        }
+    ]
+}

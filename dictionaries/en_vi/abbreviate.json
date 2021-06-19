@@ -1,0 +1,56 @@
+{
+    "word": "abbreviate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbrēvēˌāt/",
+            "/əˈbriviˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbriːvɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rút gọn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tương đối ngắn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "viết tắt",
+            "type": "verb",
+            "example": {
+                "en": "All she could do was parrot a garbled abbreviation",
+                "vi": "Tất cả những gì cô ấy có thể làm là nhại lại một từ viết tắt rời rạc"
+            }
+        },
+        {
+            "content": "ước lược",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tóm tắt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "rút ngắn lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

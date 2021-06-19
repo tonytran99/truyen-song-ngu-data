@@ -1,0 +1,42 @@
+{
+    "word": "burp",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bərp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ợ",
+            "type": "",
+            "example": {
+                "en": "You can prevent this by burping your baby frequently .",
+                "vi": "Bạn có thể ngăn chặn điều này bằng cách vỗ cho bé ợ thường xuyên ."
+            }
+        },
+        {
+            "content": "bur",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ợ",
+            "type": "",
+            "example": {
+                "en": "It's yeast burps and sweat.",
+                "vi": "Chính là sự ợ chua và ra mồ hôi của men."
+            }
+        }
+    ]
+}

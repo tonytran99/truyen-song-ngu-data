@@ -1,0 +1,52 @@
+{
+    "word": "glistening",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlis(ə)niNG/",
+            "/ˈɡlɪs(ə)nɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlɪs(ə)nɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "long lanh",
+            "type": "adjective",
+            "example": {
+                "en": "Once a month, when you leave the kids'cancer ward, your eyes glisten.",
+                "vi": "Mỗi tháng một lần, khi rời khu vực trẻ bị ung thư, mắt cô long lanh."
+            }
+        },
+        {
+            "content": "sáng long lanh",
+            "type": "noun",
+            "example": {
+                "en": "And you can see, our eyes were glistening.",
+                "vi": "Như các bạn thấy, mắt chúng tôi sáng long lanh."
+            }
+        },
+        {
+            "content": "ánh",
+            "type": "noun",
+            "example": {
+                "en": "The child’s eyelids open, and his eyes glisten with life.",
+                "vi": "Mí mắt nó mở ra, và mắt nó ánh lên sự sống."
+            }
+        },
+        {
+            "content": "ánh lấp lánh",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

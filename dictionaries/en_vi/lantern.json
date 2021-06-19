@@ -1,0 +1,53 @@
+{
+    "word": "lantern",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(t)ərn/",
+            "/ˈlæn(t)ərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlantən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đèn lồng",
+            "type": "",
+            "example": {
+                "en": "No more lighted lanterns and foot massages are you unhappy?",
+                "vi": "Không có đèn lồng, không đấm bàn chân em không được vui hả?"
+            }
+        },
+        {
+            "content": "đèn xách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lồng đèn",
+            "type": "",
+            "example": {
+                "en": "Well, tomorrow evening they will light the night sky, with these lanterns.",
+                "vi": "Được. Chiều mai, bầu trời đêm sẽ được thắp sáng bằng những chiếc lồng đèn này."
+            }
+        },
+        {
+            "content": "Đèn lồng giấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đèn xếp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "ant",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ant/",
+            "/ænt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ant/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiến",
+            "type": "noun",
+            "example": {
+                "en": "Humans brought these ant invaders here, and now humans are having to control them.",
+                "vi": "Con người đã mang loài kiến xâm nhập đến đây, giờ con người phải kiểm soát chúng."
+            }
+        },
+        {
+            "content": "con kiến",
+            "type": "",
+            "example": {
+                "en": "What goals is this ant trying to achieve by climbing this blade of grass?",
+                "vi": "Vì cái gì mà con kiến này cứ mãi cố bò lên đỉnh phiến cỏ?"
+            }
+        },
+        {
+            "content": "người hiếu động",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

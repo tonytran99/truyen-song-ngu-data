@@ -1,0 +1,63 @@
+{
+    "word": "cruiser",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkro͞ozər/",
+            "/ˈkruzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkruːzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuần dương hạm",
+            "type": "noun",
+            "example": {
+                "en": "This is the commander of cruiser the \" Glory \", Rear-Admiral Kolchak.",
+                "vi": "Tôi là thiếu tướng KoIchak, chỉ huy Tuần dương hạm \" Vinh Quang \"."
+            }
+        },
+        {
+            "content": "tàu tuần dương",
+            "type": "noun",
+            "example": {
+                "en": "You should know, sir, Japan is also preparing to deploy three destroyers and a light cruiser.",
+                "vi": "Ngài nên biết là Nhật Bản đang chuẩn bị triển khai ba tàu khu trục và một tàu tuần dương hạng nhẹ."
+            }
+        },
+        {
+            "content": "tàu tuần tiễu",
+            "type": "noun",
+            "example": {
+                "en": "They're sending a cruiser.",
+                "vi": "Họ đang cử đến một tàu tuần tiễu."
+            }
+        },
+        {
+            "content": "Tàu tuần dương",
+            "type": "",
+            "example": {
+                "en": "You should know, sir, Japan is also preparing to deploy three destroyers and a light cruiser.",
+                "vi": "Ngài nên biết là Nhật Bản đang chuẩn bị triển khai ba tàu khu trục và một tàu tuần dương hạng nhẹ."
+            }
+        },
+        {
+            "content": "tàu thuỷ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tàu tuần biển",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

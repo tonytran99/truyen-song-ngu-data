@@ -1,0 +1,63 @@
+{
+    "word": "zoo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/zo͞o/",
+            "/zu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/zuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sở thú",
+            "type": "noun",
+            "example": {
+                "en": "And then planned to take his son to the zoo hours after the heist.",
+                "vi": "Và rồi lên kế hoạch dẫn con mình đi sở thú vài giờ sau vụ cướp."
+            }
+        },
+        {
+            "content": "vườn bách thú",
+            "type": "noun",
+            "example": {
+                "en": "And Masrani is using it to stock a petting zoo.",
+                "vi": "Và Masrani sử dụng nó để trữ một vườn bách thú."
+            }
+        },
+        {
+            "content": "thảo cầm viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vườn thú",
+            "type": "",
+            "example": {
+                "en": "I went to the zoo.",
+                "vi": "Tôi đã tới vườn thú."
+            }
+        },
+        {
+            "content": "bách thú",
+            "type": "",
+            "example": {
+                "en": "And Masrani is using it to stock a petting zoo.",
+                "vi": "Và Masrani sử dụng nó để trữ một vườn bách thú."
+            }
+        },
+        {
+            "content": "Vườn động vật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

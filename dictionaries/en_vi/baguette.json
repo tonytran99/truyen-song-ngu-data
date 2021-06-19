@@ -1,0 +1,64 @@
+{
+    "word": "baguette",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baˈɡet/",
+            "/bæˈɡɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baˈɡɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "banh mì",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bánh mì Pháp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Bánh mì Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh mì que",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường viền chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường đắp nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh mì",
+            "type": "noun",
+            "example": {
+                "en": "You`ll know her from the baguette she has under her arm.",
+                "vi": "Anh sẽ nhận ra cổ bằng ổ bánh mì baguette cổ kẹp dưới nách."
+            }
+        },
+        {
+            "content": "bánh mì pháp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

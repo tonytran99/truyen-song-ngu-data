@@ -1,0 +1,65 @@
+{
+    "word": "fend",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fend/",
+            "/fɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "né",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tránh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chống đỡ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gạt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lo liệu",
+            "type": "",
+            "example": {
+                "en": "I left my boys to fend for themselves for the last three months.",
+                "vi": "Anh để lại mấy cậu nhóc của mình để tự chúng lo liệu khoảng 3 tháng trước."
+            }
+        },
+        {
+            "content": "đánh lui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẩy lui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẩy xa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

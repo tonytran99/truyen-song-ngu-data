@@ -1,0 +1,42 @@
+{
+    "word": "congressman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäNGɡrəsmən/",
+            "/ˈkɑŋɡrəsmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒŋɡrɛsmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghị sĩ",
+            "type": "noun",
+            "example": {
+                "en": "Kincaid was a young congressman at the time.",
+                "vi": "Kincaid lúc đó là một nghị sĩ trẻ."
+            }
+        },
+        {
+            "content": "nghò só",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đại biểu quốc hội",
+            "type": "noun",
+            "example": {
+                "en": "He was handling a congressman.",
+                "vi": "Anh ta đang xử lý một tay đại biểu Quốc hội."
+            }
+        }
+    ]
+}

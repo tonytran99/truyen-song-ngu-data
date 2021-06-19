@@ -1,0 +1,47 @@
+{
+    "word": "compressible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpresəb(ə)l/",
+            "/kəmˈprɛsəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprɛsɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chịu nén",
+            "type": "",
+            "example": {
+                "en": "And it's strong: it has the tensile strength of steel, the compressive strength of concrete.",
+                "vi": "Tre rất cứng: chúng có độ đàn hồi như thép, độ chịu nén như bê tông."
+            }
+        },
+        {
+            "content": "chịu ép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể nén được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nén được",
+            "type": "",
+            "example": {
+                "en": "so I think we have the plasma compressing now.",
+                "vi": "Tôi cho rằng đã có thể cho plasma nén được."
+            }
+        }
+    ]
+}

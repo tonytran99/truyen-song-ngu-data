@@ -1,0 +1,65 @@
+{
+    "word": "camber",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkambər/",
+            "/ˈkæmbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkambə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khum lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho khum lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho vồng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt khum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt vồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khum lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vồng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vồng lên",
+            "type": "",
+            "example": {
+                "en": "They were cambered, having a slight upward curve, to favor rainwater drainage from the crown of the road into gutters on either side.",
+                "vi": "Mặt đường hơi vồng lên ở giữa để nước mưa có thể thoát xuống rãnh ở hai bên."
+            }
+        }
+    ]
+}

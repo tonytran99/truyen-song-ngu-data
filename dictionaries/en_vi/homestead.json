@@ -1,0 +1,40 @@
+{
+    "word": "homestead",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmˌsted/",
+            "/ˈhoʊmˌstɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmstɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trại",
+            "type": "noun",
+            "example": {
+                "en": "I've got a couple families in the homestead who changed their itinerary.",
+                "vi": "Tôi đã có một vài gia đình trong trại người thay đổi hành trình của họ."
+            }
+        },
+        {
+            "content": "ấp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "nhà cửa vườn tược",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

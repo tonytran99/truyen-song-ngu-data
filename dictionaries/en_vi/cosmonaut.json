@@ -1,0 +1,44 @@
+{
+    "word": "cosmonaut",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäzməˌnôt/",
+            "/ˈkɑzməˌnɔt/",
+            "/ˈkäzməˌnät/",
+            "/ˈkɑzməˌnɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒzmənɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà du hành vũ trụ",
+            "type": "noun",
+            "example": {
+                "en": "Where I come from, it is called a cosmonaut.",
+                "vi": "Nơi ảnh ở người ta gọi là nhà du hành vũ trụ."
+            }
+        },
+        {
+            "content": "phi hành gia",
+            "type": "noun",
+            "example": {
+                "en": "So, these cosmonauts went into hiding.",
+                "vi": "Các phi hành gia này đi trốn."
+            }
+        },
+        {
+            "content": "phi công vũ trụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

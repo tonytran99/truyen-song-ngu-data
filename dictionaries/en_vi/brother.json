@@ -1,0 +1,107 @@
+{
+    "word": "brother",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrəT͟Hər/",
+            "/ˈbrəðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrʌðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh",
+            "type": "noun",
+            "example": {
+                "en": "If my brother were here, he would know what to do.",
+                "vi": "Nếu anh tôi ở đó, anh ấy sẽ biết phải làm gì."
+            }
+        },
+        {
+            "content": "em",
+            "type": "noun",
+            "example": {
+                "en": "He is very bright, and his brother is as bright.",
+                "vi": "Cậu ấy rất thông minh, cả em cậu ấy cũng vậy."
+            }
+        },
+        {
+            "content": "em trai",
+            "type": "noun",
+            "example": {
+                "en": "My mother bought my little brother a yellow umbrella.",
+                "vi": "Mẹ tôi mua cho em trai tôi một cái dù màu vàng."
+            }
+        },
+        {
+            "content": "anh em",
+            "type": "noun",
+            "example": {
+                "en": "That happened seventeen years before the Wright brothers flew for the first time.",
+                "vi": "Việc đó xảy ra mười bảy năm trước khi hai anh em Wright bay thử lần đầu."
+            }
+        },
+        {
+            "content": "anh trai",
+            "type": "noun",
+            "example": {
+                "en": "Mary has an older sister and a younger brother.",
+                "vi": "Mary có một anh trai và một em trai."
+            }
+        },
+        {
+            "content": "đạo hữu",
+            "type": "",
+            "example": {
+                "en": "My brothers, forgive the intrusion, but we have traveled far.",
+                "vi": "Thưa các đạo hữu, xin lỗi vì sự đường đột, nhưng chúng tôi từ xa đến."
+            }
+        },
+        {
+            "content": "huynh đệ",
+            "type": "noun",
+            "example": {
+                "en": "And why would that make you desert your brothers?",
+                "vi": "Và tại sao chuyện đó lại khiến ngươi từ bỏ những huynh đệ của mình?"
+            }
+        },
+        {
+            "content": "bạn đồng sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạn cùng nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạn đồng ngũ",
+            "type": "",
+            "example": {
+                "en": "and your brother is schizophrenic,",
+                "vi": "và anh bạn đồng ngũ bị tâm thần phân liệt,"
+            }
+        },
+        {
+            "content": "anh/em trai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiên âm",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

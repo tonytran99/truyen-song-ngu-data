@@ -1,0 +1,49 @@
+{
+    "word": "communicable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmyo͞onəkəb(ə)l/",
+            "/kəˈmjunəkəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmjuːnɪkəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể cho biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể lan truyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể lây",
+            "type": "",
+            "example": {
+                "en": "Our studies show this new virus is more communicable and lasts longer than more common strains of flu.",
+                "vi": "Nghiên cứu của chúng tôi cho thấy 1 loại virus có thể lây lan và sống lâu hơn loại cúm thông thường."
+            }
+        },
+        {
+            "content": "có thể thông tri",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể truyền đạt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

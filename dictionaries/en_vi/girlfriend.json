@@ -1,0 +1,37 @@
+{
+    "word": "girlfriend",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡərlˌfrend/",
+            "/ˈɡərlˌfrɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəːlfrɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạn gái",
+            "type": "noun",
+            "example": {
+                "en": "Bruce was terribly upset when his girlfriend left him, but he soon got over it.",
+                "vi": "Bruce đã vô cùng giận khi bạn gái bỏ anh ta, nhưng anh ta đã sớm vượt qua."
+            }
+        },
+        {
+            "content": "người yêu",
+            "type": "noun",
+            "example": {
+                "en": "I had a family friend who for years used to call my girlfriend my lover.",
+                "vi": "Một người bạn của gia đình hàng mấy năm đã gọi bạn gái tôi là người yêu tôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "infectious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfekSHəs/",
+            "/ɪnˈfɛkʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɛkʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lây nhiễm",
+            "type": "",
+            "example": {
+                "en": "You can have a virus where people feel well enough while they're infectious",
+                "vi": "Có thể có virus lây nhiễm vào con người vẫn khiến họ đủ khỏe"
+            }
+        },
+        {
+            "content": "truyền nhiễm",
+            "type": "",
+            "example": {
+                "en": "We're treating cancer almost like it's an infectious disease.",
+                "vi": "Chúng ta điều trị ung thư cứ như nó là một căn bệnh truyền nhiễm."
+            }
+        },
+        {
+            "content": "nhiễm",
+            "type": "verb",
+            "example": {
+                "en": "Because when we're dealing with infectious diseases, we're dealing with living systems.",
+                "vi": "Khi chúng ta đối mặt với bệnh truyền nhiễm, và đó là các hệ thống sống."
+            }
+        },
+        {
+            "content": "lây",
+            "type": "",
+            "example": {
+                "en": "You can have a virus where people feel well enough while they're infectious",
+                "vi": "Có thể có virus lây nhiễm vào con người vẫn khiến họ đủ khỏe"
+            }
+        },
+        {
+            "content": "dễ lây",
+            "type": "",
+            "example": {
+                "en": "Fear is the more infectious condition.",
+                "vi": "Sợ hãi là 1 trạng thái dễ lây lan."
+            }
+        },
+        {
+            "content": "lan truyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiễm trùng",
+            "type": "",
+            "example": {
+                "en": "Sarcoidosis isn't infectious or environmental.",
+                "vi": "Bệnh Sarcoid không phải do nhiễm trùng hay do môi trường."
+            }
+        }
+    ]
+}

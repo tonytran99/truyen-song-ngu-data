@@ -1,0 +1,69 @@
+{
+    "word": "exemplar",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzemplər/",
+            "/ɪɡˈzɛmplər/",
+            "/iɡˈzemplär/",
+            "/ɪɡˈzɛmplɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɛmplə/",
+            "/ɛɡˈzɛmplə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mẫu",
+            "type": "noun",
+            "example": {
+                "en": "He is the perfect exemplar of the priesthood.",
+                "vi": "Ngài là Đấng gương mẫu hoàn hảo của chức tư tế."
+            }
+        },
+        {
+            "content": "cái sánh được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái tương tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gương mẫu",
+            "type": "",
+            "example": {
+                "en": "He is the perfect exemplar of the priesthood.",
+                "vi": "Ngài là Đấng gương mẫu hoàn hảo của chức tư tế."
+            }
+        },
+        {
+            "content": "hình mẫu",
+            "type": "",
+            "example": {
+                "en": "the moral exemplars, to the people we mentor.",
+                "vi": "những hình mẫu đạo đức, đối với những người chúng ta chỉ bảo."
+            }
+        },
+        {
+            "content": "mẫu mực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

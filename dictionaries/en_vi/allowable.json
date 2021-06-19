@@ -1,0 +1,52 @@
+{
+    "word": "allowable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlouəb(ə)l/",
+            "/əˈlaʊəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlaʊəbl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể chấp nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể công nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {
+                "en": "My father doesn't allow me to go to the movies alone.",
+                "vi": "Bố tôi không cho phép tôi đi xem phim một mình."
+            }
+        },
+        {
+            "content": "được phép",
+            "type": "",
+            "example": {
+                "en": "No delegation was allowed to visit the besieged region.",
+                "vi": "Không phái đoàn nào đã được phép đến vùng bị vây hãm."
+            }
+        }
+    ]
+}

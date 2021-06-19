@@ -1,0 +1,81 @@
+{
+    "word": "unlike",
+    "type": [
+        "adjective",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈlīk/",
+            "/ˌənˈlaɪk/",
+            "/ˈənˌlīk/",
+            "/ˈənˌlaɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈlʌɪk/",
+            "/ˈʌnlʌɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác",
+            "type": "adjective",
+            "example": {
+                "en": "But unlike his other victims, there's no type of relationship to link the two of them.",
+                "vi": "Không như các nạn nhân khác, không có mối quan hệ giữa họ."
+            }
+        },
+        {
+            "content": "không giống",
+            "type": "",
+            "example": {
+                "en": "Unlike my brother, I can't swim.",
+                "vi": "Không giống như anh trai mình, tôi không biết bơi."
+            }
+        },
+        {
+            "content": "chẳng bù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "And that's unlike many of our competitors.",
+                "vi": "Điều đó khiến chúng tôi khác biệt với các đối thủ khác."
+            }
+        },
+        {
+            "content": "không giống như",
+            "type": "adjective",
+            "example": {
+                "en": "Unlike my brother, I can't swim.",
+                "vi": "Không giống như anh trai mình, tôi không biết bơi."
+            }
+        },
+        {
+            "content": "dị biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "But unlike other crews, we all have different styles.",
+                "vi": "Tất cả chúng tôi đều có những kiểu nhảy khác nhau"
+            }
+        },
+        {
+            "content": "không giống nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

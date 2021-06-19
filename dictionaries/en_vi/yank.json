@@ -1,0 +1,53 @@
+{
+    "word": "yank",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yaNGk/",
+            "/jæŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jaŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Yankee",
+            "type": "",
+            "example": {
+                "en": "A lot of Yanks are separated from their units.",
+                "vi": "Có rất nhiều tên Yankee bị lạc đơn vị."
+            }
+        },
+        {
+            "content": "cái giật mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái kéo mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giật mạnh",
+            "type": "",
+            "example": {
+                "en": "If I yanked that, everything will go dark for a second.",
+                "vi": "Nếu anh giật mạnh cái đó, tất cả mọi thứ sẽ tối om trong vòng 1 giây."
+            }
+        },
+        {
+            "content": "kéo mạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

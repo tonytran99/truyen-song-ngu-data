@@ -1,0 +1,59 @@
+{
+    "word": "unmarried",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈmerēd/",
+            "/ˌənˈmɛrid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈmarɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chưa kết hôn",
+            "type": "adjective",
+            "example": {
+                "en": "If you are still young and unmarried, are you making the most of your opportunities?",
+                "vi": "Nếu còn trẻ và chưa kết hôn, bạn có tận dụng hoàn cảnh của mình không?"
+            }
+        },
+        {
+            "content": "chưa lập gia đình",
+            "type": "",
+            "example": {
+                "en": "If you're unmarried, that number drops to three.",
+                "vi": "Nếu bạn chưa lập gia đình, con số đó giảm xuống còn ba."
+            }
+        },
+        {
+            "content": "ở vậy",
+            "type": "",
+            "example": {
+                "en": "For example, Paul said that if a mate departed, both parties were to “remain unmarried.”",
+                "vi": "Thí dụ, Phao-lô nói rằng nếu một người hôn phối bỏ đi, cả hai nên ‘ở vậy đừng lấy người khác’."
+            }
+        },
+        {
+            "content": "không có vợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độc thân",
+            "type": "",
+            "example": {
+                "en": "I met a young unmarried mother called Faiza.",
+                "vi": "tôi đã gặp Faiza, một người mẹ trẻ độc thân."
+            }
+        }
+    ]
+}

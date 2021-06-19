@@ -1,0 +1,74 @@
+{
+    "word": "vintage",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvin(t)ij/",
+            "/ˈvɪn(t)ɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪntɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mùa hái nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {
+                "en": "Varus assures the vintage to be his finest.",
+                "vi": "Varus đảm bảo thứ rượu vang này là ngon nhất."
+            }
+        },
+        {
+            "content": "cổ điển",
+            "type": "adjective",
+            "example": {
+                "en": "His coat was lamb's wool, but it didn't look vintage.",
+                "vi": "Áo khoác của nó là len cừu, nhưng nó không cổ điển."
+            }
+        },
+        {
+            "content": "loại cũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loại đã quá thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miền sản xuất nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nho hái về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năm được mùa nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hái nho",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

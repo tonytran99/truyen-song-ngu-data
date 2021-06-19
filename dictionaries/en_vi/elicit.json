@@ -1,0 +1,50 @@
+{
+    "word": "elicit",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēˈlisət/",
+            "/iˈlɪsət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɪsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gợi ra",
+            "type": "",
+            "example": {
+                "en": "And one of the art forms that elicited the interest of the agency,",
+                "vi": "Và một trong những loại hình nghệ thuật gợi ra sự hứng thú của cơ quan này,"
+            }
+        },
+        {
+            "content": "moi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "khêu ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "luận ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

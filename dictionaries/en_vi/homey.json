@@ -1,0 +1,35 @@
+{
+    "word": "homey",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmē/",
+            "/ˈhoʊmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "như ở gia đình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "như ở nhà",
+            "type": "",
+            "example": {
+                "en": "Real homey, in an opium kind of way.",
+                "vi": "Cảm giác như ở nhà, trong một nơi kiểu như để hút sách."
+            }
+        }
+    ]
+}

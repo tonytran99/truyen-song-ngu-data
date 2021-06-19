@@ -1,0 +1,367 @@
+{
+    "word": "dull",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồn tẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chán ngắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đần độn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u ám",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chán",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đục",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chậm hiểu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mờ đục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm ỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mệt mỏi",
+            "type": "adjective",
+            "example": {
+                "en": "Boredom is associated with “dullness, repetition, or tediousness,” “a feeling of weariness and dissatisfaction.”",
+                "vi": "Sự buồn chán liên quan đến sự “mất hứng thú, lập đi lập lại, vô vị”, “một cảm giác mệt mỏi và không thỏa mãn”."
+            }
+        },
+        {
+            "content": "xỉn",
+            "type": "",
+            "example": {
+                "en": "It's sort of dull-colored. And it's fairly common.",
+                "vi": "Đây là loại xỉn màu. Và khá phổ biến."
+            }
+        },
+        {
+            "content": "mòn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lụt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngáo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cạch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồn nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bán không chạy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chậm chạp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chẳng ra gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùn đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảm thấy lờ mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoá ngu đần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm buồn nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mờ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mờ đục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ngu đàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tối tăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm u ám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xỉn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm âm ỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đần dộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đỡ nhói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đỡ nhức nhối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ảm đạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lờ đờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mờ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghễnh ngãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngu ngốc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngu đần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngây ngô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành u ám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành ảm đạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẫn thờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trì chậm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tẻ ngắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối dạ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tối sầm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối tăm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "uể oải",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô tri vô giác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xám xịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xỉn đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm u",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đút túi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đều đều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đỡ nhức nhối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đỡ đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảm đạm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ủ dột",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ứ đọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngốc",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

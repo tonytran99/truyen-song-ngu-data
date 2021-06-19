@@ -1,0 +1,44 @@
+{
+    "word": "corpus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrpəs/",
+            "/ˈkɔrpəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːpəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tập sao lục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể",
+            "type": "noun",
+            "example": {
+                "en": "Most people who have had their corpus collosum cut appear normal afterwards .",
+                "vi": "Hầu hết những người được phẫu thuật cắt thể chai đều có vẻ bình thường sau đó ."
+            }
+        },
+        {
+            "content": "thân vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập văn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

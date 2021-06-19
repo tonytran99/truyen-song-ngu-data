@@ -1,0 +1,48 @@
+{
+    "word": "advertising",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadvərˌtīziNG/",
+            "/ˈædvərˌtaɪzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadvətʌɪzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quảng cáo",
+            "type": "noun",
+            "example": {
+                "en": "My wife's a chef, and I'm in advertising.",
+                "vi": "Vợ tôi là một đầu bếp, và tôi làm trong ngành quảng cáo."
+            }
+        },
+        {
+            "content": "sự quảng cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghề quảng cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc quảng cáo",
+            "type": "",
+            "example": {
+                "en": "Or, frankly, for advertising with all kinds of products.",
+                "vi": "Hay cho việc quảng cáo mọi loại sản phẩm."
+            }
+        }
+    ]
+}

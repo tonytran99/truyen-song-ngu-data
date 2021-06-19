@@ -1,0 +1,70 @@
+{
+    "word": "county",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)ē/",
+            "/ˈkaʊn(t)i/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊnti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quận",
+            "type": "noun",
+            "example": {
+                "en": "So, we have to shut down every alternate merge in the county immediately.",
+                "vi": "Vậy, ta phải đóng các đường sát nhập trong quận, ngay lập tức."
+            }
+        },
+        {
+            "content": "quận hạt",
+            "type": "noun",
+            "example": {
+                "en": "I am not conscious of having injured anyone in the county and therefore will not consent to leave.",
+                "vi": "Tôi không cố ý làm tổn thương bất cứ ai trong quận hạt này vậy nên tôi sẽ không chịu bỏ đi."
+            }
+        },
+        {
+            "content": "hạt",
+            "type": "noun",
+            "example": {
+                "en": "Just remember it when I run for county executive.",
+                "vi": "Chỉ cần nhớ về việc đó khi tôi tranh cử chức hạt trưởng."
+            }
+        },
+        {
+            "content": "tỉnh",
+            "type": "noun",
+            "example": {
+                "en": "During the next three years, we covered many counties in Kentucky where there were no congregations.",
+                "vi": "Trong ba năm kế tiếp, chúng tôi đã rao giảng trong nhiều tỉnh ở Kentucky, những nơi không có hội thánh nào cả."
+            }
+        },
+        {
+            "content": "huyện",
+            "type": "noun",
+            "example": {
+                "en": "We sat for that picture at the county fair, 1830.",
+                "vi": "Chúng tôi có tấm hình đấy tại chợ huyện, năm 1830."
+            }
+        },
+        {
+            "content": "xứ",
+            "type": "noun",
+            "example": {
+                "en": "A self-employed Bergen County man is behind bars.",
+                "vi": "Một doanh nhân xứ Bergen County"
+            }
+        }
+    ]
+}

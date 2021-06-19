@@ -1,0 +1,62 @@
+{
+    "word": "vitamin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvīdəmən/",
+            "/ˈvaɪdəmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪtəmɪn/",
+            "/ˈvʌɪtəmɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vitamin",
+            "type": "noun",
+            "example": {
+                "en": "Take lots of vitamin C to avoid catching cold.",
+                "vi": "Uống thật nhiều vitamin C để đề phòng bị cảm."
+            }
+        },
+        {
+            "content": "sinh tố",
+            "type": "noun",
+            "example": {
+                "en": "Other properties of jicama are its calcium, phosphorus, and vitamin-C content.",
+                "vi": "Những dưỡng chất khác chứa trong của sắn gồm calcium, phospho, và sinh tố C."
+            }
+        },
+        {
+            "content": "vi ta min",
+            "type": "noun",
+            "example": {
+                "en": "This B vitamin lowers the chance of having a baby with a birth defect .",
+                "vi": "Loại vi-ta-min B này hạ thấp nguy cơ sinh con dị tật bẩm sinh ."
+            }
+        },
+        {
+            "content": "vi-ta-min",
+            "type": "noun",
+            "example": {
+                "en": "This B vitamin lowers the chance of having a baby with a birth defect .",
+                "vi": "Loại vi-ta-min B này hạ thấp nguy cơ sinh con dị tật bẩm sinh ."
+            }
+        },
+        {
+            "content": "Vitamin",
+            "type": "",
+            "example": {
+                "en": "Take lots of vitamin C to avoid catching cold.",
+                "vi": "Uống thật nhiều vitamin C để đề phòng bị cảm."
+            }
+        }
+    ]
+}

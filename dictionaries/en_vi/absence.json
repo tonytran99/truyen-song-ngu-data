@@ -1,0 +1,75 @@
+{
+    "word": "absence",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabsəns/",
+            "/ˈæbsəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabs(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự vắng mặt",
+            "type": "",
+            "example": {
+                "en": "And in the absence of computers, you have to physically model.",
+                "vi": "Và với sự vắng mặt của máy tính, bạn phải tự tay thiết kế thủ công."
+            }
+        },
+        {
+            "content": "sự thiếu",
+            "type": "",
+            "example": {
+                "en": "So in the absence of knowing that knowledge,",
+                "vi": "Do đó sự thiếu sót trong hiểu biết về kiến thức ấy"
+            }
+        },
+        {
+            "content": "lúc đi vắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nghỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi vắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự điểm danh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời gian vắng mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "We cannot make decisions in the absence of all of the information.",
+                "vi": "Chúng ta không thể đưa ra quyết định khi thiếu tất cả các thông tin."
+            }
+        }
+    ]
+}

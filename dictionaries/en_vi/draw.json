@@ -1,0 +1,536 @@
+{
+    "word": "draw",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drô/",
+            "/drɔ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vẽ",
+            "type": "verb",
+            "example": {
+                "en": "I can't draw, but my sister is a great artist.",
+                "vi": "Tôi không biết vẽ, nhưng chị của tôi là một họa sĩ vĩ đại."
+            }
+        },
+        {
+            "content": "vạch",
+            "type": "verb",
+            "example": {
+                "en": "There is a line that we have to draw.",
+                "vi": "Ta đã vạch ra ranh giới rồi mà."
+            }
+        },
+        {
+            "content": "dựng lên",
+            "type": "verb",
+            "example": {
+                "en": "Did you blow it up to draw him out?",
+                "vi": "Cô dựng lên chuyện đó để thu hút anh ta?"
+            }
+        },
+        {
+            "content": "kéo",
+            "type": "verb noun",
+            "example": {
+                "en": "Draw your chair closer to the fire.",
+                "vi": "Ông hãy kéo ghế của ông lại gần lửa."
+            }
+        },
+        {
+            "content": "hòa",
+            "type": "Verbal; Adjectival",
+            "example": {
+                "en": "The thing is, it doesn't matter whether you win, lose or draw here.",
+                "vi": "Vấn đề là thắng, thua, hay hòa đều không quan trọng."
+            }
+        },
+        {
+            "content": "hoà",
+            "type": "",
+            "example": {
+                "en": "Later , France and Uruguay played to a scoreless draw at a packed stadium in Cape Town .",
+                "vi": "Sau đó , Pháp và Uruguay hoà nhau không bàn thắng ở sân vận động chật kín khán giả ở Cape Town ."
+            }
+        },
+        {
+            "content": "rút ra",
+            "type": "",
+            "example": {
+                "en": "Let me just try to draw some conclusions from what has happened.",
+                "vi": "Xin phép cho tôi rút ra một số kết luận từ những diễn biến trước tới nay."
+            }
+        },
+        {
+            "content": "thu hút",
+            "type": "verb, noun",
+            "example": {
+                "en": "I got a hunch you're gonna draw men like fish to the bait.",
+                "vi": "Tôi có linh cảm là cô sẽ thu hút đàn ông như mồi câu thu hút cá."
+            }
+        },
+        {
+            "content": "kéo ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {
+                "en": "They spoke “twisted things to draw away the disciples after themselves.”",
+                "vi": "Họ giảng dạy “những điều sai lạc, hòng lôi cuốn các môn đệ theo chúng”."
+            }
+        },
+        {
+            "content": "lôi kéo",
+            "type": "",
+            "example": {
+                "en": "You look for a figure who will draw your country towards war.",
+                "vi": "Ông đang tìm một hình tượng sẽ lôi kéo đất nước ông tới cuộc chiến."
+            }
+        },
+        {
+            "content": "lấy ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "And then I'll draw the connection between these two behaviors.",
+                "vi": "Và sau đó tôi sẽ đưa ra mối liên hệ giữa hai điều này."
+            }
+        },
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "A million-dollar hit fee would draw some huge flies.",
+                "vi": "Một triệu đô tài khoản mở sẵn sẽ hấp dẫn nhiều con thiêu thân."
+            }
+        },
+        {
+            "content": "trích",
+            "type": "verb",
+            "example": {
+                "en": "Then Paul quotes four scriptures, drawing attention to that opportunity for the nations.",
+                "vi": "Kế đó, Phao-lô trích dẫn bốn câu Kinh Thánh, hướng sự chú ý đến cơ hội đó dành cho dân ngoại."
+            }
+        },
+        {
+            "content": "bốc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "pha",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "giương",
+            "type": "",
+            "example": {
+                "en": "Does nock mean draw? Men:",
+                "vi": "Lắp tên có nghĩa là giương cung à?"
+            }
+        },
+        {
+            "content": "hút",
+            "type": "noun",
+            "example": {
+                "en": "It would be innovative and draw the crowds.",
+                "vi": "Nó sẽ rất táo bạo và thu hút đám đông."
+            }
+        },
+        {
+            "content": "thu hút sự chú ý",
+            "type": "",
+            "example": {
+                "en": "If we go out there in a group, we're slow, drawing attention.",
+                "vi": "Nếu ta đi theo nhóm thì sẽ chậm, thu hút sự chú ý."
+            }
+        },
+        {
+            "content": "kìm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "moi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hoạ",
+            "type": "verb",
+            "example": {
+                "en": "I opt for very simple line drawings — kind of stupid looking.",
+                "vi": "Tôi chọn những bức phác hoạ đơn giản — trông cũng khá ngớ ngẩn."
+            }
+        },
+        {
+            "content": "thông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "huề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gò",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "kẻ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bị lôi cuốn đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị thu hút đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cau lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuốc lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "co rúm",
+            "type": "",
+            "example": {
+                "en": "The colors crouched down in fear , drawing close to one another for comfort .",
+                "vi": "Các màu sắc co rúm mình trong sợ hãi , chúng khép nép rúc vào nhau tìm niềm an ủi ."
+            }
+        },
+        {
+            "content": "câu hỏi mẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có sức thu hút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cầu đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gợi đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hít vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hút ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "A million-dollar hit fee would draw some huge flies.",
+                "vi": "Một triệu đô tài khoản mở sẵn sẽ hấp dẫn nhiều con thiêu thân."
+            }
+        },
+        {
+            "content": "không phân được thua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kéo dài",
+            "type": "",
+            "example": {
+                "en": "Take it easy and don't draw out the scene please.",
+                "vi": "Cứ bình tĩnh và làm ơn đừng có kéo dài màn diễn."
+            }
+        },
+        {
+            "content": "kéo theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kéo đến",
+            "type": "",
+            "example": {
+                "en": "Now he draws closer—like a steadily approaching thunderstorm—to execute judgment.",
+                "vi": "Bây giờ Ngài lại gần hơn—giống như một cơn bão tố có sấm sét ào ào kéo đến—để thi hành sự phán xét."
+            }
+        },
+        {
+            "content": "làm cạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lĩnh ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy tiền ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "moi hết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "moi ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "móc ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {
+                "en": "Could you describe or draw them?",
+                "vi": "Anh mô tả hay vẽ ra được chứ?"
+            }
+        },
+        {
+            "content": "múc ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngấm nước cốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhổ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhờ cậy đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nêu ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quả sang trái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút lấy nước cốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút tiền ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút tỉa",
+            "type": "",
+            "example": {
+                "en": "I learned the value of drawing close to those who have a love for spiritual things.",
+                "vi": "Tôi rút tỉa được giá trị của việc gần gũi với những người yêu chuộng những điều thiêng liêng."
+            }
+        },
+        {
+            "content": "suy ra",
+            "type": "",
+            "example": {
+                "en": "to draw inferences about important features of their decision-making.",
+                "vi": "để suy ra những điểm mấu chốt trong cách họ ra quyết định"
+            }
+        },
+        {
+            "content": "số trúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sức hấp dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sức lôi cuốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sức quyến rũ",
+            "type": "",
+            "example": {
+                "en": "Mount Erebus was an irresistible draw to the legendary explorer Ernest Shackleton.",
+                "vi": "Núi Erebus có một sức quyến rũ không thể cưỡng lại với nhà thám hiểm huyền thoại Ernest Shackleton."
+            }
+        },
+        {
+            "content": "sự cố gắng",
+            "type": "",
+            "example": {
+                "en": "I think we'll call it a draw.",
+                "vi": "Nhưng tôi nghĩ đó cũng là một sự cố gắng rồi."
+            }
+        },
+        {
+            "content": "sự kéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mở số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nỗ lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rút thăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thảo ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trích ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận đấu hoà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm thú săn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm thấy ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túm tụm đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạch ra",
+            "type": "",
+            "example": {
+                "en": "There is a line that we have to draw.",
+                "vi": "Ta đã vạch ra ranh giới rồi mà."
+            }
+        },
+        {
+            "content": "đưa ra",
+            "type": "",
+            "example": {
+                "en": "And then I'll draw the connection between these two behaviors.",
+                "vi": "Và sau đó tôi sẽ đưa ra mối liên hệ giữa hai điều này."
+            }
+        },
+        {
+            "content": "họa",
+            "type": "verb",
+            "example": {
+                "en": "His serious figure drawings are often layered in elements of humor.",
+                "vi": "Những họa tiết đáng sợ thường được xếp cạnh những chi tiết hài hước."
+            }
+        },
+        {
+            "content": "tả",
+            "type": "",
+            "example": {
+                "en": "And these are the kinds of drawings that he made of neurons",
+                "vi": "Và đây là kiểu bản vẽ mà ông diễn tả các nơ-ron thần kinh"
+            }
+        },
+        {
+            "content": "di chuyển",
+            "type": "verb",
+            "example": {
+                "en": "To draw the Mongols out.",
+                "vi": "Vậy khi họ chờ ta tấn công, tại sao lại di chuyển?"
+            }
+        },
+        {
+            "content": "rút tiền",
+            "type": "",
+            "example": {
+                "en": "So if I die, she can draw money from the account. . . .",
+                "vi": "Nên nếu tôi chết, nàng có thể rút tiền từ trương mục..."
+            }
+        },
+        {
+            "content": "vẽ hình",
+            "type": "",
+            "example": {
+                "en": "I put my child's drawing of a red heart in the window of my living room.",
+                "vi": "Tôi đặt bản vẽ hình trái tim đỏ của con tôi lên cửa sổ phòng khách của tôi."
+            }
+        }
+    ]
+}

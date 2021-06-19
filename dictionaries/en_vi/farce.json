@@ -1,0 +1,60 @@
+{
+    "word": "farce",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/färs/",
+            "/fɑrs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɑːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trò hề",
+            "type": "noun",
+            "example": {
+                "en": "How did you convince Surrillo to hear this farce?",
+                "vi": "Anh tính thuyết phục Surrillo xét xử trò hề này bằng cách nào?"
+            }
+        },
+        {
+            "content": "kịch vui nhộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho gia vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhồi đầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể kịch vui nhộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò khôi hài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

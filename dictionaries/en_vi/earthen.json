@@ -1,0 +1,42 @@
+{
+    "word": "earthen",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərTHən/",
+            "/ˈərθən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːθ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng đất",
+            "type": "",
+            "example": {
+                "en": "I really am a fragile ‘earthen vessel.’",
+                "vi": "Tôi đúng là cái “chậu bằng đất” mỏng manh, dễ vỡ."
+            }
+        },
+        {
+            "content": "bằng đất nung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất",
+            "type": "noun",
+            "example": {
+                "en": "I really am a fragile ‘earthen vessel.’",
+                "vi": "Tôi đúng là cái “chậu bằng đất” mỏng manh, dễ vỡ."
+            }
+        }
+    ]
+}

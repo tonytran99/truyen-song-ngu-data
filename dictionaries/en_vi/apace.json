@@ -1,0 +1,42 @@
+{
+    "word": "apace",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpās/",
+            "/əˈpeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhanh",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Tax collections proceed apace.",
+                "vi": "Việc thu thuế đã tiến hành nhanh chóng."
+            }
+        },
+        {
+            "content": "mau lẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhanh chóng",
+            "type": "",
+            "example": {
+                "en": "Tax collections proceed apace.",
+                "vi": "Việc thu thuế đã tiến hành nhanh chóng."
+            }
+        }
+    ]
+}

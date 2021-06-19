@@ -1,0 +1,42 @@
+{
+    "word": "vehemently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēəməntlē/",
+            "/ˈviəməntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːəməntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dữ dội",
+            "type": "adverb",
+            "example": {
+                "en": "The record states that “they vehemently tried to pick a quarrel with him.”",
+                "vi": "Lời tường thuật ghi lại: “Chúng cãi cùng người cách dữ-dội”."
+            }
+        },
+        {
+            "content": "kịch liệt",
+            "type": "adverb",
+            "example": {
+                "en": "Pope Innocent X was vehemently against the treaty, declaring it null and void.",
+                "vi": "Giáo Hoàng Innocent X kịch liệt chống đối hiệp ước, tuyên bố nó vô hiệu lực."
+            }
+        },
+        {
+            "content": "mãnh liệt",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

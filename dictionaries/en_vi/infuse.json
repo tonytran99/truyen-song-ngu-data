@@ -1,0 +1,58 @@
+{
+    "word": "infuse",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfyo͞oz/",
+            "/ɪnˈfjuz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfjuːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "truyền",
+            "type": "",
+            "example": {
+                "en": "They're gonna need 4 units of \" o \" on the rapid infuser.",
+                "vi": "Họ sẽ cần 4 đơn vị máu O trong máy truyền dịch tốc độ cao."
+            }
+        },
+        {
+            "content": "pha",
+            "type": "verb noun",
+            "example": {
+                "en": "He even infused water with carbon dioxide, thus inventing carbonated water.",
+                "vi": "Thậm chí, ông còn pha chế nước với cacbon đioxyt, kết quả là nước có ga ra đời."
+            }
+        },
+        {
+            "content": "ngấm",
+            "type": "",
+            "example": {
+                "en": "infused with mushroom spores,",
+                "vi": "được ngấm bào tử nấm,"
+            }
+        },
+        {
+            "content": "đổ",
+            "type": "verb",
+            "example": {
+                "en": "infusing the new layer of materials to the old layer",
+                "vi": "lớp vật liệu mới đổ lên lớp cũ"
+            }
+        },
+        {
+            "content": "rót",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "word": "candy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkandē/",
+            "/ˈkændi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkandi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẹo",
+            "type": "noun",
+            "example": {
+                "en": "The bowl contains many kinds of candy.",
+                "vi": "Cái tô có rất nhiều loại kẹo."
+            }
+        },
+        {
+            "content": "kẹo mứt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết thành đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thành đường phèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngâm đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tẩm đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường phèn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ướp đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Kẹo",
+            "type": "",
+            "example": {
+                "en": "The bowl contains many kinds of candy.",
+                "vi": "Cái tô có rất nhiều loại kẹo."
+            }
+        },
+        {
+            "content": "đường",
+            "type": "noun",
+            "example": {
+                "en": "Try this candied fruit, let us be brothers.",
+                "vi": "Ăn xâu hồ lô đường này, chúng ta chính là huynh đệ rồi."
+            }
+        },
+        {
+            "content": "糖",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bánh kẹo",
+            "type": "",
+            "example": {
+                "en": "Easy on the candy, all of you, please.",
+                "vi": "Dễ dàng trên các bánh kẹo, tất cả các bạn, xin vui lòng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "envoy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈenˌvoi/",
+            "/ˈɛnˌvɔɪ/",
+            "/ˈänˌvoi/",
+            "/ˈɑnˌvɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛnvɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phái viên",
+            "type": "noun",
+            "example": {
+                "en": "Did you know they sent an envoy to the Citadel after that?",
+                "vi": "Cậu có biết là họ đã gửi một phái viên đến Citadel ngay sau đó không?"
+            }
+        },
+        {
+            "content": "sứ",
+            "type": "noun",
+            "example": {
+                "en": "Only days until the Yuan envoy arrives, this is a tragedy!",
+                "vi": "Một ngày trước khi sứ giả từ Yuan đến sao?"
+            }
+        },
+        {
+            "content": "công sứ",
+            "type": "",
+            "example": {
+                "en": "Do you remember the propaganda used by the Assyrian envoy, the Rabshakeh, against God’s people?",
+                "vi": "Anh chị có nhớ lời tuyên truyền mà một công sứ của A-si-ri là Ráp-sa-kê đã dùng để chống lại dân Đức Chúa Trời không?"
+            }
+        },
+        {
+            "content": "đại diện",
+            "type": "noun",
+            "example": {
+                "en": "Tokyo has often asked Washington to send an envoy to this annual ceremony .",
+                "vi": "Tokyo thường mời đại diện ngoại giao Washington đến tham dự nghi thức hàng năm này ."
+            }
+        },
+        {
+            "content": "đại diện ngoại giao",
+            "type": "noun",
+            "example": {
+                "en": "Tokyo has often asked Washington to send an envoy to this annual ceremony .",
+                "vi": "Tokyo thường mời đại diện ngoại giao Washington đến tham dự nghi thức hàng năm này ."
+            }
+        }
+    ]
+}

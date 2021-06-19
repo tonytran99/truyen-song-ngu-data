@@ -1,0 +1,61 @@
+{
+    "word": "beer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bir/",
+            "/bɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bia",
+            "type": "noun",
+            "example": {
+                "en": "It's nice to sip and savour drinks other than beer as well from time to time.",
+                "vi": "Thỉnh thoảng thật thú vị được nhấm nháp đồ giải khát khác ngoài bia ra."
+            }
+        },
+        {
+            "content": "rượu bia",
+            "type": "noun",
+            "example": {
+                "en": "Do you need us to hide the beer and stuff?",
+                "vi": "Anh có cần bọn em giấu hết rượu bia không?"
+            }
+        },
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {
+                "en": "Do you need us to hide the beer and stuff?",
+                "vi": "Anh có cần bọn em giấu hết rượu bia không?"
+            }
+        },
+        {
+            "content": "rîu bia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cốc rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ly rượu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

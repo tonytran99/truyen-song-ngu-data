@@ -1,0 +1,86 @@
+{
+    "word": "goose",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡo͞os/",
+            "/ɡus/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡuːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngỗng",
+            "type": "noun",
+            "example": {
+                "en": "I don't believe I've ever seen a more magnificent goose cooked.",
+                "vi": "Tôi không tin được là tôi chưa từng nhìn thấy con ngỗng nào ngon thế này."
+            }
+        },
+        {
+            "content": "鵝",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con ngỗng",
+            "type": "",
+            "example": {
+                "en": "I don't believe I've ever seen a more magnificent goose cooked.",
+                "vi": "Tôi không tin được là tôi chưa từng nhìn thấy con ngỗng nào ngon thế này."
+            }
+        },
+        {
+            "content": "ngan",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người khờ dại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn là cổ ngỗng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ngốc nghếch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngỗng cái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thịt ngỗng",
+            "type": "noun",
+            "example": {
+                "en": "And smelled our goose, cooking delicious.",
+                "vi": "Và có mùi thịt ngỗng ngon lắm."
+            }
+        }
+    ]
+}

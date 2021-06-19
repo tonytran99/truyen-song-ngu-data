@@ -1,0 +1,39 @@
+{
+    "word": "caveman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkāvˌman/",
+            "/ˈkeɪvˌmæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪvman/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người ở hang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ vũ phu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thượng cổ",
+            "type": "",
+            "example": {
+                "en": "So easy, even a caveman can do it, right?",
+                "vi": "Quá dễ, ngay một người thượng cổ cũng có thể làm được, phải không?"
+            }
+        }
+    ]
+}

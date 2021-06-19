@@ -1,0 +1,80 @@
+{
+    "word": "volley",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvälē/",
+            "/ˈvɑli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɒli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loạt",
+            "type": "",
+            "example": {
+                "en": "Wait for the volley.",
+                "vi": "Chờ loạt bắn đầu đã!"
+            }
+        },
+        {
+            "content": "tràng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuỗi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bắn ra hàng loạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đá vôlê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh vôlê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắn một loạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ném ra hàng loạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quả vôlê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tung ra hàng loạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuôn ra hàng tràng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

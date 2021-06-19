@@ -1,0 +1,45 @@
+{
+    "word": "banknote",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaNGkˌnōt/",
+            "/ˈbæŋkˌnoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaŋknəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giấy bạc",
+            "type": "noun",
+            "example": {
+                "en": "Of course, he did not have the banknote.",
+                "vi": "Dĩ nhiên, anh không có tờ giấy bạc."
+            }
+        },
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {
+                "en": "I cannot accept these banknotes.",
+                "vi": "Tôi không thể nhận mấy tờ tiền này."
+            }
+        },
+        {
+            "content": "tiền giấy",
+            "type": "",
+            "example": {
+                "en": "where banknotes have come from,",
+                "vi": "tiền giấy đến từ đâu,"
+            }
+        }
+    ]
+}

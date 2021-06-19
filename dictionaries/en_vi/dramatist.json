@@ -1,0 +1,39 @@
+{
+    "word": "dramatist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdraməˌdəst/",
+            "/ˈdræməˌdəst/",
+            "/ˈdräməˌdəst/",
+            "/ˈdrɑməˌdəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdramətɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà soạn kịch",
+            "type": "noun",
+            "example": {
+                "en": "I don't want to teach drama, I want to become a dramatist.",
+                "vi": "Cháu không muốn đi dạy, cháu muốn làm một nhà soạn kịch."
+            }
+        },
+        {
+            "content": "nhà viết kịch",
+            "type": "noun",
+            "example": {
+                "en": "Extremely prophetic, by Thomas Dekker, another Elizabethan dramatist.",
+                "vi": "Đầy tính tiên tri, của Thomas Dekker, một nhà viết kịch khác thời Elizabeth."
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "bodyguard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbädēˌɡärd/",
+            "/ˈbɑdiˌɡɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒdɪɡɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vệ sĩ",
+            "type": "noun",
+            "example": {
+                "en": "My bodyguard was the only one there, and my voice was completely gone.",
+                "vi": "Ngoại trừ vệ sĩ của tôi, Và giọng tôi như hoàn toàn bị tắt."
+            }
+        },
+        {
+            "content": "bảo vệ",
+            "type": "noun",
+            "example": {
+                "en": "And then he sics that bodyguard on me.",
+                "vi": "Thế rồi anh ta bảo vệ sĩ cản tôi."
+            }
+        },
+        {
+            "content": "đội bảo vệ",
+            "type": "",
+            "example": {
+                "en": "Is this standard issue for bodyguards?",
+                "vi": "Đây là tiêu chuẩn của đội bảo vệ à?"
+            }
+        },
+        {
+            "content": "Vệ sĩ",
+            "type": "",
+            "example": {
+                "en": "Your new bodyguards need to wear these too?",
+                "vi": "Vệ sĩ mới của anh cũng cần đeo à?"
+            }
+        }
+    ]
+}

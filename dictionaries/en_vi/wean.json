@@ -1,0 +1,45 @@
+{
+    "word": "wean",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wēn/",
+            "/win/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cai sữa",
+            "type": "",
+            "example": {
+                "en": "She has devoted the last two years to raising her cub and very soon, it will be weaned.",
+                "vi": "Nó đã tận tụy trong hai năm cuối để nuôi dưỡng báo con, và sau đó báo con sẽ được cai sữa."
+            }
+        },
+        {
+            "content": "làm cho bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho dứt bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thôi cho bú",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

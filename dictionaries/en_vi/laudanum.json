@@ -1,0 +1,36 @@
+{
+    "word": "laudanum",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlôdnəm/",
+            "/ˈlɔdnəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlɔːd(ə)nəm/",
+            "/ˈlɒd(ə)nəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Lauddanom",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cồn thuốc phiện",
+            "type": "",
+            "example": {
+                "en": "Well, Wyatt, I couldn't find a single store that had laudanum anywhere.",
+                "vi": "Wyatt này, em chẳng tìm ra tiệm nào bán cồn thuốc phiện."
+            }
+        }
+    ]
+}

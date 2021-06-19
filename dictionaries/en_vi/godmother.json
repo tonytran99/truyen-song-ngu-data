@@ -1,0 +1,35 @@
+{
+    "word": "godmother",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡädˌməT͟Hər/",
+            "/ˈɡɑdˌməðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒdmʌθə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mẹ đỡ đầu",
+            "type": "noun",
+            "example": {
+                "en": "I want to introduce you to Hortense, my godmother,",
+                "vi": "Tôi muốn giới thiệu bạn với Hortense, mẹ đỡ đầu của tôi,"
+            }
+        },
+        {
+            "content": "bà giới thiệu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

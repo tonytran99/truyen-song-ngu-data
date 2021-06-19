@@ -1,0 +1,82 @@
+{
+    "word": "dinner",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdinər/",
+            "/ˈdɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bữa tối",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to buy a few bottles of wine for dinner.",
+                "vi": "Tôi chuẩn bị đi mua vài chai rượu cho bữa tối."
+            }
+        },
+        {
+            "content": "bữa chiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bữa trưa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bữa cơm",
+            "type": "noun",
+            "example": {
+                "en": "And you have dinner ready and waiting for me, okay?",
+                "vi": "Hãy nấu sẳn bữa cơm tối đợi anh về có được không?"
+            }
+        },
+        {
+            "content": "bữa ăn trưa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bữa ăn tối",
+            "type": "",
+            "example": {
+                "en": "He ordered three dinners.",
+                "vi": "Anh ta đặt ba bữa ăn tối."
+            }
+        },
+        {
+            "content": "tiệc",
+            "type": "noun",
+            "example": {
+                "en": "I'm about to sit down to Christmas dinner myself.",
+                "vi": "Bản thân tôi cũng đang định ngồi vào bàn tiệc Giáng sinh."
+            }
+        },
+        {
+            "content": "tiệc chiêu đãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn tối",
+            "type": "",
+            "example": {
+                "en": "I was wondering if you'd like to join me for dinner tomorrow.",
+                "vi": "Tôi không biết bạn có thể đi ăn tối với tôi ngày mai được không."
+            }
+        }
+    ]
+}

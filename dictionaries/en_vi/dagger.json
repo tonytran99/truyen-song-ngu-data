@@ -1,0 +1,48 @@
+{
+    "word": "dagger",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaɡər/",
+            "/ˈdæɡər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dao găm",
+            "type": "noun",
+            "example": {
+                "en": "A fancy dagger can feed a lot of mouths.",
+                "vi": "Một con dao găm quý có thể nuôi được nhiều cái miệng."
+            }
+        },
+        {
+            "content": "dấu chữ thập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiếm",
+            "type": "noun",
+            "example": {
+                "en": "But what if he's got one of those daggers?",
+                "vi": "Nhưng cái gì xảy ra nếu hắn có một trong những thanh kiếm đó?"
+            }
+        },
+        {
+            "content": "kí tự †",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

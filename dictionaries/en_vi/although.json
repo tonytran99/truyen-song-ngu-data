@@ -1,0 +1,130 @@
+{
+    "word": "although",
+    "type": [
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ôlˈT͟Hō/",
+            "/ɔlˈðoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɔːlˈðəʊ/",
+            "/ɒlˈðəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặc dù",
+            "type": "conjunction",
+            "example": {
+                "en": "Although there was no wind blowing, the door opened of itself.",
+                "vi": "Mặc dù không có gió, cánh cửa tự mở ra."
+            }
+        },
+        {
+            "content": "dẫu cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhưng",
+            "type": "conjunction",
+            "example": {
+                "en": "Although I graduated many years ago, I'll never forget any of the teachers who taught me.",
+                "vi": "Cho dù tôi đã tốt nghiệp nhiều năm rồi nhưng tôi không hề quên một giáo viên nào đã dạy tôi."
+            }
+        },
+        {
+            "content": "cho dù",
+            "type": "conjunction",
+            "example": {
+                "en": "Although I graduated many years ago, I'll never forget any of the teachers who taught me.",
+                "vi": "Cho dù tôi đã tốt nghiệp nhiều năm rồi nhưng tôi không hề quên một giáo viên nào đã dạy tôi."
+            }
+        },
+        {
+            "content": "dầu",
+            "type": "conjunction",
+            "example": {
+                "en": "She's in a coma, although we weren't able to save her leg.",
+                "vi": "Cô ấy vẫn hôn mê, mặc dầu chúng tôi đã không thể giữ được chân cô ấy."
+            }
+        },
+        {
+            "content": "dầu rằng",
+            "type": "conjunction",
+            "example": {}
+        },
+        {
+            "content": "dẫu rằng",
+            "type": "conjunction",
+            "example": {
+                "en": "Although your baby was just conceived , he or she is working overtime .",
+                "vi": "Dẫu rằng chỉ mới được thụ thai nhưng bào thai cũng phát triển không ngừng ."
+            }
+        },
+        {
+            "content": "tuy nhiên",
+            "type": "conjunction",
+            "example": {
+                "en": "although no one told me that before we went.",
+                "vi": "tuy nhiên chẳng ai bảo tôi biết điều đó trước khi chúng tôi đi."
+            }
+        },
+        {
+            "content": "dù rằng",
+            "type": "",
+            "example": {
+                "en": "although they couldn't watch all of them at all times.",
+                "vi": "dù rằng họ không thể quan sát hết mọi người mọi lúc mọi nơi."
+            }
+        },
+        {
+            "content": "dưng cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dưng cơ mà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc dầu",
+            "type": "conjunction",
+            "example": {
+                "en": "She's in a coma, although we weren't able to save her leg.",
+                "vi": "Cô ấy vẫn hôn mê, mặc dầu chúng tôi đã không thể giữ được chân cô ấy."
+            }
+        },
+        {
+            "content": "nhưng mà",
+            "type": "",
+            "example": {
+                "en": "Although it would be a little hard to sail with the mast that far forward.",
+                "vi": "Nhưng mà đặt cột buồm xa như thế thì hơi khó di chuyển đấy."
+            }
+        },
+        {
+            "content": "tuy rằng",
+            "type": "adverb",
+            "example": {
+                "en": "The next day, although Peng's men all came,",
+                "vi": "Ngày thứ hai, tuy rằng người của Bành gia đều có mặt,"
+            }
+        },
+        {
+            "content": "tuy",
+            "type": "conjunction",
+            "example": {
+                "en": "But... although the future is important, isn't the present just as important?",
+                "vi": "Thế nhưng, tuy sau này thì cũng quan trọng, nhưng không phải hiện tại cũng quan trọng sao?"
+            }
+        }
+    ]
+}

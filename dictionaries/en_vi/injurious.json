@@ -1,0 +1,52 @@
+{
+    "word": "injurious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈjo͝orēəs/",
+            "/ɪnˈdʒʊriəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʒʊərɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hại",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm hại",
+            "type": "adjective",
+            "example": {
+                "en": "Such a person would be injurious to the congregation.",
+                "vi": "Người như thế làm hại cho hội thánh."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "Head injuries are bad for you. They lead to Parkinson’s disease.",
+                "vi": "Chấn thương vùng đầu cũng rất nguy hiểm, dẫn đến bệnh Parkinson."
+            }
+        },
+        {
+            "content": "thoá mạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thóa mạ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

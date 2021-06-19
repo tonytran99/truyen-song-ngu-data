@@ -1,0 +1,55 @@
+{
+    "word": "hindu",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhindo͞o/",
+            "/ˈhɪndu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪnduː/",
+            "/hɪnˈduː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người theo đạo Ân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hindu",
+            "type": "",
+            "example": {
+                "en": "India was Hindu, then it became Buddhist, then it became Hindu again, as Hinduism reabsorbed Buddhism.",
+                "vi": "Ấn Độ theo đạo Hindu, sau đó là Phật Giáo, tiếp theo lại là đạo Hindu vì đạo Hindu đã tái hấp thụ Phật Giáo"
+            }
+        },
+        {
+            "content": "người Hindu",
+            "type": "",
+            "example": {
+                "en": "Specialists in care of the elderly were more likely to be Hindu or Muslim .",
+                "vi": "Các chuyên gia chăm sóc người cao tuổi thường là người Hindu hoặc Hồi giáo ."
+            }
+        },
+        {
+            "content": "Ân-ddộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người theo đạo hinđu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

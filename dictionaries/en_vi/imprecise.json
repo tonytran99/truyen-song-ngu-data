@@ -1,0 +1,42 @@
+{
+    "word": "imprecise",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌimprəˈsīs/",
+            "/ˌɪmprəˈsaɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmprɪˈsʌɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chính xác",
+            "type": "adjective",
+            "example": {
+                "en": "This belief is based on an imprecise translation of Luke 1:36.",
+                "vi": "Niềm tin này dựa trên cách dịch không chính xác câu Lu-ca 1: 36."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mơ hồ",
+            "type": "adjective",
+            "example": {
+                "en": "I don't want to be imprecise.",
+                "vi": "Anh không muốn mơ hồ"
+            }
+        }
+    ]
+}

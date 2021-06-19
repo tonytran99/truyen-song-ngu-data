@@ -1,0 +1,62 @@
+{
+    "word": "wasting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwāstiNG/",
+            "/ˈweɪstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm hao mòn dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá hoại",
+            "type": "noun",
+            "example": {
+                "en": "You were all over this sideshow that did nothing but waste valuable time.",
+                "vi": "Cô đã ủng hộ kế hoạch này nhưng chẳng được gì chỉ t phá hoại."
+            }
+        },
+        {
+            "content": "sự hao mòn dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phá hoại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tàn phá",
+            "type": "",
+            "example": {
+                "en": "aggression, dysfunction and waste.",
+                "vi": "tính hung dữ, loạn chức năng và sự tàn phá"
+            }
+        },
+        {
+            "content": "tàn phá",
+            "type": "",
+            "example": {
+                "en": "All I think we've done is destroyed their country, laid it waste.",
+                "vi": "Tất cả những gì chúng ta làm chỉ là tàn phá."
+            }
+        }
+    ]
+}

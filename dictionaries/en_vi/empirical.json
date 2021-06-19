@@ -1,0 +1,45 @@
+{
+    "word": "empirical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈpirik(ə)l/",
+            "/əmˈpɪrɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛmˈpɪrɪk(ə)l/",
+            "/ɪmˈpɪrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực nghiệm",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Theory and empirical evidence Have already taught us.",
+                "vi": "Lý thuyết và bằng chứng thực nghiệm đã dạy chúng ta."
+            }
+        },
+        {
+            "content": "kinh nghiệm chủ nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo kinh nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo lối kinh nghiệm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

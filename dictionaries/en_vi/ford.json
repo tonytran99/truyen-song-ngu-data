@@ -1,0 +1,48 @@
+{
+    "word": "ford",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrd/",
+            "/fɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỗ cạn",
+            "type": "noun",
+            "example": {
+                "en": "Then they would seize him and slay him at the fords of the Jordan.",
+                "vi": "Họ bắt người và giết tại chỗ cạn của sông Giô-đanh."
+            }
+        },
+        {
+            "content": "bến lội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lội qua",
+            "type": "",
+            "example": {
+                "en": "I think it's best we ford right here.",
+                "vi": "Tôi nghĩ lội qua ngay chỗ này là tốt nhất."
+            }
+        },
+        {
+            "content": "thăm dò nông sâu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

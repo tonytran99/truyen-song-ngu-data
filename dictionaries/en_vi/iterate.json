@@ -1,0 +1,54 @@
+{
+    "word": "iterate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈidəˌrāt/",
+            "/ˈɪdəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪtəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm lại",
+            "type": "",
+            "example": {
+                "en": "and doing that iteratively.",
+                "vi": "và làm đi làm lại quá trình đó."
+            }
+        },
+        {
+            "content": "làm đi làm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lặp đi lặp lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhắc lại",
+            "type": "",
+            "example": {
+                "en": "And if we are, are we ready to iterate, monitor",
+                "vi": "Và nếu có cam kết thì chúng ta đã sẵn sàng để nhắc lại, giám sát"
+            }
+        },
+        {
+            "content": "nhắc đi nhắc lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

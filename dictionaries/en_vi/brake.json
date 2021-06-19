@@ -1,0 +1,126 @@
+{
+    "word": "brake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brāk/",
+            "/breɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/breɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phanh",
+            "type": "noun",
+            "example": {
+                "en": "But you are where you are because you didn't push the brakes.",
+                "vi": "Anh tới được đây vì anh không phanh lại."
+            }
+        },
+        {
+            "content": "hãm",
+            "type": "verb",
+            "example": {
+                "en": "So you can't step on the brakes very quickly.",
+                "vi": "Vì vậy bạn không thể có một bươc nhảy trong việc hãm lại một cách nhanh chóng."
+            }
+        },
+        {
+            "content": "cái hãm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hãm phanh",
+            "type": "",
+            "example": {
+                "en": "A ship has no brakes, so it takes a long time to stop.",
+                "vi": "Chiếc tàu không thể ngừng đột ngột vì không có bộ phận hãm phanh."
+            }
+        },
+        {
+            "content": "phanh lại",
+            "type": "",
+            "example": {
+                "en": "But you are where you are because you didn't push the brakes.",
+                "vi": "Anh tới được đây vì anh không phanh lại."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "No, I think we should hit the brakes now.",
+                "vi": "Tớ nghĩ ta nên đạp thắng ngay đi."
+            }
+        },
+        {
+            "content": "đập",
+            "type": "",
+            "example": {
+                "en": "You break the brake.",
+                "vi": "Em đã đập gãy cái thắng rồi."
+            }
+        },
+        {
+            "content": "bracken",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bụi cây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái bừa to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái phanh",
+            "type": "",
+            "example": {
+                "en": "There's a manual release handle on the back of the brake.",
+                "vi": "Có một cái móc mở bằng tay ở phía sau cái phanh."
+            }
+        },
+        {
+            "content": "hãm lại",
+            "type": "",
+            "example": {
+                "en": "So you can't step on the brakes very quickly.",
+                "vi": "Vì vậy bạn không thể có một bươc nhảy trong việc hãm lại một cách nhanh chóng."
+            }
+        },
+        {
+            "content": "máy đập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe ngựa không mui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe vực ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thắng (cơ học)",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

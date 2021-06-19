@@ -1,0 +1,30 @@
+{
+    "word": "gps",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌjēˌpēˈes/",
+            "/ˌdʒiˌpiˈɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdʒiːˈpiːˈɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hệ thống định vị toàn cầu",
+            "type": "",
+            "example": {
+                "en": "Does it need to be able to use a GPS to define its position?",
+                "vi": "Nó có thể sử dụng một GPS (Hệ thống định vị toàn cầu) để xác định vị trí của nó không?"
+            }
+        }
+    ]
+}

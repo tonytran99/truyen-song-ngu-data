@@ -1,0 +1,48 @@
+{
+    "word": "clove",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klōv/",
+            "/kloʊv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kləʊv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đinh hương",
+            "type": "noun",
+            "example": {
+                "en": "Kreteks, or clove cigarettes: These usually contain about 60 percent tobacco and 40 percent cloves.",
+                "vi": "Kreteks, hay thuốc lá đinh hương: Loại này thường chứa khoảng 60% thuốc lá và 40% đinh hương."
+            }
+        },
+        {
+            "content": "cây đinh hương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tép tỏi",
+            "type": "noun",
+            "example": {
+                "en": "Just as the butter starts to release its aroma, add a garlic clove",
+                "vi": "Ngay khi bơ vừa bốc mùi thơm, bỏ vô một tép tỏi."
+            }
+        },
+        {
+            "content": "ánh",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

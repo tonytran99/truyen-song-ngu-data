@@ -1,0 +1,43 @@
+{
+    "word": "dotted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdädəd/",
+            "/ˈdɑdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chấm chấm",
+            "type": "adjective",
+            "example": {
+                "en": "Fold the tabs along the dotted lines so the figures can stand up.",
+                "vi": "Xếp các vạt giấy dọc theo đường chấm chấm để tấm hình không bị đổ."
+            }
+        },
+        {
+            "content": "có chấm",
+            "type": "",
+            "example": {
+                "en": "Everything with a white dot is 25% off.",
+                "vi": "Những cuốn nào có chấm màu trắng là giảm 25%"
+            }
+        },
+        {
+            "content": "lấm chấm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

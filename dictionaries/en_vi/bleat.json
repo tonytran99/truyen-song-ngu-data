@@ -1,0 +1,56 @@
+{
+    "word": "bleat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blēt/",
+            "/blit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bliːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "be be",
+            "type": "",
+            "example": {
+                "en": "So it started to bleat plaintively.",
+                "vi": "Thế là nó bắt đầu kêu be be thảm thiết."
+            }
+        },
+        {
+            "content": "kêu be be",
+            "type": "",
+            "example": {
+                "en": "So it started to bleat plaintively.",
+                "vi": "Thế là nó bắt đầu kêu be be thảm thiết."
+            }
+        },
+        {
+            "content": "nói ngớ ngẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói nhỏ nhẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng be be",
+            "type": "noun",
+            "example": {
+                "en": "He had known the simple joys of listening to babbling brooks and the bleating of lambs responding to his voice.",
+                "vi": "Ông có những niềm vui giản dị như là nghe tiếng suối chảy róc rách, và tiếng be be của những chú cừu con."
+            }
+        }
+    ]
+}

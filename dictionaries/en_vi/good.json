@@ -1,0 +1,413 @@
+{
+    "word": "good",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡo͝od/",
+            "/ɡʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tốt",
+            "type": "adjective",
+            "example": {
+                "en": "A religion that uses fear as a motivator is not a good religion.",
+                "vi": "Một tôn giáo lấy nỗi sợ hãi làm động lực thì không phải là một tôn giáo tốt."
+            }
+        },
+        {
+            "content": "giỏi",
+            "type": "adjective",
+            "example": {
+                "en": "When it comes to sports, John is very good.",
+                "vi": "Nói đến thể thao thì John rất giỏi."
+            }
+        },
+        {
+            "content": "hay",
+            "type": "adjective",
+            "example": {
+                "en": "I'm not sure whether my sentence is good.",
+                "vi": "Tôi không chắc câu này của tôi viết đúng hay không."
+            }
+        },
+        {
+            "content": "tuyệt",
+            "type": "adjective",
+            "example": {
+                "en": "I think thats a very good idea of myself.",
+                "vi": "Bản thân tôi cho rằng đó là một ý tưởng tuyệt vời."
+            }
+        },
+        {
+            "content": "khá",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Both apps are good and worth the install .",
+                "vi": "Cả hai ứng dụng đều khá tiện dụng ."
+            }
+        },
+        {
+            "content": "ngoan",
+            "type": "adjective",
+            "example": {
+                "en": "He may not be a regular churchgoer, but he's a good man, my son.",
+                "vi": "Nó có thể không phải là đứa ngoan đạo nhưng là một người tốt."
+            }
+        },
+        {
+            "content": "lành",
+            "type": "adjective",
+            "example": {
+                "en": "Something in her wanted to be good, to keep His commandments.",
+                "vi": "Em muốn được thiện lành, để tuân giữ các giáo lệnh của Ngài."
+            }
+        },
+        {
+            "content": "khôn",
+            "type": "adjective",
+            "example": {
+                "en": "Though you \" re not too good at raising them, are you?",
+                "vi": "Khốn nỗi đến khâu nuôi nó khôn lớn lại mù điếc chứ gì?"
+            }
+        },
+        {
+            "content": "thiện",
+            "type": "adjective",
+            "example": {
+                "en": "Something in her wanted to be good, to keep His commandments.",
+                "vi": "Em muốn được thiện lành, để tuân giữ các giáo lệnh của Ngài."
+            }
+        },
+        {
+            "content": "lợi",
+            "type": "noun",
+            "example": {
+                "en": "So I think there's a lot of good.",
+                "vi": "Vì thế tôi nghĩ rằng có rất nhiều ích lợi."
+            }
+        },
+        {
+            "content": "bổ ích",
+            "type": "",
+            "example": {
+                "en": "Good music, like good food, can be healthful.",
+                "vi": "Nhạc hay có thể bổ ích giống như thức ăn ngon."
+            }
+        },
+        {
+            "content": "chính đáng",
+            "type": "",
+            "example": {
+                "en": "But I did it for very good reasons.",
+                "vi": "Nhưng tôi làm là vì lý do chính đáng cả."
+            }
+        },
+        {
+            "content": "hiền",
+            "type": "adjective",
+            "example": {
+                "en": "More important, I learned the significance of good and faithful parents.",
+                "vi": "Quan trọng hơn nữa, tôi đã học biết ý nghĩa của cha mẹ hiền và trung tín."
+            }
+        },
+        {
+            "content": "ngon",
+            "type": "adjective adverb",
+            "example": {
+                "en": "If they are not in complete harmony, the sushi won't taste good.",
+                "vi": "Hương vị không hài hòa, sushi sẽ không ngon."
+            }
+        },
+        {
+            "content": "thạo",
+            "type": "adjective",
+            "example": {
+                "en": "Riding a unicycle is one thing I'm not very good at.",
+                "vi": "Đi xe đạp một bánh là một trò mà tôi không thông thạo lắm."
+            }
+        },
+        {
+            "content": "đáng kể",
+            "type": "",
+            "example": {
+                "en": "The ones where we can do a lot of good rather than a little good.",
+                "vi": "Những thứ mà ta có thể cải thiện đáng kể chứ không chỉ là một chút tiến bộ."
+            }
+        },
+        {
+            "content": "có lợi",
+            "type": "",
+            "example": {
+                "en": "Betray their friends for the good of their country?",
+                "vi": "Phản bội bạn bè cho những điều có lợi của đất nước họ ư?"
+            }
+        },
+        {
+            "content": "dễ chịu",
+            "type": "",
+            "example": {
+                "en": "I'll never forget having a good time with you all.",
+                "vi": "Tôi sẽ không bao giờ quên rằng tôi đã qua một lúc dễ chịu với anh."
+            }
+        },
+        {
+            "content": "tốt lành",
+            "type": "",
+            "example": {
+                "en": "I'll tell you what: any day is a good day, any day is a good day",
+                "vi": "Tôi sẽ nói lặp lại rằng bất kì ngày nào cũng là ngày tốt lành"
+            }
+        },
+        {
+            "content": "tử tế",
+            "type": "",
+            "example": {
+                "en": "It is always good to show appreciation for the kindness of others.",
+                "vi": "Việc thể hiện lòng biết ơn về sự tử tế của người khác luôn là điều tốt."
+            }
+        },
+        {
+            "content": "vui vẻ",
+            "type": "adjective",
+            "example": {
+                "en": "I hope everyone today can eat good and drink good, enjoy!",
+                "vi": "Hi vọng mọi người hôm nay ăn uống vui vẻ không say không về."
+            }
+        },
+        {
+            "content": "điều tốt",
+            "type": "",
+            "example": {
+                "en": "It is good to have ideals... don't you think?",
+                "vi": "Có lý tưởng là điều tốt... bạn nghĩ sao?"
+            }
+        },
+        {
+            "content": "đảm đang",
+            "type": "",
+            "example": {
+                "en": "Another important matter to remember is the value of a good wife.",
+                "vi": "Một vấn đề quan trọng khác cần nhớ là giá trị của người vợ đảm đang."
+            }
+        },
+        {
+            "content": "tươi",
+            "type": "adjective",
+            "example": {
+                "en": "I'd like to look good tomorrow.",
+                "vi": "Tôi muốn ngày mai tươi tỉnh để lên truyền hình."
+            }
+        },
+        {
+            "content": "hảo",
+            "type": "adjective",
+            "example": {
+                "en": "My father would have celebrated such a conjunction with a good wine.",
+                "vi": "Cha tôi hẳn sẽ tổ chức 1 bữa tiệc rượu hảo hạng trước sự giao hội này."
+            }
+        },
+        {
+            "content": "cừ",
+            "type": "",
+            "example": {
+                "en": "Your brother says you're a good wheel man.",
+                "vi": "Anh trai anh nói anh lái xe cừ lắm."
+            }
+        },
+        {
+            "content": "hẩu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có đức hạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khả quan",
+            "type": "adjective",
+            "example": {
+                "en": "So that was a good result. Sometimes, it's not that good,",
+                "vi": "Đó là một kết quả khả quan. Nhưng đôi khi kết quả lại không dễ dàng như vậy."
+            }
+        },
+        {
+            "content": "lương thiện",
+            "type": "adjective",
+            "example": {
+                "en": "Any good man can live in our state.",
+                "vi": "Bất cứ người lương thiện nào cũng có thể sống an lành ở đây."
+            }
+        },
+        {
+            "content": "lợi ích",
+            "type": "noun",
+            "example": {
+                "en": "The commandments and rules were for my own good.",
+                "vi": "Những điều giáo lệnh và luật lệ là nhằm vào lợi ích của tôi."
+            }
+        },
+        {
+            "content": "những người tốt",
+            "type": "",
+            "example": {
+                "en": "She'll have good men around her to advise her, men with experience.",
+                "vi": "Người sẽ có những người tốt để cố vấn, những người có kinh nghiệm."
+            }
+        },
+        {
+            "content": "rộng lượng",
+            "type": "",
+            "example": {
+                "en": "They were good to their employees, more generous then they needed to be.",
+                "vi": "Họ tốt với với nhân viên, rộng lượng hơn họ cần."
+            }
+        },
+        {
+            "content": "thoải mái",
+            "type": "",
+            "example": {
+                "en": "Well, it'll be good to get out of this place for a few hours.",
+                "vi": "Ra khỏi đây mấy tiếng chắc sẽ cảm thấy rất thoải mái."
+            }
+        },
+        {
+            "content": "thương người",
+            "type": "",
+            "example": {
+                "en": "We show love for people by sharing the good news with them",
+                "vi": "Chúng ta biểu lộ tình yêu thương người khác bằng cách chia sẻ tin mừng cho họ"
+            }
+        },
+        {
+            "content": "trong lành",
+            "type": "",
+            "example": {
+                "en": "I think some fresh air will do you good.",
+                "vi": "Anh nghĩ chút không khí trong lành sẽ làm cho em khỏe."
+            }
+        },
+        {
+            "content": "tốt đẹp",
+            "type": "adjective",
+            "example": {
+                "en": "Do good to them that hate you.",
+                "vi": "Hãy làm những gì tốt đẹp cho những kẻ ghét các ngươi."
+            }
+        },
+        {
+            "content": "vật đáng mong muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều lành",
+            "type": "",
+            "example": {
+                "en": "A good person does good things to benefit others.",
+                "vi": "Người tốt thì làm điều lành để mang lại lợi ích cho người khác."
+            }
+        },
+        {
+            "content": "điều thiện",
+            "type": "",
+            "example": {
+                "en": "They chose to eat of the fruit of the tree of the knowledge of good and bad.",
+                "vi": "Họ quyết định ăn trái của cây biết điều thiện và điều ác."
+            }
+        },
+        {
+            "content": "điều đáng mong muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được việc",
+            "type": "",
+            "example": {
+                "en": "If I succeed, I will have done some good with my life.",
+                "vi": "Và nếu như thành công, thì ít nhất tôi đã làm tốt được 1 việc trong đời."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm not sure whether my sentence is good.",
+                "vi": "Tôi không chắc câu này của tôi viết đúng hay không."
+            }
+        },
+        {
+            "content": "lương",
+            "type": "noun",
+            "example": {
+                "en": "Any good man can live in our state.",
+                "vi": "Bất cứ người lương thiện nào cũng có thể sống an lành ở đây."
+            }
+        },
+        {
+            "content": "của cải",
+            "type": "",
+            "example": {
+                "en": "He already owns all the goods and resources there are.",
+                "vi": "Tất cả của cải và tài sản đều đã thuộc về Ngài."
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "But it's not really that easy, that it's all a good story.",
+                "vi": "Nhưng thật sự không dễ dàng, bởi đó cũng chẳng hoàn toàn là chuyện tốt."
+            }
+        },
+        {
+            "content": "hàng hoá",
+            "type": "noun",
+            "example": {
+                "en": "And the domestic market is slow , with the price of goods falling .",
+                "vi": "Và thị trường trong nước hoạt động chậm chạp , giá hàng hoá đang sụt giảm ."
+            }
+        },
+        {
+            "content": "khoẻ mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "I've got a good heart.",
+                "vi": "Tôi đã có 1 quả tim khoẻ mạnh."
+            }
+        },
+        {
+            "content": "khỏe mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "Mr Potter keeps himself in good condition by going jogging every day.",
+                "vi": "Ông Potter giữ cơ thể mình trong tình trạng khỏe mạnh bằng cách chạy bộ mỗi ngày."
+            }
+        },
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {
+                "en": "So it would be a real good time for you to come back.",
+                "vi": "Nên giờ sẽ là lúc rất phù hợp để bố quay về!"
+            }
+        }
+    ]
+}

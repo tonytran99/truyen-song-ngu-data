@@ -1,0 +1,83 @@
+{
+    "word": "inventory",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinvənˌtôrē/",
+            "/ˈɪnvənˌtɔri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnv(ə)nt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiểm kê",
+            "type": "",
+            "example": {
+                "en": "There has to be a signed contract before an inventory can be drawn up.",
+                "vi": "Cô phải ký hợp đồng trước khi tiếp tục kiểm kê."
+            }
+        },
+        {
+            "content": "bản kiểm kê",
+            "type": "",
+            "example": {
+                "en": "Close up after lunch and take inventory on everything we got.",
+                "vi": "Sau bữa trưa đóng cửa nhé rồi lấy mọi bản kiểm kê mà ta có."
+            }
+        },
+        {
+            "content": "bản kê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bản kê tài nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản tóm tắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng kiểm kê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nằng kiểm kê;",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kiểm kê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tóm tắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tóm tắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng giá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

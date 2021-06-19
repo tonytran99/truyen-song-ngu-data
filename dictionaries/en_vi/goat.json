@@ -1,0 +1,61 @@
+{
+    "word": "goat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡōt/",
+            "/ɡoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dê",
+            "type": "noun",
+            "example": {
+                "en": "Don't you have a goat that needs worming?",
+                "vi": "Không phải bà có một con dê cần được tẩy giun sao?"
+            }
+        },
+        {
+            "content": "con dê",
+            "type": "noun",
+            "example": {
+                "en": "Don't you have a goat that needs worming?",
+                "vi": "Không phải bà có một con dê cần được tẩy giun sao?"
+            }
+        },
+        {
+            "content": "người có máu dê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dâm dục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dâm đãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dê",
+            "type": "",
+            "example": {
+                "en": "Don't you have a goat that needs worming?",
+                "vi": "Không phải bà có một con dê cần được tẩy giun sao?"
+            }
+        }
+    ]
+}

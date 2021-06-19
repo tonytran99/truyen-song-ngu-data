@@ -1,0 +1,46 @@
+{
+    "word": "yak",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yak/",
+            "/jæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bò tây tạng",
+            "type": "noun",
+            "example": {
+                "en": "He feels the way they are harvesting yaks nowadays.",
+                "vi": "Ông ta cảm thấy cách người ta đang sử dụng bò Tây tạng ngày nay."
+            }
+        },
+        {
+            "content": "bò Tây tạng",
+            "type": "",
+            "example": {
+                "en": "He feels the way they are harvesting yaks nowadays.",
+                "vi": "Ông ta cảm thấy cách người ta đang sử dụng bò Tây tạng ngày nay."
+            }
+        },
+        {
+            "content": "bò Tây Tạng",
+            "type": "",
+            "example": {
+                "en": "He feels the way they are harvesting yaks nowadays.",
+                "vi": "Ông ta cảm thấy cách người ta đang sử dụng bò Tây tạng ngày nay."
+            }
+        }
+    ]
+}

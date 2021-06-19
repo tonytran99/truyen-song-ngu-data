@@ -1,0 +1,84 @@
+{
+    "word": "hire",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhī(ə)r/",
+            "/ˈhaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuê",
+            "type": "",
+            "example": {
+                "en": "She hired him as an interpreter.",
+                "vi": "Cô ta thuê anh ta để làm người phiên dịch."
+            }
+        },
+        {
+            "content": "mướn",
+            "type": "verb",
+            "example": {
+                "en": "That new doctor you hired, he hasn't buzzed the intercom for ages.",
+                "vi": "Vị bác sĩ mới cô đã mướn đấy, anh ta đã không đến liên lạc lâu lắm rồi."
+            }
+        },
+        {
+            "content": "cho thuê",
+            "type": "",
+            "example": {
+                "en": "We definitely have to hire out the boat when the summer's over.",
+                "vi": "Ta nhất định phải cho thuê thuyền được trước khi hết hè."
+            }
+        },
+        {
+            "content": "thưởng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự cho thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền thuê",
+            "type": "",
+            "example": {
+                "en": "If it was hired, the money paid for the hire is the compensation.",
+                "vi": "Nếu con vật được thuê thì số tiền thuê sẽ là sự bồi thường."
+            }
+        },
+        {
+            "content": "tiền thưởng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiền trả công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trả công",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

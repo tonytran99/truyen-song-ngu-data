@@ -1,0 +1,68 @@
+{
+    "word": "yawn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yôn/",
+            "/jɔn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɔːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngáp",
+            "type": "verb",
+            "example": {
+                "en": "The listeners had already begun to yawn.",
+                "vi": "Những người nghe đã bắt đầu ngáp."
+            }
+        },
+        {
+            "content": "há miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khe hở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mở ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toác ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vừa nói vừa ngáp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ngáp",
+            "type": "",
+            "example": {
+                "en": "The listeners had already begun to yawn.",
+                "vi": "Những người nghe đã bắt đầu ngáp."
+            }
+        },
+        {
+            "content": "sự ngáp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

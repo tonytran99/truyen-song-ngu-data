@@ -1,0 +1,37 @@
+{
+    "word": "bookshelf",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝okˌSHelf/",
+            "/ˈbʊkˌʃɛlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊkʃɛlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giá sách",
+            "type": "noun",
+            "example": {
+                "en": "Carry these books back to the bookshelf.",
+                "vi": "Mang những cuốn sách này trở lại giá sách."
+            }
+        },
+        {
+            "content": "kệ sách",
+            "type": "noun",
+            "example": {
+                "en": "I just don't think your bookshelf's trying to talk to you.",
+                "vi": "Nhưng bố vẫn không nghĩ cái kệ sách đang muốn nói chuyện với con."
+            }
+        }
+    ]
+}

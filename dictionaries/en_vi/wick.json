@@ -1,0 +1,39 @@
+{
+    "word": "wick",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wik/",
+            "/wɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bấc",
+            "type": "noun",
+            "example": {
+                "en": "Flax was also used for lamp wicks.",
+                "vi": "Sợi lanh còn được dùng làm bấc đèn."
+            }
+        },
+        {
+            "content": "bấc đèn",
+            "type": "noun",
+            "example": {
+                "en": "Flax was also used for lamp wicks.",
+                "vi": "Sợi lanh còn được dùng làm bấc đèn."
+            }
+        }
+    ]
+}

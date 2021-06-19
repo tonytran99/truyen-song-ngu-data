@@ -1,0 +1,66 @@
+{
+    "word": "grove",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrōv/",
+            "/ɡroʊv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəʊv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lùm",
+            "type": "",
+            "example": {
+                "en": "We hid out in the wilderness by a river, in a grove of cottonwoods.",
+                "vi": "Chúng tôi ẩn núp trong chốn hoang vu gần một con sông trong một lùm cây dương."
+            }
+        },
+        {
+            "content": "bụi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chòm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cụm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khu rừng nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "Then he went to the “grove” and knelt to pray.",
+                "vi": "Rồi ông đi vào “khu rừng nhỏ” và quỳ xuống cầu nguyện."
+            }
+        },
+        {
+            "content": "lùm cây",
+            "type": "noun",
+            "example": {
+                "en": "We hid out in the wilderness by a river, in a grove of cottonwoods.",
+                "vi": "Chúng tôi ẩn núp trong chốn hoang vu gần một con sông trong một lùm cây dương."
+            }
+        },
+        {
+            "content": "lâm",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

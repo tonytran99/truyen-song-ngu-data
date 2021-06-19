@@ -1,0 +1,50 @@
+{
+    "word": "user",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞ozər/",
+            "/ˈjuzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người dùng",
+            "type": "noun",
+            "example": {
+                "en": "The user you to want to send this message to does not exist. Please try with another username.",
+                "vi": "Người dùng bạn muốn gởi tin này đến không tồn tại. Vui lòng thử tên khác."
+            }
+        },
+        {
+            "content": "người sử dụng",
+            "type": "",
+            "example": {
+                "en": "It makes the user a slave to the damaging habit.",
+                "vi": "Nó khiến người sử dụng trở thành nô lệ cho thói quen gây hại."
+            }
+        },
+        {
+            "content": "thành viên",
+            "type": "noun",
+            "example": {
+                "en": "Let's look at some of the maps being created by users right now.",
+                "vi": "Bây giờ hãy cùng nhìn vào một vài bản đồ đang được các thành viên tạo ra."
+            }
+        },
+        {
+            "content": "người hay dùng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

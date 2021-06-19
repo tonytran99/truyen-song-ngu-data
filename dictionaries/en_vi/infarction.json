@@ -1,0 +1,37 @@
+{
+    "word": "infarction",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfärkSHən/",
+            "/ɪnˈfɑrkʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɑːkʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhồi máu",
+            "type": "noun",
+            "example": {
+                "en": "Hey, why don't we operate on his infarcted leg while we're at it?",
+                "vi": "Sao ta không phẫu thuật luôn cái chân bị nhồi máu của anh ta luôn?"
+            }
+        },
+        {
+            "content": "Nhồi máu",
+            "type": "",
+            "example": {
+                "en": "Hey, why don't we operate on his infarcted leg while we're at it?",
+                "vi": "Sao ta không phẫu thuật luôn cái chân bị nhồi máu của anh ta luôn?"
+            }
+        }
+    ]
+}

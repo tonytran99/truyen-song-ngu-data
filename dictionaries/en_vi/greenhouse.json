@@ -1,0 +1,39 @@
+{
+    "word": "greenhouse",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrēnˌhous/",
+            "/ˈɡrinˌhaʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡriːnhaʊs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà kính",
+            "type": "noun",
+            "example": {
+                "en": "Concentrations of greenhouse gases in the atmosphere are already higher than they've been for millions of years.",
+                "vi": "Hàm lượng khí nhà kính trong không khí đã cao hơn cách đây hàng triệu năm."
+            }
+        },
+        {
+            "content": "Nhà kính",
+            "type": "",
+            "example": {
+                "en": "It will accumulate, and greenhouse gases tend to be cumulative.",
+                "vi": "Chúng sẽ tích tụ và hiệu ứng nhà kính sẽ tích lũy lại."
+            }
+        }
+    ]
+}

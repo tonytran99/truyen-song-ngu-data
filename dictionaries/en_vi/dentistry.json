@@ -1,0 +1,47 @@
+{
+    "word": "dentistry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈden(t)əstrē/",
+            "/ˈdɛn(t)əstri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛntɪstri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nha khoa",
+            "type": "noun",
+            "example": {
+                "en": "Or digital dentistry, and making these kinds of structures",
+                "vi": "Hoặc là nha khoa KTS, làm ra những dạng cấu trúc này"
+            }
+        },
+        {
+            "content": "khoa răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nghề chữa răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Nha khoa",
+            "type": "",
+            "example": {
+                "en": "Or digital dentistry, and making these kinds of structures",
+                "vi": "Hoặc là nha khoa KTS, làm ra những dạng cấu trúc này"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "alphabetical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌalfəˈbedək(ə)l/",
+            "/ˌælfəˈbɛdək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alfəˈbɛtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuộc chữ cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc ký tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng chữ cái",
+            "type": "",
+            "example": {
+                "en": "A text in Esperanto is written phonetically using an alphabet of 28 letters.",
+                "vi": "Esperanto được viết theo âm bằng bảng 27 chữ cái."
+            }
+        },
+        {
+            "content": "thuộc bảng chữ cái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

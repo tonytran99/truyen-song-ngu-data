@@ -1,0 +1,38 @@
+{
+    "word": "german",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərmən/",
+            "/ˈdʒərmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đức",
+            "type": "noun",
+            "example": {
+                "en": "Some Germans work for only one euro an hour.",
+                "vi": "Một số người Đức chỉ cần trả lương một euro một giờ."
+            }
+        },
+        {
+            "content": "tiếng đức",
+            "type": "",
+            "example": {
+                "en": "It isn't easy to translate all your comments into Standard German.",
+                "vi": "Không dễ dàng dàng để dịch tất cả các bình luận của bạn sang tiếng Đức chuẩn."
+            }
+        }
+    ]
+}

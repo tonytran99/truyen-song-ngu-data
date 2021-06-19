@@ -1,0 +1,58 @@
+{
+    "word": "furtive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərdiv/",
+            "/ˈfərdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trộm",
+            "type": "verb",
+            "example": {
+                "en": "At Serang Detention Center, an immigration officer came and furtively strip-searched us.",
+                "vi": "Tại Trại Giam Serang, một sĩ quan nhập cư đến lục soát và trộm đồ của chúng tôi."
+            }
+        },
+        {
+            "content": "ngấm ngầm",
+            "type": "",
+            "example": {
+                "en": "I-I know what furtive is.",
+                "vi": "Tôi hiểu ngấm ngầm là thế nào."
+            }
+        },
+        {
+            "content": "lén",
+            "type": "adjective",
+            "example": {
+                "en": "You've made it furtive and guilty!",
+                "vi": "Các người làm cho nó trở thành lén lút và sai trái!"
+            }
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "lén lút",
+            "type": "",
+            "example": {
+                "en": "You've made it furtive and guilty!",
+                "vi": "Các người làm cho nó trở thành lén lút và sai trái!"
+            }
+        }
+    ]
+}

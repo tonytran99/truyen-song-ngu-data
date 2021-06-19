@@ -1,0 +1,123 @@
+{
+    "word": "camp",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamp/",
+            "/kæmp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trại",
+            "type": "noun",
+            "example": {
+                "en": "Tom doesn't know if Mary will go camping with us or not.",
+                "vi": "Tom không biết liệu Mary có đi cắm trại với bọn tôi hay không."
+            }
+        },
+        {
+            "content": "cắm trại",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know if Mary will go camping with us or not.",
+                "vi": "Tom không biết liệu Mary có đi cắm trại với bọn tôi hay không."
+            }
+        },
+        {
+            "content": "chỗ cắm trại",
+            "type": "",
+            "example": {
+                "en": "I've taken up safari work, and I've got to find a camp.",
+                "vi": "Tôi đã nhận một đoàn săn, và tôi phải tìm chỗ cắm trại."
+            }
+        },
+        {
+            "content": "hạ trại",
+            "type": "",
+            "example": {
+                "en": "When we make camp tonight, you'll be raped.",
+                "vi": "Khi chúng ta hạ trại đêm nay, cô sẽ bị hãm hiếp."
+            }
+        },
+        {
+            "content": "phe phái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lán trại",
+            "type": "noun",
+            "example": {
+                "en": "I'll stay at base camp.",
+                "vi": "Con sẽ ở lại lán trại."
+            }
+        },
+        {
+            "content": "phe",
+            "type": "noun",
+            "example": {
+                "en": "Not wanting her son to defect to the “enemy camp,” Mom relents.",
+                "vi": "Vì không muốn con mình về phe “đối phương” nên người mẹ chiều ý con."
+            }
+        },
+        {
+            "content": "chỗ đóng quân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ đóng trại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi cắm trại",
+            "type": "",
+            "example": {
+                "en": "We'll use this place as a base camp.",
+                "vi": "Chúng ta sẽ dùng nơi này như nơi cắm trại."
+            }
+        },
+        {
+            "content": "đóng trại",
+            "type": "",
+            "example": {
+                "en": "They should camp facing the tent of meeting, all around it.",
+                "vi": "Họ phải đóng trại đối diện và bao quanh lều hội họp."
+            }
+        },
+        {
+            "content": "đồn trú",
+            "type": "verb",
+            "example": {
+                "en": "The garrison of Rome, they're setting up camp.",
+                "vi": "Đơn vị đồn trú của La Mã, chúng đang dựng trại."
+            }
+        },
+        {
+            "content": "đời sông quân đội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "doanh trại",
+            "type": "",
+            "example": {
+                "en": "He brought the girl to your camp without considering the consequences.",
+                "vi": "Hắn đưa cô gái tới doanh trại của anh mà không xem xét tình hinh gì cả."
+            }
+        }
+    ]
+}

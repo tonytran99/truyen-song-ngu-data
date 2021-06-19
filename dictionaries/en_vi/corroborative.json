@@ -1,0 +1,50 @@
+{
+    "word": "corroborative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈräb(ə)rədiv/",
+            "/kəˈrɑb(ə)rədɪv/",
+            "/kəˈräbərādiv/",
+            "/kəˈrɑbəreɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/kəˈrɒbərətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng thực",
+            "type": "",
+            "example": {
+                "en": "There is a possibility that your claims might be corroborated by another victim.",
+                "vi": "Có khả năng rằng lời khai của cô đã được chứng thực bởi một nạn nhân khác."
+            }
+        },
+        {
+            "content": "để chứng thực",
+            "type": "",
+            "example": {
+                "en": "Sergeant Beckett, do you have any evidence to corroborate your accusation?",
+                "vi": "Trung sĩ, Beckett, anh có bằng chứng không? để chứng thực lời tố cáo của anh?"
+            }
+        },
+        {
+            "content": "để làm chứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để làm vững thêm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

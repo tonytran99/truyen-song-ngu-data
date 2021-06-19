@@ -1,0 +1,42 @@
+{
+    "word": "venue",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvenˌyo͞o/",
+            "/ˈvɛnˌju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛnjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nơi gặp gỡ",
+            "type": "",
+            "example": {
+                "en": "so restaurants, a variety of venues,",
+                "vi": "những nhà hàng, những nơi gặp gỡ"
+            }
+        },
+        {
+            "content": "nơi hẹn gặp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa điểm",
+            "type": "noun",
+            "example": {
+                "en": "And to make things worse, the venue, and then now this?",
+                "vi": "Và để khiến mọi chuyện tệ hơn, địa điểm, và giờ là chuyện này?"
+            }
+        }
+    ]
+}

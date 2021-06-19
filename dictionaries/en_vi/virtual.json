@@ -1,0 +1,52 @@
+{
+    "word": "virtual",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərCH(o͞o)əl/",
+            "/ˈvərtʃ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtʃʊ(ə)l/",
+            "/ˈvəːtjʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực sự",
+            "type": "adjective",
+            "example": {
+                "en": "So, to them, the railroad worm in stealth mode is virtually invisible.",
+                "vi": "Nên, đối với chúng, thực sự không thấy sâu đường xe lửa đang rón rén tới."
+            }
+        },
+        {
+            "content": "áo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thực tế",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "And, Elliot, we are on the verge of taking down this virtual reality.",
+                "vi": "Và, Elliot, chúng ta sắp sửa hạ bệ thực tế ảo."
+            }
+        },
+        {
+            "content": "ảo",
+            "type": "adjective",
+            "example": {
+                "en": "And it's sort of a metaphor for me for the virtual world.",
+                "vi": "Và nó khiến tôi nghĩ đến một thế giới ảo."
+            }
+        }
+    ]
+}

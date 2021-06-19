@@ -1,0 +1,55 @@
+{
+    "word": "housekeeper",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhousˌkēpər/",
+            "/ˈhaʊsˌkipər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊskiːpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà quản gia",
+            "type": "noun",
+            "example": {
+                "en": "Hanson helped Joe's housekeeper get her papers.",
+                "vi": "Hanson giúp bà quản gia của Joe lấy giấy phép."
+            }
+        },
+        {
+            "content": "quản gia",
+            "type": "noun",
+            "example": {
+                "en": "The housekeeper assured us you would not be here until tomorrow.",
+                "vi": "Bà quản gia đảm bảo với chúng tôi anh sẽ trở về vào ngày mai."
+            }
+        },
+        {
+            "content": "người coi nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người giữ nhà",
+            "type": "",
+            "example": {
+                "en": "I will call the housekeeper first thing in the morning and have them start getting the place ready.",
+                "vi": "Sáng mai mẹ gọi cho người giữ nhà ngay bảo họ chuẩn bị chỗ đó sẵn sàng."
+            }
+        },
+        {
+            "content": "nhân viên vệ sinh",
+            "type": "noun neutral",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "charmed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHärmd/",
+            "/tʃɑrmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɑːmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "may mắn",
+            "type": "adjective",
+            "example": {
+                "en": "Luckily, a very simple charm exists to repel a boggart.",
+                "vi": "Thật may mắn, có một phép thuật đơn giản để hoá giải chúng."
+            }
+        }
+    ]
+}

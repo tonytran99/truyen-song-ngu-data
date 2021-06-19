@@ -1,0 +1,63 @@
+{
+    "word": "cloister",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkloistər/",
+            "/ˈklɔɪstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɔɪstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tu viện",
+            "type": "noun",
+            "example": {
+                "en": "My poor child, keeping you cloistered up here in this",
+                "vi": "Cô em tội nghiệp, bắt cô sống như trong tu viện ở..."
+            }
+        },
+        {
+            "content": "hàng hiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành lang",
+            "type": "noun",
+            "example": {
+                "en": "He tells me there's a ghost in the cloisters.",
+                "vi": "Hắn nói có một hồn ma ngoài hành lang."
+            }
+        },
+        {
+            "content": "nhà tu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sống trong tu viện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi tu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa vào tu viện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

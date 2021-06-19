@@ -1,0 +1,39 @@
+{
+    "word": "fatten",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfatn/",
+            "/ˈfætn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfat(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vỗ béo",
+            "type": "verb",
+            "example": {
+                "en": "From the time we were born, we were fattened up on formula.",
+                "vi": "Từ lúc sinh ra chúng tôi đã được vỗ béo bằng bắp."
+            }
+        },
+        {
+            "content": "béo ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nuôi béo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

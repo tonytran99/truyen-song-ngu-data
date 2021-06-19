@@ -1,0 +1,39 @@
+{
+    "word": "circumvent",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsərkəmˈvent/",
+            "/ˌsərkəmˈvɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səːkəmˈvɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùng mưu để lừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá vỡ",
+            "type": "",
+            "example": {
+                "en": "What 's most disturbing is that in many cases , parents have helped their kids circumvent the rules .",
+                "vi": "Điều phiền toái nhất đó là trong nhiều trường hợp phụ huynh lại giúp trẻ phá vỡ luật này ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "demented",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmen(t)əd/",
+            "/dəˈmɛn(t)əd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmɛntɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuồng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loạn trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên",
+            "type": "adjective",
+            "example": {
+                "en": "What kind of demented psychopath would even think of this?",
+                "vi": "Chỉ có kẻ tâm thần điên loạn mới nghĩ ra chuyện này."
+            }
+        },
+        {
+            "content": "điên cuồng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

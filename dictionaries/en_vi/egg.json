@@ -1,0 +1,100 @@
+{
+    "word": "egg",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɡ/",
+            "/ɛɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trứng",
+            "type": "noun",
+            "example": {
+                "en": "It's so hot outside, you could fry an egg.",
+                "vi": "Nóng đến nỗi mà có thể luộc trứng trên nóc xe."
+            }
+        },
+        {
+            "content": "trứng gà",
+            "type": "noun",
+            "example": {
+                "en": "Chicken egg and this one's a penguin egg.",
+                "vi": "Trứng gà, và bên này là trứng chim cánh cụt."
+            }
+        },
+        {
+            "content": "mìn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lóng bom",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngư lôi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ném trứng vào",
+            "type": "",
+            "example": {
+                "en": "If someone was to throw an egg at the Sistine Chapel,",
+                "vi": "Nếu có ai đó ném trứng vào Nhà nguyện Sistine,"
+            }
+        },
+        {
+            "content": "quả trứng",
+            "type": "noun",
+            "example": {
+                "en": "But one egg was bigger than the rest , and it didn't hatch .",
+                "vi": "Nhưng có một quả trứng lớn hơn hẳn , vẫn không nở ."
+            }
+        },
+        {
+            "content": "thúc giục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trộn trứng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh trứng vào",
+            "type": "",
+            "example": {
+                "en": "Don't count your eggs before they're in the pudding.",
+                "vi": "Callaway, khoan đếm trứng trước khi chưa đánh trứng vào trong bột bánh."
+            }
+        },
+        {
+            "content": "Trứng",
+            "type": "",
+            "example": {
+                "en": "It's so hot outside, you could fry an egg.",
+                "vi": "Nóng đến nỗi mà có thể luộc trứng trên nóc xe."
+            }
+        },
+        {
+            "content": "Trung",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

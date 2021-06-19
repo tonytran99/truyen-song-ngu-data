@@ -1,0 +1,30 @@
+{
+    "word": "korea",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrēə/",
+            "/kəˈriə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "triều tiên",
+            "type": "",
+            "example": {
+                "en": "North Korea is the final country to sign the treaty.",
+                "vi": "Bắc Triều tiên là nước cuối cùng ký hiệp ước"
+            }
+        }
+    ]
+}

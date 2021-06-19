@@ -1,0 +1,50 @@
+{
+    "word": "done",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {
+                "en": "The greatest teaching of all must be done by righteous example.",
+                "vi": "Việc giảng dạy quan trọng nhất hơn hết phải được thực hiện bằng tấm gương ngay chính."
+            }
+        },
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {
+                "en": "Tom couldn't have done that without Mary's help.",
+                "vi": "Tom đã không thể nào hoàn thành nếu thiếu sự giúp đỡ của Mary."
+            }
+        },
+        {
+            "content": "nấu chín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã xong",
+            "type": "",
+            "example": {
+                "en": "Everything was done as it was supposed to be done.",
+                "vi": "Mọi việc lẽ ra đã xong như nó phải vậy."
+            }
+        }
+    ]
+}

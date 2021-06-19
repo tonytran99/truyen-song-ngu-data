@@ -1,0 +1,59 @@
+{
+    "word": "ephemeral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈfem(ə)rəl/",
+            "/əˈfɛm(ə)rəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈfɛm(ə)r(ə)l/",
+            "/ɪˈfiːm(ə)r(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chóng tàn",
+            "type": "",
+            "example": {
+                "en": "Perhaps only music, because it's ephemeral.",
+                "vi": "Có lẽ chỉ mình âm nhạc, vì nó chóng nở chóng tàn."
+            }
+        },
+        {
+            "content": "phù du",
+            "type": "",
+            "example": {
+                "en": "Trends, fashion, and pop ideology are fleeting and ephemeral.",
+                "vi": "Các xu hướng, thời trang và ý thức hệ dân gian hiện đại thì phù du và chóng tàn."
+            }
+        },
+        {
+            "content": "không bền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sớm chết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sớm nở tối tàn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

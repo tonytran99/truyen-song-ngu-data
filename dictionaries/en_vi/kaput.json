@@ -1,0 +1,61 @@
+{
+    "word": "kaput",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpo͝ot/",
+            "/kəˈpʊt/",
+            "/käˈpo͝ot/",
+            "/kɑˈpʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị khử rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị phá sạch rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị phăng teo rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị tiêu rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hư hỏng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phăng teo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiêu",
+            "type": "adjective",
+            "example": {
+                "en": "They told me I was kaput, finished, all washed up.",
+                "vi": "Họ nói là tôi tiêu rồi, kết thúc rồi, dụt bỏ hết rồi."
+            }
+        }
+    ]
+}

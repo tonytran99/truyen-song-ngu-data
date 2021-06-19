@@ -1,0 +1,68 @@
+{
+    "word": "inconsistent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkənˈsist(ə)nt/",
+            "/ˌɪnkənˈsɪst(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkənˈsɪst(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất nhất",
+            "type": "adjective",
+            "example": {
+                "en": "What inconsistency is pointed out at James 3:9-12, and what should we do in this regard?",
+                "vi": "Sự bất nhất nào được nêu ra ở Gia-cơ 3:9-12, và chúng ta nên làm gì về điều này?"
+            }
+        },
+        {
+            "content": "mâu thuẫn nhau",
+            "type": "",
+            "example": {
+                "en": "how they were telling inconsistent truths.",
+                "vi": "như thế nào mà chúng nói những sự thật mâu thuẫn nhau."
+            }
+        },
+        {
+            "content": "trái nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không mạch lạc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không nhất quán",
+            "type": "adjective",
+            "example": {
+                "en": "Mistake No. 1 : Being inconsistent .",
+                "vi": "Sai lầm thứ nhất : Không nhất quán"
+            }
+        },
+        {
+            "content": "mâu thuẫn",
+            "type": "noun",
+            "example": {
+                "en": "So how can we detect and correct these inconsistencies?",
+                "vi": "Thế thì làm thế nào chúng ta có thể phát hiện và sửa chữa những mâu thuẫn đó?"
+            }
+        }
+    ]
+}

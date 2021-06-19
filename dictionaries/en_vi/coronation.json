@@ -1,0 +1,47 @@
+{
+    "word": "coronation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkôrəˈnāSH(ə)n/",
+            "/ˌkɔrəˈneɪʃ(ə)n/",
+            "/ˌkärəˈnāSH(ə)n/",
+            "/ˌkɑrəˈneɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒrəˈneɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lễ đăng quang",
+            "type": "noun",
+            "example": {
+                "en": "I command the council to make all necessary arrangements for my coronation.",
+                "vi": "Ta yêu cầu hội đồng chuẩn bị tất cả cho lễ đăng quang của ta."
+            }
+        },
+        {
+            "content": "lễ lên ngôi",
+            "type": "noun",
+            "example": {
+                "en": "Go and prepare your people for the coronation of my nephew.",
+                "vi": "Hãy đi chuẩn bị lễ lên ngôi cho cháu của ta."
+            }
+        },
+        {
+            "content": "đăng quang",
+            "type": "noun",
+            "example": {
+                "en": "I command the council to make all necessary arrangements for my coronation.",
+                "vi": "Ta yêu cầu hội đồng chuẩn bị tất cả cho lễ đăng quang của ta."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "interstitial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈstiSHəl/",
+            "/ˌɪn(t)ərˈstɪʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈstɪʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẽ",
+            "type": "noun",
+            "example": {
+                "en": "It's definitely interstitial pulmonary fibrosis.",
+                "vi": "Chắc chắn là xơ hóa mô kẽ phổi."
+            }
+        },
+        {
+            "content": "kẽ hở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

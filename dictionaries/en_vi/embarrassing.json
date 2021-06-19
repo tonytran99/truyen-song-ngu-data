@@ -1,0 +1,37 @@
+{
+    "word": "embarrassing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈberəsiNG/",
+            "/əmˈbɛrəsɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbarəsɪŋ/",
+            "/ɛmˈbarəsɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm lúng túng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn trở",
+            "type": "",
+            "example": {
+                "en": "You've embarrassed me, my family.",
+                "vi": "Cô đã ngăn trở tôi, gia đình tôi."
+            }
+        }
+    ]
+}

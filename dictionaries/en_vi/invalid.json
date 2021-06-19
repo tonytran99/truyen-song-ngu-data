@@ -1,0 +1,124 @@
+{
+    "word": "invalid",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinvələd/",
+            "/ˈɪnvələd/",
+            "/inˈvaləd/",
+            "/ɪnˈvæləd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnvəlɪd/",
+            "/ɪnˈvalɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tàn phế",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "người bệnh tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tàn phế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tàn tật",
+            "type": "",
+            "example": {
+                "en": "A young boy once said to me: “You are an exceptionally handsome invalid!”",
+                "vi": "Một bé trai có lần nói với tôi: “Ông là một người tàn tật đẹp trai khác thường!”"
+            }
+        },
+        {
+            "content": "vô hiệu",
+            "type": "",
+            "example": {
+                "en": "Hence, he invalidates the accusation regarding the apostles’ alleged disobedience.",
+                "vi": "Như vậy, ông vô hiệu hóa lời buộc tội cho rằng các sứ đồ bất tuân luật pháp."
+            }
+        },
+        {
+            "content": "bất hợp lệ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bệnh tật",
+            "type": "",
+            "example": {
+                "en": "During all the years that my wife was an invalid, she was always with me at the meetings.",
+                "vi": "Trong bao năm bệnh tật, vợ tôi luôn ở bên cạnh tôi trong các buổi họp."
+            }
+        },
+        {
+            "content": "cho người bệnh tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho người tàn phế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho người tàn tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có căn cứ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có hiệu lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phế nhân",
+            "type": "noun",
+            "example": {
+                "en": "Where is the glory... in killing an invalid like me?",
+                "vi": "Có gì là vinh quang khi giết một phế nhân như tôi?"
+            }
+        },
+        {
+            "content": "trở thành tàn phế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn tật",
+            "type": "",
+            "example": {
+                "en": "You're talking about him like he's an invalid.",
+                "vi": "Cậu nói về ông ta cứ như ông ta bị tàn tật thế."
+            }
+        },
+        {
+            "content": "không hợp lệ",
+            "type": "",
+            "example": {
+                "en": "Without that authorization, the ordination would be invalid.",
+                "vi": "Nếu không có sự cho phép đó, thì giáo lễ sẽ không hợp lệ."
+            }
+        }
+    ]
+}

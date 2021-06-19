@@ -1,0 +1,79 @@
+{
+    "word": "watery",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərē/",
+            "/ˈwɔdəri/",
+            "/ˈwädərē/",
+            "/ˈwɑdəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loãng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lỏng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ướt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nhạt",
+            "type": "adjective",
+            "example": {
+                "en": "Just rewarding my taste buds for putting up with watery beer.",
+                "vi": "Đang thưởng cho vị giác của tôi vì đã chịu đựng một chầu bia nhạt."
+            }
+        },
+        {
+            "content": "bõng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạc thếch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhạt nhẽo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sũng nước",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẫm nước",
+            "type": "",
+            "example": {
+                "en": "My eyes are watery.",
+                "vi": "Mắt tôi đẫm nước."
+            }
+        }
+    ]
+}

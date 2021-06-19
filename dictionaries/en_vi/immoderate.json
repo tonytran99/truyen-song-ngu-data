@@ -1,0 +1,47 @@
+{
+    "word": "immoderate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌi(m)ˈmäd(ə)rət/",
+            "/ˌɪ(m)ˈmɑd(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmɒd(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quá trớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá độ",
+            "type": "adjective",
+            "example": {
+                "en": "Usually, an immoderate drinker gradually builds up a tolerance to alcohol.",
+                "vi": "Thường thì một người hay uống rượu quá độ sẽ dần dần uống được nhiều rượu hơn."
+            }
+        },
+        {
+            "content": "thái quá",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô độ",
+            "type": "adjective",
+            "example": {
+                "en": "How can you stop immoderate use of alcohol?",
+                "vi": "Làm thế nào bạn có thể ngưng dùng rượu vô độ?"
+            }
+        }
+    ]
+}

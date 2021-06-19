@@ -1,0 +1,83 @@
+{
+    "word": "wage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wāj/",
+            "/weɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lương",
+            "type": "noun",
+            "example": {
+                "en": "How much wages would come to such a wise man as that?",
+                "vi": "Một người khôn ngoan như vậy sẽ được lãnh lương bao nhiêu?"
+            }
+        },
+        {
+            "content": "tiến hành",
+            "type": "",
+            "example": {
+                "en": "You do not have to wage this fight on your own.",
+                "vi": "Bạn không phải tiến hành cuộc tranh chiến này dựa vào sức riêng bạn."
+            }
+        },
+        {
+            "content": "tiền lương",
+            "type": "noun",
+            "example": {
+                "en": "The people need bread and jobs and a decent wage.",
+                "vi": "Họ cần đồ ăn, việc làm và tiền lương ổn định."
+            }
+        },
+        {
+            "content": "hậu quả",
+            "type": "",
+            "example": {
+                "en": "What are “the wages” of sin?—Romans 6:23.",
+                "vi": "Hậu quả của tội lỗi là gì?—Rô-ma 6:23."
+            }
+        },
+        {
+            "content": "phần thưởng",
+            "type": "",
+            "example": {
+                "en": "They no longer earn any wages.",
+                "vi": "Họ cũng chẳng được phần thưởng gì hết."
+            }
+        },
+        {
+            "content": "tiền công",
+            "type": "noun",
+            "example": {
+                "en": "In Japan wages are usually in proportion to seniority.",
+                "vi": "Ở Nhật Bản tiền công thường tuơng xứng với thâm niên trong nghề."
+            }
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tiền công",
+            "type": "",
+            "example": {
+                "en": "In Japan wages are usually in proportion to seniority.",
+                "vi": "Ở Nhật Bản tiền công thường tuơng xứng với thâm niên trong nghề."
+            }
+        }
+    ]
+}

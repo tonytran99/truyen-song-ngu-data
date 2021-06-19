@@ -1,0 +1,82 @@
+{
+    "word": "hunger",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəNGɡər/",
+            "/ˈhəŋɡər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌŋɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đói",
+            "type": "noun",
+            "example": {
+                "en": "Those who are suffering from hunger in Africa need urgent help.",
+                "vi": "Những người chịu nạn đói ở châu Phi cần sự trợ giúp khẩn cấp."
+            }
+        },
+        {
+            "content": "sự đói",
+            "type": "noun",
+            "example": {
+                "en": "True happiness results when this spiritual hunger is satisfied.",
+                "vi": "Người ta sung sướng thật khi được thỏa mãn sự đói khát về thiêng liêng."
+            }
+        },
+        {
+            "content": "sự khao khát",
+            "type": "",
+            "example": {
+                "en": "Why is effort needed to cultivate a hunger for spiritual food?",
+                "vi": "Tại sao cần phải nỗ lực để vun trồng sự khao khát thức ăn thiêng liêng?"
+            }
+        },
+        {
+            "content": "tình trạng đói",
+            "type": "noun",
+            "example": {
+                "en": "The fact is, we have an enormous buffer in rich countries between ourselves and hunger.",
+                "vi": "Sự thật là, chúng ta đang có một cách biệt lớn giữa các quốc gia phát triển, và tình trạng đói ăn."
+            }
+        },
+        {
+            "content": "cơn đói",
+            "type": "noun",
+            "example": {
+                "en": "A person might relieve hunger pangs by eating junk food.",
+                "vi": "Một người có thể ăn thức ăn nhanh để thỏa mãn cơn đói cồn cào."
+            }
+        },
+        {
+            "content": "bắt nhịn đói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảm thấy đói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho đói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ",
+            "type": "noun adjective Suffix",
+            "example": {}
+        }
+    ]
+}

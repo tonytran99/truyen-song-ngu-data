@@ -1,0 +1,38 @@
+{
+    "word": "extant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekstənt/",
+            "/ˈɛkstənt/",
+            "/ekˈstant/",
+            "/ɛkˈstænt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstant/",
+            "/ɛkˈstant/",
+            "/ˈɛkst(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiện có",
+            "type": "",
+            "example": {
+                "en": "This statement does not appear in any extant Hebrew manuscript.",
+                "vi": "Câu nói này không thấy trong bất cứ bản Kinh Thánh chép tay nào hiện có bằng tiếng Hê-bơ-rơ."
+            }
+        },
+        {
+            "content": "hiện còn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

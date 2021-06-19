@@ -1,0 +1,30 @@
+{
+    "word": "dashed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daSHt/",
+            "/dæʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiêu tan",
+            "type": "adjective",
+            "example": {
+                "en": "Such hopes can be easily dashed if we do not act as good examples.",
+                "vi": "Những hy vọng như vậy có thể dễ bị tiêu tan nếu chúng ta không nêu gương sáng."
+            }
+        }
+    ]
+}

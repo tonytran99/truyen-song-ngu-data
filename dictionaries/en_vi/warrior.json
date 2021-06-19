@@ -1,0 +1,79 @@
+{
+    "word": "warrior",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrēər/",
+            "/ˈwɔriər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒrɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến binh",
+            "type": "noun",
+            "example": {
+                "en": "She is like, the warrior, we need for the sword of Crane.",
+                "vi": "Cô ấy có vẻ là chiến binh vĩ đại chúng ta cần tìm."
+            }
+        },
+        {
+            "content": "chiến sĩ",
+            "type": "noun",
+            "example": {
+                "en": "The stripling warriors did not have to wonder what their parents believed.",
+                "vi": "Các chiến sĩ trẻ tuổi không cần phải tự hỏi cha mẹ của họ tin điều gì."
+            }
+        },
+        {
+            "content": "võ sĩ",
+            "type": "noun",
+            "example": {
+                "en": "Who am I to judge a warrior based on his size?",
+                "vi": "Ta là ai mà lại có quyền đánh giá một võ sĩ dựa vào kích cỡ chứ?"
+            }
+        },
+        {
+            "content": "binh lính",
+            "type": "noun",
+            "example": {
+                "en": "And you and your warriors could help me to fulfill them.",
+                "vi": "Ngài và cả binh lính của ngài Có thể giúp ta làm được điều đó."
+            }
+        },
+        {
+            "content": "chinh phu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chính phủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quân nhân",
+            "type": "",
+            "example": {
+                "en": "These women showed that warriors come in all shapes and sizes.",
+                "vi": "Những người phụ nữ này cho thấy quân nhân xuất thân ở bất kỳ hình thức và chuẩn mực."
+            }
+        },
+        {
+            "content": "Chiến binh",
+            "type": "",
+            "example": {
+                "en": "He's now dressing in this road warrior persona.",
+                "vi": "Hắn đang ăn mặc trong nhân vật Chiến binh đường phố."
+            }
+        }
+    ]
+}

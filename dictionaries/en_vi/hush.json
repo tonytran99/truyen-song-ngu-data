@@ -1,0 +1,105 @@
+{
+    "word": "hush",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həSH/",
+            "/həʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "im",
+            "type": "adjective verb",
+            "example": {
+                "en": "And his story was hushed as he assimilated.",
+                "vi": "Và câu chuyện của ông đi vào im lặng khi ông bị đồng hoá."
+            }
+        },
+        {
+            "content": "suỵt",
+            "type": "",
+            "example": {
+                "en": "He simply “rebuked the wind and said to the sea: ‘Hush!",
+                "vi": "Chúa Giê-su chỉ “quở gió và phán với biển: ‘Suỵt!"
+            }
+        },
+        {
+            "content": "bưng bít",
+            "type": "",
+            "example": {
+                "en": "Or just a passing folly that her friends can hush up and will in time be quite forgotten.",
+                "vi": "Hoặc chỉ là ý nghĩ điên rồ thoáng qua mà bạn con bé bưng bít và sẽ nhanh chóng bị quên lãng thôi."
+            }
+        },
+        {
+            "content": "im đi",
+            "type": "",
+            "example": {
+                "en": "Oh, hush your mouth.",
+                "vi": "Ồ, im đi, Mammy."
+            }
+        },
+        {
+            "content": "làm cho im đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho nín lặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nín lặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự im lặng",
+            "type": "",
+            "example": {
+                "en": "There was a hush, followed by loud cheering.",
+                "vi": "Ban đầu có sự im lặng giây lát, sau đó là tiếng hoan hô lớn."
+            }
+        },
+        {
+            "content": "ỉm đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tĩnh mịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yên lặng",
+            "type": "adjective noun",
+            "example": {
+                "en": "A quiet hush falls over the entire unit when a newborn is fighting for life.",
+                "vi": "Một bầu không khí yên lặng bao trùm toàn khoa khi một bé sơ sinh đang chống chọi để sống."
+            }
+        },
+        {
+            "content": "yên tĩnh",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

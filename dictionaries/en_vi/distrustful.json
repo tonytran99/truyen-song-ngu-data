@@ -1,0 +1,51 @@
+{
+    "word": "distrustful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/disˈtrəstfəl/",
+            "/dɪsˈtrəstfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈtrʌstfʊl/",
+            "/dɪsˈtrʌstf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không tin",
+            "type": "",
+            "example": {
+                "en": "We usually distrust those areas that fall in between things.",
+                "vi": "Thường thì chúng ta không tin vào những khu vực mà lọt thỏm giữa những thứ khác như thế này."
+            }
+        },
+        {
+            "content": "hay nghi ngờ",
+            "type": "",
+            "example": {
+                "en": "It may also result in other students fearing or distrusting the teacher.",
+                "vi": "Điều này cũng có thể đưa đến việc các học viên khác sợ hãi hay nghi ngờ giảng viên."
+            }
+        },
+        {
+            "content": "hay ngờ vực",
+            "type": "",
+            "example": {
+                "en": "Your father's a distrustful fellow.",
+                "vi": "Cha cô là anh bạn hay ngờ vực nhỉ."
+            }
+        },
+        {
+            "content": "không tin cậy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "foyer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfoiər/",
+            "/ˈfɔɪər/",
+            "/ˈfoiˌā/",
+            "/ˈfɔɪˌeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔɪeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng chờ",
+            "type": "",
+            "example": {
+                "en": "Master Drumm is in the foyer.",
+                "vi": "Drumm Đại sư ở phòng chờ."
+            }
+        },
+        {
+            "content": "phòng giải lao",
+            "type": "",
+            "example": {
+                "en": "This is the foyer, which is kind of a garden structure.",
+                "vi": "Đây là phòng giải lao, theo cấu trúc 1 khu vườn."
+            }
+        }
+    ]
+}

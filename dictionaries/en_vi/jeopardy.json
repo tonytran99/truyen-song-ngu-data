@@ -1,0 +1,54 @@
+{
+    "word": "jeopardy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjepərdē/",
+            "/ˈdʒɛpərdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛpədi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguy cơ",
+            "type": "",
+            "example": {
+                "en": "Already some of them are in jeopardy of being lost.",
+                "vi": "Một số giá trị này đang có nguy cơ bị mất."
+            }
+        },
+        {
+            "content": "cảnh hiểm nghèo",
+            "type": "",
+            "example": {
+                "en": "Ma'am, I need to see him right away, otherwise hundreds of American lives will be in jeopardy.",
+                "vi": "Madam, tôi cần gặp ông ta ngay, nếu ko, tính mạng của hàng trăm công dân Mỹ sẽ ở vào tình cảnh hiểm nghèo."
+            }
+        },
+        {
+            "content": "cảnh nguy hiểm",
+            "type": "",
+            "example": {
+                "en": "She gave up a comfortable lifestyle and even put her life in jeopardy.",
+                "vi": "Bà đã từ bỏ cuộc sống tiện nghi và thậm chí lâm vào hoàn cảnh nguy hiểm."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "noun",
+            "example": {
+                "en": "She gave up a comfortable lifestyle and even put her life in jeopardy.",
+                "vi": "Bà đã từ bỏ cuộc sống tiện nghi và thậm chí lâm vào hoàn cảnh nguy hiểm."
+            }
+        }
+    ]
+}

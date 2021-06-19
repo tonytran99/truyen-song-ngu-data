@@ -1,0 +1,67 @@
+{
+    "word": "folder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfōldər/",
+            "/ˈfoʊldər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəʊldə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bìa hồ sơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thư mục",
+            "type": "noun",
+            "example": {
+                "en": "The view properties of all folders will be changed. Do you want to continue?",
+                "vi": "Các thuộc tính xem của mọi thư mục sẽ bị thay đổi. Bạn có muốn tiếp tục không?"
+            }
+        },
+        {
+            "content": "bìa cứng",
+            "type": "",
+            "example": {
+                "en": "Some publishers keep their literature in folders or clear plastic bags.",
+                "vi": "Một số người công bố để ấn phẩm trong bìa cứng hoặc túi bằng chất dẻo trong."
+            }
+        },
+        {
+            "content": "dụng cụ gập giấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kính gấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người gấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài liệu xếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cặp",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

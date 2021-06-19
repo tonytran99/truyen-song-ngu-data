@@ -1,0 +1,79 @@
+{
+    "word": "forth",
+    "type": [
+        "adverb",
+        "adjective",
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrTH/",
+            "/fɔrθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xa",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "về phía trước",
+            "type": "",
+            "example": {
+                "en": "In time, all foul things come forth.",
+                "vi": "Đến lúc nào đó, mọi thứ bẩn thỉu cùng tiến về phía trước."
+            }
+        },
+        {
+            "content": "ra phía trước",
+            "type": "",
+            "example": {
+                "en": "When I call your name, you will come forth.",
+                "vi": "Khi ta gọi đến tên ai thì bước ra phía trước."
+            }
+        },
+        {
+            "content": "ra",
+            "type": "noun verb",
+            "example": {
+                "en": "It sends forth signals of light easily seen and never failing.",
+                "vi": "Nó gửi ra tín hiệu của ngọn đèn được thấy dễ dàng và không bao giờ thất bại."
+            }
+        },
+        {
+            "content": "and so f.vân vân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lộ ra",
+            "type": "",
+            "example": {
+                "en": "It means \"to bring forth what is within,",
+                "vi": "có nghĩa là làm những gì ở bên trong biểu lộ ra bên ngoài,"
+            }
+        },
+        {
+            "content": "ra khỏi",
+            "type": "",
+            "example": {
+                "en": "After the floods were abated, they went forth out of the ark.",
+                "vi": "Sau khi nước lụt rút đi, họ bước ra khỏi tàu."
+            }
+        },
+        {
+            "content": "từ nay về sau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

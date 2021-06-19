@@ -1,0 +1,47 @@
+{
+    "word": "westward",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwestwərd/",
+            "/ˈwɛstwərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛstwəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về phía tây",
+            "type": "",
+            "example": {
+                "en": "Most of the German fire now is concentrated to the westward.",
+                "vi": "hầu hết hoả lực của bọn Đức đang tập trung về phía Tây."
+            }
+        },
+        {
+            "content": "hướng tây",
+            "type": "",
+            "example": {
+                "en": "What about sailing in the opposite direction, going westward?",
+                "vi": "Nếu đi ngược với hướng gió, tức là về hướng tây thì sao?"
+            }
+        },
+        {
+            "content": "tây",
+            "type": "adjective noun",
+            "example": {
+                "en": "What about sailing in the opposite direction, going westward?",
+                "vi": "Nếu đi ngược với hướng gió, tức là về hướng tây thì sao?"
+            }
+        }
+    ]
+}

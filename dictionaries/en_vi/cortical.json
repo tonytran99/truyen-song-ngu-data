@@ -1,0 +1,37 @@
+{
+    "word": "cortical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrdək(ə)l/",
+            "/ˈkɔrdək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vỏ",
+            "type": "noun",
+            "example": {
+                "en": "He has what we call cortical blindness and it's irreversible.",
+                "vi": "Chúng tôi gọi tình trạng của anh ta là mù vỏ não."
+            }
+        },
+        {
+            "content": "vỏ não",
+            "type": "",
+            "example": {
+                "en": "He has what we call cortical blindness and it's irreversible.",
+                "vi": "Chúng tôi gọi tình trạng của anh ta là mù vỏ não."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "goddess",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡädəs/",
+            "/ˈɡɑdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒdɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nữ thần",
+            "type": "noun",
+            "example": {
+                "en": "Now they were surrounded by a people who worshiped mythological gods and goddesses.",
+                "vi": "Giờ đây, chung quanh họ là một dân tộc thờ những thần và nữ thần huyền hoặc."
+            }
+        },
+        {
+            "content": "女神",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nữ thần",
+            "type": "",
+            "example": {
+                "en": "The goddess of justice (left) beating the goddess of injustice",
+                "vi": "Nữ thần công lý (trái) đánh nữ thần bất công"
+            }
+        }
+    ]
+}

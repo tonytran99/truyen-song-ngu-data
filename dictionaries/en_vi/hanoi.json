@@ -1,0 +1,35 @@
+{
+    "word": "hanoi",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/häˈnoi/",
+            "/hɑˈnɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haˈnɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Hà Nội",
+            "type": "proper",
+            "example": {
+                "en": "He has worked in Hanoi before.",
+                "vi": "Anh ấy từng làm việc ở Hà Nội."
+            }
+        },
+        {
+            "content": "河內",
+            "type": "proper",
+            "example": {}
+        }
+    ]
+}

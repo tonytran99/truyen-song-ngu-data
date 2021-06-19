@@ -1,0 +1,35 @@
+{
+    "word": "gallows",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡalōz/",
+            "/ˈɡæloʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaləʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giá treo cổ",
+            "type": "plural",
+            "example": {
+                "en": "The gallows cast a shadow even at night.",
+                "vi": "Cái giá treo cổ phủ một bóng đen, ngay cả trong đêm."
+            }
+        },
+        {
+            "content": "giá xử giảo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

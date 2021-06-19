@@ -1,0 +1,34 @@
+{
+    "word": "gull",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hải âu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mòng biển",
+            "type": "noun",
+            "example": {
+                "en": "With the dawn came the gulls looking for breakfast.",
+                "vi": "Bình minh lên cùng với những con mòng biển tìm kiếm bữa sáng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "deserving",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzərviNG/",
+            "/dəˈzərvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzəːvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng",
+            "type": "adjective verb",
+            "example": {
+                "en": "I think that his proposal deserves some thinking.",
+                "vi": "Tôi cho rằng gợi ý của anh ấy đáng được xem xét."
+            }
+        },
+        {
+            "content": "đáng khen",
+            "type": "",
+            "example": {
+                "en": "Therefore, let us not fail to commend deserving ones.",
+                "vi": "Do đó, chúng ta chớ quên khen ngợi những người đáng khen."
+            }
+        },
+        {
+            "content": "đáng thưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xứng đáng",
+            "type": "adjective",
+            "example": {
+                "en": "It deserves our care, but it also deserves our revision.",
+                "vi": "Nó xứng đáng được quan tâm, nhưng nó cũng xứng đáng được xem xét lại."
+            }
+        },
+        {
+            "content": "đáng được",
+            "type": "",
+            "example": {
+                "en": "I think that his proposal deserves some thinking.",
+                "vi": "Tôi cho rằng gợi ý của anh ấy đáng được xem xét."
+            }
+        }
+    ]
+}

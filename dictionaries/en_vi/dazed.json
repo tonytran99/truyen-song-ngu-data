@@ -1,0 +1,74 @@
+{
+    "word": "dazed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dāzd/",
+            "/deɪzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/deɪzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bơ thờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "choáng váng",
+            "type": "adjective",
+            "example": {
+                "en": "You feel like you're walking around in a daze.",
+                "vi": "Bạn cảm thấy như đang đi lòng vòng trong khi choáng váng."
+            }
+        },
+        {
+            "content": "ngơ ngác",
+            "type": "adjective",
+            "example": {
+                "en": "\" Caught in the machinery , \" repeated Mr. White , in a dazed fashion , \" yes . \"",
+                "vi": "\" Bị máy cuốn ư , \" ông White lặp lại đầy ngơ ngác , \" Vâng . \""
+            }
+        },
+        {
+            "content": "bàng hoàng",
+            "type": "adjective",
+            "example": {
+                "en": "I found him prone and he's sort of dazed.",
+                "vi": "Tôi thấy anh ấy nằm sóng soài, và anh ấy có vẻ bàng hoàng."
+            }
+        },
+        {
+            "content": "kinh ngạc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngạc nhiên",
+            "type": "adjective",
+            "example": {
+                "en": "Dazed and distracted Can't you tell",
+                "vi": "Ngạc nhiên và bối rối bạn không thể chối"
+            }
+        },
+        {
+            "content": "sửng sốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sững sờ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "bi",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bī/",
+            "/baɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai",
+            "type": "numeral adjective",
+            "example": {
+                "en": "We want it to be bi-directional.",
+                "vi": "Chúng tôi muốn công cụ này có tính hai chiều."
+            }
+        }
+    ]
+}

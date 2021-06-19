@@ -1,0 +1,76 @@
+{
+    "word": "few",
+    "type": [
+        "adjective",
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fyo͞o/",
+            "/fju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ít",
+            "type": "determiner, adjective",
+            "example": {
+                "en": "Quite a few people have two cars.",
+                "vi": "Khá ít người có cả hai chiếc xe ô tô."
+            }
+        },
+        {
+            "content": "vài",
+            "type": "",
+            "example": {
+                "en": "Before going home, I have a few drinks to relax.",
+                "vi": "Trước khi về nhà, tôi uống một vài ly để thư giãn."
+            }
+        },
+        {
+            "content": "một vài",
+            "type": "noun",
+            "example": {
+                "en": "Before going home, I have a few drinks to relax.",
+                "vi": "Trước khi về nhà, tôi uống một vài ly để thư giãn."
+            }
+        },
+        {
+            "content": "một ít",
+            "type": "",
+            "example": {
+                "en": "No, I think it's good to have a few secrets.",
+                "vi": "Không, anh nghĩ có một ít bí mật cũng tốt."
+            }
+        },
+        {
+            "content": "số ít",
+            "type": "noun",
+            "example": {
+                "en": "No longer will we, the people, suffer for the few.",
+                "vi": "Nhân dân sẽ không chịu nỗi đau vì một số ít nữa."
+            }
+        },
+        {
+            "content": "ít vải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhiều",
+            "type": "",
+            "example": {
+                "en": "Oh, sure, they stink a little, but no more than a few alive ones that I know.",
+                "vi": "Tất nhiên, họ có hôi một chút, nhưng không nhiều hơn vài người còn sống mà tôi biết."
+            }
+        }
+    ]
+}

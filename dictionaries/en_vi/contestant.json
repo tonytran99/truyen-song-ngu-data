@@ -1,0 +1,71 @@
+{
+    "word": "contestant",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtestənt/",
+            "/kənˈtɛstənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtɛst(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người dự thi",
+            "type": "",
+            "example": {
+                "en": "And now our fourth and final contestant.",
+                "vi": "Và giờ là người dự thi thứ tư và cuối cùng của chúng ta."
+            }
+        },
+        {
+            "content": "đối thủ",
+            "type": "noun",
+            "example": {
+                "en": "While pretending to study I actually spent days comparing the contestants for my father.",
+                "vi": "Trong khi giả bộ học bài, tôi bỏ ra nhiều ngày để so sánh các đối thủ cho cha tôi."
+            }
+        },
+        {
+            "content": "người tranh cãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tranh giải",
+            "type": "",
+            "example": {
+                "en": "(1 Corinthians 9:26) How would a contestant direct his blows or thrusts?",
+                "vi": "(1 Cô-rinh-tô 9:26) Một người tranh giải điều khiển cú đấm của mình như thế nào?"
+            }
+        },
+        {
+            "content": "người tranh luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thí sinh",
+            "type": "",
+            "example": {
+                "en": "We have one more contestant, and then we'll be crowning our winner.",
+                "vi": "Còn một thí sinh nữa chúng ta sẽ tìm ra người chiến thắng."
+            }
+        },
+        {
+            "content": "đấu thủ",
+            "type": "",
+            "example": {
+                "en": "Now he streaks past the other contestants... who are on their way back to retrieve their batons!",
+                "vi": "Bây giờ anh đang vượt qua những đấu thủ khác... đang chạy ngược về để tìm gậy!"
+            }
+        }
+    ]
+}

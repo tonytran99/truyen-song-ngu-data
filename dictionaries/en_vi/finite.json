@@ -1,0 +1,50 @@
+{
+    "word": "finite",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīnīt/",
+            "/ˈfaɪnaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪnʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có hạn",
+            "type": "",
+            "example": {
+                "en": "These figures couldn't be exact, but we knew those materials were finite.",
+                "vi": "Những con số này không thể chính xác, nhưng ta được rằng vật liệu kia là có hạn."
+            }
+        },
+        {
+            "content": "hạn chế",
+            "type": "",
+            "example": {
+                "en": "The Hilltop's dry, our supply's finite.",
+                "vi": "Nếu Hilltop cạn dần, nguồn cung của ta sẽ bị hạn chế."
+            }
+        },
+        {
+            "content": "hữu hạn",
+            "type": "",
+            "example": {
+                "en": "But what if passion has a finite shelf life?",
+                "vi": "Nhưng điều gì sẽ đến nếu niềm đam mê cũng chỉ có hữu hạn?"
+            }
+        }
+    ]
+}

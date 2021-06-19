@@ -1,0 +1,56 @@
+{
+    "word": "bludgeon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbləjən/",
+            "/ˈblədʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblʌdʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùi cui",
+            "type": "noun",
+            "example": {
+                "en": "Well the bludgeoning could suggest frustration or rage.",
+                "vi": "Đánh bằng dùi cui có thể cho thấy tâm trạng thất vọng hay giận dữ."
+            }
+        },
+        {
+            "content": "cái dùi cui",
+            "type": "noun",
+            "example": {
+                "en": "You have a nose like a bludgeon.",
+                "vi": "Ông có một cái mũi như cái dùi cui."
+            }
+        },
+        {
+            "content": "đánh bằng dùi cui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gậy",
+            "type": "noun",
+            "example": {
+                "en": "He bludgeoned a man to death with a crowbar in cold blood.",
+                "vi": "Hắn lạnh lùng đập một người đến chết bằng một cây gậy sắt."
+            }
+        },
+        {
+            "content": "roi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

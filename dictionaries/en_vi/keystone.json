@@ -1,0 +1,35 @@
+{
+    "word": "keystone",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌstōn/",
+            "/ˈkiˌstoʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːstəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rường cột",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đá đỉnh vòm",
+            "type": "",
+            "example": {
+                "en": "Imagine what would happen to the arch if the keystone was removed.",
+                "vi": "Hãy tưởng tượng điều gì sẽ xảy ra cho vòm cung nếu viên đá đỉnh vòm bị lấy ra."
+            }
+        }
+    ]
+}

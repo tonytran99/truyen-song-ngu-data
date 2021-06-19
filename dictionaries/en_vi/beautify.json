@@ -1,0 +1,42 @@
+{
+    "word": "beautify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbyo͞odəˌfī/",
+            "/ˈbjudəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbjuːtɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm đẹp",
+            "type": "",
+            "example": {
+                "en": "Hey, are you interested in beautifying any other parts of the neighborhood?",
+                "vi": "Mà này, cậu có hứng thú với việc làm đẹp các bộ phận khác trong khu phố không?"
+            }
+        },
+        {
+            "content": "trang điểm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tô điểm",
+            "type": "",
+            "example": {
+                "en": "Just like a graffiti artist, where they beautify walls,",
+                "vi": "Cũng giống như một họa sĩ, người tô điểm cho các bức tường,"
+            }
+        }
+    ]
+}

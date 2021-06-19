@@ -1,0 +1,110 @@
+{
+    "word": "blur",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bləː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mờ",
+            "type": "adjective",
+            "example": {
+                "en": "Distant things look blurred.",
+                "vi": "Các vật thể ở xa có vẻ mờ mịt."
+            }
+        },
+        {
+            "content": "nhoè",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết mờ",
+            "type": "noun",
+            "example": {
+                "en": "It's all a blur.",
+                "vi": "Tất cả chỉ là một vết mờ."
+            }
+        },
+        {
+            "content": "bôi bẩn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bết nhơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "che mờ",
+            "type": "",
+            "example": {
+                "en": "A digiKam image plugin to apply blurring special effects to an image",
+                "vi": "Một phần bổ sung ảnh digiKam để áp dụng hiệu ứng che mờ cho ảnh"
+            }
+        },
+        {
+            "content": "dáng mập mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mờ",
+            "type": "",
+            "example": {
+                "en": "I think the kid sister's blurring your vision.",
+                "vi": "Chắc cô em gái cậu nhóc làm mờ tầm nhìn của anh rồi."
+            }
+        },
+        {
+            "content": "làm mờ đi",
+            "type": "",
+            "example": {
+                "en": "I investigate photography's ability to blur truth and fiction,",
+                "vi": "Tôi phân tích khả năng của nhiếp ảnh làm mờ đi sự thật và điều hư cấu,"
+            }
+        },
+        {
+            "content": "trạng thái mập mờ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vết mực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết ố",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mờ nhạt",
+            "type": "",
+            "example": {
+                "en": "In time, this blurred, peripheral image may lose its appeal and simply disappear from view.",
+                "vi": "Qua thời gian, hình ảnh mờ nhạt này có thể không còn sức lôi cuốn rồi mất hút."
+            }
+        }
+    ]
+}

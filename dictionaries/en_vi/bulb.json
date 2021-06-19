@@ -1,0 +1,65 @@
+{
+    "word": "bulb",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəlb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌlb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "củ",
+            "type": "noun",
+            "example": {
+                "en": "Meanwhile, workers separate whole garlic bulbs into individual cloves.",
+                "vi": "Trong thời gian đó, công nhân sẽ tách củ tỏi thành những tép lẻ."
+            }
+        },
+        {
+            "content": "bóng đèn",
+            "type": "noun",
+            "example": {
+                "en": "A small, naked bulb gave the only illumination.",
+                "vi": "Một bóng đèn nhỏ không có chao là nguồn ánh sáng duy nhất."
+            }
+        },
+        {
+            "content": "hành",
+            "type": "noun",
+            "example": {
+                "en": "The bulb functions as the hair factory.",
+                "vi": "Hành có chức năng như nhà máy sản xuất tóc."
+            }
+        },
+        {
+            "content": "bầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hình củ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quả bóp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân hành",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

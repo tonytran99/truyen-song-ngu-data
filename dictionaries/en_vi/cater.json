@@ -1,0 +1,58 @@
+{
+    "word": "cater",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkādər/",
+            "/ˈkeɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cung cấp thực phẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải trí cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lương thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mua vui cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phục vụ cho",
+            "type": "",
+            "example": {
+                "en": "You woke me up to cater your booty call?",
+                "vi": "Các con đánh thức mẹ để phục vụ cho mấy cái chiến lợi phẩm đó hả?"
+            }
+        },
+        {
+            "content": "phục vụ",
+            "type": "noun",
+            "example": {
+                "en": "This is a store that caters specially to students.",
+                "vi": "Cửa hàng này chỉ phục vụ học sinh sinh viên."
+            }
+        }
+    ]
+}

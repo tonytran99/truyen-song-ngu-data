@@ -1,0 +1,64 @@
+{
+    "word": "bourgeois",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͝orˈZHwä/",
+            "/bʊrˈʒwɑ/",
+            "/ˈbo͝orZHwä/",
+            "/ˈbʊrʒwɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊəʒwɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ cỡ 8",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cỡ 8",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giai cấp tư sản",
+            "type": "adjective",
+            "example": {
+                "en": "In bourgeois terms, it was a war between the Allies and Germany.",
+                "vi": "Đối với giai cấp tư sản đó là cuộc chiến giữa Đồng Minh và Đức."
+            }
+        },
+        {
+            "content": "người tư sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trưởng giả",
+            "type": "adjective",
+            "example": {
+                "en": "I mean, I'm such a bourgeois little thing, too scared even to reveal myself to a painter.",
+                "vi": "Ý tôi là, tôi chỉ là một thứ trưởng giả nhỏ bé, quá sợ hãi không dám phô bày mình trước một họa sĩ."
+            }
+        },
+        {
+            "content": "tư sản",
+            "type": "",
+            "example": {
+                "en": "But I am the proletarian of the pianoforte while you are the bourgeois.",
+                "vi": "Nhưng tôi là kẻ vô sản chơi đàn piano còn anh là tư sản."
+            }
+        }
+    ]
+}

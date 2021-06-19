@@ -1,0 +1,66 @@
+{
+    "word": "anyone",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈenēˌwən/",
+            "/ˈɛniˌwən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛnɪwʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "Not being useful to anyone is simply being worthless.",
+                "vi": "Không có ích cho bất kỳ ai thì đơn giản là vô dụng."
+            }
+        },
+        {
+            "content": "bất cứ ai",
+            "type": "pronoun",
+            "example": {
+                "en": "We have to get that document back before Tom shows it to anyone.",
+                "vi": "Chúng ta phải lấy lại tài liệu đó trước khi Tom đưa nó cho bất cứ ai."
+            }
+        },
+        {
+            "content": "bất cứ người nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất kỳ ai",
+            "type": "pronoun",
+            "example": {
+                "en": "Not being useful to anyone is simply being worthless.",
+                "vi": "Không có ích cho bất kỳ ai thì đơn giản là vô dụng."
+            }
+        },
+        {
+            "content": "người nào",
+            "type": "",
+            "example": {
+                "en": "I don't think that anyone is worth more than anyone else.",
+                "vi": "Tao không nhĩ rằng ai đó có giá trị hơn một người nào khác."
+            }
+        },
+        {
+            "content": "người ta",
+            "type": "",
+            "example": {
+                "en": "You can be anyone you want to be.",
+                "vi": "Anh không thể bắt người ta theo anh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "chuff",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHəf/",
+            "/tʃəf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người quê mùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quê mùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô lỗ",
+            "type": "",
+            "example": {
+                "en": "Pixie, perhaps as well as medicine for your poor, worn-out chuff, the lady may have something to repair a faulty memory.",
+                "vi": "Pixie, có lẽ cũng như thuốc dành cho ông già thô lỗ của cô, cô ta có thể có thuốc phục hồi trí nhớ."
+            }
+        }
+    ]
+}

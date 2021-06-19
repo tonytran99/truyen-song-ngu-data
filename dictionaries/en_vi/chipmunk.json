@@ -1,0 +1,30 @@
+{
+    "word": "chipmunk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHipˌməNGk/",
+            "/ˈtʃɪpˌməŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɪpmʌŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sóc chuột",
+            "type": "noun",
+            "example": {
+                "en": "I have a reason to believe there's a fugitive chipmunk in your beard.",
+                "vi": "Tôi có lý do để tin rằng có một con sóc chuột đang trốn trong râu của anh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "contraband",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäntrəˌband/",
+            "/ˈkɑntrəˌbænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒntrəband/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lậu",
+            "type": "adjective",
+            "example": {
+                "en": "We're basically clearing house for all the contraband that gets shipped out of the war zones.",
+                "vi": "Chúng tôi đang dọn dẹp các hàng lậu thuế sẽ được gửi tới khu vực chiến tranh."
+            }
+        },
+        {
+            "content": "chui",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hàng hoá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lậu thuế",
+            "type": "",
+            "example": {
+                "en": "We're basically clearing house for all the contraband that gets shipped out of the war zones.",
+                "vi": "Chúng tôi đang dọn dẹp các hàng lậu thuế sẽ được gửi tới khu vực chiến tranh."
+            }
+        },
+        {
+            "content": "sự buôn lậu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự lậu thuế",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hàng lậu",
+            "type": "noun",
+            "example": {
+                "en": "We're basically clearing house for all the contraband that gets shipped out of the war zones.",
+                "vi": "Chúng tôi đang dọn dẹp các hàng lậu thuế sẽ được gửi tới khu vực chiến tranh."
+            }
+        }
+    ]
+}

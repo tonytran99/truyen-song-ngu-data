@@ -1,0 +1,89 @@
+{
+    "word": "diseased",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzēzd/",
+            "/dəˈzizd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈziːzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh hoạn",
+            "type": "adjective",
+            "example": {
+                "en": "Although Jehoash survived, he was left a broken and diseased man.",
+                "vi": "Mặc dù được sống sót, nhưng Giô-ách chỉ còn là một người yếu đuối và bệnh hoạn."
+            }
+        },
+        {
+            "content": "bệnh",
+            "type": "adjective",
+            "example": {
+                "en": "It's a scalp disease.",
+                "vi": "Đó là một bệnh về da đầu"
+            }
+        },
+        {
+            "content": "đau",
+            "type": "adjective",
+            "example": {
+                "en": "Some are challenged physically because of injury, disease, or aging.",
+                "vi": "Một số chịu nỗi đau về thể chất vì bị chấn thương, mắc bệnh hoặc lão hóa."
+            }
+        },
+        {
+            "content": "bị mắc bệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hư",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bệnh tật",
+            "type": "",
+            "example": {
+                "en": "For example, disease causes poverty, and poverty causes disease.",
+                "vi": "Thí dụ, bệnh tật dẫn đến sự nghèo khổ mà người nghèo thì hay bị bệnh."
+            }
+        },
+        {
+            "content": "không khoẻ mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc bệnh",
+            "type": "",
+            "example": {
+                "en": "Excess abdominal fat is a risk factor for heart disease .",
+                "vi": "Mỡ bụng dư thừa là yếu tố rủi ro gây mắc bệnh tim ."
+            }
+        },
+        {
+            "content": "đau ốm",
+            "type": "",
+            "example": {
+                "en": "in the context of whatever disease it is.",
+                "vi": "trong những hoàn cảnh đau ốm."
+            }
+        },
+        {
+            "content": "đồi bại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

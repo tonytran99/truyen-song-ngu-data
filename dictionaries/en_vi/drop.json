@@ -1,0 +1,488 @@
+{
+    "word": "drop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dräp/",
+            "/drɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rớt",
+            "type": "verb",
+            "example": {
+                "en": "Perhaps, but not as painful as that long drop to the end of the rope.",
+                "vi": "Có thể, nhưng không đau đớn bằng rớt lủng lẳng dưới sợi dây thừng."
+            }
+        },
+        {
+            "content": "giọt",
+            "type": "noun",
+            "example": {
+                "en": "There is not a drop of water left.",
+                "vi": "Chẳng còn giọt nước nào còn sót lại."
+            }
+        },
+        {
+            "content": "rơi",
+            "type": "verb",
+            "example": {
+                "en": "I dropped my apple.",
+                "vi": "Tôi đã đánh rơi quả táo của mình."
+            }
+        },
+        {
+            "content": "buông rơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buông",
+            "type": "verb",
+            "example": {
+                "en": "So drop off and swim to the shore.",
+                "vi": "Vậy hãy buông tay và bơi vô bờ."
+            }
+        },
+        {
+            "content": "sụt",
+            "type": "verb",
+            "example": {
+                "en": "After five years your risk of dying from lung cancer will have dropped by 50 percent.",
+                "vi": "Sau năm năm nguy cơ chết vì ung thư phổi sụt xuống khoảng 50 phần trăm."
+            }
+        },
+        {
+            "content": "đẻ",
+            "type": "verb",
+            "example": {
+                "en": "Dropping an egg is an accident.",
+                "vi": "Đẻ 1 quả trứng cũng là tai nạn đấy."
+            }
+        },
+        {
+            "content": "bỏ xuống",
+            "type": "",
+            "example": {
+                "en": "Take them off right now and drop them.",
+                "vi": "Cởi chúng ra ngay bây giờ và bỏ xuống đất."
+            }
+        },
+        {
+            "content": "thả",
+            "type": "verb",
+            "example": {
+                "en": "You're not the only one who can get the drop on someone.",
+                "vi": "Anh không phải là kẻ duy nhất thả đồ cho ai đó đâu."
+            }
+        },
+        {
+            "content": "hạ",
+            "type": "verb noun",
+            "example": {
+                "en": "Severe cases may cause a drop in blood pressure or seizures .",
+                "vi": "Các trường hợp nghiêm trọng có thể làm hạ huyết áp hoặc gây tai biến mạch máu ."
+            }
+        },
+        {
+            "content": "giảm",
+            "type": "verb",
+            "example": {
+                "en": "That causes a huge drop in the value.",
+                "vi": "Khi chúng tôi nói như vậy, giá trị của chiếc áo giảm thậm tệ."
+            }
+        },
+        {
+            "content": "rụng",
+            "type": "verb",
+            "example": {
+                "en": "have dropped their leaves and are standing there naked.",
+                "vi": "đã rụng hết là và đang trơ trụi"
+            }
+        },
+        {
+            "content": "dựng đứng",
+            "type": "",
+            "example": {
+                "en": "Vladimir's strong hands held me aloft before dropping me down on to his upright stalk.",
+                "vi": "Đôi bàn tay mạnh mẽ của Vladimir nâng tôi lên cao trước khi thả xuống cái trụ dựng đứng của anh."
+            }
+        },
+        {
+            "content": "hớp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thua",
+            "type": "",
+            "example": {
+                "en": "Then that squeaker, the Aggies dropped to Oklahoma.",
+                "vi": "Rồi cái trận thua sát nút đó, đội Aggies thua Oklahoma."
+            }
+        },
+        {
+            "content": "đánh rơi",
+            "type": "",
+            "example": {
+                "en": "I dropped my apple.",
+                "vi": "Tôi đã đánh rơi quả táo của mình."
+            }
+        },
+        {
+            "content": "sa",
+            "type": "verb",
+            "example": {
+                "en": "Of course, it's only a drop in the bucket.",
+                "vi": "Dĩ nhiên chỉ như hạt cát trong sa mạc thôi."
+            }
+        },
+        {
+            "content": "viên",
+            "type": "verb noun",
+            "example": {
+                "en": "It's probably the same one I dropped last night.",
+                "vi": "Chắc là cùng viên đường con làm rơi tối hôm qua."
+            }
+        },
+        {
+            "content": "hoa",
+            "type": "noun",
+            "example": {
+                "en": "The United States dropped 14 companies from the list .",
+                "vi": "Hoa Kỳ cũng đã mất đi 14 công ty trong danh sách này ."
+            }
+        },
+        {
+            "content": "cúi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bắn rơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ không đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ lướt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho chảy nhỏ giọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho xuống xe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chút xíu rượu mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chảy nhỏ giọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chặt đổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "co rúm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dây rủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốc đứng",
+            "type": "",
+            "example": {
+                "en": "We're headed for the drop-off!",
+                "vi": "Bud, ta hướng thẳng tới dốc đứng!"
+            }
+        },
+        {
+            "content": "dừng lại",
+            "type": "",
+            "example": {
+                "en": "Stop, drop and roll.",
+                "vi": "Dừng lại, nằm xuống và lăn."
+            }
+        },
+        {
+            "content": "giọt || nhỏ giọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gục xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hớp nhỏ rượu mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khe đút tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẹo viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ly nhỏ rượu mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lắng xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mực thụt xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhỏ giọt",
+            "type": "",
+            "example": {
+                "en": "Even though these hothouses are now irrigated drop by drop, water consumption continues to increase along with exports.",
+                "vi": "Mặc cho tình trạng tưới tiêu nhỏ giọt trong các nhà kính này, nhu cầu nước vẫn tăng nhanh cùng với hàng xuất khẩu."
+            }
+        },
+        {
+            "content": "nhỏ giọt ráo nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ném xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quãng rơi",
+            "type": "",
+            "example": {
+                "en": "a drop of more than 1,000 feet,",
+                "vi": "có quãng rơi hơn 304,80 mét đó"
+            }
+        },
+        {
+            "content": "rơi nhỏ giọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rơi vào",
+            "type": "",
+            "example": {
+                "en": "You can almost smell the coins dropping into our purse.",
+                "vi": "Ngươi có thể ngửi thấy mùi tiền chuẩn bị rơi vào túi chúng ta."
+            }
+        },
+        {
+            "content": "rơi xuống",
+            "type": "",
+            "example": {
+                "en": "Well, if it doesn't drop soon, he's gonna have to have surgery.",
+                "vi": "Nếu vẫn không rơi xuống, thì ta phải phẫu thuật."
+            }
+        },
+        {
+            "content": "rớt xuống",
+            "type": "",
+            "example": {
+                "en": "And get rid of that hammer that accidentally dropped on him.",
+                "vi": "Và dụt bỏ cây búa... đã tình cờ rớt xuống đầu hắn đó."
+            }
+        },
+        {
+            "content": "sa sụt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giảm",
+            "type": "noun",
+            "example": {
+                "en": "Did you know there has been a marked drop in thievery?",
+                "vi": "Ngài có biết là đã có một sự giảm thiểu mạnh những vụ trộm cắp chứ?"
+            }
+        },
+        {
+            "content": "sự hạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thất thế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xuống dốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu mình lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thôi ngừng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ nói ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ thốt ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viết qua loa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ván rút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô tình thốt ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật thả dù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh gục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa đến",
+            "type": "",
+            "example": {
+                "en": "We agreed the money was to be dropped off at a specified location.",
+                "vi": "Chúng ta đã giao kèo là tiền sẽ được đưa đến ở một địa điểm chỉ trước rồi mà."
+            }
+        },
+        {
+            "content": "để rơi",
+            "type": "",
+            "example": {
+                "en": "It's a long way from the city to just drop in.",
+                "vi": "Cô đi 1 quãng đường xa chỉ để \" rơi \" xuống đây thôi à?"
+            }
+        },
+        {
+            "content": "đứt đoạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngã",
+            "type": "verb",
+            "example": {
+                "en": "Well, that's a good 20-foot drop.",
+                "vi": "Sẽ bị ngã từ 20 foot."
+            }
+        },
+        {
+            "content": "té",
+            "type": "verb",
+            "example": {
+                "en": "They kept dropping like flies.",
+                "vi": "Họ cứ té như ruồi."
+            }
+        },
+        {
+            "content": "viết",
+            "type": "verb",
+            "example": {
+                "en": "Anyway, I hope you can drop a line there when you're free.",
+                "vi": "Nếu khi naò rảnh cậu vào viết vài dòng nhé"
+            }
+        },
+        {
+            "content": "lạc",
+            "type": "noun adjective verb",
+            "example": {}
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bỏ rơi",
+            "type": "",
+            "example": {
+                "en": "But lose your edge or lose your cool, they will drop you like a dime.",
+                "vi": "Nhưng khi bạn sa cơ lỡ vận, họ sẽ không ngần ngại bỏ rơi bạn."
+            }
+        },
+        {
+            "content": "sự hạ xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuống xe",
+            "type": "",
+            "example": {
+                "en": "I dropped her off half an hour ago.",
+                "vi": "Tôi cho cô ấy xuống xe nửa tiếng trước."
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "word": "holothurian",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhäləˈTHo͝orēən/",
+            "/ˌhɑləˈθʊriən/",
+            "/ˌhōləˈTHo͝orēən/",
+            "/ˌhoʊləˈθʊriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhɒlə(ʊ)ˈθjʊərɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hải sâm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dưa biển",
+            "type": "noun",
+            "example": {
+                "en": "This is a swimming holothurian — it's a small sea slug, basically.",
+                "vi": "Đây là dưa biển đang bơi - cơ bản là một loại sên biển nhỏ."
+            }
+        }
+    ]
+}

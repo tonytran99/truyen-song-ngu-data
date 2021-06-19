@@ -1,0 +1,83 @@
+{
+    "word": "celebrated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈseləˌbrādəd/",
+            "/ˈsɛləˌbreɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛlɪbreɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nổi tiếng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm not really interested in the celebrity themselves.",
+                "vi": "Tôi không có hứng thú gì với những người nổi tiếng."
+            }
+        },
+        {
+            "content": "trứ danh",
+            "type": "",
+            "example": {
+                "en": "As A.E. Housman wrote in his celebrated essay,",
+                "vi": "Như A.E. Housman đã viết trong bài tiểu luận trứ danh của ổng:"
+            }
+        },
+        {
+            "content": "kỷ niệm",
+            "type": "adjective",
+            "example": {
+                "en": "Let's celebrate the anniversary of our first kiss.",
+                "vi": "Hãy ăn mừng kỷ niệm ngày chúng ta hôn nhau lần đầu."
+            }
+        },
+        {
+            "content": "làm lễ kỷ niệm",
+            "type": "adjective",
+            "example": {
+                "en": "Primary is important, and this will be a wonderful year as we celebrate.",
+                "vi": "Hội Thiếu Nhi rất là quan trọng và đây sẽ là một năm tuyệt vời khi chúng ta làm lễ kỷ niệm."
+            }
+        },
+        {
+            "content": "lừng danh",
+            "type": "",
+            "example": {
+                "en": "He was greatly influenced by the celebrated philosopher Socrates and by the followers of Pythagoras, a philosopher and mathematician.",
+                "vi": "Ông chịu ảnh hưởng mạnh mẽ bởi triết gia lừng danh Socrates và các tín đồ của Pythagoras, một triết gia kiêm nhà toán học."
+            }
+        },
+        {
+            "content": "lừng lẫy",
+            "type": "adjective",
+            "example": {
+                "en": "or as a great celebrity",
+                "vi": "hoặc như là một người tiếng tăm lừng lẫy"
+            }
+        },
+        {
+            "content": "nỗi tiếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán dương",
+            "type": "adjective",
+            "example": {
+                "en": "You celebrate pop stars while ignoring corrupt politicians.",
+                "vi": "Anh tán dương một ngôi sao nhạc pop, nhưng lờ đi những nhà chính trị tham nhũng."
+            }
+        }
+    ]
+}

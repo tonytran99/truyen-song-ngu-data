@@ -1,0 +1,44 @@
+{
+    "word": "henna",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhenə/",
+            "/ˈhɛnə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây lá móng",
+            "type": "",
+            "example": {
+                "en": "With the choicest fruits, with henna along with spikenard plants,",
+                "vi": "Với những trái ngon nhất, cùng cây lá móng và cam tùng,"
+            }
+        },
+        {
+            "content": "lá móng",
+            "type": "",
+            "example": {
+                "en": "With the choicest fruits, with henna along with spikenard plants,",
+                "vi": "Với những trái ngon nhất, cùng cây lá móng và cam tùng,"
+            }
+        },
+        {
+            "content": "cây móng tay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

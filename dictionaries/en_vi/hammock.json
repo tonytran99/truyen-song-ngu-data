@@ -1,0 +1,38 @@
+{
+    "word": "hammock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamək/",
+            "/ˈhæmək/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamək/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái võng",
+            "type": "noun",
+            "example": {
+                "en": "Let's play in the hammock?",
+                "vi": "Hãy chơi trên cái võng."
+            }
+        },
+        {
+            "content": "võng",
+            "type": "noun",
+            "example": {
+                "en": "Each body in the hammock took a part of my life with it.",
+                "vi": "Mỗi cái xác nằm trên võng đem theo một phần của cuộc đời tôi."
+            }
+        }
+    ]
+}

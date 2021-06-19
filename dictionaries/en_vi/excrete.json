@@ -1,0 +1,48 @@
+{
+    "word": "excrete",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈskrēt/",
+            "/ɪkˈskrit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskriːt/",
+            "/ɛkˈskriːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài tiết",
+            "type": "verb",
+            "example": {
+                "en": "We ingest nutrients. We excrete nutrients as well.",
+                "vi": "Chúng ta ăn các chất dinh dưỡng. Chúng ta cũng bài tiết các chất dinh dưỡng."
+            }
+        },
+        {
+            "content": "bài xuất",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cứt đái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thải ra",
+            "type": "",
+            "example": {
+                "en": "The ammonium that clown fish excrete helps spur growth in the host anemone.",
+                "vi": "Chất a-mô-ni mà cá hề thải ra kích thích hải quỳ phát triển."
+            }
+        }
+    ]
+}

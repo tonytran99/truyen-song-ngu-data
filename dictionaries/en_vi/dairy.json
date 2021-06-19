@@ -1,0 +1,45 @@
+{
+    "word": "dairy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈderē/",
+            "/ˈdɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛːri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cửa hàng bơ sữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sữa",
+            "type": "noun",
+            "example": {
+                "en": "It refers to any manufacturers of dairy products.",
+                "vi": "Nó nói tới bất cứ ai chế tạo ra sản phẫm bằng sữa bò."
+            }
+        },
+        {
+            "content": "bầy bò sữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trại sản suất bơ sữa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

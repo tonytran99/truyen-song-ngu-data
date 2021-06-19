@@ -1,0 +1,100 @@
+{
+    "word": "chat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHat/",
+            "/tʃæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tán gẫu",
+            "type": "",
+            "example": {
+                "en": "Another aspect of chat rooms that you do well to consider is the amount of time they consume.",
+                "vi": "Khi tán gẫu, một khía cạnh khác bạn cần xem xét là thời lượng."
+            }
+        },
+        {
+            "content": "tám",
+            "type": "numeral verb",
+            "example": {
+                "en": "Ted, can I chat with you For a sec in the kitchen?",
+                "vi": "Ted, tớ tám với cậu một chút trong bếp được không?"
+            }
+        },
+        {
+            "content": "tán",
+            "type": "verb",
+            "example": {
+                "en": "I spent the whole afternoon chatting with friends.",
+                "vi": "Tôi tốn hết buổi chiều tán chuyện với đám bạn."
+            }
+        },
+        {
+            "content": "chuyện phiếm",
+            "type": "",
+            "example": {
+                "en": "I'm sure Sally came round for a nice little chat and just happened to stay over.",
+                "vi": "Tôi chắc rằng Sally đã đến trò chuyện phiếm một lát, và tình cờ ở lại qua đêm."
+            }
+        },
+        {
+            "content": "cuộc nói chuyện phiếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện phiếm",
+            "type": "",
+            "example": {
+                "en": "One day she chatted with a young man who was terminally ill with leukemia.",
+                "vi": "Một hôm chị nói chuyện phiếm với một thanh niên bị bệnh bạch cầu ở giai đoạn cuối."
+            }
+        },
+        {
+            "content": "chuyện gẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện thân thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhàn đàm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói phiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò chuyện",
+            "type": "verb",
+            "example": {
+                "en": "I just pop round every now and again for a chat.",
+                "vi": "Thỉnh thoảng tôi ghé qua để trò chuyện."
+            }
+        },
+        {
+            "content": "trò chuyện, tán gẫu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

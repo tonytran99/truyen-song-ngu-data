@@ -1,0 +1,93 @@
+{
+    "word": "cooking",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈko͝okiNG/",
+            "/ˈkʊkɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʊkɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nấu ăn",
+            "type": "",
+            "example": {
+                "en": "When it comes to cooking, no one can equal Mary.",
+                "vi": "Khi nói đến nấu ăn, không ai có thể sánh bằng Mary."
+            }
+        },
+        {
+            "content": "bếp nước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cách nấu ăn",
+            "type": "",
+            "example": {
+                "en": "I write about food. I write about cooking.",
+                "vi": "Tôi viết về thức ăn. Tôi viết về cách nấu ăn."
+            }
+        },
+        {
+            "content": "nấu",
+            "type": "verb",
+            "example": {
+                "en": "When it comes to cooking, no one can equal Mary.",
+                "vi": "Khi nói đến nấu ăn, không ai có thể sánh bằng Mary."
+            }
+        },
+        {
+            "content": "nấu nướng",
+            "type": "verb",
+            "example": {
+                "en": "Salt is necessary for a cook.",
+                "vi": "Muối là nguyên liệu nhất thiết phải có để nấu nướng."
+            }
+        },
+        {
+            "content": "sự giả mạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khai gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc bếp núc",
+            "type": "",
+            "example": {
+                "en": "His oldest sister had done the cooking and generally looked after the home.",
+                "vi": "Chị hai của anh đảm việc bếp núc và nhà cửa."
+            }
+        },
+        {
+            "content": "Ẩm thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩm thực",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

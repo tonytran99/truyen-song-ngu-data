@@ -1,0 +1,73 @@
+{
+    "word": "enterprise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈen(t)ərˌprīz/",
+            "/ˈɛn(t)ərˌpraɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛntəprʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xí nghiệp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hãng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "công ty",
+            "type": "noun",
+            "example": {
+                "en": "How does the record of business enterprises cast doubt on the future?",
+                "vi": "Quá trình của các công ty kinh doanh làm người ta nghi ngờ tương lai như thế nào?"
+            }
+        },
+        {
+            "content": "tính dám làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổ chức kinh doanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc làm khó khăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc làm táo bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "doanh nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "He played an important part in the enterprise.",
+                "vi": "Ông ấy đóng một vai trò quan trọng trong doanh nghiệp."
+            }
+        },
+        {
+            "content": "sự nghiệp",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "word": "hog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hôɡ/",
+            "/hɔɡ/",
+            "/häɡ/",
+            "/hɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lợn",
+            "type": "noun",
+            "example": {
+                "en": "Them hogs rooting around, they might have moved him.",
+                "vi": "Mấy con lợn cũng chạy lung tung, có thể chúng di chuyển cái xác."
+            }
+        },
+        {
+            "content": "heo",
+            "type": "noun",
+            "example": {
+                "en": "No one's going to believe you're a hog farmer if you eat them all.",
+                "vi": "Sẽ không ai tin ông là tay chăn heo nếu ông ăn sạch hết đồ ăn."
+            }
+        },
+        {
+            "content": "cong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị cong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cong lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt ngắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấn phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy quá phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lợn thiến",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người bẩn thỉu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người tham ăn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thô tục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chi lợn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con heo",
+            "type": "",
+            "example": {
+                "en": "I'm the tallest hog in the trough around here.",
+                "vi": "Tôi là con heo đầu đàn trong cái máng ăn này đây!"
+            }
+        },
+        {
+            "content": "lợn đực thiến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "word": "word",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ",
+            "type": "noun",
+            "example": {
+                "en": "Please tell me how to pronounce this word.",
+                "vi": "Vui lòng nói cho tôi biết cách phát âm từ này."
+            }
+        },
+        {
+            "content": "lời",
+            "type": "noun",
+            "example": {
+                "en": "He left the room without saying a word.",
+                "vi": "Anh ta đã rời khỏi phòng mà không nói lời nào."
+            }
+        },
+        {
+            "content": "chữ",
+            "type": "noun",
+            "example": {
+                "en": "There are many words that I don't understand.",
+                "vi": "Có nhiều chữ tôi không hiểu."
+            }
+        },
+        {
+            "content": "tiếng",
+            "type": "noun",
+            "example": {
+                "en": "A lot of English words are derived from Latin.",
+                "vi": "Nhiều từ tiếng Anh có nguồn gốc La tinh."
+            }
+        },
+        {
+            "content": "nhời",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "những lời",
+            "type": "noun",
+            "example": {
+                "en": "His words, however, were not believed at all.",
+                "vi": "Dú sao những lời nó nói chẳng đáng tin chút nào."
+            }
+        },
+        {
+            "content": "lời hứa",
+            "type": "noun",
+            "example": {
+                "en": "You have my word, and I'm a man of my word.",
+                "vi": "Tôi hứa, và tôi là người trọng lời hứa."
+            }
+        },
+        {
+            "content": "cuộc nói chuyện",
+            "type": "",
+            "example": {
+                "en": "Focus on that instead of your words, and it may be the most uplifting conversation of their life.",
+                "vi": "Tập trung vào điều đó thay vì vào câu chữ, và đó có thể là cuộc nói chuyện tuyệt vời nhất trong cuộc đời họ."
+            }
+        },
+        {
+            "content": "cái chữ",
+            "type": "noun",
+            "example": {
+                "en": "I love, I cherish the noble word duty.",
+                "vi": "Tôi yêu thương và trân quý cái chữ phận sự cao nhã đó."
+            }
+        },
+        {
+            "content": "điều",
+            "type": "noun",
+            "example": {
+                "en": "Whatever it was, it got way past words.",
+                "vi": "Dù sao đi nữa, đó là một điều không tốt!"
+            }
+        },
+        {
+            "content": "lời nói",
+            "type": "noun",
+            "example": {
+                "en": "His words gave her hope for the future.",
+                "vi": "Lời nói của anh ấy cho cô ta hy vọng về tương lai."
+            }
+        },
+        {
+            "content": "tin tức",
+            "type": "noun",
+            "example": {
+                "en": "I'll sue whichever tabloid that dared to print a word about it.",
+                "vi": "Tôi sẽ kiện báo lá cải nếu dám in tin tức về vụ này."
+            }
+        },
+        {
+            "content": "lệnh",
+            "type": "noun",
+            "example": {
+                "en": "Send word to Cyrus this city's taken in his name.",
+                "vi": "Truyền đi lệnh của Cyrus là thành này giờ thuộc về ta."
+            }
+        },
+        {
+            "content": "bày tỏ",
+            "type": "",
+            "example": {
+                "en": "It can reach hearts in ways that the spoken word may not.",
+                "vi": "Bày tỏ tình yêu thương như thế có thể động đến lòng người khác hơn là chỉ rao giảng cho họ."
+            }
+        },
+        {
+            "content": "câu nói",
+            "type": "",
+            "example": {
+                "en": "Have you ever heard those words before, Sophie?",
+                "vi": "Cô đã nghe câu nói đó bao giờ chưa, Sophie?"
+            }
+        },
+        {
+            "content": "diễn tả",
+            "type": "",
+            "example": {
+                "en": "He said it was not about the words.",
+                "vi": "Anh ta nói điều đó không được diễn tả bằng từ."
+            }
+        },
+        {
+            "content": "khẩu hiệu",
+            "type": "",
+            "example": {
+                "en": "The new name is the key word.",
+                "vi": "Tên mới đó là khẩu hiệu."
+            }
+        },
+        {
+            "content": "lời báo tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nhắn",
+            "type": "",
+            "example": {
+                "en": "His wife disappears without a trace, without a word, without explanation.",
+                "vi": "Vợ anh ấy biến mất không một dấu vết, không một lời nhắn, không một sự giải thích."
+            }
+        },
+        {
+            "content": "lời qua tiếng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói lên",
+            "type": "",
+            "example": {
+                "en": "I miss her more than words can express.",
+                "vi": "Tôi nhớ bà ấy nhiều hơn có thể nói lên lời."
+            }
+        },
+        {
+            "content": "phát biểu",
+            "type": "",
+            "example": {
+                "en": "I read the words of women who showed me I was not nothing.",
+                "vi": "Tôi đọc phát biểu của phụ nữ họ nói rằng tôi không phải vô nghĩa."
+            }
+        },
+        {
+            "content": "sự cãi nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

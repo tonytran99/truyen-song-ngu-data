@@ -1,0 +1,43 @@
+{
+    "word": "ad",
+    "type": [
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ad/",
+            "/æd/",
+            "/ˌāˈdē/",
+            "/ˌeɪˈdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ad/",
+            "/eɪˈdiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quảng cáo",
+            "type": "noun",
+            "example": {
+                "en": "I skip ads on videos whenever I can.",
+                "vi": "Tôi bỏ qua quảng cáo trên video bất cứ khi nào có thể."
+            }
+        },
+        {
+            "content": "của advertisement",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giới thiệu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

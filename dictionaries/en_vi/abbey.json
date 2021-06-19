@@ -1,0 +1,44 @@
+{
+    "word": "abbey",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabē/",
+            "/ˈæbi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tu viện",
+            "type": "noun",
+            "example": {
+                "en": "Whatever happens you must bring those beans back to the abbey.",
+                "vi": "Dù xảy ra chuyện gì cũng phải mang chúng đến tu viện."
+            }
+        },
+        {
+            "content": "nhà tu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "các nhà tu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giới tu sĩ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

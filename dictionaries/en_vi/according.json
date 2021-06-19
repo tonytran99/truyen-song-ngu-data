@@ -1,0 +1,49 @@
+{
+    "word": "according",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkôrdiNG/",
+            "/əˈkɔrdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkɔːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "theo",
+            "type": "verb adposition",
+            "example": {
+                "en": "According to the weather forecast, it'll snow tomorrow.",
+                "vi": "Theo dự báo thời tiết, mai sẽ có tuyết."
+            }
+        },
+        {
+            "content": "tuỳ",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "tuỳ theo",
+            "type": "",
+            "example": {
+                "en": "to yet another. Segregated according to age and gender,",
+                "vi": "đến một trại trẻ khác. Tuỳ theo tuổi và giới tính,"
+            }
+        },
+        {
+            "content": "y theo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

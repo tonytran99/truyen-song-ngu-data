@@ -1,0 +1,51 @@
+{
+    "word": "causative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôzədiv/",
+            "/ˈkɔzədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːzətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "là lý do",
+            "type": "",
+            "example": {
+                "en": "The first theft is always for a good cause.",
+                "vi": "Lần đầu bao giờ cũng là lý do tốt."
+            }
+        },
+        {
+            "content": "là duyên cớ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "là nguyên nhân",
+            "type": "",
+            "example": {
+                "en": "Which could cause clots, which could have caused her to stroke.",
+                "vi": "Có thể gây ra cục máu đông và là nguyên nhân làm cô ta đột quỵ."
+            }
+        },
+        {
+            "content": "nguyên nhân",
+            "type": "noun",
+            "example": {
+                "en": "They agreed to look into the causes of the accident.",
+                "vi": "Họ đồng ý xem xét nguyên nhân của vụ tai nạn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "homer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmər/",
+            "/ˈhoʊmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "homer",
+            "type": "",
+            "example": {
+                "en": "I think that Homer just saved himself a dollar.",
+                "vi": "Tôi nghĩ Homer vừa tiết kiệm được một đô-la."
+            }
+        },
+        {
+            "content": "bồ câu đưa thư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

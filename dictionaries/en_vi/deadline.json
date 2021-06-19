@@ -1,0 +1,67 @@
+{
+    "word": "deadline",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdedˌlīn/",
+            "/ˈdɛdˌlaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛdlʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời hạn cuối cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn chót",
+            "type": "noun",
+            "example": {
+                "en": "Lorenzo gave me a deadline on my musket.",
+                "vi": "Lorenzo gút cái hạn chót cho tôi để sửa cây đại pháo."
+            }
+        },
+        {
+            "content": "hạn cuối",
+            "type": "",
+            "example": {
+                "en": "If you'll excuse me, my dear, I have something of a deadline to meet.",
+                "vi": "Nếu như được phép, cô em, tôi có chút chuyện để làm cho hạn cuối của tôi."
+            }
+        },
+        {
+            "content": "hạn cuối cùng",
+            "type": "",
+            "example": {
+                "en": "The days went by, and the deadline for turning in the money was fast approaching.",
+                "vi": "Thời gian trôi qua, và hạn cuối cùng để đóng tiền đến gần kề."
+            }
+        },
+        {
+            "content": "kỳ hạn",
+            "type": "noun",
+            "example": {
+                "en": "Mr. Editor, it's almost deadline.",
+                "vi": "Ông chủ bút, kỳ hạn sắp đến."
+            }
+        },
+        {
+            "content": "thời hạn",
+            "type": "",
+            "example": {
+                "en": "I was able to meet the deadline for the order.",
+                "vi": "Tôi đã có thể làm xong hàng đúng thời hạn."
+            }
+        }
+    ]
+}

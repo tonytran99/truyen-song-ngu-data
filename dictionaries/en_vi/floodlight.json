@@ -1,0 +1,35 @@
+{
+    "word": "floodlight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflədˌlīt/",
+            "/ˈflədˌlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflʌdlʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đèn chiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đèn pha",
+            "type": "",
+            "example": {
+                "en": "What about that floodlight on the top of MCU?",
+                "vi": "Thế còn cái đèn pha trên nóc nhà Đội trọng án?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "antimatter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)ēˌmadər/",
+            "/ˈæn(t)iˌmædər/",
+            "/ˈanˌtīˌmadər/",
+            "/ˈænˌtaɪˌmædər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪˌmatə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phản vật chất",
+            "type": "noun",
+            "example": {
+                "en": "So why don't we use antimatter for energy production?",
+                "vi": "Vậy thì tại sao chúng ta không sử dụng phản vật chất để sản xuất năng lượng?"
+            }
+        },
+        {
+            "content": "反物質",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Phản vật chất",
+            "type": "",
+            "example": {
+                "en": "That canister contains an extremely combustible substance called antimatter",
+                "vi": "Trong hộp đó là một chất mang tính phát nổ cực mạnh được gọi là phản vật chất."
+            }
+        }
+    ]
+}

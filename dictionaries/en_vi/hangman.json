@@ -1,0 +1,36 @@
+{
+    "word": "hangman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaNGmən/",
+            "/ˈhæŋmən/",
+            "/ˈhaNGˌman/",
+            "/ˈhæŋˌmæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaŋmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đao phủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người treo cổ",
+            "type": "",
+            "example": {
+                "en": "They got it working fine, hangman.",
+                "vi": "Mọi thứ đều ngon lành, người treo cổ."
+            }
+        }
+    ]
+}

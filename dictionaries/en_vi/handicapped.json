@@ -1,0 +1,47 @@
+{
+    "word": "handicapped",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandēˌkapt/",
+            "/ˈhændiˌkæpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandɪkapt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị tàn tật",
+            "type": "",
+            "example": {
+                "en": "What will be observed about those who had previously been handicapped?",
+                "vi": "Điều gì sẽ nhận thấy được nơi những người ngày trước bị tàn tật?"
+            }
+        },
+        {
+            "content": "người tật nguyền",
+            "type": "",
+            "example": {
+                "en": "And for handicapped, they can use this as a normal system.",
+                "vi": "Còn đối với người tật nguyền, họ có thể dùng giống như hệ thống thông thường."
+            }
+        },
+        {
+            "content": "tàn tật",
+            "type": "",
+            "example": {
+                "en": "That is why Andrew has no handicap in this battle.",
+                "vi": "Chính vì thế mà Andrew không tàn tật trong trận chiến này."
+            }
+        }
+    ]
+}

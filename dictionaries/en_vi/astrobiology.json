@@ -1,0 +1,37 @@
+{
+    "word": "astrobiology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌastrōbīˈäləjē/",
+            "/ˌæstroʊbaɪˈɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": []
+    },
+    "meanings": [
+        {
+            "content": "sinh học thiên văn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sinh học vũ trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sinh vật học vũ trụ",
+            "type": "noun",
+            "example": {
+                "en": "These discoveries suggest that Earth-like planets may be only the tip of the astrobiological iceberg.",
+                "vi": "Những điều này cho thấy các hành tinh như Trái đất có thể chỉ là bề nổi của tảng băng sinh vật học vũ trụ."
+            }
+        }
+    ]
+}

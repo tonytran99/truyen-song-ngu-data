@@ -1,0 +1,66 @@
+{
+    "word": "horizontal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhôrəˈzän(t)l/",
+            "/ˌhɔrəˈzɑn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɒrɪˈzɒnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nằm ngang",
+            "type": "adjective",
+            "example": {
+                "en": "And you do that by maintaining a horizontal body position.",
+                "vi": "Và bạn thao tác tư thế đó bằng cách duy trì vị trí cơ thể nằm ngang."
+            }
+        },
+        {
+            "content": "ngang",
+            "type": "",
+            "example": {
+                "en": "And you do that by maintaining a horizontal body position.",
+                "vi": "Và bạn thao tác tư thế đó bằng cách duy trì vị trí cơ thể nằm ngang."
+            }
+        },
+        {
+            "content": "chân trời",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thanh ngang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường chân trời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường nằm ngang",
+            "type": "",
+            "example": {
+                "en": "The question is, which of these horizontal lines is longer?",
+                "vi": "Câu hỏi là, trong hai đường nằm ngang này cái nào dài hơn?"
+            }
+        },
+        {
+            "content": "ở chân trời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

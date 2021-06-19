@@ -1,0 +1,37 @@
+{
+    "word": "unannounced",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈnounst/",
+            "/ˌənəˈnaʊnst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnəˈnaʊnst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất ngờ",
+            "type": "adjective",
+            "example": {
+                "en": "Rather, the point of comparison involves the unexpected, unannounced aspect of his arrival.",
+                "vi": "Đúng hơn, điểm tương đồng là tính bất ngờ của việc ngài đến, không báo trước thời điểm."
+            }
+        },
+        {
+            "content": "không báo trước",
+            "type": "adjective",
+            "example": {
+                "en": "Who thinks they are so important they can just come to my home unannounced?",
+                "vi": "Họ nghĩ họ là ai mà đến nhà ta mà không báo trước?"
+            }
+        }
+    ]
+}

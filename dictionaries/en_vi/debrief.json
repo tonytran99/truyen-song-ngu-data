@@ -1,0 +1,37 @@
+{
+    "word": "debrief",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈbrēf/",
+            "/diˈbrif/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈbriːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phỏng vấn",
+            "type": "",
+            "example": {
+                "en": "So far, besides Olivia's debriefs, just files on all the cases we handled.",
+                "vi": "ngoài các buổi phỏng vấn Olivia chỉ là hồ sơ của những vụ chúng ta đã xử lý."
+            }
+        },
+        {
+            "content": "thẩm vấn",
+            "type": "",
+            "example": {
+                "en": "Cartel didn't want him debriefed by our intel people.",
+                "vi": "Tập đoàn không muốn hắn ta bị thẩm vấn bởi người của chúng tôi."
+            }
+        }
+    ]
+}

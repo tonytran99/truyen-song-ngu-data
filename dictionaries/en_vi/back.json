@@ -1,0 +1,384 @@
+{
+    "word": "back",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bak/",
+            "/bæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưng",
+            "type": "noun",
+            "example": {
+                "en": "Be careful or she'll stab you in the back.",
+                "vi": "Hãy cẩn thận nếu không cô ta sẽ đâm sau lưng cậu."
+            }
+        },
+        {
+            "content": "sống",
+            "type": "noun",
+            "example": {
+                "en": "Your back still bothering you?",
+                "vi": "Cái cột sống của anh vẫn gây phiền nhiễu?"
+            }
+        },
+        {
+            "content": "lại",
+            "type": "verb adverb",
+            "example": {
+                "en": "I'll have her call you when she gets back.",
+                "vi": "Tôi sẽ bảo cô ấy gọi lại cho bạn khi cô ấy quay lại."
+            }
+        },
+        {
+            "content": "lùi lại",
+            "type": "",
+            "example": {
+                "en": "I'm asking all gamblers to please step back.",
+                "vi": "Tôi yêu cầu tất cả các người chơi lùi lại một bước."
+            }
+        },
+        {
+            "content": "hậu vệ",
+            "type": "",
+            "example": {
+                "en": "Brick was my idol back in high school.",
+                "vi": "Bà biết đấy, Brick Holmes là hậu vệ thần tượng của cháu hồi ở trường trung học."
+            }
+        },
+        {
+            "content": "hậu",
+            "type": "adjective, noun",
+            "example": {
+                "en": "I can remotely access it, but I need you to open the back door.",
+                "vi": "Tôi có thể truy cập nó từ xa. Tôi cần cậu mở cửa hậu giùm."
+            }
+        },
+        {
+            "content": "sau",
+            "type": "adjective adverb adposition",
+            "example": {
+                "en": "I have to go shopping. I'll be back in an hour.",
+                "vi": "Tôi đi mua sắm một chút. Một tiếng sau trở lại."
+            }
+        },
+        {
+            "content": "lùi",
+            "type": "",
+            "example": {
+                "en": "This is the sort of thing that there's no turning back.",
+                "vi": "Nếu nhúng tay vào thì sẽ không có đường lùi đâu."
+            }
+        },
+        {
+            "content": "ngược",
+            "type": "noun",
+            "example": {
+                "en": "So what did we do? We send it back to the editor.",
+                "vi": "Vậy chúng tôi đã làm gì? Chúng tôi đã gửi ngược tài liệu này đến biên tập viên."
+            }
+        },
+        {
+            "content": "cũ",
+            "type": "adjective",
+            "example": {
+                "en": "A damaged and terribly mistreated sea-foam-green Fender staring back at him.",
+                "vi": "Một cây đàn cũ và bầm dập màu xanh nhạt hiệu Fender Đang nhìn anh ta..."
+            }
+        },
+        {
+            "content": "trước",
+            "type": "adposition",
+            "example": {
+                "en": "He got injured and just came back today.",
+                "vi": "Anh ấy trước đây bị thương giờ mới quy đội."
+            }
+        },
+        {
+            "content": "cách xa",
+            "type": "",
+            "example": {
+                "en": "If we see them, we hang back, set up the mike, watch an listen.",
+                "vi": "Nếu thấy họ thì chúng ta cách xa họ bố trí chỗ quan sát và nghe ngóng."
+            }
+        },
+        {
+            "content": "cái lưng",
+            "type": "noun",
+            "example": {
+                "en": "If his back was any straighter his spine would snap.",
+                "vi": "Nếu cái lưng ổng thẳng thêm chút nữa thì xương sống của ổng sẽ gãy."
+            }
+        },
+        {
+            "content": "lộn ngược",
+            "type": "noun",
+            "example": {
+                "en": "The only thing that can top that is a reverse back tuck.",
+                "vi": "Thứ duy nhất vượt trội hơn thứ đó là một cú lộn ngược."
+            }
+        },
+        {
+            "content": "nghĩ lại",
+            "type": "",
+            "example": {
+                "en": "Think back to the most difficult job you ever did.",
+                "vi": "Hãy nghĩ lại về công việc khó khăn nhất bạn từng làm."
+            }
+        },
+        {
+            "content": "phía sau",
+            "type": "noun",
+            "example": {
+                "en": "Maybe our friend's somewhere in the back of the picture.",
+                "vi": "Có lẽ người bạn của chúng ta ở đâu đó phía sau trong ảnh?"
+            }
+        },
+        {
+            "content": "phản ứng lại",
+            "type": "",
+            "example": {
+                "en": "And if she kisses me back, great.",
+                "vi": "Và nếu cô ấy không phản ứng lại, tuyệt."
+            }
+        },
+        {
+            "content": "sống dao",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trở lại",
+            "type": "noun",
+            "example": {
+                "en": "I have to go shopping. I'll be back in an hour.",
+                "vi": "Tôi đi mua sắm một chút. Một tiếng sau trở lại."
+            }
+        },
+        {
+            "content": "về phía sau",
+            "type": "",
+            "example": {
+                "en": "I's looking behind us now, into history back.",
+                "vi": "Tôi đang nhìn lại về phía sau, về quá khứ trước đây."
+            }
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đằng sau",
+            "type": "noun",
+            "example": {
+                "en": "You defend these men who insult you behind your back.",
+                "vi": "Ngươi bảo vệ những kẻ đã sỉ nhục ngươi đằng sau lưng."
+            }
+        },
+        {
+            "content": "ủng hộ",
+            "type": "",
+            "example": {
+                "en": "Care to back that up with a wager?",
+                "vi": "Thế ủng hộ con anh bằng cách cá cược nhé?"
+            }
+        },
+        {
+            "content": "lui",
+            "type": "",
+            "example": {
+                "en": "With all my heart I urge you to please help us push back the world.",
+                "vi": "Tôi hết lòng khuyến khích các em xin giúp chúng tôi đẩy lui thế gian."
+            }
+        },
+        {
+            "content": "gáy",
+            "type": "verb noun",
+            "example": {
+                "en": "I hear that it's good to cool the back of your neck when it's hot outside.",
+                "vi": "Tôi nghe nói làm mát phần gáy khi trời nóng rất công hiệu."
+            }
+        },
+        {
+            "content": "xa",
+            "type": "adjective noun",
+            "example": {
+                "en": "The geologic history of the volcano, though not completely understood, goes way back in time.",
+                "vi": "Lịch sử địa chất của núi lửa, dù chúng ta không hiểu hết, có từ thời xa xưa."
+            }
+        },
+        {
+            "content": "mu",
+            "type": "noun",
+            "example": {
+                "en": "I rubbed my eyes with the back of my hands to clear them .",
+                "vi": "Tôi dùng mu bàn tay quẹt mắt để lau sạch chúng ."
+            }
+        },
+        {
+            "content": "löng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách",
+            "type": "verb noun",
+            "example": {
+                "en": "So this is what it takes to get Barry his speed back.",
+                "vi": "Vy đây là cách Barry ly li tc đ ca nó."
+            }
+        },
+        {
+            "content": "cưỡi",
+            "type": "",
+            "example": {
+                "en": "On the back of his dragon Balerion the Dread.",
+                "vi": "Ông ta cưỡi con rồng Balerion Kinh Hãi của mình."
+            }
+        },
+        {
+            "content": "dọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ trong cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "còn chịu lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "còn nợ lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng ký vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dịu trở lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ký tiếp vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lộn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt sau",
+            "type": "noun",
+            "example": {
+                "en": "Only the back of the blade is sharp.",
+                "vi": "Chỉ có mặt sau lưỡi kiếm sắc nhọn."
+            }
+        },
+        {
+            "content": "mặt trái",
+            "type": "",
+            "example": {
+                "en": "And you've done nothing but show her the back of your hand since she got here.",
+                "vi": "Và cậu đã chỉ toàn cho cô ta thấy mặt trái kể từ khi cô ta đến đây."
+            }
+        },
+        {
+            "content": "ngược lại",
+            "type": "",
+            "example": {
+                "en": "Hiro traveled back in time to rescue Charlie.",
+                "vi": "Hiro đã quay ngược lại thời gian để cứu Charlie."
+            }
+        },
+        {
+            "content": "theo hướng ngược lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trả lại",
+            "type": "",
+            "example": {
+                "en": "It's over between us. Give me back my ring!",
+                "vi": "Chuyện giữa chúng ta kết thúc rồi. Trả lại tôi chiếc nhẫn!"
+            }
+        },
+        {
+            "content": "ván lưng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ván ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh cá",
+            "type": "",
+            "example": {
+                "en": "The expert asks the fisherman why he is back so early.",
+                "vi": "Chuyên gia hỏi người đánh cá tại sao ông về sớm như vậy."
+            }
+        },
+        {
+            "content": "đã qua",
+            "type": "",
+            "example": {
+                "en": "How would you likely react to seeing a loved one brought back to life?",
+                "vi": "Bạn sẽ cảm thấy thế nào khi gặp lại người thân yêu đã qua đời?"
+            }
+        },
+        {
+            "content": "đóng gáy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để quá hạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Lưng người",
+            "type": "",
+            "example": {
+                "en": "Even when we was kids, he'd sneak behind some kid and back shoot them.",
+                "vi": "Từ khi chúng tôi còn nhỏ, hắn đã lén lút bắn sau lưng người khác."
+            }
+        },
+        {
+            "content": "quay trở lại",
+            "type": "",
+            "example": {
+                "en": "I wish I could go back in time.",
+                "vi": "Ước gì thời gian có thể quay trở lại."
+            }
+        }
+    ]
+}

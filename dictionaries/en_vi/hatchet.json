@@ -1,0 +1,53 @@
+{
+    "word": "hatchet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaCHət/",
+            "/ˈhætʃət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhatʃɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rìu",
+            "type": "noun",
+            "example": {
+                "en": "He finds out men with hatchets attacked his sister?",
+                "vi": "Nếu anh ấy biết có bọn người cầm rìu tấn công em gái của mình?"
+            }
+        },
+        {
+            "content": "gây chiến tranh lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây xích mích lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "búa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái rìu",
+            "type": "",
+            "example": {
+                "en": "I immediately went to work chopping a fallen tree with my new hatchet.",
+                "vi": "Ngay lập tức tôi bắt đầu bổ củi với cái rìu mới của mình."
+            }
+        }
+    ]
+}

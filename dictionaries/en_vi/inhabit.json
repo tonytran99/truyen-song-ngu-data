@@ -1,0 +1,53 @@
+{
+    "word": "inhabit",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhabət/",
+            "/ɪnˈhæbət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈhabɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở",
+            "type": "verb adposition",
+            "example": {
+                "en": "But the wicked will no longer inhabit the earth.",
+                "vi": "Nhưng bọn gian ác sẽ chẳng được ở trên đất nữa."
+            }
+        },
+        {
+            "content": "sống",
+            "type": "verb noun",
+            "example": {
+                "en": "We will venture into outer space, and we will start inhabiting outer space.",
+                "vi": "Chúng ta sẽ ra ngoài không gian, và bắt đầu sinh sống ở đó."
+            }
+        },
+        {
+            "content": "sống ở",
+            "type": "",
+            "example": {
+                "en": "We will venture into outer space, and we will start inhabiting outer space.",
+                "vi": "Chúng ta sẽ ra ngoài không gian, và bắt đầu sinh sống ở đó."
+            }
+        },
+        {
+            "content": "sinh sống",
+            "type": "",
+            "example": {
+                "en": "We will venture into outer space, and we will start inhabiting outer space.",
+                "vi": "Chúng ta sẽ ra ngoài không gian, và bắt đầu sinh sống ở đó."
+            }
+        }
+    ]
+}

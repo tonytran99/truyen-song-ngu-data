@@ -1,0 +1,36 @@
+{
+    "word": "dahlia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdalyə/",
+            "/ˈdæljə/",
+            "/ˈdälyə/",
+            "/ˈdɑljə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪlɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thược dược",
+            "type": "noun",
+            "example": {
+                "en": "Two black dahlias, please.",
+                "vi": "Hai thược dược đen đi anh giai."
+            }
+        },
+        {
+            "content": "cây thược dược",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

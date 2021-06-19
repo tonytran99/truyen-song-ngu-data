@@ -1,0 +1,39 @@
+{
+    "word": "embezzlement",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈbezəlmənt/",
+            "/əmˈbɛzəlmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛmˈbɛzlm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự biển thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tham ô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tham ô",
+            "type": "",
+            "example": {
+                "en": "Financial data that implicates someone in this company of major embezzlement.",
+                "vi": "Dữ liệu tài chính... chứng minh rằng ai đó trong công ty này đang tham ô rất lớn."
+            }
+        }
+    ]
+}

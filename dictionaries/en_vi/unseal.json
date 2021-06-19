@@ -1,0 +1,34 @@
+{
+    "word": "unseal",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈsē(ə)l/",
+            "/ənˈsi(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "I was able to unseal a file regarding Amber Canardo.",
+                "vi": "Tôi đã mở niêm phong hồ sơ liên quan đến Amber Canardo."
+            }
+        },
+        {
+            "content": "bóc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

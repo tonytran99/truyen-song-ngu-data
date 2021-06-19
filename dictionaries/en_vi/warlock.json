@@ -1,0 +1,37 @@
+{
+    "word": "warlock",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrˌläk/",
+            "/ˈwɔrˌlɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːlɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháp sư",
+            "type": "",
+            "example": {
+                "en": "That is your destiny, young warlock, not mine.",
+                "vi": "Đó là số phận của cậu, chiến pháp sư ạ, ko phải của ta."
+            }
+        },
+        {
+            "content": "phù thủy",
+            "type": "noun",
+            "example": {
+                "en": "What if I don' t practise, how would I become this great warlock?",
+                "vi": "Nhưng nếu con ko thực tập,làm sao con thành một thầy phù thủy vĩ đại được?"
+            }
+        }
+    ]
+}

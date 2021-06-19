@@ -1,0 +1,57 @@
+{
+    "word": "confederate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfed(ə)rət/",
+            "/kənˈfɛd(ə)rət/",
+            "/kənˈfedəˌrāt/",
+            "/kənˈfɛdəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfɛd(ə)rət/",
+            "/kənˈfɛdəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liên hiệp",
+            "type": "verb",
+            "example": {
+                "en": "Beg your pardon but why does the president care if one old Confederate general is alive?",
+                "vi": "Xin lỗi cho hỏi tại sao Tổng thống lại quan tâm đến một đại tướng liên hiệp còn sống vậy?"
+            }
+        },
+        {
+            "content": "liên minh",
+            "type": "noun",
+            "example": {
+                "en": "“Syria is confederate with Ephraim” means that these two countries formed an alliance or agreement.",
+                "vi": "“Sy Ri liên minh cùng Ép Ra Im” có nghĩa là hai nước này lập một liên minh hoặc hợp đồng."
+            }
+        },
+        {
+            "content": "người cấu kết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đồng mưu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước trong liên bang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

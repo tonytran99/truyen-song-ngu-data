@@ -1,0 +1,34 @@
+{
+    "word": "unnamed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈnāmd/",
+            "/ˌənˈneɪmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈneɪmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không tên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô danh",
+            "type": "",
+            "example": {
+                "en": "As individuals, they are unnamed.",
+                "vi": "Vì là cá nhân nên họ vô danh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "gobble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡäbəl/",
+            "/ˈɡɑbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nuốt lấy nuốt để",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngấu",
+            "type": "",
+            "example": {
+                "en": "The client isn' t going to gobble you up",
+                "vi": "Vị khách của cô sẽ không ngấu nghiến nổi cô đâu"
+            }
+        },
+        {
+            "content": "ngốn",
+            "type": "",
+            "example": {
+                "en": "He just gobbles it all up without a word.",
+                "vi": "Thằng bé chỉ ngốn những thức ấy thật nhanh mà không nói gì."
+            }
+        },
+        {
+            "content": "kêu gộp gộp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu gộp gộp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ăn ngấu nghiến",
+            "type": "",
+            "example": {
+                "en": "Gobbling Down Halloween Goodies",
+                "vi": "Ăn ngấu nghiến bánh kẹo Halloween"
+            }
+        },
+        {
+            "content": "ăn tạp",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "wearable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwerəb(ə)l/",
+            "/ˈwɛrəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːrəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể mặc được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể bận được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc được",
+            "type": "",
+            "example": {
+                "en": "In this case here, a new, wearable bio-reactor has been designed —",
+                "vi": "trong trường hợp này, 1 lò phản ứng sinh học \"mặc\" được được thiết kế"
+            }
+        }
+    ]
+}

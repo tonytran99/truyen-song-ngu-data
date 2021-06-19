@@ -1,0 +1,193 @@
+{
+    "word": "true",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tro͞o/",
+            "/tru/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/truː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thật",
+            "type": "adjective",
+            "example": {
+                "en": "It is true that he is young, but he is clever.",
+                "vi": "Anh ấy trẻ thật, nhưng anh ấy thông minh."
+            }
+        },
+        {
+            "content": "thực",
+            "type": "adjective",
+            "example": {
+                "en": "Everyone would like to believe that dreams can come true.",
+                "vi": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực."
+            }
+        },
+        {
+            "content": "phải",
+            "type": "adjective",
+            "example": {
+                "en": "Say, for instance, a man entered here by accident who wasn't a true hero.",
+                "vi": "Như vậy, giả dụ một người vào đây một cách tình cờ, không phải là người hùng."
+            }
+        },
+        {
+            "content": "chân chính",
+            "type": "adjective",
+            "example": {
+                "en": "Practicing true worship brings real happiness",
+                "vi": "Thực hành sự thờ phượng thật mang lại hạnh phúc chân chính"
+            }
+        },
+        {
+            "content": "xác thực",
+            "type": "adjective",
+            "example": {
+                "en": "Thanks to you, I have shed my mortal shell... and taken my true ethereal form.",
+                "vi": "Cảm ơn ngươi, ta đã thoát được cái vỏ bọc đó và trở lại với thân xác thực của ta."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "When you're trying to prove something, it helps to know it's true.",
+                "vi": "Nếu muốn chứng minh điều gì thì trước hết phải biết là nó đúng đã."
+            }
+        },
+        {
+            "content": "chân thật",
+            "type": "adjective",
+            "example": {
+                "en": "If we reach out, we can make true friends.",
+                "vi": "Nếu chúng ta cố gắng thì chúng ta có thể có những bạn bè chân thật."
+            }
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "It's certainly true that it would be lovely to have new medicines.",
+                "vi": "Khá chính xác khi nghĩ rằng sẽ tốt nếu chúng ta có được các loại thuốc mới."
+            }
+        },
+        {
+            "content": "thành tín",
+            "type": "adjective",
+            "example": {
+                "en": "Rather, he is always faithful, consistent, loyal, and true.",
+                "vi": "Thay vì thế, ngài luôn trung tín, thành tín, chân thật và nhất quán."
+            }
+        },
+        {
+            "content": "đích thực",
+            "type": "adjective",
+            "example": {
+                "en": "There is no other true and lasting happiness.",
+                "vi": "Không có hạnh phúc đích thực và bền vững nào khác."
+            }
+        },
+        {
+            "content": "được gọi là",
+            "type": "",
+            "example": {
+                "en": "Because of his rigorous methods of experimentation, Alhazen has been called the “world’s first true scientist.”",
+                "vi": "Nhờ phương pháp thí nghiệm nghiêm ngặt của mình, Alhazen được gọi là “nhà khoa học thực thụ đầu tiên của thế giới”."
+            }
+        },
+        {
+            "content": "thiệt",
+            "type": "adjective",
+            "example": {
+                "en": "Spoken like the true Seeker.",
+                "vi": "Giờ ăn nói như một Tầm Thủ thứ thiệt rồi."
+            }
+        },
+        {
+            "content": "chân thành",
+            "type": "",
+            "example": {
+                "en": "Did you cry yourself to sleep every night, waiting for a true love that never came? !",
+                "vi": "Anh đã khóc suốt đêm, ngủ thiếp đi, mong đợi tình yêu chân thành chẳng bao giờ tới!"
+            }
+        },
+        {
+            "content": "chân thực",
+            "type": "",
+            "example": {
+                "en": "Why do we feel that this is more true than this?",
+                "vi": "Tại sao chúng ta cảm thấy rằng cái này chân thực hơn cái kia?"
+            }
+        },
+        {
+            "content": "sự lắp đúng chỗ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành khẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trung thành",
+            "type": "",
+            "example": {
+                "en": "You wish to know where my true loyalties lie?",
+                "vi": "Người muốn biết lòng trung thành thật sự của thần với ai ư?"
+            }
+        },
+        {
+            "content": "vị trí đúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác đáng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đúng chỗ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành",
+            "type": "adjective verb noun adposition",
+            "example": {
+                "en": "The dream came true.",
+                "vi": "Giấc mơ đã trở thành hiện thực."
+            }
+        },
+        {
+            "content": "true",
+            "type": "",
+            "example": {
+                "en": "Our love that's true",
+                "vi": "♪ Our love that's true ♪"
+            }
+        },
+        {
+            "content": "có thực",
+            "type": "",
+            "example": {
+                "en": "Is it true... that the griffin can only be killed by magic?",
+                "vi": "Có thực là... con griffin đó chỉ có thể bị giết bởi phép thuật?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "vista",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvistə/",
+            "/ˈvɪstə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chân trời",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "triển vọng",
+            "type": "",
+            "example": {
+                "en": "Then another, brighter vista opens before him.",
+                "vi": "Rồi thêm một triển vọng khác, sáng lạn hơn được mở ra trước mắt người ấy."
+            }
+        },
+        {
+            "content": "viễn cảnh",
+            "type": "",
+            "example": {
+                "en": "Their eyes would gaze upon a vista scarcely imaginable.",
+                "vi": "Đôi mắt của họ sẽ nhìn thấy được một viễn cảnh khó thể tưởng tượng ra được."
+            }
+        },
+        {
+            "content": "viễn tượng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

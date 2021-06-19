@@ -1,0 +1,74 @@
+{
+    "word": "explicit",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsplisit/",
+            "/ɪkˈsplɪsɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsplɪsɪt/",
+            "/ɛkˈsplɪsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {
+                "en": "I think we should make this even more explicit.",
+                "vi": "Tôi nghĩ tôi nên khiến cho nó được bộc lộ rõ ràng hơn."
+            }
+        },
+        {
+            "content": "hiện",
+            "type": "verb",
+            "example": {
+                "en": "So ballroom dancing, implicit versus explicit —",
+                "vi": "Vũ hội bắt đầu nhảy múa, ẩn so với hiện —"
+            }
+        },
+        {
+            "content": "cụ thể",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hiểu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dứt khoát",
+            "type": "",
+            "example": {
+                "en": "I gave you explicit orders not to get her involved.",
+                "vi": "Tôi đã ra lệnh dứt khoát không được để cô ta dính vào."
+            }
+        },
+        {
+            "content": "hoàn hảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "minh bạch",
+            "type": "adjective",
+            "example": {
+                "en": "Even if you are Indian, it is not very explicit, it is not very obvious.",
+                "vi": "Thậm chí ngay cả khi bạn là người Ấn Độ đi nữa, thì điều đó cũng không phải luôn minh bạch và rõ ràng."
+            }
+        },
+        {
+            "content": "nói thẳng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

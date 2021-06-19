@@ -1,0 +1,55 @@
+{
+    "word": "encryption",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkripSH(ə)n/",
+            "/ɪnˈkrɪpʃ(ə)n/",
+            "/enˈkripSH(ə)n/",
+            "/ɛnˈkrɪpʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪŋˈkrɪpʃ(ə)n/",
+            "/ɛŋˈkrɪpʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã hóa",
+            "type": "verb",
+            "example": {
+                "en": "And the reason it does is not because of the clever encryption.",
+                "vi": "Và lí do cho việc này không phải nhờ việc mã hóa đâu."
+            }
+        },
+        {
+            "content": "sự mật mã hóa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "(việc) mật mã hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Mã hóa",
+            "type": "",
+            "example": {
+                "en": "Our encryption is the real world.",
+                "vi": "Mã hóa của chúng tôi là thế giới thực."
+            }
+        },
+        {
+            "content": "sự mã hóa",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

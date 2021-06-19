@@ -1,0 +1,61 @@
+{
+    "word": "clumsy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkləmzē/",
+            "/ˈkləmzi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklʌmzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vụng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm so clumsy and stupid and not nearly good enough for you.",
+                "vi": "Tôi vụng về và ngốc nghếch chẳng thích hợp với cô."
+            }
+        },
+        {
+            "content": "vụng về",
+            "type": "noun",
+            "example": {
+                "en": "Were you born clumsy or do you work at it?",
+                "vi": "Cậu vụng về bẩm sinh hay đang cố gắng vụng về vậy?"
+            }
+        },
+        {
+            "content": "khó coi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm vụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lóng ngóng",
+            "type": "noun",
+            "example": {
+                "en": "So when I carried her out for the first day , we both appeared clumsy .",
+                "vi": "Vì vậy ngày đầu tiên tôi bế cô ấy , cả hai chúng tôi tỏ ra khá lóng ngóng , vụng về ."
+            }
+        }
+    ]
+}

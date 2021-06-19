@@ -1,0 +1,58 @@
+{
+    "word": "forbid",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərˈbid/",
+            "/fərˈbɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈbɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấm",
+            "type": "verb",
+            "example": {
+                "en": "Mother, our Rule forbids us to host a man under our roof.",
+                "vi": "Thưa Mẹ, quy đinh cấm chúng ta chứa đàn ông trong nhà."
+            }
+        },
+        {
+            "content": "ngăn cấm",
+            "type": "verb",
+            "example": {
+                "en": "You heard it, reason dictates what politeness forbids.",
+                "vi": "Các anh nghe rồi đó, lẽ phải nói lên những gì phép lịch sự ngăn cấm."
+            }
+        },
+        {
+            "content": "không cho phép",
+            "type": "",
+            "example": {
+                "en": "What you are proposing, Allah forbids.",
+                "vi": "Vậy cậu để xuất gì, Allah không cho phép."
+            }
+        },
+        {
+            "content": "không giải được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghiêm cấm",
+            "type": "verb",
+            "example": {
+                "en": "The court forbids Guillotines from learning to read and write",
+                "vi": "Triều đình nghiêm cấm Huyết Trích Tử biết đọc biết viết"
+            }
+        }
+    ]
+}

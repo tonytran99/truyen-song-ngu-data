@@ -1,0 +1,67 @@
+{
+    "word": "compress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpres/",
+            "/kəmˈprɛs/",
+            "/ˈkämˌpres/",
+            "/ˈkɑmˌprɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprɛs/",
+            "/ˈkɒmprɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nén",
+            "type": "noun",
+            "example": {
+                "en": "These compressed formats are themselves written in binary code.",
+                "vi": "Các định dạng nén này cũng được viết bằng dãy nhị phân."
+            }
+        },
+        {
+            "content": "ép",
+            "type": "noun",
+            "example": {
+                "en": "That urge is like a compressed spring held in the hand.",
+                "vi": "Nhu cầu ấy cũng như là một cái lò xo bị nắm ép trong bàn tay."
+            }
+        },
+        {
+            "content": "gạc",
+            "type": "",
+            "example": {
+                "en": "The therapist may also apply hot or cold therapies such as compresses to relieve pain .",
+                "vi": "Nhà trị liệu cũng có thể áp dụng liệu pháp nóng hoặc lạnh chẳng hạn như dùng miếng gạc để làm giảm đau ."
+            }
+        },
+        {
+            "content": "đè",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ép chặt lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miếng gạc",
+            "type": "",
+            "example": {
+                "en": "The therapist may also apply hot or cold therapies such as compresses to relieve pain .",
+                "vi": "Nhà trị liệu cũng có thể áp dụng liệu pháp nóng hoặc lạnh chẳng hạn như dùng miếng gạc để làm giảm đau ."
+            }
+        }
+    ]
+}

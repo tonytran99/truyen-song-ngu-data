@@ -1,0 +1,107 @@
+{
+    "word": "vomit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvämət/",
+            "/ˈvɑmət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɒmɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mửa",
+            "type": "verb",
+            "example": {
+                "en": "Side effects can include diarrhea and vomiting , in addition to fever .",
+                "vi": "Các tác dụng phụ thường gặp là tiêu chảy , ói mửa và sốt ."
+            }
+        },
+        {
+            "content": "nôn",
+            "type": "",
+            "example": {
+                "en": "I then began to choke, and then it quickly led to me vomiting in the water.",
+                "vi": "Tôi bắt đầu bị nghẹn, và rồi tôi nôn ra ngay đó."
+            }
+        },
+        {
+            "content": "thổ",
+            "type": "verb",
+            "example": {
+                "en": "Our patient, who's been known to take a few drinks on non-occasions, vomits blood and collapses on a trip to China.",
+                "vi": "Bệnh nhân luôn nốc rượu vào những dịp đâu đâu thổ huyết và bất tỉnh trở về từ chuyến đi Trung Quốc."
+            }
+        },
+        {
+            "content": "ói",
+            "type": "verb",
+            "example": {
+                "en": "The tainted liquor can lead to fits , vomiting and death .",
+                "vi": "Rượu bị hỏng này khi uống có thể dẫn đến co giật , ói và tử vong ."
+            }
+        },
+        {
+            "content": "phun",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hộc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ọc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất làm nôn mửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất nôn mửa ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nôn mửa",
+            "type": "",
+            "example": {
+                "en": "So we arrested his wife, and now we're gonna charge the man with vomiting.",
+                "vi": "Chúng ta đã bắt người vợ, và bây giờ sẽ kết tội anh ta vì nôn mửa."
+            }
+        },
+        {
+            "content": "phun ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc mửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuôn ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

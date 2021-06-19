@@ -1,0 +1,51 @@
+{
+    "word": "giggle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiɡəl/",
+            "/ˈɡɪɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cười khúc khích",
+            "type": "",
+            "example": {
+                "en": "I often called them gentlemen, which made them giggle.",
+                "vi": "Tôi thường gọi chúng là các quý ông, làm cho các em cười khúc khích."
+            }
+        },
+        {
+            "content": "tiếng cười khúc khích",
+            "type": "noun",
+            "example": {
+                "en": "Sincere prayers occasionally were interrupted with giggling and poking.",
+                "vi": "Những lời cầu nguyện chân thành thỉnh thoảng bị gián đoạn bởi tiếng cười khúc khích và đẩy nhau."
+            }
+        },
+        {
+            "content": "tiếng cười rúc rích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cười rúc rích",
+            "type": "",
+            "example": {
+                "en": "My group of giggling children lined up before the sea of blue mats .",
+                "vi": "Nhóm trẻ của tôi cười rúc rích rồi xếp hàng thẳng tắp trước những tấm thảm xanh ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "jock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jäk/",
+            "/dʒɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "jockey",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lính Ê-cốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vận động viên",
+            "type": "",
+            "example": {
+                "en": "He was the jock and I was the little performer.",
+                "vi": "Lúc đó ảnh là một vận động viên còn tôi là một diễn viên nhí."
+            }
+        }
+    ]
+}

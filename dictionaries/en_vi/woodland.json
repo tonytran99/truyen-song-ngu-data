@@ -1,0 +1,53 @@
+{
+    "word": "woodland",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwo͝odlənd/",
+            "/ˈwʊdlənd/",
+            "/ˈwo͝odˌland/",
+            "/ˈwʊdˌlænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwʊdlənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rừng",
+            "type": "noun",
+            "example": {
+                "en": "Worthy of the skill of our woodland kin.",
+                "vi": "Hợp với kỹ năng của thần rừng chúng ta."
+            }
+        },
+        {
+            "content": "miền rừng",
+            "type": "",
+            "example": {
+                "en": "Land: Cool mountain woodlands, savannas, and humid rain forests.",
+                "vi": "Đất nước: Các miền rừng núi, thảo nguyên và rừng nhiệt đới ẩm."
+            }
+        },
+        {
+            "content": "vùng rừng",
+            "type": "",
+            "example": {
+                "en": "you might find the slime mold foraging in woodlands,",
+                "vi": "bạn có thể thấy nấm mốc nhờn kiếm ăn ở các vùng rừng cây,"
+            }
+        },
+        {
+            "content": "rừng gỗ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

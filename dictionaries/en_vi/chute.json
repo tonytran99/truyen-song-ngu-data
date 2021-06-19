@@ -1,0 +1,58 @@
+{
+    "word": "chute",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHo͞ot/",
+            "/ʃut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʃuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cầu trượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máng đổ rác",
+            "type": "",
+            "example": {
+                "en": "Maybe we should check the trash chute.",
+                "vi": "Có lẽ chúng ta nên kiểm tra máng đổ rác."
+            }
+        },
+        {
+            "content": "dù",
+            "type": "noun",
+            "example": {
+                "en": "If I can't pull my chute, you'll die too!",
+                "vi": "Nếu em không kéo được dù, anh cũng chết luôn."
+            }
+        },
+        {
+            "content": "dốc lao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường lao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường trượt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

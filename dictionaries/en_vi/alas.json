@@ -1,0 +1,87 @@
+{
+    "word": "alas",
+    "type": [
+        "noun",
+        "interjection",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlas/",
+            "/əˈlæs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlas/",
+            "/əˈlɑːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chao ôi",
+            "type": "",
+            "example": {
+                "en": "But alas, that hole has closed up.",
+                "vi": "Nhưng chao ôi, lỗ hổng đó đã đóng lại."
+            }
+        },
+        {
+            "content": "than ôi",
+            "type": "",
+            "example": {
+                "en": "She has, alas, a scandal in her family.",
+                "vi": "Nó có, than ôi, một vụ tai tiếng trong gia đình."
+            }
+        },
+        {
+            "content": "ôi",
+            "type": "adjective",
+            "example": {
+                "en": "She has, alas, a scandal in her family.",
+                "vi": "Nó có, than ôi, một vụ tai tiếng trong gia đình."
+            }
+        },
+        {
+            "content": "than ôi!",
+            "type": "",
+            "example": {
+                "en": "She has, alas, a scandal in her family.",
+                "vi": "Nó có, than ôi, một vụ tai tiếng trong gia đình."
+            }
+        },
+        {
+            "content": "hỡi ôi",
+            "type": "",
+            "example": {
+                "en": "But, alas, the ship had already departed!",
+                "vi": "Nhưng hỡi ôi, con tàu đã rời cảng mất rồi!"
+            }
+        },
+        {
+            "content": "trời ơi",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "ô hô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ôi chao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ôi thôi",
+            "type": "",
+            "example": {
+                "en": "Alas, how easy it is to replay the day’s activities in your mind!",
+                "vi": "Ôi thôi, việc ôn lại những hoạt động trong ngày thật dễ dàng thay!"
+            }
+        }
+    ]
+}

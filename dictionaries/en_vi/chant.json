@@ -1,0 +1,90 @@
+{
+    "word": "chant",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHant/",
+            "/tʃænt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɑːnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hát",
+            "type": "verb noun",
+            "example": {
+                "en": "Or we can chant and dance around naked with sticks.",
+                "vi": "Hoặc hát đồng ca và khỏa thân múa cột."
+            }
+        },
+        {
+            "content": "ca",
+            "type": "verb noun",
+            "example": {
+                "en": "I hear that name being chanted from the stadium.",
+                "vi": "Tôi có nghe tên đó được ngợi ca từ các thao trường."
+            }
+        },
+        {
+            "content": "bản hát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cầu kinh",
+            "type": "",
+            "example": {
+                "en": "Outside the court , fans of Michael Jackson were cheering and chanting , \" Guilty !",
+                "vi": "Bên ngoài toà án , những người hâm mộ Michael Jackson đang hò reo và cầu kinh , \" Có tội !"
+            }
+        },
+        {
+            "content": "giọng trầm bổng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thánh ca",
+            "type": "noun",
+            "example": {
+                "en": "This style became known as a chant or plainsong.",
+                "vi": "Loại nhạc này được gọi là thánh ca hay ca trù."
+            }
+        },
+        {
+            "content": "tụng kinh",
+            "type": "",
+            "example": {
+                "en": "I know I blew an eardrum earlier, but did all the chanting just stop?",
+                "vi": "Tôi biết là tôi bị thủng màng nhĩ nhưng mà tất cả việc tụng kinh dừng lại rồi sao?"
+            }
+        },
+        {
+            "content": "khúc ca",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tụng",
+            "type": "",
+            "example": {
+                "en": "Ritual blood sacrifices, bunch of guys in robes chanting prophesies.",
+                "vi": "Nghi thức hiến máu, một đám người mặc áo choàng cầu tụng lời tiên tri."
+            }
+        },
+        {
+            "content": "Xướng ca",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

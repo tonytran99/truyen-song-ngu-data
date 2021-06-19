@@ -1,0 +1,41 @@
+{
+    "word": "amazon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaməˌzän/",
+            "/ˈæməˌzɑn/",
+            "/ˈaməzən/",
+            "/ˈæməzən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaməz(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nữ tướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sông A-ma-zôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "amazon",
+            "type": "",
+            "example": {
+                "en": "If you haven't been to the Amazon, you should go.",
+                "vi": "Nếu các bạn chưa từng tới Amazon, các bạn nên đi."
+            }
+        }
+    ]
+}

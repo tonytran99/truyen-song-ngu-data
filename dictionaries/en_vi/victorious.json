@@ -1,0 +1,45 @@
+{
+    "word": "victorious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vikˈtôrēəs/",
+            "/vɪkˈtɔriəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɪkˈtɔːrɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến thắng",
+            "type": "adjective",
+            "example": {
+                "en": "That victory became a source of national pride.",
+                "vi": "Chiến thắng đó trở thành nguồn sức mạnh khơi dậy niềm tự hào dân tộc."
+            }
+        },
+        {
+            "content": "khải hoàn",
+            "type": "adjective",
+            "example": {
+                "en": "I'm gonna have him play my victory song come November.",
+                "vi": "Ta sẽ để cháu chơi khúc khải hoàn tháng 11 tới."
+            }
+        },
+        {
+            "content": "thắng cuộc",
+            "type": "",
+            "example": {
+                "en": "Protect it, and next time it may be you who stands victorious.",
+                "vi": "Để ý nó, có thể lần tới anh sẽ là người thắng cuộc."
+            }
+        }
+    ]
+}

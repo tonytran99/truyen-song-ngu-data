@@ -1,0 +1,47 @@
+{
+    "word": "examiner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiɡˈzamənər/",
+            "/ˌɪɡˈzæmənər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzamɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giám khảo",
+            "type": "noun",
+            "example": {
+                "en": "The examiner handed him a magazine and requested that he read aloud a paragraph outlined in red.",
+                "vi": "Vị giám khảo đưa cho anh Noël một tạp chí và yêu cầu anh đọc lớn tiếng một đoạn được đóng khung bằng bút đỏ."
+            }
+        },
+        {
+            "content": "examinant",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khảo quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người chấm thi",
+            "type": "",
+            "example": {
+                "en": "Why would you randomly select an examiner for the Turing Test?",
+                "vi": "Sao anh lại ngẫu nhiên chọn một người chấm thi cho Kiểm tra Turing?"
+            }
+        }
+    ]
+}

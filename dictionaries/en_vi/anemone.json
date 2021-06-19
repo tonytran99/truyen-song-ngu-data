@@ -1,0 +1,34 @@
+{
+    "word": "anemone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnemənē/",
+            "/əˈnɛməni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnɛməni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cò chân ngỗng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cỏ chân ngỗng",
+            "type": "",
+            "example": {
+                "en": "And these are flytrap anemones.",
+                "vi": "Chúng là cỏ chân ngỗng bẫy ruồi."
+            }
+        }
+    ]
+}

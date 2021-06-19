@@ -1,0 +1,40 @@
+{
+    "word": "cereal",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsirēəl/",
+            "/ˈsɪriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪərɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngũ cốc",
+            "type": "noun",
+            "example": {
+                "en": "And remember that all our cereal crops are grasses as well.",
+                "vi": "Hãy nhớ các cây ngũ cốc cũng thuộc họ nhà cỏ."
+            }
+        },
+        {
+            "content": "Cây lương thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây lương thực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

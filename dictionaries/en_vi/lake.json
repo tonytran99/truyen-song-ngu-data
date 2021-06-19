@@ -1,0 +1,50 @@
+{
+    "word": "lake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lāk/",
+            "/leɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/leɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hồ",
+            "type": "noun",
+            "example": {
+                "en": "After we walked for a while, we got to the lake.",
+                "vi": "Sau khi đi bộ được một khoảng, chúng tôi đã tới cái hồ."
+            }
+        },
+        {
+            "content": "湖",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "h",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất màu đỏ tía",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất màu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

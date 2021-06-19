@@ -1,0 +1,45 @@
+{
+    "word": "despotic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspädik/",
+            "/dəˈspɑdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɒtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạo ngược",
+            "type": "adjective",
+            "example": {
+                "en": "Far from all being equal, they lived in a strict, and sometimes despotic, social hierarchy.",
+                "vi": "Thay vì tất cả đều bình đẳng, họ lại sống trong xã hội có cấp bậc, nghiêm khắc, và đôi lúc bạo ngược."
+            }
+        },
+        {
+            "content": "chuyên chế",
+            "type": "adjective",
+            "example": {
+                "en": "It means that violence, the rule of warriors and despotic chiefs,",
+                "vi": "Điều đấy nghĩa là bạo lực, quân nhân, ông chủ chuyên chế,"
+            }
+        },
+        {
+            "content": "chuyên quyền",
+            "type": "adjective",
+            "example": {
+                "en": "He was not a despot, constantly reminding his disciples that they had to obey him.",
+                "vi": "Ngài không là kẻ chuyên quyền, lúc nào cũng nhắc môn đồ là họ phải vâng lời ngài."
+            }
+        }
+    ]
+}

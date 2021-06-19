@@ -1,0 +1,71 @@
+{
+    "word": "circular",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərkyələr/",
+            "/ˈsərkjələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːkjʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thông tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tròn",
+            "type": "adjective",
+            "example": {
+                "en": "The metaphor that I like to use is the metaphor of the circular mill.",
+                "vi": "Phép ẩn dụ mà tôi muốn dùng là ẩn dụ về cối xay tròn này."
+            }
+        },
+        {
+            "content": "vòng quanh",
+            "type": "adjective",
+            "example": {
+                "en": "What happens is that circular logic takes over.",
+                "vi": "Và chuyện xảy ra là một lô gíc vòng quanh."
+            }
+        },
+        {
+            "content": "có hình tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng",
+            "type": "adjective",
+            "example": {
+                "en": "Is the circular economy able to rebuild natural capital?",
+                "vi": "Nhiệu kinh tế dạng vòng có thể xây dựng lại tài nguyên?"
+            }
+        },
+        {
+            "content": "giấy báo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc vòng tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông tri",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

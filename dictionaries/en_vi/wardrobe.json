@@ -1,0 +1,58 @@
+{
+    "word": "wardrobe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrˌdrōb/",
+            "/ˈwɔrˌdroʊb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːdrəʊb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tủ quần áo",
+            "type": "noun",
+            "example": {
+                "en": "I'm afraid I'm going to need a new wardrobe.",
+                "vi": "Tôi sợ là sẽ cần một tủ quần áo mới"
+            }
+        },
+        {
+            "content": "quần áo",
+            "type": "noun",
+            "example": {
+                "en": "I put an A on my wardrobe just like they asked.",
+                "vi": "Tôi thêu chữ A lên quần áo đúng như họ yêu cầu."
+            }
+        },
+        {
+            "content": "tủ áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tủ đựng quần áo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tủ kính",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Tủ chè",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

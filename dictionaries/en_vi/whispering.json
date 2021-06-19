@@ -1,0 +1,44 @@
+{
+    "word": "whispering",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "tiếng nói thầm",
+            "type": "",
+            "example": {
+                "en": "You know, if you talk low like this, it's actually harder to hear than a whisper.",
+                "vi": "Em biết không, nếu em hạ thấp giọng như vậy, thật ra còn khó nghe hơn cả tiếng nói thầm đấy."
+            }
+        },
+        {
+            "content": "tiếng thì thầm",
+            "type": "",
+            "example": {
+                "en": "I kept hoping for even a whisper from her.",
+                "vi": "Tôi cứ hy vọng là sẽ có một tiếng thì thầm từ em ấy."
+            }
+        },
+        {
+            "content": "tiếng xào xạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng xì xào",
+            "type": "",
+            "example": {
+                "en": "Tom Reilly's wrap-up on Saturday. Einstein, did you hear whispers?",
+                "vi": "lời tổng kết của anh Tom Reillly vào Thứ Bảy. Einstein, em có nghe thấy tiếng xì xào không?"
+            }
+        },
+        {
+            "content": "tiếng đồn bậy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

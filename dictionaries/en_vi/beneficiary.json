@@ -1,0 +1,35 @@
+{
+    "word": "beneficiary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbenəˈfiSHēˌerē/",
+            "/ˌbɛnəˈfɪʃiˌɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɛnɪˈfɪʃ(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hưởng hoa lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thụ hưởng",
+            "type": "",
+            "example": {
+                "en": "I mean, there's insurance, but mrs. Henson isn't the beneficiary of any of the policies.",
+                "vi": "Có bảo hiểm, nhưng bà Henson không là người thụ hưởng chính sách nào."
+            }
+        }
+    ]
+}

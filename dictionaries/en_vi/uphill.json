@@ -1,0 +1,60 @@
+{
+    "word": "uphill",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈhil/",
+            "/ˌəpˈhɪl/",
+            "/ˈəpˌhil/",
+            "/ˈəpˌhɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈhɪl/",
+            "/ˈʌphɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lên dốc",
+            "type": "",
+            "example": {
+                "en": "It would coast downhill, but it had to be pushed uphill.",
+                "vi": "Nó lao xuống dốc nhưng vẫn cần phải được đẩy khi lên dốc."
+            }
+        },
+        {
+            "content": "dốc",
+            "type": "verb",
+            "example": {
+                "en": "A variety of gears offer the rider greater ease when going uphill.",
+                "vi": "Bộ đề có nhiều nấc khiến người đạp dễ dàng hơn khi leo dốc."
+            }
+        },
+        {
+            "content": "khó khăn",
+            "type": "",
+            "example": {
+                "en": "Therefore, we must plunge into this work, and we must prepare for some uphill climbing.",
+                "vi": "Do đó, chúng ta phải lao vào công việc này, và cần phải chuẩn bị trước cho một số khó khăn."
+            }
+        },
+        {
+            "content": "vất v",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường dốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

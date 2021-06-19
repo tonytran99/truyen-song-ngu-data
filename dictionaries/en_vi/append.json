@@ -1,0 +1,98 @@
+{
+    "word": "append",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpend/",
+            "/əˈpɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thêm",
+            "type": "adjective conjunction verb",
+            "example": {
+                "en": "& Append as Child",
+                "vi": "& Phụ thêm dạng Con"
+            }
+        },
+        {
+            "content": "đóng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "áp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "buộc vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấp vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cột vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắn vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ký tên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nối kết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nối vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phụ thêm",
+            "type": "",
+            "example": {
+                "en": "Enable this to append the unit to the title of the display",
+                "vi": "Bật tùy chọn này để phụ thêm đơn vị vào tựa của bộ trình bày"
+            }
+        },
+        {
+            "content": "treo vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viết thêm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bổ sung thêm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

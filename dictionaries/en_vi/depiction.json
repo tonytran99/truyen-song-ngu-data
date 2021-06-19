@@ -1,0 +1,55 @@
+{
+    "word": "depiction",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈpikSH(ə)n/",
+            "/dɪˈpɪkʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpɪkʃn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoạ",
+            "type": "verb",
+            "example": {
+                "en": "It's a classic depiction of good versus evil.",
+                "vi": "Ðây là bức hoạ cổ điển về điều tốt chống lại cái xấu"
+            }
+        },
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {
+                "en": "Show the teachers a video that depicts a classroom experience.",
+                "vi": "Chiếu cho giảng viên xem một video mô tả một kinh nghiệm trong lớp học."
+            }
+        },
+        {
+            "content": "sự miêu tả",
+            "type": "",
+            "example": {
+                "en": "I consider that an accurate depiction of events.",
+                "vi": "Tôi cho đó là một sự miêu tả sự kiện rất xác đáng."
+            }
+        },
+        {
+            "content": "sự tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuật vẽ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

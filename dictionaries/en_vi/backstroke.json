@@ -1,0 +1,40 @@
+{
+    "word": "backstroke",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakˌstrōk/",
+            "/ˈbækˌstroʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakstrəʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bơi ngửa",
+            "type": "",
+            "example": {
+                "en": "Do you like to swim breaststroke, front crawl, butterfly or backstroke?",
+                "vi": "Em thích bơi ếch, bơi sải, bơi bướm hay bơi ngửa?"
+            }
+        },
+        {
+            "content": "cú trái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bơi ngửa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "dangling",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaNGɡ(ə)liNG/",
+            "/ˈdaŋɡ(ə)lɪŋ/",
+            "/ˈdaNGɡliNG/",
+            "/ˈdaŋɡlɪŋ/",
+            "/ˈdæŋɡlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaŋɡ(ə)lɪŋ/",
+            "/ˈdaŋɡlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lủng lẳng",
+            "type": "noun",
+            "example": {
+                "en": "Your plan of dangling me like bait seemed to work.",
+                "vi": "Kế hoạch làm tôi treo lủng lẳng như một con dơi của cô hiệu quả rồi đó."
+            }
+        },
+        {
+            "content": "đu đưa",
+            "type": "noun",
+            "example": {
+                "en": "He is but limbs, dangling from a skewered trunk.",
+                "vi": "Một tên kềnh càng, chân tay thì đu đưa từ thân thể hắn."
+            }
+        }
+    ]
+}

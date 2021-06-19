@@ -1,0 +1,41 @@
+{
+    "word": "dessert",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzəːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tráng miệng",
+            "type": "noun",
+            "example": {
+                "en": "I'd like to have cake for dessert.",
+                "vi": "Tôi muốn ăn tráng miệng bằng bánh ngọt."
+            }
+        },
+        {
+            "content": "món tráng miệng",
+            "type": "",
+            "example": {
+                "en": "We likened it to the dessert at the end of a meal —sweet but not the main course.",
+                "vi": "Chúng tôi coi nó như món tráng miệng—ngon và ngọt nhưng không phải là món ăn chính."
+            }
+        },
+        {
+            "content": "món ăn ngọt tráng miệng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

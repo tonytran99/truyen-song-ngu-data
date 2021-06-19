@@ -1,0 +1,64 @@
+{
+    "word": "disallow",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈlou/",
+            "/ˌdɪsəˈlaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈlaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấm",
+            "type": "determiner",
+            "example": {}
+        },
+        {
+            "content": "không cho phép",
+            "type": "",
+            "example": {
+                "en": "Your administrator has disallowed changing your image",
+                "vi": "Nhà quản trị không cho phép thay đổi hình ảnh"
+            }
+        },
+        {
+            "content": "bác",
+            "type": "pronoun verb noun",
+            "example": {}
+        },
+        {
+            "content": "cự tuyệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không công nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoâng coâng nhaän, baùc boû",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "lamentable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlamən(t)əb(ə)l/",
+            "/ˈlæmən(t)əb(ə)l/",
+            "/ləˈmen(t)əb(ə)l/",
+            "/ləˈmɛn(t)əb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlaməntəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ai oán",
+            "type": "adjective",
+            "example": {
+                "en": "According to Hab 3 verse 1, it is expressed in dirges, songs of grief or lamentation.",
+                "vi": "Theo câu 1, chương này được diễn đạt bằng những bài ca não nùng, những bài hát ai oán hoặc ca thương."
+            }
+        },
+        {
+            "content": "bi đát",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thảm hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thảm thương",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đáng thương",
+            "type": "adjective",
+            "example": {
+                "en": "I saw your progress with my lamented younger brother.",
+                "vi": "Ta đã thấy ngươi tiến bộ với thằng em đáng thương của ta."
+            }
+        },
+        {
+            "content": "đáng tiếc",
+            "type": "",
+            "example": {
+                "en": "Our lamentable separation has trebled my pleasure at seeing you again.",
+                "vi": "Sự xa cách đáng tiếc của chúng ta... đã khiến tôi vui hơn gấp ba lần khi được gặp lại cô lần nữa."
+            }
+        }
+    ]
+}

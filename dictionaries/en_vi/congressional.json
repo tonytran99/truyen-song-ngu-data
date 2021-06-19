@@ -1,0 +1,34 @@
+{
+    "word": "congressional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈɡreSH(ə)n(ə)l/",
+            "/kənˈɡrɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈɡrɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quốc hội",
+            "type": "adjective noun",
+            "example": {
+                "en": "It is now the military industrial congressional media NGO.",
+                "vi": "Giờ đó là khu công nghiệp quân sự Phương tiện truyền thông quốc hội phi chính phủ."
+            }
+        },
+        {
+            "content": "hội nghị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

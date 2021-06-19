@@ -1,0 +1,62 @@
+{
+    "word": "cent",
+    "type": [
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sent/",
+            "/sɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phần trăm",
+            "type": "",
+            "example": {
+                "en": "I own 27 per cent of Thorn industries, left to me by your father.",
+                "vi": "Tôi làm chủ 27 phần trăm cổ phần của hãng Thorn, do cha ông để lại cho tôi."
+            }
+        },
+        {
+            "content": "đồng xu",
+            "type": "noun",
+            "example": {
+                "en": "Got me for my last cent.",
+                "vi": "Lấy hết của tôi tới đồng xu cuối cùng."
+            }
+        },
+        {
+            "content": "cent",
+            "type": "",
+            "example": {
+                "en": "Two or three cents per cup — that's what coffee is worth.",
+                "vi": "Hai hoặc ba cent một cốc — đó là giá của cà phê."
+            }
+        },
+        {
+            "content": "xu",
+            "type": "noun",
+            "example": {
+                "en": "I told your husband I won't charge you one cent more.",
+                "vi": "Tôi đã nói với chồng bà là sẽ không lấy thêm một xu nào nữa."
+            }
+        },
+        {
+            "content": "Cent",
+            "type": "",
+            "example": {
+                "en": "Please deposit 50 cents for the next five minutes.",
+                "vi": "Hãy bỏ vào 50Cent nữa cho 5 phút kế tiếp."
+            }
+        }
+    ]
+}

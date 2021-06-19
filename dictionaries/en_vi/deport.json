@@ -1,0 +1,47 @@
+{
+    "word": "deport",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈpôrt/",
+            "/dəˈpɔrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trục xuất",
+            "type": "",
+            "example": {
+                "en": "You know he's illegal. He could get deported.",
+                "vi": "Mấy người biết ông ấy vượt biên trái phép và có thể bị trục xuất."
+            }
+        },
+        {
+            "content": "lưu đày",
+            "type": "verb",
+            "example": {
+                "en": "I brought you here to talk about deportation, not whipped cream.",
+                "vi": "Tôi đưa các em tới đây để nói về lưu đày, không phải kem đặc."
+            }
+        },
+        {
+            "content": "phát vãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đày đi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

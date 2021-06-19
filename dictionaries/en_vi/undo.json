@@ -1,0 +1,117 @@
+{
+    "word": "undo",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈdo͞o/",
+            "/ˌənˈdu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈduː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháo",
+            "type": "verb",
+            "example": {
+                "en": "Can you undo my boot?",
+                "vi": "Cô tháo giầy tôi ra nhé?"
+            }
+        },
+        {
+            "content": "cởi",
+            "type": "verb",
+            "example": {
+                "en": "Better undo your buttons lest it sting you.",
+                "vi": "Tốt hơn là cô nên cởi khuy áo ra để nó không đốt."
+            }
+        },
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "Or can't you undo real locks, professor?",
+                "vi": "Hay anh không thể mở được một cái khoá thật sự hả, chuyên gia?"
+            }
+        },
+        {
+            "content": "xoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "huỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho đồi truỵ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hư hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá hoại",
+            "type": "noun",
+            "example": {
+                "en": "that would undermine or undo",
+                "vi": "nhằm mục đích phá hoại hay gỡ bỏ"
+            }
+        },
+        {
+            "content": "hủy",
+            "type": "verb",
+            "example": {
+                "en": "She's the only one who can undo what's been done.",
+                "vi": "Nó là đứa duy nhất có thể hủy những lệnh đó."
+            }
+        },
+        {
+            "content": "gỡ",
+            "type": "",
+            "example": {
+                "en": "There must be some way to undo what's been done.",
+                "vi": "Phải có cách nào giải gỡ chuyện này chứ."
+            }
+        },
+        {
+            "content": "Hoàn tác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoàn tác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá hủy",
+            "type": "",
+            "example": {
+                "en": "You cannot undo that.",
+                "vi": "Anh không thể phá hủy điều đó."
+            }
+        },
+        {
+            "content": "xóa bỏ",
+            "type": "verb",
+            "example": {
+                "en": "I assumed you were undoing an insult by having me here.",
+                "vi": "Tôi cho là ngài đang cố xóa bỏ một sự xúc phạm bằng việc mời tôi đến đây."
+            }
+        }
+    ]
+}

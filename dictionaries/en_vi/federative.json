@@ -1,0 +1,39 @@
+{
+    "word": "federative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfed(ə)rədiv/",
+            "/ˈfɛd(ə)rədɪv/",
+            "/ˈfedəˌrādiv/",
+            "/ˈfɛdəˌreɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛd(ə)rətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liên bang",
+            "type": "adjective noun",
+            "example": {
+                "en": "The federal court tossed it into our lap.",
+                "vi": "Toà án liên bang ném vào mặt chúng ta."
+            }
+        },
+        {
+            "content": "liên đoàn",
+            "type": "",
+            "example": {
+                "en": "The federation is a breeding ground for such termites",
+                "vi": "Liên đoàn là nơi chứa chấp những con sâu mọt như vậy."
+            }
+        }
+    ]
+}

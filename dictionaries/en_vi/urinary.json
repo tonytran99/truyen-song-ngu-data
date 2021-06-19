@@ -1,0 +1,38 @@
+{
+    "word": "urinary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orəˌnerē/",
+            "/ˈjʊrəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərɪn(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "niệu",
+            "type": "",
+            "example": {
+                "en": "But the reconstruction allowed us to create a male urinary tract.",
+                "vi": "Nhưng sự tái tạo cho phép chúng tôi tạo nên một đường tiết niệu nam."
+            }
+        },
+        {
+            "content": "nước tiểu",
+            "type": "",
+            "example": {
+                "en": "I'm gonna smell like a urinary tract infection on my first day!",
+                "vi": "Em sẽ bốc mùi nước tiểu nhiễm trùng đường vào ngày đầu tiên mất!"
+            }
+        }
+    ]
+}

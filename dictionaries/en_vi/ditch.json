@@ -1,0 +1,77 @@
+{
+    "word": "ditch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diCH/",
+            "/dɪtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mương",
+            "type": "",
+            "example": {
+                "en": "Aa's neighbor found you in the ditch next to the tractor.",
+                "vi": "Hàng xóm của Aa tìm thấy anh ở trong mương kế bên cái máy kéo."
+            }
+        },
+        {
+            "content": "hào",
+            "type": "noun",
+            "example": {
+                "en": "And you'd be dead in a ditch without me!",
+                "vi": "Và ngài đã chết trong một cái hào nếu không có tôi."
+            }
+        },
+        {
+            "content": "rãnh",
+            "type": "",
+            "example": {
+                "en": "He could be dead in a ditch for all I care.",
+                "vi": "Anh ta có chết nơi cống rãnh nào tôi cũng không quan tâm."
+            }
+        },
+        {
+            "content": "biển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mương rãnh",
+            "type": "",
+            "example": {
+                "en": "Well, I left him in the same ditch he was gonna leave me in.",
+                "vi": "Tôi bỏ hắn ở chỗ mương rãnh mà hắn định vứt tôi rồi."
+            }
+        },
+        {
+            "content": "biển Măng-sơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biển bắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "Yes, which she ditched, bobbing in a bay.",
+                "vi": "Cô ta đã bỏ xó nó ở vịnh."
+            }
+        }
+    ]
+}

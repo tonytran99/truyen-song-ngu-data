@@ -1,0 +1,74 @@
+{
+    "word": "cake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kāk/",
+            "/keɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to bake a cake for Tom's birthday.",
+                "vi": "Tôi sẽ làm một chiếc bánh cho sinh nhật của Tom."
+            }
+        },
+        {
+            "content": "bánh ngọt",
+            "type": "noun",
+            "example": {
+                "en": "How about another piece of cake?",
+                "vi": "Anh có muốn miếng bánh ngọt khác không?"
+            }
+        },
+        {
+            "content": "bánh ga tô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miếng bánh",
+            "type": "",
+            "example": {
+                "en": "How about another piece of cake?",
+                "vi": "Anh có muốn miếng bánh ngọt khác không?"
+            }
+        },
+        {
+            "content": "đóng bánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng thành bánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đĩnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bánh ngọt",
+            "type": "",
+            "example": {
+                "en": "How about another piece of cake?",
+                "vi": "Anh có muốn miếng bánh ngọt khác không?"
+            }
+        }
+    ]
+}

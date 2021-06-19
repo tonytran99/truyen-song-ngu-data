@@ -1,0 +1,81 @@
+{
+    "word": "knack",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nak/",
+            "/næk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sở trường",
+            "type": "",
+            "example": {
+                "en": "Bill Compton certainly has a knack for finding trouble.",
+                "vi": "Bill Compton đúng là có sở trường về tìm rắc rối."
+            }
+        },
+        {
+            "content": "khoé",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bí quyết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự khéo tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thông thạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thói quen",
+            "type": "",
+            "example": {
+                "en": "Her knack for burning things down.",
+                "vi": "Thói quen phải đốt trụi mọi thứ ấy."
+            }
+        },
+        {
+            "content": "tài riêng",
+            "type": "",
+            "example": {
+                "en": "Agent Crawford tells me you have a knack for the monsters.",
+                "vi": "Đặc vụ Crawford nói với tôi cậu có biệt tài riêng với những tên quái vật."
+            }
+        },
+        {
+            "content": "kỹ năng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

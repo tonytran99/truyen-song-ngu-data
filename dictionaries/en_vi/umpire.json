@@ -1,0 +1,66 @@
+{
+    "word": "umpire",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəmˌpī(ə)r/",
+            "/ˈəmˌpaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌmpʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trọng tài",
+            "type": "noun",
+            "example": {
+                "en": "I'm just an observer, captain, not an umpire.",
+                "vi": "Tôi chỉ là một quan sát viên, Đại úy, không phải trọng tài."
+            }
+        },
+        {
+            "content": "làm trọng tài",
+            "type": "",
+            "example": {
+                "en": "or umpiring, we always find a way to do it,",
+                "vi": "hoặc làm trọng tài phân xử, chúng cháu vẫn tìm ra cách làm được,"
+            }
+        },
+        {
+            "content": "người phân xử",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người trọng tài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân xử",
+            "type": "",
+            "example": {
+                "en": "or umpiring, we always find a way to do it,",
+                "vi": "hoặc làm trọng tài phân xử, chúng cháu vẫn tìm ra cách làm được,"
+            }
+        },
+        {
+            "content": "người trung gian",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cầm trịch",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

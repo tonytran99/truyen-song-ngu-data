@@ -1,0 +1,35 @@
+{
+    "word": "unregistered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈrejəstərd/",
+            "/ˌənˈrɛdʒəstərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈrɛdʒɪstəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không vào sổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đăng ký",
+            "type": "",
+            "example": {
+                "en": "Why are you living at an unregistered address?",
+                "vi": "Tại sao ông sống ở một địa chỉ không đăng ký?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "ace",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ās/",
+            "/eɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà vô địch",
+            "type": "",
+            "example": {
+                "en": "I'm from Fresno, Ace.",
+                "vi": "nhà vô địch à."
+            }
+        },
+        {
+            "content": "át",
+            "type": "noun",
+            "example": {
+                "en": "I have the ace of clubs.",
+                "vi": "Tôi có con át chuồn."
+            }
+        },
+        {
+            "content": "chút xíu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người giỏi nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi công xuất sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân át",
+            "type": "noun",
+            "example": {
+                "en": "The formula was my ace in the hole.",
+                "vi": "Công thức này là quân át chủ bài của tôi."
+            }
+        },
+        {
+            "content": "A",
+            "type": "Letter interjection",
+            "example": {}
+        },
+        {
+            "content": "a",
+            "type": "Letter noun",
+            "example": {}
+        }
+    ]
+}

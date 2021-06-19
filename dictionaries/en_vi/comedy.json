@@ -1,0 +1,55 @@
+{
+    "word": "comedy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämədē/",
+            "/ˈkɑmədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmɪdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hài kịch",
+            "type": "noun",
+            "example": {
+                "en": "Economy of language is another real strong suit of great comedy.",
+                "vi": "Sự kiệm lời cũng là một thế mạnh của vở hài kịch tuyệt vời."
+            }
+        },
+        {
+            "content": "kịch vui",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hài",
+            "type": "adjective noun",
+            "example": {
+                "en": "We'll stick to comedies from now on, I think.",
+                "vi": "Tôi nghĩ từ giờ trở đi chúng ta sẽ diễn hài."
+            }
+        },
+        {
+            "content": "Hài kịch",
+            "type": "",
+            "example": {
+                "en": "Here's how I see social justice comedy working.",
+                "vi": "Bản thân tôi nhìn hài kịch công bằng xã hội thế này"
+            }
+        },
+        {
+            "content": "trò hề",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

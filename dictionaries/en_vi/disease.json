@@ -1,0 +1,99 @@
+{
+    "word": "disease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzēz/",
+            "/dəˈziz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈziːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh",
+            "type": "noun",
+            "example": {
+                "en": "It's a scalp disease.",
+                "vi": "Đó là một bệnh về da đầu"
+            }
+        },
+        {
+            "content": "bệnh tật",
+            "type": "noun",
+            "example": {
+                "en": "For example, disease causes poverty, and poverty causes disease.",
+                "vi": "Thí dụ, bệnh tật dẫn đến sự nghèo khổ mà người nghèo thì hay bị bệnh."
+            }
+        },
+        {
+            "content": "căn bệnh",
+            "type": "noun",
+            "example": {
+                "en": "We're treating cancer almost like it's an infectious disease.",
+                "vi": "Chúng ta điều trị ung thư cứ như nó là một căn bệnh truyền nhiễm."
+            }
+        },
+        {
+            "content": "chứng",
+            "type": "noun",
+            "example": {
+                "en": "Wilson's disease could explain the liver and neurological symptoms.",
+                "vi": "Bệnh Wilson có thể giải thích lá gan và các triệu chứng thần kinh."
+            }
+        },
+        {
+            "content": "bệnh dịch",
+            "type": "noun",
+            "example": {
+                "en": "You Xandarians and your culture are a disease.",
+                "vi": "Người Xandar và thứ văn hóa của các ngươi là bệnh dịch."
+            }
+        },
+        {
+            "content": "chứng bệnh",
+            "type": "noun",
+            "example": {
+                "en": "A big part of it is to learn everything they can about the disease.",
+                "vi": "Một phần lớn là tìm hiểu về chứng bệnh này càng nhiều càng hay."
+            }
+        },
+        {
+            "content": "chứng bịnh",
+            "type": "noun",
+            "example": {
+                "en": "In the evening today, Oh, Chairman of Mirae Motors was suddenly hospitalized for a chronic disease.",
+                "vi": "Tối hôm nay, ông Oh, chủ tịch Mirae Motors đã nhập viện vì chứng bịnh kinh niên."
+            }
+        },
+        {
+            "content": "mắc bệnh",
+            "type": "",
+            "example": {
+                "en": "Excess abdominal fat is a risk factor for heart disease .",
+                "vi": "Mỡ bụng dư thừa là yếu tố rủi ro gây mắc bệnh tim ."
+            }
+        },
+        {
+            "content": "tật bệnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tật",
+            "type": "",
+            "example": {
+                "en": "He had power over disease, hunger, even death.",
+                "vi": "Ngài có quyền năng loại trừ bệnh tật, đói kém, ngay cả sự chết."
+            }
+        }
+    ]
+}

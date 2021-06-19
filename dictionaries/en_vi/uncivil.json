@@ -1,0 +1,49 @@
+{
+    "word": "uncivil",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsivəl/",
+            "/ˌənˈsɪvəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsɪv(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khiếm nhã",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không lịch sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô bỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô lễ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất lịch sự",
+            "type": "",
+            "example": {
+                "en": "If I was uncivil, then that is some excuse.",
+                "vi": "Nếu tôi có thái độ bất lịch sự thì đấy là một trong số các lý do."
+            }
+        }
+    ]
+}

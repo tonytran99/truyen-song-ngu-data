@@ -1,0 +1,43 @@
+{
+    "word": "chameleon",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmēlyən/",
+            "/kəˈmiljən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmiːlɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tắc kè hoa",
+            "type": "noun",
+            "example": {
+                "en": "The world’s smallest chameleon was recently discovered in Madagascar.",
+                "vi": "Con tắc kè hoa nhỏ nhất thế giới được phát hiện gần đây ở Madagascar."
+            }
+        },
+        {
+            "content": "người không kiên định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắc kè",
+            "type": "noun",
+            "example": {
+                "en": "The world’s smallest chameleon was recently discovered in Madagascar.",
+                "vi": "Con tắc kè hoa nhỏ nhất thế giới được phát hiện gần đây ở Madagascar."
+            }
+        }
+    ]
+}

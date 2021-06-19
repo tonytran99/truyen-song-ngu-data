@@ -1,0 +1,39 @@
+{
+    "word": "waterfront",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərˌfrənt/",
+            "/ˈwɔdərˌfrənt/",
+            "/ˈwädərˌfrənt/",
+            "/ˈwɑdərˌfrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːtəfrʌnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bờ biển",
+            "type": "",
+            "example": {
+                "en": "Our waterfront guesthouse was torn from its foundations and smashed beyond repair.",
+                "vi": "Căn nhà trên bờ biển mà chúng tôi dùng để tiếp khách bị cuốn phăng và vỡ tan tành."
+            }
+        },
+        {
+            "content": "bờ sông",
+            "type": "",
+            "example": {
+                "en": "Hello, we own the cops on the waterfront.",
+                "vi": "Xin chào, cảnh sát bờ sông là người của chúng tôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "gemstone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjemˌstōn/",
+            "/ˈdʒɛmˌstoʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛmstəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngọc",
+            "type": "noun",
+            "example": {
+                "en": "Unlike gold, silver, or many gemstones, pearls are produced by living things.",
+                "vi": "Khác với vàng, bạc hoặc nhiều loại đá quí, ngọc trai do các sinh vật tạo nên."
+            }
+        },
+        {
+            "content": "Ngọc",
+            "type": "proper",
+            "example": {
+                "en": "Unlike gold, silver, or many gemstones, pearls are produced by living things.",
+                "vi": "Khác với vàng, bạc hoặc nhiều loại đá quí, ngọc trai do các sinh vật tạo nên."
+            }
+        },
+        {
+            "content": "đá quý",
+            "type": "noun",
+            "example": {
+                "en": "And so they're valuable. This is precious metals and gemstones.",
+                "vi": "Và chúng có giá trị. Chúng là kim loại và đá quý."
+            }
+        }
+    ]
+}

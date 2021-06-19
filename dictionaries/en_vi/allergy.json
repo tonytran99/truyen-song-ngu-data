@@ -1,0 +1,42 @@
+{
+    "word": "allergy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalərjē/",
+            "/ˈælərdʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dị ứng",
+            "type": "noun",
+            "example": {
+                "en": "Penicillin allergy explains the allergic reaction much better.",
+                "vi": "Dị ứng penicillin giải thích các phản ứng dị ứng tốt hơn."
+            }
+        },
+        {
+            "content": "sự ác cảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dị ứng",
+            "type": "noun",
+            "example": {
+                "en": "A byproduct of the formula, an allergy-",
+                "vi": "Một tác dụng phụ của công thức, một sự dị ứng-"
+            }
+        }
+    ]
+}

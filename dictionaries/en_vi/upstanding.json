@@ -1,0 +1,65 @@
+{
+    "word": "upstanding",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈstandiNG/",
+            "/ˌəpˈstændɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈstandɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chắc chắn",
+            "type": "adjective adverb",
+            "example": {}
+        },
+        {
+            "content": "cố định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dựng ngược",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dựng đứng lên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khoẻ mạnh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẳng đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứng thẳng",
+            "type": "",
+            "example": {
+                "en": "Ladies and gentlemen, pray, charge your glasses and be upstanding.",
+                "vi": "Thưa quý ông và quý bà, xin hãy rót đầy cốc và đứng thẳng dậy."
+            }
+        }
+    ]
+}

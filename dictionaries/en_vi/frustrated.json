@@ -1,0 +1,45 @@
+{
+    "word": "frustrated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrəˌstrādəd/",
+            "/ˈfrəˌstreɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frʌˈstreɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất đắc chí",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thất chí",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không hài lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nản lòng",
+            "type": "",
+            "example": {
+                "en": "I can see how that would be frustrating.",
+                "vi": "Tôi có thể thấy nó gây nản lòng thế nào."
+            }
+        }
+    ]
+}

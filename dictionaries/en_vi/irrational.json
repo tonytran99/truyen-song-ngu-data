@@ -1,0 +1,78 @@
+{
+    "word": "irrational",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(r)ˈraSH(ə)nəl/",
+            "/ɪ(r)ˈræʃ(ə)nəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈraʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phi lý",
+            "type": "adjective",
+            "example": {
+                "en": "What a protection such a mind-set is against irrational actions!",
+                "vi": "Thái độ như thế quả là một sự che chở để tránh làm những điều phi lý!"
+            }
+        },
+        {
+            "content": "vô lý",
+            "type": "adjective",
+            "example": {
+                "en": "But they also do some of the irrational things we do.",
+                "vi": "Nhưng chúng cũng làm những việc vô lý như chúng ta."
+            }
+        },
+        {
+            "content": "bất hợp lý",
+            "type": "adjective",
+            "example": {
+                "en": "It's irrational, but it's normal.",
+                "vi": "Nó có vẻ bất hợp lý, nhưng rất bình thường."
+            }
+        },
+        {
+            "content": "không có lý trí",
+            "type": "adjective",
+            "example": {
+                "en": "The rational and the irrational complement each other.",
+                "vi": "Có lý trí hay không có lý trí bổ sung cho nhau."
+            }
+        },
+        {
+            "content": "không hợp lý",
+            "type": "",
+            "example": {
+                "en": "So no, I think that rituals are, by nature, irrational.",
+                "vi": "Ồ không, tôi nghĩ theo một cách tự nhiên thì những nghi lễ đó không hợp lý."
+            }
+        },
+        {
+            "content": "số vô tỷ",
+            "type": "",
+            "example": {
+                "en": "It's an irrational number Known as \" phi. \"",
+                "vi": "Nó là một số vô tỷ, được biết là \" Phi. \""
+            }
+        },
+        {
+            "content": "vô tỷ",
+            "type": "adjective",
+            "example": {
+                "en": "It's an irrational number Known as \" phi. \"",
+                "vi": "Nó là một số vô tỷ, được biết là \" Phi. \""
+            }
+        }
+    ]
+}

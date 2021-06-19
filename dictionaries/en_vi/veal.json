@@ -1,0 +1,45 @@
+{
+    "word": "veal",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vēl/",
+            "/vil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/viːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thịt bê",
+            "type": "noun",
+            "example": {
+                "en": "I'll have the veal piccata.",
+                "vi": "Tôi sẽ ăn thịt bê sốt chanh."
+            }
+        },
+        {
+            "content": "bê",
+            "type": "interjection noun",
+            "example": {
+                "en": "I'll have the veal piccata.",
+                "vi": "Tôi sẽ ăn thịt bê sốt chanh."
+            }
+        },
+        {
+            "content": "Thịt bê",
+            "type": "",
+            "example": {
+                "en": "I'll have the veal piccata.",
+                "vi": "Tôi sẽ ăn thịt bê sốt chanh."
+            }
+        }
+    ]
+}

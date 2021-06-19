@@ -1,0 +1,50 @@
+{
+    "word": "infirmary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfərm(ə)rē/",
+            "/ɪnˈfərm(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfəːm(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh xá",
+            "type": "noun",
+            "example": {
+                "en": "You get me to the infirmary, I save your life.",
+                "vi": "Anh đưa tôi tới bệnh xá, tôi sẽ cứu anh."
+            }
+        },
+        {
+            "content": "nhà thương",
+            "type": "noun",
+            "example": {
+                "en": "This time won't be infirmary, it'll be the morgue.",
+                "vi": "Lần này thì đéo phải nhà thương đâu, sẽ là nhà xác đấy."
+            }
+        },
+        {
+            "content": "bệnh viện",
+            "type": "noun",
+            "example": {
+                "en": "Too dangerous to house him in the infirmary.",
+                "vi": "Quá nguy hiểm khi mang anh ta đến bệnh viện."
+            }
+        },
+        {
+            "content": "bịnh xá",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

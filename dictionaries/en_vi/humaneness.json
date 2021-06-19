@@ -1,0 +1,42 @@
+{
+    "word": "humaneness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞oˈmānnəs/",
+            "/(h)juˈmeɪnnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjʊˈmeɪnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính nhân dân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhân",
+            "type": "verb noun",
+            "example": {
+                "en": "Language as we know is a human invention.",
+                "vi": "Như chúng ta biết, ngôn ngữ là phát minh của nhân loại."
+            }
+        },
+        {
+            "content": "nhân tính",
+            "type": "",
+            "example": {
+                "en": "You speak of humanity, yet you have all but lost yours.",
+                "vi": "Các ngài nói về nhân tính vậy mà chính cá ngài đã không còn chút nhân tính nào."
+            }
+        }
+    ]
+}

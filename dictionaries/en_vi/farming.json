@@ -1,0 +1,62 @@
+{
+    "word": "farming",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfärmiNG/",
+            "/ˈfɑrmɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɑːmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nông nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Japan is the largest importer of U.S. farm products.",
+                "vi": "Nhật Bản là đầu mối nhập khẩu lớn nhất của sản phẩm nông nghiệp của Hoa Kỳ."
+            }
+        },
+        {
+            "content": "canh nông",
+            "type": "noun",
+            "example": {
+                "en": "Thorn's have the hardware and knowledge that's easily adaptable to the purpose of large-scale farming.",
+                "vi": "Đúng vậy. Thorn có cơ sở và kiến thức mà dễ dàng thích ứng cho mục đích canh nông đại thể."
+            }
+        },
+        {
+            "content": "công việc trồng trọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công việc đồng áng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Spermophagus braunsi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nông",
+            "type": "",
+            "example": {
+                "en": "Japan is the largest importer of U.S. farm products.",
+                "vi": "Nhật Bản là đầu mối nhập khẩu lớn nhất của sản phẩm nông nghiệp của Hoa Kỳ."
+            }
+        }
+    ]
+}

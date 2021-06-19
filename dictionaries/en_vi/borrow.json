@@ -1,0 +1,56 @@
+{
+    "word": "borrow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbärō/",
+            "/ˈbɑroʊ/",
+            "/ˈbôrō/",
+            "/ˈbɔroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒrəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mượn",
+            "type": "verb",
+            "example": {
+                "en": "I'd never borrow anything of yours without asking first.",
+                "vi": "Tôi chưa bao giờ mượn bất kì thứ gì của bạn mà không hỏi trước cả."
+            }
+        },
+        {
+            "content": "vay",
+            "type": "verb",
+            "example": {
+                "en": "My pride prevented me from borrowing money from him.",
+                "vi": "Vì sĩ diện tôi không thể vay tiền của anh ta."
+            }
+        },
+        {
+            "content": "hỏi mượn",
+            "type": "noun",
+            "example": {
+                "en": "I asked him if I could borrow enough money to get me to the mission office.",
+                "vi": "Tôi hỏi mượn anh ta đủ số tiền để đến văn phòng phái bộ truyền giáo."
+            }
+        },
+        {
+            "content": "theo",
+            "type": "verb adposition",
+            "example": {
+                "en": "I've borrowed the hackneyed old populist slogan:",
+                "vi": "Tôi theo quy luật đã được tạo ra trong nhiều lần khác nhau."
+            }
+        }
+    ]
+}

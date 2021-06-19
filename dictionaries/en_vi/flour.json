@@ -1,0 +1,64 @@
+{
+    "word": "flour",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflou(ə)r/",
+            "/ˈflaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bột",
+            "type": "noun",
+            "example": {
+                "en": "After a woman adds some leaven to a mass of flour, the leaven ferments the whole mass.",
+                "vi": "Sau khi người phụ nữ cho men vào đống bột, men làm cả đống bột dậy lên."
+            }
+        },
+        {
+            "content": "phấn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bột mì",
+            "type": "",
+            "example": {
+                "en": "She also works in a bakery, and her salary is paid in flour.",
+                "vi": "Chị cũng làm việc trong một tiệm bánh, và chị được trả lương bằng bột mì."
+            }
+        },
+        {
+            "content": "rắc bột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xay thành bột",
+            "type": "",
+            "example": {
+                "en": "Wattle seeds have been ground into flour and made into bread and even pasta.",
+                "vi": "Hạt keo được xay thành bột để làm bánh mì và cả mì ống nữa."
+            }
+        },
+        {
+            "content": "Bột",
+            "type": "",
+            "example": {
+                "en": "to make a good-tasting bread. White flour is sweet.",
+                "vi": "bằng bột trắng thì dễ ợt. Bột trắng có vị ngọt."
+            }
+        }
+    ]
+}

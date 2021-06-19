@@ -1,0 +1,70 @@
+{
+    "word": "ascent",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsent/",
+            "/əˈsɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lên",
+            "type": "noun",
+            "example": {
+                "en": "The ascent is slowed by a series of dangerous crevasses.",
+                "vi": "Chuyến đi lên chậm vì có nhiều khe núi nguy hiểm."
+            }
+        },
+        {
+            "content": "sự đi lên",
+            "type": "noun",
+            "example": {
+                "en": "We misuse language, and talk about the \"ascent\" of man.",
+                "vi": "Chúng ta sử dụng sai ngôn ngữ, và nói về sự đi lên của loài người."
+            }
+        },
+        {
+            "content": "đường dốc",
+            "type": "",
+            "example": {
+                "en": "This is a vertical ascent",
+                "vi": "Đây là một đường dốc thẳng đứng"
+            }
+        },
+        {
+            "content": "sự tiến lên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con đường đi lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trèo lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi ngược lên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

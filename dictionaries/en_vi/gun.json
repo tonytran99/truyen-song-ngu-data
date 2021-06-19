@@ -1,0 +1,95 @@
+{
+    "word": "gun",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đại bác",
+            "type": "noun",
+            "example": {
+                "en": "Only the battleship,'Paris Commune'could do that with 12 guns.",
+                "vi": "Trên chiến hạm \" Công xã Pari \" có 12 khẩu đại bác như vậy."
+            }
+        },
+        {
+            "content": "súng",
+            "type": "noun",
+            "example": {
+                "en": "Why does the US government let people have guns?",
+                "vi": "Tại sao chính phủ Mỹ cho phép mọi người sở hữu súng?"
+            }
+        },
+        {
+            "content": "bắn",
+            "type": "verb",
+            "example": {
+                "en": "You know that young man isn't going to use his gun, don't ya?",
+                "vi": "Anh biết chàng trai đó sẽ không bắn, phải không?"
+            }
+        },
+        {
+            "content": "súng lục",
+            "type": "noun",
+            "example": {
+                "en": "You get a free hand gun when you sign up for the biro.",
+                "vi": "Anh nhận được cây súng lục miễn phí khi ký với cục điều tra."
+            }
+        },
+        {
+            "content": "súng trường",
+            "type": "noun",
+            "example": {
+                "en": "Warfare with spears and bows and arrows and rifles and machine guns, that's one thing.",
+                "vi": "Chiến tranh với giáo mác và cung tên với súng trường và súng máy, tất cả đều như nhau."
+            }
+        },
+        {
+            "content": "cây súng",
+            "type": "noun",
+            "example": {
+                "en": "I know it's a gun, but when did you ever get a gun?",
+                "vi": "Anh biết đó là một cây súng, nhưng từ khi nào mà em có một cây súng vậy?"
+            }
+        },
+        {
+            "content": "khẩu súng",
+            "type": "noun",
+            "example": {
+                "en": "Aim at the target with this gun.",
+                "vi": "Nhắm thẳng vào mục tiêu bằng khẩu súng này."
+            }
+        },
+        {
+            "content": "pháo",
+            "type": "noun",
+            "example": {
+                "en": "I feel their guns moving in the water, their metal targeting us.",
+                "vi": "Tôi thấy họng pháo của chúng đang di chuyển, đang nhắm vào chúng ta."
+            }
+        },
+        {
+            "content": "砲",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Súng cầm tay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "word": "art",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ärt/",
+            "/ɑrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghệ thuật",
+            "type": "noun",
+            "example": {
+                "en": "Everyone is more or less interested in art.",
+                "vi": "Ai cũng ít nhiều có chút quan tâm đến nghệ thuật."
+            }
+        },
+        {
+            "content": "mỹ thuật",
+            "type": "noun",
+            "example": {
+                "en": "The fine arts flourished in Italy in the 15th century.",
+                "vi": "Mỹ thuật phát triển mạnh ở Ý vào thế kỷ 15."
+            }
+        },
+        {
+            "content": "thuật",
+            "type": "noun",
+            "example": {
+                "en": "Everyone is more or less interested in art.",
+                "vi": "Ai cũng ít nhiều có chút quan tâm đến nghệ thuật."
+            }
+        },
+        {
+            "content": "藝術",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kế",
+            "type": "Suffix noun",
+            "example": {
+                "en": "Design, the art of organizing the world of things.",
+                "vi": "Thiết kế, nghệ thuật sắp đặt thế giới sự vật."
+            }
+        },
+        {
+            "content": "kỷ xảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kỹ xảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mưu kế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỹ nghệ",
+            "type": "",
+            "example": {
+                "en": "Unlike a fine art, such as sculpture or architecture,",
+                "vi": "Khác với đồ mỹ nghệ như điêu khắc hay kiến trúc,"
+            }
+        },
+        {
+            "content": "nghệ-thuật",
+            "type": "",
+            "example": {
+                "en": "Everyone is more or less interested in art.",
+                "vi": "Ai cũng ít nhiều có chút quan tâm đến nghệ thuật."
+            }
+        },
+        {
+            "content": "tài khéo léo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài nghệ",
+            "type": "noun",
+            "example": {
+                "en": "The denigration of one's art.",
+                "vi": "Khinh rẻ tài nghệ của một người."
+            }
+        },
+        {
+            "content": "nghệ",
+            "type": "noun",
+            "example": {
+                "en": "Everyone is more or less interested in art.",
+                "vi": "Ai cũng ít nhiều có chút quan tâm đến nghệ thuật."
+            }
+        },
+        {
+            "content": "nghẹ thuật",
+            "type": "noun X",
+            "example": {}
+        },
+        {
+            "content": "nghệ thuật nghệ-thuật 藝術",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

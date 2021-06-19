@@ -1,0 +1,69 @@
+{
+    "word": "economy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkänəmē/",
+            "/əˈkɑnəmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈkɒnəmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh tế",
+            "type": "noun",
+            "example": {
+                "en": "The strike affected the nation's economy.",
+                "vi": "Cuộc tấn công ảnh hưởng đến kinh tế truyền thống"
+            }
+        },
+        {
+            "content": "tiết kiệm",
+            "type": "noun",
+            "example": {
+                "en": "The XR-50 is a miracle of economy, precision and simplicity.",
+                "vi": "XR-50 là phép màu của sự tiết kiệm, chính xác và đơn giản"
+            }
+        },
+        {
+            "content": "nền kinh tế",
+            "type": "noun",
+            "example": {
+                "en": "This process has a lot of fringe benefits for the economy as a whole .",
+                "vi": "Quá trình này đem lại nhiều lợi ích phụ trội cho nền kinh tế nói chung ."
+            }
+        },
+        {
+            "content": "cơ cấu tổ chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương pháp tiết kiệm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tiết kiệm",
+            "type": "noun",
+            "example": {
+                "en": "The XR-50 is a miracle of economy, precision and simplicity.",
+                "vi": "XR-50 là phép màu của sự tiết kiệm, chính xác và đơn giản"
+            }
+        },
+        {
+            "content": "tổ chức kinh tế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

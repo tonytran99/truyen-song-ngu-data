@@ -1,0 +1,49 @@
+{
+    "word": "curfew",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərˌfyo͞o/",
+            "/ˈkərˌfju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːfjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lệnh giới nghiêm",
+            "type": "noun",
+            "example": {
+                "en": "What, do I have a curfew now, too?",
+                "vi": "Gì chứ, giờ tôi có cả lệnh giới nghiêm sao?"
+            }
+        },
+        {
+            "content": "giờ tắt lửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiệu lệnh tắt lửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hồi trống thu không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giới nghiêm",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

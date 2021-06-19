@@ -1,0 +1,49 @@
+{
+    "word": "fumigate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfyo͞oməˌɡāt/",
+            "/ˈfjuməˌɡeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfjuːmɪɡeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xông khói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hun",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hun khói",
+            "type": "",
+            "example": {
+                "en": "I wondered when someone'd figure out we weren't just fumigating here.",
+                "vi": "Tôi không hiểu khi nào thì mọi người mới nhận ra Chúng tôi đâu chỉ hun khói ở đây."
+            }
+        },
+        {
+            "content": "phun khói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xông cho thơm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

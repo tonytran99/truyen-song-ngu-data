@@ -1,0 +1,41 @@
+{
+    "word": "burger",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərɡər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh burger",
+            "type": "",
+            "example": {
+                "en": "Least you're not schlepping burgers in a tron uniform.",
+                "vi": "Ít ra cô không phải mặc dồ phục vụ đi phát bánh burger."
+            }
+        },
+        {
+            "content": "bánh hamburger",
+            "type": "",
+            "example": {
+                "en": "The 600,000 calorie triple bypass burger.",
+                "vi": "chiếc bánh hamburger chứa 600,00 calo"
+            }
+        },
+        {
+            "content": "hambua",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

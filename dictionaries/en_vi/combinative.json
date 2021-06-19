@@ -1,0 +1,39 @@
+{
+    "word": "combinative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämbəˌnādiv/",
+            "/ˈkɑmbəˌneɪdɪv/",
+            "/kəmˈbīnədiv/",
+            "/kəmˈbaɪnədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmbɪnətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "It is important to combine theory with practice.",
+                "vi": "Cần phải kết hợp giữa lý thuyết và thực hành."
+            }
+        },
+        {
+            "content": "phối hợp",
+            "type": "",
+            "example": {
+                "en": "True modesty is a combination of both behavior and attitude.",
+                "vi": "Thái độ nhũn nhặn chân thật là sự phối hợp của cả hành vi lẫn thái độ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "inanimate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈanəmət/",
+            "/ɪnˈænəmət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈanɪmət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buồn tẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có sinh khí",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nhạt nhẽo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu hoạt động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô sinh",
+            "type": "adjective",
+            "example": {
+                "en": "• How do inanimate forces of nature carry out Jehovah’s will?",
+                "vi": "• Những lực vô sinh trong thiên nhiên thực hiện ý muốn của Đức Giê-hô-va như thế nào?"
+            }
+        },
+        {
+            "content": "vô tri vô giác",
+            "type": "adjective",
+            "example": {
+                "en": "It was really fun to take inanimate objects and have them come to life.",
+                "vi": "Thật sự rất vui khi làm những vật vô tri vô giác trở nên sống động"
+            }
+        },
+        {
+            "content": "vô tri",
+            "type": "",
+            "example": {
+                "en": "It was really fun to take inanimate objects and have them come to life.",
+                "vi": "Thật sự rất vui khi làm những vật vô tri vô giác trở nên sống động"
+            }
+        }
+    ]
+}

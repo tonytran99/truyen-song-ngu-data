@@ -1,0 +1,40 @@
+{
+    "word": "ascetic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsedik/",
+            "/əˈsɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khổ hạnh",
+            "type": "adjective",
+            "example": {
+                "en": "For example, he continued to live as an ascetic in the midst of the luxurious papal court.",
+                "vi": "Chẳng hạn, ông tiếp tục sống khổ hạnh giữa cung điện xa hoa của giáo hoàng."
+            }
+        },
+        {
+            "content": "người tu khổ hạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người sống khổ hạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

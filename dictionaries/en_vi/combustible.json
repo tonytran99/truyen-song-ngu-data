@@ -1,0 +1,63 @@
+{
+    "word": "combustible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈbəstəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈbʌstɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dễ cháy",
+            "type": "adjective",
+            "example": {
+                "en": "You do know that the formula's highly combustible?",
+                "vi": "Mày có biết công thức đó rất dễ cháy không?"
+            }
+        },
+        {
+            "content": "bồng bột",
+            "type": "adjective",
+            "example": {
+                "en": "With the help of my combustible double agents.",
+                "vi": "Với sự giúp đỡ của 2 đặc vụ còn bồng bột của ta."
+            }
+        },
+        {
+            "content": "chất đốt",
+            "type": "",
+            "example": {
+                "en": "This area's filled with combustibles.",
+                "vi": "Khu vực này đầy chất đốt."
+            }
+        },
+        {
+            "content": "dễ bắt lửa",
+            "type": "adjective",
+            "example": {
+                "en": "Then these highly combustible substances are set afire! —Compare Revelation 17:16.",
+                "vi": "Rồi những chất rất dễ bắt lửa này bốc cháy!—So sánh Khải-huyền 17:16."
+            }
+        },
+        {
+            "content": "dễ khích động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiên liệu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "informal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfôrməl/",
+            "/ɪnˈfɔrməl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɔːm(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chính thức",
+            "type": "",
+            "example": {
+                "en": "I understand you came here from Turkey, by an informal route, shall we say?",
+                "vi": "Tôi hiểu rằng cậu tới đây từ Thổ Nhĩ Kỳ, bằng đường không chính thức, nên nói như thế?"
+            }
+        },
+        {
+            "content": "thân mật",
+            "type": "",
+            "example": {
+                "en": "Find ways to let the teaching continue through informal moments in everyday life.",
+                "vi": "Tìm cách để tiếp tục giảng dạy qua những giây phút thân mật trong cuộc sống hàng ngày."
+            }
+        }
+    ]
+}

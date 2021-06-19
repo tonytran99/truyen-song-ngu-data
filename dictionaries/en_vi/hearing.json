@@ -1,0 +1,96 @@
+{
+    "word": "hearing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhiriNG/",
+            "/ˈhɪrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thính giác",
+            "type": "noun",
+            "example": {
+                "en": "You wouldn't want decent hearing, you would want perfect hearing.",
+                "vi": "Bạn không muốn thính giác tốt, mà muốn thính giác hoàn hảo."
+            }
+        },
+        {
+            "content": "sự nghe",
+            "type": "",
+            "example": {
+                "en": "You are always hearing but not listening.",
+                "vi": "Cậu có vẻ chăm chú nhưng không thực sự nghe."
+            }
+        },
+        {
+            "content": "tầm nghe",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nghe",
+            "type": "interjection verb",
+            "example": {
+                "en": "I don't want to hear your lame excuses.",
+                "vi": "Tôi không muốn nghe những lời biện hộ củ chuối của cậu."
+            }
+        },
+        {
+            "content": "phiên tòa",
+            "type": "noun",
+            "example": {
+                "en": "Court's required by law to hear your motion.",
+                "vi": "Theo luật thì sẽ cần một phiên tòa để xem xét các yêu cầu của cậu."
+            }
+        },
+        {
+            "content": "phiên điều trần",
+            "type": "noun",
+            "example": {
+                "en": "I wanted to talk about custody hearing tomorrow.",
+                "vi": "Bố muốn nói về phiên điều trần vào ngày mai."
+            }
+        },
+        {
+            "content": "tính giác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ nghe rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thính giác",
+            "type": "",
+            "example": {
+                "en": "Horses' hearing is very important.",
+                "vi": "Thính giác rất quan trọng đối với ngựa."
+            }
+        },
+        {
+            "content": "phiên xét xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thính giaùc, vieäc khieáu naïi tröôùc toøa aùn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

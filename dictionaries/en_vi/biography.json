@@ -1,0 +1,46 @@
+{
+    "word": "biography",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīˈäɡrəfē/",
+            "/baɪˈɑɡrəfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪˈɒɡrəfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiểu sử",
+            "type": "noun",
+            "example": {
+                "en": "Have you ever read two biographies about the same famous person?",
+                "vi": "Bạn có bao giờ đọc hai bài tiểu sử của cùng một người nổi danh không?"
+            }
+        },
+        {
+            "content": "lý lịch",
+            "type": "noun",
+            "example": {
+                "en": "Which means that, while we all have one biography, they have many.",
+                "vi": "Điều đó có nghĩa rằng, trong khi chúng ta chỉ có một lý lịch, chúng có rất nhiều"
+            }
+        },
+        {
+            "content": "Tiểu sử",
+            "type": "",
+            "example": {
+                "en": "The biography of this coin starts from here",
+                "vi": "Tiểu sử của đồng xu này bắt nguồn từ đây"
+            }
+        }
+    ]
+}

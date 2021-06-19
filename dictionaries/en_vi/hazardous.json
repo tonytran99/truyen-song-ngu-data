@@ -1,0 +1,69 @@
+{
+    "word": "hazardous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhazərdəs/",
+            "/ˈhæzərdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhazədəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạo hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "Anyone want to hazard a guess?",
+                "vi": "Có ai muốn mạo hiểm phỏng đoán không?"
+            }
+        },
+        {
+            "content": "liều",
+            "type": "",
+            "example": {
+                "en": "I am a knight, and I will put myself to the hazard!",
+                "vi": "Anh là một hiệp sĩ... và anh sẽ liều mình!"
+            }
+        },
+        {
+            "content": "may rủi",
+            "type": "",
+            "example": {
+                "en": "Man would have to put his soul at hazard.",
+                "vi": "Một người đàn ông phải phó mặc tâm hồn mình cho sự may rủi."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "noun",
+            "example": {
+                "en": "Yes, the road has bumps and detours and even some hazards.",
+                "vi": "Vâng, con đường ghập ghềnh và chông gai và thậm chí còn nguy hiểm nữa."
+            }
+        },
+        {
+            "content": "nguy hại",
+            "type": "",
+            "example": {
+                "en": "Of course, we refrain from the kind of fellowship that may involve spiritual hazards.",
+                "vi": "Dĩ nhiên chúng ta không muốn loại kết hợp mà có thể làm nguy hại về thiêng liêng."
+            }
+        },
+        {
+            "content": "độc hại",
+            "type": "",
+            "example": {
+                "en": "No mysterious tanker car full of hazardous materials.",
+                "vi": "Không có toa chở thùng bí ẩn chứa đầy chất độc hại nào."
+            }
+        }
+    ]
+}

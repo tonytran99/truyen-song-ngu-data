@@ -1,0 +1,58 @@
+{
+    "word": "hank",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haNGk/",
+            "/hæŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộn",
+            "type": "noun",
+            "example": {
+                "en": "That video is a bunch of lies, Hank.",
+                "vi": "Cuộn băng này toàn lời lẽ dối trá, Hank à."
+            }
+        },
+        {
+            "content": "nùi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Gracie, I'm sure that Hank would like to see your room,",
+                "vi": "Mẹ chắc là Hank muốn xem phòng của con."
+            }
+        },
+        {
+            "content": "vòng dây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng sắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sợi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

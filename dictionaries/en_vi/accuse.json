@@ -1,0 +1,62 @@
+{
+    "word": "accuse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkyo͞oz/",
+            "/əˈkjuz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkjuːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buộc tội",
+            "type": "verb",
+            "example": {
+                "en": "The police accused him of theft.",
+                "vi": "Cảnh sát buộc tội anh ta ăn cướp."
+            }
+        },
+        {
+            "content": "tố cáo",
+            "type": "verb",
+            "example": {
+                "en": "I have no idea what I'm even being accused of.",
+                "vi": "Tôi còn chẳng biết mình bị tố cáo vì cái gì."
+            }
+        },
+        {
+            "content": "cáo",
+            "type": "noun",
+            "example": {
+                "en": "That same night He was accused of the crime of blasphemy and condemned to death.",
+                "vi": "Cũng trong đêm đó, Ngài đã bị cáo buộc tội phạm thượng và bị kết án tử hình."
+            }
+        },
+        {
+            "content": "tố",
+            "type": "verb",
+            "example": {
+                "en": "You're accused of murder and crimes against the state.",
+                "vi": "Anh bị truy tố tội mưu sát và chống lại quốc gia."
+            }
+        },
+        {
+            "content": "kết tội",
+            "type": "",
+            "example": {
+                "en": "Are you accusing me of being involved in this?",
+                "vi": "Ngươi kết tội ta dính líu tới vụ này?"
+            }
+        }
+    ]
+}

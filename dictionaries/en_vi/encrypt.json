@@ -1,0 +1,36 @@
+{
+    "word": "encrypt",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkript/",
+            "/ɪnˈkrɪpt/",
+            "/enˈkript/",
+            "/ɛnˈkrɪpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛnˈkrɪpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã hóa",
+            "type": "verb",
+            "example": {
+                "en": "And the reason it does is not because of the clever encryption.",
+                "vi": "Và lí do cho việc này không phải nhờ việc mã hóa đâu."
+            }
+        },
+        {
+            "content": "Mật mã hoá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

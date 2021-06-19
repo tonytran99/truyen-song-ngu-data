@@ -1,0 +1,51 @@
+{
+    "word": "congruent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈɡro͞oənt/",
+            "/kənˈɡruənt/",
+            "/ˈkäNGɡro͞oənt/",
+            "/ˈkɑŋɡruənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒŋɡrʊənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng dư",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phù hợp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thích hợp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tương đẳng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đồng dạng",
+            "type": "",
+            "example": {
+                "en": "Okay, so congruent triangles.",
+                "vi": "Tam giác đồng dạng."
+            }
+        }
+    ]
+}

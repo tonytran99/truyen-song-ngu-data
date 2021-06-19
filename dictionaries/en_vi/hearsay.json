@@ -1,0 +1,48 @@
+{
+    "word": "hearsay",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhirˌsā/",
+            "/ˈhɪrˌseɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪəseɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tin đồn",
+            "type": "noun",
+            "example": {
+                "en": "Such a vital decision should not be based on hearsay.",
+                "vi": "Một quyết định trọng yếu như thế không thể căn cứ vào tin đồn."
+            }
+        },
+        {
+            "content": "do nghe đồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dựa vào tin đồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời đồn",
+            "type": "noun",
+            "example": {
+                "en": "So do not listen to prejudicial hearsay, or rumor, but search for the facts.",
+                "vi": "Vậy, bạn đừng nghe những lời đồn có hại nhưng hãy tìm hiểu sự thật."
+            }
+        }
+    ]
+}

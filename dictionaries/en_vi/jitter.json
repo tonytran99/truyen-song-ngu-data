@@ -1,0 +1,48 @@
+{
+    "word": "jitter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjidər/",
+            "/ˈdʒɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bồn chồn",
+            "type": "",
+            "example": {
+                "en": "I think it's just first day jitters.",
+                "vi": "Chắc là ngày đầu nên bồn chồn."
+            }
+        },
+        {
+            "content": "hành động hốt hoảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hốt hoảng kinh hâi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lo sợ",
+            "type": "",
+            "example": {
+                "en": "His pro debut, no jitters.",
+                "vi": "Trận ra mắt, không lo sợ."
+            }
+        }
+    ]
+}

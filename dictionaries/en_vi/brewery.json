@@ -1,0 +1,42 @@
+{
+    "word": "brewery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbro͞o(ə)rē/",
+            "/ˈbru(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbruːəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà máy bia",
+            "type": "",
+            "example": {
+                "en": "Officer down in the old brewery tunnels, come quick!",
+                "vi": "Một sĩ quan cảnh sát đã bị hạ trong đường hầm nhà máy bia cũ, đến nhanh lên."
+            }
+        },
+        {
+            "content": "nơi ủ rượu bia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {
+                "en": "Moreover, my job in the sake brewery no longer seemed attractive.",
+                "vi": "Ngoài ra, việc làm ở hãng rượu xa-kê không còn hấp dẫn đối với tôi nữa (Phi-líp 3:8)."
+            }
+        }
+    ]
+}

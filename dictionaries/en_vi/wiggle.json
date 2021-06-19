@@ -1,0 +1,48 @@
+{
+    "word": "wiggle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiɡəl/",
+            "/ˈwɪɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lắc lư",
+            "type": "",
+            "example": {
+                "en": "Come on, just wiggle the stick back and forth!",
+                "vi": "Thôi nào, chỉ cần lắc lư qua lại thôi mà."
+            }
+        },
+        {
+            "content": "ngọ nguậy",
+            "type": "",
+            "example": {
+                "en": "He just couldn’t quite get his ears to wiggle.",
+                "vi": "Nó không thể ngọ nguậy đôi tai của nó được."
+            }
+        },
+        {
+            "content": "sự lắc lư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngọ nguậy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

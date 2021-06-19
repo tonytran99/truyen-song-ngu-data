@@ -1,0 +1,46 @@
+{
+    "word": "dank",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daNGk/",
+            "/dæŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ẩm ướt",
+            "type": "",
+            "example": {
+                "en": "Dank, dark, devoid of sunlight.",
+                "vi": "Ẩm ướt, tối tăm, thiếu ánh sáng mặt trời."
+            }
+        },
+        {
+            "content": "nhớp nháp khó chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ướt át",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩm thấp",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

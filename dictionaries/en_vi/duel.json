@@ -1,0 +1,45 @@
+{
+    "word": "duel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈd(y)o͞oəl/",
+            "/ˈd(j)uəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdjuːəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyết đấu",
+            "type": "",
+            "example": {
+                "en": "Nobody who was wielding the blade was ever defeated in a duel or battle.",
+                "vi": "Người dùng kiếm này quyết đấu chưa bao giờ bị đánh bại."
+            }
+        },
+        {
+            "content": "tranh chấp tay đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọ kiếm tay đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọ súng tay đôi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "unimaginable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈmaj(ə)nəb(ə)l/",
+            "/ˌənəˈmædʒ(ə)nəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪˈmadʒɪnəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỳ quái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phi thường",
+            "type": "adjective",
+            "example": {
+                "en": "He says the amount of money that poor people have is unimaginable .",
+                "vi": "Ông nói số tiền người nghèo có là một con số phi thường ."
+            }
+        },
+        {
+            "content": "không thể tưởng tượng",
+            "type": "",
+            "example": {
+                "en": "And I would say that, at the moment, the alternative is unimaginable.",
+                "vi": "Và tôi sẽ nói rằng, tại thời điểm này, sự lựa chọn không thể tưởng tượng nổi."
+            }
+        },
+        {
+            "content": "không thể tưởng tượng được",
+            "type": "adjective",
+            "example": {
+                "en": "The full scope of a nuclear detonation is almost unimaginable.",
+                "vi": "Tầm ảnh hưởng của một vụ nổ hạt nhân gần như là không thể tưởng tượng được."
+            }
+        }
+    ]
+}

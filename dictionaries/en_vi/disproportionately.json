@@ -1,0 +1,45 @@
+{
+    "word": "disproportionately",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˌdisprəˈpôrSH(ə)nətlē/",
+            "/ˌdɪsprəˈpɔrʃ(ə)nətli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɪsprəˈpɔːʃ(ə)nətli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không cân",
+            "type": "adverb",
+            "example": {
+                "en": "Africa has a disproportionate share of the numbers of doctors.",
+                "vi": "Châu Phi có một phần số lượng bác sĩ không cân đối."
+            }
+        },
+        {
+            "content": "không cân đối",
+            "type": "adverb",
+            "example": {
+                "en": "Africa has a disproportionate share of the numbers of doctors.",
+                "vi": "Châu Phi có một phần số lượng bác sĩ không cân đối."
+            }
+        },
+        {
+            "content": "không tương xứng",
+            "type": "adverb",
+            "example": {
+                "en": "The fourth thing is labor is disproportionately more expensive than materials.",
+                "vi": "Điều thứ tư đó là nhân công cao hơn một cách không tương xứng với nguyên vật liệu."
+            }
+        }
+    ]
+}

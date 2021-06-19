@@ -1,0 +1,72 @@
+{
+    "word": "ash",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aSH/",
+            "/æʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tro",
+            "type": "noun",
+            "example": {
+                "en": "Preparation of the body, cremation, and a decorative urn for your loved one's ashes.",
+                "vi": "Tân trang nhan sắc, hỏa táng, và bình đựng tro chạm khắc đẹp đẽ cho người thân yêu."
+            }
+        },
+        {
+            "content": "mun",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "cây tần bì",
+            "type": "",
+            "example": {
+                "en": "We're on our way to see the great ash tree.",
+                "vi": "Chúng tôi đang trên đường tới cây tần bì lớn."
+            }
+        },
+        {
+            "content": "tro hoả táng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tro hỏa táng",
+            "type": "noun",
+            "example": {
+                "en": "It's my father's ashes.",
+                "vi": "Là tro hỏa táng cha anh."
+            }
+        },
+        {
+            "content": "tàn thuốc lá",
+            "type": "noun",
+            "example": {
+                "en": "This is your living, Sherlock, not 240 different types of tobacco ash.",
+                "vi": "Đây là cuộc sống của anh, Sherlock, chứ không phải 240 loại tàn thuốc lá."
+            }
+        },
+        {
+            "content": "tần bì",
+            "type": "",
+            "example": {
+                "en": "We're on our way to see the great ash tree.",
+                "vi": "Chúng tôi đang trên đường tới cây tần bì lớn."
+            }
+        }
+    ]
+}

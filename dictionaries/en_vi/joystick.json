@@ -1,0 +1,35 @@
+{
+    "word": "joystick",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjoiˌstik/",
+            "/ˈdʒɔɪˌstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɔɪstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cần điều khiển",
+            "type": "",
+            "example": {
+                "en": "to fly it, there's no joysticks, nothing like this.",
+                "vi": "để bay, không cần đến cần điều khiển."
+            }
+        },
+        {
+            "content": "dương vật",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

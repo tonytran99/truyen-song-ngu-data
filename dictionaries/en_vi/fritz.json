@@ -1,0 +1,35 @@
+{
+    "word": "fritz",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frits/",
+            "/frɪts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɪts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cần phải sửa chữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người Đức",
+            "type": "noun",
+            "example": {
+                "en": "All right, Fritz you're on.",
+                "vi": "Được, chọn đi Fritz. ( Fritz: gã người Đức )"
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "dumbfounded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəmˈfoundəd/",
+            "/dəmˈfaʊndəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌmˈfaʊndɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không nói nên lời",
+            "type": "adjective",
+            "example": {
+                "en": "I stood there dumbfounded!",
+                "vi": "Tôi đứng ngây người không nói nên lời!"
+            }
+        },
+        {
+            "content": "sửng",
+            "type": "adjective",
+            "example": {
+                "en": "When Kazuna’s name was finally called, she was dumbfounded.",
+                "vi": "Kazuna vô cùng sửng sốt khi tên em được gọi cuối cùng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "drilling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdriliNG/",
+            "/ˈdrɪlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrɪlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoan",
+            "type": "",
+            "example": {
+                "en": "We have a problem with that drill pipe or with the sensor giving us a false reading.",
+                "vi": "Ta có vấn đề với ống khoan hoặc với cảm biến cho kết quả sai."
+            }
+        }
+    ]
+}

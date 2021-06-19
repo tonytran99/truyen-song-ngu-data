@@ -1,0 +1,56 @@
+{
+    "word": "campaign",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamˈpān/",
+            "/kæmˈpeɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamˈpeɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến dịch",
+            "type": "noun",
+            "example": {
+                "en": "Mr. Wilson just made a sizeable contribution to my campaign.",
+                "vi": "Anh Wilson vừa đóng góp rất lớn cho chiến dịch tranh cử của mẹ."
+            }
+        },
+        {
+            "content": "vận động",
+            "type": "noun",
+            "example": {
+                "en": "One more campaign stop along the way to the grave?",
+                "vi": "Một điểm vận động tranh cử nữa trên đường xuống mộ?"
+            }
+        },
+        {
+            "content": "cuộc vận động",
+            "type": "noun",
+            "example": {
+                "en": "I have some ideas of how I might contribute to your campaign.",
+                "vi": "Tôi có một vài ý tưởng về cách tôi có thể hỗ trợ cuộc vận động của anh."
+            }
+        },
+        {
+            "content": "tham gia chiến dịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi chiến dịch",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

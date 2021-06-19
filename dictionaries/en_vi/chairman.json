@@ -1,0 +1,71 @@
+{
+    "word": "chairman",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHermən/",
+            "/ˈtʃɛrmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ tịch",
+            "type": "noun",
+            "example": {
+                "en": "We elected Jack chairman.",
+                "vi": "Chúng tôi đã bầu Jack làm chủ tịch."
+            }
+        },
+        {
+            "content": "người đẩy ghế lăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chủ nhiệm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chủ toạ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người chủ toạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người chủ tọa",
+            "type": "noun",
+            "example": {
+                "en": "How may the meeting chairman enhance appreciation for the song to be sung?",
+                "vi": "Làm thế nào người chủ tọa buổi họp có thể tăng cường lòng biết ơn về bài hát được chọn để hát?"
+            }
+        },
+        {
+            "content": "người khiêng kiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chủ tọa",
+            "type": "",
+            "example": {
+                "en": "Afterward, as the meeting chairman gives counsel, she makes notes in her Teaching brochure.",
+                "vi": "Sau đó, khi anh chủ tọa cho lời khuyên, chị ghi chú vào sách mỏng Dạy dỗ."
+            }
+        }
+    ]
+}

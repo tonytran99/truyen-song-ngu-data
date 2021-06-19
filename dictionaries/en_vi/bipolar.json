@@ -1,0 +1,43 @@
+{
+    "word": "bipolar",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīˈpōlər/",
+            "/baɪˈpoʊlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪˈpəʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưỡng cực",
+            "type": "",
+            "example": {
+                "en": "So you couldn't tell anybody you were bipolar.",
+                "vi": "Thế nên anh không thể nói với ai anh bị lưỡng cực."
+            }
+        },
+        {
+            "content": "hai cực",
+            "type": "",
+            "example": {
+                "en": "World Health bipolar universe",
+                "vi": "Thiên địa hai cực sinh càng khôn"
+            }
+        },
+        {
+            "content": "song cực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

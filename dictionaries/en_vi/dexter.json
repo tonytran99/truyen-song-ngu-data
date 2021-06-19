@@ -1,0 +1,35 @@
+{
+    "word": "dexter",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdekstər/",
+            "/ˈdɛkstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛkstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phải",
+            "type": "adjective",
+            "example": {
+                "en": "Are you telling me that the girl in the lake, that was Veronica Dexter?",
+                "vi": "Có phải anh định nói với tôi là cô gái ở hồ đó là Veronica Dexter."
+            }
+        },
+        {
+            "content": "bên phải",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

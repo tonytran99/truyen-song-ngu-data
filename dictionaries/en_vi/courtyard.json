@@ -1,0 +1,47 @@
+{
+    "word": "courtyard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrtˌyärd/",
+            "/ˈkɔrtˌjɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːtjɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sân",
+            "type": "noun",
+            "example": {
+                "en": "My men are bringing your people together in the courtyard.",
+                "vi": "Người của ta đang mang người dân tới sân chính."
+            }
+        },
+        {
+            "content": "sân nhỏ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sân trong",
+            "type": "noun",
+            "example": {
+                "en": "Parkin was knocked to the ground and hit his head on the rails in the courtyard.",
+                "vi": "Parkin bị đánh té xuống đất. và đầu ổng đập vô hàng rào của sân trong."
+            }
+        },
+        {
+            "content": "Udvar",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

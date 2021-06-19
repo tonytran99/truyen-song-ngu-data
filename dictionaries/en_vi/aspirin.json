@@ -1,0 +1,55 @@
+{
+    "word": "aspirin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈasp(ə)rən/",
+            "/ˈæsp(ə)rən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈasp(ə)rɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "atpirin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Aspirin",
+            "type": "",
+            "example": {
+                "en": "Willow-bark extract is basically aspirin.",
+                "vi": "Chiết xuất từ vỏ liễu đơn giản là Aspirin."
+            }
+        },
+        {
+            "content": "aspirin",
+            "type": "",
+            "example": {
+                "en": "Go around and see if there's any aspirins in that glove box.",
+                "vi": "Hãy nhìn xem có viên aspirin nào không."
+            }
+        },
+        {
+            "content": "thuốc giảm đau",
+            "type": "",
+            "example": {
+                "en": "All I want is an aspirin.",
+                "vi": "Thât ra tôi muốn một viên thuốc giảm đau."
+            }
+        },
+        {
+            "content": "viên thuốc atpirin",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

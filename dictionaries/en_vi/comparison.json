@@ -1,0 +1,45 @@
+{
+    "word": "comparison",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈperəsən/",
+            "/kəmˈpɛrəsən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈparɪs(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "so sánh",
+            "type": "verb",
+            "example": {
+                "en": "What insights do they gain from this comparison?",
+                "vi": "Họ đạt được những sự hiểu biết nào từ sự so sánh này?"
+            }
+        },
+        {
+            "content": "sự so sánh",
+            "type": "noun",
+            "example": {
+                "en": "What insights do they gain from this comparison?",
+                "vi": "Họ đạt được những sự hiểu biết nào từ sự so sánh này?"
+            }
+        },
+        {
+            "content": "đối chiếu",
+            "type": "verb",
+            "example": {
+                "en": "Translators for those languages did, however, make extensive comparisons with the original-language text.",
+                "vi": "Tuy nhiên, những người dịch của các thứ tiếng đó thường xuyên đối chiếu với văn bản trong nguyên ngữ."
+            }
+        }
+    ]
+}

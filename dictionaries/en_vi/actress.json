@@ -1,0 +1,39 @@
+{
+    "word": "actress",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktrəs/",
+            "/ˈæktrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nữ diễn viên",
+            "type": "noun",
+            "example": {
+                "en": "To my surprise, he got married to a very beautiful actress.",
+                "vi": "Tôi bất ngờ vì anh ta lại kết hôn với một nữ diễn viên rất xinh đẹp."
+            }
+        },
+        {
+            "content": "tài tử",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đào hát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

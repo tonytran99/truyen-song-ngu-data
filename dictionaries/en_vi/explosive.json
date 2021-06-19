@@ -1,0 +1,88 @@
+{
+    "word": "explosive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsplōsiv/",
+            "/ɪkˈsploʊsɪv/",
+            "/ikˈsplōziv/",
+            "/ɪkˈsploʊzɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspləʊsɪv/",
+            "/ɛkˈspləʊsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất nổ",
+            "type": "noun",
+            "example": {
+                "en": "You should tell me the location of the remainder of those explosives.",
+                "vi": "Hãy khai ra địa điểm cất giấu chất nổ còn dư lại."
+            }
+        },
+        {
+            "content": "nổ",
+            "type": "verb",
+            "example": {
+                "en": "Lindsey, I'm gonna short out the explosive in your head.",
+                "vi": "Lindsey, tôi sẽ vô hiệu kíp nổ trong đầu cô."
+            }
+        },
+        {
+            "content": "dễ nổ",
+            "type": "",
+            "example": {
+                "en": "That's one of the most powerful explosives known to man.",
+                "vi": "Kẻ mạnh mẽ nhất dễ nổ nhất mà các bạn từng biết."
+            }
+        },
+        {
+            "content": "bốc hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dễ bùng nổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây nổ",
+            "type": "",
+            "example": {
+                "en": "Combine that with the explosive chems they've already got, we're looking at a sizeable contamination zone.",
+                "vi": "Kết hợp với chất gây nổ chúng đã lấy được, ta có một vùng nhiễm phóng xạ khá lớn."
+            }
+        },
+        {
+            "content": "âm bật hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổ được",
+            "type": "",
+            "example": {
+                "en": "The explosive was laced with some sort of accelerant.",
+                "vi": "Thuốc nổ được trộn với một chất xúc tác."
+            }
+        },
+        {
+            "content": "thuốc nổ",
+            "type": "noun",
+            "example": {
+                "en": "Some form of underwater explosive, tethered to the seabed.",
+                "vi": "Một loại thuốc nổ dưới nước, buộc dưới đáy biển."
+            }
+        }
+    ]
+}

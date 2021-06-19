@@ -1,0 +1,57 @@
+{
+    "word": "cursed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərsəd/",
+            "/kərst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːsɪd/",
+            "/kəːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {
+                "en": "He complained about the “cursed gnats and frogs” and the “villainous” water.",
+                "vi": "Ông than phiền về “những con muỗi và ếch ghê tởm” và nước “bẩn thỉu”."
+            }
+        },
+        {
+            "content": "hay bẳn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay gắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng ghét",
+            "type": "",
+            "example": {
+                "en": "No, you... you are not cursed.",
+                "vi": "Không... anh không hề đáng ghét như vậy."
+            }
+        },
+        {
+            "content": "đáng nguyền rủa",
+            "type": "",
+            "example": {
+                "en": "The cursed dwarf Frenchman with a bullet head!",
+                "vi": "Tên lùn người Pháp đáng nguyền rủa với một viên đạn!"
+            }
+        }
+    ]
+}

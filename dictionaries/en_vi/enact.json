@@ -1,0 +1,46 @@
+{
+    "word": "enact",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/enˈakt/",
+            "/ɛnˈækt/",
+            "/inˈakt/",
+            "/ɪnˈækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnakt/",
+            "/ɛˈnakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ban hành",
+            "type": "",
+            "example": {
+                "en": "Institutionally, new rules get enacted to correct previous dysfunctions.",
+                "vi": "Về tổ chức, luật lệ mới ban hành để chỉnh đúng lại các luật lệ trước đó."
+            }
+        },
+        {
+            "content": "diễn",
+            "type": "verb",
+            "example": {
+                "en": "He likes to re-enact the Battle of Cypress.",
+                "vi": "Anh ta thích tái diễn lại trận chiến Cypress."
+            }
+        },
+        {
+            "content": "đóng",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

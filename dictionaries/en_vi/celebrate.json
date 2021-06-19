@@ -1,0 +1,66 @@
+{
+    "word": "celebrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈseləˌbrāt/",
+            "/ˈsɛləˌbreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛlɪbreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỷ niệm",
+            "type": "verb noun",
+            "example": {
+                "en": "Let's celebrate the anniversary of our first kiss.",
+                "vi": "Hãy ăn mừng kỷ niệm ngày chúng ta hôn nhau lần đầu."
+            }
+        },
+        {
+            "content": "ăn mừng",
+            "type": "verb",
+            "example": {
+                "en": "Let's celebrate the anniversary of our first kiss.",
+                "vi": "Hãy ăn mừng kỷ niệm ngày chúng ta hôn nhau lần đầu."
+            }
+        },
+        {
+            "content": "ca tụng",
+            "type": "",
+            "example": {
+                "en": "My drawings celebrate the beauty of what we all stand to lose.",
+                "vi": "Những bức vẽ của tôi ca tụng vẻ đẹp của những cảnh quan đang dần mất đi."
+            }
+        },
+        {
+            "content": "cử hành",
+            "type": "verb",
+            "example": {
+                "en": "In times past, why did some people not celebrate Christmas?",
+                "vi": "Trong quá khứ, tại sao một số người không cử hành Lễ Giáng Sinh?"
+            }
+        },
+        {
+            "content": "làm lễ kỷ niệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán dương",
+            "type": "",
+            "example": {
+                "en": "You celebrate pop stars while ignoring corrupt politicians.",
+                "vi": "Anh tán dương một ngôi sao nhạc pop, nhưng lờ đi những nhà chính trị tham nhũng."
+            }
+        }
+    ]
+}

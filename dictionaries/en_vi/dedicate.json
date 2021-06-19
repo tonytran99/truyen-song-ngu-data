@@ -1,0 +1,83 @@
+{
+    "word": "dedicate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdedəˌkāt/",
+            "/ˈdɛdəˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛdɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiến dâng",
+            "type": "",
+            "example": {
+                "en": "The prayer that Solomon offered at the temple dedication emphasizes this truth.",
+                "vi": "Lời cầu nguyện của Sa-lô-môn tại lễ hiến dâng đền thờ nhấn mạnh sự thật này."
+            }
+        },
+        {
+            "content": "cống hiến",
+            "type": "verb",
+            "example": {
+                "en": "I never had children because I dedicated my life to this coven.",
+                "vi": "Tôi không có con vì tôi cống hiến cuộc đời mình cho hội."
+            }
+        },
+        {
+            "content": "đề tặng",
+            "type": "",
+            "example": {
+                "en": "But there's a really nice dedication inside, with a quote from the book.",
+                "vi": "và bên trong có lời đề tặng cùng với một đoạn của cuốn sách."
+            }
+        },
+        {
+            "content": "dành tặng",
+            "type": "",
+            "example": {
+                "en": "I dedicate this book to my daughter.",
+                "vi": "Tôi dành tặng cuốn sách này cho con gái tôi."
+            }
+        },
+        {
+            "content": "dâng",
+            "type": "",
+            "example": {
+                "en": "What attitude do we need as we carry out our dedication?",
+                "vi": "Nên có thái độ nào khi thực hiện sự dâng mình?"
+            }
+        },
+        {
+            "content": "dành cho",
+            "type": "",
+            "example": {
+                "en": "It really would be dedicated to the arts and to interacting.",
+                "vi": "Nó thực sự sẽ được dành cho nghệ thuật và tương tác."
+            }
+        },
+        {
+            "content": "khai mạc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khánh thành",
+            "type": "",
+            "example": {
+                "en": "I was privileged to give the dedication talk.",
+                "vi": "Tôi nhận được vinh dự nói bài giảng khánh thành."
+            }
+        }
+    ]
+}

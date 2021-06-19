@@ -1,0 +1,70 @@
+{
+    "word": "billion",
+    "type": [
+        "adjective",
+        "noun",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbilyən/",
+            "/ˈbɪljən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪljən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tỷ",
+            "type": "Cardinal number, noun",
+            "example": {
+                "en": "Presently, over one billion people go hungry every day.",
+                "vi": "Hiện thời trên thế giới có hơn một tỷ người bị đói mỗi ngày."
+            }
+        },
+        {
+            "content": "tỉ",
+            "type": "Cardinal number",
+            "example": {
+                "en": "The universe was born more than 12 billion years ago.",
+                "vi": "Vũ trụ được hình thành từ hơn 12 tỉ năm về trước."
+            }
+        },
+        {
+            "content": "Pháp tỉ nghìn triệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một nghìn tỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một ngàn triệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một tỷ",
+            "type": "",
+            "example": {
+                "en": "A billion of us are obese, while a further billion starve.",
+                "vi": "Một tỷ người béo phì, trong khi có hơn một tỷ người chết đói."
+            }
+        },
+        {
+            "content": "nghìn tỉ",
+            "type": "",
+            "example": {
+                "en": "in the billions and now in the trillions.",
+                "vi": "hàng tỉ và giờ là hàng nghìn tỉ."
+            }
+        }
+    ]
+}

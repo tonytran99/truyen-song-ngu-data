@@ -1,0 +1,519 @@
+{
+    "word": "cover",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nắp",
+            "type": "noun",
+            "example": {
+                "en": "Thus, the cover of the ark of the covenant had a shape corresponding to the ark itself.",
+                "vi": "Vì vậy, nắp hòm giao ước phải vừa vặn với miệng hòm."
+            }
+        },
+        {
+            "content": "bìa",
+            "type": "noun",
+            "example": {
+                "en": "Lyle finally made the cover of Wired magazine.",
+                "vi": "Lyle cuối cùng cũng đã lên trang bìa tạp chí Wired."
+            }
+        },
+        {
+            "content": "che",
+            "type": "verb",
+            "example": {
+                "en": "I just need to figure out what they're trying to cover up.",
+                "vi": "Em chỉ cần tìm hiểu xem họ đang che đậy cái gì."
+            }
+        },
+        {
+            "content": "phủ",
+            "type": "verb",
+            "example": {
+                "en": "The ladder was covered with dust and rust.",
+                "vi": "Cái thang phủ đầy bụi và gỉ sét"
+            }
+        },
+        {
+            "content": "vỏ",
+            "type": "noun",
+            "example": {
+                "en": "It's cover so you can go around shooting at people.",
+                "vi": "Là cái vỏ bọc để anh có thể đi loanh quanh bắn người."
+            }
+        },
+        {
+            "content": "vung",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bao phủ",
+            "type": "verb, noun",
+            "example": {
+                "en": "No matter what you do, nature covers it up so quickly.",
+                "vi": "Bất kể bạn làm gì, thiên nhiên sẽ bao phủ rất nhanh."
+            }
+        },
+        {
+            "content": "che phủ",
+            "type": "verb",
+            "example": {
+                "en": "What is the estimate cloud cover of the planet, at this time?",
+                "vi": "Lúc này tỷ lệ che phủ toàn hành tinh là bao nhiệu?"
+            }
+        },
+        {
+            "content": "che đậy",
+            "type": "verb, noun",
+            "example": {
+                "en": "I just need to figure out what they're trying to cover up.",
+                "vi": "Em chỉ cần tìm hiểu xem họ đang che đậy cái gì."
+            }
+        },
+        {
+            "content": "bọc",
+            "type": "verb",
+            "example": {
+                "en": "It's cover so you can go around shooting at people.",
+                "vi": "Là cái vỏ bọc để anh có thể đi loanh quanh bắn người."
+            }
+        },
+        {
+            "content": "trùm",
+            "type": "verb",
+            "example": {
+                "en": "Most of his prey is now hidden beneath the snow that covers his entire territory.",
+                "vi": "Hầu hết các con mồi của nó giờ ẩn mình dưới tuyết đang bao trùm cả lãnh địa."
+            }
+        },
+        {
+            "content": "lốt",
+            "type": "",
+            "example": {
+                "en": "He said: “Be on the watch for the false prophets that come to you in sheep’s covering, but inside they are ravenous wolves.",
+                "vi": "Ngài nói: “Hãy coi chừng tiên-tri giả, là những kẻ mang lốt chiên đến cùng các ngươi, song bề trong thật là muông-sói hay cắn-xé."
+            }
+        },
+        {
+            "content": "màn che",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt nạ",
+            "type": "noun",
+            "example": {
+                "en": "and that mask that covers like half my face is on, too,",
+                "vi": "và mặt nạ che nửa mặt tôi nữa,"
+            }
+        },
+        {
+            "content": "phong bì",
+            "type": "",
+            "example": {
+                "en": "The question paper's in a cover with a red seal",
+                "vi": "Đề thi ở trong phong bì có dấu niêm phong đỏ."
+            }
+        },
+        {
+            "content": "trải ra",
+            "type": "",
+            "example": {
+                "en": "The body contains perhaps 25 trillion of them, enough, if spread out, to cover four tennis courts. . . .",
+                "vi": "Cơ thể có lẽ có 25 ngàn tỷ tế bào máu, nếu trải ra trên đất là đủ lấp bốn sân quần vợt..."
+            }
+        },
+        {
+            "content": "đi được",
+            "type": "",
+            "example": {
+                "en": "She covered twenty miles a day.",
+                "vi": "Một ngày cô ấy đi được 20 dặm."
+            }
+        },
+        {
+            "content": "đủ để trả",
+            "type": "",
+            "example": {
+                "en": "They keep enough in there to cover the floats.",
+                "vi": "Họ chỉ giữ đủ để trả tiền thôi."
+            }
+        },
+        {
+            "content": "đậy",
+            "type": "verb",
+            "example": {
+                "en": "I just need to figure out what they're trying to cover up.",
+                "vi": "Em chỉ cần tìm hiểu xem họ đang che đậy cái gì."
+            }
+        },
+        {
+            "content": "giấu",
+            "type": "verb",
+            "example": {
+                "en": "So you don't believe anymore that the company covered it up?",
+                "vi": "Cô không còn tin nhà máy che giấu chuyện đó nữa chứ? Không."
+            }
+        },
+        {
+            "content": "che khuất",
+            "type": "noun",
+            "example": {
+                "en": "These labels or main points must never become covered up or hidden.",
+                "vi": "Đừng bao giờ để cho các tấm bảng tức các điểm chính này bị che khuất."
+            }
+        },
+        {
+            "content": "chỗ ẩn nấp",
+            "type": "noun",
+            "example": {
+                "en": "There's lots of cover, high vantage points all around.",
+                "vi": "Quá nhiều chỗ ẩn nấp. Nhiều điểm bất lợi trên cao."
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "noun",
+            "example": {
+                "en": "(1 Peter 4:8) To ‘cover’ sins does not mean to ‘cover up’ serious sins.",
+                "vi": "(1 Phi-e-rơ 4:8) “Che phủ” tội lỗi không có nghĩa là ‘giấu giếm’ những tội nặng."
+            }
+        },
+        {
+            "content": "gồm",
+            "type": "verb",
+            "example": {
+                "en": "Below are two lesson outlines that cover these teachings.",
+                "vi": "Dưới đây là hai đại cương của bài học gồm có những điều giảng dạy này."
+            }
+        },
+        {
+            "content": "nhằm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắp đậy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đưa tin",
+            "type": "",
+            "example": {
+                "en": "The rest of the world is covering the protest.",
+                "vi": "Cả thế giới đang đưa tin về cuộc biểu tình."
+            }
+        },
+        {
+            "content": "trải",
+            "type": "",
+            "example": {
+                "en": "Each “family” receives a set monthly allowance to cover expenses.",
+                "vi": "Hàng tháng mỗi “gia đình” nhận được một số tiền cố định để trang trải chi phí."
+            }
+        },
+        {
+            "content": "áo",
+            "type": "noun",
+            "example": {
+                "en": "If my son is covered in it it is a royal robe.",
+                "vi": "Nếu con trai tôi được bọc trong đó thì nó sẽ là tấm áo hoàng gia."
+            }
+        },
+        {
+            "content": "chụp",
+            "type": "verb",
+            "example": {
+                "en": "Let's get to that Teen Vogue cover shoot.",
+                "vi": "Ta sẽ đi chụp ảnh bìa cho tờ Thời trang Teen."
+            }
+        },
+        {
+            "content": "lợp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bưng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ấp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "nhằm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao bọc",
+            "type": "",
+            "example": {
+                "en": "First, make him mark and cover Wade's body for grave detail.",
+                "vi": "Trước tiên phải làm dấu và bao bọc thi thế Wade lại để sau này nhận diện."
+            }
+        },
+        {
+            "content": "bao gồm",
+            "type": "",
+            "example": {
+                "en": "In point of fact, no insurance covers acts of idiocy.",
+                "vi": "Thực tế mà nói, không có bảo hiểm nào bao gồm những hành động ngu ngốc cả."
+            }
+        },
+        {
+            "content": "bao hàm",
+            "type": "",
+            "example": {
+                "en": "The seven categories that the proverb mentions are basic and cover virtually all types of wrongs.",
+                "vi": "Bảy loại gớm ghiếc mà câu châm ngôn trên nhắc đến là những điều căn bản và hầu như bao hàm mọi loại sai quấy."
+            }
+        },
+        {
+            "content": "bao quát",
+            "type": "",
+            "example": {
+                "en": "We can cover more ground that way.",
+                "vi": "Như thế sẽ bao quát được nhiều hơn."
+            }
+        },
+        {
+            "content": "bao trùm",
+            "type": "",
+            "example": {
+                "en": "Most of his prey is now hidden beneath the snow that covers his entire territory.",
+                "vi": "Hầu hết các con mồi của nó giờ ẩn mình dưới tuyết đang bao trùm cả lãnh địa."
+            }
+        },
+        {
+            "content": "bìa sách",
+            "type": "noun",
+            "example": {
+                "en": "We see it in supermarkets, on book covers.",
+                "vi": "Ta thấy cả trong siêu thị, bìa sách."
+            }
+        },
+        {
+            "content": "bảo vệ",
+            "type": "verb",
+            "example": {
+                "en": "We will cover the causeway and the gate from above.",
+                "vi": "Ta sẽ bảo vệ cầu thành và cổng thành từ trên cao."
+            }
+        },
+        {
+            "content": "bọc dây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bụi rậm",
+            "type": "",
+            "example": {
+                "en": "Thick growths of pine trees and scrub cover most of this island of roughly ten square miles (26 sq km).",
+                "vi": "Cây thông và bụi rậm mọc dày đặc đến nỗi bao phủ gần trọn hòn đảo có diện tích ước chừng 26km2."
+            }
+        },
+        {
+            "content": "che chở",
+            "type": "",
+            "example": {
+                "en": "Even under cover of night, we're glowing big and bright on his radar.",
+                "vi": "Thậm chí có màn đêm che chở, chúng ta hiện lên to và rõ trên radar của hắn."
+            }
+        },
+        {
+            "content": "che giấu",
+            "type": "",
+            "example": {
+                "en": "They had to cover up my escape and now they have to cover up my work.",
+                "vi": "Chúng phải che giấu việc tôi trốn thoát và giờ chúng phải che giấu việc tôi làm."
+            }
+        },
+        {
+            "content": "che lấp",
+            "type": "",
+            "example": {
+                "en": "Sin and wickedness is overwhelming the world as the waters cover the great deep.",
+                "vi": "Tội lỗi và sự tà ác tràn đầy thế gian như các dòng nước che lấp biển."
+            }
+        },
+        {
+            "content": "chĩa vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ núp",
+            "type": "noun",
+            "example": {
+                "en": "Sir, if you don't find some cover, you're gonna go down!",
+                "vi": "Sếp, nếu ông không tìm chỗ núp, ông sẽ bị bắn mất."
+            }
+        },
+        {
+            "content": "chỗ trú",
+            "type": "",
+            "example": {
+                "en": "You got someplace where you can put these horses under cover?",
+                "vi": "Ông có chỗ trú nào cho mấy con ngựa này không?"
+            }
+        },
+        {
+            "content": "chỗ trốn",
+            "type": "",
+            "example": {
+                "en": "and takes cover, and she hides behind a trash bin,",
+                "vi": "và tìm 1 chỗ trốn, cô ấy trốn đằng sau 1 cái thùng cũ,"
+            }
+        },
+        {
+            "content": "cái bọc ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái chụp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái nắp",
+            "type": "",
+            "example": {
+                "en": "17 “You will make a cover of pure gold, two and a half cubits long and a cubit and a half wide.",
+                "vi": "17 Con hãy làm một cái nắp bằng vàng ròng, dài hai cu-bít rưỡi và rộng một cu-bít rưỡi."
+            }
+        },
+        {
+            "content": "ham muốn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khống chế",
+            "type": "",
+            "example": {
+                "en": "We need to cover these situations.",
+                "vi": "Chúng ta cần khống chế những tình thế này."
+            }
+        },
+        {
+            "content": "kiểm soát",
+            "type": "verb",
+            "example": {
+                "en": "See, that way we can cover double territory.",
+                "vi": "Thấy chưa, bằng cách này ta có thể kiểm soát gấp đôi lãnh thổ."
+            }
+        },
+        {
+            "content": "lùm cây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc quần áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phủ || cái phủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền bảo chứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trang trải",
+            "type": "",
+            "example": {
+                "en": "Each “family” receives a set monthly allowance to cover expenses.",
+                "vi": "Hàng tháng mỗi “gia đình” nhận được một số tiền cố định để trang trải chi phí."
+            }
+        },
+        {
+            "content": "truyện ký",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vỏ bọc",
+            "type": "noun",
+            "example": {
+                "en": "It's cover so you can go around shooting at people.",
+                "vi": "Là cái vỏ bọc để anh có thể đi loanh quanh bắn người."
+            }
+        },
+        {
+            "content": "yểm hộ",
+            "type": "",
+            "example": {
+                "en": "You cover me from here.",
+                "vi": "Cô đứng đây yểm hộ cho tôi."
+            }
+        },
+        {
+            "content": "đậy điệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đội mũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phủ",
+            "type": "",
+            "example": {
+                "en": "The ladder was covered with dust and rust.",
+                "vi": "Cái thang phủ đầy bụi và gỉ sét"
+            }
+        },
+        {
+            "content": "ém",
+            "type": "",
+            "example": {
+                "en": "I got us covered here, man, ok?",
+                "vi": "Tôi đang ém nhẹm cho bọn ta đó."
+            }
+        },
+        {
+            "content": "bảo hiểm",
+            "type": "verb",
+            "example": {
+                "en": "In point of fact, no insurance covers acts of idiocy.",
+                "vi": "Thực tế mà nói, không có bảo hiểm nào bao gồm những hành động ngu ngốc cả."
+            }
+        }
+    ]
+}

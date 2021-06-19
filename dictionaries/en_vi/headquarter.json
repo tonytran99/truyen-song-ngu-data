@@ -1,0 +1,63 @@
+{
+    "word": "headquarter",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌkwôrdər/",
+            "/ˈhɛdˌkwɔrdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdkwɔːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản bộ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bộ chỉ huy",
+            "type": "noun",
+            "example": {
+                "en": "And they'll knock out Breed's headquarters and capture his entire staff.",
+                "vi": "Và họ sẽ hạ gục bộ chỉ huy của Breed và bắt toàn bộ ban tham mưu."
+            }
+        },
+        {
+            "content": "cơ quan đầu não",
+            "type": "noun",
+            "example": {
+                "en": "We hit Goliath Worldwide headquarters in two days.",
+                "vi": "Hai ngày trước ta tấn công cơ quan đầu não Goliath."
+            }
+        },
+        {
+            "content": "tổng hành dinh",
+            "type": "noun",
+            "example": {
+                "en": "I offered it to Dumbledore as headquarters for the Order.",
+                "vi": "Chú đề nghị cho cụ Dumbledore mượn làm tổng hành dinh cho Hội."
+            }
+        },
+        {
+            "content": "đoàn bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đại bản doanh",
+            "type": "noun",
+            "example": {
+                "en": "Topflight arms dealers, headquartered in St. Petersburg.",
+                "vi": "Những tay súng hàng đầu, đặt đại bản doanh ở St. Petersburg."
+            }
+        }
+    ]
+}

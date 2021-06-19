@@ -1,0 +1,37 @@
+{
+    "word": "guidebook",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡīdˌbo͝ok/",
+            "/ˈɡaɪdˌbʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌɪdbʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sách hướng dẫn",
+            "type": "",
+            "example": {
+                "en": "You come to Italy to make a guidebook and you don't care about history?",
+                "vi": "Anh tới Ý để làm một cuốn sách hướng dẫn mà không màng tới lịch sử?"
+            }
+        },
+        {
+            "content": "sách hướng dẫn du lịch",
+            "type": "noun",
+            "example": {
+                "en": "Says one guidebook: “Vanuatu claims the highest concentration of different languages per head of population of any country in the world.”",
+                "vi": "Một sách hướng dẫn du lịch cho biết: “Vanuatu được xem là nơi có tỉ lệ ngôn ngữ trên dân số cao nhất thế giới”."
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "turntable",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərnˌtābəl/",
+            "/ˈtərnˌteɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːnteɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn quay",
+            "type": "noun",
+            "example": {
+                "en": "And I love the carrot on the turntable.",
+                "vi": "Tôi thích cách củ cà rốt được dùng trên bàn quay"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "word": "barring",
+    "type": [
+        "noun",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbäriNG/",
+            "/ˈbɑrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɑːrɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trừ",
+            "type": "verb",
+            "example": {
+                "en": "I will not say a word against him until he is behind bars.",
+                "vi": "Tôi sẽ không hé nửa lời trừ khi hắn ra trước vành móng ngựa."
+            }
+        },
+        {
+            "content": "trừ ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

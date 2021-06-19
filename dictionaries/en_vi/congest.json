@@ -1,0 +1,55 @@
+{
+    "word": "congest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈjest/",
+            "/kənˈdʒɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʒɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất quá tải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sung huyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tắt nghẽn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đông nghịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sung huyết",
+            "type": "verb",
+            "example": {
+                "en": "He was diagnosed three years ago with terminal congestive heart failure.",
+                "vi": "Ông ấy đã được chẩn đoán từ ba năm trước, chứng sung huyết suy tim giai đoạn cuối."
+            }
+        },
+        {
+            "content": "ứ huyết",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

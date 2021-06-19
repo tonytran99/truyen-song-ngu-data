@@ -1,0 +1,84 @@
+{
+    "word": "commander",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmandər/",
+            "/kəˈmændər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɑːndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỉ huy trưởng",
+            "type": "noun",
+            "example": {
+                "en": "Give me the watch commander on the horn.",
+                "vi": "Cho tôi nói chuyện với chỉ huy trưởng."
+            }
+        },
+        {
+            "content": "chỉ huy",
+            "type": "noun",
+            "example": {
+                "en": "I command this ship, but you command me.",
+                "vi": "Tôi chỉ huy chiếc tàu này, nhưng ông chỉ huy tôi."
+            }
+        },
+        {
+            "content": "cái vồ lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người điều khiển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sĩ quan chỉ huy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tư lệnh",
+            "type": "noun",
+            "example": {
+                "en": "Scattered units are ordered to report to their commands immediately.",
+                "vi": "Những đơn vị phân tán được lệnh trình báo với bộ tư lệnh của mình ngay lập tức."
+            }
+        },
+        {
+            "content": "tướng lĩnh",
+            "type": "noun",
+            "example": {
+                "en": "I'm not your general or a member of your Queensguard or the commander of your Unsullied.",
+                "vi": "Tôi không phải tướng lĩnh hay thành viên của Vệ Hậu hay là chỉ huy của Unsullied."
+            }
+        },
+        {
+            "content": "người chỉ huy",
+            "type": "",
+            "example": {
+                "en": "I'm in need of a commander such as you.",
+                "vi": "Ta đang cần một người chỉ huy như chàng."
+            }
+        },
+        {
+            "content": "trung tá",
+            "type": "noun",
+            "example": {
+                "en": "All due respect, Commander, but we're not going anywhere.",
+                "vi": "Với tất cả lòng kính trọng, trung tá, nhưng chúng tôi sẽ không đi đâu hết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "word": "discard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈskärd/",
+            "/dɪˈskɑrd/",
+            "/ˈdisˌkärd/",
+            "/ˈdɪsˌkɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskɑːd/",
+            "/ˈdɪskɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "A bunch of kids discarded by their parents.",
+                "vi": "Hàng loạt trẻ em bị bố mẹ bỏ rơi."
+            }
+        },
+        {
+            "content": "loại bỏ",
+            "type": "",
+            "example": {
+                "en": "If he'd been small or puny or sickly or misshapen he would have been discarded.",
+                "vi": "Nếu như nó còi cọc, yếu ớt hay khiếm khuyết gì đó nó sẽ bị loại bỏ ngay."
+            }
+        },
+        {
+            "content": "thải",
+            "type": "verb",
+            "example": {
+                "en": "As you know, a lot of organs are actually discarded, not used.",
+                "vi": "Như bạn biết, rất nhiều cơ quan không hề được dùng đến, mà sẽ bị đào thải."
+            }
+        },
+        {
+            "content": "chui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân bài dập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân chui bài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chui bài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dập bài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thải hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vứt bỏ",
+            "type": "",
+            "example": {
+                "en": "I was conscious while they dismembered my body, and discarded me like garbage.",
+                "vi": "Tôi vẫn còn tỉnh táo khi chúng phanh thây và vứt bỏ tôi như rác rưởi."
+            }
+        },
+        {
+            "content": "đuổi ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

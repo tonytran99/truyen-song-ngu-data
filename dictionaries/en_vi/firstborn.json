@@ -1,0 +1,30 @@
+{
+    "word": "firstborn",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərs(t)bôrn/",
+            "/ˈfərs(t)bɔrn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːstbɔːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con đầu lòng",
+            "type": "adjective",
+            "example": {
+                "en": "In most houses, the angel killed the firstborn child.",
+                "vi": "Trong đa số nhà, thiên sứ giết con đầu lòng."
+            }
+        }
+    ]
+}

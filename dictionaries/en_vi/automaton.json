@@ -1,0 +1,46 @@
+{
+    "word": "automaton",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ôˈtämədən/",
+            "/ɔˈtɑmədən/",
+            "/ôˈtäməˌtän/",
+            "/ɔˈtɑməˌtɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɔːˈtɒmət(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy tự động",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người máy",
+            "type": "noun",
+            "example": {
+                "en": "The only thing I couldn't bring myself to destroy was my beloved automaton.",
+                "vi": "Thứ duy nhất ta không thể đành lòng phá hủy là người máy thân yêu của ta."
+            }
+        },
+        {
+            "content": "máy tự động ôtômat",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết bị tự động",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "doomsday",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdo͞omzˌdā/",
+            "/ˈdumzˌdeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈduːmzdeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày tận thế",
+            "type": "noun",
+            "example": {
+                "en": "Why are you scaring everybody with this doomsday stuff?",
+                "vi": "Sao anh lại dọa m ọi người về ngày tận thế hả?"
+            }
+        },
+        {
+            "content": "ngày xét xử",
+            "type": "",
+            "example": {
+                "en": "I need some prints to lock this whack job up till doomsday.",
+                "vi": "Tôi cần chứng cứ để quật nó trong ngày xét xử."
+            }
+        }
+    ]
+}

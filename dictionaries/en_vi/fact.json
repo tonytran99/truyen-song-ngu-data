@@ -1,0 +1,75 @@
+{
+    "word": "fact",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakt/",
+            "/fækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự việc",
+            "type": "noun",
+            "example": {
+                "en": "You should make sure of the fact without hesitation.",
+                "vi": "Bạn nên khẳng định sự việc một cách không ngập ngừng."
+            }
+        },
+        {
+            "content": "sự thật",
+            "type": "noun",
+            "example": {
+                "en": "The fact is we were not invited.",
+                "vi": "Sự thật là chúng tôi không được mời."
+            }
+        },
+        {
+            "content": "điều",
+            "type": "noun",
+            "example": {
+                "en": "I thought it was a scientific fact, ma'am.",
+                "vi": "Tôi nghĩ khoa học đã chứng minh điều đó, thưa cô."
+            }
+        },
+        {
+            "content": "thực tế",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "As a matter of fact, I have had nothing since this morning.",
+                "vi": "Trên thực tế tôi chưa ăn gì từ sáng nay."
+            }
+        },
+        {
+            "content": "việc",
+            "type": "noun",
+            "example": {
+                "en": "You should make sure of the fact without hesitation.",
+                "vi": "Bạn nên khẳng định sự việc một cách không ngập ngừng."
+            }
+        },
+        {
+            "content": "sự kiện",
+            "type": "noun",
+            "example": {
+                "en": "And they, in fact, covered the same 24 news events.",
+                "vi": "Và thực thế chúng chỉ bao trùm 24 sự kiện"
+            }
+        },
+        {
+            "content": "cơ sở lập luận",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

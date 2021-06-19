@@ -1,0 +1,51 @@
+{
+    "word": "kinetic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnedik/",
+            "/kəˈnɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪˈnɛtɪk/",
+            "/kʌɪˈnɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động",
+            "type": "verb noun",
+            "example": {
+                "en": "Einstein showed that mass can be converted into useful kinetic energy.",
+                "vi": "Einstein cho thấy rằng khối lượng có thể chuyển hóa thành năng lượng động lực học hữu ích."
+            }
+        },
+        {
+            "content": "do động lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động lực",
+            "type": "noun",
+            "example": {
+                "en": "Einstein showed that mass can be converted into useful kinetic energy.",
+                "vi": "Einstein cho thấy rằng khối lượng có thể chuyển hóa thành năng lượng động lực học hữu ích."
+            }
+        },
+        {
+            "content": "động lực học",
+            "type": "",
+            "example": {
+                "en": "Einstein showed that mass can be converted into useful kinetic energy.",
+                "vi": "Einstein cho thấy rằng khối lượng có thể chuyển hóa thành năng lượng động lực học hữu ích."
+            }
+        }
+    ]
+}

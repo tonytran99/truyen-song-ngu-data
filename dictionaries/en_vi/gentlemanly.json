@@ -1,0 +1,48 @@
+{
+    "word": "gentlemanly",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjen(t)lmənlē/",
+            "/ˈdʒɛn(t)lmənli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnt(ə)lmənli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lịch sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hào hiệp",
+            "type": "",
+            "example": {
+                "en": "That's very gentlemanly of you, Captain.",
+                "vi": "Ông thật là hào hiệp, Đại úy."
+            }
+        },
+        {
+            "content": "hào hoa phong nhã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân tử",
+            "type": "noun",
+            "example": {
+                "en": "I respect your gentlemanly actions.",
+                "vi": "Ta kính ngài có cái phong thái quân tử."
+            }
+        }
+    ]
+}

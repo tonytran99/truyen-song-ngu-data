@@ -1,0 +1,37 @@
+{
+    "word": "haystack",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhāˌstak/",
+            "/ˈheɪˌstæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪstak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đống cỏ khô",
+            "type": "noun",
+            "example": {
+                "en": "It was the same year you lured me up to that haystack down on Hjorrtholm.",
+                "vi": "Đấy cũng là năm mà ông dụ dỗ tôi lên đống cỏ khô ở Hjorrtholm."
+            }
+        },
+        {
+            "content": "đống rơm",
+            "type": "noun",
+            "example": {
+                "en": "I realize that, ma'am, but you're looking for a needle in a haystack.",
+                "vi": "Tôi biết, thưa bà. Nhưng bà đang tìm cái kim trong đống rơm."
+            }
+        }
+    ]
+}

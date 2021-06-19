@@ -1,0 +1,54 @@
+{
+    "word": "laugh",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/laf/",
+            "/læf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɑːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cười",
+            "type": "verb",
+            "example": {
+                "en": "Upon seeing how ridiculous he looked, everyone could not help but laughing.",
+                "vi": "Nhìn thấy dáng vẻ buồn cười đó của anh ấy, mọi người không nhịn được mà cười."
+            }
+        },
+        {
+            "content": "tiếng cười",
+            "type": "",
+            "example": {
+                "en": "You're all collective. You all hear each other laugh and know each other laugh.",
+                "vi": "Mọi người là một tập thể, nghe và hiểu được tiếng cười của nhau."
+            }
+        },
+        {
+            "content": "cười cợt",
+            "type": "",
+            "example": {
+                "en": "After you laughed at that video of me.",
+                "vi": "Sau khi cậu cười cợt đoạn băng về tôi."
+            }
+        },
+        {
+            "content": "cười vui",
+            "type": "",
+            "example": {
+                "en": "All I want is dinner and some laughs with a couple of girls.",
+                "vi": "Tôi chỉ muốn có một bữa ăn tối có tiếng cười vui... với một vài cô gái."
+            }
+        }
+    ]
+}

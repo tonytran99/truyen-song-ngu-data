@@ -1,0 +1,125 @@
+{
+    "word": "increase",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkrēs/",
+            "/ɪnˈkris/",
+            "/ˈinkrēs/",
+            "/ˈɪnkris/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkriːs/",
+            "/ˈɪŋkriːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tăng",
+            "type": "verb",
+            "example": {
+                "en": "This city has been increasing in population year after year.",
+                "vi": "Số dân của thành phố này tăng qua từng năm."
+            }
+        },
+        {
+            "content": "tăng lên",
+            "type": "",
+            "example": {
+                "en": "As the water temperature increases, the wind velocity increases and the moisture content increases.",
+                "vi": "Và khi nhiệt độ nước tăng lên, vận tốc gió tăng lên và độ ẩm tăng lên."
+            }
+        },
+        {
+            "content": "sự tăng",
+            "type": "",
+            "example": {
+                "en": "we are getting very great increases in crop yield as well.",
+                "vi": "Chúng ta cũng đang đạt được những sự tăng trưởng lớn về năng suất hoa màu"
+            }
+        },
+        {
+            "content": "gia",
+            "type": "verb",
+            "example": {
+                "en": "The word suggests an increase of a love that was already there.",
+                "vi": "Từ này gợi ý một sự gia tăng tình yêu thương vốn đã có."
+            }
+        },
+        {
+            "content": "bồi bổ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gia tăng",
+            "type": "verb",
+            "example": {
+                "en": "Families increase in light as they increase in love and kindness.",
+                "vi": "Gia đình có thêm ánh sáng khi họ gia tăng tình yêu thương và lòng nhân từ."
+            }
+        },
+        {
+            "content": "làm tăng",
+            "type": "",
+            "example": {
+                "en": "Fear of a name only increases fear of the thing itself.",
+                "vi": "Sợ một cái tên chỉ làm tăng thêm nổi sợ của người đó."
+            }
+        },
+        {
+            "content": "lớn thêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số lượng tăng thêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tăng thêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tăng giá",
+            "type": "",
+            "example": {
+                "en": "Thus , they will be particularly susceptible to increases in the price of gold .",
+                "vi": "Do đó , họ rất dễ nhạy cảm với các đợt tăng giá vàng ."
+            }
+        },
+        {
+            "content": "tăng thêm",
+            "type": "",
+            "example": {
+                "en": "Fear of a name only increases fear of the thing itself.",
+                "vi": "Sợ một cái tên chỉ làm tăng thêm nổi sợ của người đó."
+            }
+        },
+        {
+            "content": "thêm",
+            "type": "adjective conjunction verb",
+            "example": {
+                "en": "Fear of a name only increases fear of the thing itself.",
+                "vi": "Sợ một cái tên chỉ làm tăng thêm nổi sợ của người đó."
+            }
+        },
+        {
+            "content": "phụ gia",
+            "type": "",
+            "example": {
+                "en": "Sickness, accidents, wars, ethnic cleansing, and violence in general are contributing to an increasing number of widows.",
+                "vi": "Bệnh tật, tai nạn, chiến tranh, thanh trừng sắc tộc, và bạo lực nói chung đã khiến số góa phụ gia tăng."
+            }
+        }
+    ]
+}

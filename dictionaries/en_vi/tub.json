@@ -1,0 +1,88 @@
+{
+    "word": "tub",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/təb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʌb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bồn",
+            "type": "noun",
+            "example": {
+                "en": "How many litres does it take to fill a hot tub?",
+                "vi": "Cần bao nhiêu lít để đổ đầy bồn tắm nóng?"
+            }
+        },
+        {
+            "content": "chậu",
+            "type": "",
+            "example": {
+                "en": "Speaking gently , slowly lower your baby up to the chest into the tub .",
+                "vi": "Nói ngọt ngào , từ từ hạ người của bé xuống tới ngực trong chậu tắm ."
+            }
+        },
+        {
+            "content": "bồn tắm",
+            "type": "noun",
+            "example": {
+                "en": "How many litres does it take to fill a hot tub?",
+                "vi": "Cần bao nhiêu lít để đổ đầy bồn tắm nóng?"
+            }
+        },
+        {
+            "content": "cho vào chậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắm rửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập chèo xuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập lái xuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắm chậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuồng tập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đựng vào chậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thùng",
+            "type": "noun",
+            "example": {
+                "en": "Go fill up the tub before we lose pressure.",
+                "vi": "Con đi mở nước đầy thùng trước khi mất đi."
+            }
+        }
+    ]
+}

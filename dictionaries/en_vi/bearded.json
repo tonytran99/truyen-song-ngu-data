@@ -1,0 +1,56 @@
+{
+    "word": "bearded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈbi(ə)rdid/",
+            "/ˈbɪ(ə)rdɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪədɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có râu",
+            "type": "",
+            "example": {
+                "en": "But in my dreams you had shorter hair and no beard.",
+                "vi": "Nhưng trong giấc mơ của em thì tóc anh ngắn hơn và không có râu."
+            }
+        },
+        {
+            "content": "có ngạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có",
+            "type": "verb",
+            "example": {
+                "en": "Can I touch your beard?",
+                "vi": "Tôi có thể sờ râu của ông được không?"
+            }
+        },
+        {
+            "content": "ngạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "râu",
+            "type": "noun",
+            "example": {
+                "en": "Can I touch your beard?",
+                "vi": "Tôi có thể sờ râu của ông được không?"
+            }
+        }
+    ]
+}

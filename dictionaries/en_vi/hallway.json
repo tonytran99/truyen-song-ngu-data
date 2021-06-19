@@ -1,0 +1,53 @@
+{
+    "word": "hallway",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôlˌwā/",
+            "/ˈhɔlˌweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːlweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hành lang",
+            "type": "noun",
+            "example": {
+                "en": "Can we please talk in the hallway, Dad?",
+                "vi": "Chúng ta có thể ra hành lang nói chuyện chứ, bố?"
+            }
+        },
+        {
+            "content": "phòng trước",
+            "type": "",
+            "example": {
+                "en": "The hallway's the only room in the apartment with no windows.",
+                "vi": "Phòng trước là phòng duy nhất trong căn hộ không có cửa sổ."
+            }
+        },
+        {
+            "content": "phòng đợi",
+            "type": "",
+            "example": {
+                "en": "I also put an advanced Fourier system on the main hallway chalkboard.",
+                "vi": "Tôi cũng đã đặt bài hệ thống Fourier nâng cao ở trên bảng ngoài phòng đợi chính."
+            }
+        },
+        {
+            "content": "tiền sảnh",
+            "type": "",
+            "example": {
+                "en": "He wanted to do it in the hallway of my building.",
+                "vi": "Anh ta muốn quan hệ với mình trên tiền sảnh tòa nhà mình ở."
+            }
+        }
+    ]
+}

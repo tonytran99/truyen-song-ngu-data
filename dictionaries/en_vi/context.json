@@ -1,0 +1,84 @@
+{
+    "word": "context",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäntekst/",
+            "/ˈkɑntɛkst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒntɛkst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngữ cảnh",
+            "type": "noun",
+            "example": {
+                "en": "Many of our words change depending on the context.",
+                "vi": "Rất nhiều từ bị thay đổi tùy thuộc vào ngữ cảnh."
+            }
+        },
+        {
+            "content": "văn cảnh",
+            "type": "noun",
+            "example": {
+                "en": "That depends on the context.",
+                "vi": "Cái đó tùy thuộc vào văn cảnh."
+            }
+        },
+        {
+            "content": "bối cảnh",
+            "type": "noun",
+            "example": {
+                "en": "Culture exists in community, and community exists in context.",
+                "vi": "Văn hóa tồn tại trong cộng đồng, và cộng đồng tồn tại trong bối cảnh."
+            }
+        },
+        {
+            "content": "hoàn cảnh",
+            "type": "noun",
+            "example": {
+                "en": "Now, let me just put that into context.",
+                "vi": "Giờ, để tôi đặt nó vào hoàn cảnh cụ thế."
+            }
+        },
+        {
+            "content": "khung cảnh",
+            "type": "",
+            "example": {
+                "en": "Now let's try to put this into a little bit of context.",
+                "vi": "Bây giờ chúng ta thử đặt tình huống này vào chút ít khung cảnh."
+            }
+        },
+        {
+            "content": "mạch văn",
+            "type": "",
+            "example": {
+                "en": "Note the context in which Paul called attention to what ancient faithful ones experienced:",
+                "vi": "Xin chú ý mạch văn trong đó Phao-lô đề cập đến điều mà những người trung thành thời xưa đã từng trải qua:"
+            }
+        },
+        {
+            "content": "ngữ/văn cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phạm vi",
+            "type": "",
+            "example": {
+                "en": "In the context of this broad range of digital relations,",
+                "vi": "Trong bối cảnh của mối quan hệ có phạm vi rộng như vậy,"
+            }
+        }
+    ]
+}

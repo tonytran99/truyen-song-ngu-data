@@ -1,0 +1,32 @@
+{
+    "word": "ciao",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHou/",
+            "/tʃaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chào",
+            "type": "interjection verb",
+            "example": {}
+        },
+        {
+            "content": "interj",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

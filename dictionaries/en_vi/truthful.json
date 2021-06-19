@@ -1,0 +1,75 @@
+{
+    "word": "truthful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtro͞oTHfəl/",
+            "/ˈtruθfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtruːθfʊl/",
+            "/ˈtruːθf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thật thà",
+            "type": "adjective",
+            "example": {
+                "en": "20 The apostle Peter noted that our “obedience to the truth” should result in “unhypocritical brotherly affection.”",
+                "vi": "20 Sứ đồ Phi-e-rơ viết rằng việc chúng ta “vâng theo lẽ thật” phải đưa đến việc “yêu-thương anh em cách thật-thà”."
+            }
+        },
+        {
+            "content": "chân thật",
+            "type": "adjective",
+            "example": {
+                "en": "In what way is truthfulness more than merely telling the truth?",
+                "vi": "Tính chân thật không phải chỉ là nói thật, theo nghĩa nào?"
+            }
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "How have those embracing the truth become “many”?",
+                "vi": "Bằng chứng nào cho thấy ‘nhiều người’ đã chấp nhận sự hiểu biết chính xác?"
+            }
+        },
+        {
+            "content": "thực",
+            "type": "adjective",
+            "example": {
+                "en": "You can stop it from happening if you tell me the truth.",
+                "vi": "Em biết không, em có thể ngừng điều đó xảy ra nếu em nói cho tôi sự thực?"
+            }
+        },
+        {
+            "content": "trung thành",
+            "type": "",
+            "example": {
+                "en": "Who have faithfully dispensed the truth in our time?",
+                "vi": "Vào thời chúng ta, ai đã trung thành truyền bá lẽ thật?"
+            }
+        },
+        {
+            "content": "đúng sự thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trung thực",
+            "type": "adjective",
+            "example": {
+                "en": "At the very least, you are entitled to truthful answers.",
+                "vi": "Dù thế nào, bạn cũng có quyền biết câu trả lời trung thực."
+            }
+        }
+    ]
+}

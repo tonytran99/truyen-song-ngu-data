@@ -1,0 +1,36 @@
+{
+    "word": "baptize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbapˌtīz/",
+            "/ˈbæpˌtaɪz/",
+            "/bapˈtīz/",
+            "/bæpˈtaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bapˈtʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rửa tội",
+            "type": "verb",
+            "example": {
+                "en": "Now they say they're going to kill everyone who was baptized.",
+                "vi": "Bây giờ người ta nói họ sẽ giết bất cứ ai đã được rửa tội."
+            }
+        },
+        {
+            "content": "đặt tên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

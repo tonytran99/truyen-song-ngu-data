@@ -1,0 +1,51 @@
+{
+    "word": "decimal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdes(ə)məl/",
+            "/ˈdɛs(ə)məl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛsɪm(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thập phân",
+            "type": "adjective",
+            "example": {
+                "en": "Look, suppose you claim you have made a list of all the decimals.",
+                "vi": "Xem nào, ví dụ bạn đã lập một bảng liệt kê tất cả các số thập phân."
+            }
+        },
+        {
+            "content": "phân số thập phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số thập phân",
+            "type": "noun",
+            "example": {
+                "en": "Look, suppose you claim you have made a list of all the decimals.",
+                "vi": "Xem nào, ví dụ bạn đã lập một bảng liệt kê tất cả các số thập phân."
+            }
+        },
+        {
+            "content": "Hệ thập phân",
+            "type": "",
+            "example": {
+                "en": "So, uh, other than the Dewey Decimal System, what else has the library got going on?",
+                "vi": "Vậy, ừm, ngoài Hệ thập phân Dewey, thì thư viện còn có gì nữa ạ?"
+            }
+        }
+    ]
+}

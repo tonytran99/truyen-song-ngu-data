@@ -1,0 +1,30 @@
+{
+    "word": "baptismal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bapˈtizm(ə)l/",
+            "/bæpˈtɪzm(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bapˈtɪzməl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lễ rửa tội",
+            "type": "",
+            "example": {
+                "en": "The only sacrament he can perform is baptism.",
+                "vi": "Nghi thức duy nhất mà ông ấy có thể thực hiện là lễ rửa tội."
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "word": "beak",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēk/",
+            "/bik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỏ",
+            "type": "noun",
+            "example": {
+                "en": "Years later, the finches with smaller beaks once again dominated the population.",
+                "vi": "Nhiều năm sau, chim sẻ có mỏ nhỏ lại sinh sôi nảy nở trên đảo."
+            }
+        },
+        {
+            "content": "giáo viên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hiệu trưởng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mũi khoằm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mũi đe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quan toà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẩm phán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòi ấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình mỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỏ chim",
+            "type": "",
+            "example": {
+                "en": "she has like a trunk, like a bird's beak,",
+                "vi": "Cô ấy có 1 cái thùng chứa, như cái mỏ chim"
+            }
+        }
+    ]
+}

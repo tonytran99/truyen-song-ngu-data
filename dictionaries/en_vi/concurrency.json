@@ -1,0 +1,34 @@
+{
+    "word": "concurrency",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkərənsē/",
+            "/kənˈkərənsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkʌr(ə)nsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng thời",
+            "type": "",
+            "example": {
+                "en": "• improved performance ( lower resource utilization and better concurrency )",
+                "vi": "• hiệu suất cải thiện ( sử dụng nguồn tài nguyên ít hơn và khả năng truy cập đồng thời tốt hơn ) ;"
+            }
+        },
+        {
+            "content": "Tương tranh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

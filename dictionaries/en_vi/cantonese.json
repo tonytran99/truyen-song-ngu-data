@@ -1,0 +1,39 @@
+{
+    "word": "cantonese",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkantəˈnēz/",
+            "/ˌkæntəˈniz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkantəˈniːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Quảng Đông",
+            "type": "noun",
+            "example": {
+                "en": "An old associate of mine speaks impeccable Cantonese.",
+                "vi": "1 phụ tá cũ của ta nói tiếng Quảng Đông thạo lắm đấy."
+            }
+        },
+        {
+            "content": "Tiếng Quảng Đông",
+            "type": "",
+            "example": {
+                "en": "An old associate of mine speaks impeccable Cantonese.",
+                "vi": "1 phụ tá cũ của ta nói tiếng Quảng Đông thạo lắm đấy."
+            }
+        }
+    ]
+}

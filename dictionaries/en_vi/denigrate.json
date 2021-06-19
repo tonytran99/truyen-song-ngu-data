@@ -1,0 +1,57 @@
+{
+    "word": "denigrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdenəˌɡrāt/",
+            "/ˈdɛnəˌɡreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛnɪɡreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gièm pha",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bôi nhọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bôi xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bới xấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chê bai",
+            "type": "verb",
+            "example": {
+                "en": "Don’t demean your worth or denigrate your contribution.",
+                "vi": "Đừng hạ thấp giá trị của các anh chị em hoặc chê bai công lao mình đóng góp."
+            }
+        },
+        {
+            "content": "phỉ báng",
+            "type": "",
+            "example": {
+                "en": "You will cease, Cardinal Borgia, in this constant denigration of your brother, the Gonfaloniere.",
+                "vi": "Hãy dừng lại, Giáo chủ Borgia, việc phỉ báng em con một nhà quí tộc."
+            }
+        }
+    ]
+}

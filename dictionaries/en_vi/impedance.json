@@ -1,0 +1,42 @@
+{
+    "word": "impedance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpēdns/",
+            "/ɪmˈpidns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpiːd(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trở kháng",
+            "type": "noun",
+            "example": {
+                "en": "showing spatially varying exoskeletal impedances,",
+                "vi": "cho thấy thay đổi không gian của trở kháng trong khung đỡ,"
+            }
+        },
+        {
+            "content": "Trở kháng",
+            "type": "",
+            "example": {
+                "en": "showing spatially varying exoskeletal impedances,",
+                "vi": "cho thấy thay đổi không gian của trở kháng trong khung đỡ,"
+            }
+        },
+        {
+            "content": "điện trở",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

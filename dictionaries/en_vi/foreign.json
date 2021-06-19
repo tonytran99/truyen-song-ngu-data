@@ -1,0 +1,125 @@
+{
+    "word": "foreign",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrən/",
+            "/ˈfɔrən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɒrɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước ngoài",
+            "type": "adjective",
+            "example": {
+                "en": "Students often find it very difficult to understand a lecture in a foreign language.",
+                "vi": "Sinh viên cảm thường thấy rất khó hiểu một bài giảng bằng tiếng nước ngoài."
+            }
+        },
+        {
+            "content": "lạ",
+            "type": "adjective",
+            "example": {
+                "en": "I was an outsider in a foreign land.",
+                "vi": "Tôi là kẻ ngoài cuộc ở một vùng đất xa lạ."
+            }
+        },
+        {
+            "content": "ngoại quốc",
+            "type": "adjective",
+            "example": {
+                "en": "This foreigner comes to do a thing for the good of the foreigners.",
+                "vi": "Tên ngoại quốc này tới đây để làm một chuyện vì lợi ích của ngoại bang."
+            }
+        },
+        {
+            "content": "xa lạ",
+            "type": "adjective",
+            "example": {
+                "en": "This gave him the incentive he needed to study something totally foreign to him.",
+                "vi": "Suy nghĩ này đã thôi thúc anh tìm hiểu điều hoàn toàn xa lạ với mình."
+            }
+        },
+        {
+            "content": "lạ lẫm",
+            "type": "adjective",
+            "example": {
+                "en": "Is this as foreign to you as it is to me?",
+                "vi": "Chuyện này có lạ lẫm với chàng như nó xảy ra với ta không?"
+            }
+        },
+        {
+            "content": "ngoài",
+            "type": "adjective noun adverb adposition",
+            "example": {
+                "en": "Students often find it very difficult to understand a lecture in a foreign language.",
+                "vi": "Sinh viên cảm thường thấy rất khó hiểu một bài giảng bằng tiếng nước ngoài."
+            }
+        },
+        {
+            "content": "ngoại",
+            "type": "noun",
+            "example": {
+                "en": "A passport is something you cannot do without when you go to a foreign country.",
+                "vi": "Hộ chiếu là vật không thể thiếu khi người ta xuất ngoại."
+            }
+        },
+        {
+            "content": "không thuộc về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạ mặt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thuộc tiểu bang khác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ nước ngoài",
+            "type": "",
+            "example": {
+                "en": "We used the casino to mask foreign contributions.",
+                "vi": "Chúng tôi sử dụng sòng bạc để che giấu sự quyên góp từ nước ngoài."
+            }
+        },
+        {
+            "content": "đối ngoại",
+            "type": "adjective",
+            "example": {
+                "en": "I'm taking the foreign service exam.",
+                "vi": "Tôi sẽ tham gia kỳ thi hoạt động đối ngoại."
+            }
+        },
+        {
+            "content": "ở nước ngoài",
+            "type": "",
+            "example": {
+                "en": "All my life, I wanted to be in the foreign service.",
+                "vi": "Tất cả cuộc đời tôi, tôi muốn được phục vụ ở nước ngoài."
+            }
+        },
+        {
+            "content": "là",
+            "type": "adjective",
+            "example": {
+                "en": "But looking at Cao Man's attitude, it seems he's already made an agreement with the foreigners.",
+                "vi": "Nhìn thái độ của Tăng Mãn, đó là đã thương lượng với bọn tây rồi"
+            }
+        }
+    ]
+}

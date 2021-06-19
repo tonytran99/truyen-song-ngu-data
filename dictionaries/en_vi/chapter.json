@@ -1,0 +1,66 @@
+{
+    "word": "chapter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHaptər/",
+            "/ˈtʃæptər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃaptə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chương",
+            "type": "noun",
+            "example": {
+                "en": "Yesterday the students finished Chapter 1 so now they'll move on to Chapter 2.",
+                "vi": "Hôm qua, học sinh đã học xong Chương 1 nên bây giờ học sẽ tiếp tục học Chương 2."
+            }
+        },
+        {
+            "content": "章",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cung",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mãi mãi",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "vấn đề",
+            "type": "noun",
+            "example": {
+                "en": "However, the chapters have been completely revised to address the issues of today.",
+                "vi": "Dù vậy, các chương trong sách đã được điều chỉnh hoàn toàn nhằm cập nhật các vấn đề hiện nay."
+            }
+        },
+        {
+            "content": "đến cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đề tài",
+            "type": "noun",
+            "example": {
+                "en": "Nephi introduced it in the very first chapter of the book.",
+                "vi": "Nê Phi giới thiệu đề tài này ngay trong chương đầu tiên của sách."
+            }
+        }
+    ]
+}

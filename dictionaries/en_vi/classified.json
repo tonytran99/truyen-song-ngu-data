@@ -1,0 +1,44 @@
+{
+    "word": "classified",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasəˌfīd/",
+            "/ˈklæsəˌfaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasɪfʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đã được phân loại",
+            "type": "adjective",
+            "example": {
+                "en": "Take the classified documents and burn the others.",
+                "vi": "Hãy lấy tài liệu đã được phân loại và đốt những thứ còn lại"
+            }
+        },
+        {
+            "content": "rao vặt",
+            "type": "",
+            "example": {
+                "en": "I'll pay a classified ad for a tutor.",
+                "vi": "Tôi sẽ đăng rao vặt tìm người dạy kèm."
+            }
+        },
+        {
+            "content": "đã được xếp loại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

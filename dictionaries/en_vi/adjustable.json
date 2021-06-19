@@ -1,0 +1,42 @@
+{
+    "word": "adjustable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈjəstəb(ə)l/",
+            "/əˈdʒəstəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdʒʌstəbl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều chỉnh được",
+            "type": "",
+            "example": {
+                "en": "I think you'll get adjusted to the place, sinus-wise.",
+                "vi": "Tôi nghĩ cô sẽ điều chỉnh được về chỗ ở."
+            }
+        },
+        {
+            "content": "có thể điều chỉnh",
+            "type": "",
+            "example": {
+                "en": "If you have planned to be away, could you make adjustments in order to be present that week?",
+                "vi": "Nếu đã dự tính đi đâu, bạn có thể điều chỉnh để có mặt vào tuần đó không?"
+            }
+        },
+        {
+            "content": "có thể định hướng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

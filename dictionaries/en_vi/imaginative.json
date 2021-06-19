@@ -1,0 +1,63 @@
+{
+    "word": "imaginative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈmaj(ə)nədiv/",
+            "/ɪˈmædʒ(ə)nədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmadʒɪnətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giàu tưởng tượng",
+            "type": "",
+            "example": {
+                "en": "who is doing a very, very imaginative project",
+                "vi": "anh đang làm một dự án giàu tưởng tượng"
+            }
+        },
+        {
+            "content": "có tài hư cấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay tưởng tượng",
+            "type": "",
+            "example": {
+                "en": "No, sorry, I've just got a very visual imagination.",
+                "vi": "Chỉ là tôi là kẻ rất hay tưởng tượng."
+            }
+        },
+        {
+            "content": "không có thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáng tạo",
+            "type": "",
+            "example": {
+                "en": "I'm the guy that won the cash prize for the most imaginative sales campaign.",
+                "vi": "Tôi là người đã trúng thưởng trong chiến dịch bán hàng đầy sáng tạo đó."
+            }
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "I imagine Tom will be a finalist.",
+                "vi": "Tôi tưởng tượng Tom sẽ bào chung kết."
+            }
+        }
+    ]
+}

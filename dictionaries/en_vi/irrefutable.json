@@ -1,0 +1,37 @@
+{
+    "word": "irrefutable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌirəˈfyo͞odəb(ə)l/",
+            "/ˌɪrəˈfjudəb(ə)l/",
+            "/iˈrefyədəb(ə)l/",
+            "/ɪˈrɛfjədəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈrɛfjʊtəb(ə)l/",
+            "/ˌɪrɪˈfjuːtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thể bác được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể chối cãi",
+            "type": "",
+            "example": {
+                "en": "It is an irrefutable fact that mathematics is the language of the universe.",
+                "vi": "Đây là một sự thật không thể chối cãi rằng toán học là ngôn ngữ của vũ trụ."
+            }
+        }
+    ]
+}

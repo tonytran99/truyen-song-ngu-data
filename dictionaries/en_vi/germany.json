@@ -1,0 +1,30 @@
+{
+    "word": "germany",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərmənē/",
+            "/ˈdʒərməni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːməni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đức",
+            "type": "noun",
+            "example": {
+                "en": "She comes from Germany.",
+                "vi": "Cô ta đến từ nước Đức."
+            }
+        }
+    ]
+}

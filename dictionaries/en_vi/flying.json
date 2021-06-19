@@ -1,0 +1,57 @@
+{
+    "word": "flying",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflīiNG/",
+            "/ˈflaɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bay",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "Love must have wings to fly away from love, and to fly back again.",
+                "vi": "Tình yêu phải có cánh để bay khỏi tình yêu, và lại bay trở lại."
+            }
+        },
+        {
+            "content": "chuyến bay",
+            "type": "noun",
+            "example": {
+                "en": "You, I don't know who you are, but your fly's down.",
+                "vi": "Cậu tôi không biết cậu là ai nhưng chuyến bay của cậu kết thúc rồi."
+            }
+        },
+        {
+            "content": "chớp nhoáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mau chóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bay",
+            "type": "",
+            "example": {
+                "en": "That's, imagine those pixels could actually start flying.",
+                "vi": "Đây, hãy tưởng tượng những điểm ảnh đó có thể thực sự bay lên."
+            }
+        }
+    ]
+}

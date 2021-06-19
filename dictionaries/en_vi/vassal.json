@@ -1,0 +1,61 @@
+{
+    "word": "vassal",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvasəl/",
+            "/ˈvæsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvas(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chư hầu",
+            "type": "noun",
+            "example": {
+                "en": "The eight vassals would like to help me to suppress him.",
+                "vi": "Bát lộ chư hầu sẽ cùng giúp ta tiêu diệt nghịch tặc."
+            }
+        },
+        {
+            "content": "bề tôi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chưa hầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ lệ thuộc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lệ thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiên thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong hầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

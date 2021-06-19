@@ -1,0 +1,35 @@
+{
+    "word": "aromatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌerəˈmadik/",
+            "/ˌɛrəˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/arəˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thơm",
+            "type": "adjective",
+            "example": {
+                "en": "And we could make our own aromatic oil.",
+                "vi": "Và chúng ta có thể tự làm dầu thơm cho mình."
+            }
+        },
+        {
+            "content": "hương thơm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

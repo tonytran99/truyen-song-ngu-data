@@ -1,0 +1,45 @@
+{
+    "word": "ambulatory",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈambyələˌtôrē/",
+            "/ˈæmbjələˌtɔri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈambjʊlət(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùng để đi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưu động",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi lại",
+            "type": "",
+            "example": {
+                "en": "You said that he'd be, whatchamacallit, ambulatory by now.",
+                "vi": "Anh nói là đáng lẽ bây giờ ông ấy phải đi lại được cơ mà."
+            }
+        }
+    ]
+}

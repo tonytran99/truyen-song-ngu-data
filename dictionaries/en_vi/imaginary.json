@@ -1,0 +1,64 @@
+{
+    "word": "imaginary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈmajəˌnerē/",
+            "/ɪˈmædʒəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmadʒɪn(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ảo",
+            "type": "adjective",
+            "example": {
+                "en": "This distinction between victim and empowered is imaginary.",
+                "vi": "Việc phân biệt giữa người bị nạn và người được luật pháp chấp nhận là ảo tưởng."
+            }
+        },
+        {
+            "content": "không có thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "Talking to my imaginary, er, friends in the woods.",
+                "vi": "Nói chuyện với thế giới tưởng tượng của tôi, với những người bạn trong rừng."
+            }
+        },
+        {
+            "content": "mang tính tưởng tượng",
+            "type": "adjective",
+            "example": {
+                "en": "It is an imaginary, super-magnified medical device that fits around the optic nerve.",
+                "vi": "Đó là một thiết bị ý tế mang tính tưởng tượng, siêu phóng đại nằm xung quanh khu thần kinh thị giác."
+            }
+        },
+        {
+            "content": "tưởng tưởng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không có thật",
+            "type": "",
+            "example": {
+                "en": "To try to contact an imaginary person would be pointless.",
+                "vi": "Tìm cách liên lạc với một người không có thật là vô ích."
+            }
+        }
+    ]
+}

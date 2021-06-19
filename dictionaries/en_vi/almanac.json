@@ -1,0 +1,55 @@
+{
+    "word": "almanac",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôlməˌnak/",
+            "/ˈɔlməˌnæk/",
+            "/ˈalməˌnak/",
+            "/ˈælməˌnæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːlmənak/",
+            "/ˈɒlmənak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "niên lịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "niên giám",
+            "type": "noun",
+            "example": {
+                "en": "We need your navigational maps and celestial almanacs.",
+                "vi": "Chúng tôi cần bản đồ hàng hải và niên giám của ông."
+            }
+        },
+        {
+            "content": "sách lịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lịch",
+            "type": "noun",
+            "example": {
+                "en": "If you're not a one-woman \" farmer's almanac. \"",
+                "vi": "Nếu mẹ không phải một \" quyển lịch của nông dân."
+            }
+        },
+        {
+            "content": "Almanac",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

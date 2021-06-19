@@ -1,0 +1,31 @@
+{
+    "word": "cochlea",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōklēə/",
+            "/ˈkoʊkliə/",
+            "/ˈkäklēə/",
+            "/ˈkɑkliə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒklɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ốc tai",
+            "type": "",
+            "example": {
+                "en": "where an electrode array is inserted inside the cochlea.",
+                "vi": "nơi mà có một dãy điện cực được gài vào bên trong ốc tai."
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "hoax",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hōks/",
+            "/hoʊks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həʊks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trò chơi khăm",
+            "type": "",
+            "example": {
+                "en": "It's probably just a hoax.",
+                "vi": "Có thể chỉ là một trò chơi khăm."
+            }
+        },
+        {
+            "content": "chơi khăm",
+            "type": "",
+            "example": {
+                "en": "It's probably just a hoax.",
+                "vi": "Có thể chỉ là một trò chơi khăm."
+            }
+        },
+        {
+            "content": "chơi xỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tin vịt",
+            "type": "noun",
+            "example": {
+                "en": "The time has come when you must admit this is a hoax...",
+                "vi": "Thời điểm đến khi anh phải chấp nhận Đây là tin vịt..."
+            }
+        },
+        {
+            "content": "tin vịt báo chí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò chơi xỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò đánh lừa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đánh lừa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

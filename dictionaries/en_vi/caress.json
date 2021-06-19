@@ -1,0 +1,72 @@
+{
+    "word": "caress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈres/",
+            "/kəˈrɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "âu yếm",
+            "type": "verb",
+            "example": {
+                "en": "With a caress I describe things that make me feel alive.",
+                "vi": "Với một sự âu yếm em ý thức được những điều khiến mình tồn tại."
+            }
+        },
+        {
+            "content": "mơn trớn",
+            "type": "verb",
+            "example": {
+                "en": "Then they all caressed me at the same time.",
+                "vi": "Sau đó, họ mơn trớn tôi."
+            }
+        },
+        {
+            "content": "vuốt ve",
+            "type": "",
+            "example": {
+                "en": "Not a caress, but a wave of pain.",
+                "vi": "Không phải là một cái vuốt ve, mà là một làn sóng đau đớn."
+            }
+        },
+        {
+            "content": "nựng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự mơn trớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vuốt ve",
+            "type": "",
+            "example": {
+                "en": "With a caress I describe things that make me feel alive",
+                "vi": "Cùng với sự vuốt ve em diễn tả những thứ khiến anh thấy mình tồn tại"
+            }
+        },
+        {
+            "content": "sự âu yếm",
+            "type": "",
+            "example": {
+                "en": "With a caress I describe things that make me feel alive.",
+                "vi": "Với một sự âu yếm em ý thức được những điều khiến mình tồn tại."
+            }
+        }
+    ]
+}

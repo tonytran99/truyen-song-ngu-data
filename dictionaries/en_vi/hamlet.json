@@ -1,0 +1,60 @@
+{
+    "word": "hamlet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamlət/",
+            "/ˈhæmlət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamlɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xóm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thôn",
+            "type": "noun",
+            "example": {
+                "en": "Then why hide your light under the bushel of tiny hamlets?",
+                "vi": "Thì tại sao dấu ánh sáng dưới cái thùng tại thôn quê nhỏ bé?"
+            }
+        },
+        {
+            "content": "ấp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "xóm nhỏ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làng nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "Once a year, the eyes of the nation turn to this tiny hamlet...",
+                "vi": "Mỗi năm 1 lần, ngôi làng nhỏ này lại khiến cả nước phải chú ý dõi theo để xem công việc của 1 chuyên gia."
+            }
+        },
+        {
+            "content": "hamlet",
+            "type": "",
+            "example": {
+                "en": "Even Shakespeare couldn't see Hamlet three nights in succession.",
+                "vi": "Ngay cả Shakespeare cũng không thể xem Hamlet ba đêm liên tiếp."
+            }
+        }
+    ]
+}

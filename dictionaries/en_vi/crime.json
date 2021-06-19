@@ -1,0 +1,111 @@
+{
+    "word": "crime",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krīm/",
+            "/kraɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tội ác",
+            "type": "noun",
+            "example": {
+                "en": "Everywhere, there is a rise in crime, especially violent crime.",
+                "vi": "Tội ác gia tăng khắp nơi, đặc biệt các tội ác hung bạo."
+            }
+        },
+        {
+            "content": "tội phạm",
+            "type": "",
+            "example": {
+                "en": "The highest crime area in the highest crime precinct.",
+                "vi": "Khu vực tội phạm cao nhất trong các khu vực tội phạm cao nhất."
+            }
+        },
+        {
+            "content": "tội",
+            "type": "noun",
+            "example": {
+                "en": "My father and uncle committed a similar crime.",
+                "vi": "Cha và chú tôi cũng mắc tội tương tự."
+            }
+        },
+        {
+            "content": "tội lỗi",
+            "type": "adjective noun",
+            "example": {
+                "en": "Apparently it's true that the guilty return to the scene of the crime.",
+                "vi": "Hiển nhiên đó là sự thật tội lỗi trở lại viễn cảnh của tội lỗi."
+            }
+        },
+        {
+            "content": "罪犯",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lỗi",
+            "type": "noun",
+            "example": {
+                "en": "You are making yourselves liable for his crime.",
+                "vi": "Các người đang tự làm cho mình liên can tới tội lỗi của hắn đó."
+            }
+        },
+        {
+            "content": "lỗi lầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buộc tội",
+            "type": "",
+            "example": {
+                "en": "That same night He was accused of the crime of blasphemy and condemned to death.",
+                "vi": "Cũng trong đêm đó, Ngài đã bị cáo buộc tội phạm thượng và bị kết án tử hình."
+            }
+        },
+        {
+            "content": "phạm tội",
+            "type": "",
+            "example": {
+                "en": "Crime went down because the people committing the crimes have disappeared.",
+                "vi": "Tội phạm giảm vì những người phạm tội đã biến mất."
+            }
+        },
+        {
+            "content": "xử phạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "罪",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tội ác",
+            "type": "",
+            "example": {
+                "en": "Either crimes against humanity or war crimes.",
+                "vi": "Tội ác chống lại nhân loại, không phải tội ác chiến tranh."
+            }
+        },
+        {
+            "content": "toäi aùc, toäi loãi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

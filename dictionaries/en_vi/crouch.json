@@ -1,0 +1,101 @@
+{
+    "word": "crouch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krouCH/",
+            "/kraʊtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kraʊtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "luồn cúi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "núp",
+            "type": "",
+            "example": {
+                "en": "There are worse things crouching in the shadows than Riario.",
+                "vi": "Có những lúc núp trong bóng tối tệ hơn là Riario."
+            }
+        },
+        {
+            "content": "nép",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "né",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhún",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cúi mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngồi xổm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự cúi mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự luồn cúi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự né",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự núp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu mình lấy đà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cúi xuống",
+            "type": "",
+            "example": {
+                "en": "The little man would crouch in there and his voice would reverberate inside the body.",
+                "vi": "Một cậu bé cúi xuống đây, và giọng nói của nó sẽ được tăng lên trong cấu trúc."
+            }
+        },
+        {
+            "content": "thu mình",
+            "type": "",
+            "example": {
+                "en": "She climbed the woodpile and crouched above the den opening .",
+                "vi": "Nó leo lên đống củi và thu mình lại trên cửa hang ."
+            }
+        }
+    ]
+}

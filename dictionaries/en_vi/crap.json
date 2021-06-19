@@ -1,0 +1,57 @@
+{
+    "word": "crap",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krap/",
+            "/kræp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krap/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cứt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ỉa",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chuyện tào lao",
+            "type": "",
+            "example": {
+                "en": "I'm in no mood for crapping around.",
+                "vi": "Tôi không có tâm trạng để lo chuyện tào lao."
+            }
+        },
+        {
+            "content": "đi tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi ỉa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

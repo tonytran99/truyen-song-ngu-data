@@ -1,0 +1,77 @@
+{
+    "word": "fax",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faks/",
+            "/fæks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "fax",
+            "type": "noun",
+            "example": {
+                "en": "Um, have the police fax over everything they have so far.",
+                "vi": "Um, báo cảnh sát fax mọi thứ họ có đến giờ."
+            }
+        },
+        {
+            "content": "điện thư",
+            "type": "noun",
+            "example": {
+                "en": "No fax number found in your address book",
+                "vi": "Không tìm thấy số điện thư trong sổ địa chỉ của bạn"
+            }
+        },
+        {
+            "content": "bản mô tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản truyền chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản viễn sao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy fax",
+            "type": "",
+            "example": {
+                "en": "I don't think they use fax machines anymore.",
+                "vi": "Tôi không nghĩ là họ còn dùng máy fax nữa đâu."
+            }
+        },
+        {
+            "content": "số fax",
+            "type": "",
+            "example": {
+                "en": "But I do know someone who could get his fax number for you.",
+                "vi": "Nhưng tôi biết có người có thể cho cô số fax của anh ta."
+            }
+        },
+        {
+            "content": "Fax",
+            "type": "",
+            "example": {
+                "en": "Sir, I have a fax message for you.",
+                "vi": "Thưa Ông, có bức Fax cho ông."
+            }
+        }
+    ]
+}

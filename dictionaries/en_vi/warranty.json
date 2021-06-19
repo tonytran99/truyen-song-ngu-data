@@ -1,0 +1,63 @@
+{
+    "word": "warranty",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrən(t)ē/",
+            "/ˈwɔrən(t)i/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒr(ə)nti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bảo đảm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quyền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bảo hiểm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bảo hành",
+            "type": "",
+            "example": {
+                "en": "Read labels , understand warranties and contracts .",
+                "vi": "Hãy xem các nhãn mác , hiểu rõ các cam kết và bảo hành ."
+            }
+        },
+        {
+            "content": "bảo đảm",
+            "type": "verb",
+            "example": {
+                "en": "1 . Guarantees and Warranties",
+                "vi": "1 . Bảo đảm và bảo hành"
+            }
+        },
+        {
+            "content": "sự cho phép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự được phép",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

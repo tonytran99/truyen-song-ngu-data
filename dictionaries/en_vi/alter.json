@@ -1,0 +1,91 @@
+{
+    "word": "alter",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôltər/",
+            "/ˈɔltər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːltə/",
+            "/ˈɒltə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thay đổi",
+            "type": "noun",
+            "example": {
+                "en": "It's going to change the way we manage and alter our emotions.",
+                "vi": "Thay đổi cách chúng ta kiểm soát và thay đổi cảm xúc."
+            }
+        },
+        {
+            "content": "đổi",
+            "type": "verb, noun",
+            "example": {
+                "en": "The stream of information in the brain is thus altered, preventing the brain from functioning normally.",
+                "vi": "Những thông tin trong não bộ bị biến đổi, khiến não không hoạt động bình thường."
+            }
+        },
+        {
+            "content": "biến đổi",
+            "type": "verb, noun",
+            "example": {
+                "en": "The stream of information in the brain is thus altered, preventing the brain from functioning normally.",
+                "vi": "Những thông tin trong não bộ bị biến đổi, khiến não không hoạt động bình thường."
+            }
+        },
+        {
+            "content": "chữa",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cải",
+            "type": "verb",
+            "example": {
+                "en": "He's proposing a suggestion for altering the research method.",
+                "vi": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+            }
+        },
+        {
+            "content": "hiệu chỉnh",
+            "type": "",
+            "example": {
+                "en": "Why would the Bozeman alter course?",
+                "vi": "Tầu Bozeman, tại sao phải hiệu chỉnh lộ trình?"
+            }
+        },
+        {
+            "content": "sửa lại",
+            "type": "",
+            "example": {
+                "en": "The coordinates were altered.",
+                "vi": "Toạ độ đã được sửa lại."
+            }
+        },
+        {
+            "content": "sửa đổi",
+            "type": "noun",
+            "example": {
+                "en": "Many translators alter or omit portions of the Scriptures.",
+                "vi": "Nhiều dịch giả sửa đổi hoặc bỏ bớt những phần trong Kinh-thánh."
+            }
+        },
+        {
+            "content": "biến",
+            "type": "verb noun",
+            "example": {
+                "en": "I made some alterations to Fred's programming which effectively makes me his primary user.",
+                "vi": "Tôi đã thay đổi chương trình của Fred, mà biến tôi thành người dùng chính của cậu ấy."
+            }
+        }
+    ]
+}

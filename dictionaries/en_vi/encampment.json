@@ -1,0 +1,45 @@
+{
+    "word": "encampment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkampmənt/",
+            "/ɪnˈkæmpmənt/",
+            "/enˈkampmənt/",
+            "/ɛnˈkæmpmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkampm(ə)nt/",
+            "/ɛnˈkampm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cắm trại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trại giam",
+            "type": "",
+            "example": {
+                "en": "You spent the winter at his encampment.",
+                "vi": "Anh đã ở cả mùa đông ở trại giam của hắn."
+            }
+        },
+        {
+            "content": "doanh trại",
+            "type": "",
+            "example": {
+                "en": "I'll drive the supply wagon up to the encampment.",
+                "vi": "Tôi sẽ chạy xe hàng tới doanh trại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "guilt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡilt/",
+            "/ɡɪlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều sai quấy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tội",
+            "type": "noun",
+            "example": {
+                "en": "He confessed his guilt.",
+                "vi": "Anh ấy nhận tội lỗi của mình."
+            }
+        },
+        {
+            "content": "tội lỗi",
+            "type": "adjective noun",
+            "example": {
+                "en": "He confessed his guilt.",
+                "vi": "Anh ấy nhận tội lỗi của mình."
+            }
+        },
+        {
+            "content": "sự hối hận",
+            "type": "",
+            "example": {
+                "en": "That anger, that regret, the guilt...",
+                "vi": "Cơn giận đó, sự hối hận đó, cảm giác tội lỗi đó..."
+            }
+        },
+        {
+            "content": "lỗi",
+            "type": "noun",
+            "example": {
+                "en": "He confessed his guilt.",
+                "vi": "Anh ấy nhận tội lỗi của mình."
+            }
+        },
+        {
+            "content": "lỗi lầm",
+            "type": "",
+            "example": {
+                "en": "The guilt that accompanies mistakes can be washed away.",
+                "vi": "Tội lỗi đi kèm với những lỗi lầm có thể được thanh tẩy."
+            }
+        }
+    ]
+}

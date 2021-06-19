@@ -1,0 +1,46 @@
+{
+    "word": "coke",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōk/",
+            "/koʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "than cốc",
+            "type": "",
+            "example": {
+                "en": "At a cafe, drink coffee instead of coke or juice.",
+                "vi": "Tại một quán cà phê, uống cà phê thay vì than cốc hoặc nước trái cây."
+            }
+        },
+        {
+            "content": "coca-cola",
+            "type": "",
+            "example": {
+                "en": "Now Coke has a very clear bottom line —",
+                "vi": "Coca-Cola có một tiêu chí rất rõ ràng."
+            }
+        },
+        {
+            "content": "Than cốc",
+            "type": "",
+            "example": {
+                "en": "At a cafe, drink coffee instead of coke or juice.",
+                "vi": "Tại một quán cà phê, uống cà phê thay vì than cốc hoặc nước trái cây."
+            }
+        }
+    ]
+}

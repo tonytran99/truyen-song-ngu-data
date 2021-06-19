@@ -1,0 +1,63 @@
+{
+    "word": "inhibit",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhibit/",
+            "/ɪnˈhɪbɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈhɪbɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn chế",
+            "type": "",
+            "example": {
+                "en": "The mask frees us of inhibitions.",
+                "vi": "Mặt nạ giúp giải thoát những sự hạn chế."
+            }
+        },
+        {
+            "content": "kiềm chế",
+            "type": "",
+            "example": {
+                "en": "I got you both to drop your fears and inhibitions.",
+                "vi": "Tôi đã khiến hai cô cậu bỏ được nỗi sợ hãi và kiềm chế."
+            }
+        },
+        {
+            "content": "ngăn chặn",
+            "type": "",
+            "example": {
+                "en": "So if we inhibit a particular type of neuron,",
+                "vi": "Vậy nên, nếu ngăn chặn một loại tế bào thần kinh cụ thể"
+            }
+        },
+        {
+            "content": "ngăn cấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ức chế",
+            "type": "",
+            "example": {
+                "en": "One was a condition called low latent inhibition.",
+                "vi": "Một trong đó gọi là \" chậm ức chế thần kinh \"."
+            }
+        }
+    ]
+}

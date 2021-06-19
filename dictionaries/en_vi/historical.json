@@ -1,0 +1,35 @@
+{
+    "word": "historical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiˈstôrək(ə)l/",
+            "/hɪˈstɔrək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈstɒrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lịch sử",
+            "type": "adjective",
+            "example": {
+                "en": "I like to carry out historical research.",
+                "vi": "Tôi thích nghiên cứu lịch sử."
+            }
+        },
+        {
+            "content": "thuộc về sử học",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

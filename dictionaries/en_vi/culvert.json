@@ -1,0 +1,39 @@
+{
+    "word": "culvert",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəlvərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌlvət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cống",
+            "type": "noun",
+            "example": {
+                "en": "The creek had been culverted under the parking lot.",
+                "vi": "Nhánh sông được xây cống bên dưới bãi đỗ xe."
+            }
+        },
+        {
+            "content": "cống nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống dây điện ngầm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

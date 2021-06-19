@@ -1,0 +1,43 @@
+{
+    "word": "extol",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈstōl/",
+            "/ɪkˈstoʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstəʊl/",
+            "/ɛkˈstəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ca tụng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tán dương",
+            "type": "",
+            "example": {
+                "en": "People extol a difference only because it's theirs.",
+                "vi": "Người ta tán dương sự khác biệt bởi đó là khác biệt của họ."
+            }
+        },
+        {
+            "content": "ca ngợi",
+            "type": "verb",
+            "example": {
+                "en": "That is the mortal your father so extolls, is it not?",
+                "vi": "Đó là gã người phàm mà cha rất ca ngợi đấy à?"
+            }
+        }
+    ]
+}

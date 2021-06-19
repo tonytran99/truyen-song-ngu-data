@@ -1,0 +1,45 @@
+{
+    "word": "flail",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flāl/",
+            "/fleɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fleɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quật",
+            "type": "verb",
+            "example": {
+                "en": "Fifteen or 20 nightsticks could be seen through the gas, flailing at the heads of the marchers.",
+                "vi": "Có thể thấy 15 hay 20 chiếc dùi cui qua làn khói xám mù mịt đang quật lên đầu những người tham gia tuần hành."
+            }
+        },
+        {
+            "content": "vụt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái néo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái đập lúa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "word": "haunt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hônt/",
+            "/hɔnt/",
+            "/hänt/",
+            "/hɑnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɔːnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ám ảnh",
+            "type": "verb",
+            "example": {
+                "en": "Do I haunt your hours the way you haunted mine?",
+                "vi": "Liệu anh có ám ảnh em như em đã từng ám ảnh anh?"
+            }
+        },
+        {
+            "content": "hay lui tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năng lui tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi hay lai vãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi thường lui tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sào huyệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thường lai vãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thường lui tới",
+            "type": "",
+            "example": {
+                "en": "At his usual haunt that just happens to be owned by Yuri Mikhalev?",
+                "vi": "Chỗ cậu ta thường lui tới chẳng may lại là chỗ của Yuri Mikhalev sao?"
+            }
+        },
+        {
+            "content": "thường lảng vảng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

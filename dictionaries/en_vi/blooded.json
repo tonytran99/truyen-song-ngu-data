@@ -1,0 +1,34 @@
+{
+    "word": "blooded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblədəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblʌdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dòng giống tốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuần chủng",
+            "type": "",
+            "example": {
+                "en": "Why, there isn't a wizard alive today that's not half-blood or less.",
+                "vi": "Đã là phù thủy thì không có vụ lai hay thuần chủng gì cả."
+            }
+        }
+    ]
+}

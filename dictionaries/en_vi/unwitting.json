@@ -1,0 +1,42 @@
+{
+    "word": "unwitting",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈwidiNG/",
+            "/ˌənˈwɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈwɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chủ tâm",
+            "type": "noun",
+            "example": {
+                "en": "Though I gather she was an unwitting participant.",
+                "vi": "Dù tôi hiểu ra là nó không chủ tâm làm thế."
+            }
+        },
+        {
+            "content": "không có ý thức",
+            "type": "noun",
+            "example": {
+                "en": "Unwitting, involuntary, but a perpetrator all the same.",
+                "vi": "Không có ý thức, không tự nguyện, nhưng thủ phạm tất cả đều như nhau."
+            }
+        },
+        {
+            "content": "không cố ý",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

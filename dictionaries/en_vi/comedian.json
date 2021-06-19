@@ -1,0 +1,52 @@
+{
+    "word": "comedian",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmēdēən/",
+            "/kəˈmidiən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmiːdɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "diễn viên kịch vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đóng kịch vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà soạn kịch vui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nghệ sĩ hài",
+            "type": "",
+            "example": {
+                "en": "Not even the out-of-work TV comedians!",
+                "vi": "Ngay cả một nghệ sĩ hài TV thất nghiệp cũng không!"
+            }
+        },
+        {
+            "content": "diễn viên hài",
+            "type": "",
+            "example": {
+                "en": "Have you always been a comedian?",
+                "vi": "Bạn làm diễn viên hài suốt à?"
+            }
+        }
+    ]
+}

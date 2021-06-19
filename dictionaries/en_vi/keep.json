@@ -1,0 +1,557 @@
+{
+    "word": "keep",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kēp/",
+            "/kip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kiːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giữ",
+            "type": "verb",
+            "example": {
+                "en": "Tom doubts if Mary will keep her promise.",
+                "vi": "Tom nghi ngờ liệu Mary sẽ giữ lời hứa."
+            }
+        },
+        {
+            "content": "giữ lại",
+            "type": "",
+            "example": {
+                "en": "You will talk with this man as much as is necessary to keep the money.",
+                "vi": "Anh phải nói với người này nhiều đủ để giữ lại số tiền đó."
+            }
+        },
+        {
+            "content": "cứ",
+            "type": "verb",
+            "example": {
+                "en": "Keep walking straight ahead.",
+                "vi": "Cứ đi thẳng hoài."
+            }
+        },
+        {
+            "content": "để",
+            "type": "verb",
+            "example": {
+                "en": "I'll keep an eye on her.",
+                "vi": "Tôi sẽ để mắt đến cô ấy."
+            }
+        },
+        {
+            "content": "theo",
+            "type": "verb adposition",
+            "example": {
+                "en": "You keep track of all of her movements.",
+                "vi": "Cậu tiếp tục theo dõi mọi động thái của cô ấy."
+            }
+        },
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {
+                "en": "What keeps you up so late?",
+                "vi": "Bạn làm gì mà thức khuya quá vậy?"
+            }
+        },
+        {
+            "content": "lưu",
+            "type": "verb",
+            "example": {
+                "en": "Let us consider some key factors to keep in mind.",
+                "vi": "Hãy xem xét một số yếu tố mà chúng ta cần lưu ý."
+            }
+        },
+        {
+            "content": "cầm",
+            "type": "verb",
+            "example": {
+                "en": "Make sure you keep your magic crayons handy, your Winky Dink crayons",
+                "vi": "Hãy chắc chắn các cháu đang cầm các cây sáp màu ma thuật, sáp màu Winky Dink"
+            }
+        },
+        {
+            "content": "chăm sóc",
+            "type": "verb noun",
+            "example": {
+                "en": "No, you're the man we gave her to to look after, to keep safe.",
+                "vi": "Không, ông chỉ là người chăm sóc và giữ an toàn cho nó."
+            }
+        },
+        {
+            "content": "giữ gìn",
+            "type": "",
+            "example": {
+                "en": "If you believe in peace, then let us keep it.",
+                "vi": "Nếu các người tin vào hòa bình, hãy để bọn ta giữ gìn nó."
+            }
+        },
+        {
+            "content": "tuân theo",
+            "type": "",
+            "example": {
+                "en": "We men of the North are right good hands at keeping people lawful.",
+                "vi": "Dân phương Bắc bọn ta rất giỏi việc giữ người dân tuân theo luật."
+            }
+        },
+        {
+            "content": "vẫn cứ",
+            "type": "",
+            "example": {
+                "en": "I don't know why I keep falling for the same old trick.",
+                "vi": "Không biết tại sao bố vẫn cứ mắc lừa cái mánh cũ đó."
+            }
+        },
+        {
+            "content": "gìn",
+            "type": "verb",
+            "example": {
+                "en": "If you believe in peace, then let us keep it.",
+                "vi": "Nếu các người tin vào hòa bình, hãy để bọn ta giữ gìn nó."
+            }
+        },
+        {
+            "content": "giấu",
+            "type": "verb",
+            "example": {
+                "en": "I want you to know everything I've been keeping from you.",
+                "vi": "Anh muốn em biết toàn bộ những gì anh đã giấu em."
+            }
+        },
+        {
+            "content": "nuôi",
+            "type": "",
+            "example": {
+                "en": "Well, I don't think you can keep a fish in your room.",
+                "vi": "Tôi không nghĩ anh có thể nuôi cá trong phòng."
+            }
+        },
+        {
+            "content": "níu kéo",
+            "type": "",
+            "example": {
+                "en": "You'll do anything to keep clinging to that doomed brother of yours.",
+                "vi": "Mày sẽ làm mọi thứ đế níu kéo mãi thằng anh bất hạnh của mày."
+            }
+        },
+        {
+            "content": "ở",
+            "type": "verb adposition",
+            "example": {
+                "en": "Keep your hair on!",
+                "vi": "Giữ tóc của bạn ở đó!"
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "Only you can keep me from returning to my heathen ways.",
+                "vi": "Chỉ có cậu mới giúp tôi đi đúng con đường."
+            }
+        },
+        {
+            "content": "nhịn",
+            "type": "",
+            "example": {
+                "en": "I'm so sorry, but I couldn't keep it together!",
+                "vi": "Tôi xin lỗi, nhưng không thể nhịn cười nổi!"
+            }
+        },
+        {
+            "content": "bao",
+            "type": "noun",
+            "example": {
+                "en": "How long are you gonna keep this up?",
+                "vi": "Anh còn như thế này đến bao giờ?"
+            }
+        },
+        {
+            "content": "tháp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gác",
+            "type": "verb",
+            "example": {
+                "en": "On many of these clear nights, our dog, Judge, would put his head on my lap and keep me company.",
+                "vi": "Nhiều đêm trời trong, chú khuyển Judge gác đầu vào lòng tôi và cùng tôi bầu bạn."
+            }
+        },
+        {
+            "content": "ủ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chứa",
+            "type": "verb",
+            "example": {
+                "en": "like brothel-keeping or soliciting on the street, are banned.",
+                "vi": "như chứa mại dâm hay môi giới bán dâm ngoài đường đều bị cấm."
+            }
+        },
+        {
+            "content": "biên chép",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bám lấy",
+            "type": "",
+            "example": {
+                "en": "I think it's clinging to those feelings that is keeping me a little kid.",
+                "vi": "Việc bám lấy cảm xúc đó chứng tỏ tôi vẫn còn là một đứa trẻ."
+            }
+        },
+        {
+            "content": "bảo quản",
+            "type": "",
+            "example": {
+                "en": "I'll expect you to keep it in good condition.",
+                "vi": "Tôi hy vọng là cô bảo quản tốt căn nhà này."
+            }
+        },
+        {
+            "content": "bảo vệ",
+            "type": "verb",
+            "example": {
+                "en": "Keeping her in the dark keeps her safe.",
+                "vi": "Tiếp tục dấu con bé để bảo vệ nó an toàn."
+            }
+        },
+        {
+            "content": "bắt làm bền bỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt làm kiên trì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt phải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "canh phòng",
+            "type": "",
+            "example": {
+                "en": "I appreciate your concern, Jack, but I'll be keeping you company all the same.",
+                "vi": "Tôi đánh giá cao việc của anh, Jack, nhưng tôi sẽ canh phòng anh đi cùng cũng thế thôi."
+            }
+        },
+        {
+            "content": "cái để nuôi nấng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái để nuôi thân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể để đấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể đợi đấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cứ theo",
+            "type": "",
+            "example": {
+                "en": "We're gonna all get sore throats if we keep it up.",
+                "vi": "Chúng ta cứ theo nó thì chỉ tổ đau họng thôi."
+            }
+        },
+        {
+            "content": "cứ để cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giam giữ",
+            "type": "",
+            "example": {
+                "en": "It would be unethical and illegal to keep you confined.",
+                "vi": "Sẽ thật trái đạo đức và pháp luật nếu cứ giam giữ cô."
+            }
+        },
+        {
+            "content": "giữ cho khỏi",
+            "type": "",
+            "example": {
+                "en": "How, then, can we get the spiritual strength needed to keep from tiring out and quitting?",
+                "vi": "Thế thì làm sao chúng ta có được sức lực cần thiết về thiêng liêng để giữ cho khỏi kiệt sức và bỏ cuộc?"
+            }
+        },
+        {
+            "content": "giữ lấy",
+            "type": "",
+            "example": {
+                "en": "Anyone who has made a promise should keep it.",
+                "vi": "Bất kỳ ai đã hứa thì phải giữ lấy lời."
+            }
+        },
+        {
+            "content": "giữ riêng",
+            "type": "",
+            "example": {
+                "en": "Apple still keeps its Mac and iOS realms separate .",
+                "vi": "Apple vẫn giữ riêng hai mảng Mac và iOS ."
+            }
+        },
+        {
+            "content": "giữ được",
+            "type": "",
+            "example": {
+                "en": "It's very important to keep your head if there's an emergency.",
+                "vi": "Giữ được bình tĩnh khi có chuyện khẩn cấp là rất quan trọng."
+            }
+        },
+        {
+            "content": "giữ đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rời",
+            "type": "",
+            "example": {
+                "en": "This is you guys keeping an eye on me where I can't leave.",
+                "vi": "Đây là cách mấy người theo dõi nơi tôi không rời đi được."
+            }
+        },
+        {
+            "content": "không rời xa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn lại",
+            "type": "",
+            "example": {
+                "en": "No, he's not the one they're trying to keep out.",
+                "vi": "Không, ông ta không phải là thứ mà họ muốn ngăn lại,"
+            }
+        },
+        {
+            "content": "người giữ",
+            "type": "",
+            "example": {
+                "en": "And they still think that I'm the man that can keep them safe.",
+                "vi": "Và họ vẫn nghĩ rằng tôi chính là người giữ cho họ được an toàn."
+            }
+        },
+        {
+            "content": "nhà giam",
+            "type": "",
+            "example": {
+                "en": "There's been a riot in the south keep.",
+                "vi": "Có một cuộc nổi loạn ở nhà giam phía nam."
+            }
+        },
+        {
+            "content": "nhà tù",
+            "type": "",
+            "example": {
+                "en": "A prison is there to keep people in.",
+                "vi": "Còn nhà tù là để giam giữ người ở bên trong."
+            }
+        },
+        {
+            "content": "nhịn tránh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nuôi nấng",
+            "type": "",
+            "example": {
+                "en": "keeping mothers healthy to raise them.",
+                "vi": "giữ cho những người mẹ khỏe mạnh để nuôi nấng chúng"
+            }
+        },
+        {
+            "content": "pháo đài",
+            "type": "noun",
+            "example": {
+                "en": "There's not a fortress in the world that could keep us out.",
+                "vi": "Không pháo đài nào trên thế giới này ngăn được chúng tôi."
+            }
+        },
+        {
+            "content": "phù hộ",
+            "type": "",
+            "example": {
+                "en": "May the gods keep you.",
+                "vi": "Có lẽ thần linh phù hộ các bạn."
+            }
+        },
+        {
+            "content": "quản lý",
+            "type": "verb",
+            "example": {
+                "en": "The prison authorities were trying to keep the hand from getting out of the jail.",
+                "vi": "Ban quản lý nhà tù ngăn không cho cái tay được đưa ra ngoài."
+            }
+        },
+        {
+            "content": "rời xa",
+            "type": "",
+            "example": {
+                "en": "We've got to keep them away from the locomotive.",
+                "vi": "Chúng ta đã nhử chúng rời xa khỏi đầu máy."
+            }
+        },
+        {
+            "content": "sự nuôi nấng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nuôi thân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thi hành",
+            "type": "",
+            "example": {
+                "en": "Walk in my statutes, and keep my judicial decisions, and carry them out.",
+                "vi": "Hãy bước theo luật lệ ta, tuân giữ các phán quyết ta, và thi hành chúng."
+            }
+        },
+        {
+            "content": "thành luỹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp tục",
+            "type": "",
+            "example": {
+                "en": "But he was determined to keep trying, to keep growing.",
+                "vi": "Nhưng ông cương quyết tiếp tục cố gắng, tiếp tục tiến bộ."
+            }
+        },
+        {
+            "content": "tránh xa",
+            "type": "",
+            "example": {
+                "en": "Keep away from that.",
+                "vi": "Tránh xa chỗ đó ra."
+            }
+        },
+        {
+            "content": "trông nom",
+            "type": "",
+            "example": {
+                "en": "But to us he gives the keeping",
+                "vi": "Nhưng chúng ta phải trông nom"
+            }
+        },
+        {
+            "content": "trấn giữ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tàng trữ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "y theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để dành",
+            "type": "",
+            "example": {
+                "en": "In keeping the Sabbath holy, we reserve one day in seven as His.",
+                "vi": "Trong việc giữ ngày Sa Bát được thánh, chúng ta để dành ra một ngày trong bảy ngày làm ngày của Ngài."
+            }
+        },
+        {
+            "content": "để dành được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để riêng ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở lỳ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trong tình trạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "duy trì",
+            "type": "noun",
+            "example": {
+                "en": "We need to eat to keep on living.",
+                "vi": "Chúng ta cần ăn để duy trì sự sống."
+            }
+        },
+        {
+            "content": "dự trữ",
+            "type": "verb noun",
+            "example": {
+                "en": "Do you keep a sufficient supply of current magazines on hand, and are they in good condition?",
+                "vi": "Bạn có dự trữ đầy đủ số tạp chí hiện hành còn mới tinh khôi không?"
+            }
+        },
+        {
+            "content": "giöõ laïi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gìn giữ",
+            "type": "",
+            "example": {
+                "en": "Thus, continue to train your conscience and to keep a good conscience.",
+                "vi": "Vì thế, hãy tiếp tục rèn luyện và gìn giữ lương tâm tốt."
+            }
+        }
+    ]
+}

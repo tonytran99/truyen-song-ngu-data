@@ -1,0 +1,45 @@
+{
+    "word": "courageously",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrājəslē/",
+            "/kəˈreɪdʒəsli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈreɪdʒəsli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "can đảm",
+            "type": "",
+            "example": {
+                "en": "I think that took a lot of courage, right?",
+                "vi": "Em nghĩ cần có rất nhiều can đảm, phải không?"
+            }
+        },
+        {
+            "content": "dũng cảm",
+            "type": "adjective",
+            "example": {
+                "en": "I'm going to pause there. I'm going to ask you for your courage.",
+                "vi": "Tôi sẽ dừng lại tại đây. Tôi sẽ đòi hỏi ở bạn sự dũng cảm."
+            }
+        },
+        {
+            "content": "một cách can đảm",
+            "type": "",
+            "example": {
+                "en": "But when needed, it should be given courageously.",
+                "vi": "Nhưng khi cần thì phải khuyên bảo một cách can đảm."
+            }
+        }
+    ]
+}

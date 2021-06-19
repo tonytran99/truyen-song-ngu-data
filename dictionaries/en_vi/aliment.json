@@ -1,0 +1,47 @@
+{
+    "word": "aliment",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaləmənt/",
+            "/ˈæləmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồ ăn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cho ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấp dưỡng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nuôi dưỡng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cấp dưỡng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

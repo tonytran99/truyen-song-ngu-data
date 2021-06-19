@@ -1,0 +1,71 @@
+{
+    "word": "contradictory",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkäntrəˈdikt(ə)rē/",
+            "/ˌkɑntrəˈdɪkt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒntrəˈdɪkt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mâu thuẫn",
+            "type": "adjective",
+            "example": {
+                "en": "Why do these texts appear to be contradictory?",
+                "vi": "Tại sao các đoạn Kinh-thánh này có vẻ là mâu thuẫn với nhau?"
+            }
+        },
+        {
+            "content": "hay cãi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay lý sự cùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời cãi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói trái lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mâu thuẫn",
+            "type": "",
+            "example": {
+                "en": "We have contradictory sonar readings.",
+                "vi": "Có sự mâu thuẫn trong việc đọc sóng siêu âm."
+            }
+        },
+        {
+            "content": "sự phủ định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái ngược",
+            "type": "adjective",
+            "example": {
+                "en": "However, they have come up with innumerable contradictory opinions.",
+                "vi": "Tuy nhiên, họ đi đến nhiều ý kiến trái ngược nhau về vị trí của khu vườn."
+            }
+        }
+    ]
+}

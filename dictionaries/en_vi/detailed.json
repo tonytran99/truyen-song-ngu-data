@@ -1,0 +1,66 @@
+{
+    "word": "detailed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtāld/",
+            "/dəˈteɪld/",
+            "/ˈdēˌtāld/",
+            "/ˈdiˌteɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiːteɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tỉ mỉ",
+            "type": "adjective",
+            "example": {
+                "en": "It foretold in detail events that occurred hundreds of years after it was written",
+                "vi": "Sách tiên tri tỉ mỉ những biến cố sẽ xảy ra hàng trăm năm sau"
+            }
+        },
+        {
+            "content": "cặn kẽ",
+            "type": "adjective",
+            "example": {
+                "en": "My friends had certainly carried out detailed research.",
+                "vi": "Các bạn của tôi chắc chắn đã thực hiện cuộc nghiên cứu cặn kẽ."
+            }
+        },
+        {
+            "content": "chi tiết",
+            "type": "adjective",
+            "example": {
+                "en": "The boy decided to observe and record honeybees in detail.",
+                "vi": "Cậu bé quyết định quan sát và ghi nhận các con ong mật chi tiết."
+            }
+        },
+        {
+            "content": "nhiều chi tiết",
+            "type": "adjective",
+            "example": {
+                "en": "A lot of details to work out, totally doable.",
+                "vi": "Rất nhiều chi tiết cần giải quyết, nhưng có thể xử lý hoàn toàn."
+            }
+        },
+        {
+            "content": "được làm chi tiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chi tieát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

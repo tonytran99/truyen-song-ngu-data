@@ -1,0 +1,74 @@
+{
+    "word": "illiterate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(l)ˈlidərət/",
+            "/ɪ(l)ˈlɪdərət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɪt(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mù chữ",
+            "type": "adjective",
+            "example": {
+                "en": "Most of the children there have parents who are illiterate.",
+                "vi": "Phần lớn những đứa trẻ này có cha mẹ mù chữ."
+            }
+        },
+        {
+            "content": "thất học",
+            "type": "adjective",
+            "example": {
+                "en": "He's illiterate, and he communicates with voice messages.",
+                "vi": "Anh ấy thất học, và anh ấy giao tiếp với tin nhắn thoại."
+            }
+        },
+        {
+            "content": "dốt nát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốt đặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hiểu biết gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dốt đặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người mù chữ",
+            "type": "",
+            "example": {
+                "en": "Icons were originally a kind of pictorial Bibles for the illiterate.",
+                "vi": "Biểu tượng vốn là. Kinh thánh bằng hình cho người mù chữ."
+            }
+        },
+        {
+            "content": "người thất học",
+            "type": "",
+            "example": {
+                "en": "4:13—Were Peter and John illiterate or uneducated?",
+                "vi": "4:13—Có phải Phi-e-rơ và Giăng là những người thất học không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "word": "flat",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flat/",
+            "/flæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phẳng",
+            "type": "adjective",
+            "example": {
+                "en": "It was believed that the earth was flat.",
+                "vi": "Trái đất từng được tin rằng nó là một mặt phẳng."
+            }
+        },
+        {
+            "content": "bằng",
+            "type": "adjective",
+            "example": {
+                "en": "I mean I've rarely seen lines so flat.",
+                "vi": "Tôi muốn nói rằng tôi hiếm khi nào thấy đường thẳng nào bằng phẳng như vậy."
+            }
+        },
+        {
+            "content": "căn hộ",
+            "type": "noun",
+            "example": {
+                "en": "The owner of the flat speaks excellent English.",
+                "vi": "Ông chủ căn hộ nói tiêng anh giỏi."
+            }
+        },
+        {
+            "content": "bẹt",
+            "type": "adjective",
+            "example": {
+                "en": "And I looked at it beneath the microscope. And some of it was flat.",
+                "vi": "Tôi nhìn lại nó ở dưới lớp hiển vi. Và một vài chỗ hơi phẳng bẹt"
+            }
+        },
+        {
+            "content": "bẹp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "dấu giáng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tẹt",
+            "type": "adjective",
+            "example": {
+                "en": "The same furs, as it happens, that Flat-Nose Mike tried to hide from us.",
+                "vi": "Chính số lông mà tình cờ, gã Mike Mũi Tẹt đó cố giấu chúng tôi."
+            }
+        },
+        {
+            "content": "thẳng thừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẳng",
+            "type": "adjective",
+            "example": {
+                "en": "I mean I've rarely seen lines so flat.",
+                "vi": "Tôi muốn nói rằng tôi hiếm khi nào thấy đường thẳng nào bằng phẳng như vậy."
+            }
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {
+                "en": "Excuse me, can you give me a B-flat?",
+                "vi": "Xin lỗi, đánh cho em nốt Si giáng được không?"
+            }
+        },
+        {
+            "content": "bằng phẳng",
+            "type": "adjective",
+            "example": {
+                "en": "I mean I've rarely seen lines so flat.",
+                "vi": "Tôi muốn nói rằng tôi hiếm khi nào thấy đường thẳng nào bằng phẳng như vậy."
+            }
+        },
+        {
+            "content": "dứt khoát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "Above that, we get an absolutely flat line.",
+                "vi": "Và trên mức đó, chúng ta có một đường thằng hoàn toàn."
+            }
+        },
+        {
+            "content": "sóng soài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sóng sượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dẹt",
+            "type": "",
+            "example": {
+                "en": "They were green, with flat heads.",
+                "vi": "Họ có thân hình màu xanh lá, với những cái đầu dẹt."
+            }
+        },
+        {
+            "content": "xẹp",
+            "type": "adjective",
+            "example": {
+                "en": "Such a tire needs to be repaired before it gets worse or goes flat.",
+                "vi": "Bánh xe cần phải được sửa chữa trước khi nó bị xẹp hoặc hỏng nặng."
+            }
+        },
+        {
+            "content": "đồng",
+            "type": "noun",
+            "example": {
+                "en": "The Rennes contract and bills are at the flat.",
+                "vi": "Hợp đồng và hóa đơn của Rennes ở nhà."
+            }
+        },
+        {
+            "content": "lép",
+            "type": "adjective",
+            "example": {
+                "en": "You would have been flat as a pancake, you squishy piece of squish!",
+                "vi": "Mày suýt nữa dẹp lép như bánh tráng rồi, đồ trơn như lươn!"
+            }
+        },
+        {
+            "content": "dẹp lép",
+            "type": "adjective",
+            "example": {
+                "en": "You would have been flat as a pancake, you squishy piece of squish!",
+                "vi": "Mày suýt nữa dẹp lép như bánh tráng rồi, đồ trơn như lươn!"
+            }
+        },
+        {
+            "content": "mảnh",
+            "type": "adjective",
+            "example": {
+                "en": "Moses is so angry that he throws down the two flat stones with the laws on them, and they break into many, many pieces.",
+                "vi": "Môi-se giận đến nỗi ông ném hai bảng đá xuống trước mặt họ, bể thành nhiều mảnh vụn."
+            }
+        },
+        {
+            "content": "mỏng",
+            "type": "adjective",
+            "example": {
+                "en": "Airbag designers also have the problem of getting flat sheets into a small space.",
+                "vi": "Những người thiết kế dù bay cũng gặp phải vấn đề làm sao để những tấm dù lớn, mỏng thu nhỏ lại."
+            }
+        },
+        {
+            "content": "nhẵn",
+            "type": "adjective",
+            "example": {
+                "en": "You got anything with a flat front?",
+                "vi": "Anh có thứ gì có mặt trước trơn nhẵn không?"
+            }
+        },
+        {
+            "content": "nông",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đất bằng phẳng",
+            "type": "",
+            "example": {
+                "en": "In ancient times humans in general believed that the earth was flat.",
+                "vi": "Vào thời xưa, người ta nói chung đều tin trái đất bằng phẳng."
+            }
+        },
+        {
+            "content": "nhạt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "giẹp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lòng",
+            "type": "noun",
+            "example": {
+                "en": "She had Injun paint on her belly, on the flat of her hands and the soles of her feet.",
+                "vi": "Nó có hình vẽ da đỏ trên bụng, trong lòng bàn tay và trên bàn chân."
+            }
+        },
+        {
+            "content": "ngăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gian",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tầng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhãn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng",
+            "type": "adjective conjunction verb noun",
+            "example": {}
+        },
+        {
+            "content": "buồn nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bải hoải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "căn buồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "căn phòng",
+            "type": "noun",
+            "example": {
+                "en": "Is it like the rest of the flat?",
+                "vi": "Nó có như căn phòng này không?"
+            }
+        },
+        {
+            "content": "dãy phòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giày đề bằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giẹp lép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoàn toàn thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộp nông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lên xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiết xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lốp bẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lốp xì hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miền đất phẳng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miền đất thấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miền đầm lầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt phẳng",
+            "type": "",
+            "example": {
+                "en": "It was believed that the earth was flat.",
+                "vi": "Trái đất từng được tin rằng nó là một mặt phẳng."
+            }
+        },
+        {
+            "content": "rổ nông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền đáy bằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tẻ nhạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô duyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xì hơi",
+            "type": "",
+            "example": {
+                "en": "Sadly, he ended up in an unfamiliar area with a flat tire.",
+                "vi": "Buồn thay, anh ta dừng ở khu vực lạ với 1 bánh xe xì hơi."
+            }
+        },
+        {
+            "content": "đứng im",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ơclit xạ ảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ế ẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất",
+            "type": "noun",
+            "example": {
+                "en": "But it wasn’t flat tires or the bus—it was a powerful earthquake!",
+                "vi": "Nhưng đó không phải là bánh xe bị nổ lốp hoặc xe buýt—mà là một trận động đất mạnh!"
+            }
+        },
+        {
+            "content": "đều đều",
+            "type": "",
+            "example": {
+                "en": "Sometimes, all you could hear were the flat, hard, packing sounds over the yelling.",
+                "vi": "Thỉnh thoảng, những gì bạn nghe được chỉ là, âm thanh đều đều nặng nề ngoài tiếng la hét."
+            }
+        }
+    ]
+}

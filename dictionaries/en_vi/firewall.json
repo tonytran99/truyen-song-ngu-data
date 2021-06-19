@@ -1,0 +1,43 @@
+{
+    "word": "firewall",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌwôl/",
+            "/ˈfaɪ(ə)rˌwɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəwɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tường lửa",
+            "type": "noun",
+            "example": {
+                "en": "Everhold may make a quality safe but their firewall leaves something to be desired.",
+                "vi": "Everhold có thể làm ra két sắt chất lượng, nhưng tường lửa lại có lổ hổng."
+            }
+        },
+        {
+            "content": "Tường lửa",
+            "type": "",
+            "example": {
+                "en": "Well, the firewalls on this building's server are military grade.",
+                "vi": "Tường lửa thuộc thiết kế bên quân sự."
+            }
+        },
+        {
+            "content": "Tường lửa (xây dựng)",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

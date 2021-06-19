@@ -1,0 +1,253 @@
+{
+    "word": "beat",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēt/",
+            "/bit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh",
+            "type": "verb, noun",
+            "example": {
+                "en": "Parents who beat their children really make my blood boil.",
+                "vi": "Cha mẹ mà đánh con cái làm tôi giận sôi máu."
+            }
+        },
+        {
+            "content": "đập",
+            "type": "verb, noun",
+            "example": {
+                "en": "I recall seeing the pastor beat students so badly that they were covered in blood.",
+                "vi": "Tôi từng thấy ông ấy đánh đập học sinh tàn nhẫn đến nỗi người đẫm đầy máu."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "Con, look, this is the only way we can beat him.",
+                "vi": "Anh Con, coi này, đây là cách duy nhất chúng ta có thể thắng hắn."
+            }
+        },
+        {
+            "content": "nện",
+            "type": "noun",
+            "example": {
+                "en": "You could say in boxing, to be the best, you've got to get beat up by the best.",
+                "vi": "Có thể nói trong môn boxing, để vô địch, bạn phải bị nhà vô địch nện."
+            }
+        },
+        {
+            "content": "đánh đập",
+            "type": "",
+            "example": {
+                "en": "You trust him after that beating you laid on?",
+                "vi": "Anh tin cậu ta sau khi bị anh đánh đập như vậy à?"
+            }
+        },
+        {
+            "content": "phách",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đánh bại",
+            "type": "verb",
+            "example": {
+                "en": "I beat him once, I beat him twice.",
+                "vi": "Tôi đánh bại anh ta một lần, hai lần."
+            }
+        },
+        {
+            "content": "đấm",
+            "type": "",
+            "example": {
+                "en": "I would have beat that guy's head in.",
+                "vi": "Anh sẽ cho hắn quả đấm vào đầu."
+            }
+        },
+        {
+            "content": "vượt",
+            "type": "",
+            "example": {
+                "en": "I felt like maybe I could beat this.",
+                "vi": "Tôi cảm thấy như, có thể tôi sẽ vượt qua được chuyện này."
+            }
+        },
+        {
+            "content": "gõ",
+            "type": "verb",
+            "example": {
+                "en": "Every beat is a one, every rest is a zero.",
+                "vi": "Mỗi lần gõ là số 1, mỗi lần nghỉ là số 0."
+            }
+        },
+        {
+            "content": "dần",
+            "type": "verb",
+            "example": {
+                "en": "I beat your girlfriend up.",
+                "vi": "Tao đã dần bạn gái mày một trận."
+            }
+        },
+        {
+            "content": "vỗ",
+            "type": "",
+            "example": {
+                "en": "If you was to stop their wings from beating, it would be dead in less than 10 seconds.",
+                "vi": "Nếu ông làm cánh chúng ngừng vỗ, chúng sẽ chết trong vòng chưa tới 10 giây."
+            }
+        },
+        {
+            "content": "nhịp đập",
+            "type": "noun",
+            "example": {
+                "en": "You see, long before I evolved, mine beat as a werewolf.",
+                "vi": "Trước khi tôi chưa chuyển hóa, nhịp đập tim tôi là của một người sói."
+            }
+        },
+        {
+            "content": "nẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh tơi",
+            "type": "",
+            "example": {
+                "en": "Only the timely intervention of the police saved us from a severe beating.",
+                "vi": "Chỉ nhờ cảnh sát can thiệp đúng lúc, chúng tôi mới thoát khỏi một trận đánh tơi bời."
+            }
+        },
+        {
+            "content": "khua",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phễn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "choảng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quỵ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gò",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "cuộc săn đuổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái trội hơn hẳn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái vượt hơn hẳn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khu vực săn đuổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khu vực đi tuần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thất nghiệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nản chí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi tuần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành hình",
+            "type": "",
+            "example": {
+                "en": "Let's beat them into shape.",
+                "vi": "Thế thì đập cho thành hình thôi."
+            }
+        },
+        {
+            "content": "tiếng đập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhịp",
+            "type": "noun",
+            "example": {
+                "en": "You have to learn to quieten it, slow it down, so you can work between the beats.",
+                "vi": "Em phải học cách bình tĩnh, để giảm nhịp tim."
+            }
+        },
+        {
+            "content": "đả",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tháng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khuấy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xao",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

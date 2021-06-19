@@ -1,0 +1,40 @@
+{
+    "word": "interact",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈakt/",
+            "/ˌɪn(t)ərˈækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntərˈakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tác động qua lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảnh hưởng lẫn nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương tác",
+            "type": "noun",
+            "example": {
+                "en": "And it is our interactions and the clustering of those interactions.",
+                "vi": "Và đó chính là những tương tác của chúng ta và sự tập hợp những tương tác đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "fragment",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfraɡmənt/",
+            "/ˈfræɡmənt/",
+            "/fraɡˈment/",
+            "/fræɡˈmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfraɡm(ə)nt/",
+            "/fraɡˈmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mảnh",
+            "type": "noun",
+            "example": {
+                "en": "The priceless china shattered into fragments.",
+                "vi": "Món đồ sứ vô giá đã bị vở thành nhiều mảnh."
+            }
+        },
+        {
+            "content": "đoạn",
+            "type": "noun",
+            "example": {
+                "en": "We actually found some latent letter fragments on it.",
+                "vi": "Chúng tôi đã tìm thấy vài đoạn kí tự ẩn trên nó."
+            }
+        },
+        {
+            "content": "khúc",
+            "type": "noun",
+            "example": {
+                "en": "We're just learning the words, the fragments, the letters in the genetic code.",
+                "vi": "Chúng ta mới chỉ học được những từ cơ bản, những phân khúc, và các ký tự trong mã di truyền."
+            }
+        },
+        {
+            "content": "mảnh vỡ",
+            "type": "noun",
+            "example": {
+                "en": "There any cell fragments in her blood smears?",
+                "vi": "Có thấy mảnh vỡ tế bào nào khi xét nghiệm phết máu không?"
+            }
+        },
+        {
+            "content": "mấu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xé nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

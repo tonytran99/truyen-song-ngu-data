@@ -1,0 +1,79 @@
+{
+    "word": "indication",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌindəˈkāSH(ə)n/",
+            "/ˌɪndəˈkeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪndɪˈkeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dấu hiệu",
+            "type": "noun",
+            "example": {
+                "en": "And all indications are that she left in a big hurry.",
+                "vi": "Và mọi dấu hiệu cho thấy cô ấy đi rất vội vã."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "The consensus indicates that we are opposed to the proposed idea.",
+                "vi": "Cuộc biểu quyết chỉ ra rằng chúng ta phản đối ý kiến được đưa ra."
+            }
+        },
+        {
+            "content": "chỉ thị",
+            "type": "noun",
+            "example": {
+                "en": "You can't see diamonds so you look for the indicator minerals.",
+                "vi": "Cậu không thể phát hiện được kim cương nên cậu phải dùng tới chất chỉ thị khoáng."
+            }
+        },
+        {
+            "content": "sự hướng dẫn",
+            "type": "noun",
+            "example": {
+                "en": "The tree would indicate to Adam and Eve that they would always need Jehovah’s direction.",
+                "vi": "“Cây biết điều thiện và điều ác” giúp A-đam và Ê-va nhận biết rằng họ luôn cần sự hướng dẫn của Đức Giê-hô-va."
+            }
+        },
+        {
+            "content": "số chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự biểu lộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự biểu thị",
+            "type": "",
+            "example": {
+                "en": "Not indicators of effort or intention,",
+                "vi": "Không phải sự biểu thị về nỗ lực hay ý định"
+            }
+        },
+        {
+            "content": "sự chỉ",
+            "type": "",
+            "example": {
+                "en": "The second sentence indicates an assignment to labor in a specific place and mission.",
+                "vi": "Câu thứ hai cho thấy một sự chỉ định phục vụ ở một nơi và ở một phái bộ truyền giáo cụ thể."
+            }
+        }
+    ]
+}

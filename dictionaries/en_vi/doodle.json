@@ -1,0 +1,45 @@
+{
+    "word": "doodle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdo͞odl/",
+            "/ˈdudl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈduːd(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vẽ nguệch ngoạc",
+            "type": "",
+            "example": {
+                "en": "Made little doodles everywhere.",
+                "vi": "Anh cứ vẽ nguệch ngoạc ở khắp mọi nơi."
+            }
+        },
+        {
+            "content": "bức vẽ nguệch ngoạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữ viết nguệch ngoạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viết nguệch ngoạc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

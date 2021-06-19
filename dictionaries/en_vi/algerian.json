@@ -1,0 +1,43 @@
+{
+    "word": "algerian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alˈjirēən/",
+            "/ælˈdʒɪriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alˈdʒɪərɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "An-giê-ri",
+            "type": "adjective proper",
+            "example": {
+                "en": "His real father was Algerian, blew himself up in a car, near the French Embassy in Cairo.",
+                "vi": "Người cha thực sự của anh ấy là người An giê ri"
+            }
+        },
+        {
+            "content": "an-giê-ri",
+            "type": "",
+            "example": {
+                "en": "Finally, my father, an Algerian peasant's son turned professor,",
+                "vi": "Cuối cùng, cha tôi, một người An-giê-ri con trai một nông dân đã trở thành giáo sư,"
+            }
+        },
+        {
+            "content": "tiếng an-giê-ri",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "larynx",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleriNGks/",
+            "/ˈlɛrɪŋks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlarɪŋks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thanh quản",
+            "type": "noun",
+            "example": {
+                "en": "The larynx doesn't grow to its new size overnight , though .",
+                "vi": "Mặc dù vậy , thanh quản cũng không thể thay đổi kích thước trong một đêm ."
+            }
+        },
+        {
+            "content": "hầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Thanh quản",
+            "type": "",
+            "example": {
+                "en": "This larger larynx also gives boys deeper voices .",
+                "vi": "Thanh quản phát triển to hơn cũng làm cho giọng của các bạn trai trở nên trầm hơn ."
+            }
+        },
+        {
+            "content": "học thanh quản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "word": "blame",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blām/",
+            "/bleɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bleɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lỗi",
+            "type": "noun",
+            "example": {
+                "en": "Are you blaming me?",
+                "vi": "Anh đổ lỗi cho tôi ư?"
+            }
+        },
+        {
+            "content": "sự khiển trách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trách",
+            "type": "verb",
+            "example": {
+                "en": "No one's blaming you.",
+                "vi": "Không ai trách em cả."
+            }
+        },
+        {
+            "content": "khiển trách",
+            "type": "verb",
+            "example": {
+                "en": "Everybody blames me for my careless mistake.",
+                "vi": "Mọi người khiển trách sai lầm của tôi."
+            }
+        },
+        {
+            "content": "lời trách mắng",
+            "type": "",
+            "example": {
+                "en": "Bowing to the dead, recognising blame, my own personal blame.",
+                "vi": "Cúi mình trước cái chết, chấp nhận lời trách mắng, tội lỗi của chính mình."
+            }
+        },
+        {
+            "content": "trách cứ",
+            "type": "",
+            "example": {
+                "en": "If you need someone to blame, blame me.",
+                "vi": "Nếu chị cần ai đó để trách cứ, cứ trách em này."
+            }
+        },
+        {
+            "content": "trách móc",
+            "type": "",
+            "example": {
+                "en": "Hey, we can assign all kinds of blame.",
+                "vi": "Chúng ta cùng nhau sớt chia mọi trách móc."
+            }
+        },
+        {
+            "content": "trách nhiệm",
+            "type": "",
+            "example": {
+                "en": "If anyone is to blame for their deaths, it's you.",
+                "vi": "Ngài phải chịu trách nhiệm cho cái chết của họ."
+            }
+        },
+        {
+            "content": "đổ lỗi",
+            "type": "",
+            "example": {
+                "en": "Are you blaming me?",
+                "vi": "Anh đổ lỗi cho tôi ư?"
+            }
+        },
+        {
+            "content": "tội",
+            "type": "",
+            "example": {
+                "en": "You've known all of this time and you've just been taking the blame?",
+                "vi": "Suốt thời gian qua con biết chuyện và cứ nhận hết mọi tội lỗi?"
+            }
+        },
+        {
+            "content": "lỗi lầm",
+            "type": "",
+            "example": {
+                "en": "Honey, are we trying to fix this thing or are we tryin'to place blame?",
+                "vi": "Em à, thế mình đang sửa chữa lỗi lầm hay là xỉ vả vào nơi này?"
+            }
+        },
+        {
+            "content": "tội lỗi",
+            "type": "adjective noun",
+            "example": {
+                "en": "Bowing to the dead, recognising blame, my own personal blame.",
+                "vi": "Cúi mình trước cái chết, chấp nhận lời trách mắng, tội lỗi của chính mình."
+            }
+        }
+    ]
+}

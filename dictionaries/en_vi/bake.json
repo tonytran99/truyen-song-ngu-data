@@ -1,0 +1,74 @@
+{
+    "word": "bake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bāk/",
+            "/beɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/beɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nung",
+            "type": "verb",
+            "example": {
+                "en": "But clay, even when baked hard, is not a strong material.",
+                "vi": "Nhưng dù nung ở nhiệt độ cao thì đất sét vẫn là loại vật liệu dễ vỡ."
+            }
+        },
+        {
+            "content": "nướng",
+            "type": "verb",
+            "example": {
+                "en": "He spent the better part of a day watching you do your impression of a baked potato.",
+                "vi": "Cậu ta dành phần tốt nhất trong ngày để xem anh bắt chước củ khoai nướng."
+            }
+        },
+        {
+            "content": "bỏ lò",
+            "type": "",
+            "example": {
+                "en": "I'll have the clam chowder, fried chicken and baked potato and a chocolate chiffon pie.",
+                "vi": "Tôi dùng trai hầm với hành, gà chiên khoai tây bỏ lò và bánh kem chocolate."
+            }
+        },
+        {
+            "content": "nướng bằng lò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị rám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiêu",
+            "type": "",
+            "example": {
+                "en": "I have seen desert expanses baking in the sun.",
+                "vi": "Tôi đã thấy sa mạc trải dài hơn dưới ánh mặt trời thiêu đốt."
+            }
+        },
+        {
+            "content": "hong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "unsuccessful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənsəkˈsesfəl/",
+            "/ˌənsəkˈsɛsfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnsəkˈsɛsfʊl/",
+            "/ʌnsəkˈsɛsf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thành công",
+            "type": "adjective",
+            "example": {
+                "en": "You know what his unsuccessful pickup line was?",
+                "vi": "Bạn có biết câu tán tỉnh không thành công của cậu ấy là gì không?"
+            }
+        },
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất thành",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không thắng lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất bại",
+            "type": "",
+            "example": {
+                "en": "To our disappointment and frustration, these attempts to “pry at the plates” were always unsuccessful.",
+                "vi": "Chúng tôi thất vọng và bực bội khi những nỗ lực để “cạy các bảng khắc” luôn luôn là thất bại."
+            }
+        }
+    ]
+}

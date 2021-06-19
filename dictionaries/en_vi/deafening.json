@@ -1,0 +1,56 @@
+{
+    "word": "deafening",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdef(ə)niNG/",
+            "/ˈdɛf(ə)nɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛf(ə)nɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "choáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "choáng óc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "inh tai",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm chói tai",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm inh tai",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm điếc",
+            "type": "adjective",
+            "example": {
+                "en": "Because we're too deafened by the din of our bodies to hear God's Word.",
+                "vi": "Bởi vì chúng tôi bị sự rền rĩ của cơ thể làm điếc tai nên không nghe được lời của Chúa?"
+            }
+        }
+    ]
+}

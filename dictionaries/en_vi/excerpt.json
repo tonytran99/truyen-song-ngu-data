@@ -1,0 +1,76 @@
+{
+    "word": "excerpt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekˌsərpt/",
+            "/ˈɛkˌsərpt/",
+            "/ikˈsərpt/",
+            "/ɪkˈsərpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛksəːpt/",
+            "/ɪkˈsəːpt/",
+            "/ɛkˈsəːpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoạn trích",
+            "type": "noun",
+            "example": {
+                "en": "I want you to watch another excerpt from the film.",
+                "vi": "Tôi muốn các bạn xem một đoạn trích từ đoạn phim."
+            }
+        },
+        {
+            "content": "trích",
+            "type": "",
+            "example": {
+                "en": "Here is an excerpt from their phone call.",
+                "vi": "Và đây là trích đoạn từ cuộc nói chuyện qua điện thoại của họ."
+            }
+        },
+        {
+            "content": "bản trích lục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngoại lệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần trích",
+            "type": "noun",
+            "example": {
+                "en": "Here are three brief excerpts from the Court’s judgment.",
+                "vi": "Sau đây là một số phần trích trong phán quyết của Tòa án Nhân quyền Châu Âu."
+            }
+        },
+        {
+            "content": "trích dẫn",
+            "type": "",
+            "example": {
+                "en": "like Tom Friedman, from whose book this quote is obviously excerpted,",
+                "vi": "như Tom Friedman, mà câu nói này đã được trích dẫn từ sách của ông ta"
+            }
+        },
+        {
+            "content": "trích đoạn",
+            "type": "",
+            "example": {
+                "en": "Here is an excerpt from their phone call.",
+                "vi": "Và đây là trích đoạn từ cuộc nói chuyện qua điện thoại của họ."
+            }
+        }
+    ]
+}

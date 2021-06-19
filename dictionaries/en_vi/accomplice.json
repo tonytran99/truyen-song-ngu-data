@@ -1,0 +1,80 @@
+{
+    "word": "accomplice",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkämpləs/",
+            "/əˈkɑmpləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkʌmplɪs/",
+            "/əˈkɒmplɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ tòng phạm",
+            "type": "noun",
+            "example": {
+                "en": "And as far as the authorities are concerned, you're an accomplice.",
+                "vi": "Và theo như nhà chức trách nghĩ, mày là kẻ tòng phạm."
+            }
+        },
+        {
+            "content": "tòng phạm",
+            "type": "noun",
+            "example": {
+                "en": "The police now believe the man is travelling with a female accomplice.",
+                "vi": "Hiện nay cảnh sát tin rằng người đàn ông đang lẩn trốn cùng với một nữ tòng phạm."
+            }
+        },
+        {
+            "content": "kẻ đồng loã",
+            "type": "",
+            "example": {
+                "en": "It's a setup to announce Rigg is the accomplice.",
+                "vi": "Nó là một sự sắp đặt để thông báo Rigg như là một kẻ đồng loã."
+            }
+        },
+        {
+            "content": "đồ đảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng lõa",
+            "type": "",
+            "example": {
+                "en": "You spent a year making me your accomplice.",
+                "vi": "Cả năm trởi cậu biến tôi trở thành kẻ đồng lõa với cậu."
+            }
+        },
+        {
+            "content": "kẻ đồng lõa",
+            "type": "noun",
+            "example": {
+                "en": "You spent a year making me your accomplice.",
+                "vi": "Cả năm trởi cậu biến tôi trở thành kẻ đồng lõa với cậu."
+            }
+        },
+        {
+            "content": "đồng mưu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng phạm",
+            "type": "",
+            "example": {
+                "en": "We believe the accomplice Has done this before.",
+                "vi": "Bọn cô tin đồng phạm này đã gây án trước đó."
+            }
+        }
+    ]
+}

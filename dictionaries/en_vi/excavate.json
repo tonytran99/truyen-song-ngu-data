@@ -1,0 +1,56 @@
+{
+    "word": "excavate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekskəˌvāt/",
+            "/ˈɛkskəˌveɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛkskəveɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đào",
+            "type": "verb noun",
+            "example": {
+                "en": "We can either excavate it by hand or we can have the wind excavate it for us.",
+                "vi": "Chúng ta có thể đào bằng tay hoặc để cho sức gió làm điều đó cho chúng ta."
+            }
+        },
+        {
+            "content": "khai quật",
+            "type": "",
+            "example": {
+                "en": "This street is from the Minoan level of the excavation.",
+                "vi": "Con đường này là ở mức kỷ Minoan của cuộc khai quật."
+            }
+        },
+        {
+            "content": "phát hiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đào bới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quật",
+            "type": "verb",
+            "example": {
+                "en": "This street is from the Minoan level of the excavation.",
+                "vi": "Con đường này là ở mức kỷ Minoan của cuộc khai quật."
+            }
+        }
+    ]
+}

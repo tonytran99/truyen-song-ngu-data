@@ -1,0 +1,39 @@
+{
+    "word": "diphthong",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdifˌTHäNG/",
+            "/ˈdɪfˌθɑŋ/",
+            "/ˈdipˌTHäNG/",
+            "/ˈdɪpˌθɑŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪfθɒŋ/",
+            "/ˈdɪpθɒŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên âm đôi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhị trùng âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Diftong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

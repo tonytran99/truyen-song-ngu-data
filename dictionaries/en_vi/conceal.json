@@ -1,0 +1,79 @@
+{
+    "word": "conceal",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsēl/",
+            "/kənˈsil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giấu",
+            "type": "verb",
+            "example": {
+                "en": "I should warn you, I have a concealed weapon.",
+                "vi": "Tôi phải cảnh báo em, tôi có giấu vũ khí bí mật."
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "",
+            "example": {
+                "en": "I can' t conceal it Don' t you see?",
+                "vi": "Anh không thể giấu giếm cảm xúc của mình Em không thấy sao?"
+            }
+        },
+        {
+            "content": "che đậy",
+            "type": "",
+            "example": {
+                "en": "Her laugh was a lie that concealed her sorrow.",
+                "vi": "Nụ cười của cô ấy là một lời nói dối nhằm che đậy nỗi buồn của cô ta."
+            }
+        },
+        {
+            "content": "che giấu",
+            "type": "",
+            "example": {
+                "en": "Your new science officer concealed her identity to board the ship.",
+                "vi": "Sĩ quan khoa học mới của anh đã che giấu thân phận của mình để lên phi thuyền."
+            }
+        },
+        {
+            "content": "cất giấu",
+            "type": "",
+            "example": {
+                "en": "But according to the Codex, it lies concealed in a vault beneath our city.",
+                "vi": "Nhưng theo như Thánh kinh, nó được cất giấu trong một hầm mộ bên dưới thành phố này."
+            }
+        },
+        {
+            "content": "oa trữ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ẩn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Our shuttle was concealed by the ash cloud, but the Enterprise is too large.",
+                "vi": "Tàu con thoi nhỏ có thể ẩn giữa đám mây tro, nhưng phi thuyền Enterprise thì quá lớn."
+            }
+        },
+        {
+            "content": "ém",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

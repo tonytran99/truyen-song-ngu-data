@@ -1,0 +1,63 @@
+{
+    "word": "volatile",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvälədl/",
+            "/ˈvɑlədl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɒlətʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dễ bay hơi",
+            "type": "",
+            "example": {
+                "en": "It's highly volatile, and it's very difficult to manufacture.",
+                "vi": "Nó dễ bay hơi và rất khó để chế tạo."
+            }
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạt bát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kiên định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhẹ dạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vui vẻ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không ổn định",
+            "type": "",
+            "example": {
+                "en": "The process is highly volatile.",
+                "vi": "Quá tình này là cực kỳ không ổn định."
+            }
+        }
+    ]
+}

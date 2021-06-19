@@ -1,0 +1,47 @@
+{
+    "word": "validate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaləˌdāt/",
+            "/ˈvæləˌdeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalɪdeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm cho hợp lệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phê chuẩn",
+            "type": "",
+            "example": {
+                "en": "Your attendance is validating her hypocrisy.",
+                "vi": "Việc cậu đến tham dự phê chuẩn cho sự đạo đức giả của cô ta."
+            }
+        },
+        {
+            "content": "xác nhận",
+            "type": "",
+            "example": {
+                "en": "Others have used the data to validate insurance claims.",
+                "vi": "Những người khác dùng dữ liệu để hợp lệ các xác nhận bảo hiểm."
+            }
+        },
+        {
+            "content": "kiểm nghiệm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

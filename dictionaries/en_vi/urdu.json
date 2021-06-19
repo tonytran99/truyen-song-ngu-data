@@ -1,0 +1,34 @@
+{
+    "word": "urdu",
+    "type": [
+        "adjective",
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈo͝ordo͞o/",
+            "/ˈʊrdu/",
+            "/ˈərdo͞o/",
+            "/ˈərdu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʊəduː/",
+            "/ˈəːduː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng urdu",
+            "type": "",
+            "example": {
+                "en": "means \"new life\" in Urdu and Hindi,",
+                "vi": "nghĩa là \"cuộc sống mới\" trong tiếng Urdu và Hindi"
+            }
+        }
+    ]
+}

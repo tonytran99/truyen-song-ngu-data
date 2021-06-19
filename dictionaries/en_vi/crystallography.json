@@ -1,0 +1,42 @@
+{
+    "word": "crystallography",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkristəˈläɡrəfē/",
+            "/ˌkrɪstəˈlɑɡrəfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkrɪstəˈlɒɡrəfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tinh thể học",
+            "type": "noun",
+            "example": {
+                "en": "And x-ray crystallography is now a subject in, you know, chemistry departments.",
+                "vi": "Ngày nay ngành nghiên cứu tinh thể học bằng tia X là một môn trong ngành Hóa học."
+            }
+        },
+        {
+            "content": "môn tinh thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tinh thể học",
+            "type": "",
+            "example": {
+                "en": "You were just a master of crystallography.",
+                "vi": "Anh là một bậc thầy về tinh thể học."
+            }
+        }
+    ]
+}

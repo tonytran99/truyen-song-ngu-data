@@ -1,0 +1,55 @@
+{
+    "word": "crossbow",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrôsˌbō/",
+            "/ˈkrɔsˌboʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɒsbəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ná",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nỏ",
+            "type": "",
+            "example": {
+                "en": "You saw the crossbow, you saw his body.",
+                "vi": "Em đã thấy cây nỏ, em đã thấy xác cha."
+            }
+        },
+        {
+            "content": "nỏ",
+            "type": "noun",
+            "example": {
+                "en": "You saw the crossbow, you saw his body.",
+                "vi": "Em đã thấy cây nỏ, em đã thấy xác cha."
+            }
+        },
+        {
+            "content": "cái ná",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái nỏ",
+            "type": "noun",
+            "example": {
+                "en": "Last time I was here, I killed my father with a crossbow.",
+                "vi": "Lần cuối cùng ở đây, tôi đã giết cha tôi với một cái nỏ."
+            }
+        }
+    ]
+}

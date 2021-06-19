@@ -1,0 +1,49 @@
+{
+    "word": "anaesthetic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌanɪsˈθɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây mê",
+            "type": "",
+            "example": {
+                "en": "The team works together to give an anaesthetic injection from a dart gun without hurting the bear.",
+                "vi": "Đội cùng nhau tiêm thuốc gây mê bằng súng phi tiêu mà không làm đau con gấu."
+            }
+        },
+        {
+            "content": "gây tê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc gây mê",
+            "type": "",
+            "example": {
+                "en": "The team works together to give an anaesthetic injection from a dart gun without hurting the bear.",
+                "vi": "Đội cùng nhau tiêm thuốc gây mê bằng súng phi tiêu mà không làm đau con gấu."
+            }
+        },
+        {
+            "content": "thuốc mê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thuốc tê",
+            "type": "",
+            "example": {
+                "en": "You should be screaming with agony, but there's anaesthetic.",
+                "vi": "Nhưng có thuốc tê rồi."
+            }
+        }
+    ]
+}

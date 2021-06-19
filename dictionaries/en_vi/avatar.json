@@ -1,0 +1,54 @@
+{
+    "word": "avatar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈavəˌtär/",
+            "/ˈævəˌtɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈavətɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Ân",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "giai đoạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giáng sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hiện thân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hoá thân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Avatar",
+            "type": "",
+            "example": {
+                "en": "What could I possibly gain by letting you get all the glory for defeating the avatar?",
+                "vi": "Em được gì nếu để anh nhận vinh quang việc giết Avatar?"
+            }
+        }
+    ]
+}

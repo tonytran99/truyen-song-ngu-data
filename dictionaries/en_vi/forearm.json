@@ -1,0 +1,43 @@
+{
+    "word": "forearm",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌärm/",
+            "/ˈfɔrˌɑrm/",
+            "/fôrˈärm/",
+            "/fɔrˈɑrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːrɑːm/",
+            "/fɔːrˈɑːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cẳng tay",
+            "type": "noun",
+            "example": {
+                "en": "Ridley's employee had that tattooed on his forearm.",
+                "vi": "Thuộc cấp của Ridley có hình xăm đó trên cẳng tay."
+            }
+        },
+        {
+            "content": "chuẩn bị trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trang bị trước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

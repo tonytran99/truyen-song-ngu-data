@@ -1,0 +1,59 @@
+{
+    "word": "devastating",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdevəˌstādiNG/",
+            "/ˈdɛvəˌsteɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛvəsteɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tàn phá",
+            "type": "",
+            "example": {
+                "en": "I choose to convey the beauty as opposed to the devastation.",
+                "vi": "Tôi chọn việc truyền tải vẻ đẹp của những nơi này thay vì sự tàn phá."
+            }
+        },
+        {
+            "content": "phá huỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá phách",
+            "type": "",
+            "example": {
+                "en": "Women found him devastating.",
+                "vi": "Phụ nữ thấy anh ta thật phá phách."
+            }
+        },
+        {
+            "content": "thảm khốc",
+            "type": "adjective",
+            "example": {
+                "en": "and a devastating response by the state.",
+                "vi": "và gặp phải sự đáp trả thảm khốc từ chính phủ."
+            }
+        },
+        {
+            "content": "tàn khốc",
+            "type": "adjective",
+            "example": {
+                "en": "The consequences were devastating, as many who lived through that period can testify.",
+                "vi": "Theo lời chứng của nhiều người sống sót qua giai đoạn đó, hậu quả thật tàn khốc."
+            }
+        }
+    ]
+}

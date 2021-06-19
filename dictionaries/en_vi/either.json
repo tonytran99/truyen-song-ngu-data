@@ -1,0 +1,95 @@
+{
+    "word": "either",
+    "type": [
+        "adverb",
+        "conjunction",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēT͟Hər/",
+            "/ˈiðər/",
+            "/ˈīT͟Hər/",
+            "/ˈaɪðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪðə/",
+            "/ˈiːðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoặc",
+            "type": "conjunction",
+            "example": {
+                "en": "Those who bully and harass can be of either gender.",
+                "vi": "Những kẻ bắt nạt và quấy rối có thể là nam hoặc nữ."
+            }
+        },
+        {
+            "content": "cũng",
+            "type": "adverb",
+            "example": {
+                "en": "I'm staying, and I'm not buying a gun either.",
+                "vi": "Tôi sẽ ở lại, và cũng sẽ không mua súng."
+            }
+        },
+        {
+            "content": "mỗi",
+            "type": "",
+            "example": {
+                "en": "There are two more ships, one on either side.",
+                "vi": "Có thêm hai tàu nữa, mỗi bên một chiếc."
+            }
+        },
+        {
+            "content": "cả hai",
+            "type": "determiner",
+            "example": {
+                "en": "I don't know either boy.",
+                "vi": "Tôi không biết cả hai thằng."
+            }
+        },
+        {
+            "content": "ngoài ra",
+            "type": "",
+            "example": {
+                "en": "In addition, at times the organization gives guidance directly to congregation elders, either through letters or through instructions delivered by traveling overseers.",
+                "vi": "Ngoài ra, thỉnh thoảng các trưởng lão nhận được những chỉ dẫn của tổ chức qua thư từ hoặc giám thị lưu động."
+            }
+        },
+        {
+            "content": "hay",
+            "type": "conjunction verb adjective",
+            "example": {
+                "en": "I don't think you'd put your family through letting those tapes get out either.",
+                "vi": "Tôi không nghĩ ông sẽ đưa gia đình trải qua hay để đoạn băng loạt ra ngoài."
+            }
+        },
+        {
+            "content": "cũng phải thế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoặc là",
+            "type": "adverb",
+            "example": {
+                "en": "You're either with me or against me.",
+                "vi": "Hoặc là bạn đồng tình, hoặc là bạn phản đối tôi."
+            }
+        },
+        {
+            "content": "mỗi người",
+            "type": "",
+            "example": {
+                "en": "But practically everyone must face health problems, either his own or those of family members.",
+                "vi": "Nhưng thường thì mỗi người phải đối phó với vấn đề sức khỏe của mình hoặc của người thân trong gia đình."
+            }
+        }
+    ]
+}

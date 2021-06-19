@@ -1,0 +1,67 @@
+{
+    "word": "conscious",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkän(t)SHəs/",
+            "/ˈkɑn(t)ʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết rõ",
+            "type": "adjective",
+            "example": {
+                "en": "Indeed, it may have made his letter more appealing to those who were conscious of their own weaknesses.",
+                "vi": "Thật vậy, điều đó có thể làm cho lá thư ông hấp dẫn hơn đối với những người biết rõ những yếu đuối của mình."
+            }
+        },
+        {
+            "content": "tỉnh táo",
+            "type": "adjective",
+            "example": {
+                "en": "And I was very conscious in designing this.",
+                "vi": "Và tôi đã rất tỉnh táo khi thiết kế điều này."
+            }
+        },
+        {
+            "content": "có ý thức",
+            "type": "adjective",
+            "example": {
+                "en": "Unconscious bias is not the same as conscious discrimination.",
+                "vi": "Thành kiến vô thức không phải sự kỳ thị có ý thức."
+            }
+        },
+        {
+            "content": "biết được",
+            "type": "",
+            "example": {
+                "en": "I think it's a wonderful idea: thoroughly conscious ignorance.",
+                "vi": "Đó là một ý tường tuyệt vời: Sự thiếu hiểu biết được nhận biết."
+            }
+        },
+        {
+            "content": "tỉnh",
+            "type": "noun",
+            "example": {
+                "en": "He was conscious and speaking without a functional cardiovascular system?",
+                "vi": "Anh ta tỉnh lại và nói mà không cần hệ tim mạch?"
+            }
+        },
+        {
+            "content": "thấy rõ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

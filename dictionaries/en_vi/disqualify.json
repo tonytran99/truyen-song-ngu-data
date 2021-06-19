@@ -1,0 +1,39 @@
+{
+    "word": "disqualify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈkwäləˌfī/",
+            "/dɪsˈkwɑləˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈkwɒlɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoâng ñuû tö caùch, khoâng ñuû tieâu chuaån",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loại không cho thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loại ra",
+            "type": "",
+            "example": {
+                "en": "As promised, she was disqualified from the statewide competition.",
+                "vi": "Như đã được cho biết, em đã bị loại ra khỏi cuộc thi toàn tiểu bang."
+            }
+        }
+    ]
+}

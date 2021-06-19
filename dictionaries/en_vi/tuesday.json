@@ -1,0 +1,46 @@
+{
+    "word": "tuesday",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈt(y)o͞ozdā/",
+            "/ˈt(j)uzdeɪ/",
+            "/ˈt(y)o͞ozdē/",
+            "/ˈt(j)uzdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtjuːzdeɪ/",
+            "/ˈtjuːzdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày thứ ba",
+            "type": "",
+            "example": {
+                "en": "She usually comes here on Tuesdays.",
+                "vi": "Cô ấy thường đến đây vào các ngày thứ ba."
+            }
+        },
+        {
+            "content": "thứ ba",
+            "type": "noun",
+            "example": {
+                "en": "The theater didn't use to open on Tuesdays.",
+                "vi": "Nhà hát thường thì không mở cửa vào thứ ba."
+            }
+        },
+        {
+            "content": "thöù ba",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

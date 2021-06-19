@@ -1,0 +1,35 @@
+{
+    "word": "decrypt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈkript/",
+            "/diˈkrɪpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈkrɪpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải mã",
+            "type": "verb",
+            "example": {
+                "en": "Skye's sending us the rest of her decrypted files on Centipede.",
+                "vi": "Skye đang gửi phần còn lại của file đã giải mã về Con rết."
+            }
+        },
+        {
+            "content": "giải mật mã",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

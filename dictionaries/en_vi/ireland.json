@@ -1,0 +1,38 @@
+{
+    "word": "ireland",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈī(ə)rlənd/",
+            "/ˈaɪ(ə)rlənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪələnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ái nhĩ lan",
+            "type": "noun",
+            "example": {
+                "en": "What part of Ireland did you say your mother came from?",
+                "vi": "Anh nói mẹ anh tới từ nơi nào ở Ái Nhĩ Lan?"
+            }
+        },
+        {
+            "content": "đảo ireland",
+            "type": "",
+            "example": {
+                "en": "to having a space for those who felt marginalized on the island of Ireland,",
+                "vi": "để tạo cơ hội cho những người bị thiệt thòi ở đảo Ireland,"
+            }
+        }
+    ]
+}

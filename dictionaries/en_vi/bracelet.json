@@ -1,0 +1,63 @@
+{
+    "word": "bracelet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrāslit/",
+            "/ˈbreɪslɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbreɪslɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vòng tay",
+            "type": "noun",
+            "example": {
+                "en": "I took the computers and bracelet with me.",
+                "vi": "Con đã đem máy tính và vòng tay theo."
+            }
+        },
+        {
+            "content": "xuyến",
+            "type": "noun",
+            "example": {
+                "en": "You sold the bracelet I gave you, huh?",
+                "vi": "Em đã bán cái xuyến của anh cho rồi, hả?"
+            }
+        },
+        {
+            "content": "kiềng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoá tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Vòng đeo tay",
+            "type": "",
+            "example": {
+                "en": "Jill's medical alert bracelet.",
+                "vi": "Vòng đeo tay cảnh báo y tế Jill"
+            }
+        },
+        {
+            "content": "vòng đeo tay",
+            "type": "noun",
+            "example": {
+                "en": "Now, i'll be very happy to take your bracelet Back to my lab to get an exact analysis.",
+                "vi": "Giờ thì tôi sẽ rất vui mang vòng đeo tay này về phòng thí nghiệm để có được một phân tích chính xác."
+            }
+        }
+    ]
+}

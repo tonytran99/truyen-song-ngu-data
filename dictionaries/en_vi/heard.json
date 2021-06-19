@@ -1,0 +1,35 @@
+{
+    "word": "heard",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "chấp nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghe",
+            "type": "interjection verb",
+            "example": {
+                "en": "I heard something, but I couldn't tell what it was.",
+                "vi": "Tôi nghe thấy tiếng động gì đó, nhưng tôi không biết cái gì gây ra nó."
+            }
+        },
+        {
+            "content": "nghe theo",
+            "type": "",
+            "example": {
+                "en": "His counsel by us should be heard.",
+                "vi": "thế nên ta nghe theo Lời Cha mãi."
+            }
+        },
+        {
+            "content": "đồng ý",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

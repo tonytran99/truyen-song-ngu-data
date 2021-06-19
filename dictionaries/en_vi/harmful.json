@@ -1,0 +1,54 @@
+{
+    "word": "harmful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärmfəl/",
+            "/ˈhɑrmfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːmfʊl/",
+            "/ˈhɑːmf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hại",
+            "type": "",
+            "example": {
+                "en": "Such a program will help the rich but harm the poor.",
+                "vi": "Một chương trình như vậy sẽ giúp đỡ người giàu có hại tới người nghèo."
+            }
+        },
+        {
+            "content": "hại",
+            "type": "adjective",
+            "example": {
+                "en": "Such a program will help the rich but harm the poor.",
+                "vi": "Một chương trình như vậy sẽ giúp đỡ người giàu có hại tới người nghèo."
+            }
+        },
+        {
+            "content": "gây tai hại",
+            "type": "",
+            "example": {
+                "en": "Undue pressure from others can indeed be harmful.",
+                "vi": "Quá nhiều áp lực từ người khác có thể gây tai hại."
+            }
+        },
+        {
+            "content": "độc hại",
+            "type": "adjective",
+            "example": {
+                "en": "We should avoid all drinks that contain harmful substances.",
+                "vi": "Chúng ta phải tránh tất cả mọi thức uống mà có chứa những chất độc hại."
+            }
+        }
+    ]
+}

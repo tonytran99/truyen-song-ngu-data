@@ -1,0 +1,37 @@
+{
+    "word": "underwrite",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndə(r)ˈrīt/",
+            "/ˌəndə(r)ˈraɪt/",
+            "/ˈəndə(r)ˌrīt/",
+            "/ˈəndə(r)ˌraɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈrʌɪt/",
+            "/ˈʌndərʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảo hiểm",
+            "type": "verb",
+            "example": {
+                "en": "He's an underwriter for an insurance company for years.",
+                "vi": "Ông ta là trợ tá cho một công ty bảo hiểm trong nhiều năm nay."
+            }
+        },
+        {
+            "content": "ký ở dưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

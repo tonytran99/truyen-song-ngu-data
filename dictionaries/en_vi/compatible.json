@@ -1,0 +1,54 @@
+{
+    "word": "compatible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpadəb(ə)l/",
+            "/kəmˈpædəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpatɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tương thích",
+            "type": "adjective",
+            "example": {
+                "en": "Am I confident that we will be lastingly compatible?",
+                "vi": "Tôi có tin chắc rằng chúng tôi sẽ tương thích lâu dài không?"
+            }
+        },
+        {
+            "content": "tương hợp",
+            "type": "",
+            "example": {
+                "en": "VNC-compatible server to share KDE desktops",
+                "vi": "Máy chủ tương hợp với VNC để chia sẻ màn hình KDE"
+            }
+        },
+        {
+            "content": "hợp",
+            "type": "adjective verb",
+            "example": {
+                "en": "And as father and son, they are blood compatible.",
+                "vi": "Và vì họ là cha với con, máu của họ đã hoà hợp với nhau..."
+            }
+        },
+        {
+            "content": "thích hợp",
+            "type": "",
+            "example": {
+                "en": "Bill waited for 30 years before he met a sister with whom he was compatible.",
+                "vi": "Anh Bill đợi 30 năm rồi mới gặp một chị thích hợp."
+            }
+        }
+    ]
+}

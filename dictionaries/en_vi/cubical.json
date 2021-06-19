@@ -1,0 +1,54 @@
+{
+    "word": "cubical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͞obək(ə)l/",
+            "/ˈkjubək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjuːbɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cubic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bậc ba",
+            "type": "",
+            "example": {
+                "en": "Generates a cubic spline interpolation for a set of data",
+                "vi": "Tạo ra sự nội suy chốt trục bậc ba cho một tập dữ liệu. Name"
+            }
+        },
+        {
+            "content": "có hình khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có hình lập phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường bậc ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường cubic",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

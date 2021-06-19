@@ -1,0 +1,53 @@
+{
+    "word": "irradiate",
+    "type": [
+        "verb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈrādēˌāt/",
+            "/ɪˈreɪdiˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈreɪdɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "soi sáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rọi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiếu xạ",
+            "type": "",
+            "example": {
+                "en": "Anyone not shielded by armor or gamma-irradiated skin should probably clear the area of civilians.",
+                "vi": "Những ai không có giáp hoặc lớp da đã được chiếu xạ nên sơ tán khu vực dân cư."
+            }
+        },
+        {
+            "content": "xạ trị",
+            "type": "",
+            "example": {
+                "en": "I need a reason to not do total body irradiation.",
+                "vi": "Tôi cần một lí do để không làm xạ trị toàn thân."
+            }
+        },
+        {
+            "content": "làm sáng ngời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "vouch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vouCH/",
+            "/vaʊtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vaʊtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cam đoan",
+            "type": "",
+            "example": {
+                "en": "I totally vouched for you.",
+                "vi": "Tao đã cam đoan cho mày."
+            }
+        },
+        {
+            "content": "dẫn chứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảo đảm",
+            "type": "verb",
+            "example": {
+                "en": "Is there anyone who can vouch for you?",
+                "vi": "Có ai có thể bảo đảm cho anh không?"
+            }
+        },
+        {
+            "content": "chứng rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nêu lên làm chứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác minh",
+            "type": "",
+            "example": {
+                "en": "Look, I can vouch for Mrs. Grayson's whereabouts all afternoon.",
+                "vi": "Tôi có thể xác minh là bà Grayson ở đâu cả chiều nay."
+            }
+        },
+        {
+            "content": "xác nhận",
+            "type": "",
+            "example": {
+                "en": "You want me to vouch for your blackness?",
+                "vi": "Cháu muốn chú xác nhận cháu là da đen à?"
+            }
+        }
+    ]
+}

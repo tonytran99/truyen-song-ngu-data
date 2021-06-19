@@ -1,0 +1,40 @@
+{
+    "word": "tumour",
+    "type": [
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtjuːmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khối u",
+            "type": "",
+            "example": {
+                "en": "These secondary tumours are difficult to treat .",
+                "vi": "Các khối u thứ phát này rất khó trị ."
+            }
+        },
+        {
+            "content": "u",
+            "type": "noun",
+            "example": {
+                "en": "Well, the vet said they had a bunch of tumours and stuff.",
+                "vi": "Bác sĩ thú y nói chúng bị rất nhiều u."
+            }
+        },
+        {
+            "content": "bướu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ung nhọt",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

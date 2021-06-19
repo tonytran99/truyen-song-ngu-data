@@ -1,0 +1,56 @@
+{
+    "word": "genre",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈZHänrə/",
+            "/ˈʒɑnrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʒɒ̃rə/",
+            "/ˈ(d)ʒɒnrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thể loại",
+            "type": "noun",
+            "example": {
+                "en": "Below, put a ✔ next to your favorite film genre.",
+                "vi": "Hãy đánh dấu ✔ vào thể loại phim mà bạn thích."
+            }
+        },
+        {
+            "content": "loại",
+            "type": "noun",
+            "example": {
+                "en": "Below, put a ✔ next to your favorite film genre.",
+                "vi": "Hãy đánh dấu ✔ vào thể loại phim mà bạn thích."
+            }
+        },
+        {
+            "content": "giống",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bộ môn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Thể loại",
+            "type": "",
+            "example": {
+                "en": "I wanted to change genres and take a risk.",
+                "vi": "Tôi muốn thay đổi thể loại và làm liều..."
+            }
+        }
+    ]
+}

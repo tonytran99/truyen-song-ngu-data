@@ -1,0 +1,55 @@
+{
+    "word": "dredge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drej/",
+            "/drɛdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɛdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưới vét",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nạo vét",
+            "type": "verb",
+            "example": {
+                "en": "Yet every day we dredge, pollute and overfish our oceans.",
+                "vi": "Vậy mà ngày nào chúng ta cũng nạo vét, gây ô nhiễm và đánh bắt quá mức."
+            }
+        },
+        {
+            "content": "rắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kéo lưới vét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh lưới vét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lau",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

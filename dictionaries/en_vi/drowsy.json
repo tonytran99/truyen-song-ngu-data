@@ -1,0 +1,57 @@
+{
+    "word": "drowsy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrouzē/",
+            "/ˈdraʊzi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdraʊzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buồn ngủ",
+            "type": "adjective",
+            "example": {
+                "en": "After a few minutes, you'll probably get drowsy and fall asleep.",
+                "vi": "Sau vài phút, cô cảm thấy mơ màng và buồn ngủ."
+            }
+        },
+        {
+            "content": "ngủ gà ngủ gật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngủ lơ mơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thờ thẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uể oải",
+            "type": "",
+            "example": {
+                "en": "Are you drowsy or nauseous?",
+                "vi": "Em có thấy uể oải hay buồn nôn không?"
+            }
+        },
+        {
+            "content": "nửa thức nửa ngủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

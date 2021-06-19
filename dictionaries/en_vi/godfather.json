@@ -1,0 +1,54 @@
+{
+    "word": "godfather",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡädˌfäT͟Hər/",
+            "/ˈɡɑdˌfɑðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒdfɑːθə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cha đỡ đầu",
+            "type": "",
+            "example": {
+                "en": "Who better to play Ben's dad than his godfather?",
+                "vi": "Còn ai hợp đóng vai bố của Ben hơn cha đỡ đầu của nó?"
+            }
+        },
+        {
+            "content": "bố già",
+            "type": "noun",
+            "example": {
+                "en": "You don't even think to call me Godfather.",
+                "vi": "Ông cũng không thèm gọi tôi là Bố già"
+            }
+        },
+        {
+            "content": "cha mẹ đỡ đầu",
+            "type": "",
+            "example": {
+                "en": "they knew that one of the major responsibilities of godfathers",
+                "vi": "họ biết rằng trách nhiệm lớn lao của cha mẹ đỡ đầu"
+            }
+        },
+        {
+            "content": "đỡ đầu",
+            "type": "",
+            "example": {
+                "en": "We need to shift his animosity from his father to his godfather.",
+                "vi": "Giờ chúng ta phải chuyển sự căm ghét từ ông bố sang người bố đỡ đầu."
+            }
+        }
+    ]
+}

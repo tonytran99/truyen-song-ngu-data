@@ -1,0 +1,44 @@
+{
+    "word": "hometown",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmˌtoun/",
+            "/ˈhoʊmˌtaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "故鄉",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cố hương",
+            "type": "noun",
+            "example": {
+                "en": "We respectfully bring General back to your hometown!",
+                "vi": "Chúng tôi cung tiễn tướng quân về cố hương!"
+            }
+        },
+        {
+            "content": "quê hương",
+            "type": "noun",
+            "example": {
+                "en": "Because of what they did to my hometown.",
+                "vi": "Bởi vì những việc họ đã làm với quê hương tôi."
+            }
+        },
+        {
+            "content": "quê nhà",
+            "type": "noun",
+            "example": {
+                "en": "He started as a boy member of the children's orchestra in his hometown, Barquisimeto.",
+                "vi": "Ban đầu ông ta là thành viên trong dàn nhạc thiếu nhi ở quê nhà ông ấy, Barquisimeto."
+            }
+        }
+    ]
+}

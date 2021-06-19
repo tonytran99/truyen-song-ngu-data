@@ -1,0 +1,39 @@
+{
+    "word": "irreversible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌi(r)rəˈvərsəb(ə)l/",
+            "/ˌɪ(r)rəˈvərsəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪrɪˈvəːsɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thuận nghịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể đảo ngược",
+            "type": "",
+            "example": {
+                "en": "I thought we decided it was irreversible.",
+                "vi": "Em tưởng chúng ta đã quyết định cái điều không thể đảo ngược đó chứ."
+            }
+        },
+        {
+            "content": "không thể đảo ngược lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

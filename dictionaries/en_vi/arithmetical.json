@@ -1,0 +1,34 @@
+{
+    "word": "arithmetical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeriTHˈmedik(ə)l/",
+            "/ˌɛrɪθˈmɛdɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌarɪθˈmɛtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cộng",
+            "type": "conjunction verb",
+            "example": {}
+        },
+        {
+            "content": "số học",
+            "type": "noun",
+            "example": {
+                "en": "If war were arithmetic, the mathematicians would rule the world.",
+                "vi": "Nếu chiến tranh chỉ là thuật số học, thì các toán học gia đã thống trị thế giới."
+            }
+        }
+    ]
+}

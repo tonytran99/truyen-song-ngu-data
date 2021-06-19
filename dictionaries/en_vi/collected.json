@@ -1,0 +1,46 @@
+{
+    "word": "collected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlektəd/",
+            "/kəˈlɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tự chủ",
+            "type": "adjective",
+            "example": {
+                "en": "In the cool, collected mind.",
+                "vi": "Trong một tâm trí bình tĩnh, tự chủ."
+            }
+        },
+        {
+            "content": "bình tĩnh",
+            "type": "adjective",
+            "example": {
+                "en": "In the cool, collected mind.",
+                "vi": "Trong một tâm trí bình tĩnh, tự chủ."
+            }
+        },
+        {
+            "content": "được sưu tập",
+            "type": "",
+            "example": {
+                "en": "It is grouped among the Writings supposedly because these were collected later.",
+                "vi": "Nó được đặt vào loại Thơ Văn vì loại Thơ Văn được sưu tập sau này."
+            }
+        }
+    ]
+}

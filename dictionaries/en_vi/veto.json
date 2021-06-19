@@ -1,0 +1,66 @@
+{
+    "word": "veto",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēdō/",
+            "/ˈvidoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːtəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phủ quyết",
+            "type": "verb",
+            "example": {
+                "en": "We don't want to undermine the veto of permanent members.",
+                "vi": "Chúng tôi không muốn ngầm phá hoại quyền phủ quyết của thành viên thường trực."
+            }
+        },
+        {
+            "content": "bác bỏ",
+            "type": "",
+            "example": {
+                "en": "You know that we have the votes to override your veto.",
+                "vi": "Ngài biết thừa là chúng tôi có đủ số phiếu để bác bỏ phủ quyết của ngài mà."
+            }
+        },
+        {
+            "content": "quyền phủ quyết",
+            "type": "",
+            "example": {
+                "en": "We don't want to undermine the veto of permanent members.",
+                "vi": "Chúng tôi không muốn ngầm phá hoại quyền phủ quyết của thành viên thường trực."
+            }
+        },
+        {
+            "content": "nghiêm cấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bác bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nghiêm cấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phủ quyết",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "windshield",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwin(d)ˌSHēld/",
+            "/ˈwɪn(d)ˌʃild/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪn(d)ʃiːld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kính chắn gió",
+            "type": "noun",
+            "example": {
+                "en": "How'd you get the owner to part with his windshield?",
+                "vi": "Sao anh lấy được kính chắn gió của chủ xe vậy?"
+            }
+        },
+        {
+            "content": "",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "bullet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝olət/",
+            "/ˈbʊlət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊlɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đạn",
+            "type": "noun",
+            "example": {
+                "en": "The police will get you to find the bullets.",
+                "vi": "Cảnh sát sẽ bắt bạn tìm ra mấy viên đạn."
+            }
+        },
+        {
+            "content": "viên đạn",
+            "type": "noun",
+            "example": {
+                "en": "The police will get you to find the bullets.",
+                "vi": "Cảnh sát sẽ bắt bạn tìm ra mấy viên đạn."
+            }
+        },
+        {
+            "content": "hòn đạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạt đậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đạn",
+            "type": "",
+            "example": {
+                "en": "The police will get you to find the bullets.",
+                "vi": "Cảnh sát sẽ bắt bạn tìm ra mấy viên đạn."
+            }
+        },
+        {
+            "content": "dấu đầu dòng",
+            "type": "",
+            "example": {
+                "en": "Ask your parents for their thoughts on the bulleted questions in this article.",
+                "vi": "Hãy hỏi xem cha mẹ nghĩ gì về những câu hỏi có dấu đầu dòng (●) trong bài này."
+            }
+        }
+    ]
+}

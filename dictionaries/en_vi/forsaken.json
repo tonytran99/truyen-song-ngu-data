@@ -1,0 +1,54 @@
+{
+    "word": "forsaken",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərˈsākən/",
+            "/fərˈseɪkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈseɪkən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị bỏ rơi",
+            "type": "adjective",
+            "example": {
+                "en": "“It is in consequence of aspiring men that Kirtland has been forsaken.",
+                "vi": "“Chính vì những người đầy tham vọng đó mà Kirtland đã bị bỏ rơi."
+            }
+        },
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "You have forsaken every vow you ever took.",
+                "vi": "Ngươi đã từ bỏ mọi lời thề ngươi từng thề."
+            }
+        },
+        {
+            "content": "bỏ rơi",
+            "type": "adjective",
+            "example": {
+                "en": "“It is in consequence of aspiring men that Kirtland has been forsaken.",
+                "vi": "“Chính vì những người đầy tham vọng đó mà Kirtland đã bị bỏ rơi."
+            }
+        },
+        {
+            "content": "từ bỏ",
+            "type": "",
+            "example": {
+                "en": "You have forsaken every vow you ever took.",
+                "vi": "Ngươi đã từ bỏ mọi lời thề ngươi từng thề."
+            }
+        }
+    ]
+}

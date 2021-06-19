@@ -1,0 +1,52 @@
+{
+    "word": "genesis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjenəsəs/",
+            "/ˈdʒɛnəsəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnɪsɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguồn gốc",
+            "type": "noun",
+            "example": {
+                "en": "Think of the genesis of a human body.",
+                "vi": "Hãy nghĩ đến nguồn gốc của cơ thể con người."
+            }
+        },
+        {
+            "content": "căn nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khởi điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hình thành",
+            "type": "",
+            "example": {
+                "en": "But I do think that being involved in the genesis of this",
+                "vi": "Nhưng tôi thật sự nghĩ rằng việc tham gia vào sự hình thành điều này,"
+            }
+        },
+        {
+            "content": "cuốn chúa sáng tạo ra thế giới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "word": "glad",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlad/",
+            "/ɡlæd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlad/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mừng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to say that the boss has been very well lately.",
+                "vi": "Tôi mừng khi thấy gần đây sếp rất khỏe mạnh."
+            }
+        },
+        {
+            "content": "sung sướng",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to have a sister since I am all alone.",
+                "vi": "Anh cũng sung sướng vì có một đứa em gái, lâu nay anh rất cô đơn."
+            }
+        },
+        {
+            "content": "vui lòng",
+            "type": "adjective",
+            "example": {
+                "en": "Just tell me what you wanna look at, and I'd be glad to dig'em out.",
+                "vi": "Hãy nói cô muốn xem gì, tôi rất vui lòng lấy cho cô."
+            }
+        },
+        {
+            "content": "vui mừng",
+            "type": "adjective",
+            "example": {
+                "en": "Gestapo is so busy these days, I'm sure they'll be glad to get rid of me.",
+                "vi": "Những ngày này Gestapo rất bận rộn, tôi chắc là họ sẽ vui mừng đuổi tôi đi."
+            }
+        },
+        {
+            "content": "vui",
+            "type": "adjective",
+            "example": {
+                "en": "If you will help us, we will be very glad.",
+                "vi": "Nếu bạn giúp chúng tôi, chúng tôi sẽ rất vui."
+            }
+        },
+        {
+            "content": "vui sướng",
+            "type": "adjective",
+            "example": {
+                "en": "Even if it seems hard at first, you will be glad if you learn to read well.",
+                "vi": "Dù lúc đầu thấy khó, em sẽ vui sướng nếu em tập đọc giỏi."
+            }
+        },
+        {
+            "content": "hân hoan",
+            "type": "",
+            "example": {
+                "en": "Awfully glad about the expected new arrival, Yuri.",
+                "vi": "Trong niềm hân hoan tột cùng mong đợi một đứa bé ra đời."
+            }
+        },
+        {
+            "content": "mừng rỡ",
+            "type": "",
+            "example": {
+                "en": "and are glad it did not happen sooner,",
+                "vi": "và mừng rỡ bởi tới giờ mới hay,"
+            }
+        },
+        {
+            "content": "vui vẻ",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad you're having a good time with yourself.",
+                "vi": "Tớ mừng là cậu vui vẻ với chính mình."
+            }
+        },
+        {
+            "content": "hài lòng",
+            "type": "",
+            "example": {
+                "en": "I am sure he will be glad to hear about you underminig his authority.",
+                "vi": "Tôi chắc chắn ông ta sẽ rất hài lòng khi biết anh coi thường lệnh của ông ta."
+            }
+        },
+        {
+            "content": "hạnh phúc",
+            "type": "adjective",
+            "example": {
+                "en": "But most of the time, I hope you can be glad to be yourself.",
+                "vi": "Nhưng suốt thời gian còn lại, tôi mong các bạn hạnh phúc được là mình."
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "clamorous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklamərəs/",
+            "/ˈklæmərəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklamərəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "huyên náo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rầm rĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ầm ĩ",
+            "type": "adjective",
+            "example": {
+                "en": "Still, nations today, engrossed in self-interest, are clamoring more and more for their own sovereignty.",
+                "vi": "Tuy vậy, các nước ngày nay, vốn đặt nặng quyền lợi quốc gia, càng ngày càng lên tiếng ầm ĩ đòi chủ quyền riêng."
+            }
+        }
+    ]
+}

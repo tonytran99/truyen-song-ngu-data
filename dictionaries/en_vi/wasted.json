@@ -1,0 +1,35 @@
+{
+    "word": "wasted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwāstəd/",
+            "/ˈweɪstəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪstɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hom hem",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "võ",
+            "type": "adjective",
+            "example": {
+                "en": "My father wasted his time on you.",
+                "vi": "Thật phụ công cha ta đã truyền võ công cho ngươi."
+            }
+        }
+    ]
+}

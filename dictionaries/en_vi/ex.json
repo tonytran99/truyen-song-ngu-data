@@ -1,0 +1,62 @@
+{
+    "word": "ex",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eks/",
+            "/ɛks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ích",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người chồng",
+            "type": "",
+            "example": {
+                "en": "An ex-husband, a boyfriend.",
+                "vi": "Người chồng cũ, bạn trai.."
+            }
+        },
+        {
+            "content": "vợ trước",
+            "type": "",
+            "example": {
+                "en": "No answer at the ex-wife.",
+                "vi": "Chỗ ở bà vợ trước không ai nghe điện thoại."
+            }
+        },
+        {
+            "content": "xờ nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người yêu cũ",
+            "type": "",
+            "example": {
+                "en": "Your wife have any exes or people in her past with a history of violence?",
+                "vi": "Vợ anh có người yêu cũ nào có xu hướng bạo lực không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "ethical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeTHək(ə)l/",
+            "/ˈɛθək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛθɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đạo đức",
+            "type": "",
+            "example": {
+                "en": "But the problem is, we don't have the ethics to handle it.",
+                "vi": "Nhưng vấn đề là, ta không có đủ đạo đức để nắm giữ nó."
+            }
+        },
+        {
+            "content": "luân thường đạo lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng quy cách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có đạo đức",
+            "type": "",
+            "example": {
+                "en": "And even the most ethical human ruler is subject to inherent imperfection.",
+                "vi": "Ngay cả người lãnh đạo có đạo đức nhất cũng là người có bản chất không hoàn hảo."
+            }
+        }
+    ]
+}

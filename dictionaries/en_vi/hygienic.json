@@ -1,0 +1,39 @@
+{
+    "word": "hygienic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīˈjenik/",
+            "/haɪˈdʒɛnɪk/",
+            "/hīˈjēnik/",
+            "/haɪˈdʒinɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪˈdʒiːnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp vệ sinh",
+            "type": "",
+            "example": {
+                "en": "That doesn't seem hygienic.",
+                "vi": "Nghe chẳng hợp vệ sinh chút nào"
+            }
+        },
+        {
+            "content": "vệ sinh",
+            "type": "noun",
+            "example": {
+                "en": "First we work on personal hygiene, then we move on to the shopping.",
+                "vi": "Trước tiên chúng ta vệ sinh cá nhân, sau đó chúng ta chuyển sang mua sắm."
+            }
+        }
+    ]
+}

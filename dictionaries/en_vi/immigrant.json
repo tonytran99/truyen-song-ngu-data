@@ -1,0 +1,67 @@
+{
+    "word": "immigrant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiməɡrənt/",
+            "/ˈɪməɡrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmɪɡr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân nhập cư",
+            "type": "noun",
+            "example": {
+                "en": "They will be blaming immigrants and poor people.",
+                "vi": "Họ sẽ đổ lỗi cho dân nhập cư và người nghèo."
+            }
+        },
+        {
+            "content": "nhập cư",
+            "type": "noun",
+            "example": {
+                "en": "What other challenges do the children of immigrant parents face?",
+                "vi": "Con cái của những người nhập cư còn gặp phải những vấn đề nào nữa không?"
+            }
+        },
+        {
+            "content": "di dân",
+            "type": "noun",
+            "example": {
+                "en": "You can't arrest him simply because he's a bloody immigrant.",
+                "vi": "Các người không thể bắt cậu ấy chỉ vì cậu ấy là di dân."
+            }
+        },
+        {
+            "content": "kiều dân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người di dân",
+            "type": "adjective",
+            "example": {
+                "en": "Meanwhile, we have illegal immigrants doing all the work,",
+                "vi": "Trong khi chúng ta phải dùng người di dân bất hợp pháp để làm các việc đó,"
+            }
+        },
+        {
+            "content": "người nhập cư",
+            "type": "noun",
+            "example": {
+                "en": "What other challenges do the children of immigrant parents face?",
+                "vi": "Con cái của những người nhập cư còn gặp phải những vấn đề nào nữa không?"
+            }
+        }
+    ]
+}

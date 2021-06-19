@@ -1,0 +1,42 @@
+{
+    "word": "cyclically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsiklək(ə)lē/",
+            "/ˈsɪklək(ə)li/",
+            "/ˈsīklək(ə)lē/",
+            "/ˈsaɪklək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪklɪk(ə)li/",
+            "/ˈsʌɪklɪk(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đều đặn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một cách tuần hoàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo chu kỳ",
+            "type": "",
+            "example": {
+                "en": "The activity of the sun is cyclical with a period of roughly 11 years .",
+                "vi": "Mặt Trời hoạt động theo chu kỳ khoảng 11 năm ."
+            }
+        }
+    ]
+}

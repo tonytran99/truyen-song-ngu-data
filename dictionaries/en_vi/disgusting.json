@@ -1,0 +1,76 @@
+{
+    "word": "disgusting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈɡəstiNG/",
+            "/dɪsˈɡəstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈɡʌstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghê tởm",
+            "type": "adjective",
+            "example": {
+                "en": "All the garbage that everybody is disgusted by is not theirs.",
+                "vi": "Rác thải mà ai cũng ghê tởm ấy không phải là của họ."
+            }
+        },
+        {
+            "content": "kinh tởm",
+            "type": "",
+            "example": {
+                "en": "And I think that the opposite of disgust is actually love.",
+                "vi": "Tôi nghĩ rằng ngược lại với kinh tởm thực sự là tình yêu."
+            }
+        },
+        {
+            "content": "chán phè",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dễ sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gớm",
+            "type": "adjective",
+            "example": {
+                "en": "\" It moved , \" he cried , with a glance of disgust at the object as it lay on the floor .",
+                "vi": "\" Nó di chuyển , \" ông la lên , mắt liếc nhìn cái vật thể gớm ghiếc nằm trên sàn nhà ."
+            }
+        },
+        {
+            "content": "gớm ghê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ghê tởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh tởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng khinh",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

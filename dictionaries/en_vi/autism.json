@@ -1,0 +1,58 @@
+{
+    "word": "autism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôˌtizəm/",
+            "/ˈɔˌtɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːtɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính tự kỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tự kỷ",
+            "type": "",
+            "example": {
+                "en": "Why is autism so cool at the moment?",
+                "vi": "Tại sao Tự kỷ lại là mốt thời nay?"
+            }
+        },
+        {
+            "content": "bệnh tự kỷ",
+            "type": "noun",
+            "example": {
+                "en": "The earlier a kid starts treatment for autism , the better .",
+                "vi": "Trẻ mắc bệnh tự kỷ được điều trị càng sớm càng tốt ."
+            }
+        },
+        {
+            "content": "chứng tự kỷ",
+            "type": "noun",
+            "example": {
+                "en": "When does a nerd turn into Asperger, which is just mild autism?",
+                "vi": "Khi một người mọt sách mắc phải hội chứng Asperger, một chứng tự kỷ nhẹ?"
+            }
+        },
+        {
+            "content": "tự kỷ",
+            "type": "adjective verb",
+            "example": {
+                "en": "Sensory issues are common among children with autism .",
+                "vi": "Vấn đề giác quan là vấn đề thường gặp của trẻ bị tự kỷ ."
+            }
+        }
+    ]
+}

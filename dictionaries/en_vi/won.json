@@ -1,0 +1,135 @@
+{
+    "word": "won",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wən/",
+            "/wän/",
+            "/wɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌn/",
+            "/wɒn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thắng cuộc",
+            "type": "",
+            "example": {
+                "en": "I'll make sure you understand that when I've won your war for you.",
+                "vi": "Thần chắc chắn là bệ hạ hiểu điều đó khi thần thắng cuộc chiến này cho bệ hạ."
+            }
+        },
+        {
+            "content": "chiếm",
+            "type": "",
+            "example": {
+                "en": "We won a majority.",
+                "vi": "Ta đã chiếm đa số."
+            }
+        },
+        {
+            "content": "có được",
+            "type": "",
+            "example": {
+                "en": "I want to know how you won her.",
+                "vi": "Ta muốn biết làm cách nào mày có được ả."
+            }
+        },
+        {
+            "content": "kiếm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lôi kéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận được",
+            "type": "",
+            "example": {
+                "en": "The big deal was he happened to have won the Nobel prize for ozone chemistry.",
+                "vi": "Gê gớm hơn là ông đã nhận được giải thưởng Nobel cho hóa học ozone"
+            }
+        },
+        {
+            "content": "sự thắng cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu phục",
+            "type": "",
+            "example": {
+                "en": "I came, I saw, I won.",
+                "vi": "Tao đến, tao thấy, tao thu phục."
+            }
+        },
+        {
+            "content": "thu được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyết phục được",
+            "type": "",
+            "example": {
+                "en": "Valentine won you over, somehow.",
+                "vi": "Không biết sao Valentine đã thuyết phục được ông."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "I was surprised that you won the prize.",
+                "vi": "Tôi đã bất ngờ khi thấy bạn thắng giải đấy."
+            }
+        },
+        {
+            "content": "thắng trận",
+            "type": "",
+            "example": {
+                "en": "You do realize my grandfather won this battle?",
+                "vi": "Anh thực sự tin ông tôi sẽ thắng trận này?"
+            }
+        },
+        {
+            "content": "tranh thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoạt",
+            "type": "",
+            "example": {
+                "en": "I trained hard and won many tae kwon do championships in the state of Parana.",
+                "vi": "Tôi chăm chỉ luyện tập và đoạt nhiều giải vô địch ở bang Parana."
+            }
+        },
+        {
+            "content": "đạt đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đến",
+            "type": "verb adposition",
+            "example": {
+                "en": "Well, aren't you gonna go see if you won?",
+                "vi": "Cậu không đến xem cậu có thắng không à?"
+            }
+        }
+    ]
+}

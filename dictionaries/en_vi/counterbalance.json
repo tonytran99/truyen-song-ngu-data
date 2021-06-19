@@ -1,0 +1,38 @@
+{
+    "word": "counterbalance",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)ərˌbaləns/",
+            "/ˈkaʊn(t)ərˌbæləns/",
+            "/ˌkoun(t)ərˈbaləns/",
+            "/ˌkaʊn(t)ərˈbæləns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntəˌbal(ə)ns/",
+            "/ˌkaʊntəˈbal(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm ngang bằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đối trọng",
+            "type": "noun",
+            "example": {
+                "en": "It can also act as a counterbalance.",
+                "vi": "Nó cũng có thể đóng vai trò lực đối trọng."
+            }
+        }
+    ]
+}

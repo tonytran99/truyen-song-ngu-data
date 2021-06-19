@@ -1,0 +1,57 @@
+{
+    "word": "invader",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvādər/",
+            "/ɪnˈveɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈveɪdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ xâm lược",
+            "type": "noun",
+            "example": {
+                "en": "Those who have sided with the invaders will not be spared.",
+                "vi": "Những người đứng về phía kẻ xâm lược sẽ không được tha thứ."
+            }
+        },
+        {
+            "content": "giặc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quân xâm chiếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kẻ xâm chiếm",
+            "type": "",
+            "example": {
+                "en": "The invader draws the attention",
+                "vi": "Kẻ xâm chiếm lôi kéo sự chú ý"
+            }
+        },
+        {
+            "content": "kẻ xâm lấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ xâm phạm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

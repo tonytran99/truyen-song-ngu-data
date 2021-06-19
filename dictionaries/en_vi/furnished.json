@@ -1,0 +1,35 @@
+{
+    "word": "furnished",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərniSHt/",
+            "/ˈfərnɪʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːnɪʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có sãn đồ đạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có sẵn đồ đạc",
+            "type": "",
+            "example": {
+                "en": "And that man will show you a large, furnished upper room.",
+                "vi": "Người sẽ chỉ cho các anh một phòng lớn ở trên lầu, có sẵn đồ đạc."
+            }
+        }
+    ]
+}

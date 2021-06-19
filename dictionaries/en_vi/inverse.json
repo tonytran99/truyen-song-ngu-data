@@ -1,0 +1,68 @@
+{
+    "word": "inverse",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinvərs/",
+            "/ˈɪnvərs/",
+            "/inˈvərs/",
+            "/ɪnˈvərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnvəːs/",
+            "/ɪnˈvəːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngược",
+            "type": "adjective",
+            "example": {
+                "en": "So the horizontal images were all in inversion.",
+                "vi": "Vậy nên những hình ảnh cắt ngang là một sự đảo ngược."
+            }
+        },
+        {
+            "content": "cái ngược lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghịch đảo",
+            "type": "adjective",
+            "example": {
+                "en": "my friends and I came up with an inverse-square law.",
+                "vi": "Hồi còn đại học, tôi và bạn tôi nghĩ ra cái luật \" nghịch đảo bình phương \"."
+            }
+        },
+        {
+            "content": "ngược lại",
+            "type": "",
+            "example": {
+                "en": "is a moral logic and often an inverse logic.",
+                "vi": "là logic đạo đức, là logic ngược lại."
+            }
+        },
+        {
+            "content": "số nghịch đảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều ngược lại",
+            "type": "",
+            "example": {
+                "en": "What if the inverse is true,",
+                "vi": "Nếu như điều ngược lại là đúng,"
+            }
+        }
+    ]
+}

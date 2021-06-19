@@ -1,0 +1,38 @@
+{
+    "word": "debugging",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdēˈbəɡiNG/",
+            "/ˌdiˈbəɡɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdiːˈbʌɡɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gỡ lỗi",
+            "type": "",
+            "example": {
+                "en": "A dialog box for setting preferences for debug output",
+                "vi": "Một hộp thoại để thiết lập kết quả gỡ lỗi"
+            }
+        },
+        {
+            "content": "gỡ rối",
+            "type": "",
+            "example": {
+                "en": "Look, this guy couldn't debug a balled-up napkin.",
+                "vi": "Xem nào, anh chàng này còn không thể gỡ rối cái khăn bị vo tròn."
+            }
+        }
+    ]
+}

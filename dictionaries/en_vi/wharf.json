@@ -1,0 +1,74 @@
+{
+    "word": "wharf",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wôrf/",
+            "/(h)wɔrf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɔːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bến tàu",
+            "type": "noun",
+            "example": {
+                "en": "Officer down, nicholls wharf.",
+                "vi": "Sĩ quan bị hạ, đường bến tàu Nicholls."
+            }
+        },
+        {
+            "content": "cầu tàu",
+            "type": "noun",
+            "example": {
+                "en": "The following morning, the ship docked alongside the wharf.",
+                "vi": "Sáng hôm sau, con tàu cập bến dọc theo cầu tàu."
+            }
+        },
+        {
+            "content": "bến",
+            "type": "noun",
+            "example": {
+                "en": "The following morning, the ship docked alongside the wharf.",
+                "vi": "Sáng hôm sau, con tàu cập bến dọc theo cầu tàu."
+            }
+        },
+        {
+            "content": "bến cảng",
+            "type": "noun",
+            "example": {
+                "en": "I made money by selling drugs and goods stolen by wharf workers.",
+                "vi": "Tôi kiếm sống bằng nghề bán ma túy và những hàng hóa mà các công nhân bến cảng ăn cắp."
+            }
+        },
+        {
+            "content": "vào bến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vào kho ở bến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Khu bến cảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khu bến cảng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

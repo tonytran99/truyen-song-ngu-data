@@ -1,0 +1,83 @@
+{
+    "word": "turnover",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərnˌōvər/",
+            "/ˈtərnˌoʊvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːnəʊvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "doanh thu",
+            "type": "noun",
+            "example": {
+                "en": "We have the lowest turnover of any shop on K Street.",
+                "vi": "Chúng tôi có doanh thu thấp hơn bất kỳ cửa hàng nào ở phố K."
+            }
+        },
+        {
+            "content": "bánh kẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh xèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưu chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự luận chuyển vốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tròn xoay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đổ lật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng quay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vốn luân chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "doanh số",
+            "type": "noun",
+            "example": {
+                "en": "We're looking at a turnover of thirty million dollars.",
+                "vi": "Chúng tôi đã phải đưa doanh số lên 30 triệu đô-la."
+            }
+        },
+        {
+            "content": "sự quay vòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

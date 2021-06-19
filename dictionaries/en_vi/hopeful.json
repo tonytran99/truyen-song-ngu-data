@@ -1,0 +1,55 @@
+{
+    "word": "hopeful",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōpfəl/",
+            "/ˈhoʊpfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊpfʊl/",
+            "/ˈhəʊpf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầy hy vọng",
+            "type": "",
+            "example": {
+                "en": "No doubt these words filled the apostles with hope.",
+                "vi": "Chắc hẳn những lời này làm cho lòng các sứ đồ tràn đầy hy vọng."
+            }
+        },
+        {
+            "content": "có triển vọng",
+            "type": "",
+            "example": {
+                "en": "And Noah died with the hope of being resurrected to the prospect of eternal life on a paradise earth.",
+                "vi": "Nô-ê chết với hy vọng được sống lại và có triển vọng sống đời đời trên đất trở thành địa đàng."
+            }
+        },
+        {
+            "content": "hy vọng",
+            "type": "noun",
+            "example": {
+                "en": "I hope that the bus ride won't be boring.",
+                "vi": "Tôi hy vọng là chuyến đi xe buýt không quá chán."
+            }
+        },
+        {
+            "content": "đầy hứa hẹn",
+            "type": "",
+            "example": {
+                "en": "On this day, they are all smiles, and their future seems full of hope and promise.",
+                "vi": "Tương lai họ dường như đầy hứa hẹn và ngập tràn hy vọng."
+            }
+        }
+    ]
+}

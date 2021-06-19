@@ -1,0 +1,40 @@
+{
+    "word": "christmas",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrisməs/",
+            "/ˈkrɪsməs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪsməs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lễ Nô-en",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lễ giáng sinh",
+            "type": "",
+            "example": {
+                "en": "They will never have Christmas with them again.",
+                "vi": "Họ sẽ không bao giờ thưởng lễ Giáng sinh cùng các con mình"
+            }
+        },
+        {
+            "content": "lễ nô-en",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "wanting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwän(t)iNG/",
+            "/ˈwɑn(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "I want to buy my children everything I never had.",
+                "vi": "Mình muốn mua cho lũ trẻ tất cả những gì mình không có."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "Many a man's been left to die for want of an extra bullet.",
+                "vi": "Nhiều người đã chết chỉ vì thiếu một viên đạn."
+            }
+        },
+        {
+            "content": "khuyết",
+            "type": "adjective",
+            "example": {
+                "en": "All I wanted to do was rally the crescents against the vampires.",
+                "vi": "Tôi chỉ cần tập hợp bầy Trăng khuyết chống lại đám ma cà rồng."
+            }
+        },
+        {
+            "content": "ngu",
+            "type": "adjective",
+            "example": {
+                "en": "Most eggheads want to talk it away.",
+                "vi": "Nhiều thằng ngu lại muốn xóa nó đi."
+            }
+        },
+        {
+            "content": "đần",
+            "type": "",
+            "example": {
+                "en": "The crapness of your imagination makes me want to cry.",
+                "vi": "Trí tưởng tượng đần độn của anh làm em muốn khóc đấy."
+            }
+        }
+    ]
+}

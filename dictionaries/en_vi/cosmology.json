@@ -1,0 +1,45 @@
+{
+    "word": "cosmology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käzˈmäləjē/",
+            "/kɑzˈmɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒzˈmɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vũ trụ học",
+            "type": "noun",
+            "example": {
+                "en": "And I would link that to something called the cosmological constant.",
+                "vi": "Và tôi sẽ liên tưởng sự mơ hồ đó với sự bất biến của vũ trụ học"
+            }
+        },
+        {
+            "content": "vũ trụ luận",
+            "type": "noun",
+            "example": {
+                "en": "This last view of cosmology is called the relational view.",
+                "vi": "Quan điểm cuối của vũ trụ luận được gọi là quan điểm về các mối quan hệ."
+            }
+        },
+        {
+            "content": "Vũ trụ học",
+            "type": "",
+            "example": {
+                "en": "And I would link that to something called the cosmological constant.",
+                "vi": "Và tôi sẽ liên tưởng sự mơ hồ đó với sự bất biến của vũ trụ học"
+            }
+        }
+    ]
+}

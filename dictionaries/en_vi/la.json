@@ -1,0 +1,35 @@
+{
+    "word": "la",
+    "type": [
+        "adjective",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lä/",
+            "/lɑ/",
+            "/ˈˌel ˈā/",
+            "/ˈˌɛl ˈeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "la",
+            "type": "verb noun",
+            "example": {
+                "en": "That De la Cruz kid was in the wrong.",
+                "vi": "Thằng nhóc De la Cruz đó đã sai."
+            }
+        },
+        {
+            "content": "nhạc La",
+            "type": "",
+            "example": {
+                "en": "(Music: \"La Di Da Di\" by Slick Rick & Doug E. Fresh)",
+                "vi": "(Nhạc: \"La Di Da Di\" của Slick Rick & Doug E. Fresh)"
+            }
+        }
+    ]
+}

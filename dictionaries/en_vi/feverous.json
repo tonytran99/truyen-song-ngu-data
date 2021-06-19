@@ -1,0 +1,42 @@
+{
+    "word": "feverous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēv(ə)rəs/",
+            "/ˈfiv(ə)rəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːv(ə)rəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sốt",
+            "type": "adjective",
+            "example": {
+                "en": "You do not have a fever.",
+                "vi": "Bạn không có bị sốt."
+            }
+        },
+        {
+            "content": "có dịch sốt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "gây sốt",
+            "type": "adjective",
+            "example": {
+                "en": "The Prozac we gave her could have triggered serotonin syndrome, which would explain the fever.",
+                "vi": "Prozac mà chúng ta cho cô ta dùng có lẽ đã làm serotonin tăng quá độ, gây sốt."
+            }
+        }
+    ]
+}

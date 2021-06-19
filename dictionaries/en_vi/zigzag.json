@@ -1,0 +1,80 @@
+{
+    "word": "zigzag",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈziɡˌzaɡ/",
+            "/ˈzɪɡˌzæɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈzɪɡzaɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ chi",
+            "type": "",
+            "example": {
+                "en": "During the day, the captain maintained a zigzag course and fired shells continuously.",
+                "vi": "Ban ngày thuyền trưởng cho tàu chạy hình chữ chi và bắn trọng pháo liên tiếp."
+            }
+        },
+        {
+            "content": "đường chữ chi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chạy ngoằn ngoèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gấp khúc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hình chữ chi",
+            "type": "noun",
+            "example": {
+                "en": "During the day, the captain maintained a zigzag course and fired shells continuously.",
+                "vi": "Ban ngày thuyền trưởng cho tàu chạy hình chữ chi và bắn trọng pháo liên tiếp."
+            }
+        },
+        {
+            "content": "hầm hào chữ chi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngoằn ngoèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo hình chữ chi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường díc dắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngoằn ngèo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

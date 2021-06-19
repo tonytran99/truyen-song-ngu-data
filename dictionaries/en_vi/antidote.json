@@ -1,0 +1,40 @@
+{
+    "word": "antidote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)iˌdōt/",
+            "/ˈæn(t)ɪˌdoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪdəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc giải độc",
+            "type": "",
+            "example": {
+                "en": "I will have the antidote ready and waiting outside.",
+                "vi": "Ta sẽ có sẵn thuốc giải độc ở bên ngoài."
+            }
+        },
+        {
+            "content": "cái trừ tà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chất giải độc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

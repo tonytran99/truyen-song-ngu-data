@@ -1,0 +1,58 @@
+{
+    "word": "carnage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärnij/",
+            "/ˈkɑrnɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːnɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tàn sát",
+            "type": "",
+            "example": {
+                "en": "But what can justify such carnage?",
+                "vi": "Nhưng cái gì sẽ biện minh cho sự tàn sát này?"
+            }
+        },
+        {
+            "content": "sự chém giết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giết chóc",
+            "type": "",
+            "example": {
+                "en": "\" John Kramer, conundrum of carnage. \"",
+                "vi": "John Kramer: một kẻ giết chóc bí ẩn \""
+            }
+        },
+        {
+            "content": "thảm sát",
+            "type": "verb",
+            "example": {
+                "en": "Will he bring bloodshed and carnage upon all our heads?",
+                "vi": "hay ông ấy mang lại sự đổ máu và thảm sát đến cho chúng tôi?"
+            }
+        },
+        {
+            "content": "tàn sát",
+            "type": "",
+            "example": {
+                "en": "Know what I learned in all that carnage?",
+                "vi": "Biết tôi học được gì từ cuộc tàn sát đó không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "viceroy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvīsˌroi/",
+            "/ˈvaɪsˌrɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvʌɪsrɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phó vương",
+            "type": "noun",
+            "example": {
+                "en": "Without the viceroy, they will be lost and confused.",
+                "vi": "Không có phó vương, chúng sẽ rối loạn."
+            }
+        },
+        {
+            "content": "kinh lược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổng trấn",
+            "type": "noun",
+            "example": {
+                "en": "The viceroy seems to be enjoying a good share of his resources.",
+                "vi": "Viên tổng trấn chắc được hưởng những đồ cống phẩm hậu hĩnh."
+            }
+        },
+        {
+            "content": "Phó vương",
+            "type": "",
+            "example": {
+                "en": "The viceroy will be well-guarded.",
+                "vi": "Phó vương sẽ được bảo vệ cẩn mật."
+            }
+        }
+    ]
+}

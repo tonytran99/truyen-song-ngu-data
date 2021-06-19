@@ -1,0 +1,38 @@
+{
+    "word": "gridlock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡridˌläk/",
+            "/ˈɡrɪdˌlɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrɪdlɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bế tắc",
+            "type": "",
+            "example": {
+                "en": "These are the arguments we have which cause gridlock.",
+                "vi": "Những cuộc tranh luận mà chúng ta tiến hành đang gây ra bế tắc."
+            }
+        },
+        {
+            "content": "kẹt xe",
+            "type": "",
+            "example": {
+                "en": "There will be gridlocks.",
+                "vi": "Thế nào cũng kẹt xe."
+            }
+        }
+    ]
+}

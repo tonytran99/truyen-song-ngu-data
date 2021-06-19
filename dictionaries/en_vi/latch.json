@@ -1,0 +1,45 @@
+{
+    "word": "latch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/laCH/",
+            "/lætʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/latʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chốt cửa",
+            "type": "",
+            "example": {
+                "en": "Kinda like a door latch.",
+                "vi": "Như một chốt cửa."
+            }
+        },
+        {
+            "content": "then cửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gài then",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoá rập ngoài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

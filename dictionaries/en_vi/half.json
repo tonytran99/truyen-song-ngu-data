@@ -1,0 +1,159 @@
+{
+    "word": "half",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haf/",
+            "/hæf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɑːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nửa",
+            "type": "noun",
+            "example": {
+                "en": "He arrived half an hour late, so everyone was angry with him.",
+                "vi": "Anh ta đến trễ nửa tiếng, vì thế mọi người bực mình với anh ta."
+            }
+        },
+        {
+            "content": "phân nửa",
+            "type": "noun",
+            "example": {
+                "en": "If you leave, half this city will consume the other half.",
+                "vi": "Nếu anh đi, phân nửa kinh thành sẽ đi giết nửa còn lại."
+            }
+        },
+        {
+            "content": "một nửa",
+            "type": "noun",
+            "example": {
+                "en": "One-third is less than one-half.",
+                "vi": "Một phần ba nhỏ hơn một nửa."
+            }
+        },
+        {
+            "content": "rưỡi",
+            "type": "adverb",
+            "example": {
+                "en": "They have two and a half million vaccinators.",
+                "vi": "Họ có hai triệu rưỡi nhân viên tiêm chủng."
+            }
+        },
+        {
+            "content": "hiệp",
+            "type": "noun",
+            "example": {
+                "en": "What an amazing end to this first half of play.",
+                "vi": "Một kết thúc tuyệt vời cho hiệp đầu của trận đấu."
+            }
+        },
+        {
+            "content": "chưa đủ",
+            "type": "",
+            "example": {
+                "en": "I told the president even that wasn't half enough.",
+                "vi": "Mặc dù tôi đã nói với tổng thống là bao nhiêu đó vẫn chưa đủ."
+            }
+        },
+        {
+            "content": "rưởi",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "được",
+            "type": "verb",
+            "example": {
+                "en": "The job is half done.",
+                "vi": "Cũng được hòm hòm rồi."
+            }
+        },
+        {
+            "content": "ba mươi phút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dơ dở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gần như",
+            "type": "adverb",
+            "example": {
+                "en": "I half thought you might fail and Randa would come after me.",
+                "vi": "Tôi gần như đã tưởng là các cậu sẽ thất bại và Randa sẽ theo sau tôi."
+            }
+        },
+        {
+            "content": "học kỳ",
+            "type": "",
+            "example": {
+                "en": "Missed classes for half semester when you were in Grove Town",
+                "vi": "Bỏ lớp giữa học kỳ trong khi trò ở Grove Town."
+            }
+        },
+        {
+            "content": "kha khá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nửa giờ",
+            "type": "",
+            "example": {
+                "en": "After half an hour of this, he began to shake with the cold.",
+                "vi": "Sau nửa giờ chơi trò chơi này, ông bắt đầu run vì lạnh."
+            }
+        },
+        {
+            "content": "phân chia đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần nửa",
+            "type": "",
+            "example": {
+                "en": "The only difference is one of the dogs has a small button in its half of the box.",
+                "vi": "Sự khác biệt duy nhất là một trong những con chó này có một nút nhỏ nằm bên phần nửa hộp của nó."
+            }
+        },
+        {
+            "content": "phần thưởng một nửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bán",
+            "type": "noun",
+            "example": {
+                "en": "He then gave her and her family return tickets for the other half of her fare money.",
+                "vi": "Rồi ông bán cho chị và gia đình vé lượt về với nửa số tiền còn lại."
+            }
+        },
+        {
+            "content": "một phần",
+            "type": "",
+            "example": {
+                "en": "One-third is less than one-half.",
+                "vi": "Một phần ba nhỏ hơn một nửa."
+            }
+        }
+    ]
+}

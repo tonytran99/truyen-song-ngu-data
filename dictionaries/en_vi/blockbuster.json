@@ -1,0 +1,38 @@
+{
+    "word": "blockbuster",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbläkˌbəstər/",
+            "/ˈblɑkˌbəstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblɒkbʌstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bom tấn",
+            "type": "noun",
+            "example": {
+                "en": "now dominated by a culture of the Hollywood blockbuster.",
+                "vi": "giờ bị thống trị bởi văn hóa phim bom tấn Hollywood."
+            }
+        },
+        {
+            "content": "Bom tấn",
+            "type": "",
+            "example": {
+                "en": "now dominated by a culture of the Hollywood blockbuster.",
+                "vi": "giờ bị thống trị bởi văn hóa phim bom tấn Hollywood."
+            }
+        }
+    ]
+}

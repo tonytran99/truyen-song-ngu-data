@@ -1,0 +1,61 @@
+{
+    "word": "dare",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/der/",
+            "/dɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dám",
+            "type": "verb",
+            "example": {
+                "en": "She dared to never go back there.",
+                "vi": "Cô áy không dám trở lại đó nữa."
+            }
+        },
+        {
+            "content": "thách",
+            "type": "verb",
+            "example": {
+                "en": "And then I'd dare the audience to look at anything but me.",
+                "vi": "Và tôi thách khán giả nhìn vào bất cứ thứ gì khác ngoài tôi."
+            }
+        },
+        {
+            "content": "dám đương đầu với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dám làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thách thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thách thức",
+            "type": "",
+            "example": {
+                "en": "No one would dare challenge him on this.",
+                "vi": "Không ai dám thách thức ông ấy đâu."
+            }
+        }
+    ]
+}

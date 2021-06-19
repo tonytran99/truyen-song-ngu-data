@@ -1,0 +1,50 @@
+{
+    "word": "investigation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˌvestəˈɡāSH(ə)n/",
+            "/ɪnˌvɛstəˈɡeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˌvɛstɪˈɡeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều tra",
+            "type": "",
+            "example": {
+                "en": "The mayor thought that he should investigate the decline in tax revenues.",
+                "vi": "Thị trưởng nghĩ rằng ông ta nên điều tra về việc sụt giảm nguồn thu từ thuế."
+            }
+        },
+        {
+            "content": "cuộc điều tra",
+            "type": "noun",
+            "example": {
+                "en": "Our investigation is ongoing.",
+                "vi": "Cuộc điều tra của chúng tôi vẫn tiếp tục."
+            }
+        },
+        {
+            "content": "sự thăm dò",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự điều tra",
+            "type": "noun",
+            "example": {
+                "en": "The military will not tolerate an fbi investigation.",
+                "vi": "Quân đội sẽ không cho phép bất cứ sự điều tra nào của FBI đâu."
+            }
+        }
+    ]
+}

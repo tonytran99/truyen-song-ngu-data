@@ -1,0 +1,71 @@
+{
+    "word": "emperor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈemp(ə)rər/",
+            "/ˈɛmp(ə)rər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmp(ə)rə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoàng đế",
+            "type": "noun",
+            "example": {
+                "en": "The Emperor prayed for the souls of the deceased.",
+                "vi": "Hoàng đế cầu nguyện cho những linh hồn đã khuất."
+            }
+        },
+        {
+            "content": "thiên hoàng",
+            "type": "noun",
+            "example": {
+                "en": "Tell him I want an immediate audience with the emperor.",
+                "vi": "Nói với ổng tôi muốn diện kiến thiên hoàng ngay lập tức."
+            }
+        },
+        {
+            "content": "hoàng",
+            "type": "noun",
+            "example": {
+                "en": "The Emperor prayed for the souls of the deceased.",
+                "vi": "Hoàng đế cầu nguyện cho những linh hồn đã khuất."
+            }
+        },
+        {
+            "content": "hoàng thượng",
+            "type": "",
+            "example": {
+                "en": "For a gem once owned by an emperor.",
+                "vi": "Đây là thứ năm trước người Tây đem tặng cho hoàng thượng."
+            }
+        },
+        {
+            "content": "thiên tử",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thánh thượng",
+            "type": "noun",
+            "example": {
+                "en": "When the Emperor is gone, you will still be esteemed in this court.",
+                "vi": "Khi Thánh thượng băng hà, muội vẫn sẽ được sủng ái."
+            }
+        },
+        {
+            "content": "đế vương",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

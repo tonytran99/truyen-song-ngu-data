@@ -1,0 +1,53 @@
+{
+    "word": "vapor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvāpər/",
+            "/ˈveɪpər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hơi",
+            "type": "noun adverb",
+            "example": {
+                "en": "Ronnie was vaporized in the accelerator when it went critical.",
+                "vi": "Ronnie đã bị bốc hơi trong máy gia tốc khi nó ở thời điểm nguy cấp"
+            }
+        },
+        {
+            "content": "hơi nước",
+            "type": "noun",
+            "example": {
+                "en": "A cloud is a mass of vapor in the sky.",
+                "vi": "Mây là do hơi nước trong không trung tích tụ thành."
+            }
+        },
+        {
+            "content": "vapour",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khí",
+            "type": "noun",
+            "example": {
+                "en": "There's so much extra energy in the atmosphere, there's so much extra water vapor.",
+                "vi": "Có rất nhiều năng lượng thừa trong khí quyển, có rất nhiều hơi nước thừa."
+            }
+        },
+        {
+            "content": "Hơi nước",
+            "type": "",
+            "example": {
+                "en": "A cloud is a mass of vapor in the sky.",
+                "vi": "Mây là do hơi nước trong không trung tích tụ thành."
+            }
+        }
+    ]
+}

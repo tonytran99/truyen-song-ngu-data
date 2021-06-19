@@ -1,0 +1,42 @@
+{
+    "word": "chlorine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklôrēn/",
+            "/ˈklɔrin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɔːriːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "clo",
+            "type": "noun",
+            "example": {
+                "en": "I showered with chlorinated water, more concentrated than actually recommended.",
+                "vi": "Tôi tắm với nước khử trùng clo, cô đặc hơn được khuyên dùng."
+            }
+        },
+        {
+            "content": "Clo",
+            "type": "",
+            "example": {
+                "en": "Saltwater and electrolyte in the batteries makes chlorine gas.",
+                "vi": "Nước biển và chất điện phân trong nguồn điện tạo ra khí Clo"
+            }
+        },
+        {
+            "content": "chất clo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

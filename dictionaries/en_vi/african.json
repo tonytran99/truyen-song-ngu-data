@@ -1,0 +1,38 @@
+{
+    "word": "african",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈafrəkən/",
+            "/ˈæfrəkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈafrɪk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "châu phi",
+            "type": "",
+            "example": {
+                "en": "Uganda is an African country.",
+                "vi": "Uganda là một quốc gia châu Phi."
+            }
+        },
+        {
+            "content": "người châu phi",
+            "type": "",
+            "example": {
+                "en": "What is that, some african, mystical, mojo thing?",
+                "vi": "Cái đó là gì, người châu phi, vật thần bí hay pháp thuật hả?"
+            }
+        }
+    ]
+}

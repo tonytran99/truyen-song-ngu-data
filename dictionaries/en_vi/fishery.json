@@ -1,0 +1,71 @@
+{
+    "word": "fishery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiSHərē/",
+            "/ˈfɪʃəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪʃ(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công nghiệp cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghề cá",
+            "type": "noun",
+            "example": {
+                "en": "The tuna fishery is really entirely for the foreign market,",
+                "vi": "Nghề cá hồi thực sự là phục vụ toàn bộ cho thị trường ngoại địa,"
+            }
+        },
+        {
+            "content": "ngư nghiệp",
+            "type": "",
+            "example": {
+                "en": "and with them a possible solution for sustainable fisheries.",
+                "vi": "và cùng với đó là một giải pháp khả thi cho ngư nghiệp bền vững."
+            }
+        },
+        {
+            "content": "ngư trường",
+            "type": "",
+            "example": {
+                "en": "are very important for tuna fisheries,",
+                "vi": "đóng vai trò rất quan trọng đối với các ngư trường cá ngừ"
+            }
+        },
+        {
+            "content": "nơi nuôi cá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nơi đánh cá",
+            "type": "",
+            "example": {
+                "en": "forestry resources, fisheries, and discovered that yes, in case after case,",
+                "vi": "tài nguyên rừng, nơi đánh cá, và nhận ra rằng đúng là trong rất nhiều trường hợp,"
+            }
+        },
+        {
+            "content": "Thủy sản",
+            "type": "",
+            "example": {
+                "en": "I know that because I have friends who work on fisheries' research vessels",
+                "vi": "Tôi biết vì tôi có bạn bè làm việc trên tàu nghiên cứu thủy sản"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "geology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jēˈäləjē/",
+            "/dʒiˈɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪˈɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "địa chất học",
+            "type": "noun",
+            "example": {
+                "en": "One is, what is the route from geology to biology —",
+                "vi": "Một, từ địa chất học đến sinh học là theo con đường nào—"
+            }
+        },
+        {
+            "content": "地質學",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa chất",
+            "type": "noun",
+            "example": {
+                "en": "So far, it has helped us to understand the geology of Mars.",
+                "vi": "Cho đến nay, chúng ta có thể hiểu địa chất của sao Hỏa."
+            }
+        },
+        {
+            "content": "khoa địa chất",
+            "type": "noun",
+            "example": {
+                "en": "you can just write a geology textbook",
+                "vi": "bạn có thể chỉ cần viết một quyển sách giáo khoa địa chất"
+            }
+        }
+    ]
+}

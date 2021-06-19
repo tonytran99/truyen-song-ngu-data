@@ -1,0 +1,53 @@
+{
+    "word": "disclose",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈklōz/",
+            "/dɪsˈkloʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈkləʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiết lộ",
+            "type": "verb",
+            "example": {
+                "en": "The exact penitentiary where they are been held is under disclosed.",
+                "vi": "Trại giam giữ bọn chúng vẫn còn chưa được tiết lộ."
+            }
+        },
+        {
+            "content": "mở ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạch trần ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để lộ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạch trần",
+            "type": "",
+            "example": {
+                "en": "You have a moral obligation to disclose it to the court.",
+                "vi": "Em có bổn phận phải vạch trần nó ra trước tòa."
+            }
+        }
+    ]
+}

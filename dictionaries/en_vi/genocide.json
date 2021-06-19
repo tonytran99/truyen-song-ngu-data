@@ -1,0 +1,46 @@
+{
+    "word": "genocide",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjenəˌsīd/",
+            "/ˈdʒɛnəˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnəsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "diệt chủng",
+            "type": "",
+            "example": {
+                "en": "If we'd come here to commit genocide, every one of you would be dead.",
+                "vi": "Tom, nếu bọn ta đến đây để diệt chủng, mọi người của anh sẽ chết cả đấy."
+            }
+        },
+        {
+            "content": "tội diệt chủng",
+            "type": "noun",
+            "example": {
+                "en": "not to try to save the world through genocide.",
+                "vi": "không có gắng cứu vớt thế giới khỏi tội diệt chủng."
+            }
+        },
+        {
+            "content": "Diệt chủng",
+            "type": "",
+            "example": {
+                "en": "Well, I'm going to kill a few, but there won't be any genocide.",
+                "vi": "Tôi sẽ giết vài con, nhưng không đến mức diệt chủng."
+            }
+        }
+    ]
+}

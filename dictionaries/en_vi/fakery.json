@@ -1,0 +1,34 @@
+{
+    "word": "fakery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfāk(ə)rē/",
+            "/ˈfeɪk(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪkəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự làm giả",
+            "type": "",
+            "example": {
+                "en": "Pretty mediocre photographic fakery.",
+                "vi": "Một sự làm giả hình tầm thường."
+            }
+        },
+        {
+            "content": "vật làm giả",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "word": "weathering",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweT͟H(ə)riNG/",
+            "/ˈwɛð(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛð(ə)rɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gió mưa",
+            "type": "",
+            "example": {
+                "en": "And every Friday evening, a film, no matter what the weather.",
+                "vi": "Và mỗi tối thứ 6, vẫn cùng nhau xem phim không quản gió mưa."
+            }
+        },
+        {
+            "content": "nắng mưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong hóa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phong hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rã ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vụn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đổi màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời tiết",
+            "type": "noun",
+            "example": {
+                "en": "According to the weather forecast, it'll snow tomorrow.",
+                "vi": "Theo dự báo thời tiết, mai sẽ có tuyết."
+            }
+        },
+        {
+            "content": "tuyết sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phong hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong hoá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

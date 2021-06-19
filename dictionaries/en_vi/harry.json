@@ -1,0 +1,49 @@
+{
+    "word": "harry",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈherē/",
+            "/ˈhɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhari/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quấy rầy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cướp bóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phiền",
+            "type": "",
+            "example": {
+                "en": "We don't bother them nor Sir Harry Percival, and they don't bother us.",
+                "vi": "Chúng tôi không làm phiền họ cũng như ngài Percival, và họ không làm phiền chúng tôi."
+            }
+        },
+        {
+            "content": "phiền nhiễu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn phá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

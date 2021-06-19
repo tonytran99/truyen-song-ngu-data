@@ -1,0 +1,49 @@
+{
+    "word": "integer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)əjər/",
+            "/ˈɪn(t)ədʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntɪdʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "số nguyên",
+            "type": "noun",
+            "example": {
+                "en": "I have come to believe that for Ramanujan, every single positive integer is one of his personal friends.",
+                "vi": "Tôi buộc phải tin rằng đối với Ramanujan, mỗi một số nguyên dương đều là bạn của cậu ta."
+            }
+        },
+        {
+            "content": "cái nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn bộ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tổng thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật trọn vẹn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

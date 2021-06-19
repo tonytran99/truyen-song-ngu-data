@@ -1,0 +1,64 @@
+{
+    "word": "feigned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fānd/",
+            "/feɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/feɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả vờ",
+            "type": "",
+            "example": {
+                "en": "He feigns inferiority to encourage his opponent's advance.",
+                "vi": "Nó giả vờ đuối thế để dụ địch thủ tiến lên."
+            }
+        },
+        {
+            "content": "bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bịa đặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giả",
+            "type": "adjective verb",
+            "example": {
+                "en": "He feigns inferiority to encourage his opponent's advance.",
+                "vi": "Nó giả vờ đuối thế để dụ địch thủ tiến lên."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "",
+            "example": {
+                "en": "She never dreamt she was being entrapped into a feigned union with a defrauded wretch.",
+                "vi": "Cô không bao giờ ngờ là mình đang bị dụ dỗ vào một cuộc hôn nhân giả mạo với một kẻ lừa lọc xấu xa."
+            }
+        },
+        {
+            "content": "giả đò",
+            "type": "",
+            "example": {
+                "en": "To do without to be is hypocrisy, or feigning to be what one is not—a pretender.",
+                "vi": "Làm mà không thật lòng là đạo đức giả, giả vờ là một người nào đó—là một kẻ giả đò."
+            }
+        }
+    ]
+}

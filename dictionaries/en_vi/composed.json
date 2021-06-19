@@ -1,0 +1,51 @@
+{
+    "word": "composed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpōzd/",
+            "/kəmˈpoʊzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpəʊzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình tĩnh",
+            "type": "adjective",
+            "example": {
+                "en": "He is calm and composed because he has the situation under control.",
+                "vi": "Anh bình tĩnh là vì anh biết mình làm chủ được tình thế."
+            }
+        },
+        {
+            "content": "trấn tĩnh",
+            "type": "",
+            "example": {
+                "en": "Perhaps Mrs. Abel would like to compose herself privately?",
+                "vi": "Có thể Mrs. Abel đi trấn tĩnh lại ở chỗ riêng?"
+            }
+        },
+        {
+            "content": "điềm tĩnh",
+            "type": "adjective",
+            "example": {
+                "en": "The patient person remains composed; the impatient one becomes hasty and irritable.",
+                "vi": "Người kiên nhẫn giữ được sự điềm tĩnh; còn người thiếu kiên nhẫn trở nên hấp tấp và cáu kỉnh."
+            }
+        },
+        {
+            "content": "điềm đạm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

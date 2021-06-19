@@ -1,0 +1,57 @@
+{
+    "word": "watermelon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərˌmelən/",
+            "/ˈwɔdərˌmɛlən/",
+            "/ˈwädərˌmelən/",
+            "/ˈwɑdərˌmɛlən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːtəmɛlən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dưa hấu",
+            "type": "noun",
+            "example": {
+                "en": "I like to eat watermelon.",
+                "vi": "Tôi thích ăn dưa hấu."
+            }
+        },
+        {
+            "content": "quả dưa hấu",
+            "type": "",
+            "example": {
+                "en": "I always landed like a watermelon out of a third floor window.",
+                "vi": "Tôi luôn hạ cánh giống như một quả dưa hấu rơi từ cửa sổ tầng 3."
+            }
+        },
+        {
+            "content": "cây dưa hấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dưa đỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dưa hấu",
+            "type": "",
+            "example": {
+                "en": "I like to eat watermelon.",
+                "vi": "Tôi thích ăn dưa hấu."
+            }
+        }
+    ]
+}

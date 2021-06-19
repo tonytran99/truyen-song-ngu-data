@@ -1,0 +1,59 @@
+{
+    "word": "cryptic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkriptik/",
+            "/ˈkrɪptɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪptɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mật",
+            "type": "noun",
+            "example": {
+                "en": "\" So the virus could be cryptically spreading in the population . \"",
+                "vi": "\" Cho nên vi-rút có thể phát tán một cách bí mật trong quần thể sinh học . \""
+            }
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "\" So the virus could be cryptically spreading in the population . \"",
+                "vi": "\" Cho nên vi-rút có thể phát tán một cách bí mật trong quần thể sinh học . \""
+            }
+        },
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {
+                "en": "I just wanted to apologize for being so cryptic earlier.",
+                "vi": "Tôi chỉ muốn xin lỗi vì những hành động khó hiểu trước đây."
+            }
+        },
+        {
+            "content": "kín đáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bí ẩn",
+            "type": "",
+            "example": {
+                "en": "The hand began to write a cryptic message upon the plaster.",
+                "vi": "Bàn tay bắt đầu viết một thông điệp bí ẩn trên bức tường trát vữa."
+            }
+        }
+    ]
+}

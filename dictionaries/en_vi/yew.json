@@ -1,0 +1,40 @@
+{
+    "word": "yew",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞o/",
+            "/ju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gỗ thuỷ tùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây thủy tùng",
+            "type": "",
+            "example": {
+                "en": "They stopped to rest under the branches of a yew tree.",
+                "vi": "Họ dừng chân nghỉ ngơi dưới những nhánh cây thủy tùng."
+            }
+        },
+        {
+            "content": "тис",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

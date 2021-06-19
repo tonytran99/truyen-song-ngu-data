@@ -1,0 +1,36 @@
+{
+    "word": "hollywood",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhälēˌwo͝od/",
+            "/ˈhɑliˌwʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒlɪwʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phim Hô-li-út",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hollywood",
+            "type": "",
+            "example": {
+                "en": "I love Hollywood movies.",
+                "vi": "Tôi thích xem phim Hollywood."
+            }
+        }
+    ]
+}

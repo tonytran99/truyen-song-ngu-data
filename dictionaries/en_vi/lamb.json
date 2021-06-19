@@ -1,0 +1,82 @@
+{
+    "word": "lamb",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lam/",
+            "/læm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cừu con",
+            "type": "",
+            "example": {
+                "en": "Faust always remembered the bleating of his frightened lamb.",
+                "vi": "Faust luôn luôn nhớ đến tiếng kêu của con cừu con đầy sợ hãi của ông."
+            }
+        },
+        {
+            "content": "cừu non",
+            "type": "noun",
+            "example": {
+                "en": "Like Mussolini many people would object to being classed as lambs and sheep.",
+                "vi": "Giống như Mussolini, nhiều người không thích bị xếp vào hạng cừu non và chiên."
+            }
+        },
+        {
+            "content": "em nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ngây thơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người yếu đuối",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thịt cừu",
+            "type": "",
+            "example": {
+                "en": "Very nearly as good as Welsh lamb and that's saying something.",
+                "vi": "Ngon không thua thịt cừu xứ Wales và cái đó rất có ý nghĩa."
+            }
+        },
+        {
+            "content": "thịt cừu non",
+            "type": "noun",
+            "example": {
+                "en": "They were slaughtering the spring lambs?",
+                "vi": "Họ đang mổ thịt cừu non phải không?"
+            }
+        },
+        {
+            "content": "đẻ con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con cừu",
+            "type": "",
+            "example": {
+                "en": "But the boy ran after them, and saved the lamb from the bear’s mouth.",
+                "vi": "Nhưng chàng rượt theo con gấu và cứu con cừu khỏi miệng gấu."
+            }
+        }
+    ]
+}

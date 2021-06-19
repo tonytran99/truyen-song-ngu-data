@@ -1,0 +1,35 @@
+{
+    "word": "epileptic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌepəˈleptik/",
+            "/ˌɛpəˈlɛptɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛpɪˈlɛptɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động kinh",
+            "type": "",
+            "example": {
+                "en": "I have seen epileptic seizures that have broken bones, Mrs. Ives.",
+                "vi": "Tôi đã từng thấy động kinh co giật gãy cả xương cơ mà, chị Ives."
+            }
+        },
+        {
+            "content": "xem người động kinh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

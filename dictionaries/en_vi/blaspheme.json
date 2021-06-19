@@ -1,0 +1,42 @@
+{
+    "word": "blaspheme",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blasˈfēm/",
+            "/blæsˈfim/",
+            "/ˈblasˌfēm/",
+            "/ˈblæsˌfim/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blasˈfiːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báng bổ",
+            "type": "",
+            "example": {
+                "en": "I blaspheme with impunity because the Company is at my heel.",
+                "vi": "Tôi báng bổ mà không bị trừng phạt vì Công ty nằm dưới gót chân tôi."
+            }
+        },
+        {
+            "content": "chửi rủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lăng mạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

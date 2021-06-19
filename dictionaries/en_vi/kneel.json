@@ -1,0 +1,46 @@
+{
+    "word": "kneel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nēl/",
+            "/nil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/niːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quỳ",
+            "type": "",
+            "example": {
+                "en": "You'll forgive us for not kneeling and kissing the ring.",
+                "vi": "Thứ lỗi cho tôi khi không quỳ và hôn nhẫn."
+            }
+        },
+        {
+            "content": "quì",
+            "type": "verb",
+            "example": {
+                "en": "You can kill when you can't even kneel properly?",
+                "vi": "Mày giết người khi mà mày thậm chí còn chưa biết quì thế nào cho đúng."
+            }
+        },
+        {
+            "content": "quỳ xuống",
+            "type": "",
+            "example": {
+                "en": "If it doesn't matter, then you might as well kneel.",
+                "vi": "Nếu không quan trọng thì các người cũng có thể quỳ xuống."
+            }
+        }
+    ]
+}

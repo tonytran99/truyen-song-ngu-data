@@ -1,0 +1,76 @@
+{
+    "word": "juggle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjəɡəl/",
+            "/ˈdʒəɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {
+                "en": "Juggling 15 clients a year.",
+                "vi": "Lừa bịp 15 khách hàng một năm."
+            }
+        },
+        {
+            "content": "tung hứng",
+            "type": "noun",
+            "example": {
+                "en": "I've been juggling senators most of the day.",
+                "vi": "Tôi đã tung hứng với các Thượng nghị sĩ cả ngày nay."
+            }
+        },
+        {
+            "content": "lừa dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "múa rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lừa gạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò múa rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò tung hứng",
+            "type": "",
+            "example": {
+                "en": "That juggling thing is amazing.",
+                "vi": "Cái trò tung hứng đấy thật sự rất là kinh ngạc đấy."
+            }
+        },
+        {
+            "content": "xuyên tạc",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

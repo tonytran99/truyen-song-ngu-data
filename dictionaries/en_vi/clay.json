@@ -1,0 +1,51 @@
+{
+    "word": "clay",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klā/",
+            "/kleɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kleɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đất sét",
+            "type": "noun",
+            "example": {
+                "en": "You notice the clay on the soles of her feet.",
+                "vi": "Các em thấy vết đất sét trên gót chân chị kia đó."
+            }
+        },
+        {
+            "content": "sét",
+            "type": "noun",
+            "example": {
+                "en": "And he wore overalls and he smoked a clay pipe.",
+                "vi": "Và ổng mặc bộ đồ trùm kín và hút một cái tẩu bằng đất sét."
+            }
+        },
+        {
+            "content": "cơ thể người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đất sét",
+            "type": "",
+            "example": {
+                "en": "The soil was hard, dry, and full of clay, making digging very difficult.",
+                "vi": "Đất quá cứng, khô, và đầy đất sét làm cho rất khó đào."
+            }
+        }
+    ]
+}

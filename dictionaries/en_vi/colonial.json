@@ -1,0 +1,46 @@
+{
+    "word": "colonial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlōnyəl/",
+            "/kəˈloʊnjəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈləʊnɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực dân",
+            "type": "",
+            "example": {
+                "en": "I know, one has to reason with these colonials to get them to do anything",
+                "vi": "Phải tranh luận với những tên thực dân này để bắt chúng làm gì đó"
+            }
+        },
+        {
+            "content": "thuộc địa",
+            "type": "noun",
+            "example": {
+                "en": "What are they going to think when we actually form a colony on Mars?",
+                "vi": "Chúng ta sẽ nghĩ gì khi chúng ta tạo ra được khu thuộc địa trên sao Hỏa?"
+            }
+        },
+        {
+            "content": "tên thực dân",
+            "type": "",
+            "example": {
+                "en": "I know, one has to reason with these colonials to get them to do anything",
+                "vi": "Phải tranh luận với những tên thực dân này để bắt chúng làm gì đó"
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "word": "fifth",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fi(f)TH/",
+            "/fɪ(f)θ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪfθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thứ năm",
+            "type": "adjective, numeral",
+            "example": {
+                "en": "But I want to suggest that there's also a fifth one.",
+                "vi": "Nhưng tôi muốn chỉ ra rằng còn có yếu tố thứ năm nữa."
+            }
+        },
+        {
+            "content": "một phần năm",
+            "type": "",
+            "example": {
+                "en": "Compared to an ordinary person, I have lived only one fifth of my life.",
+                "vi": "Như vậy tôi chỉ sống một phần năm một đời sống bình thường."
+            }
+        },
+        {
+            "content": "ngày mùng năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một phần năm galông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngày mồng năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thứ năm",
+            "type": "",
+            "example": {
+                "en": "Fail me again, and yours will be the fifth.",
+                "vi": "Làm ta thất vọng lần nữa... Và ngươi sẽ là người thứ năm."
+            }
+        },
+        {
+            "content": "quâng năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật thứ năm",
+            "type": "",
+            "example": {
+                "en": "The fifth thing is a mystery.",
+                "vi": "Vật thứ năm là một điều bí mật."
+            }
+        },
+        {
+            "content": "vật thừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm năm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

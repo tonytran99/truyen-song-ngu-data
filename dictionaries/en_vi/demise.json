@@ -1,0 +1,80 @@
+{
+    "word": "demise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmīz/",
+            "/dəˈmaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho mướn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyển nhượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhượng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự băng hà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự nhượng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự qua đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự truyền lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự để lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để lại",
+            "type": "",
+            "example": {
+                "en": "Well, the unfortunate demise of your husband has left you quite a sizable estate.",
+                "vi": "Cái chết bất hạnh của cồng bà đã để lại cho bà một tài sản to lớn."
+            }
+        }
+    ]
+}

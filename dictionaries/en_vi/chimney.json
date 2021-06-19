@@ -1,0 +1,81 @@
+{
+    "word": "chimney",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHimnē/",
+            "/ˈtʃɪmni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɪmni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ống khói",
+            "type": "noun",
+            "example": {
+                "en": "If they're unfriendly, I'll give you a sign to damp the chimney.",
+                "vi": "Nếu họ không thân thiện ta sẽ ra tín hiệu để cô che ống khói lại."
+            }
+        },
+        {
+            "content": "bóng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hẽm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miệng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bóng đèn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chụp đèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khe núi",
+            "type": "",
+            "example": {
+                "en": "Looks like she wouldn't mind St. Nick stuffed down her chimney.",
+                "vi": "Có vẻ cô ấy không để ý St. Nick đã ban phát gì lên khe núi đó."
+            }
+        },
+        {
+            "content": "lò sưởi",
+            "type": "",
+            "example": {
+                "en": "When it picks up, the chimneys form a vacuum and with the windows all shuttered up, the house...",
+                "vi": "Khi nó nổi lên, ống khói lò sưởi hình thành một khối chân không và với các cửa sổ đập mạnh, căn nhà-"
+            }
+        },
+        {
+            "content": "thông phong đèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông phong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

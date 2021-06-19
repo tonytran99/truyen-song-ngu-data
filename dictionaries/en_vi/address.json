@@ -1,0 +1,221 @@
+{
+    "word": "address",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdres/",
+            "/əˈdrɛs/",
+            "/ˈaˌdres/",
+            "/ˈæˌdrɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdrɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "địa chỉ",
+            "type": "noun",
+            "example": {
+                "en": "I need the exact address so that I may go there.",
+                "vi": "Tôi cần một địa chỉ chính xác để có thể tới đó."
+            }
+        },
+        {
+            "content": "地址",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bài diễn văn",
+            "type": "noun",
+            "example": {
+                "en": "All I'm looking for is a line in his address.",
+                "vi": "Cái tôi mong muốn là một dòng chữ trong bài diễn văn của ông ấy."
+            }
+        },
+        {
+            "content": "diễn văn",
+            "type": "noun",
+            "example": {
+                "en": "All I'm looking for is a line in his address.",
+                "vi": "Cái tôi mong muốn là một dòng chữ trong bài diễn văn của ông ấy."
+            }
+        },
+        {
+            "content": "xưng hô",
+            "type": "",
+            "example": {
+                "en": "The Treaty of Versailles forbids any other form of address.",
+                "vi": "Hiệp ước Versailles ngăn cấm mọi hình thức xưng hô vua chúa."
+            }
+        },
+        {
+            "content": "đề địa chỉ",
+            "type": "",
+            "example": {
+                "en": "The package is addressed to \" Duluth. \"",
+                "vi": "Bưu kiện đề địa chỉ \" Duluth. \""
+            }
+        },
+        {
+            "content": "gọi",
+            "type": "verb",
+            "example": {
+                "en": "You'll address him as sir, and his wife as madame.",
+                "vi": "Anh phải gọi ông ấy là ngài và vợ của ông ấy là phu nhân."
+            }
+        },
+        {
+            "content": "gửi",
+            "type": "verb",
+            "example": {
+                "en": "I'm told the invitation you handed in at the desk was addressed to Damon Coldfield.",
+                "vi": "Tôi đã hỏi vé mơì anh tại bàn làm việc đã được gửi đến Damon Coldfield."
+            }
+        },
+        {
+            "content": "chú tâm đến",
+            "type": "",
+            "example": {
+                "en": "He was practical and addressed the real needs and concerns of the people.",
+                "vi": "Ngài rất là thực tế và chú tâm đến nhu cầu và mối quan tâm thật sự của người ta."
+            }
+        },
+        {
+            "content": "chỗ ở",
+            "type": "noun",
+            "example": {
+                "en": "Give us your son's name and address.",
+                "vi": "Cho chúng ta biết tên và địa chỉ chỗ ở của con trai ông."
+            }
+        },
+        {
+            "content": "nhắm",
+            "type": "",
+            "example": {
+                "en": "The first purpose specifically addresses the descendants of the children of Lehi.",
+                "vi": "Mục đích đầu tiên đặc biệt nhắm vào hậu duệ của con cái Lê Hi."
+            }
+        },
+        {
+            "content": "bài nói chuyện",
+            "type": "noun",
+            "example": {
+                "en": "The full text of this address in English can be found at speeches.byu.edu.",
+                "vi": "Có thể tìm ra toàn bộ bài nói chuyện này bằng tiếng Anh tại trang mạng speeches.byu.edu."
+            }
+        },
+        {
+            "content": "cách nói năng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diễn thuyết trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải quyết",
+            "type": "động từ",
+            "example": {
+                "en": "It's just a matter of whether we want to address it now.",
+                "vi": "Vấn đề là chúng ta có muốn giải quyết nó bây giờ hay không."
+            }
+        },
+        {
+            "content": "nói chuyện với",
+            "type": "",
+            "example": {
+                "en": "I see you've finally learned how to address your betters.",
+                "vi": "Ta thấy là ngươi cuối cùng cũng biết cách nói chuyện với người bề trên rồi."
+            }
+        },
+        {
+            "content": "nói với",
+            "type": "",
+            "example": {
+                "en": "And you do not address me unless I have spoken to you first.",
+                "vi": "Và cậu không được hỏi tôi cho đến khi tôi nói với cậu trước."
+            }
+        },
+        {
+            "content": "sự khéo léo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khôn ngoan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngỏ ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tán tỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tỏ tình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn tâm toàn ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viết cho",
+            "type": "",
+            "example": {
+                "en": "It could be addressed to the author of the book or to a character in it.",
+                "vi": "Có thể viết cho tác giả hoặc cho một nhân vật trong sách."
+            }
+        },
+        {
+            "content": "địa chỉ nhà",
+            "type": "",
+            "example": {
+                "en": "It asked you to put in the address where you grew up at the beginning of it.",
+                "vi": "Khi mới bắt đầu, nó sẽ yêu cầu bạn nhập địa chỉ nhà nơi bạn sinh ra."
+            }
+        },
+        {
+            "content": "xưng",
+            "type": "",
+            "example": {
+                "en": "The Treaty of Versailles forbids any other form of address.",
+                "vi": "Hiệp ước Versailles ngăn cấm mọi hình thức xưng hô vua chúa."
+            }
+        },
+        {
+            "content": "hướng",
+            "type": "",
+            "example": {
+                "en": "We need to address the media right away.",
+                "vi": "Chúng ta cần định hướng truyền thông ngay."
+            }
+        },
+        {
+            "content": "Địa chỉ",
+            "type": "",
+            "example": {
+                "en": "I need the exact address so that I may go there.",
+                "vi": "Tôi cần một địa chỉ chính xác để có thể tới đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "eel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēl/",
+            "/il/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá chình",
+            "type": "noun",
+            "example": {
+                "en": "That's the biggest moray eel I ever saw.",
+                "vi": "Đó là con cá chình bự nhất mà tôi từng thấy."
+            }
+        },
+        {
+            "content": "lươn",
+            "type": "noun",
+            "example": {
+                "en": "Some people dislike eels because they look like snakes.",
+                "vi": "Một số người không thích lươn vì trông bọn nó giống rắn."
+            }
+        },
+        {
+            "content": "con lươn",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to put like an electric eel in one of these tubes.",
+                "vi": "Em sẽ bỏ con lươn điện vào một trong mấy cái ống kia."
+            }
+        },
+        {
+            "content": "con cá chình",
+            "type": "",
+            "example": {
+                "en": "That's the biggest moray eel I ever saw.",
+                "vi": "Đó là con cá chình bự nhất mà tôi từng thấy."
+            }
+        },
+        {
+            "content": "con giun giấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thịt lươn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ cá chình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

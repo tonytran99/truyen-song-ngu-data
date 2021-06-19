@@ -1,0 +1,74 @@
+{
+    "word": "imperfect",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpərfəkt/",
+            "/ɪmˈpərfəkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpəːfɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chưa hoàn thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất toàn",
+            "type": "adjective",
+            "example": {
+                "en": "All of us struggle with inherent weakness and imperfection.",
+                "vi": "Mỗi người trong chúng ta phải chống cự lại sự yếu đuối và sự bất toàn cố hữu."
+            }
+        },
+        {
+            "content": "còn dở dang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hoàn chỉnh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không hoàn hảo",
+            "type": "adjective",
+            "example": {
+                "en": "And so these folks had, very simply, the courage to be imperfect.",
+                "vi": "Vậy những người này rất đơn giản, có dũng khí để là người không hoàn hảo."
+            }
+        },
+        {
+            "content": "không hoàn thiện",
+            "type": "",
+            "example": {
+                "en": "Consequently, all of us are born with a stain of imperfection.",
+                "vi": "Hậu quả là tất cả chúng ta sinh ra đều không hoàn thiện."
+            }
+        },
+        {
+            "content": "không hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "and 60 years of imperfect equality,",
+                "vi": "và 60 năm của một sự bình đẳng không hoàn toàn,"
+            }
+        }
+    ]
+}

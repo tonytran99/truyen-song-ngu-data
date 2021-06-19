@@ -1,0 +1,83 @@
+{
+    "word": "injection",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈjekSH(ə)n/",
+            "/ɪnˈdʒɛkʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʒɛkʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tiêm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mũi tiêm",
+            "type": "noun",
+            "example": {
+                "en": "After today, you won't have to wait so long between injections.",
+                "vi": "Sau ngày hôm nay thì con không còn phải để ý đến những mũi tiêm nữa."
+            }
+        },
+        {
+            "content": "sự chích thuốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiêm",
+            "type": "",
+            "example": {
+                "en": "You inject that stuff into your body to control the Lickers, right?",
+                "vi": "Cách anh tiêm nó vào để kiềm Licker à?"
+            }
+        },
+        {
+            "content": "chất tiêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phát tiêm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phép nội xạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phun",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc tiêm",
+            "type": "",
+            "example": {
+                "en": "Increasingly, the main or active ingredient in some injections is a recombinant product that is not from blood.",
+                "vi": "Ngày càng nhiều thành phần chính hoặc hoạt tính của một số thuốc tiêm là sản phẩm tái tổ hợp không đến từ máu."
+            }
+        },
+        {
+            "content": "tiêm thuốc",
+            "type": "",
+            "example": {
+                "en": "I suppose you think lethal injection's funny too.",
+                "vi": "Chắc các anh nghĩ tiêm thuốc tử hình cũng hay?"
+            }
+        }
+    ]
+}

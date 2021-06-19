@@ -1,0 +1,43 @@
+{
+    "word": "undying",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈdīiNG/",
+            "/ˌənˈdaɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈdʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất diệt",
+            "type": "adjective",
+            "example": {
+                "en": "They were undying, like me, creatures of perpetual resurrection.",
+                "vi": "Họ là bất diệt, như ta, những sinh vật tái sinh bất tận."
+            }
+        },
+        {
+            "content": "bất tử",
+            "type": "",
+            "example": {
+                "en": "E-mailing her undying love from Aurora, Illinois.",
+                "vi": "Đang gửi tình yêu bất tử từ Aurora, Illinois."
+            }
+        },
+        {
+            "content": "không chết",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

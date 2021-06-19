@@ -1,0 +1,46 @@
+{
+    "word": "educated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈejəˌkādəd/",
+            "/ˈɛdʒəˌkeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdjʊkeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có học",
+            "type": "",
+            "example": {
+                "en": "We know that he was a humble and not academically educated young man.",
+                "vi": "Chúng ta biết rằng ông là một thiếu niên hèn mọn và không có học vấn."
+            }
+        },
+        {
+            "content": "có học thức",
+            "type": "",
+            "example": {
+                "en": "Some are well educated, while others have very little education.",
+                "vi": "Một số người có học thức cao, trong khi đó những người khác rất ít học."
+            }
+        },
+        {
+            "content": "được đào tạo",
+            "type": "",
+            "example": {
+                "en": "These are smart, well-educated kids, hand-picked and trained to be martyrs.",
+                "vi": "Họ thông minh, được đào tạo bài bản, được chọn lọc kỹ và huấn luyện để hi sinh."
+            }
+        }
+    ]
+}

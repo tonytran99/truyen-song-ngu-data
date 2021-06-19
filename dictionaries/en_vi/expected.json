@@ -1,0 +1,38 @@
+{
+    "word": "expected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈspektəd/",
+            "/ɪkˈspɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dự kiến",
+            "type": "adjective",
+            "example": {
+                "en": "The eye of the storm is expected to hit Friday night.",
+                "vi": "Tâm bão dự kiến vào bờ vào tối thứ Sáu."
+            }
+        },
+        {
+            "content": "dự trù",
+            "type": "",
+            "example": {
+                "en": "You don't think I expected this?",
+                "vi": "Mày không nghĩ tao cũng dự trù điều này rồi sao?"
+            }
+        }
+    ]
+}

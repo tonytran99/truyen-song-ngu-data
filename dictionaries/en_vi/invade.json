@@ -1,0 +1,63 @@
+{
+    "word": "invade",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvād/",
+            "/ɪnˈveɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈveɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xâm lược",
+            "type": "verb",
+            "example": {
+                "en": "After the Germans invaded us, it wasn't the same atmosphere anymore.",
+                "vi": "Sau khi bọn Đức vào xâm lược, không khí đã thay đổi."
+            }
+        },
+        {
+            "content": "xâm chiếm",
+            "type": "verb",
+            "example": {
+                "en": "They invade our space, and we fall back.",
+                "vi": "Chúng xâm chiếm không gian của ta và ta thì rút lui."
+            }
+        },
+        {
+            "content": "xâm phạm",
+            "type": "",
+            "example": {
+                "en": "You must not invade the privacy of others.",
+                "vi": "Bạn không được xâm phạm sự riêng tư của người khác."
+            }
+        },
+        {
+            "content": "toả khắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tràn lan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xâm lấn",
+            "type": "",
+            "example": {
+                "en": "it can expand, it can invade local tissues,",
+                "vi": "khối u có thể lan rộng, xâm lấn các mô lân cận,"
+            }
+        }
+    ]
+}

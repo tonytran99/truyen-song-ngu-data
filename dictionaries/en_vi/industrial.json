@@ -1,0 +1,38 @@
+{
+    "word": "industrial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdəstrēəl/",
+            "/ɪnˈdəstriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʌstrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Detroit is famous for its car industry.",
+                "vi": "Detroit nổi tiếng về ngành công nghiệp xe hơi."
+            }
+        },
+        {
+            "content": "kỹ nghệ",
+            "type": "",
+            "example": {
+                "en": "Your great-grandfather and a few others created this industry.",
+                "vi": "Ông cố con và vài người khác đã tạo ra kỹ nghệ này."
+            }
+        }
+    ]
+}

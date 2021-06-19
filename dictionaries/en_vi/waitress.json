@@ -1,0 +1,43 @@
+{
+    "word": "waitress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwātris/",
+            "/ˈweɪtrɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪtrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chị hầu bàn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hầu bàn",
+            "type": "",
+            "example": {
+                "en": "You're gonna have to find a new waitress.",
+                "vi": "Con muốn tìm cho bố một người hầu bàn mới."
+            }
+        },
+        {
+            "content": "nữ hầu bàn",
+            "type": "noun",
+            "example": {
+                "en": "And the third time a waitress of yours has ended up dead.",
+                "vi": "Và là lần thứ ba một nữ hầu bàn của cậu bị chết."
+            }
+        }
+    ]
+}

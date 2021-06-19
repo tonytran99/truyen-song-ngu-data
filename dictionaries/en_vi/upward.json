@@ -1,0 +1,64 @@
+{
+    "word": "upward",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəpwərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌpwəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hướng lên",
+            "type": "",
+            "example": {
+                "en": "Kneel beside the patient and bend his arm at the elbow, pointing it upward",
+                "vi": "Quỳ bên cạnh người bệnh và gập cánh tay người bệnh ở nơi khuỷu tay, hướng lên trên"
+            }
+        },
+        {
+            "content": "đi lên",
+            "type": "",
+            "example": {
+                "en": "If you spend enough time, it's upward, and I met people",
+                "vi": "Nếu bạn dành đủ thời gian cho nó, nó sẽ là phát triển đi lên,"
+            }
+        },
+        {
+            "content": "lên",
+            "type": "verb",
+            "example": {
+                "en": "We automatically throw the little nub of plastic upward.",
+                "vi": "Chúng ta tự động đưa tay vào vị trí có bảng nhỏ bằng nhựa trồi lên mặt tường."
+            }
+        },
+        {
+            "content": "trên",
+            "type": "adjective adposition",
+            "example": {
+                "en": "I read that part of the blast goes upward.",
+                "vi": "Tôi có đọc là một phần của công phá sẽ dội lên trên."
+            }
+        },
+        {
+            "content": "hn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về phía trên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

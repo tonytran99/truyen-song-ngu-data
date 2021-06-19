@@ -1,0 +1,65 @@
+{
+    "word": "keyboard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌbôrd/",
+            "/ˈkiˌbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn phím",
+            "type": "noun",
+            "example": {
+                "en": "So imagine a monkey sitting at a keyboard.",
+                "vi": "Hãy tưởng tượng một con khỉ ngồi ở trước bàn phím."
+            }
+        },
+        {
+            "content": "bàn chữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng chuyển mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng phân phối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng treo chìa khoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng điều khiển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổng đài điện thoại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn phím máy tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

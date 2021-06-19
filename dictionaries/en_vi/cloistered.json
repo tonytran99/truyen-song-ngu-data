@@ -1,0 +1,35 @@
+{
+    "word": "cloistered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkloistərd/",
+            "/ˈklɔɪstərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɔɪstəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tu",
+            "type": "verb noun",
+            "example": {
+                "en": "My poor child, keeping you cloistered up here in this",
+                "vi": "Cô em tội nghiệp, bắt cô sống như trong tu viện ở..."
+            }
+        },
+        {
+            "content": "ở tu viện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

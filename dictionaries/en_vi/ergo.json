@@ -1,0 +1,40 @@
+{
+    "word": "ergo",
+    "type": [
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərɡō/",
+            "/ˈərɡoʊ/",
+            "/ˈerɡō/",
+            "/ˈɛrɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "do đó",
+            "type": "",
+            "example": {
+                "en": "Ergo, we should keep kissing.",
+                "vi": "Do đó, chúng ta nên tiếp tục hôn nhau đi."
+            }
+        },
+        {
+            "content": "vậy thì",
+            "type": "",
+            "example": {
+                "en": "Ergo, the treatment's working.",
+                "vi": "Vậy thì, việc chữa trị đã có hiệu quả."
+            }
+        }
+    ]
+}

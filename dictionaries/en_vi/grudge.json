@@ -1,0 +1,40 @@
+{
+    "word": "grudge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəj/",
+            "/ɡrədʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrʌdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "miễn cưỡng cho phép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối hận thù",
+            "type": "noun",
+            "example": {
+                "en": "Man, you really hold a grudge.",
+                "vi": "Anh bạn, thực sự anh đang giữ mối hận thù đấy."
+            }
+        },
+        {
+            "content": "mối ác cảm",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

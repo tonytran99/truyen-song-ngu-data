@@ -1,0 +1,54 @@
+{
+    "word": "inexperienced",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinəkˈspirēənst/",
+            "/ˌɪnəkˈspɪriənst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnɛkˈspɪərɪənst/",
+            "/ˌɪnɪkˈspɪərɪənst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiếu kinh nghiệm",
+            "type": "adjective",
+            "example": {
+                "en": "Tom is still young and inexperienced.",
+                "vi": "Tom vẫn còn trẻ và thiếu kinh nghiệm."
+            }
+        },
+        {
+            "content": "chưa có kinh nghiệm",
+            "type": "adjective",
+            "example": {
+                "en": "He's young, naive and inexperienced.",
+                "vi": "Cậu ấy còn trẻ, ngây thơ và chưa có kinh nghiệm."
+            }
+        },
+        {
+            "content": "không có kinh nghiệm",
+            "type": "adjective",
+            "example": {
+                "en": "In inexperienced hands, the invocation has a way of fizzling out.",
+                "vi": "Trong tay kẻ không có kinh nghiệm, câu thần chú sẽ tìm đường thoát ra."
+            }
+        },
+        {
+            "content": "non",
+            "type": "adjective",
+            "example": {
+                "en": "After all, the temple was to be “exceedingly magnificent,” and Solomon was at the time “young and inexperienced.”",
+                "vi": "Suy cho cùng, đền thờ “phải rất nguy-nga”, trong khi Sa-lô-môn lúc đó “còn thơ-ấu và non-nớt”."
+            }
+        }
+    ]
+}

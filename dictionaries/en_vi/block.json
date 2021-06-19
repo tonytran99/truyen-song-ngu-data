@@ -1,0 +1,360 @@
+{
+    "word": "block",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bläk/",
+            "/blɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khối",
+            "type": "noun",
+            "example": {
+                "en": "They're made from a solid block of granite.",
+                "vi": "Chúng làm từ một khối đá granite rắn chắc."
+            }
+        },
+        {
+            "content": "tảng",
+            "type": "noun",
+            "example": {
+                "en": "For a slave who saved old Yochabel and me from death between the granite blocks.",
+                "vi": "Cho một nô lệ đã cứu bà già Yochabel và tôi khỏi chết giữa hai tảng đá granite."
+            }
+        },
+        {
+            "content": "chặn",
+            "type": "verb, noun",
+            "example": {
+                "en": "Governments everywhere are often trying to block and filter and censor content on the Internet.",
+                "vi": "Chính phủ các nước hay cố gắng ngăn chặn, lọc và kiểm duyệt nội dung trên Internet."
+            }
+        },
+        {
+            "content": "súc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái thớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà khối",
+            "type": "",
+            "example": {
+                "en": "We responded to report of judges under fire from within this Block.",
+                "vi": "Chúng tôi tới vì có một vụ thẩm phán bị tấn công trong khu nhà khối này."
+            }
+        },
+        {
+            "content": "nghẽn",
+            "type": "",
+            "example": {
+                "en": "If we sink her in the channel, the harbor will be blocked for months!",
+                "vi": "Nếu ta đánh chìm nó ngay đầu kênh, hải cảng sẽ bị nghẽn nhiều tháng."
+            }
+        },
+        {
+            "content": "chắn",
+            "type": "verb",
+            "example": {
+                "en": "There's got to be something in here we can use to block the view.",
+                "vi": "Hẳn phải có thứ gì đó để chúng ta dùng chắn tầm nhìn."
+            }
+        },
+        {
+            "content": "khuôn",
+            "type": "noun",
+            "example": {
+                "en": "That site is now the beautiful temple block, around which the city has grown.",
+                "vi": "Nơi này giờ đây là khuôn viên đền thờ xinh đẹp mà chung quanh đó là thành phố đã phát triển."
+            }
+        },
+        {
+            "content": "chèn",
+            "type": "verb",
+            "example": {
+                "en": "Strangulation, blocked airway, inert-gas inhalation, Compression of chest and diaphragm.",
+                "vi": "Thắt cổ, bị chặn đường thở, hít phải khí trơ, bị chèn ép cơ ngực và cơ hoành"
+            }
+        },
+        {
+            "content": "bít",
+            "type": "verb, noun",
+            "example": {
+                "en": "Pimples grow when these follicles get blocked .",
+                "vi": "Mụn phát triển khi những nang lông này bị bít kín ."
+            }
+        },
+        {
+            "content": "cục",
+            "type": "noun",
+            "example": {
+                "en": "We should've tied an engine block around his neck and made sure he didn't come back up.",
+                "vi": "Lẽ ra nên buộc nguyên cục máy quanh cổ lão để lão không ngoi lên được."
+            }
+        },
+        {
+            "content": "dãy",
+            "type": "noun",
+            "example": {
+                "en": "I think they're trying to rack up the whole block.",
+                "vi": "Tôi nghĩ chúng tính thâu tóm cả dãy này."
+            }
+        },
+        {
+            "content": "lô",
+            "type": "noun",
+            "example": {
+                "en": "The house is sort of a distortion of a square block.",
+                "vi": "Căn nhà giống như một lô đất bị bóp méo."
+            }
+        },
+        {
+            "content": "lô nhà",
+            "type": "",
+            "example": {
+                "en": "In terms of construction and manufacturing, this is a kilometer-long housing block that was built in the '70s in Amsterdam.",
+                "vi": "Trong lĩnh vực xây dựng và sản xuất, đây là một lô nhà dài 1 km được xây dựng vào thập niên 70 tại Amsterdam."
+            }
+        },
+        {
+            "content": "lốc",
+            "type": "noun",
+            "example": {
+                "en": "I'm not letting him code out here 16 blocks from the hospital.",
+                "vi": "Tôi không thể để anh ta nằm chỏng chơ ở đây cách bệnh viện 16 lốc đường."
+            }
+        },
+        {
+            "content": "da",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "puli",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chẹn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chẹt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chịt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản in",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bản khắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chèn ép",
+            "type": "verb",
+            "example": {
+                "en": "Strangulation, blocked airway, inert-gas inhalation, Compression of chest and diaphragm.",
+                "vi": "Thắt cổ, bị chặn đường thở, hít phải khí trơ, bị chèn ép cơ ngực và cơ hoành"
+            }
+        },
+        {
+            "content": "chặn đứng",
+            "type": "",
+            "example": {
+                "en": "Levels 3 and 4 will be blocked.",
+                "vi": "Tầng 3 và 4 sẽ bị chặn đứng."
+            }
+        },
+        {
+            "content": "cản trở",
+            "type": "verb",
+            "example": {
+                "en": "I won't actively block you.",
+                "vi": "Tôi sẽ không chủ động cản trở bà."
+            }
+        },
+        {
+            "content": "gò vào khuôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn chế chi tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuôn nhà lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết cấu",
+            "type": "",
+            "example": {
+                "en": "not enough compression in the blocks,",
+                "vi": "các khối kết cấu không được ép đủ chặt,"
+            }
+        },
+        {
+            "content": "làm trở ngại",
+            "type": "",
+            "example": {
+                "en": "Sidewalks are usually busy with pedestrian traffic, so be careful that you do not block the sidewalks.",
+                "vi": "Vỉa hè thường có nhiều bộ hành qua lại, vì vậy nên cẩn thận đừng làm trở ngại sự đi lại."
+            }
+        },
+        {
+            "content": "lô đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn chận",
+            "type": "",
+            "example": {
+                "en": "This stick , blocking sunlight , creates a shadow .",
+                "vi": "Cái cây này , ngăn chận ánh nắng mặt trời , tạo ra cái bóng ."
+            }
+        },
+        {
+            "content": "ngăn chặn",
+            "type": "",
+            "example": {
+                "en": "There's a chance on here and it's block ed.",
+                "vi": "Có một cơ hội, nhưng đã bị ngăn chặn."
+            }
+        },
+        {
+            "content": "người nhẫn tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đần độn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phản đối",
+            "type": "verb noun",
+            "example": {
+                "en": "So, I hear you blocked the proposal to position Jupiter missiles in Turkey.",
+                "vi": "Tôi nghe nói ông đã phản đối đề nghị lắp đặt tên lửa Jupiter ở Thổ Nhĩ Kì."
+            }
+        },
+        {
+            "content": "rập chữ nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số lớn cổ phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trở ngại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắc nghẽn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật chương ngại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đon kê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn toa xe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoạn đường",
+            "type": "",
+            "example": {
+                "en": "We found the shooter's weapon abandoned in an apartment a block away.",
+                "vi": "Chúng tôi tìm thấy vũ khí của của tên sát thủ bỏ lại trong một căn hộ cách đây một đoạn đường."
+            }
+        },
+        {
+            "content": "đầu giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắc",
+            "type": "verb",
+            "example": {
+                "en": "The kid's liver's failing because of a massive clot that's blocking his hepatic vein.",
+                "vi": "Suy gan vì tụ máu nặng gây tắc tĩnh mạch gan."
+            }
+        },
+        {
+            "content": "block size oảcle",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong tỏa",
+            "type": "",
+            "example": {
+                "en": "The street I meant to take was blocked.",
+                "vi": "Con đường em định đi bị phong tỏa."
+            }
+        },
+        {
+            "content": "trở ngại",
+            "type": "",
+            "example": {
+                "en": "You will need to avoid some stumbling blocks.",
+                "vi": "Các em sẽ cần phải tránh những trở ngại."
+            }
+        },
+        {
+            "content": "vật chướng ngại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

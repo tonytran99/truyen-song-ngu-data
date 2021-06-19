@@ -1,0 +1,65 @@
+{
+    "word": "untrue",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈtro͞o/",
+            "/ˌənˈtru/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtruː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sai",
+            "type": "adjective",
+            "example": {
+                "en": "A statement that is unprovable is not necessarily untrue.",
+                "vi": "Một lời nói không thể chứng minh được không nhất thiết là sai sự thật."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "adjective",
+            "example": {
+                "en": "But I think this is quite clearly untrue.",
+                "vi": "Nhưng tôi nghĩ rằng điều này là không đúng."
+            }
+        },
+        {
+            "content": "dóc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "gi dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chân thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trung thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai sự thật",
+            "type": "",
+            "example": {
+                "en": "Why, then, do people deliberately tell what is untrue?",
+                "vi": "Vậy, tại sao nhiều người vẫn cố tình nói sai sự thật?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "decode",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈkōd/",
+            "/diˈkoʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈkəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải mã",
+            "type": "verb",
+            "example": {
+                "en": "And might they contain messages that we have yet to decode?",
+                "vi": "Và có thể chúng chứa những thông điệp mà ta vẫn chưa giải mã?"
+            }
+        },
+        {
+            "content": "đọc",
+            "type": "verb",
+            "example": {
+                "en": "just knowing how to decode a textbook. That's a shame.",
+                "vi": "chỉ cần biết cách đọc sách giáo khoa. Thật là xấu hổ."
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dịch mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "譯",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

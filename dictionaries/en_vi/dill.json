@@ -1,0 +1,43 @@
+{
+    "word": "dill",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dil/",
+            "/dɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thìa là",
+            "type": "",
+            "example": {
+                "en": "And too much dill.",
+                "vi": "Nhiều rau thìa là quá."
+            }
+        },
+        {
+            "content": "cây thì là",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thì là",
+            "type": "",
+            "example": {
+                "en": "Besides these, there were the common food condiments such as cumin, mint, and dill.",
+                "vi": "Ngoài ra, còn có nhiều loại gia vị thực phẩm phổ biến như thì là Ai Cập, bạc hà và tiểu hồi."
+            }
+        }
+    ]
+}

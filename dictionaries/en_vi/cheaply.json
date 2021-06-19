@@ -1,0 +1,45 @@
+{
+    "word": "cheaply",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHēplē/",
+            "/ˈtʃipli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃiːpli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rẻ",
+            "type": "adjective",
+            "example": {
+                "en": "You let yourself be bought pretty cheaply, didn't you?",
+                "vi": "Ông đã để cho họ mua mình quá rẻ, phải không?"
+            }
+        },
+        {
+            "content": "một cách rẻ tiền",
+            "type": "",
+            "example": {
+                "en": "\"If we're feeding more people more cheaply,",
+                "vi": "\"Nếu chúng tôi cho nhiều người ăn một cách rẻ tiền hơn"
+            }
+        },
+        {
+            "content": "rẻ tiền",
+            "type": "",
+            "example": {
+                "en": "When you have to do something really cheaply,",
+                "vi": "Khi bạn phải làm thứ gì đó rẻ tiền,"
+            }
+        }
+    ]
+}

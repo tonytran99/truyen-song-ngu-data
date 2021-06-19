@@ -1,0 +1,85 @@
+{
+    "word": "generator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjenəˌrādər/",
+            "/ˈdʒɛnəˌreɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnəreɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy phát",
+            "type": "noun",
+            "example": {
+                "en": "A blackout, our generator's dead, and Robin's watch stopped.",
+                "vi": "Mất điện, máy phát hỏng, và đồng hồ của Robin ngừng chạy."
+            }
+        },
+        {
+            "content": "máy phát điện",
+            "type": "noun",
+            "example": {
+                "en": "We need to shut down the generator on the main deck.",
+                "vi": "Ta phải tắt máy phát điện khẩn cấp trên boong chính."
+            }
+        },
+        {
+            "content": "bộ dao động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chương trình tạo lập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái sinh thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy tạo sóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người sinh ra",
+            "type": "",
+            "example": {
+                "en": "every institution than the first generation of digital natives.",
+                "vi": "mọi định chế hơn là thế hệ đầu tiên của những người sinh ra và lớn lên trong môi trường kỹ thuật số."
+            }
+        },
+        {
+            "content": "người tạo ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

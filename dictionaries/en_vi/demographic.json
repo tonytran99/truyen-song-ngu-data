@@ -1,0 +1,30 @@
+{
+    "word": "demographic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdeməˈɡrafik/",
+            "/ˌdɛməˈɡræfɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɛməˈɡrafɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân khẩu học",
+            "type": "noun",
+            "example": {
+                "en": "We want a key demographic to get on board, and then...",
+                "vi": "Chúng ta phải điều tra nhân khẩu học rồi sau đó..."
+            }
+        }
+    ]
+}

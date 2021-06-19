@@ -1,0 +1,55 @@
+{
+    "word": "bliss",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blis/",
+            "/blɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "niềm vui sướng nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cực lạc",
+            "type": "",
+            "example": {
+                "en": "Is heaven simply a place of blissful peace, totally immune from evil and disharmony?",
+                "vi": "Phải chăng trời chỉ là một nơi bình an cực lạc, hoàn toàn không có mọi sự ác và bất hòa?"
+            }
+        },
+        {
+            "content": "diễm phúc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hạnh phúc",
+            "type": "adjective noun",
+            "example": {
+                "en": "Those who touch the dress, will have eternal bliss.",
+                "vi": "Những ai được chạm vào cái áo đó sẽ được hạnh phúc đời đời."
+            }
+        },
+        {
+            "content": "sung sướng",
+            "type": "adjective",
+            "example": {
+                "en": "Some think of such trust merely as a feeling, a kind of blissful emotion that should well up naturally in the heart.",
+                "vi": "Một số người nghĩ lòng tin cậy như thế chỉ là một cảm xúc, một cảm giác sung sướng tự nhiên dâng lên trong lòng."
+            }
+        }
+    ]
+}

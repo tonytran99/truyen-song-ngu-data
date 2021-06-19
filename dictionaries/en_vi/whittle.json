@@ -1,0 +1,56 @@
+{
+    "word": "whittle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)widl/",
+            "/ˈ(h)wɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gọt",
+            "type": "verb",
+            "example": {
+                "en": "I guess the plan is to whittle us down into smaller and smaller groups.",
+                "vi": "Tôi đoán kế hoạch này để gọt chúng ta thành một nhóm nhỏ hơn."
+            }
+        },
+        {
+            "content": "vót",
+            "type": "verb",
+            "example": {
+                "en": "are reinforced by steel joints, but we use a lot of hand-whittled bamboo pins.",
+                "vi": "được tăng cường thêm những chốt kim loại, nhưng chủ yếu vẫn là đinh tre vót tay."
+            }
+        },
+        {
+            "content": "đẽo",
+            "type": "",
+            "example": {
+                "en": "Yeah, I guess that whittling badge finally paid off.",
+                "vi": "Vâng, tôi đoán là cái huy hiệu Đục Đẽo cũng không vô dụng."
+            }
+        },
+        {
+            "content": "chuốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dao bầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

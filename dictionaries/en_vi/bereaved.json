@@ -1,0 +1,47 @@
+{
+    "word": "bereaved",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈrēvd/",
+            "/bəˈrivd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈriːvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tang",
+            "type": "adjective",
+            "example": {
+                "en": "It is no time to forget the bereaved and to proceed with one’s own feasting and reveling.",
+                "vi": "Đây không phải là lúc để quên đi gia đình có tang chế và chỉ nghĩ đến việc tiệc tùng và cười nói."
+            }
+        },
+        {
+            "content": "cướp đi",
+            "type": "",
+            "example": {
+                "en": "I will bereave them of children.",
+                "vi": "Ta sẽ cướp đi con cái chúng."
+            }
+        },
+        {
+            "content": "tang quyến",
+            "type": "",
+            "example": {
+                "en": "(Revelation 21:1-4) Even now, he provides comfort for the bereaved.—Psalm 147:3.",
+                "vi": "Ngay cả trong hiện tại, Ngài ban sự an ủi cho tang quyến.—Thi-thiên 147:3."
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "funding",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəndiNG/",
+            "/ˈfəndɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌndɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quỹ",
+            "type": "",
+            "example": {
+                "en": "And they need to borrow from my trust fund.",
+                "vi": "Họ cần mượn quỹ ủy thác của em."
+            }
+        },
+        {
+            "content": "Tài trợ",
+            "type": "",
+            "example": {
+                "en": "Do we have to guess who it was that funded this independent contractor?",
+                "vi": "Ta có cần phải đoán ai đã tài trợ nhà thầu độc lập đó không?"
+            }
+        }
+    ]
+}

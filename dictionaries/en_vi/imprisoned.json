@@ -1,0 +1,38 @@
+{
+    "word": "imprisoned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpriz(ə)nd/",
+            "/ɪmˈprɪz(ə)nd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈprɪznd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị cầm tù",
+            "type": "adjective",
+            "example": {
+                "en": "We both have been betrayed and imprisoned by our own people.",
+                "vi": "Cả hai đều bị phản bội và bị cầm tù bởi chính người dân của mình."
+            }
+        },
+        {
+            "content": "bị giam",
+            "type": "adjective",
+            "example": {
+                "en": "He was imprisoned for the same reason that I had been.",
+                "vi": "Anh ấy bị giam vì cùng lý do mà tôi bị tù."
+            }
+        }
+    ]
+}

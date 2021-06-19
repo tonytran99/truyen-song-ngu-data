@@ -1,0 +1,193 @@
+{
+    "word": "hello",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈlō/",
+            "/həˈloʊ/",
+            "/heˈlō/",
+            "/hɛˈloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈləʊ/",
+            "/hɛˈləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chào",
+            "type": "interjection",
+            "example": {
+                "en": "Though living next door, he doesn't even say hello to us.",
+                "vi": "Mặc dù nhà gần nhau, anh ta chưa từng chào hỏi chúng tôi."
+            }
+        },
+        {
+            "content": "a-lô",
+            "type": "interjection",
+            "example": {
+                "en": "Hello, hello, no l.D.",
+                "vi": "A-lô, a-lô, không có căn cước."
+            }
+        },
+        {
+            "content": "xin chào",
+            "type": "interjection",
+            "example": {
+                "en": "Hello, is this the personnel department?",
+                "vi": "Xin chào, đây là phòng nhân sự phải không?"
+            }
+        },
+        {
+            "content": "anh",
+            "type": "pronoun noun",
+            "example": {
+                "en": "But come out and say hello, just to be polite.",
+                "vi": "Dù sao thì anh cũng nên ra chào một tiếng cho phải phép"
+            }
+        },
+        {
+            "content": "cô",
+            "type": "pronoun noun",
+            "example": {
+                "en": "I'm gonna say hello tomorrow.",
+                "vi": "Ngày mai tao sẽ bắt chuyện với cô ấy."
+            }
+        },
+        {
+            "content": "bà",
+            "type": "pronoun noun",
+            "example": {}
+        },
+        {
+            "content": "em",
+            "type": "adjective pronoun noun",
+            "example": {}
+        },
+        {
+            "content": "chị",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Hello, little baby, I'm here.",
+                "vi": "Chào cún cưng, chị tới đây."
+            }
+        },
+        {
+            "content": "quí vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ông",
+            "type": "pronoun noun",
+            "example": {
+                "en": "It's how men say hello.",
+                "vi": "Đàn ông chào hỏi nhau như thế đấy."
+            }
+        },
+        {
+            "content": "này",
+            "type": "adverb",
+            "example": {
+                "en": "Hello? Are you still there?",
+                "vi": "Này, này, bạn còn ở đó không?"
+            }
+        },
+        {
+            "content": "ơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chào anh",
+            "type": "",
+            "example": {
+                "en": "Mr. Reynolds told me to tell you hello.",
+                "vi": "Ông Reynolds nhắn em gửi lời chào anh."
+            }
+        },
+        {
+            "content": "chào chị",
+            "type": "",
+            "example": {
+                "en": "Hello, Diggle's sister-in-law Carly.",
+                "vi": "Xin chào, chị dâu Carly của Diggle."
+            }
+        },
+        {
+            "content": "gọi \"này",
+            "type": "",
+            "example": {
+                "en": "Hello, this is to restore alarm.",
+                "vi": "Xin chào, cuộc gọi này để khôi phục báo động."
+            }
+        },
+        {
+            "content": "kêu \"ô này\"",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "này\"",
+            "type": "",
+            "example": {
+                "en": "Hello? Are you still here?",
+                "vi": "Này, này, bạn còn ở đó không?"
+            }
+        },
+        {
+            "content": "tiếng chào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng gọi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu ô này",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ô này",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ớ này",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hello",
+            "type": "",
+            "example": {
+                "en": "It's like \" hello, \" only shorter.",
+                "vi": "Ngh giống như \" hello \", có điều ngắn hơn."
+            }
+        },
+        {
+            "content": "chào ông",
+            "type": "",
+            "example": {
+                "en": "Hello, is Mr. Freeman there?",
+                "vi": "Xin chào, Ông Freeman có mặt không?"
+            }
+        },
+        {
+            "content": "phiên bản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

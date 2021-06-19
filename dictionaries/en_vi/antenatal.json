@@ -1,0 +1,39 @@
+{
+    "word": "antenatal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)ēˈnādl/",
+            "/ˌæn(t)iˈneɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/antɪˈneɪt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiền sản",
+            "type": "",
+            "example": {
+                "en": "Two young inventors from Uganda visited an antenatal clinic at a local hospital a few years ago, when they were students in information technology.",
+                "vi": "đã đến thăm phòng khám tiền sản tại một bệnh viện địa phương khi là sinh viên ngành công nghệ thông tin."
+            }
+        },
+        {
+            "content": "trước khi sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trước khi đẻ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

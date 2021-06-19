@@ -1,0 +1,60 @@
+{
+    "word": "deplore",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈplôr/",
+            "/dəˈplɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈplɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thương",
+            "type": "verb noun",
+            "example": {
+                "en": "In view of such a deplorable spiritual condition, did the people deserve mercy?",
+                "vi": "Trước một tình trạng tồi tệ về thiêng liêng như thế, họ có đáng được thương xót không?"
+            }
+        },
+        {
+            "content": "lấy làm tiếc về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phàn nàn về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thương hại",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xót xa",
+            "type": "",
+            "example": {
+                "en": "With that understanding and reverence for life, we deplore the loss of life associated with warfare.",
+                "vi": "Với sự hiểu biết và tôn trọng cuộc sống, chúng ta thấy xót xa trước sự thiệt mạng liên quan với chiến tranh."
+            }
+        },
+        {
+            "content": "lấy làm tiếc",
+            "type": "",
+            "example": {
+                "en": "You deplore violence in any form.",
+                "vi": "Rằng anh rất lấy làm tiếc vì những hành động bạo lực."
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "word": "coop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͞op/",
+            "/kup/",
+            "/ko͝op/",
+            "/kʊp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kuːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuồng",
+            "type": "noun",
+            "example": {
+                "en": "One man and a kid in a chicken coop.",
+                "vi": "Một người đàn ông và một đứa trẻ trong một cái chuồng gà."
+            }
+        },
+        {
+            "content": "giam",
+            "type": "",
+            "example": {
+                "en": "Rainy day, I have to leave her cooped up inside.",
+                "vi": "Ngày mưa, nó gần như bị giam hãm trong nhà."
+            }
+        },
+        {
+            "content": "chuồng gà",
+            "type": "noun",
+            "example": {
+                "en": "One man and a kid in a chicken coop.",
+                "vi": "Một người đàn ông và một đứa trẻ trong một cái chuồng gà."
+            }
+        },
+        {
+            "content": "cái lờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lồng gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhốt gà vào lồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhốt lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trại giam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái lồng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

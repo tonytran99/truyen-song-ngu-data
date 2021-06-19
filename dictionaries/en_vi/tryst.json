@@ -1,0 +1,43 @@
+{
+    "word": "tryst",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/trist/",
+            "/trɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/trɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc hẹn hò",
+            "type": "noun",
+            "example": {
+                "en": "Did you tell me about the secret trysts in Hyde Park?",
+                "vi": "Con có chịu nói cho Dì nghe về những cuộc hẹn hò bí mật ở Hyde Park chưa?"
+            }
+        },
+        {
+            "content": "hẹn gặp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hẹn hò",
+            "type": "",
+            "example": {
+                "en": "Did you tell me about the secret trysts in Hyde Park?",
+                "vi": "Con có chịu nói cho Dì nghe về những cuộc hẹn hò bí mật ở Hyde Park chưa?"
+            }
+        }
+    ]
+}

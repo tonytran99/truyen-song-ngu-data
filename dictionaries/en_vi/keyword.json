@@ -1,0 +1,38 @@
+{
+    "word": "keyword",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌwərd/",
+            "/ˈkiˌwərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːwəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ khoá",
+            "type": "",
+            "example": {
+                "en": "I want the whole method, not the keyword.",
+                "vi": "Tôi muốn biết hết cách thức mà không có từ khoá nào."
+            }
+        },
+        {
+            "content": "từ khóa",
+            "type": "noun",
+            "example": {
+                "en": "This is where all those deeply weird keywords come home to roost.",
+                "vi": "Dây là nơi mà tất cả những từ khóa kỳ dị này phản tác dụng."
+            }
+        }
+    ]
+}

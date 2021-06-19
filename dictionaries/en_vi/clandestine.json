@@ -1,0 +1,42 @@
+{
+    "word": "clandestine",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klanˈdestən/",
+            "/klænˈdɛstən/",
+            "/ˈklandesˌtīn/",
+            "/ˈklændɛsˌtaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klanˈdɛstɪn/",
+            "/ˈklandɛstɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "That's Morgan Airfield, the proverbial stomping ground for all things clandestine and black ops.",
+                "vi": "Sân bay của Morgan, trạm dừng chân của tất cả những phi vụ bí mật và tiền đen"
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ám muội",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

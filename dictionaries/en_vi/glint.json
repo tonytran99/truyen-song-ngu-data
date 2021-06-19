@@ -1,0 +1,72 @@
+{
+    "word": "glint",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlint/",
+            "/ɡlɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lấp lánh",
+            "type": "",
+            "example": {
+                "en": "Finally, she carefully searches every nook and cranny until the lamp catches a glint of a silver coin.",
+                "vi": "Cuối cùng, bà cẩn thận tìm kiếm mọi ngóc ngách trong nhà cho đến khi bắt gặp đồng tiền lấp lánh."
+            }
+        },
+        {
+            "content": "loé sang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm loé sáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phản chiếu",
+            "type": "",
+            "example": {
+                "en": "I saw the glint of mirrors lit by the moon.",
+                "vi": "Tôi nhìn thấy những tia sáng phản chiếu trong gương bởi ánh sáng của mặt trăng."
+            }
+        },
+        {
+            "content": "tia lấp lánh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tia phản chiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tia sáng",
+            "type": "noun",
+            "example": {
+                "en": "I saw the glint of mirrors lit by the moon.",
+                "vi": "Tôi nhìn thấy những tia sáng phản chiếu trong gương bởi ánh sáng của mặt trăng."
+            }
+        },
+        {
+            "content": "tia sáng loé",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

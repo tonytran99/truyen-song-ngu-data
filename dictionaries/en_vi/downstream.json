@@ -1,0 +1,47 @@
+{
+    "word": "downstream",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dounˈstrēm/",
+            "/daʊnˈstrim/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊnˈstriːm/",
+            "/ˈdaʊnstriːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuôi dòng",
+            "type": "adjective",
+            "example": {
+                "en": "Increased pressure downstream could also stop the blood.",
+                "vi": "Tăng áp suất xuôi dòng có thể chặn máu lại."
+            }
+        },
+        {
+            "content": "hạ lưu",
+            "type": "",
+            "example": {
+                "en": "Inevitably, their destination was downstream—the path of least resistance.",
+                "vi": "Hiển nhiên, đích của chúng là vùng hạ lưu—là con đường dễ nhất."
+            }
+        },
+        {
+            "content": "xuôi",
+            "type": "",
+            "example": {
+                "en": "Increased pressure downstream could also stop the blood.",
+                "vi": "Tăng áp suất xuôi dòng có thể chặn máu lại."
+            }
+        }
+    ]
+}

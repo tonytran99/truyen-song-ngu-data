@@ -1,0 +1,41 @@
+{
+    "word": "horseshoe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôr(s)ˌSHo͞o/",
+            "/ˈhɔr(s)ˌʃu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːsʃuː/",
+            "/ˈhɔːʃʃuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "móng ngựa",
+            "type": "noun",
+            "example": {
+                "en": "The guys got a horseshoe tournament going on.",
+                "vi": "Mọi người vẫn còn chơi ném móng ngựa"
+            }
+        },
+        {
+            "content": "hình móng ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình móng ngựa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

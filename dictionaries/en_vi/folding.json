@@ -1,0 +1,39 @@
+{
+    "word": "folding",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfōldiNG/",
+            "/ˈfoʊldɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəʊldɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gấp lại được",
+            "type": "",
+            "example": {
+                "en": "It's not folded, that's a photograph and it's cut on the diagonal.",
+                "vi": "Nó không gấp lại được, nó là một tấm ảnh Và nó bị cắt theo đường chéo"
+            }
+        },
+        {
+            "content": "sự gấp nếp",
+            "type": "noun",
+            "example": {
+                "en": "“The folding of a typical protein . . . can be likened to a three-dimensional jigsaw puzzle,” says Michael Behe.",
+                "vi": "Ông Michael Behe nói: “Sự gấp nếp của một protein thông thường... có thể ví như một trò chơi ghép hình có ba chiều."
+            }
+        }
+    ]
+}

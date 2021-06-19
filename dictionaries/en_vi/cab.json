@@ -1,0 +1,81 @@
+{
+    "word": "cab",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kab/",
+            "/kæb/",
+            "/ˈˌsē ˈˌā ˈbē/",
+            "/ˈˌsi ˈˌeɪ ˈbi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kab/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe tắc xi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "taxi",
+            "type": "noun",
+            "example": {
+                "en": "I'm in a cab right now, on the way to a liquor store.",
+                "vi": "Mình đang trên taxi, đang trên đường đến quầy rượu."
+            }
+        },
+        {
+            "content": "buồng lái",
+            "type": "",
+            "example": {
+                "en": "You got three with the Cradle, one in the cab.",
+                "vi": "Có ba tên ở chỗ chiếc giường, một tên ở buồng lái."
+            }
+        },
+        {
+            "content": "cabin",
+            "type": "",
+            "example": {
+                "en": "There's a thermos and sandwiches in the cab.",
+                "vi": "Có cái ấm nước và ít bánh mì trong cabin."
+            }
+        },
+        {
+            "content": "tắc xi",
+            "type": "noun",
+            "example": {
+                "en": "Then I heard myself telling the cab driver your address.",
+                "vi": "Rồi em lại nghe mình nói cho tài xế tắc xi địa chỉ nhà anh."
+            }
+        },
+        {
+            "content": "xe ngựa thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi xe ngựa thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi xe tắc xi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe tắc-xi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

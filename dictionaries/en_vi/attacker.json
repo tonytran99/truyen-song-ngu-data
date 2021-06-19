@@ -1,0 +1,37 @@
+{
+    "word": "attacker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈtakər/",
+            "/əˈtækər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈtakə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ tấn công",
+            "type": "noun",
+            "example": {
+                "en": "Why would someone attacking college students suddenly widen his net?",
+                "vi": "Tại sao kẻ tấn công sinh viên đại học đột nhiên mở rộng mạng lưới của mình?"
+            }
+        },
+        {
+            "content": "người tấn công",
+            "type": "noun",
+            "example": {
+                "en": "I take four men and attack from behind.",
+                "vi": "Tôi sẽ dẫn bốn người tấn công từ phía sau."
+            }
+        }
+    ]
+}

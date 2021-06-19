@@ -1,0 +1,47 @@
+{
+    "word": "coloured",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌləd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có màu sắc",
+            "type": "",
+            "example": {
+                "en": "I want to cover every bit of cement with colour.",
+                "vi": "Em muốn phủ chúng với hình ảnh cho có màu sắc."
+            }
+        },
+        {
+            "content": "da màu",
+            "type": "",
+            "example": {
+                "en": "Stats are old ladies who are scared of coloured people.",
+                "vi": "Thống kê là những bà già sợ người da màu."
+            }
+        },
+        {
+            "content": "mang màu sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêu dệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tô vẽ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

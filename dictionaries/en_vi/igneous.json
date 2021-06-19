@@ -1,0 +1,44 @@
+{
+    "word": "igneous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēɡnēəs/",
+            "/ˈiɡniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪɡnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lửa",
+            "type": "noun",
+            "example": {
+                "en": "Speaking of volcanoes, man, are they a violent igneous rock formation!",
+                "vi": "Nói về núi lửa mới nhớ, trời ơi, sự phun trào của những ngọn lửa mãnh liệt! Hả?"
+            }
+        },
+        {
+            "content": "có lửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có tính chất lửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do lửa tạo thành",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

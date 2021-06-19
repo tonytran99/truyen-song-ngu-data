@@ -1,0 +1,50 @@
+{
+    "word": "institutional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinstəˈt(y)o͞oSH(ə)n(ə)l/",
+            "/ˌɪnstəˈt(j)uʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnstɪˈtjuːʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hội",
+            "type": "verb",
+            "example": {
+                "en": "In time, nothing is left to sustain the institutions that sustain society.",
+                "vi": "Cuối cùng, không có điều gì còn lại để hỗ trợ những thể chế giữ vững xã hội."
+            }
+        },
+        {
+            "content": "cơ quan",
+            "type": "noun",
+            "example": {
+                "en": "I claim this institution is not necessary to this town.",
+                "vi": "Tôi cho rằng cơ quan này không cần thiết đối với thị trấn."
+            }
+        },
+        {
+            "content": "thuộc về thể chế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổ chức",
+            "type": "verb noun",
+            "example": {
+                "en": "And tenth , regulation has to be comprehensive across financial institutions .",
+                "vi": "Và thứ mười , quy định phải dễ hiểu đối với tổ chức tài chính ."
+            }
+        }
+    ]
+}

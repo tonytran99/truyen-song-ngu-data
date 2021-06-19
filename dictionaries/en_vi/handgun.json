@@ -1,0 +1,29 @@
+{
+    "word": "handgun",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ˌɡən/",
+            "/ˈhæn(d)ˌɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ɡʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "súng ngắn",
+            "type": "noun",
+            "example": {
+                "en": "No, sir.- Do you have any intention of owning a handgun?",
+                "vi": "Không, thưa ông- Anh có bất kỳ ý định sử dụng khẩu súng ngắn không?"
+            }
+        }
+    ]
+}

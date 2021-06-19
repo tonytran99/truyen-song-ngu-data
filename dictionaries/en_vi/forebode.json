@@ -1,0 +1,50 @@
+{
+    "word": "forebode",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrˈbōd/",
+            "/fɔrˈboʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːˈbəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báo trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báo điềm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có linh tính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiên đoán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đoán trước",
+            "type": "",
+            "example": {
+                "en": "The foreboding sheen of an extra-large date.",
+                "vi": "Những ánh lấp lánh có thể đoán trước của một ngày nhập hàng với lượng cực lớn."
+            }
+        }
+    ]
+}

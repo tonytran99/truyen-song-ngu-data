@@ -1,0 +1,35 @@
+{
+    "word": "honeymoon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhənēˌmo͞on/",
+            "/ˈhəniˌmun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌnɪmuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuần trăng mật",
+            "type": "noun",
+            "example": {
+                "en": "I'm sorry we out into your honeymoon, Golov.",
+                "vi": "Tôi xin lỗi khi đã cắt tuần trăng mật của anh Golov."
+            }
+        },
+        {
+            "content": "hưởng tuần trăng mật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

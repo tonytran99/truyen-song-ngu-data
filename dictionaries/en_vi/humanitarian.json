@@ -1,0 +1,30 @@
+{
+    "word": "humanitarian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞oˌmanəˈterēən/",
+            "/(h)juˌmænəˈtɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjʊˌmanɪˈtɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân đạo",
+            "type": "adjective",
+            "example": {
+                "en": "Attacks on humanitarian aid workers are war crimes in international law.",
+                "vi": "Tấn công nhân viên cứu trợ nhân đạo là tội ác chiến tranh theo luật quốc tế."
+            }
+        }
+    ]
+}

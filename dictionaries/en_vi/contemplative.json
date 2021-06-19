@@ -1,0 +1,53 @@
+{
+    "word": "contemplative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtemplədiv/",
+            "/kənˈtɛmplədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtɛmplətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trầm ngâm",
+            "type": "adjective",
+            "example": {
+                "en": "Reading in a contemplative manner allows God’s Word to have a greater impact on the mind and heart.",
+                "vi": "Đọc một cách trầm ngâm khiến Lời Đức Chúa Trời tác động đến lòng và trí nhiều hơn."
+            }
+        },
+        {
+            "content": "lặng ngắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà tu hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy tư",
+            "type": "adjective",
+            "example": {
+                "en": "You may not have time to be contemplative then.",
+                "vi": "Bạn có thể không có thì giờ để suy tư vào lúc đó."
+            }
+        },
+        {
+            "content": "tu hành",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

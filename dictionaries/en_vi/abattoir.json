@@ -1,0 +1,34 @@
+{
+    "word": "abattoir",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabəˌtwär/",
+            "/ˈæbəˌtwɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabətwɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò mổ",
+            "type": "noun",
+            "example": {
+                "en": "It's a hospital, not an abattoir.",
+                "vi": "Đây là bệnh viện, không phải lò mổ."
+            }
+        },
+        {
+            "content": "lò sát sinh",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

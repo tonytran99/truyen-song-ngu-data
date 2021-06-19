@@ -1,0 +1,54 @@
+{
+    "word": "inefficient",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinəˈfiSH(ə)nt/",
+            "/ˌɪnəˈfɪʃ(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnɪˈfɪʃ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có hiệu quả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất tài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có khả năng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu khả năng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hiệu quả",
+            "type": "adjective",
+            "example": {
+                "en": "Vampires decided that hunting humans on a piecemeal basis was too inefficient.",
+                "vi": "Ma cà rồng quyết định rằng, săn người theo kiểu nhỏ lẻ quá không hiệu quả."
+            }
+        },
+        {
+            "content": "vô hiệu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

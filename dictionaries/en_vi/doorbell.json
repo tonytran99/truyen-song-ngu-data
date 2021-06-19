@@ -1,0 +1,30 @@
+{
+    "word": "doorbell",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrbel/",
+            "/ˈdɔrbɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːbɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuông cửa",
+            "type": "noun",
+            "example": {
+                "en": "When Tom heard the doorbell ring, he said, \"Who could that be?\"",
+                "vi": "Khi Tom nghe thấy tiếng chuông cửa, anh ấy nói \"Có thể là ai vậy nhỉ?\""
+            }
+        }
+    ]
+}

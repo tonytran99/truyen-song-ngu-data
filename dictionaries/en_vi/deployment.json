@@ -1,0 +1,42 @@
+{
+    "word": "deployment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈploimənt/",
+            "/dəˈplɔɪmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈplɔɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự dàn quân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự triển khai",
+            "type": "",
+            "example": {
+                "en": "Kaviza provides built-in high availability , does not require shared storage and is a turnkey deployment .",
+                "vi": "Kaviza cung cấp tính sẵn sàng hoạt động cao , không đòi hỏi lưu trữ chia sẻ và là sự triển khai trọn gói ."
+            }
+        },
+        {
+            "content": "triển khai",
+            "type": "",
+            "example": {
+                "en": "After my last deployment, I just needed a change.",
+                "vi": "Sau lần cuối được triển khai, tôi cần thay đổi gì đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "dispensary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspens(ə)rē/",
+            "/dəˈspɛns(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɛns(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bịnh xá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chẩn y viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trạm phát thuốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh xá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phòng khám bệnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trạm xá",
+            "type": "",
+            "example": {
+                "en": "We're building dispensaries across that constituency.",
+                "vi": "Chúng tôi đang xây dựng trạm xá trên toàn khu vực bầu cử."
+            }
+        },
+        {
+            "content": "đixpanxe",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

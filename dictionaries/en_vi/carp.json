@@ -1,0 +1,58 @@
+{
+    "word": "carp",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kärp/",
+            "/kɑrp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá chép",
+            "type": "noun",
+            "example": {
+                "en": "In a few generations, there'll be no females left, no more carp.",
+                "vi": "Sau một vài thế hệ sẽ không còn giống cái, không còn cá chép nữa."
+            }
+        },
+        {
+            "content": "bắt bẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bới móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chê bai",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xoi mói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cá chép",
+            "type": "",
+            "example": {
+                "en": "The carp in the aquarium would rather drown than smell it",
+                "vi": "Cá chép trong hồ thà chết chìm còn hơn ngửi nó."
+            }
+        }
+    ]
+}

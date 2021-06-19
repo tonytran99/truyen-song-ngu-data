@@ -1,0 +1,41 @@
+{
+    "word": "easterly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēstərlē/",
+            "/ˈistərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːstəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về hướng đông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đông",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "We need to make up the time if we're to catch the easterlies.",
+                "vi": "Chúng ta phải theo kịp thời gian để có thể bắt được luồng gió đông."
+            }
+        },
+        {
+            "content": "từ hướng đông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

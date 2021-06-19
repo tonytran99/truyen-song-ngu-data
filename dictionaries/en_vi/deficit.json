@@ -1,0 +1,42 @@
+{
+    "word": "deficit",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdefəsət/",
+            "/ˈdɛfəsət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛfɪsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Thâm hụt ngân sách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hụt",
+            "type": "noun",
+            "example": {
+                "en": "A budget deficit will occur because of a revenue shortfall.",
+                "vi": "Thâm hụt ngân sách sẽ xảy ra do sự sụ giảm doanh thu."
+            }
+        },
+        {
+            "content": "số tiền thiếu hụt",
+            "type": "noun",
+            "example": {
+                "en": "Now, here are the briefing papers for Syria, the deficit,",
+                "vi": "Đây là các giấy tờ tóm tắt về Syria, số tiền thiếu hụt,"
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "honorific",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌänəˈrifik/",
+            "/ˌɑnəˈrɪfɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɒnəˈrɪfɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kính cẩn",
+            "type": "noun",
+            "example": {
+                "en": "Answer in short sentences and end with honorifics.",
+                "vi": "Trả lời ngắn gọn và kết thúc kính cẩn."
+            }
+        },
+        {
+            "content": "敬語",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kính ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói kính cẩn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

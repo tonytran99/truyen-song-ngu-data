@@ -1,0 +1,308 @@
+{
+    "word": "house",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hous/",
+            "/haʊs/",
+            "/houz/",
+            "/haʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haʊs/",
+            "/haʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "How long will you be at your aunt's house?",
+                "vi": "Cậu ở nhà dì tới khi nào thế?"
+            }
+        },
+        {
+            "content": "căn nhà",
+            "type": "",
+            "example": {
+                "en": "I built a new house in view of the mountain.",
+                "vi": "Tôi đã xây một căn nhà với tầm nhìn hườn ra núi."
+            }
+        },
+        {
+            "content": "ở",
+            "type": "verb adposition",
+            "example": {
+                "en": "How long will you be at your aunt's house?",
+                "vi": "Cậu ở nhà dì tới khi nào thế?"
+            }
+        },
+        {
+            "content": "ngôi nhà",
+            "type": "",
+            "example": {
+                "en": "Melissa completely lost her head when the house caught on fire. She didn't know what to do.",
+                "vi": "Melissa hoàn toàn mất bình tĩnh khi ngôi nhà phát hỏa. Cô ấy không biết nên làm gì."
+            }
+        },
+        {
+            "content": "căn",
+            "type": "noun",
+            "example": {
+                "en": "I built a new house in view of the mountain.",
+                "vi": "Tôi đã xây một căn nhà với tầm nhìn hườn ra núi."
+            }
+        },
+        {
+            "content": "trú",
+            "type": "",
+            "example": {
+                "en": "She showed up at my house looking for shelter.",
+                "vi": "Cô ấy xuất hiện trước cửa nhà tôi tìm chỗ trú."
+            }
+        },
+        {
+            "content": "chuồng",
+            "type": "",
+            "example": {
+                "en": "The master of the house cleaning out his own barn.",
+                "vi": "Kìa chủ nhà dọn sạch chuồng ngựa của mình."
+            }
+        },
+        {
+            "content": "dòng họ",
+            "type": "",
+            "example": {
+                "en": "Kreacher lives to serve the noble house of Black.",
+                "vi": "Kreacher sống ở đây để phục vụ căn nhà cao quý của dòng họ Black."
+            }
+        },
+        {
+            "content": "gia đình",
+            "type": "noun",
+            "example": {
+                "en": "We know Varga was outside the house the night the family disappeared.",
+                "vi": "Bọn tôi biết Varga đã chực ngoài ngôi nhà vào đêm gia đình này biến mất."
+            }
+        },
+        {
+            "content": "nhà hát",
+            "type": "noun",
+            "example": {
+                "en": "We meet up with somebody called Kestrel at the opera house.",
+                "vi": "Hội ngộ với người nào đó tên là Kestrel ở nhà hát opera."
+            }
+        },
+        {
+            "content": "nhà ở",
+            "type": "noun",
+            "example": {
+                "en": "Some examples could cost more than an Amsterdam house at this time .",
+                "vi": "Vài mẫu có thể mua đắt hơn cả một ngôi nhà ở Amsterdam lúc bấy giờ ."
+            }
+        },
+        {
+            "content": "toà nhà",
+            "type": "noun",
+            "example": {
+                "en": "Back of the house, 15 minutes.",
+                "vi": "Sau toà nhà, 15 phút nữa."
+            }
+        },
+        {
+            "content": "Nhà",
+            "type": "",
+            "example": {
+                "en": "Our house started to shake.",
+                "vi": "Nhà của chúng tôi bắt đầu rung chuyển."
+            }
+        },
+        {
+            "content": "thất",
+            "type": "noun",
+            "example": {
+                "en": "I felt a flash of frustration, and I moved quickly to set my house in order.",
+                "vi": "Tôi cảm thấy thất vọng một chút và nhanh chóng sắp xếp nhà của mình."
+            }
+        },
+        {
+            "content": "viện",
+            "type": "noun",
+            "example": {
+                "en": "There are no hospitals in the vicinity of his house.",
+                "vi": "Vùng lân cận xung quanh nhà anh ấy chẳng có cái bệnh viện nào."
+            }
+        },
+        {
+            "content": "quán",
+            "type": "noun",
+            "example": {
+                "en": "I was just applying for a job at the coffee house.",
+                "vi": "Con chỉ đến xin việc Ở quán cà phê thôi mà."
+            }
+        },
+        {
+            "content": "tiệm",
+            "type": "noun",
+            "example": {
+                "en": "Then we left the house with the priest.",
+                "vi": "Sau đó chúng tôi rời khỏi tiệm với vị linh mục."
+            }
+        },
+        {
+            "content": "phố",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "buổi biểu diễn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cung cấp nhà ở cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cất vào kho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hãng buôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khán giả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lắp vào ổ mộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người xem",
+            "type": "",
+            "example": {
+                "en": "I have a house to show.",
+                "vi": "Bà phải đi cho người xem nhà."
+            }
+        },
+        {
+            "content": "nhà cửa",
+            "type": "noun",
+            "example": {
+                "en": "I come every morning to clean the house.",
+                "vi": "Tôi tới đây dọn dẹp nhà cửa, như thường lệ."
+            }
+        },
+        {
+            "content": "nhà ký túc",
+            "type": "",
+            "example": {
+                "en": "We're hearing someone had the i nsight to blow out the compartment housing... that sent the whole station int o a deep freeze.",
+                "vi": "Nghe nói có người đủ tỉnh táo để cho nổ tung khu nhà ký túc... và đưa toàn trạm vào một giấc ngủ đông."
+            }
+        },
+        {
+            "content": "nhà tế bần",
+            "type": "",
+            "example": {
+                "en": "Well, any idea how one might cast them out of one's house before one opens a hospice business?",
+                "vi": "Cha có cách nào đuổi chúng ra khỏi nhà trước khi con mở một nhà tế bần không?"
+            }
+        },
+        {
+            "content": "phòng ốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quán rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quán trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rạp hát",
+            "type": "",
+            "example": {
+                "en": "We'll pack the house with this review.",
+                "vi": "Chúng ta có thể làm đầy cả rạp hát với bài viết này."
+            }
+        },
+        {
+            "content": "triều đại",
+            "type": "",
+            "example": {
+                "en": "I was hoping perhaps the house of rahl Might see the value in what I can provide",
+                "vi": "Tôi đang hy vọng có thể nào triều đại của Rahl nhận ra được giá trị của lão già này ko."
+            }
+        },
+        {
+            "content": "tu viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xổ số nội bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn thể tôn giáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gia",
+            "type": "verb",
+            "example": {
+                "en": "Mother, he's the one who slanders our house?",
+                "vi": "Mẹ, hắn là kẻ đã vu khống gia đình chúng ta phải không?"
+            }
+        },
+        {
+            "content": "phòng",
+            "type": "noun",
+            "example": {
+                "en": "You're not getting in the rest of the house.",
+                "vi": "Không được vào các phòng khác trong nhà này!"
+            }
+        },
+        {
+            "content": "cái nhà",
+            "type": "",
+            "example": {
+                "en": "Do you think he understood when I drew this house?",
+                "vi": "Chị vẽ cái nhà này em nghĩ anh ấy hiểu không?"
+            }
+        }
+    ]
+}

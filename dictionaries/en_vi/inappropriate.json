@@ -1,0 +1,37 @@
+{
+    "word": "inappropriate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinəˈprōprēət/",
+            "/ˌɪnəˈproʊpriət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnəˈprəʊprɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thích hợp",
+            "type": "adjective",
+            "example": {
+                "en": "Doing so is inappropriate, stressful, and perhaps confusing to a child.",
+                "vi": "Làm thế là không thích hợp, gây căng thẳng và có lẽ làm con cái bị bối rối."
+            }
+        },
+        {
+            "content": "không thích đáng",
+            "type": "adjective",
+            "example": {
+                "en": "Addictions and inappropriate or harmful propensities cause heartache.",
+                "vi": "Những thói nghiện và xu hướng không thích đáng hoặc tai hại tạo ra nỗi đau lòng."
+            }
+        }
+    ]
+}

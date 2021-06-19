@@ -1,0 +1,80 @@
+{
+    "word": "evening",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēvniNG/",
+            "/ˈivnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːv(ə)nɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buổi tối",
+            "type": "noun",
+            "example": {
+                "en": "He resigned himself to spending a boring evening.",
+                "vi": "Anh ta đành cam chịu một buổi tối chán nản."
+            }
+        },
+        {
+            "content": "buổi chiều",
+            "type": "noun",
+            "example": {
+                "en": "Mrs Hudson, isn't it time for your evening soother?",
+                "vi": "Bà Hudson, chẳng phải đã đến giờ uống thuốc giảm đau buổi chiều của bà rồi sao?"
+            }
+        },
+        {
+            "content": "tối",
+            "type": "noun",
+            "example": {
+                "en": "He resigned himself to spending a boring evening.",
+                "vi": "Anh ta đành cam chịu một buổi tối chán nản."
+            }
+        },
+        {
+            "content": "chiều",
+            "type": "noun",
+            "example": {
+                "en": "Unlike the evening before, the day was beautiful and filled with sunshine.",
+                "vi": "Không giống như buổi chiều hôm trước, ngày hôm đó trời rất đẹp và ấm."
+            }
+        },
+        {
+            "content": "lúc xế chiều",
+            "type": "",
+            "example": {
+                "en": "What results have been achieved by working in the late afternoon or early evening?",
+                "vi": "Rao giảng vào lúc xế chiều và chạng vạng tối đem lại những kết quả nào?"
+            }
+        },
+        {
+            "content": "lúc xế bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối đêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiều tối",
+            "type": "",
+            "example": {
+                "en": "My office just responded to an anonymous tip and arrived here earlier this evening.",
+                "vi": "Các sỹ quan của tôi theo một tin báo nặc danh và tới đây lúc chiều tối."
+            }
+        }
+    ]
+}

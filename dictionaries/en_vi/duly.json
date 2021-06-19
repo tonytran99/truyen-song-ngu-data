@@ -1,0 +1,54 @@
+{
+    "word": "duly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈd(y)o͞olē/",
+            "/ˈd(j)uli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdjuːli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đúng giờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đủ",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "chính đáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thích đáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng dắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng lúc",
+            "type": "",
+            "example": {
+                "en": "Duly motivated, I served a mission in Uruguay.",
+                "vi": "Được thúc đẩy đúng lúc, tôi đã phục vụ truyền giáo ở Uruguay."
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "word": "greet",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrēt/",
+            "/ɡrit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡriːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chào",
+            "type": "verb",
+            "example": {
+                "en": "They gave us a warm greeting.",
+                "vi": "Họ chào đón chúng tôi một cách nồng nhiệt."
+            }
+        },
+        {
+            "content": "chào hỏi",
+            "type": "",
+            "example": {
+                "en": "Don't greet him next time you see him.",
+                "vi": "Sau này gặp mặt cũng đừng chào hỏi."
+            }
+        },
+        {
+            "content": "chào mừng",
+            "type": "verb",
+            "example": {
+                "en": "And when she got to the house she was greeted.",
+                "vi": "Và khi tới được ngôi nhà cô bé đã được chào mừng."
+            }
+        },
+        {
+            "content": "rước",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nghinh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bày ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {
+                "en": "Deafening applause greets the victors!",
+                "vi": "Tiếng vỗ tay chói tai, hoan hô những người thắng!"
+            }
+        },
+        {
+            "content": "khóc lóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "than khóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vang đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vọng đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đón chào",
+            "type": "",
+            "example": {
+                "en": "And to see all the people coming out to greet me",
+                "vi": "khi thấy tất cả mọi người ra đón chào tôi"
+            }
+        },
+        {
+            "content": "đập vào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

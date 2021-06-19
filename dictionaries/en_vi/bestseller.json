@@ -1,0 +1,34 @@
+{
+    "word": "bestseller",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbestˈselər/",
+            "/ˌbɛstˈsɛlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɛstˈsɛlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng bán chạy nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách bán chạy",
+            "type": "noun",
+            "example": {
+                "en": "Are you regretting it now that it's become a bestseller?",
+                "vi": "Có phải bây giờ thầy hối tiếc vì nó đã trở thành cuốn sách bán chạy nhất?"
+            }
+        }
+    ]
+}

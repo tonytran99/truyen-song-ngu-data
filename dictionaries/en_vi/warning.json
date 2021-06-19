@@ -1,0 +1,86 @@
+{
+    "word": "warning",
+    "type": [
+        "interjection",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrniNG/",
+            "/ˈwɔrnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh cáo",
+            "type": "",
+            "example": {
+                "en": "You let me out now and I'll only give you a warning.",
+                "vi": "Nếu anh thả tôi ra ngay thì tôi chỉ cảnh cáo anh thôi."
+            }
+        },
+        {
+            "content": "dấu hiệu báo trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời báo trước",
+            "type": "",
+            "example": {
+                "en": "But even now blizzards can strike without warning.",
+                "vi": "Mặc dù vậy bão tuyết vẫn có thể xảy đến không một lời báo trước."
+            }
+        },
+        {
+            "content": "lời cảnh báo",
+            "type": "noun",
+            "example": {
+                "en": "After hearing about numerous warnings that have not materialized, many people treat all warnings lightly.",
+                "vi": "Vì nhiều lời cảnh báo không xảy ra nên người ta coi thường."
+            }
+        },
+        {
+            "content": "lời cảnh cáo",
+            "type": "",
+            "example": {
+                "en": "Let this be a warning to the world.",
+                "vi": "Hãy xem đây là lời cảnh cáo cho thế giới."
+            }
+        },
+        {
+            "content": "lời răn",
+            "type": "noun",
+            "example": {
+                "en": "Consider the warning by the apostle Peter in the first century.",
+                "vi": "Hãy xem lời răn của sứ đồ Phi-e-rơ trong thế kỷ thứ nhất."
+            }
+        },
+        {
+            "content": "sự báo nghỉ việc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự báo trước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự cảnh báo",
+            "type": "",
+            "example": {
+                "en": "His words here are actually a warning directed to the faithful and discreet slave.",
+                "vi": "Những lời của ngài là sự cảnh báo dành cho đầy tớ trung tín và khôn ngoan."
+            }
+        }
+    ]
+}

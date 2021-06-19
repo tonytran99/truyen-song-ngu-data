@@ -1,0 +1,37 @@
+{
+    "word": "goofy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡo͞ofē/",
+            "/ˈɡufi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡuːfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngốc",
+            "type": "adjective",
+            "example": {
+                "en": "You're not that little goofy kid I found in the iceberg anymore.",
+                "vi": "Cậu không còn là cậu bé ngốc ngếch tớ tìm được ở tảng băng nữa."
+            }
+        },
+        {
+            "content": "ngu",
+            "type": "adjective",
+            "example": {
+                "en": "these goofy little spherical things,",
+                "vi": "trong những hình cầu bé nhỏ ngu si này,"
+            }
+        }
+    ]
+}

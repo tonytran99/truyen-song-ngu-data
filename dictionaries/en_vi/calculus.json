@@ -1,0 +1,71 @@
+{
+    "word": "calculus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkalkyələs/",
+            "/ˈkælkjələs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkalkjʊləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải tích",
+            "type": "",
+            "example": {
+                "en": "So, even a straight line, defined with calculus, is a curve.",
+                "vi": "Ngay cả 1 đường thẳng, theo định nghĩa của giải tích là 1 đường cong."
+            }
+        },
+        {
+            "content": "phép tính",
+            "type": "noun",
+            "example": {
+                "en": "weren't really using calculus to define their forms.",
+                "vi": "thời đó không thực sự dùng phép tính để định hình cho kiến trúc."
+            }
+        },
+        {
+            "content": "phép vi tích phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính toán",
+            "type": "",
+            "example": {
+                "en": "I swallowed my pride, and I learned calculus.",
+                "vi": "Tôi nuốt niềm tự hào của tôi, và tôi đã học tính toán"
+            }
+        },
+        {
+            "content": "Vôi răng",
+            "type": "",
+            "example": {
+                "en": "Dental professionals use specialized tools that can remove plaque and calculus from your teeth, both above and below the gum line.",
+                "vi": "Các nha sĩ sẽ dùng các dụng cụ chuyên dụng để loại bỏ mảng bám và vôi răng ở cả trên lẫn dưới viền nướu."
+            }
+        },
+        {
+            "content": "vi tích phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vôi răng",
+            "type": "",
+            "example": {
+                "en": "Dental professionals use specialized tools that can remove plaque and calculus from your teeth, both above and below the gum line.",
+                "vi": "Các nha sĩ sẽ dùng các dụng cụ chuyên dụng để loại bỏ mảng bám và vôi răng ở cả trên lẫn dưới viền nướu."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "volumetric",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvälyəˈmetrik/",
+            "/ˌvɑljəˈmɛtrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvɒljʊˈmɛtrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thể tích",
+            "type": "noun",
+            "example": {
+                "en": "A volumetric flask is for general mixing and titration.",
+                "vi": "Bình đo thể tích chỉ dùng để trộn và định phân thôi."
+            }
+        },
+        {
+            "content": "để đo thể tích",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "friday",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrīdā/",
+            "/ˈfraɪdeɪ/",
+            "/ˈfrīdē/",
+            "/ˈfraɪdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrʌɪdeɪ/",
+            "/ˈfrʌɪdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày thứ sáu",
+            "type": "",
+            "example": {
+                "en": "You were going to be gone until Friday.",
+                "vi": "Ba người dự định đi tới ngày Thứ sáu."
+            }
+        },
+        {
+            "content": "thứ sáu",
+            "type": "noun",
+            "example": {
+                "en": "My car broke down this morning and won't be repaired until Friday.",
+                "vi": "Ô tô của tôi đã bị hỏng sáng nay và sẽ không được sửa xong trước thứ sáu."
+            }
+        },
+        {
+            "content": "thöù saùu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

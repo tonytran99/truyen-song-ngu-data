@@ -1,0 +1,50 @@
+{
+    "word": "headlight",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌlīt/",
+            "/ˈhɛdˌlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdlʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đèn pha",
+            "type": "",
+            "example": {
+                "en": "Uh, all I saw was the shape and the headlights.",
+                "vi": "Uh, tôi chỉ thấy hình dáng và đèn pha."
+            }
+        },
+        {
+            "content": "pha",
+            "type": "verb noun",
+            "example": {
+                "en": "Uh, all I saw was the shape and the headlights.",
+                "vi": "Uh, tôi chỉ thấy hình dáng và đèn pha."
+            }
+        },
+        {
+            "content": "đèn",
+            "type": "noun",
+            "example": {
+                "en": "Uh, all I saw was the shape and the headlights.",
+                "vi": "Uh, tôi chỉ thấy hình dáng và đèn pha."
+            }
+        },
+        {
+            "content": "pha xe",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

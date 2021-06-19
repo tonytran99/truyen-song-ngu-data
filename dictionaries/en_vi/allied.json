@@ -1,0 +1,69 @@
+{
+    "word": "allied",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlīd/",
+            "/əˈlaɪd/",
+            "/ˈalˌīd/",
+            "/ˈælˌaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalʌɪd/",
+            "/əˈlʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng minh",
+            "type": "",
+            "example": {
+                "en": "I'm not above disagreeing with an ally when they're wrong.",
+                "vi": "Khi đồng minh sai, tôi không thể không phản đối được."
+            }
+        },
+        {
+            "content": "cùng giống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng họ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng tính chất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp với",
+            "type": "",
+            "example": {
+                "en": "It allies in a really positive and economically viable food system.",
+                "vi": "Nó kết hợp với hệ thống thực phẩm tích cực và khả thi về kinh tế."
+            }
+        },
+        {
+            "content": "liên minh",
+            "type": "noun",
+            "example": {
+                "en": "His family is a major clan allied to the Zahirs..",
+                "vi": "Gia đình hắn là một bộ tộc lớn, liên minh với bộ tộc của Zahir."
+            }
+        },
+        {
+            "content": "thông gia",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

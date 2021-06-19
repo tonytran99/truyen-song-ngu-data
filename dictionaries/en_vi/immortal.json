@@ -1,0 +1,85 @@
+{
+    "word": "immortal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(m)ˈmôrdl/",
+            "/ɪ(m)ˈmɔrdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmɔːt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất tử",
+            "type": "adjective",
+            "example": {
+                "en": "Are we not protected by an army of immortals?",
+                "vi": "Không phải chúng ta được bảo vệ bởi một đội ngũ bất tử hay sao?"
+            }
+        },
+        {
+            "content": "bất hủ",
+            "type": "adjective",
+            "example": {
+                "en": "Just to wrap up, in the immortal words of H.G. Wells,",
+                "vi": "Thay cho lời kết, tôi muốn trích lại câu nói bất hủ của H.G.Wells,"
+            }
+        },
+        {
+            "content": "bất diệt",
+            "type": "adjective",
+            "example": {
+                "en": "They relate to the immortality of the human soul.",
+                "vi": "Các vinh quang này liên hệ đến sự bất diệt của linh hồn con người."
+            }
+        },
+        {
+            "content": "người bất tử",
+            "type": "",
+            "example": {
+                "en": "I'm not the first immortal that you've met.",
+                "vi": "Tôi không phải là người bất tử đầu tiên cô đã gặp."
+            }
+        },
+        {
+            "content": "nhà thơ bất tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà văn bất tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sống mãi",
+            "type": "",
+            "example": {
+                "en": "And it's being alone with your immortality.",
+                "vi": "Và nó chính là việc sống mãi trong sự cô độc."
+            }
+        },
+        {
+            "content": "viện sĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiên",
+            "type": "noun adverb",
+            "example": {
+                "en": "Do you know I'm not an immortal now?",
+                "vi": "Vậy ngươi biết ta không còn là thần tiên nữa?"
+            }
+        }
+    ]
+}

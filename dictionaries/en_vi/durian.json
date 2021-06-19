@@ -1,0 +1,41 @@
+{
+    "word": "durian",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdo͝orēən/",
+            "/ˈdʊriən/",
+            "/ˈdo͝orēˌän/",
+            "/ˈdʊriˌɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʊərɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sầu riêng",
+            "type": "noun",
+            "example": {
+                "en": "I like eating durian.",
+                "vi": "Tôi thích ăn sầu riêng."
+            }
+        },
+        {
+            "content": "quả sầu riêng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây sầu riêng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

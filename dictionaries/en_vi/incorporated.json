@@ -1,0 +1,53 @@
+{
+    "word": "incorporated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkôrpəˌrādəd/",
+            "/ɪnˈkɔrpəˌreɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkɔːpəreɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sáp nhập",
+            "type": "verb",
+            "example": {
+                "en": "The district had just been incorporated into Lithuania the year before my birth.",
+                "vi": "Địa hạt này vừa được sáp nhập vào Lithuania vào năm trước đó."
+            }
+        },
+        {
+            "content": "hợp nhất",
+            "type": "",
+            "example": {
+                "en": "by either the disruption or incorporation of new genetic information.",
+                "vi": "bằng sự phá vỡ hoặc hợp nhất thông tin di truyền mới."
+            }
+        },
+        {
+            "content": "hợp thành tổ chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp thành đoàn thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp chặt chẽ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

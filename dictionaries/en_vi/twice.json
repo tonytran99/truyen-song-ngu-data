@@ -1,0 +1,61 @@
+{
+    "word": "twice",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twīs/",
+            "/twaɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twʌɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai lần",
+            "type": "noun",
+            "example": {
+                "en": "Yes! I won twice in a row!",
+                "vi": "Hay quá! Tôi thắng hai lần liền!"
+            }
+        },
+        {
+            "content": "gấp hai",
+            "type": "noun",
+            "example": {
+                "en": "Women blink nearly twice as much as men .",
+                "vi": "Phụ nữ nháy mắt nhiều gần gấp hai lần so với nam giới ."
+            }
+        },
+        {
+            "content": "gấp đôi",
+            "type": "",
+            "example": {
+                "en": "As if spending twice the money guaranteed twice the profit.",
+                "vi": "Làm như tiêu gấp đôi tiền là đảm bảo lợi nhuận gấp đôi ấy."
+            }
+        },
+        {
+            "content": "lớn gấp hai lần",
+            "type": "",
+            "example": {
+                "en": "It is twice as big as the small room.",
+                "vi": "Buồng này lớn gấp hai lần buồng nhỏ kia."
+            }
+        },
+        {
+            "content": "tốt gấp hai lần",
+            "type": "",
+            "example": {
+                "en": "Well, congratulations, you're twice as good as the Swedes,",
+                "vi": "Thế đấy, xin chúc mừng, các bạn trả lời tốt gấp hai lần người Thụy Điển"
+            }
+        }
+    ]
+}

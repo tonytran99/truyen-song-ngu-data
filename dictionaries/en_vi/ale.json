@@ -1,0 +1,47 @@
+{
+    "word": "ale",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/āl/",
+            "/eɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bia",
+            "type": "noun",
+            "example": {
+                "en": "A flagon of ale for whoever gets these people out of here.",
+                "vi": "Một vại bia cho bất kỳ ai đuổi mấy người này ra khỏi đây."
+            }
+        },
+        {
+            "content": "rượu bia",
+            "type": "noun",
+            "example": {
+                "en": "Gentlemen, free ale till the end of the world!",
+                "vi": "Quý vị ơi, rượu bia miễn phí cho đến ngày tận thế!"
+            }
+        },
+        {
+            "content": "Ale",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rîu bia",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "weaving",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēviNG/",
+            "/ˈwivɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "canh cửi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêu dệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "len lỏi",
+            "type": "adjective",
+            "example": {
+                "en": "and we had to weave through this thing like a maze",
+                "vi": "và chúng tôi phải len lỏi qua mê cung này"
+            }
+        },
+        {
+            "content": "xưởng dệt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

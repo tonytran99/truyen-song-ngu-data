@@ -1,0 +1,48 @@
+{
+    "word": "cathedral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈTHēdrəl/",
+            "/kəˈθidrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈθiːdr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà thờ chính tòa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà thờ lớn",
+            "type": "",
+            "example": {
+                "en": "Flying buttresses, just as in a cathedral, help strengthen the crown of the tree",
+                "vi": "Trụ chống, giống như trong một nhà thờ lớn giúp gia cố ngọn cây"
+            }
+        },
+        {
+            "content": "đại giáo đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà thờ",
+            "type": "noun",
+            "example": {
+                "en": "Even the dean of a local cathedral was not quite sure how to interpret the pope’s remarks.",
+                "vi": "Ngay cả linh mục của một nhà thờ địa phương cũng không hiểu Giáo hoàng muốn nói gì."
+            }
+        }
+    ]
+}

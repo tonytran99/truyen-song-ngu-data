@@ -1,0 +1,35 @@
+{
+    "word": "cozy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōzē/",
+            "/ˈkoʊzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thoải mái dễ chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấm cúng",
+            "type": "adjective",
+            "example": {
+                "en": "And where did this cozy conversation take place?",
+                "vi": "Và cuộc nói chuyện ấm cúng đó diễn ra ở đâu?"
+            }
+        },
+        {
+            "content": "ấm giỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

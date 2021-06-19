@@ -1,0 +1,30 @@
+{
+    "word": "electrical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrək(ə)l/",
+            "/əˈlɛktrək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện",
+            "type": "noun",
+            "example": {
+                "en": "Can you imagine what our life would be like without electricity?",
+                "vi": "Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?"
+            }
+        }
+    ]
+}

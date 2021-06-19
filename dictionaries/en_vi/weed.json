@@ -1,0 +1,93 @@
+{
+    "word": "weed",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wēd/",
+            "/wid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cỏ dại",
+            "type": "noun",
+            "example": {
+                "en": "Who takes charge of keeping the weeds out of the front yard or cutting the grass?",
+                "vi": "Ai phụ trách việc nhổ cỏ dại hoặc cắt cỏ trong sân?"
+            }
+        },
+        {
+            "content": "làm cỏ",
+            "type": "verb",
+            "example": {
+                "en": "No, it's gotta have plowing and planting and weeding and watering.",
+                "vi": "Không, cần phải cày xới và gieo trồng và làm cỏ và tưới nước."
+            }
+        },
+        {
+            "content": "cỏ",
+            "type": "noun",
+            "example": {
+                "en": "But you know, there is no such thing as a weed.",
+                "vi": "Nhưng bạn biết đấy, không có loài cây nào như cỏ dại."
+            }
+        },
+        {
+            "content": "cần sa",
+            "type": "noun",
+            "example": {
+                "en": "His friends drove up from Philly to vape weed and play videogames very loudly.",
+                "vi": "Bạn anh ấy đến từ Philly để hút cần sa và chơi game một cách rất ầm ĩ."
+            }
+        },
+        {
+            "content": "giẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giẫy cỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngựa còm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhổ cỏ",
+            "type": "",
+            "example": {
+                "en": "Irma, you and Frieda start pulling weeds out of the floor.",
+                "vi": "Irma, bà và Frieda nhổ cỏ dưới sàn đi."
+            }
+        },
+        {
+            "content": "thuốc lá",
+            "type": "noun",
+            "example": {
+                "en": "You know, the best thing for a hangover is weed.",
+                "vi": "Tốt nhất khi bị say là dùng thuốc lá."
+            }
+        },
+        {
+            "content": "Cỏ",
+            "type": "",
+            "example": {
+                "en": "There's weeds growing chin high in that place.",
+                "vi": "Cỏ dại đã mọc đến ngang cằm ở cái chỗ đó."
+            }
+        }
+    ]
+}

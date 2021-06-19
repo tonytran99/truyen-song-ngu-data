@@ -1,0 +1,46 @@
+{
+    "word": "waive",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wāv/",
+            "/weɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ bỏ",
+            "type": "",
+            "example": {
+                "en": "And for the record, I waive my right to counsel.",
+                "vi": "Và cho cậu biết, tôi từ bỏ quyền được từ vấn."
+            }
+        },
+        {
+            "content": "khước từ",
+            "type": "",
+            "example": {
+                "en": "I think you waived that right when you shot Armstrong.",
+                "vi": "Tôi nghĩ cậu đã khước từ quyền đó khi bắn Armstrong."
+            }
+        },
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "And for the record, I waive my right to counsel.",
+                "vi": "Và cho cậu biết, tôi từ bỏ quyền được từ vấn."
+            }
+        }
+    ]
+}

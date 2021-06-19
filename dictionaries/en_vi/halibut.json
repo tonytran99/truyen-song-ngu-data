@@ -1,0 +1,47 @@
+{
+    "word": "halibut",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaləbət/",
+            "/ˈhæləbət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhalɪbət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá bơn",
+            "type": "noun",
+            "example": {
+                "en": "You caught a halibut.",
+                "vi": "Ngài đã bắt được 1 con cá bơn."
+            }
+        },
+        {
+            "content": "cá bơn halibut",
+            "type": "",
+            "example": {
+                "en": "the tunas, the halibuts, the salmons, swordfish —",
+                "vi": "cá ngừ, cá bơn halibut, cá hồi, cá mũi kiếm,"
+            }
+        },
+        {
+            "content": "cá bơn lưỡi ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "món cá bơn halibut",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "tropic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈträpik/",
+            "/ˈtrɑpɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɒpɪk/",
+            "/ˈtrəʊpɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chí tuyến",
+            "type": "noun",
+            "example": {
+                "en": "We are in or near the tropic of Cancer.",
+                "vi": "Chúng ta đang ở đâu đó gần Chí tuyến Bắc."
+            }
+        },
+        {
+            "content": "nhiệt đới",
+            "type": "adjective",
+            "example": {
+                "en": "This species is common to tropical and subtropical areas around the world.",
+                "vi": "Loài này sinh sống trong những vùng nhiệt đới và cận nhiệt đới trên thế giới."
+            }
+        },
+        {
+            "content": "vùng nhiệt đới",
+            "type": "",
+            "example": {
+                "en": "Bats in the tropics are major pollinators of many plants.",
+                "vi": "Những con dơi vùng nhiệt đới là người thụ phấn của nhiều thực vật."
+            }
+        }
+    ]
+}

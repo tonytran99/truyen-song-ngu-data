@@ -1,0 +1,48 @@
+{
+    "word": "diphtheria",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/difˈTHirēə/",
+            "/dɪfˈθɪriə/",
+            "/dipˈTHirēə/",
+            "/dɪpˈθɪriə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪfˈθɪərɪə/",
+            "/dɪpˈθɪərɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạch hầu",
+            "type": "noun",
+            "example": {
+                "en": "She had three little children, lost them all to the diphtheria in three days.",
+                "vi": "Cô ấy có ba đứa con đều mất vì bệnh bạch hầu."
+            }
+        },
+        {
+            "content": "bệnh bạch hầu",
+            "type": "",
+            "example": {
+                "en": "She had three little children, lost them all to the diphtheria in three days.",
+                "vi": "Cô ấy có ba đứa con đều mất vì bệnh bạch hầu."
+            }
+        },
+        {
+            "content": "Bạch hầu",
+            "type": "",
+            "example": {
+                "en": "She had three little children, lost them all to the diphtheria in three days.",
+                "vi": "Cô ấy có ba đứa con đều mất vì bệnh bạch hầu."
+            }
+        }
+    ]
+}

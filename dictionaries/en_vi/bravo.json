@@ -1,0 +1,52 @@
+{
+    "word": "bravo",
+    "type": [
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrävō/",
+            "/ˈbrɑvoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brɑːˈvəʊ/",
+            "/ˈbrɑːvəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {
+                "en": "It seems that it was you who discovered him, bravo.",
+                "vi": "Hình như chính anh là người đã phát hiện ra hắn, hoan hô."
+            }
+        },
+        {
+            "content": "hay lắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay",
+            "type": "conjunction verb adjective",
+            "example": {}
+        },
+        {
+            "content": "kẻ cướp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời hoan hô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "laud",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lôd/",
+            "/lɔd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khen ngợi",
+            "type": "verb",
+            "example": {
+                "en": "Its achievements in pulling hundreds of millions out of poverty should be lauded .",
+                "vi": "Thành công của họ trong việc kéo hàng trăm triệu người thoát khỏi sự nghèo khổ đáng được khen ngợi ."
+            }
+        },
+        {
+            "content": "ca ngợi",
+            "type": "verb",
+            "example": {
+                "en": "The things that you've been lauded for all your life, those are suddenly fatal flaws.",
+                "vi": "Những điều mà anh được ca ngợi trong suốt cuộc đời, đều là đòn chí mạng cả."
+            }
+        },
+        {
+            "content": "lời ca ngợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời khen ngợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời tán dương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán ca",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán dương",
+            "type": "",
+            "example": {
+                "en": "I'm an internationally lauded poet.",
+                "vi": "Tôi là nhà thơ được quốc tế tán dương."
+            }
+        }
+    ]
+}

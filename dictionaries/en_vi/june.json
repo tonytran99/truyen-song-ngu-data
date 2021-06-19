@@ -1,0 +1,35 @@
+{
+    "word": "june",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jo͞on/",
+            "/dʒun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháng sáu",
+            "type": "proper",
+            "example": {
+                "en": "It's 18th June today, and also Muiriel's birthday!",
+                "vi": "Hôm nay là ngày 18 tháng sáu, và cũng là ngày sinh nhật của Muiriel!"
+            }
+        },
+        {
+            "content": "thaùng saùu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

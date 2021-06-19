@@ -1,0 +1,96 @@
+{
+    "word": "god",
+    "type": [
+        "verb",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡäd/",
+            "/ɡɑd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chúa",
+            "type": "noun",
+            "example": {
+                "en": "We all are God's sons.",
+                "vi": "Tất cả chúng ta đều là con của Chúa."
+            }
+        },
+        {
+            "content": "thiên chúa",
+            "type": "noun",
+            "example": {
+                "en": "The prophet Samuel has urged the people to unite in God's name.",
+                "vi": "Ngôn sứ Sa-mu-en đã thúc giục dân chúng đoàn kết nhân danh Thiên Chúa."
+            }
+        },
+        {
+            "content": "thần",
+            "type": "noun",
+            "example": {
+                "en": "Only you could lift the curse the gods placed on me.",
+                "vi": "Chỉ có cậu mới có thể phá giải lời nguyền của các vị thần giáng lên người ta."
+            }
+        },
+        {
+            "content": "trời",
+            "type": "adjective interjection noun",
+            "example": {
+                "en": "For God's sake, why can't we learn to live together?",
+                "vi": "Trời đất ơi, tại sao không chịu học cách sống chung với nhau?"
+            }
+        },
+        {
+            "content": "Chúa",
+            "type": "proper",
+            "example": {
+                "en": "We all are God's sons.",
+                "vi": "Tất cả chúng ta đều là con của Chúa."
+            }
+        },
+        {
+            "content": "chúa trời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu trời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngọc hoàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thượng đế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tôn làm thần thánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiên",
+            "type": "noun proper",
+            "example": {
+                "en": "Then shall they be gods, because they have all power, and the angels are subject unto them.",
+                "vi": "Do đó họ sẽ trở thành các thượng đế, vì họ có tất cả quyền năng, và các thiên sứ phục tùng họ."
+            }
+        }
+    ]
+}

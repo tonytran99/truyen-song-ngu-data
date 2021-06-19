@@ -1,0 +1,499 @@
+{
+    "word": "close",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klōs/",
+            "/kloʊs/",
+            "/klōz/",
+            "/kloʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kləʊs/",
+            "/kləʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đóng",
+            "type": "verb",
+            "example": {
+                "en": "I had no sooner closed the door than somebody started knocking on it.",
+                "vi": "Tôi vừa đóng cửa thì có người gõ cửa."
+            }
+        },
+        {
+            "content": "gần",
+            "type": "adjective",
+            "example": {
+                "en": "My house is close to the school.",
+                "vi": "Nhà tôi ở gần trường."
+            }
+        },
+        {
+            "content": "thân",
+            "type": "adjective",
+            "example": {
+                "en": "How many close friends do you have?",
+                "vi": "Bạn có bao nhiêu bạn thân?"
+            }
+        },
+        {
+            "content": "khép",
+            "type": "verb",
+            "example": {
+                "en": "Tom noticed the door was half closed.",
+                "vi": "Tom để ý thấy cánh cửa chỉ khép hờ."
+            }
+        },
+        {
+            "content": "chặt",
+            "type": "adjective",
+            "example": {
+                "en": "Do you know how to close your mind?",
+                "vi": "Cậu có biết cách khóa chặt tâm trí không?"
+            }
+        },
+        {
+            "content": "khít",
+            "type": "adjective",
+            "example": {
+                "en": "SOME siblings are very close.",
+                "vi": "Một số bạn gắn bó khăng khít với anh chị em của mình."
+            }
+        },
+        {
+            "content": "chặt chẽ",
+            "type": "adjective",
+            "example": {
+                "en": "Watch your competition as closely as you do your own employees .",
+                "vi": "Hãy giám sát chặt chẽ đối thủ như với chính những nhân viên của mình vậy ."
+            }
+        },
+        {
+            "content": "nhắm",
+            "type": "verb",
+            "example": {
+                "en": "I go crazy every time I close my eyes.",
+                "vi": "Em phát điên mỗi lần em nhắm mắt."
+            }
+        },
+        {
+            "content": "kết",
+            "type": "verb",
+            "example": {
+                "en": "We played some games together, and I gave the closing prayer.",
+                "vi": "Chúng tôi cùng chơi chung một vài trò chơi và tôi dâng lên lời cầu nguyện kết thúc."
+            }
+        },
+        {
+            "content": "cận",
+            "type": "adjective",
+            "example": {
+                "en": "Yes, indeed, they say that I'm very close to the prince.",
+                "vi": "Họ nói rằng tôi rất thân cận với Thái tử."
+            }
+        },
+        {
+            "content": "sát",
+            "type": "verb",
+            "example": {
+                "en": "Sheriff Wade he could close you down anytime.",
+                "vi": "Cảnh sát trưởng Wade ổng có thể đóng cửa anh bất cứ lúc nào."
+            }
+        },
+        {
+            "content": "kín",
+            "type": "",
+            "example": {
+                "en": "Do you know what a closed adoption is?",
+                "vi": "Cô có biết con nuôi kín là thế nào không?"
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kín đáo",
+            "type": "",
+            "example": {
+                "en": "Maybe someone quiet, who seemed like he was always just a little too close.",
+                "vi": "Có thể là ai đó trầm lặng, kẻ luôn có vẻ kín đáo quá mức."
+            }
+        },
+        {
+            "content": "kết thúc",
+            "type": "noun",
+            "example": {
+                "en": "I believe starting on time, and I believe closing on time.",
+                "vi": "Tôi tin vào việc bắt đầu đúng giờ, Tôi tin vào việc kết thúc đúng giờ."
+            }
+        },
+        {
+            "content": "sít",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cấm",
+            "type": "",
+            "example": {
+                "en": "Mama Mosebery says everything will be closed down.",
+                "vi": "Mama Mosebery nói mọi thứ sẽ bị cấm."
+            }
+        },
+        {
+            "content": "bí",
+            "type": "adjective",
+            "example": {
+                "en": "Because the bulk beings are closing the tesseract.",
+                "vi": "Bởi vì thực thể bí ẩn đang đóng khối đa chiều này lại."
+            }
+        },
+        {
+            "content": "hoàn tất",
+            "type": "",
+            "example": {
+                "en": "He was waiting to close escrow on a condo.",
+                "vi": "Nó đang đợi hoàn tất hợp đồng mua một căn hộ mới."
+            }
+        },
+        {
+            "content": "ngắn",
+            "type": "adjective",
+            "example": {
+                "en": "Lauda's now lapping faster than Reutemann and closing the gap ahead.",
+                "vi": "Lauda giờ đi nhanh hơn Reutemann và đang rút ngắn khoảng cách."
+            }
+        },
+        {
+            "content": "gấp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chật",
+            "type": "adjective adverb",
+            "example": {
+                "en": "at the same time in such close quarters,",
+                "vi": "cùng một lúc trong cùng một không gian chật hẹp"
+            }
+        },
+        {
+            "content": "trám",
+            "type": "verb",
+            "example": {
+                "en": "I can close that gap for you.",
+                "vi": "Tôi có thể trám cái kẻ hở đó cho anh."
+            }
+        },
+        {
+            "content": "khoá",
+            "type": "verb",
+            "example": {
+                "en": "Unable to close mailbox",
+                "vi": "Không thể khoá thùng thư"
+            }
+        },
+        {
+            "content": "tan",
+            "type": "verb",
+            "example": {
+                "en": "Some are close to feeling that, at least for them, all is lost.",
+                "vi": "Một số người hầu như cảm thấy rằng, ít nhất là đối với họ, tất cả đều đã tiêu tan."
+            }
+        },
+        {
+            "content": "cụp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "híp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩn",
+            "type": "adjective verb noun",
+            "example": {}
+        },
+        {
+            "content": "bo bo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bí hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "And they seemed very close, in a secretive way.",
+                "vi": "Và dường như họ thân nhau theo một cách bí mật."
+            }
+        },
+        {
+            "content": "bế mạc",
+            "type": "verb",
+            "example": {
+                "en": "My heart is full as we come to the close of this conference.",
+                "vi": "Tôi vô cùng xúc động vào lúc bế mạc đại hội này."
+            }
+        },
+        {
+            "content": "bủn xỉn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "che đậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấm dứt",
+            "type": "",
+            "example": {
+                "en": "I just closed my eyes, hoping and praying that it would be over soon.",
+                "vi": "Tôi chỉ nhắm mắt lại hy vọng và cầu nguyện rằng điều đó sẽ sớm chấm dứt."
+            }
+        },
+        {
+            "content": "chật chội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cẩn thận",
+            "type": "",
+            "example": {
+                "en": "I will take very close care of your interests.",
+                "vi": "Tôi sẽ trông chừng cẩn thận những quyền lợi của ngài."
+            }
+        },
+        {
+            "content": "dè dặt",
+            "type": "",
+            "example": {
+                "en": "US markets closed flat as investors greeted the plan with caution .",
+                "vi": "Thị trường Hoa Kỳ đóng cửa im lìm do giới đầu tư vẫn đang dè dặt với kế hoạch này ."
+            }
+        },
+        {
+            "content": "gay go",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gần gũi",
+            "type": "",
+            "example": {
+                "en": "She's supposed to get close to him and gain his trust.",
+                "vi": "Cô ấy phải gần gũi với hắn ta để có lòng tin của hắn."
+            }
+        },
+        {
+            "content": "hà tiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạn chế",
+            "type": "",
+            "example": {
+                "en": "Sources close to the Chancellor will neither confirm nor deny...",
+                "vi": "Nguồn cung cấp hạn chế với Chancellor không xác nhận hay từ chối..."
+            }
+        },
+        {
+            "content": "hấp hơi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khu đất có rào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kỹ lưỡng",
+            "type": "",
+            "example": {
+                "en": "The other shook his head and examined his new possession closely .",
+                "vi": "Người kia lắc đầu và xem xét kỹ lưỡng món đồ mới của mình ."
+            }
+        },
+        {
+            "content": "lúc kết thúc",
+            "type": "",
+            "example": {
+                "en": "and by having witnessed their suffering from close,",
+                "vi": "bởi đã chứng kiến nỗi khổ của họ từ lúc kết thúc,"
+            }
+        },
+        {
+            "content": "lại gần",
+            "type": "",
+            "example": {
+                "en": "So it's poible they were staying close by.",
+                "vi": "Có khả năng họ ở lại gần đó."
+            }
+        },
+        {
+            "content": "mật thiết",
+            "type": "",
+            "example": {
+                "en": "To know someone personally opens the way for having a close relationship with him.",
+                "vi": "Biết rõ bản thân một người mở đường cho mối quan hệ mật thiết với người đó."
+            }
+        },
+        {
+            "content": "ngang nhau",
+            "type": "",
+            "example": {
+                "en": "It's close... but theoretically, Hatteberg.",
+                "vi": "Gần ngang nhau... Nhưng theo giả thuyết, Hatteberg."
+            }
+        },
+        {
+            "content": "ngang sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngột ngạt",
+            "type": "",
+            "example": {
+                "en": "The air is so close in here.",
+                "vi": "Không khí ở đây thật ngột ngạt."
+            }
+        },
+        {
+            "content": "phần cuối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sát sao",
+            "type": "",
+            "example": {
+                "en": "You tell your girlfriend she better keep a close eye on you.",
+                "vi": "Bảo bạn gái cậu nên để mắt đến cậu sát sao hơn đi."
+            }
+        },
+        {
+            "content": "sân trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sân trường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kết thúc",
+            "type": "",
+            "example": {
+                "en": "Since the end is so close, what do you need to do?",
+                "vi": "Vì sự kết thúc gần đến, bạn cần làm gì?"
+            }
+        },
+        {
+            "content": "sự ôm nhau vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân cận",
+            "type": "adjective",
+            "example": {
+                "en": "Yes, indeed, they say that I'm very close to the prince.",
+                "vi": "Họ nói rằng tôi rất thân cận với Thái tử."
+            }
+        },
+        {
+            "content": "thân thiết",
+            "type": "",
+            "example": {
+                "en": "It's great we've remained so close, even after the engagement fell through.",
+                "vi": "Bọn anh vẫn giữ mối quan hệ thân thiết, ngay cả khi hôn ước bị đổ vỡ."
+            }
+        },
+        {
+            "content": "tỉ mỉ",
+            "type": "",
+            "example": {
+                "en": "I've been closely watching the earth and its dwellers",
+                "vi": "Tôi đã quan sát trái đất và con người một cách tỉ mỉ"
+            }
+        },
+        {
+            "content": "đinh hương",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đóng kín",
+            "type": "",
+            "example": {
+                "en": "Not if people believe the president is being chosen behind closed doors.",
+                "vi": "Họ không tin vào điều đó nếu Tổng thống được bầu sau một cánh cửa đóng kín."
+            }
+        },
+        {
+            "content": "đặc kịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mật",
+            "type": "noun",
+            "example": {
+                "en": "To know someone personally opens the way for having a close relationship with him.",
+                "vi": "Biết rõ bản thân một người mở đường cho mối quan hệ mật thiết với người đó."
+            }
+        },
+        {
+            "content": "cạnh",
+            "type": "noun",
+            "example": {
+                "en": "At this point, I'd like to keep her close at hand.",
+                "vi": "Về điểm này, tôi muốn giữ cô ta bên cạnh."
+            }
+        },
+        {
+            "content": "đống",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gần đây",
+            "type": "adverb",
+            "example": {
+                "en": "Fox Five, let me know when you close.",
+                "vi": "Cáo Năm, khi nào mới được đến gần đây?"
+            }
+        }
+    ]
+}

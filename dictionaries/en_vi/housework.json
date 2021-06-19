@@ -1,0 +1,52 @@
+{
+    "word": "housework",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhousˌwərk/",
+            "/ˈhaʊsˌwərk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊswəːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công việc nhà",
+            "type": "",
+            "example": {
+                "en": "But this may have cut down on housework,",
+                "vi": "Dù điều này có giúp giảm công việc nhà,"
+            }
+        },
+        {
+            "content": "công việc trong nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nữ công",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "việc nhà",
+            "type": "noun",
+            "example": {
+                "en": "I did housework during the day and went to school at night.",
+                "vi": "Tôi làm việc nhà vào ban ngày còn ban đêm thì đi học."
+            }
+        },
+        {
+            "content": "việc nội trợ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

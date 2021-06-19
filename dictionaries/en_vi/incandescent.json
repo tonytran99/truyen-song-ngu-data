@@ -1,0 +1,40 @@
+{
+    "word": "incandescent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkənˈdes(ə)nt/",
+            "/ˌɪnkənˈdɛs(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkanˈdɛs(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nóng sáng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sáng chói",
+            "type": "adjective",
+            "example": {
+                "en": "What a luminous and incandescent phrase, as a light shining in the midst of spiritual darkness.",
+                "vi": "Thật là một lối nói minh bạch và sáng chói, như một ánh sáng chiếu rực ở giữa bóng tối thuộc linh."
+            }
+        },
+        {
+            "content": "sáng rực",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "isometric",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌīsəˈmetrik/",
+            "/ˌaɪsəˈmɛtrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪsə(ʊ)ˈmɛtrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cùng kích thước",
+            "type": "",
+            "example": {
+                "en": "and what you're seeing here, is their isometric drawings",
+                "vi": "và cái mà bạn thấy đây, là hai bản vẽ cùng kích thước"
+            }
+        },
+        {
+            "content": "đẳng độ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

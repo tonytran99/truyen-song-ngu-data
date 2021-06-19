@@ -1,0 +1,89 @@
+{
+    "word": "yourself",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yərˈself/",
+            "/jərˈsɛlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɔːˈsɛlf/",
+            "/jʊəˈsɛlf/",
+            "/jəˈsɛlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tự mình",
+            "type": "",
+            "example": {
+                "en": "Tom won't let you go there by yourself.",
+                "vi": "Tôi sẽ không để cậu tự mình đến đó đâu."
+            }
+        },
+        {
+            "content": "mình",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Tom won't let you go there by yourself.",
+                "vi": "Tôi sẽ không để cậu tự mình đến đó đâu."
+            }
+        },
+        {
+            "content": "chính anh",
+            "type": "",
+            "example": {
+                "en": "I think you could do with a lesson yourself.",
+                "vi": "Tôi nghĩ chính anh cũng cần học một bài."
+            }
+        },
+        {
+            "content": "chính mày",
+            "type": "",
+            "example": {
+                "en": "You'll be having a long one yourself in a minute.",
+                "vi": "Một phút nữa thôi chính mày cũng sẽ có một chuyến nghỉ dài."
+            }
+        },
+        {
+            "content": "tự anh",
+            "type": "",
+            "example": {
+                "en": "The only choice you have now is to turn yourself in.",
+                "vi": "Sự lựa chọn duy nhất của anh bây giờ là tự anh quay lại."
+            }
+        },
+        {
+            "content": "tự chị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự mày",
+            "type": "",
+            "example": {
+                "en": "Make a decision by yourself.",
+                "vi": "Tự mày quyết định đi!"
+            }
+        },
+        {
+            "content": "chính mình",
+            "type": "",
+            "example": {
+                "en": "So to be yourself you have to constantly remember yourself.",
+                "vi": "Vì vậy, để là chính mình, anh phải liên tục nhớ về chính bản thân."
+            }
+        },
+        {
+            "content": "chính quyù vò",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

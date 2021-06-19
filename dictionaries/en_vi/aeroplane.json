@@ -1,0 +1,39 @@
+{
+    "word": "aeroplane",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerəˌplān/",
+            "/ˈɛrəˌpleɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːrəpleɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy bay",
+            "type": "noun",
+            "example": {
+                "en": "I'm a very busy man I'm working on an aeroplane that requires no wings.",
+                "vi": "Tôi là một người rất bận rộn tôi đang nghiên cứu một chiếc máy bay không cần cánh."
+            }
+        },
+        {
+            "content": "phi cơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tàu bay",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

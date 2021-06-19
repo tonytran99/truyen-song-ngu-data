@@ -1,0 +1,46 @@
+{
+    "word": "encroach",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkrōCH/",
+            "/ɪnˈkroʊtʃ/",
+            "/enˈkrōCH/",
+            "/ɛnˈkroʊtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkrəʊtʃ/",
+            "/ɛnˈkrəʊtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lấn",
+            "type": "verb",
+            "example": {
+                "en": "If the path is unused for any length of time, the jungle will soon encroach upon it.",
+                "vi": "Nếu không có người đi trong một thời gian, chẳng mấy chốc cây cối sẽ mọc lấn con đường đó."
+            }
+        },
+        {
+            "content": "lân",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xâm phạm",
+            "type": "",
+            "example": {
+                "en": "You must fight anyone who encroaches upon it.",
+                "vi": "Bạn phải đánh lại những người xâm phạm nó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "valet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vaˈlā/",
+            "/væˈleɪ/",
+            "/ˈvalət/",
+            "/ˈvælət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalɪt/",
+            "/ˈvaleɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hầu",
+            "type": "noun",
+            "example": {
+                "en": "And a brave new French valet that will help you make it around the world in 80 days.",
+                "vi": "Và một người hầu Pháp dũng cảm sẽ giúp ông đi vòng quanh trái đất trong 80 ngày."
+            }
+        },
+        {
+            "content": "hầu hạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hầu phòng",
+            "type": "",
+            "example": {
+                "en": "'Cause we'd know If the valet had His car downstairs.",
+                "vi": "Vì chúng tôi biết nếu người hầu phòng giữ xe cậu ấy tầng dưới."
+            }
+        },
+        {
+            "content": "người phục vụ",
+            "type": "",
+            "example": {
+                "en": "Dean, people valet park all the time.",
+                "vi": "Dean, người phục vụ bãi đỗ làm việc suốt mà."
+            }
+        },
+        {
+            "content": "đầy tớ",
+            "type": "",
+            "example": {
+                "en": "He's just connecting me directly. It's like having a personal valet.",
+                "vi": "Anh ta đang cố gắng kết nối trực tiếp. Tôi cứ như có một tên đầy tớ riêng vậy"
+            }
+        }
+    ]
+}

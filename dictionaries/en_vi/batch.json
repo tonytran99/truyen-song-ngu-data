@@ -1,0 +1,88 @@
+{
+    "word": "batch",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baCH/",
+            "/bætʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/batʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lô",
+            "type": "noun",
+            "example": {
+                "en": "Could trace the tungston back to the production batch.",
+                "vi": "Có thể lần theo chất cacbua để tìm ra lô hàng của nó."
+            }
+        },
+        {
+            "content": "đợt",
+            "type": "",
+            "example": {
+                "en": "I have a batch of new recruits arriving tomorrow.",
+                "vi": "Tôi có một đợt người mới vào ngày mai."
+            }
+        },
+        {
+            "content": "mẻ",
+            "type": "noun",
+            "example": {
+                "en": "You going to be able to finish the batch?",
+                "vi": "Thầy có đủ sức làm hết mẻ này không?"
+            }
+        },
+        {
+            "content": "nhóm",
+            "type": "noun",
+            "example": {
+                "en": "With this many folks, we have an excellent shot at a solid batch of plaintiffs for the classes in each district.",
+                "vi": "Với nhiều người, chúng ta đã làm rất tốt Một giải pháp tuyệt vời của nguyên đơn Cho những nhóm nhỏ thuộc mỗi quận. CLIFF:"
+            }
+        },
+        {
+            "content": "khoá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyển",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "một mẻ",
+            "type": "",
+            "example": {
+                "en": "And I might be able to see about her making a whole batch just for you.",
+                "vi": "Chú có thể nhờ cô ta làm cho cháu nguyên một mẻ bánh."
+            }
+        },
+        {
+            "content": "một nhóm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một toán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

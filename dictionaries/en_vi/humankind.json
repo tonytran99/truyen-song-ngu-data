@@ -1,0 +1,42 @@
+{
+    "word": "humankind",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌ(h)yo͞omənˈkīnd/",
+            "/ˌ(h)jumənˈkaɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjuːmənˈkʌɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loài người",
+            "type": "noun",
+            "example": {
+                "en": "How only can true justice for humankind come about?",
+                "vi": "Chỉ có cách nào loài người mới có được sự công bình thật?"
+            }
+        },
+        {
+            "content": "nhân loại",
+            "type": "",
+            "example": {
+                "en": "If it's not used for the benefit of humankind?",
+                "vi": "Nếu nó không được sử dụng vì lợi ích của nhân loại."
+            }
+        },
+        {
+            "content": "nhân đạo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

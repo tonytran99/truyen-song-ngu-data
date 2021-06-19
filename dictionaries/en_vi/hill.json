@@ -1,0 +1,107 @@
+{
+    "word": "hill",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hil/",
+            "/hɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồi",
+            "type": "noun",
+            "example": {
+                "en": "Our school stands on the hill.",
+                "vi": "Trường của chúng tôi ở trên đồi."
+            }
+        },
+        {
+            "content": "núi",
+            "type": "noun",
+            "example": {
+                "en": "I understand the man took off for the hills almost as soon as they pulled in.",
+                "vi": "Tôi nghe nói gã đó bỏ đi lên dãy núi ngay sau khi ghé qua."
+            }
+        },
+        {
+            "content": "gò",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "đống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cồn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngọn đồi",
+            "type": "noun",
+            "example": {
+                "en": "Keep a sharp lookout, especially toward those hills.",
+                "vi": "Phải canh chừng thật kỹ, nhất là về phía những ngọn đồi đó."
+            }
+        },
+        {
+            "content": "quả đồi",
+            "type": "noun",
+            "example": {
+                "en": "the boulder escapes, rolls all the way down the hill,",
+                "vi": "tảng đá tuột khỏi tay, lăn xuống quả đồi,"
+            }
+        },
+        {
+            "content": "đụn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ đất đùn lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mô đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đắp thành đồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốc",
+            "type": "verb",
+            "example": {
+                "en": "Because this is not about the steep hill in front of her.",
+                "vi": "Bởi vì đây không phải về con dốc đứng trước mắt cô bé."
+            }
+        },
+        {
+            "content": "sơn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "山",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

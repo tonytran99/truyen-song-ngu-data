@@ -1,0 +1,61 @@
+{
+    "word": "heed",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hēd/",
+            "/hid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưu ý",
+            "type": "",
+            "example": {
+                "en": "If we heed personal revelation, we cannot fail.",
+                "vi": "Nếu lưu ý đến sự mặc khải cho cá nhân, chúng ta không thể thất bại."
+            }
+        },
+        {
+            "content": "chú ý",
+            "type": "verb",
+            "example": {
+                "en": "A man should pay no heed to his looks.",
+                "vi": "Một người đàn ông không nên chú ý tới vẻ ngoài của mình."
+            }
+        },
+        {
+            "content": "sự chú ý",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự lưu ý",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự để ý",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "để ý",
+            "type": "verb",
+            "example": {
+                "en": "I will overlook your condescending tone if you heed the gravity of mine.",
+                "vi": "Ta sẽ bỏ qua giọng điệu hạ mình đí nếu bà để ý tới trọng lượng của ta."
+            }
+        }
+    ]
+}

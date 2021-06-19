@@ -1,0 +1,46 @@
+{
+    "word": "unchanging",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈCHānjiNG/",
+            "/ˌənˈtʃeɪndʒɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtʃeɪn(d)ʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất biến",
+            "type": "adjective",
+            "example": {
+                "en": "He wants us to look to Him and follow His unchanging guidance.",
+                "vi": "Ngài muốn chúng ta tin cậy Ngài và tuân theo sự hướng dẫn bất biến của Ngài."
+            }
+        },
+        {
+            "content": "không thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "The two programs have been improved, but their purpose remains unchanged.",
+                "vi": "Hai chương trình này đã được cải tiến nhưng mục đích của chúng vẫn không thay đổi."
+            }
+        },
+        {
+            "content": "không đổi",
+            "type": "",
+            "example": {
+                "en": "It ran in the paper unchanged for months.",
+                "vi": "Nó có trong báo không đổi nhiều tháng."
+            }
+        }
+    ]
+}

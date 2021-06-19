@@ -1,0 +1,42 @@
+{
+    "word": "inadvertently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinədˈvərtntlē/",
+            "/ˌɪnədˈvərtntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnədˈvəːt(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không cố ý",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "một cách vô tình",
+            "type": "",
+            "example": {
+                "en": "that they had inadvertently inspired.",
+                "vi": "rằng họ đã viết ra một cách vô tình."
+            }
+        },
+        {
+            "content": "tình cờ",
+            "type": "adverb",
+            "example": {
+                "en": "CA: Partly caused by us, inadvertently.",
+                "vi": "CA: Phần nào đó gây ra bởi chúng ta, một cách tình cờ."
+            }
+        }
+    ]
+}

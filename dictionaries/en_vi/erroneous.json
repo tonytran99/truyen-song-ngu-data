@@ -1,0 +1,56 @@
+{
+    "word": "erroneous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrōnēəs/",
+            "/əˈroʊniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈrəʊnɪəs/",
+            "/ɛˈrəʊnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sai lầm",
+            "type": "adjective",
+            "example": {
+                "en": "The people who had taken foreign wives humbly repented and corrected their erroneous ways.",
+                "vi": "Những người cưới vợ ngoại đã khiêm nhường ăn năn và sửa chữa sai lầm của mình."
+            }
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "The people who had taken foreign wives humbly repented and corrected their erroneous ways.",
+                "vi": "Những người cưới vợ ngoại đã khiêm nhường ăn năn và sửa chữa sai lầm của mình."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "adjective",
+            "example": {
+                "en": "The translator may erroneously insert his opinion of what the original text means or may omit important details contained in the original text.",
+                "vi": "Dịch giả có thể thêm nhầm ý tưởng không đúng với văn bản gốc hoặc bỏ đi những chi tiết quan trọng."
+            }
+        },
+        {
+            "content": "sai lệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai sót",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

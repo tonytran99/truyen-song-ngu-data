@@ -1,0 +1,100 @@
+{
+    "word": "volunteer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvälənˈtir/",
+            "/ˌvɑlənˈtɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvɒlənˈtɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tình nguyện",
+            "type": "verb",
+            "example": {
+                "en": "Do you think anyone will volunteer?",
+                "vi": "Bạn có nghĩ rằng ai cũng sẽ tình nguyện?"
+            }
+        },
+        {
+            "content": "quân tình nguyện",
+            "type": "noun",
+            "example": {
+                "en": "There's a call for volunteers.",
+                "vi": "Đang có một cuộc tuyển quân tình nguyện."
+            }
+        },
+        {
+            "content": "tình nguyện viên",
+            "type": "",
+            "example": {
+                "en": "They are having a lot of women volunteers around them.",
+                "vi": "Họ có rất nhiều tình nguyện viên nữ xung quanh mình."
+            }
+        },
+        {
+            "content": "xung phong làm",
+            "type": "",
+            "example": {
+                "en": "I want to volunteer to be one of the lookouts in the clock tower.",
+                "vi": "Tôi muốn xung phong làm chân quan sát ở tháp đồng hồ."
+            }
+        },
+        {
+            "content": "chí nguyện quân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mọc tự nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tình nguyện",
+            "type": "noun",
+            "example": {
+                "en": "First, volunteers gathered in the pouring rain to dig the potatoes.",
+                "vi": "Vì thế, những người tình nguyện phải đào khoai dưới cơn mưa tầm tã."
+            }
+        },
+        {
+            "content": "người xung phong",
+            "type": "noun",
+            "example": {
+                "en": "Get some volunteers and pull that wagon out.",
+                "vi": "Kêu mấy người xung phong kéo toa xe đó ra."
+            }
+        },
+        {
+            "content": "tình nguyện tòng quân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự nguyện xung phong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự động đưa ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xung phong tòng quân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

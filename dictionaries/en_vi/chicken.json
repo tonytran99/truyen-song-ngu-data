@@ -1,0 +1,106 @@
+{
+    "word": "chicken",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHikən/",
+            "/ˈtʃɪkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɪkɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gà",
+            "type": "noun",
+            "example": {
+                "en": "I chopped off the chicken's head.",
+                "vi": "Tôi chặt đứt cái đầu của con gà."
+            }
+        },
+        {
+            "content": "gà con",
+            "type": "",
+            "example": {
+                "en": "If he was a healthy weasel, the chicken didn't get a chance to say anything.",
+                "vi": "Nếu là một con chồn mạnh khỏe, con gà con sẽ không có cơ hội nói gì đâu."
+            }
+        },
+        {
+            "content": "bé con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô gái ngây thơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gà giò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy bay khu trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt gà",
+            "type": "",
+            "example": {
+                "en": "Can you carve the chicken?",
+                "vi": "Bạn có thể xẻ thịt gà không?"
+            }
+        },
+        {
+            "content": "thịt gà giò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trẻ nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con gà",
+            "type": "noun",
+            "example": {
+                "en": "I chopped off the chicken's head.",
+                "vi": "Tôi chặt đứt cái đầu của con gà."
+            }
+        },
+        {
+            "content": "Gà",
+            "type": "",
+            "example": {
+                "en": "I chopped off the chicken's head.",
+                "vi": "Tôi chặt đứt cái đầu của con gà."
+            }
+        },
+        {
+            "content": "Thịt gà",
+            "type": "",
+            "example": {
+                "en": "Can you carve the chicken?",
+                "vi": "Bạn có thể xẻ thịt gà không?"
+            }
+        },
+        {
+            "content": "người nhát gan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

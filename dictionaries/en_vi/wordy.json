@@ -1,0 +1,49 @@
+{
+    "word": "wordy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərdē/",
+            "/ˈwərdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwəːdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rườm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khẩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miệng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dài dòng",
+            "type": "adjective",
+            "example": {
+                "en": "Our prayers should be thoughtful and reverential, not wordy.",
+                "vi": "Khi cầu nguyện, chúng ta phải suy nghĩ chín chắn và cung kính, chớ dài dòng."
+            }
+        },
+        {
+            "content": "rườm rà",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

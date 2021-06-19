@@ -1,0 +1,49 @@
+{
+    "word": "detention",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈten(t)SH(ə)n/",
+            "/dəˈtɛn(t)ʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛnʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự giam cầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giam giữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giam giữ",
+            "type": "",
+            "example": {
+                "en": "Don't you dare use me to justify the detention of innocent V-1s.",
+                "vi": "Sao cha dám dùng con để biện minh cho hành động giam giữ các V-1."
+            }
+        },
+        {
+            "content": "sự cầm giữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cầm tù",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

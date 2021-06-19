@@ -1,0 +1,42 @@
+{
+    "word": "bookworm",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝okˌwərm/",
+            "/ˈbʊkˌwərm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊkwəːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mọt sách",
+            "type": "noun",
+            "example": {
+                "en": "Mary is a bookworm.",
+                "vi": "Mary là một con mọt sách."
+            }
+        },
+        {
+            "content": "con mọt sách",
+            "type": "noun",
+            "example": {
+                "en": "Mary is a bookworm.",
+                "vi": "Mary là một con mọt sách."
+            }
+        },
+        {
+            "content": "tay mọt sách",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

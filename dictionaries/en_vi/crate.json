@@ -1,0 +1,45 @@
+{
+    "word": "crate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krāt/",
+            "/kreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sọt",
+            "type": "noun",
+            "example": {
+                "en": "One day, two brothers and I were ordered to pack tools into crates.",
+                "vi": "Một ngày kia, tôi và hai anh khác được lệnh dọn hết dụng cụ vào những cái sọt."
+            }
+        },
+        {
+            "content": "cho vào sọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho vào thùng thưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thùng thưa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "word": "interrogate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈterəˌɡāt/",
+            "/ɪnˈtɛrəˌɡeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛrəɡeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thẩm vấn",
+            "type": "verb",
+            "example": {
+                "en": "Found an interrogation room set up with tea for two.",
+                "vi": "Tìm thấy một phòng thẩm vấn có trà dành cho hai người."
+            }
+        },
+        {
+            "content": "chất vấn",
+            "type": "",
+            "example": {
+                "en": "I thought this would be fun, not an interrogation.",
+                "vi": "Anh nghĩ ta sẽ vui vẻ, chứ không phải chất vấn."
+            }
+        },
+        {
+            "content": "hỏi",
+            "type": "verb",
+            "example": {
+                "en": "Was he ever present during any of your interrogations?",
+                "vi": "Có bao giờ ông ta xuất hiện khi anh bị hỏi cung không?"
+            }
+        },
+        {
+            "content": "căn vặn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cật vấn",
+            "type": "verb",
+            "example": {
+                "en": "He must have wanted to protect her in case of an interrogation.",
+                "vi": "Chắc hẳn, anh muốn bảo vệ chị phòng trường hợp bị cật vấn."
+            }
+        },
+        {
+            "content": "hỏi cung",
+            "type": "verb",
+            "example": {
+                "en": "Was he ever present during any of your interrogations?",
+                "vi": "Có bao giờ ông ta xuất hiện khi anh bị hỏi cung không?"
+            }
+        },
+        {
+            "content": "hỏi dò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy cung",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lục vấn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xét hỏi",
+            "type": "verb",
+            "example": {
+                "en": "At issue is the practice of so-called waterboarding, an interrogation technique considered a war...",
+                "vi": "điều tra việc tra tấn, trong một cuộc xét hỏi và coi đó là chiến tranh..."
+            }
+        }
+    ]
+}

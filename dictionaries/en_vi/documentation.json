@@ -1,0 +1,73 @@
+{
+    "word": "documentation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdäkyəmənˈtāSH(ə)n/",
+            "/ˌdɑkjəmənˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɒkjʊmɛnˈteɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tư liệu",
+            "type": "noun",
+            "example": {
+                "en": "In fact, on all these discs there were documents.",
+                "vi": "Thực tế, trong tất cả những cái đĩa này đều có những tư liệu."
+            }
+        },
+        {
+            "content": "ký lục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tra cứu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài liệu",
+            "type": "noun",
+            "example": {
+                "en": "We have to get that document back before Tom shows it to anyone.",
+                "vi": "Chúng ta phải lấy lại tài liệu đó trước khi Tom đưa nó cho bất cứ ai."
+            }
+        },
+        {
+            "content": "văn kiện",
+            "type": "noun",
+            "example": {
+                "en": "The Treaty of Westphalia consisted of more than one document.",
+                "vi": "Hiệp Ước Westphalia không chỉ gồm có một văn kiện."
+            }
+        },
+        {
+            "content": "văn thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài liệu hướng dẫn",
+            "type": "",
+            "example": {
+                "en": "Opens the help browser with the FSView documentation",
+                "vi": "Mở bộ duyệt qua trợ giúp với tài liệu hướng dẫn FSView"
+            }
+        },
+        {
+            "content": "documentation",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

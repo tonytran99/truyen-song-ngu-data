@@ -1,0 +1,60 @@
+{
+    "word": "felon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfelən/",
+            "/ˈfɛlən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛlən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chín mé",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giết người",
+            "type": "noun",
+            "example": {
+                "en": "You're asking me to harbor and aid a convicted felon.",
+                "vi": "Anh đang bảo tôi che giấu và giúp đỡ 1 tên giết người đấy."
+            }
+        },
+        {
+            "content": "người phạm tội ác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phạm tội ác",
+            "type": "",
+            "example": {
+                "en": "Fighters are convicted violent felons",
+                "vi": "Những đấu sĩ dều là những kẻ vi phạm tội ác tàn bạo nghiêm trọng"
+            }
+        },
+        {
+            "content": "tàn ác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độc ác",
+            "type": "",
+            "example": {
+                "en": "– You're a felon.",
+                "vi": "Mày là tên độc ác."
+            }
+        }
+    ]
+}

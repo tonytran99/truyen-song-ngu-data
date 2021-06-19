@@ -1,0 +1,42 @@
+{
+    "word": "checkout",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHekˌout/",
+            "/ˈtʃɛkˌaʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛkaʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thanh toán",
+            "type": "",
+            "example": {
+                "en": "Both victims were discovered by hotel staff, The last after online checkout indicated the room had been vacated.",
+                "vi": "Cả 2 nạn nhân được nhân viên khách sạn phát hiện, lần thanh toán online cuối cùng cho thấy phòng được bỏ trống."
+            }
+        },
+        {
+            "content": "két",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quầy thu ngân",
+            "type": "",
+            "example": {
+                "en": "Many grocery stores now offer checkout lines that do n't feature candy .",
+                "vi": "Nhiều cửa hàng tạp hoá hiện nay thiết kế những lối xếp hàng ra quầy thu ngân không có kẹo ."
+            }
+        }
+    ]
+}

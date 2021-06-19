@@ -1,0 +1,43 @@
+{
+    "word": "catacomb",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkadəˌkōm/",
+            "/ˈkædəˌkoʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkatəkuːm/",
+            "/ˈkatəkəʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hầm mộ",
+            "type": "noun",
+            "example": {
+                "en": "These caves lead to the catacombs at Kelabra.",
+                "vi": "Hang động dẫn vào những hầm mộ ở Kelabra."
+            }
+        },
+        {
+            "content": "hầm để quan tài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hầm rượu",
+            "type": "",
+            "example": {
+                "en": "Günther was slain in the catacombs.",
+                "vi": "Günther đã chết dưới hầm rượu."
+            }
+        }
+    ]
+}

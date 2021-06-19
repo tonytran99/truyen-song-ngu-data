@@ -1,0 +1,41 @@
+{
+    "word": "cilantro",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/siˈlänˌtrō/",
+            "/sɪˈlɑnˌtroʊ/",
+            "/siˈlanˌtrō/",
+            "/sɪˈlænˌtroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈlantrəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rau mùi",
+            "type": "",
+            "example": {
+                "en": "Pho is a traditional noodle soup consisting of pork , rice noodles , cilantro and onions .",
+                "vi": "Phở là một món nước truyền thống bao gồm thịt lợn , bánh phở , rau mùi và hành tây ."
+            }
+        },
+        {
+            "content": "ngò",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngò rí",
+            "type": "Noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "word": "era",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirə/",
+            "/ˈɪrə/",
+            "/ˈerə/",
+            "/ˈɛrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪərə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời đại",
+            "type": "noun",
+            "example": {
+                "en": "It's an era known as the time of the giants.",
+                "vi": "Là thời đại được biết đến như thời kỳ của người khổng lồ."
+            }
+        },
+        {
+            "content": "kỷ nguyên",
+            "type": "noun",
+            "example": {
+                "en": "In this era, wars have killed more civilians than ever before.",
+                "vi": "Trong kỷ nguyên này, chiến tranh đã giết nhiều thường dân hơn bao giờ hết."
+            }
+        },
+        {
+            "content": "đại",
+            "type": "noun",
+            "example": {
+                "en": "It's an era known as the time of the giants.",
+                "vi": "Là thời đại được biết đến như thời kỳ của người khổng lồ."
+            }
+        },
+        {
+            "content": "thời kỳ",
+            "type": "noun",
+            "example": {
+                "en": "It was broken by the first era of the internet.",
+                "vi": "Nó bị phá hủy do thời kỳ đầu của Internet."
+            }
+        },
+        {
+            "content": "kỷ",
+            "type": "noun",
+            "example": {
+                "en": "In this era, wars have killed more civilians than ever before.",
+                "vi": "Trong kỷ nguyên này, chiến tranh đã giết nhiều thường dân hơn bao giờ hết."
+            }
+        },
+        {
+            "content": "một thời đại mới",
+            "type": "noun",
+            "example": {
+                "en": "A new era was beginning—that of the Medes and the Persians.",
+                "vi": "Một thời đại mới bắt đầu—thời đại của người Mê-đi và người Phe-rơ-sơ."
+            }
+        },
+        {
+            "content": "niên đại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Đại",
+            "type": "",
+            "example": {
+                "en": "I didn't build this ship to usher in a new era for humanity.",
+                "vi": "Tôi không xây dựng con tầu này để mở ra thời đại mới cho loài người."
+            }
+        },
+        {
+            "content": "thế",
+            "type": "conjunction verb noun",
+            "example": {
+                "en": "I would throw a jukbang in this psychotic era!",
+                "vi": "Sao lại có một kẻ đấm vào mặt năm Bính Tý như thế này."
+            }
+        },
+        {
+            "content": "thì",
+            "type": "conjunction noun adverb",
+            "example": {}
+        },
+        {
+            "content": "Thời đại",
+            "type": "",
+            "example": {
+                "en": "This era can get a little, uh, rough.",
+                "vi": "Thời đại này có thể khá, uh, khó chịu."
+            }
+        }
+    ]
+}

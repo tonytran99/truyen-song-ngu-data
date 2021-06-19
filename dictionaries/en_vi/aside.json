@@ -1,0 +1,51 @@
+{
+    "word": "aside",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsīd/",
+            "/əˈsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sang một bên",
+            "type": "adverb",
+            "example": {
+                "en": "He moved the table aside.",
+                "vi": "Anh ấy di chuyển cái bàn sang một bên."
+            }
+        },
+        {
+            "content": "sang",
+            "type": "conjunction",
+            "example": {
+                "en": "He moved the table aside.",
+                "vi": "Anh ấy di chuyển cái bàn sang một bên."
+            }
+        },
+        {
+            "content": "riêng ra",
+            "type": "adverb",
+            "example": {
+                "en": "Fill all these containers, and set the full ones aside.”",
+                "vi": "Hãy đổ dầu đầy những chiếc bình và để những bình đầy riêng ra”."
+            }
+        },
+        {
+            "content": "về một bên",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

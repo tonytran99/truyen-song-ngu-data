@@ -1,0 +1,45 @@
+{
+    "word": "convalescent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkänvəˈles(ə)nt/",
+            "/ˌkɑnvəˈlɛs(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒnvəˈlɛs(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người dưỡng bệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang dưỡng bệnh",
+            "type": "",
+            "example": {
+                "en": "I have a friend convalescing in this room.",
+                "vi": "Tôi có người bạn đang dưỡng bệnh trong phòng này."
+            }
+        },
+        {
+            "content": "đang hồi phục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang lại sức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

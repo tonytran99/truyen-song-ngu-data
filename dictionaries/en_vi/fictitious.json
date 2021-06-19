@@ -1,0 +1,55 @@
+{
+    "word": "fictitious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fikˈtiSHəs/",
+            "/fɪkˈtɪʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪkˈtɪʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {
+                "en": "I play fictitious characters often solving fictitious problems.",
+                "vi": "Tôi đóng vai những nhân vật hư cấu giải quyết những vấn đề hư cấu."
+            }
+        },
+        {
+            "content": "giả",
+            "type": "adjective verb",
+            "example": {
+                "en": "You are gonna be a great novelist,'cause you have created a fictitious character in your head about...",
+                "vi": "Cậu sẽ trở thành một nhà văn giỏi vì cậu đã tạo ra trong đầu mình một nhân vật giả tưởng về..."
+            }
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "adjective",
+            "example": {
+                "en": "What happened to the charge that Belshazzar was merely a fictitious character?",
+                "vi": "Điều gì xảy ra cho lời cáo cho rằng Bên-xát-sa chỉ là một nhân vật tưởng tượng?"
+            }
+        },
+        {
+            "content": "giả tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có thực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

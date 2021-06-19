@@ -1,0 +1,46 @@
+{
+    "word": "conquest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌkwest/",
+            "/ˈkɑnˌkwɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒŋkwɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự chinh phục",
+            "type": "noun",
+            "example": {
+                "en": "It is a conquest, a victory, and achievement.",
+                "vi": "Tình cảm này là một sự chinh phục, một chiến thắng và một công trạng."
+            }
+        },
+        {
+            "content": "chinh phục",
+            "type": "",
+            "example": {
+                "en": "Which means you like the challenge, the conquest.",
+                "vi": "Có nghĩa là cô muốn thử thách, muốn chinh phục."
+            }
+        },
+        {
+            "content": "sự xâm chiếm",
+            "type": "noun",
+            "example": {
+                "en": "For their part, missionaries welcomed the colonial conquest of Africa.",
+                "vi": "Về phần các giáo sĩ thì họ hoan nghênh sự xâm chiếm Phi Châu để làm thuộc địa."
+            }
+        }
+    ]
+}

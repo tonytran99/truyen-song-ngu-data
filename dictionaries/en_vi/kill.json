@@ -1,0 +1,253 @@
+{
+    "word": "kill",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kil/",
+            "/kɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giết",
+            "type": "noun, verb",
+            "example": {
+                "en": "I'm going to kill you for wasting my time.",
+                "vi": "Ta phải giết ngươi vì đã làm lãng phí thời gian của ta."
+            }
+        },
+        {
+            "content": "diệt",
+            "type": "verb",
+            "example": {
+                "en": "He was killing just bad people, because they did wrong.",
+                "vi": "Anh ta tiêu diệt kẻ xấu vì chúng làm điều ác."
+            }
+        },
+        {
+            "content": "giết chết",
+            "type": "",
+            "example": {
+                "en": "And you have to kill the addict to kill the addiction.",
+                "vi": "Và anh cần phải giết chết kẻ nghiện đến chấm dứt sự nghiện ngập."
+            }
+        },
+        {
+            "content": "thịt",
+            "type": "verb",
+            "example": {
+                "en": "Cersei can't get enough of it since one killed Robert for her.",
+                "vi": "Cersei mê mệt món thịt này kể từ khi Robert bị lợn rừng giết."
+            }
+        },
+        {
+            "content": "tắt",
+            "type": "adjective verb adverb",
+            "example": {
+                "en": "Nat, you kill the engines and wait for instructions.",
+                "vi": "Nat, cô tắt máy tàu và chờ chỉ thị."
+            }
+        },
+        {
+            "content": "ngả",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bác bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giết chóc",
+            "type": "",
+            "example": {
+                "en": "There's no kind of killing that doesn't have its own word.",
+                "vi": "Chẳng có việc giết chóc nào mà không có từ riêng cho nó."
+            }
+        },
+        {
+            "content": "giết hại",
+            "type": "verb",
+            "example": {
+                "en": "The Americans accuse us of killing innocent civilians.",
+                "vi": "Người Mĩ vu cho chúng ta là giết hại những người vô tội."
+            }
+        },
+        {
+            "content": "giết làm thịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giết thịt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây tai hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạ sát",
+            "type": "",
+            "example": {
+                "en": "And we just killed a very important one.",
+                "vi": "Và chúng ta vừa hạ sát một người rất quan trọng."
+            }
+        },
+        {
+            "content": "hạ thủ",
+            "type": "",
+            "example": {
+                "en": "I wasn't the best because I killed quickly.",
+                "vi": "Tôi không phải người giỏi nhất vì tôi hạ thủ quá mau."
+            }
+        },
+        {
+            "content": "làm choáng người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chết",
+            "type": "",
+            "example": {
+                "en": "What could kill all the plants other than a disease?",
+                "vi": "Nhưng sao nó có thể làm chết toàn bộ cây cối?"
+            }
+        },
+        {
+            "content": "làm chết dở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cười vỡ bụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hết",
+            "type": "",
+            "example": {
+                "en": "He wanted to undo as much as he could, given that he'd already killed her.",
+                "vi": "Hắn muốn thu lại những việc mình làm, hết mức có thể bất chấp sự thật rằng hắn đã giết cô bé rồi."
+            }
+        },
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {
+                "en": "I could've blown the whole mission, gotten all of us killed.",
+                "vi": "Anh nhém làm hỏng nhiệm vụ và giết tất cả chúng ta, toàn bộ thủy thủ."
+            }
+        },
+        {
+            "content": "làm khỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phục lăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thích mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tiêu tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm át",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sát hại",
+            "type": "verb",
+            "example": {
+                "en": "Did grandfather and your sisters really kill my father?",
+                "vi": "Vậy ông ngoại và các dì thật sự đã sát hại cha con sao?"
+            }
+        },
+        {
+            "content": "sự giết",
+            "type": "",
+            "example": {
+                "en": "So why do you care who really killed the Waynes?",
+                "vi": "Vậy sao chú quan tâm kẻ thực sự giết nhà Wayne chứ?"
+            }
+        },
+        {
+            "content": "thú giết được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừ diệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sát",
+            "type": "verb",
+            "example": {
+                "en": "We'll probably never know why Tom killed himself.",
+                "vi": "Có lẽ chúng ta sẽ không bao giờ biết tại sao Tom lại tự sát."
+            }
+        },
+        {
+            "content": "hại",
+            "type": "",
+            "example": {
+                "en": "It doesn't seem right that the water of Creation would kill.",
+                "vi": "Nước quý giá mà lại hại chết người thì không đúng tí nào."
+            }
+        },
+        {
+            "content": "Kill",
+            "type": "",
+            "example": {
+                "en": "\" Sorry for trying to kill you \"?",
+                "vi": "\" Sorry for trying to kill you \"?"
+            }
+        },
+        {
+            "content": "tru",
+            "type": "noun verb",
+            "example": {}
+        }
+    ]
+}

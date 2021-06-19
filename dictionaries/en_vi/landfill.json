@@ -1,0 +1,40 @@
+{
+    "word": "landfill",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)ˌfil/",
+            "/ˈlæn(d)ˌfɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)fɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Bãi thải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bãi rác",
+            "type": "noun",
+            "example": {
+                "en": "All this inorganic waste is collected and sent to a landfill.",
+                "vi": "Tất cả chất thải vô cơ này được thu lại và đưa ra bãi rác."
+            }
+        },
+        {
+            "content": "bãi thải",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

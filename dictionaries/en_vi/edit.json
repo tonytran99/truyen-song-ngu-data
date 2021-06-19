@@ -1,0 +1,100 @@
+{
+    "word": "edit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈedət/",
+            "/ˈɛdət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biên tập",
+            "type": "verb",
+            "example": {
+                "en": "It was there that the writings of the Talmud were edited in their most complete form.",
+                "vi": "Chính tại đây mà việc biên tập các bản văn thuộc bộ Talmud được hoàn tất."
+            }
+        },
+        {
+            "content": "編輯",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sửa",
+            "type": "verb",
+            "example": {
+                "en": "They'll never let your voice go on live without editing.",
+                "vi": "Các đài khác sẽ chỉnh sửa lới nói của anh trước khi phát sóng."
+            }
+        },
+        {
+            "content": "biên soạn",
+            "type": "noun",
+            "example": {
+                "en": "The simplified edition was first made available in the English language in July 2011.",
+                "vi": "Ấn bản đơn giản được biên soạn đầu tiên trong tiếng Anh vào tháng 7 năm 2011."
+            }
+        },
+        {
+            "content": "chọn lọc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cắt xén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chủ bút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêm bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuất bản",
+            "type": "verb",
+            "example": {
+                "en": "They publish those pocket editions, two bits in any drugstore.",
+                "vi": "Họ xuất bản những cuốn sách bỏ túi, 25 xu trong bất cứ tiệm thuốc nào."
+            }
+        },
+        {
+            "content": "soạn thảo",
+            "type": "",
+            "example": {
+                "en": "Use this command to open an existing document for editing",
+                "vi": "Dùng câu lệnh này để mở một tài liệu đã có để soạn thảo"
+            }
+        },
+        {
+            "content": "soạn thảo, sửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự biên tập",
+            "type": "noun",
+            "example": {
+                "en": "And what you have to do is, you really have to edit down to what you want to say.",
+                "vi": "Và điều bạn cần làm đó là bạn phải thực sự biên tập ngắn lại những điều bạn cần nói,"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "dialog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "hội thoại",
+            "type": "verb",
+            "example": {
+                "en": "Save the snapshot to the file specified by the user without showing the file dialog",
+                "vi": "Lưu hình chụp vào tập tin được chỉ định, không hiện hội thoại chọn tập tin"
+            }
+        },
+        {
+            "content": "cuộc đối thoại",
+            "type": "noun",
+            "example": {
+                "en": "Hopefully, a dialog between adults and children will happen on many different levels,",
+                "vi": "hy vọng một cuộc đối thoại giữa người lớn và trẻ con sẽ diễn ra trên nhiều tầng lớp,"
+            }
+        },
+        {
+            "content": "hộp thoại",
+            "type": "noun",
+            "example": {
+                "en": "This button brings up a dialog box with further, less commonly used, options",
+                "vi": "Cái nút này hiển thị hộp thoại chứa một số tùy chọn thêm, ít thường dùng hơn"
+            }
+        },
+        {
+            "content": "đối thoại",
+            "type": "noun",
+            "example": {
+                "en": "Hopefully, a dialog between adults and children will happen on many different levels,",
+                "vi": "hy vọng một cuộc đối thoại giữa người lớn và trẻ con sẽ diễn ra trên nhiều tầng lớp,"
+            }
+        },
+        {
+            "content": "sự đối thoại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Đại học Công nghệ Thông tin",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "wearer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwerər/",
+            "/ˈwɛrər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người mặc",
+            "type": "",
+            "example": {
+                "en": "The fabric was then cut to fit the wearer.",
+                "vi": "Sau đó, người ta cắt vải theo kích cỡ người mặc."
+            }
+        },
+        {
+            "content": "người mang",
+            "type": "",
+            "example": {
+                "en": "It seems the implant can emit some kind of counter signal... to ensure the wearer remains unaffected by the waves from the SIM cards.",
+                "vi": "Có vẻ chip cấy dưới da có thể chống lại tín hiệu, đảm bảo người mang không bị ảnh hưởng bởi sóng từ SIM."
+            }
+        },
+        {
+            "content": "người đeo",
+            "type": "",
+            "example": {
+                "en": "that can be used by the wearer to express themselves.",
+                "vi": "người đeo nó có thể dùng để diễn tả cảm xúc bản thân"
+            }
+        },
+        {
+            "content": "người đội",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

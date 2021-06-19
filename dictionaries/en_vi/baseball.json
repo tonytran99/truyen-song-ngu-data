@@ -1,0 +1,47 @@
+{
+    "word": "baseball",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbāsˌbôl/",
+            "/ˈbeɪsˌbɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbeɪsbɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bóng chày",
+            "type": "noun",
+            "example": {
+                "en": "Tom likes to watch baseball games on TV.",
+                "vi": "Tom thích xem chương trình bóng chày trên tivi."
+            }
+        },
+        {
+            "content": "ba-dờ-bon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bóng chày",
+            "type": "",
+            "example": {
+                "en": "Tom likes to watch baseball games on TV.",
+                "vi": "Tom thích xem chương trình bóng chày trên tivi."
+            }
+        },
+        {
+            "content": "bóng chà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

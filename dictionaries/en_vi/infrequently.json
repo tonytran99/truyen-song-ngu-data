@@ -1,0 +1,37 @@
+{
+    "word": "infrequently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/inˈfrēkwəntlē/",
+            "/ɪnˈfrikwəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfriːkw(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thường xuyên",
+            "type": "adverb",
+            "example": {
+                "en": "TD: And I still do get to keep in touch with my mother and father, albeit infrequently.",
+                "vi": "TD : và tôi vẫn giữ liên lạc với mẹ và cha của mình, dù không thường xuyên."
+            }
+        },
+        {
+            "content": "không đều đặn",
+            "type": "adverb",
+            "example": {
+                "en": "Abnormally infrequent dream cycles are known to result in emotional difficulties.",
+                "vi": "Giai đoạn REM nếu diễn ra không đều đặn theo chu kỳ và không đủ dài thường gây rối loạn cảm xúc."
+            }
+        }
+    ]
+}

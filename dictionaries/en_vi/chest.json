@@ -1,0 +1,82 @@
+{
+    "word": "chest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHest/",
+            "/tʃɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngực",
+            "type": "noun",
+            "example": {
+                "en": "Amelia’s tiny chest festered with a massive infection.",
+                "vi": "Lồng ngực bé nhỏ của Amelia bị nhiễm trùng nặng."
+            }
+        },
+        {
+            "content": "hòm",
+            "type": "noun",
+            "example": {
+                "en": "And he puts his cheese sandwich over here on top of the pirate chest.",
+                "vi": "Và hắn để bánh kẹp phô mai của hắn lên trên chiếc hòm."
+            }
+        },
+        {
+            "content": "tủ",
+            "type": "noun",
+            "example": {
+                "en": "A European \" medicines chest \" was also suggested.",
+                "vi": "Ngoài ra còn đề xuất \" tủ thuốc gia đình \" ở châu Âu ."
+            }
+        },
+        {
+            "content": "rương",
+            "type": "noun",
+            "example": {
+                "en": "I decided to design and build a wooden treasure chest for my wife.",
+                "vi": "Tôi quyết định thiết kế và đóng một cái rương gỗ cho vợ tôi."
+            }
+        },
+        {
+            "content": "ngöïc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "két",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lồng ngực",
+            "type": "noun",
+            "example": {
+                "en": "Miranda’s heart nearly leaped out of her chest.",
+                "vi": "Tim của Miranda gần như nhảy ra khỏi lồng ngực."
+            }
+        },
+        {
+            "content": "tủ com mốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "fertilization",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌfərdləˈzāSH(ə)n/",
+            "/ˌfərdləˈzeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌfəːtɪlʌɪˈzeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thụ tinh",
+            "type": "",
+            "example": {
+                "en": "Scientists perform in vitro fertilization.",
+                "vi": "Các nhà khoa học thực hiện sự thụ tinh trong ống nghiệm."
+            }
+        },
+        {
+            "content": "thụ tinh",
+            "type": "",
+            "example": {
+                "en": "The fertilized egg goes through a process of cell division .",
+                "vi": "Trứng được thụ tinh qua quá trình phân bào ."
+            }
+        },
+        {
+            "content": "sự thụ thai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

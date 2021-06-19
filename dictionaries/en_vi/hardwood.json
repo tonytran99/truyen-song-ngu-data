@@ -1,0 +1,35 @@
+{
+    "word": "hardwood",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärdˌwo͝od/",
+            "/ˈhɑrdˌwʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːdwʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gỗ cây lá rộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gỗ cứng",
+            "type": "",
+            "example": {
+                "en": "I use hardwood quarrels, with vials of cyanide attached.",
+                "vi": "Tôi dùng mũi tên gỗ cứng có tẩm cyanide."
+            }
+        }
+    ]
+}

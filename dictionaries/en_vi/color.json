@@ -1,0 +1,66 @@
+{
+    "word": "color",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkələr/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "màu",
+            "type": "noun",
+            "example": {
+                "en": "He always dresses very casually, and doesn't care about color or style.",
+                "vi": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+            }
+        },
+        {
+            "content": "màu sắc",
+            "type": "noun",
+            "example": {
+                "en": "He always dresses very casually, and doesn't care about color or style.",
+                "vi": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+            }
+        },
+        {
+            "content": "nhuộm",
+            "type": "verb",
+            "example": {
+                "en": "Take a moment to look upon it in its original colors, boys, for tonight we paint it red.",
+                "vi": "Dành một lát để nhìn ngắm vẻ hoang sơ, các chàng trai, rồi chúng ta nhuộm đỏ tối nay."
+            }
+        },
+        {
+            "content": "colour",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắc",
+            "type": "noun",
+            "example": {
+                "en": "He always dresses very casually, and doesn't care about color or style.",
+                "vi": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+            }
+        },
+        {
+            "content": "màu da",
+            "type": "noun",
+            "example": {
+                "en": "The problem was never that we saw color. It was what we did when we saw the color.",
+                "vi": "Vấn đề không phải là việc nhìn thấy màu da, mà chính là hành động."
+            }
+        },
+        {
+            "content": "sự tô màu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

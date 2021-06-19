@@ -1,0 +1,47 @@
+{
+    "word": "arranger",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrānjər/",
+            "/əˈreɪndʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈreɪndʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người cải biên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người soạn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người sắp xếp",
+            "type": "",
+            "example": {
+                "en": "And the truth is, we should have had this service weeks ago, but Dan's the one who always arranged these kind of events.",
+                "vi": "nhưng Dan luôn là người sắp xếp những việc như này."
+            }
+        },
+        {
+            "content": "người sắp đặt",
+            "type": "",
+            "example": {
+                "en": "I'm an arranger, stranger.",
+                "vi": "Tao là người sắp đặt, khách lạ."
+            }
+        }
+    ]
+}

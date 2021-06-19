@@ -1,0 +1,34 @@
+{
+    "word": "astronomy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstränəmē/",
+            "/əˈstrɑnəmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstrɒnəmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên văn học",
+            "type": "noun",
+            "example": {
+                "en": "This number is bigger than any number in astronomy.",
+                "vi": "Con số này lớn hơn bất kỳ con số nào trong thiên văn học."
+            }
+        },
+        {
+            "content": "天文學",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

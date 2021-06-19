@@ -1,0 +1,34 @@
+{
+    "word": "barbershop",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbärbərˌSHäp/",
+            "/ˈbɑrbərˌʃɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɑːbəʃɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệu cắt tóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiệm cắt tóc",
+            "type": "noun",
+            "example": {
+                "en": "Two more, and we could have had a barbershop quartet.",
+                "vi": "Thêm hai người nữa là mở tiệm cắt tóc được rồi."
+            }
+        }
+    ]
+}

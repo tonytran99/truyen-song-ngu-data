@@ -1,0 +1,40 @@
+{
+    "word": "darkroom",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdärkˌro͞om/",
+            "/ˈdɑrkˌrum/",
+            "/ˈdärkˌro͝om/",
+            "/ˈdɑrkˌrʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɑːkruːm/",
+            "/ˈdɑːkrʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buồng tối",
+            "type": "",
+            "example": {
+                "en": "Black & White with Selenium Tone: This effect replicates traditional selenium chemical toning done in the darkroom",
+                "vi": "Đen trắng với sắc Selen: hiệu ứng này sao lại việc tạo sắc màu hoá chất Selen truyền thống được làm trong buồng tối"
+            }
+        },
+        {
+            "content": "phòng tối",
+            "type": "",
+            "example": {
+                "en": "I've been using this room as a darkroom, so it might be a little cluttered.",
+                "vi": "Lâu nay tôi dùng nó làm phòng tối, cho nên có thể hơi bừa bộn một chút."
+            }
+        }
+    ]
+}

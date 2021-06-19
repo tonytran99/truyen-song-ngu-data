@@ -1,0 +1,63 @@
+{
+    "word": "farewell",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌferˈwel/",
+            "/ˌfɛrˈwɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɛːˈwɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chia tay",
+            "type": "",
+            "example": {
+                "en": "Just a few days till the farewell party.",
+                "vi": "Chỉ vài ngày trước bữa tiệc chia tay thôi."
+            }
+        },
+        {
+            "content": "lời chúc tạm biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời tam biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tam biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chào tạm biệt",
+            "type": "",
+            "example": {
+                "en": "I bid you all a very fond farewell.",
+                "vi": "Tôi gửi đến các bạn lời chào tạm biệt thân ái"
+            }
+        },
+        {
+            "content": "tạm biệt",
+            "type": "interjection",
+            "example": {
+                "en": "I bid you farewell.",
+                "vi": "Xin được nói lời tạm biệt với bạn."
+            }
+        }
+    ]
+}

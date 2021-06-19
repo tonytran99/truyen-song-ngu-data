@@ -1,0 +1,67 @@
+{
+    "word": "download",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdounˌlōd/",
+            "/ˈdaʊnˌloʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊnˈləʊd/",
+            "/ˈdaʊnləʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nạp xuống",
+            "type": "verb, noun",
+            "example": {}
+        },
+        {
+            "content": "viễn nạp",
+            "type": "verb, noun",
+            "example": {}
+        },
+        {
+            "content": "tải xuống",
+            "type": "verb, noun",
+            "example": {
+                "en": "The online version can be read or downloaded at no cost.",
+                "vi": "Chúng ta có thể đọc hoặc tải xuống miễn phí phiên bản trên Internet."
+            }
+        },
+        {
+            "content": "truyền xuống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tải xuống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tải",
+            "type": "verb",
+            "example": {
+                "en": "Old power is all about download, and new power uploads.",
+                "vi": "Sức mạnh cũ chỉ có tải xuống và sức mạnh mới tải lên."
+            }
+        },
+        {
+            "content": "tải về",
+            "type": "",
+            "example": {
+                "en": "And you can download these things, and look around them in new and different ways.",
+                "vi": "Bạn có thể tải về và xem xét chúng theo những cách khác biệt."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "amazed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmāzd/",
+            "/əˈmeɪzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmeɪzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh ngạc",
+            "type": "adjective",
+            "example": {
+                "en": "The disciples are amazed, but should they be?",
+                "vi": "Các môn đồ kinh ngạc, nhưng họ có nên kinh ngạc không?"
+            }
+        },
+        {
+            "content": "ngẩn ngơ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

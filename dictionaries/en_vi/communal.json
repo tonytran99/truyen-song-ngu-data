@@ -1,0 +1,56 @@
+{
+    "word": "communal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmyo͞on(ə)l/",
+            "/kəˈmjun(ə)l/",
+            "/ˈkämyənəl/",
+            "/ˈkɑmjənəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmjʊn(ə)l/",
+            "/kəˈmjuːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chung",
+            "type": "adjective",
+            "example": {
+                "en": "But communal living kept the family together and gave us many happy memories.",
+                "vi": "Nhờ sống chung với nhau nên gia đình gắn bó và có nhiều kỷ niệm đáng nhớ."
+            }
+        },
+        {
+            "content": "công",
+            "type": "noun",
+            "example": {
+                "en": "Therefore, a very impressive instrument has been developed by the medical community.",
+                "vi": "Do đó, một công cụ rất ấn tượng đã được cộng đồng y học phát triển."
+            }
+        },
+        {
+            "content": "công cộng",
+            "type": "adjective",
+            "example": {
+                "en": "So with friends and colleagues, he started a community radio station,",
+                "vi": "Vì thế anh ấy cùng với bạn bè và đồng nghiệp làm một đài phát thanh công cộng,"
+            }
+        },
+        {
+            "content": "công xã",
+            "type": "",
+            "example": {
+                "en": "Let's say I believe in the communal spirit.",
+                "vi": "Cứ coi như tôi tin vào tinh thần công xã."
+            }
+        }
+    ]
+}

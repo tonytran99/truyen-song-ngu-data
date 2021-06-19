@@ -1,0 +1,69 @@
+{
+    "word": "kennel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkenl/",
+            "/ˈkɛnl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cũi chó",
+            "type": "",
+            "example": {
+                "en": "Like we're talking a whole kennel.",
+                "vi": "Nguyên một cũi chó luôn ấy"
+            }
+        },
+        {
+            "content": "cũi",
+            "type": "noun",
+            "example": {
+                "en": "That beast is supposed to be chained in the kennels!",
+                "vi": "Con dã thú này đáng lẽ phải bị xích chặt ở trong cũi!"
+            }
+        },
+        {
+            "content": "chui vào cũi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cống rãnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà ở tồi tàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trong cũi",
+            "type": "",
+            "example": {
+                "en": "That beast is supposed to be chained in the kennels!",
+                "vi": "Con dã thú này đáng lẽ phải bị xích chặt ở trong cũi!"
+            }
+        },
+        {
+            "content": "chuồng chó",
+            "type": "",
+            "example": {
+                "en": "She came to the kennels.",
+                "vi": "Cô ấy đi tới chỗ chuồng chó."
+            }
+        }
+    ]
+}

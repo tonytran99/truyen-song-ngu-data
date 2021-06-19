@@ -1,0 +1,50 @@
+{
+    "word": "carving",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärviNG/",
+            "/ˈkɑrvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khắc",
+            "type": "verb",
+            "example": {
+                "en": "The statue was carved from a block of cherry wood.",
+                "vi": "Bức tượng được chạm khắc từ gỗ cây anh đào."
+            }
+        },
+        {
+            "content": "nghệ thuật chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghệ thuật khắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghệ thuật tạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lạng thịt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

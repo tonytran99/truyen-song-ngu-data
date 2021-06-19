@@ -1,0 +1,60 @@
+{
+    "word": "fallacious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈlāSHəs/",
+            "/fəˈleɪʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈleɪʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dối trá",
+            "type": "",
+            "example": {
+                "en": "who spread fallacious stories about us.",
+                "vi": "lan truyền những câu chuyện dối trá về chúng tôi."
+            }
+        },
+        {
+            "content": "gian dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trá nguỵ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảo tưởng",
+            "type": "",
+            "example": {
+                "en": "It's the problem of the fallacy of affirming the consequent.",
+                "vi": "Nó là sự sai lầm của việc ảo tưởng khẳng định kết quả."
+            }
+        },
+        {
+            "content": "sai lầm",
+            "type": "",
+            "example": {
+                "en": "It's the problem of the fallacy of affirming the consequent.",
+                "vi": "Nó là sự sai lầm của việc ảo tưởng khẳng định kết quả."
+            }
+        }
+    ]
+}

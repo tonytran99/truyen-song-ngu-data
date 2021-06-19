@@ -1,0 +1,51 @@
+{
+    "word": "chrysanthemum",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriˈsanTHəməm/",
+            "/krɪˈsænθəməm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krɪˈsanθɪməm/",
+            "/krɪˈsanθɪzəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cúc đại đóa",
+            "type": "",
+            "example": {
+                "en": "I'm gonna show him to the Chrysanthemum Suite.",
+                "vi": "Con sẽ cho ông ấy xem Bộ giáp Cúc Đại Đóa."
+            }
+        },
+        {
+            "content": "cây hoa cúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cúc",
+            "type": "noun",
+            "example": {
+                "en": "But you must add chrysanthemum and iquorice.",
+                "vi": "Nhưng cô phải thêm vào một chút hoa cúc và cam thảo."
+            }
+        },
+        {
+            "content": "hoa cúc",
+            "type": "",
+            "example": {
+                "en": "But you must add chrysanthemum and iquorice.",
+                "vi": "Nhưng cô phải thêm vào một chút hoa cúc và cam thảo."
+            }
+        }
+    ]
+}

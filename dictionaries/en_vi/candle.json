@@ -1,0 +1,77 @@
+{
+    "word": "candle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkandl/",
+            "/ˈkændl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkand(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nến",
+            "type": "noun",
+            "example": {
+                "en": "Use candles or dim lights at night .",
+                "vi": "Dùng nến hoặc đèn mờ vào ban đêm ."
+            }
+        },
+        {
+            "content": "cây nến",
+            "type": "noun",
+            "example": {
+                "en": "But it can also have this other function, as a platform for the candle.",
+                "vi": "Nhưng nó cũng có thể có chức năng là một bệ đỡ cho cây nến."
+            }
+        },
+        {
+            "content": "đèn cầy",
+            "type": "",
+            "example": {
+                "en": "I used to light the candles on my birthday cake.",
+                "vi": "Tôi vẫn thường đốt đèn cầy trên bánh sinh nhật của tôi."
+            }
+        },
+        {
+            "content": "soi",
+            "type": "",
+            "example": {
+                "en": "No, I used to candle eggs at his farm.",
+                "vi": "Không, tôi thường soi trứng ở trong trang trại"
+            }
+        },
+        {
+            "content": "nên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hold a candle to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nến",
+            "type": "",
+            "example": {
+                "en": "Use candles or dim lights at night .",
+                "vi": "Dùng nến hoặc đèn mờ vào ban đêm ."
+            }
+        },
+        {
+            "content": "đuốc",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

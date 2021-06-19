@@ -1,0 +1,123 @@
+{
+    "word": "juice",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jo͞os/",
+            "/dʒus/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒuːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước ép",
+            "type": "noun",
+            "example": {
+                "en": "The celery juice is for my wife, and the mango juice for madam.",
+                "vi": "Nước ép cần tây là của vợ tôi, và nước ép xoài là của quý bà."
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb noun",
+            "example": {
+                "en": "Make sure thawing juices do not drip on other foods .",
+                "vi": "Phải đảm bảo các chất dịch rã đông không nhỏ giọt lên các loại thực phẩm khác ."
+            }
+        },
+        {
+            "content": "nhựa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nước",
+            "type": "noun",
+            "example": {
+                "en": "This actually also goes for wine as well as fruit juice.",
+                "vi": "Qui trình này áp dụng cho cả rượu hay nước ép hoa quả."
+            }
+        },
+        {
+            "content": "dầu",
+            "type": "noun",
+            "example": {
+                "en": "You poured prune juice in his gas tank.",
+                "vi": "Ông đang đổ thêm dầu vào lửa đấy."
+            }
+        },
+        {
+            "content": "cốt",
+            "type": "noun",
+            "example": {
+                "en": "You crush the leaves, you get the juice that contains the collagen.",
+                "vi": "Bạn nghiền lá, lấy nước cốt có chứa collagen."
+            }
+        },
+        {
+            "content": "nước hoa quả",
+            "type": "noun",
+            "example": {
+                "en": "There's a cold press juice bar, organic salad station.",
+                "vi": "Họ có máy nước hoa quả lạnh, vườn rau hữu cơ."
+            }
+        },
+        {
+            "content": "xăng",
+            "type": "noun",
+            "example": {
+                "en": "My vehicle and all the juice I can carry.",
+                "vi": "Xe của tôi và số xăng tôi có thể mang được."
+            }
+        },
+        {
+            "content": "điện",
+            "type": "noun",
+            "example": {
+                "en": "to juice my multiple devices.",
+                "vi": "để sạc điện cho các thiết bị đa chức năng của mình."
+            }
+        },
+        {
+            "content": "lấy nước",
+            "type": "",
+            "example": {
+                "en": "I came in here for juice.",
+                "vi": "Tôi vào đây chỉ để lấy nước."
+            }
+        },
+        {
+            "content": "nước cốt",
+            "type": "noun",
+            "example": {
+                "en": "You crush the leaves, you get the juice that contains the collagen.",
+                "vi": "Bạn nghiền lá, lấy nước cốt có chứa collagen."
+            }
+        },
+        {
+            "content": "thuỷ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Nước sinh tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước sinh tố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "jammed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "chật",
+            "type": "adjective",
+            "example": {
+                "en": "They traversed their assignment on foot or in very old buses jammed with people.",
+                "vi": "Họ đi bộ khắp nhiệm sở hoặc trên các xe buýt cũ kỹ chật ních người."
+            }
+        },
+        {
+            "content": "kẹt",
+            "type": "adjective",
+            "example": {
+                "en": "Motorbikes are nice. You can move smoothly even through a traffic jam.",
+                "vi": "Xe máy tuyệt thật đấy. Nó có thể luồn lách qua dòng xe kẹt cứng một cách trôi chảy."
+            }
+        },
+        {
+            "content": "tắc nghẽn",
+            "type": "adjective",
+            "example": {
+                "en": "And you start having the same kind of traffic jams that you have in the ion channel.",
+                "vi": "Bắt đầu xảy ra tắc nghẽn giao thông trong kênh ion"
+            }
+        },
+        {
+            "content": "đầy",
+            "type": "adjective",
+            "example": {
+                "en": "We've got one road, 10-mile traffic jams on it and Germans throwing shells at us.",
+                "vi": "Chúng ta có một con đường, 10 dặm đầy nghẹt xe và lính Đức bắn xối xả vào chúng tôi."
+            }
+        }
+    ]
+}

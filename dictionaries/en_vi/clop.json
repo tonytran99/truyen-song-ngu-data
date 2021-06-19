@@ -1,0 +1,35 @@
+{
+    "word": "clop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kläp/",
+            "/klɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng lọc cọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng lộp cộp",
+            "type": "",
+            "example": {
+                "en": "I thought I heard the clippity-clop of a unicorn.",
+                "vi": "Nghe như tiếng lộp cộp của kỳ lân đấy nhỉ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "crying",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrīiNG/",
+            "/ˈkraɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiển nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khóc lóc",
+            "type": "",
+            "example": {
+                "en": "The sun was always streaming in, and our children would never be crying.",
+                "vi": "Mặt trời luôn chiếu rọi và con chúng tôi sẽ không bao giờ khóc lóc."
+            }
+        },
+        {
+            "content": "kêu la",
+            "type": "",
+            "example": {
+                "en": "So she sat down at a distance and began to cry aloud and to weep.",
+                "vi": "Vậy, cô ngồi cách xa một quãng và kêu la khóc lóc."
+            }
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {
+                "en": "Clearly, mysteries about crying remain.",
+                "vi": "Rõ ràng, nước mắt vẫn còn là điều bí ẩn."
+            }
+        },
+        {
+            "content": "trắng trợn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Khóc",
+            "type": "",
+            "example": {
+                "en": "This morning, I woke up yet again to the sound of crying children.",
+                "vi": "Hôm nay cũng vì tiếng trẻ con khóc mà dậy."
+            }
+        }
+    ]
+}

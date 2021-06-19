@@ -1,0 +1,92 @@
+{
+    "word": "deviate",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēvēˌāt/",
+            "/ˈdiviˌeɪt/",
+            "/ˈdēvēət/",
+            "/ˈdiviət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiːvɪeɪt/",
+            "/ˈdiːvɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trệch",
+            "type": "",
+            "example": {
+                "en": "You didn' t deviate from the plan, did you, Pollux?",
+                "vi": "Chú mày không làm trệch kế hoạch chứ, Pollux?"
+            }
+        },
+        {
+            "content": "sai đường",
+            "type": "",
+            "example": {
+                "en": "Strait means narrow, strict, exacting, and allowing for no deviation.",
+                "vi": "Chật có nghĩa là hẹp, chặt chẽ, nghiêm ngặt, và không cho phép đi sai đường."
+            }
+        },
+        {
+            "content": "lệch",
+            "type": "",
+            "example": {
+                "en": "That means they fall substantially below the standard deviation.",
+                "vi": "Nghĩa là chúng dưới độ lệch tiêu chuẩn."
+            }
+        },
+        {
+            "content": "lạc lối",
+            "type": "",
+            "example": {
+                "en": "And such a deviation from the true course can be deceptively slow and subtle in its impact.",
+                "vi": "Và sự lạc lối như thế từ đường lối ngay chính có thể có những hậu quả từ từ và khó thấy."
+            }
+        },
+        {
+            "content": "lạc đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lệch || độ lệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trệch hướng",
+            "type": "",
+            "example": {
+                "en": "which will detect deviations",
+                "vi": "sẽ đánh hơi sự trệch hướng"
+            }
+        },
+        {
+            "content": "xa rời",
+            "type": "",
+            "example": {
+                "en": "Now's a bad time to deviate from Medellín.",
+                "vi": "Đang là thời điểm xấu để xa rời Medellín."
+            }
+        },
+        {
+            "content": "đi chệch",
+            "type": "",
+            "example": {
+                "en": "But I do not deviate from your law.",
+                "vi": "Con vẫn không bao giờ đi chệch luật pháp ngài."
+            }
+        }
+    ]
+}

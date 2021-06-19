@@ -1,0 +1,92 @@
+{
+    "word": "lance",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lans/",
+            "/læns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɑːns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo",
+            "type": "noun",
+            "example": {
+                "en": "The way he held the lance, aimed at my head.",
+                "vi": "Cách mà hắn giữ ngọn giáo nhắm vào đầu của ta."
+            }
+        },
+        {
+            "content": "thương",
+            "type": "verb noun",
+            "example": {
+                "en": "A beautiful castle lies waiting for your lance, sir prince.",
+                "vi": "Một lâu đài thật đẹp đang nằm chờ cây thương của anh kìa, hoàng tử."
+            }
+        },
+        {
+            "content": "chích",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cây giáo",
+            "type": "noun",
+            "example": {
+                "en": "Ain't but one tribe uses a lance like that.",
+                "vi": "Chỉ có một bộ lạc dùng một cây giáo giống như vầy."
+            }
+        },
+        {
+            "content": "cây thương",
+            "type": "noun",
+            "example": {
+                "en": "A beautiful castle lies waiting for your lance, sir prince.",
+                "vi": "Một lâu đài thật đẹp đang nằm chờ cây thương của anh kìa, hoàng tử."
+            }
+        },
+        {
+            "content": "trường thương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đâm bằng giáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đâm bằng thương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mâu",
+            "type": "",
+            "example": {
+                "en": "Oh, we'll see when I move to conflict Miss Lance off this case.",
+                "vi": "Oh, vậy thì chúng ta sẽ gặp sự mâu thuẩn, khi tôi bỏ cô Lance khỏi vụ này."
+            }
+        },
+        {
+            "content": "Lanced length",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái lao",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

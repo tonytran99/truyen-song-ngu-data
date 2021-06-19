@@ -1,0 +1,51 @@
+{
+    "word": "december",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsembər/",
+            "/dəˈsɛmbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsɛmbə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tháng mười hai",
+            "type": "noun",
+            "example": {
+                "en": "Explain that another important person has a birthday in December.",
+                "vi": "Giải thích rằng có một người quan trọng khác cũng có sinh nhật trong tháng Mười Hai."
+            }
+        },
+        {
+            "content": "chạp",
+            "type": "noun",
+            "example": {
+                "en": "The low December tide showed us the only way in and the only way out.",
+                "vi": "Mực thủy triều thấp vào tháng chạp cho thấy một lối vào và một lối ra duy nhât."
+            }
+        },
+        {
+            "content": "thaùng möôøi hai, thaùng chaïp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháng chạp",
+            "type": "noun",
+            "example": {
+                "en": "The low December tide showed us the only way in and the only way out.",
+                "vi": "Mực thủy triều thấp vào tháng chạp cho thấy một lối vào và một lối ra duy nhât."
+            }
+        }
+    ]
+}

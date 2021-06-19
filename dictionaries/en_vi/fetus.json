@@ -1,0 +1,58 @@
+{
+    "word": "fetus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēdəs/",
+            "/ˈfidəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːtəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thai",
+            "type": "noun",
+            "example": {
+                "en": "And the basis of the fetus' prediction is what its mother eats.",
+                "vi": "Và cơ sở thông tin cho các bào thai đó là dựa vào những gì mẹ chúng ăn."
+            }
+        },
+        {
+            "content": "bào thai",
+            "type": "noun",
+            "example": {
+                "en": "And the basis of the fetus' prediction is what its mother eats.",
+                "vi": "Và cơ sở thông tin cho các bào thai đó là dựa vào những gì mẹ chúng ăn."
+            }
+        },
+        {
+            "content": "phôi",
+            "type": "noun",
+            "example": {
+                "en": "Just terminating the fetus when it's glued to her intestines is high-risk surgery.",
+                "vi": "Loại bỏ phôi thai khi nó dính với ruột của cô ta là một phẫu thuật rủi ro rất lớn."
+            }
+        },
+        {
+            "content": "thai nhi",
+            "type": "",
+            "example": {
+                "en": "But the trauma was too great for the fetus.",
+                "vi": "Nhưng chấn thương quá mạnh cho thai nhi."
+            }
+        },
+        {
+            "content": "胎",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

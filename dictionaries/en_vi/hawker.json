@@ -1,0 +1,39 @@
+{
+    "word": "hawker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôkər/",
+            "/ˈhɔkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːkə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bán hàng rong",
+            "type": "",
+            "example": {
+                "en": "Police officers were taking bribes from hawkers who were hawking on the streets.",
+                "vi": "Cảnh sát đang nhận hối lộ từ những người bán hàng rong trên đường phố."
+            }
+        },
+        {
+            "content": "hàng rong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nuôi chim ưng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

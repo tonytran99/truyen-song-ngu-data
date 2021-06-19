@@ -1,0 +1,66 @@
+{
+    "word": "curtail",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kərˈtāl/",
+            "/kərˈteɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəːˈteɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rút ngắn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cắt",
+            "type": "verb noun",
+            "example": {
+                "en": "We have also curtailed some of our pastimes and set aside a specific day and time for in-depth study.”",
+                "vi": "Chúng tôi cũng cắt giảm thời gian giải trí và dành ra một ngày giờ nhất định để nghiên cứu Kinh Thánh”."
+            }
+        },
+        {
+            "content": "tước",
+            "type": "verb noun",
+            "example": {
+                "en": "\" Curtailed freedom \"",
+                "vi": "\" Tự do bị tước đoạt \""
+            }
+        },
+        {
+            "content": "cướp đi",
+            "type": "",
+            "example": {
+                "en": "It isn't, in fact, about curtailing possibilities.",
+                "vi": "Thực tế nó cũng không phải về cướp đi các khả năng."
+            }
+        },
+        {
+            "content": "cắt bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút gọn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

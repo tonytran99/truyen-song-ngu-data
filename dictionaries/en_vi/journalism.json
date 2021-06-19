@@ -1,0 +1,47 @@
+{
+    "word": "journalism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərnlˌizəm/",
+            "/ˈdʒərnlˌɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːn(ə)lɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghề làm báo",
+            "type": "",
+            "example": {
+                "en": "It's a big day for journalism.",
+                "vi": "Một ngày trọng đại cho nghề làm báo."
+            }
+        },
+        {
+            "content": "nghề viết báo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báo chí",
+            "type": "noun",
+            "example": {
+                "en": "There's just no room for truth in journalism.",
+                "vi": "Thật là ko còn một sự thật nào trong làng báo chí cả."
+            }
+        },
+        {
+            "content": "nghề báo chí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

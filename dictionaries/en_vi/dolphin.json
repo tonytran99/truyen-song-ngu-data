@@ -1,0 +1,52 @@
+{
+    "word": "dolphin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdälfən/",
+            "/ˈdɑlfən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒlfɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá heo",
+            "type": "noun",
+            "example": {
+                "en": "Some of them were dolphin liver. Some of them were dolphin blubber.",
+                "vi": "Một số là gan cá heo. Một vài mẫu là mỡ cá heo."
+            }
+        },
+        {
+            "content": "cá heo mỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phao",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cọc buộc thuyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cá heo",
+            "type": "",
+            "example": {
+                "en": "So dolphins are also political animals,",
+                "vi": "Cá heo cũng là loài vật có tư tưởng chính trị,"
+            }
+        }
+    ]
+}

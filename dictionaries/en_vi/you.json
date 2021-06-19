@@ -1,0 +1,588 @@
+{
+    "word": "you",
+    "type": [
+        "pronoun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞o/",
+            "/ju/",
+            "/yə/",
+            "/jə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạn",
+            "type": "pronoun",
+            "example": {
+                "en": "Why do you think Tom prefers living in the country?",
+                "vi": "Tại sao bạn nghĩ Tom thích sống ở vùng đồng quê ?"
+            }
+        },
+        {
+            "content": "mày",
+            "type": "adjective, pronoun",
+            "example": {
+                "en": "Do it the way he tells you to.",
+                "vi": "Làm theo cách mà nó đã chỉ mày."
+            }
+        },
+        {
+            "content": "anh",
+            "type": "pronoun",
+            "example": {
+                "en": "I know that you put your best effort into it.",
+                "vi": "Tôi biết rằng anh đã cố gắng hết sức."
+            }
+        },
+        {
+            "content": "các anh",
+            "type": "pronoun",
+            "example": {
+                "en": "When did you guys decide that?",
+                "vi": "Các anh đã quyết định từ khi nào vậy?"
+            }
+        },
+        {
+            "content": "các bạn",
+            "type": "pronoun",
+            "example": {
+                "en": "Imagine a situation where you are all alone.",
+                "vi": "Hãy tưởng tượng tình huống khi tất cả các bạn đều đơn độc."
+            }
+        },
+        {
+            "content": "người ta",
+            "type": "",
+            "example": {
+                "en": "A passport is something you cannot do without when you go to a foreign country.",
+                "vi": "Hộ chiếu là vật không thể thiếu khi người ta xuất ngoại."
+            }
+        },
+        {
+            "content": "ông",
+            "type": "pronoun",
+            "example": {
+                "en": "Do you believe that he is telling the truth?",
+                "vi": "Bạn có tin ông ta đang nói sự thật không?"
+            }
+        },
+        {
+            "content": "ngươi",
+            "type": "pronoun",
+            "example": {
+                "en": "I'm going to kill you for wasting my time.",
+                "vi": "Ta phải giết ngươi vì đã làm lãng phí thời gian của ta."
+            }
+        },
+        {
+            "content": "chị",
+            "type": "pronoun",
+            "example": {
+                "en": "May the blessings of heaven be upon you.",
+                "vi": "Cầu xin cho các phước lành của thiên thượng ở với các anh chị em."
+            }
+        },
+        {
+            "content": "con",
+            "type": "pronoun",
+            "example": {
+                "en": "How tall do you think my daughter will be in three years?",
+                "vi": "Bạn nghĩ là trong ba năm tới con gái tôi sẽ cao đến đâu?"
+            }
+        },
+        {
+            "content": "bà",
+            "type": "pronoun",
+            "example": {
+                "en": "Where did you see that woman?",
+                "vi": "Anh trông thấy người đàn bà đó ở đâu?"
+            }
+        },
+        {
+            "content": "ba",
+            "type": "pronoun",
+            "example": {
+                "en": "How tall do you think my daughter will be in three years?",
+                "vi": "Bạn nghĩ là trong ba năm tới con gái tôi sẽ cao đến đâu?"
+            }
+        },
+        {
+            "content": "ba má",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Have you found your parents?",
+                "vi": "Tìm được ba má cậu chưa."
+            }
+        },
+        {
+            "content": "ba mẹ",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "If you reject my beliefs, though, you must have something to replace them with.",
+                "vi": "Nếu con không tin giống ba mẹ thì chắc con đã tin cái khác."
+            }
+        },
+        {
+            "content": "bay",
+            "type": "pronoun",
+            "example": {
+                "en": "He is going to drive you to the airport.",
+                "vi": "Anh ta sẽ chở bạn ra sân bay."
+            }
+        },
+        {
+            "content": "bu",
+            "type": "pronoun",
+            "example": {
+                "en": "We're tired of giving you money for doing an incompetent job!",
+                "vi": "Chúng tôi đã chán phải trả tiền cho anh để làm những chuyện ruồi bu rồi."
+            }
+        },
+        {
+            "content": "bác",
+            "type": "pronoun",
+            "example": {
+                "en": "I've gone to great lengths to meet you, Doctor.",
+                "vi": "Tôi đã phải nếm mật nằm gai mới gặp được ông, bác sỹ."
+            }
+        },
+        {
+            "content": "bầm",
+            "type": "pronoun",
+            "example": {
+                "en": "You don't mumble or spit when you talk.",
+                "vi": "Bà không lầm bầm hay khạc nhổ khi nói."
+            }
+        },
+        {
+            "content": "bọn mày",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "I never should have made you guys think you had to be in scouts for just me.",
+                "vi": "Lẽ ra tao không nên để bọn mày nghĩ là bọn mày làm hướng đạo chỉ vì tao."
+            }
+        },
+        {
+            "content": "bọn ngươi",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Would you really want me to come with you?",
+                "vi": "Ngươi thật sự muốn ta tham gia với bọn ngươi à?"
+            }
+        },
+        {
+            "content": "bố",
+            "type": "pronoun",
+            "example": {
+                "en": "If not, you may want to work toward becoming an unbaptized publisher.",
+                "vi": "Nếu chưa, có thể bạn muốn cố gắng trở thành người công bố chưa báp têm."
+            }
+        },
+        {
+            "content": "bố mẹ",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "I like your parents, but you hate mine.",
+                "vi": "Em thích bố mẹ anh, nhưng anh ghét bố mẹ em."
+            }
+        },
+        {
+            "content": "cha",
+            "type": "pronoun",
+            "example": {
+                "en": "I can't believe you got away with sneaking out of your house last night. Your father didn't hear you.",
+                "vi": "Tôi không thể tin là bạn đã không bị trừng phạt về việc lẻn ra khỏi nhà tối qua. Cha bạn đã không nghe thấy."
+            }
+        },
+        {
+            "content": "cha mẹ",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Even if you spank them regularly, you will find they keep coming back to you.”",
+                "vi": "Ngay cả nếu cha mẹ đánh con thường, chúng vẫn thích quay trở về cha mẹ”."
+            }
+        },
+        {
+            "content": "cha nội",
+            "type": "pronoun",
+            "example": {
+                "en": "You have to read a book.",
+                "vi": "Cha nội đọc sách dùm con cái."
+            }
+        },
+        {
+            "content": "cháu",
+            "type": "pronoun",
+            "example": {
+                "en": "When you wake, we'll have tea together before we start the engines.",
+                "vi": "Khi cháu dậy, ta sẽ dùng trà cùng nhau trước khi chúng ta khởi hành."
+            }
+        },
+        {
+            "content": "chú",
+            "type": "pronoun",
+            "example": {
+                "en": "Which player are you paying the most attention to this year?",
+                "vi": "Năm nay, tuyển thủ đang được chú ý là ai vậy?"
+            }
+        },
+        {
+            "content": "các bác",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Are all doctors so meticulous or is it just you?",
+                "vi": "Có phải các bác sỹ đều nói thế ko?"
+            }
+        },
+        {
+            "content": "các cháu",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "If you keep waiting, Alkali will find you and they will kill you all.",
+                "vi": "Nếu các cháu vẫn đợi, bọn Alkali sẽ tìm và giết hết các cháu mất."
+            }
+        },
+        {
+            "content": "các chú",
+            "type": "pronoun masculine, plural",
+            "example": {
+                "en": "No offense to banana slug owners. Thank you.",
+                "vi": "Không có ý xúc phạm đến những người bảo hộ của các chú sên vàng.Xin cảm ơn."
+            }
+        },
+        {
+            "content": "các con",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Don't you think he's the handsomest man you've ever seen, girls?",
+                "vi": "Các con, các con không nghĩ anh ấy là người lịch lãm nhất các con từng gặp sao?"
+            }
+        },
+        {
+            "content": "các cô",
+            "type": "pronoun feminine, plural",
+            "example": {
+                "en": "Aren't you here because you like giving it to young men?",
+                "vi": "Rằng các cô ở đây bởi vì các cô thích cho không những chàng trai?"
+            }
+        },
+        {
+            "content": "các cậu",
+            "type": "pronoun",
+            "example": {
+                "en": "Since you all say that, I must think again.",
+                "vi": "Các cậu đã nói thế, để tớ nghĩ xem đã."
+            }
+        },
+        {
+            "content": "các em",
+            "type": "pronoun",
+            "example": {
+                "en": "DID you know that someone loved you even before you were born?— Well, you see we knew you were coming.",
+                "vi": "Các em có biết ai đã yêu-thương các em trước khi các em sinh ra?— Chắc chắn, ba mẹ đã chờ đớn các em đến."
+            }
+        },
+        {
+            "content": "các ngươi",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Do good to them that hate you.",
+                "vi": "Hãy làm những gì tốt đẹp cho những kẻ ghét các ngươi."
+            }
+        },
+        {
+            "content": "cô",
+            "type": "pronoun",
+            "example": {
+                "en": "You know, you are nothing to me now, Mary!",
+                "vi": "Cô biết, cô chả là gì với tôi cả, Mary ạ!"
+            }
+        },
+        {
+            "content": "cậu",
+            "type": "pronoun",
+            "example": {
+                "en": "You probably know more about me than I know about you.",
+                "vi": "Cậu có khi biết nhiều về tớ hơn là tớ biết về cậu."
+            }
+        },
+        {
+            "content": "dì",
+            "type": "pronoun",
+            "example": {
+                "en": "How long will you be at your aunt's house?",
+                "vi": "Cậu ở nhà dì tới khi nào thế?"
+            }
+        },
+        {
+            "content": "em",
+            "type": "pronoun",
+            "example": {
+                "en": "I am not any more foolish than you are.",
+                "vi": "Tôi không ngu ngốc vì em nữa đâu."
+            }
+        },
+        {
+            "content": "má",
+            "type": "pronoun",
+            "example": {
+                "en": "\"Mum, can I have a biscuit?\" \"No, you shouldn't eat between meals.\"",
+                "vi": "\"Má, con có thể ăn một miếng bánh quy được không?\" \"Không. Con không nên ăn giữa bữa ăn.\""
+            }
+        },
+        {
+            "content": "mẹ",
+            "type": "pronoun",
+            "example": {
+                "en": "You are a good mother.",
+                "vi": "Bạn là người mẹ tốt."
+            }
+        },
+        {
+            "content": "nhà ngươi",
+            "type": "pronoun",
+            "example": {
+                "en": "And just how do you plan on doing that?",
+                "vi": "Vậy kế hoạch của nhà ngươi là gì?"
+            }
+        },
+        {
+            "content": "quý ngài",
+            "type": "pronoun",
+            "example": {
+                "en": "There is a gentleman here to see you.",
+                "vi": "Có một quý ngài đến để gặp cô."
+            }
+        },
+        {
+            "content": "quý vị",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "You can count them afterwards, if you like.",
+                "vi": "Quý vị có thể đếm nó sau này, nếu quý vị muốn."
+            }
+        },
+        {
+            "content": "quý ông quý bà",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Ladies and gentlemen, people tell you not to milk a good speech.",
+                "vi": "Thưa quý ông quý bà, người ta thường nói không nên kéo dài bài phát biểu hay."
+            }
+        },
+        {
+            "content": "thầy",
+            "type": "pronoun",
+            "example": {
+                "en": "Like, there was so much, you would not believe.",
+                "vi": "Máu nhiều vô kể, thầy không tin nổi đâu."
+            }
+        },
+        {
+            "content": "tía",
+            "type": "pronoun",
+            "example": {
+                "en": "Seems like every time I see you, you're playing the race card, Frank.",
+                "vi": "Hình như mỗi lần gặp, là cậu đang tía lia cái gì đó, Frank ạ."
+            }
+        },
+        {
+            "content": "tụi bay",
+            "type": "pronoun",
+            "example": {
+                "en": "What do you think will happen to you then?",
+                "vi": "Tụi bay nghĩ lúc đó tụi bay sẽ ra sao?"
+            }
+        },
+        {
+            "content": "tụi bây",
+            "type": "pronoun",
+            "example": {
+                "en": "Would you like to know how you will die?",
+                "vi": "Tụi bây có muốn biết cách tụi bây sẽ chết không?"
+            }
+        },
+        {
+            "content": "tụi mày",
+            "type": "pronoun",
+            "example": {
+                "en": "I told you my compound would take you places.",
+                "vi": "Tao đã nói tụi mày là thuốc của tao sẽ đưa tụi mày lên mây."
+            }
+        },
+        {
+            "content": "u",
+            "type": "pronoun",
+            "example": {
+                "en": "If we find it, treat it, you can be fine.",
+                "vi": "Nếu bọn này tìm ra khối u, cắt nó ra và bạn sẽ khỏe."
+            }
+        },
+        {
+            "content": "ông bạn",
+            "type": "pronoun",
+            "example": {
+                "en": "I just wanted to have this private moment with you, old friend, to thank you.",
+                "vi": "Tôi chỉ muốn có một giây phút riêng tư này với ông, bạn già, để cám ơn ông."
+            }
+        },
+        {
+            "content": "ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "All you have to do is follow his advice.",
+                "vi": "Mọi thứ bạn phải làm là thực hiện theo lời khuyên của anh ấy."
+            }
+        },
+        {
+            "content": "ngài",
+            "type": "pronoun",
+            "example": {
+                "en": "Mr. mcgill, I have only one more question for you.",
+                "vi": "Tôi có một câu hỏi cuối cho ngài."
+            }
+        },
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "Whose voice I've been wanting you to hear?",
+                "vi": "Cô đã biết tôi muốn cô nghe thấy giọng nói của ai chưa?"
+            }
+        },
+        {
+            "content": "chúng",
+            "type": "pronoun",
+            "example": {
+                "en": "I'd like to enroll you as a member of our club.",
+                "vi": "Tôi muốn nhận cậu trở thành thành viên của câu lạc bộ của chúng tôi."
+            }
+        },
+        {
+            "content": "chúng mày",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "You think you can keep the food you robbed?",
+                "vi": "Chúng mày nghĩ chúng mày có thể giữ được lương thực mà chúng mày đã cướp hả?"
+            }
+        },
+        {
+            "content": "bậu",
+            "type": "pronoun",
+            "example": {}
+        },
+        {
+            "content": "bà chị",
+            "type": "",
+            "example": {
+                "en": "I think Bernadette said it, about you finally dating a sister.",
+                "vi": "Bernadette đã nói đấy, cuối cùng thì anh cũng hẹn hò được một bà chị."
+            }
+        },
+        {
+            "content": "các bà",
+            "type": "pronoun feminine, plural",
+            "example": {
+                "en": "And, coaches, you should be supporting Mommy's head.",
+                "vi": "Và các ông bố, các anh hãy đỡ đầu của các bà mẹ."
+            }
+        },
+        {
+            "content": "các chị",
+            "type": "pronoun",
+            "example": {
+                "en": "Because you are His child, you not only need Him, but He also needs you.",
+                "vi": "Vì các chị em là con của Ngài, các chị em không những cần Ngài, mà Ngài còn cần các chị em nữa."
+            }
+        },
+        {
+            "content": "các mày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "các ngài",
+            "type": "pronoun masculine, plural",
+            "example": {
+                "en": "Where you happen to be bornOr what you happen to be born with?",
+                "vi": "Nơi các ngài được sinh ra hay các ngài sinh ra với cái gì?"
+            }
+        },
+        {
+            "content": "các người",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "Yes, I have a problem with you Americans!",
+                "vi": "Ừ đấy, tôi có vấn đề với người Mỹ các người!"
+            }
+        },
+        {
+            "content": "các vị",
+            "type": "",
+            "example": {
+                "en": "Well, do you want it to be good, or do you want it to be yours?",
+                "vi": "Thế các vị muốn nó hay, hay là các vị muốn là của các vị?"
+            }
+        },
+        {
+            "content": "các ông",
+            "type": "pronoun masculine, plural",
+            "example": {
+                "en": "You thought you could do what you liked!",
+                "vi": "Các ông nghĩ các ông có thể làm bất cứ gì tùy thích!"
+            }
+        },
+        {
+            "content": "các ông *",
+            "type": "",
+            "example": {
+                "en": "You thought you could do what you liked!",
+                "vi": "Các ông nghĩ các ông có thể làm bất cứ gì tùy thích!"
+            }
+        },
+        {
+            "content": "ông *",
+            "type": "",
+            "example": {
+                "en": "Do you believe that he is telling the truth?",
+                "vi": "Bạn có tin ông ta đang nói sự thật không?"
+            }
+        },
+        {
+            "content": "ông anh",
+            "type": "",
+            "example": {
+                "en": "What makes you think you can believe anything my brother told you?",
+                "vi": "Cái gì làm mày nghĩ mày có thể tin mọi điều ông anh tao nói với mày?"
+            }
+        },
+        {
+            "content": "đằng ấy",
+            "type": "pronoun",
+            "example": {}
+        },
+        {
+            "content": "nhớ",
+            "type": "verb",
+            "example": {
+                "en": "Let me tell you what I want for my birthday.",
+                "vi": "Để mình nói thứ mình muốn nhân dịp sinh nhật cho cậu nhớ."
+            }
+        },
+        {
+            "content": "你",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

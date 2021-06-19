@@ -1,0 +1,45 @@
+{
+    "word": "knickers",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnikərz/",
+            "/ˈnɪkərz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnɪkəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "knickerbockers",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần lót chẽn gối",
+            "type": "plural",
+            "example": {}
+        },
+        {
+            "content": "quần chẽn gối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần lót",
+            "type": "",
+            "example": {
+                "en": "Maybe do Mom a favor and wear some knickers.",
+                "vi": "Có lẽ em nên giúp mẹ 1 việc là mặc quần lót vào đi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "carton",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärtn/",
+            "/ˈkɑrtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hộp",
+            "type": "noun",
+            "example": {
+                "en": "Why do we line up the square milk carton with the square fence?",
+                "vi": "Tại sao chúng ta xếp trùng khớp hộp sữa vuông với thanh hàng rào vuông?"
+            }
+        },
+        {
+            "content": "hộp các-tông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộp giấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bìa cứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộp bìa cứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng trắng giữa bia",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

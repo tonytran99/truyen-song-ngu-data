@@ -1,0 +1,68 @@
+{
+    "word": "valid",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaləd/",
+            "/ˈvæləd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có giá trị",
+            "type": "",
+            "example": {
+                "en": "No orders are valid, Cob, if they're wrong.",
+                "vi": "Không lệnh nào có giá trị nếu chúng sai lầm, Cob."
+            }
+        },
+        {
+            "content": "có hiệu lực",
+            "type": "adjective",
+            "example": {
+                "en": "That blood makes valid the new covenant.",
+                "vi": "Huyết đó làm cho giao ước mới có hiệu lực."
+            }
+        },
+        {
+            "content": "có căn cứ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp lệ",
+            "type": "adjective",
+            "example": {
+                "en": "I have a valid license to hunt that rhino.",
+                "vi": "Tôi có giấy phép hợp lệ để săn bắn con tê giác đó."
+            }
+        },
+        {
+            "content": "vững chắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vöõng chaéc, hôïp lyù,hieäu löïc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng đắn",
+            "type": "",
+            "example": {
+                "en": "What valid observations are made by a Catholic theologian?",
+                "vi": "Một nhà thần học Công giáo đúng đắn nhận xét điều gì?"
+            }
+        }
+    ]
+}

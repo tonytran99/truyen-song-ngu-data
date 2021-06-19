@@ -1,0 +1,47 @@
+{
+    "word": "hexagon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheksəˌɡän/",
+            "/ˈhɛksəˌɡɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛksəɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình sáu góc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình lục giác",
+            "type": "",
+            "example": {
+                "en": "The next move was that we wanted to try and maximize the size of those hexagons.",
+                "vi": "Bước tiếp theo là chúng tôi muốn tối đa hóa kích cỡ của những hình lục giác này."
+            }
+        },
+        {
+            "content": "hình sáu cạnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lục giác",
+            "type": "noun",
+            "example": {
+                "en": "The next move was that we wanted to try and maximize the size of those hexagons.",
+                "vi": "Bước tiếp theo là chúng tôi muốn tối đa hóa kích cỡ của những hình lục giác này."
+            }
+        }
+    ]
+}

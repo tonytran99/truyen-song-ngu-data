@@ -1,0 +1,39 @@
+{
+    "word": "foreclose",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrˈklōz/",
+            "/fɔrˈkloʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːˈkləʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải quyết trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn không cho hưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để thế nợ",
+            "type": "",
+            "example": {
+                "en": "Farms were being foreclosed, and businesses were going broke.",
+                "vi": "Các nông trại bị ngân hàng tịch thu để thế nợ và các cơ sở kinh doanh bị phá sản."
+            }
+        }
+    ]
+}

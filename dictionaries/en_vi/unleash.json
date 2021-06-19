@@ -1,0 +1,42 @@
+{
+    "word": "unleash",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈlēSH/",
+            "/ˌənˈliʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈliːʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "has unleashed a firestorm of innovation.",
+                "vi": "đã mở đường cho cả một cơn lốc cải tiến."
+            }
+        },
+        {
+            "content": "buông lỏng",
+            "type": "",
+            "example": {
+                "en": "the insurgency that's been unleashed on your people,",
+                "vi": "cuộc nổi dậy làm buông lỏng con người,"
+            }
+        },
+        {
+            "content": "gỡ ràng buộc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

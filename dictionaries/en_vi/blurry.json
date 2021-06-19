@@ -1,0 +1,29 @@
+{
+    "word": "blurry",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblərē/",
+            "/ˈbləri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbləːri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mờ",
+            "type": "adjective",
+            "example": {
+                "en": "Sarah had to lie very still so the pictures wouldn’t be blurry.",
+                "vi": "Sarah đã phải nằm thật im để mấy tấm hình không bị mờ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "intricate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈintrəkət/",
+            "/ˈɪntrəkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntrɪkət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phức tạp",
+            "type": "adjective",
+            "example": {
+                "en": "There are many intricate ecosystems that enable life to thrive on earth.",
+                "vi": "Trong môi trường sống của chúng ta, có nhiều hệ thống phức tạp giúp sự sống phát triển."
+            }
+        },
+        {
+            "content": "複雜",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rắc rối",
+            "type": "adjective",
+            "example": {
+                "en": "It's as lavish and intricate as it is simple and minimal.",
+                "vi": "Nó cũng phong phú và rắc rối mà cũng thật bình dị và tối giản."
+            }
+        },
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối beng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

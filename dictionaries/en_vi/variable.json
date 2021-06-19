@@ -1,0 +1,113 @@
+{
+    "word": "variable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈverēəb(ə)l/",
+            "/ˈvɛriəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛːrɪəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "變數",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biên sô",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biến số",
+            "type": "noun",
+            "example": {
+                "en": "To him, they are variables in an equation.",
+                "vi": "Với ông ta, chúng chỉ là những biến số cân bằng."
+            }
+        },
+        {
+            "content": "biến thiên",
+            "type": "",
+            "example": {
+                "en": "What percentage of these people is variable compensation?",
+                "vi": "Phấn trăm bồi thường biến thiên của những người này là gì?"
+            }
+        },
+        {
+            "content": "có thể thay đổi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "",
+            "example": {
+                "en": "is both ambiguous and variable.",
+                "vi": "đều mơ hồ và hay thay đổi"
+            }
+        },
+        {
+            "content": "có thể biến đổi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "biến",
+            "type": "noun",
+            "example": {
+                "en": "All we can be sure of is the variability will be different.",
+                "vi": "Những gì chúng ta có thể chắc chắn là tính biến đổi sẽ khác nhau."
+            }
+        },
+        {
+            "content": "biến đổi",
+            "type": "",
+            "example": {
+                "en": "All we can be sure of is the variability will be different.",
+                "vi": "Những gì chúng ta có thể chắc chắn là tính biến đổi sẽ khác nhau."
+            }
+        },
+        {
+            "content": "gió thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khả biến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thay đổi",
+            "type": "verb",
+            "example": {
+                "en": "And minimizing friction turns out to be the decisive variable.",
+                "vi": "Và việc giảm thiểu sự sai khác hóa ra là những thay đổi có tính quyết định,"
+            }
+        },
+        {
+            "content": "variable zone ôn đới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps they relate with other variables , such as age or education . \"",
+                "vi": "Có lẽ những khác biệt ấy là do nhiều khác biệt khác , như là tuổi tác hoặc giáo dục . \""
+            }
+        }
+    ]
+}

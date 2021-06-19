@@ -1,0 +1,44 @@
+{
+    "word": "decelerate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈseləˌrāt/",
+            "/diˈsɛləˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈsɛləreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giảm tốc độ",
+            "type": "",
+            "example": {
+                "en": "But as riders accelerate and decelerate, they experience more or less gravitational force.",
+                "vi": "Nhưng khi hành khách tăng và giảm tốc độ, họ cảm nhận nhiều hoặc ít hơn lực G."
+            }
+        },
+        {
+            "content": "chạy chậm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hãm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi chậm lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

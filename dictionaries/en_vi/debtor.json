@@ -1,0 +1,42 @@
+{
+    "word": "debtor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdedər/",
+            "/ˈdɛdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con nợ",
+            "type": "",
+            "example": {
+                "en": "The debtor might have had an extensive olive grove or been a merchant who sold oil.",
+                "vi": "Hẳn con nợ này có một rừng cây ô-liu rộng lớn hoặc là một thương gia bán dầu."
+            }
+        },
+        {
+            "content": "người mắc nợ",
+            "type": "",
+            "example": {
+                "en": "The debtor, in turn, had been extended mercy.",
+                "vi": "Đổi lại, người mắc nợ đã được dành cho lòng thương xót."
+            }
+        },
+        {
+            "content": "bên nợ",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

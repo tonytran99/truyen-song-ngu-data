@@ -1,0 +1,48 @@
+{
+    "word": "lacerate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlasəˌrāt/",
+            "/ˈlæsəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlasəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xé",
+            "type": "verb",
+            "example": {
+                "en": "Victim shows signs of lacerations and subcutaneous hematoma, indicating blunt force trauma to the head and neck.",
+                "vi": "Nạn nhân có dấu hiệu bị xé rách và xuất huyết dưới da cho thấy bị thương do đánh mạnh vào đầu và cổ."
+            }
+        },
+        {
+            "content": "làm tan nát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xé rách",
+            "type": "",
+            "example": {
+                "en": "Victim shows signs of lacerations and subcutaneous hematoma, indicating blunt force trauma to the head and neck.",
+                "vi": "Nạn nhân có dấu hiệu bị xé rách và xuất huyết dưới da cho thấy bị thương do đánh mạnh vào đầu và cổ."
+            }
+        }
+    ]
+}

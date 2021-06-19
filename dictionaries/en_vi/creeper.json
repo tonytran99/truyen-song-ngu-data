@@ -1,0 +1,49 @@
+{
+    "word": "creeper",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrēpər/",
+            "/ˈkripər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkriːpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây leo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dây leo",
+            "type": "noun",
+            "example": {
+                "en": "And this position is called twining of the creeper.",
+                "vi": "Và tư thế này gọi là dây leo cuốn."
+            }
+        },
+        {
+            "content": "giống cây bò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống cây leo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loài vật bò",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

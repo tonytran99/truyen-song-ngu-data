@@ -1,0 +1,68 @@
+{
+    "word": "determinant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtərmənənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtəːmɪnənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "định thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "And the choices we make about this will determine our future.",
+                "vi": "Và quyết định của chúng ta sẽ quyết định tương lai của chính chúng ta."
+            }
+        },
+        {
+            "content": "xác định",
+            "type": "adjective",
+            "example": {
+                "en": "Publishers should use good judgment to determine the individual’s interest.",
+                "vi": "Người công bố nên suy xét để xác định một người có chú ý hay không."
+            }
+        },
+        {
+            "content": "yếu tố quyết định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định lượng",
+            "type": "",
+            "example": {
+                "en": "and quantitatively determine how much better the performance is.",
+                "vi": "và định lượng công việc được thực hiện tốt hơn bao nhiêu"
+            }
+        },
+        {
+            "content": "định rõ",
+            "type": "adjective",
+            "example": {
+                "en": "My task was to determine what was true.",
+                "vi": "Nhiệm vụ của tôi là phải định rõ sự thật là gì."
+            }
+        },
+        {
+            "content": "Định thức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

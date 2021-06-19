@@ -1,0 +1,44 @@
+{
+    "word": "heath",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hēTH/",
+            "/hiθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bãi hoang",
+            "type": "",
+            "example": {
+                "en": "\"'Twas first light when I saw her face upon the heath,",
+                "vi": "\" Là ánh sáng lần đầu khi tôi nhìn thấy nàng ở bãi hoang, \""
+            }
+        },
+        {
+            "content": "bãi thạch nam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống cây erica",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống cây thạch nam",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

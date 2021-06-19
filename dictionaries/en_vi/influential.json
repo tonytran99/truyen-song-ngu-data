@@ -1,0 +1,59 @@
+{
+    "word": "influential",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinflo͞oˈen(t)SH(ə)l/",
+            "/ˌɪnfluˈɛn(t)ʃ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnflʊˈɛnʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thế lực",
+            "type": "adjective",
+            "example": {
+                "en": "I've cut taxes for a lot of very influential friends.",
+                "vi": "Ta đã giảm thuế cho nhiều người có thế lực."
+            }
+        },
+        {
+            "content": "có ảnh hưởng",
+            "type": "adjective",
+            "example": {
+                "en": "Among the most influential views were those of Aristotle.",
+                "vi": "Trong những sự tin tưởng đó, quan niệm của Aristotle là có ảnh hưởng mạnh nhất."
+            }
+        },
+        {
+            "content": "bề thế",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có tác dụng",
+            "type": "adjective",
+            "example": {
+                "en": "(Acts 2:9-11) Thus, this version proved to be influential in spreading the good news in the first century.",
+                "vi": "(Công-vụ 2:9-11) Vì vậy, bản dịch này chứng minh nó có tác dụng trong việc truyền bá tin mừng vào thế kỷ thứ nhất."
+            }
+        },
+        {
+            "content": "có uy thế",
+            "type": "adjective",
+            "example": {
+                "en": "Another influential group was the Hussites, followers of Jan Hus.",
+                "vi": "Một nhóm có uy thế khác là giáo phái Hus, môn đệ của Jan Hus."
+            }
+        }
+    ]
+}

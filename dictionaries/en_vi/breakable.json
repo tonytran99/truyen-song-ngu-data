@@ -1,0 +1,45 @@
+{
+    "word": "breakable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrākəb(ə)l/",
+            "/ˈbreɪkəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbreɪkəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dễ vỡ",
+            "type": "",
+            "example": {
+                "en": "It's very, very breakable.",
+                "vi": "Nó rất, rất dễ vỡ."
+            }
+        },
+        {
+            "content": "có thể bẻ gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể đập vỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dễ gãy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

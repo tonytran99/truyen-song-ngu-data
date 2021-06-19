@@ -1,0 +1,82 @@
+{
+    "word": "functional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəNG(k)SH(ə)n(ə)l/",
+            "/ˈfəŋ(k)ʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌŋ(k)ʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chức",
+            "type": "noun",
+            "example": {
+                "en": "An important function of policemen is to catch thieves.",
+                "vi": "Chức năng quan trọng của cảnh sát là bắt bọn trộm."
+            }
+        },
+        {
+            "content": "hàm",
+            "type": "",
+            "example": {
+                "en": "And who claims he can give meaning to the negative values of the gamma function.",
+                "vi": "Người khẳng định rằng mình có thể cắt nghĩa các giá trị âm của hàm gamma."
+            }
+        },
+        {
+            "content": "functionary",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể làm việc",
+            "type": "",
+            "example": {
+                "en": "Now, for a system to function autonomously,",
+                "vi": "Bây giờ, để hệ thống có thể làm việc tự động,"
+            }
+        },
+        {
+            "content": "hàm số",
+            "type": "",
+            "example": {
+                "en": "I get some true sensory feedback as the function of time in the bottom row.",
+                "vi": "Tôi nhận được các phản hồi cảm giác thật sự như hàm số theo thời gian ở hàng dưới cùng"
+            }
+        },
+        {
+            "content": "thuộc cơ năng/chức năng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc hàm số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "|| phiếm hàm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết thực",
+            "type": "",
+            "example": {
+                "en": "It's beautiful and it's functional.",
+                "vi": "Nó đẹp và rất thiết thực"
+            }
+        }
+    ]
+}

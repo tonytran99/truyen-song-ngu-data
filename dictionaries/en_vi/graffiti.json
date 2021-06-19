@@ -1,0 +1,48 @@
+{
+    "word": "graffiti",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈfēdē/",
+            "/ɡrəˈfidi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈfiːti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "grafitô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghệ thuật grafitô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tranh phun sơn",
+            "type": "",
+            "example": {
+                "en": "Have you heard of hotel graffiti?",
+                "vi": "Anh đã nghe về tranh phun sơn ở khách sạn chưa?"
+            }
+        },
+        {
+            "content": "tranh phun sơn",
+            "type": "",
+            "example": {
+                "en": "Have you heard of hotel graffiti?",
+                "vi": "Anh đã nghe về tranh phun sơn ở khách sạn chưa?"
+            }
+        }
+    ]
+}

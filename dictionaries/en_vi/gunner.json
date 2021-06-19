@@ -1,0 +1,47 @@
+{
+    "word": "gunner",
+    "type": [
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡənər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo thủ",
+            "type": "noun",
+            "example": {
+                "en": "They're taking out our gunners, sir.",
+                "vi": "Chúng hạ sạch pháo thủ rồi, thưa chủ nhân!"
+            }
+        },
+        {
+            "content": "xạ thủ",
+            "type": "noun",
+            "example": {
+                "en": "After those initial days of combat, I was determined to become a helicopter door gunner.",
+                "vi": "Trải qua những ngày chiến đấu đầu tiên đó, tôi quyết định sẽ trở thành xạ thủ đại liên trên trực thăng."
+            }
+        },
+        {
+            "content": "xạ thủ súng máy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thượng sĩ phụ trách khẩu pháo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

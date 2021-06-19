@@ -1,0 +1,78 @@
+{
+    "word": "eczema",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɡzəmə/",
+            "/ˈɛɡzəmə/",
+            "/ˈeksəmə/",
+            "/ˈɛksəmə/",
+            "/iɡˈzēmə/",
+            "/ɪɡˈzimə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛksɪmə/",
+            "/ˈɛksmə/",
+            "/ˈɛgzɪmə/",
+            "/ˈɛgzmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chàm",
+            "type": "noun",
+            "example": {
+                "en": "A few tips on preventing dry , irritated skin and eczema :",
+                "vi": "Một số bí quyết giúp ngăn ngừa da khô , kích ứng và chàm :"
+            }
+        },
+        {
+            "content": "Eczêma chàm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh chàm",
+            "type": "noun",
+            "example": {
+                "en": "For eczema , avoid harsh soaps and keep skin moisturized .",
+                "vi": "Đối với bệnh chàm , tránh cho bé sử dụng các loại xà phòng có độ mạnh và nên giữ ẩm cho da ."
+            }
+        },
+        {
+            "content": "chàm bội nhiễm",
+            "type": "noun",
+            "example": {
+                "en": "There are traces of flaky skin where his fingers have come into contact with them, so he had eczema.",
+                "vi": "Có dấu vết của lớp da bong nơi ngón tay cậu ta tiếp xúc với chúng, nên cậu ta bị chàm bội nhiễm."
+            }
+        },
+        {
+            "content": "eczêma",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Viêm da",
+            "type": "",
+            "example": {
+                "en": "Rashes under the diaper can actually be eczema and not a diaper rash .",
+                "vi": "Rôm ở vùng tã lót có thể thực sự là chàm và không phải là viêm da do tã lót đâu ."
+            }
+        },
+        {
+            "content": "viêm da",
+            "type": "",
+            "example": {
+                "en": "Rashes under the diaper can actually be eczema and not a diaper rash .",
+                "vi": "Rôm ở vùng tã lót có thể thực sự là chàm và không phải là viêm da do tã lót đâu ."
+            }
+        }
+    ]
+}

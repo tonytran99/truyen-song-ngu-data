@@ -1,0 +1,60 @@
+{
+    "word": "urban",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərbən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːb(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở thành phố",
+            "type": "",
+            "example": {
+                "en": "The chicken is an urban myth.",
+                "vi": "Con gà đó là chuyện hoang đường ở thành phố."
+            }
+        },
+        {
+            "content": "thuộc",
+            "type": "verb",
+            "example": {
+                "en": "And the highest rates of depression were urban women in North America.",
+                "vi": "Tỉ lệ đau buồn nhiều nhất thuộc về nhóm phụ nữ thị thành ở Bắc Mỹ."
+            }
+        },
+        {
+            "content": "thành thị",
+            "type": "",
+            "example": {
+                "en": "This movement from rural to urban areas has been going on for over two hundred years.",
+                "vi": "Sự dịch chuyện từ nông thôn lên thành thị đã diễn ra suốt hơn hai trăm năm."
+            }
+        },
+        {
+            "content": "đô thị",
+            "type": "noun",
+            "example": {
+                "en": "More and more people are moving to urban areas.",
+                "vi": "Càng có nhiều người đang di chuyển đến các khu vực đô thị."
+            }
+        },
+        {
+            "content": "ở thành thị",
+            "type": "",
+            "example": {
+                "en": "I found that it is as much an urban phenomenon as well.",
+                "vi": "Tôi nhận ra rằng đây cũng là hiện tương phổ biến ở thành thị."
+            }
+        }
+    ]
+}

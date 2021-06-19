@@ -1,0 +1,42 @@
+{
+    "word": "incisor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsīzər/",
+            "/ɪnˈsaɪzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsʌɪzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "răng sữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Răng cửa",
+            "type": "",
+            "example": {
+                "en": "The second incisor is chipped, just like the ones in his mouth.",
+                "vi": "Răng cửa này bị mẻ giống hệt răng cửa của anh ta"
+            }
+        },
+        {
+            "content": "răng cửa",
+            "type": "noun",
+            "example": {
+                "en": "There appears to be something engraved on the inside of the patent's lower incisors.",
+                "vi": "Có vẻ như có cái gì đó khắc phía bên trong răng cửa hàm dưới."
+            }
+        }
+    ]
+}

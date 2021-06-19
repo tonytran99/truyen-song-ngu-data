@@ -1,0 +1,90 @@
+{
+    "word": "cite",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sīt/",
+            "/saɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuyên dương",
+            "type": "verb",
+            "example": {
+                "en": "Scores of similar examples could be cited.",
+                "vi": "Có rất nhiều tấm gương tương tự có thể được tuyên dương."
+            }
+        },
+        {
+            "content": "trích dẫn",
+            "type": "",
+            "example": {
+                "en": "I'm sweating, and I'm citing statutes left and right.",
+                "vi": "Vã mồ hôi, trích dẫn luật này đến luật khác."
+            }
+        },
+        {
+            "content": "dẫn",
+            "type": "",
+            "example": {
+                "en": "I'm sweating, and I'm citing statutes left and right.",
+                "vi": "Vã mồ hôi, trích dẫn luật này đến luật khác."
+            }
+        },
+        {
+            "content": "biểu dương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dẫn chứng",
+            "type": "verb",
+            "example": {
+                "en": "Look up the scriptures cited but not quoted.",
+                "vi": "Tra xem câu Kinh Thánh được dẫn chứng nhưng không trích dẫn."
+            }
+        },
+        {
+            "content": "ghi công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nêu gương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đòi ra toà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viện",
+            "type": "noun",
+            "example": {
+                "en": "She cites shifting social values as the main reason.",
+                "vi": "Bà viện dẫn lý do chính yếu là giá trị trong xã hội đã bị thay đổi."
+            }
+        },
+        {
+            "content": "viện dẫn",
+            "type": "",
+            "example": {
+                "en": "She cites shifting social values as the main reason.",
+                "vi": "Bà viện dẫn lý do chính yếu là giá trị trong xã hội đã bị thay đổi."
+            }
+        }
+    ]
+}

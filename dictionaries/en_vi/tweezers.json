@@ -1,0 +1,50 @@
+{
+    "word": "tweezers",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwēzərz/",
+            "/ˈtwizərz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwiːzəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhíp",
+            "type": "noun",
+            "example": {
+                "en": "The tweezers and the toothpick are missing, but it's got the knife part.",
+                "vi": "Mấy cái nhíp và tăm bị mất rồi, nhưng nó còn một lưỡi dao."
+            }
+        },
+        {
+            "content": "cái nhíp",
+            "type": "plural",
+            "example": {
+                "en": "The tweezers and the toothpick are missing, but it's got the knife part.",
+                "vi": "Mấy cái nhíp và tăm bị mất rồi, nhưng nó còn một lưỡi dao."
+            }
+        },
+        {
+            "content": "cái kẹp",
+            "type": "plural",
+            "example": {
+                "en": "I used a little tweezer which I made from a hair clip.",
+                "vi": "Tôi dùng một cái gắp nhỏ mà tôi đã chế tạo từ một cái kẹp tóc."
+            }
+        },
+        {
+            "content": "cái cặp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

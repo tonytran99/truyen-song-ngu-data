@@ -1,0 +1,44 @@
+{
+    "word": "culpable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəlpəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌlpəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tội",
+            "type": "adjective",
+            "example": {
+                "en": "Wealth, not culpability, shapes outcomes.",
+                "vi": "Chính sự giàu có, chứ không phải là có tội hay không có tội ảnh hưởng đến kết quả."
+            }
+        },
+        {
+            "content": "tội lỗi",
+            "type": "adjective",
+            "example": {
+                "en": "And, judging from your mood, one for which you inexplicably feel culpable.",
+                "vi": "Và, theo như em thấy từ tâm trạng của anh, Anh thấy tội lỗi vì chuyện ấy."
+            }
+        },
+        {
+            "content": "đáng khiển trách",
+            "type": "",
+            "example": {
+                "en": "Others are culpable, not you.",
+                "vi": "Người khác mới đáng khiển trách, không phải chị."
+            }
+        }
+    ]
+}

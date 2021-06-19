@@ -1,0 +1,47 @@
+{
+    "word": "underwear",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌwer/",
+            "/ˈəndərˌwɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndəwɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quần áo lót",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nội y",
+            "type": "noun",
+            "example": {
+                "en": "as the woman walking around TED in her underwear —",
+                "vi": "là người phụ nữ xuất hiện ở TED chỉ với nội y —"
+            }
+        },
+        {
+            "content": "quần áo trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo lót",
+            "type": "noun",
+            "example": {
+                "en": "If I gave her the right signal, she'd knock on my door without her underwear.",
+                "vi": "Chỉ cần đưa ra tín hiệu thích hợp thì cô ta có thể không cần mặc áo lót mà gõ cửa phòng của tôi."
+            }
+        }
+    ]
+}

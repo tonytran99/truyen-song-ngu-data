@@ -1,0 +1,50 @@
+{
+    "word": "embellishment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈbeliSHmənt/",
+            "/əmˈbɛlɪʃmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbɛlɪʃm(ə)nt/",
+            "/ɛmˈbɛlɪʃm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thêm thắt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự làm đẹp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự trang điểm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điều thêm thắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tô điểm",
+            "type": "",
+            "example": {
+                "en": "Introductory comments, appendixes, tables, and poems also embellish the work.",
+                "vi": "Lời giới thiệu mở đầu, phụ lục, các bảng và những bài thơ cũng tô điểm thêm cho bản dịch."
+            }
+        }
+    ]
+}

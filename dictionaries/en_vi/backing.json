@@ -1,0 +1,90 @@
+{
+    "word": "backing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakiNG/",
+            "/ˈbækɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự ủng hộ",
+            "type": "noun",
+            "example": {
+                "en": "I didn't have the money and I didn't have the leadership's backing.",
+                "vi": "Tôi không có tiền, không có sự ủng hộ của Ban lãnh đạo."
+            }
+        },
+        {
+            "content": "hậu thuẫn",
+            "type": "noun",
+            "example": {
+                "en": "When Tywin's gone, who do you back?",
+                "vi": "Khi Tywin chết, các vị sẽ hậu thuẫn ai?"
+            }
+        },
+        {
+            "content": "những người ủng hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bồi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chạy lùi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "With that help I was able to continue fighting and get myself back on the trail.",
+                "vi": "Với sự giúp đỡ đó, tôi đã có thể phấn đấu để trèo lại lên con đường mòn."
+            }
+        },
+        {
+            "content": "sự giật lùi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hậu thuẫn",
+            "type": "noun",
+            "example": {
+                "en": "Only a government with divine backing could have the benign authority about which Ruskin spoke.",
+                "vi": "Chỉ một chính phủ có sự hậu thuẫn của Đức Chúa Trời mới tốt lành và có quyền lực mà Ruskin nói đến."
+            }
+        },
+        {
+            "content": "sự lui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trở chiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đóng gáy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

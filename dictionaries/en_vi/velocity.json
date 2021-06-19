@@ -1,0 +1,47 @@
+{
+    "word": "velocity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈläsədē/",
+            "/vəˈlɑsədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɪˈlɒsɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vận tốc",
+            "type": "noun",
+            "example": {
+                "en": "I can pull river maps and velocities from flood monitoring stations.",
+                "vi": "Em có thể lấy bản đồ sông và vận tốc dòng chảy từ trạm giám sát."
+            }
+        },
+        {
+            "content": "tốc độ",
+            "type": "noun",
+            "example": {
+                "en": "Pace his killings certainly indicates a velocity of change.",
+                "vi": "Tốc độ giết người của hắn chắc chắn cho thấy một tốc độ thay đổi."
+            }
+        },
+        {
+            "content": "tốc lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "速度",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

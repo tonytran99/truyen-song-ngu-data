@@ -1,0 +1,54 @@
+{
+    "word": "geyser",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡīzər/",
+            "/ˈɡaɪzər/",
+            "/ˈɡēzər/",
+            "/ˈɡizər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiːzə/",
+            "/ˈɡʌɪzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạch nước phun",
+            "type": "noun",
+            "example": {
+                "en": "And somehow, through some dynamic effect, we're having these geysers which are being, you know, emitted from it.",
+                "vi": "Và bằng cách nào đó, dưới một số tác động, các mạch nước phun ra từ đó."
+            }
+        },
+        {
+            "content": "thùng đun nước nóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suối nước nóng",
+            "type": "",
+            "example": {
+                "en": "There are no geysers in the Amazon, unless I am wrong.",
+                "vi": "Chẳng có suối nước nóng nào ở Amazon cả, trừ khi tôi sai."
+            }
+        },
+        {
+            "content": "Mạch nước phun",
+            "type": "",
+            "example": {
+                "en": "We are seeing geysers of ice which are coming out of that planet,",
+                "vi": "Chúng tôi đã thấy các mạch nước phun băng từ hành tinh đó,"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "foe",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fō/",
+            "/foʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ thù",
+            "type": "noun",
+            "example": {
+                "en": "Why do you treat him as your foe?",
+                "vi": "Tại sao ngài lại đối xử với ông ta như kẻ thù vậy? Đủ rồi!"
+            }
+        },
+        {
+            "content": "kẻ địch",
+            "type": "noun",
+            "example": {
+                "en": "You face the most feared of all foes, the ultimate killing machine.",
+                "vi": "Các anh sẽ đối mặt với kẻ địch đáng sợ nhất, cỗ máy giết người tối thượng."
+            }
+        },
+        {
+            "content": "oan gia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thì giờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật nguy hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địch",
+            "type": "noun",
+            "example": {
+                "en": "You face the most feared of all foes, the ultimate killing machine.",
+                "vi": "Các anh sẽ đối mặt với kẻ địch đáng sợ nhất, cỗ máy giết người tối thượng."
+            }
+        }
+    ]
+}

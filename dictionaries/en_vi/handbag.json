@@ -1,0 +1,45 @@
+{
+    "word": "handbag",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ˌbaɡ/",
+            "/ˈhæn(d)ˌbæɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)baɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị cầm tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túi xách tay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "túi xách",
+            "type": "noun",
+            "example": {
+                "en": "I found it in the handbag of the girl who died in my ward.",
+                "vi": "Cháu thấy nó trong túi xách của cô gái chết ở phòng mổ của con."
+            }
+        },
+        {
+            "content": "ví xách tay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

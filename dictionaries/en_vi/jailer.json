@@ -1,0 +1,52 @@
+{
+    "word": "jailer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjālər/",
+            "/ˈdʒeɪlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒeɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cai ngục",
+            "type": "noun",
+            "example": {
+                "en": "In the process, they may well have been mistreated by the jailer also.",
+                "vi": "Trong thời gian ấy, rất có thể người cai ngục cũng ngược đãi họ."
+            }
+        },
+        {
+            "content": "cai tù",
+            "type": "",
+            "example": {
+                "en": "He empathetically sensed that the jailer might commit suicide.",
+                "vi": "Tính đồng cảm cho ông biết người cai tù có thể tự tử."
+            }
+        },
+        {
+            "content": "giám ngục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngục lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngục thất",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

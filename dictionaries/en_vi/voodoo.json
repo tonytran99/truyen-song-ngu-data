@@ -1,0 +1,65 @@
+{
+    "word": "voodoo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvo͞oˌdo͞o/",
+            "/ˈvuˌdu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvuːduː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự dùng tà thuật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ bùa mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người giỏi tà thuật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tin tà thuật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thầy chài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thầy mo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tà thuật",
+            "type": "noun",
+            "example": {
+                "en": "Like some sort of terrible African voodoo doll.",
+                "vi": "Hệt như một kiểu búp bê tà thuật Châu Phi."
+            }
+        }
+    ]
+}

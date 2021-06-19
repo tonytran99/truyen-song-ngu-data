@@ -1,0 +1,36 @@
+{
+    "word": "economically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekəˈnämik(ə)lē/",
+            "/ˌɛkəˈnɑmɪk(ə)li/",
+            "/ˌēkəˈnämik(ə)lē/",
+            "/ˌikəˈnɑmɪk(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːkəˈnɒmɪkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về mặt kinh tế",
+            "type": "adverb",
+            "example": {
+                "en": "“Life is hard for the family economically,” he says.",
+                "vi": "Anh nói: “Đời sống khó khăn cho gia đình về mặt kinh tế."
+            }
+        },
+        {
+            "content": "một cách kinh tế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

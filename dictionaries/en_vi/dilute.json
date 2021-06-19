@@ -1,0 +1,104 @@
+{
+    "word": "dilute",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈlo͞ot/",
+            "/daɪˈlut/",
+            "/dəˈlo͞ot/",
+            "/dəˈlut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈl(j)uːt/",
+            "/dɪˈl(j)uːt/",
+            "/ˈdʌɪl(j)uːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pha loãng",
+            "type": "",
+            "example": {
+                "en": "Because you may need to dilute it to award shares to new investors.",
+                "vi": "Bởi vì phải pha loãng cổ phiếu để nhường cho các cổ đông mới."
+            }
+        },
+        {
+            "content": "loãng",
+            "type": "adjective",
+            "example": {
+                "en": "It hasn't been diluted by a hundred generations of selective mutation.",
+                "vi": "Nó ko bị loãng đi bởi sự sản sinh ra hàng trăm thế hệ."
+            }
+        },
+        {
+            "content": "phai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giảm bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm loãng",
+            "type": "",
+            "example": {
+                "en": "This fluid is vital for fighting infection, diluting poisons, and removing damaged tissue.",
+                "vi": "Dịch này rất quan trọng cho việc chống nhiễm trùng, làm loãng độc tố và loại bỏ các tế bào hư hại."
+            }
+        },
+        {
+            "content": "làm mất chất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhạt đi",
+            "type": "",
+            "example": {
+                "en": "symphony orchestras are diluting their programs,",
+                "vi": "các dàn nhạc giao hưởng đang làm nhạt đi chương trình của họ,"
+            }
+        },
+        {
+            "content": "làm phai màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mất chất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhạt đi",
+            "type": "adjective",
+            "example": {
+                "en": "symphony orchestras are diluting their programs,",
+                "vi": "các dàn nhạc giao hưởng đang làm nhạt đi chương trình của họ,"
+            }
+        },
+        {
+            "content": "pha thêm nước",
+            "type": "",
+            "example": {
+                "en": "Ah, stuff's so diluted, I mean, I doubt there's even any cleaning product left.",
+                "vi": "À, mấy thứ này pha thêm nước, tôi không nhớ có cái nào còn nguyên chất không."
+            }
+        }
+    ]
+}

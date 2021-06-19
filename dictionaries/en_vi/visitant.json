@@ -1,0 +1,59 @@
+{
+    "word": "visitant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvizədənt/",
+            "/ˈvɪzədənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪzɪt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "I recall listening to a lecture given by a visiting elder when I was seven years old.",
+                "vi": "Tôi nhớ lại lần nghe bài diễn văn của một diễn giả khách năm tôi lên bảy."
+            }
+        },
+        {
+            "content": "chim di trú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đến thăm",
+            "type": "",
+            "example": {
+                "en": "The weekend you guys visited me at school.",
+                "vi": "Những ngày cuối tuần hai người đến thăm bọn anh ở trường."
+            }
+        },
+        {
+            "content": "thăm viếng",
+            "type": "",
+            "example": {
+                "en": "Dedicated visiting teachers visit and care for one another.",
+                "vi": "Các giảng viên thăm viếng đầy lòng tận tụy đi thăm viếng và chăm sóc cho nhau."
+            }
+        },
+        {
+            "content": "đến thăm",
+            "type": "",
+            "example": {
+                "en": "Please come visit us more often.",
+                "vi": "Hãy đến thăm chúng tôi thường xuyên hơn nhé."
+            }
+        }
+    ]
+}

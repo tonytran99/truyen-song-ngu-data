@@ -1,0 +1,38 @@
+{
+    "word": "videotape",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvidēōˌtāp/",
+            "/ˈvɪdioʊˌteɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪdɪə(ʊ)teɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băng hình",
+            "type": "",
+            "example": {
+                "en": "You're gonna have to excuse the quality of the videotape.",
+                "vi": "Thứ lỗi cho tôi về chất lượng của băng hình này."
+            }
+        },
+        {
+            "content": "ghi hình",
+            "type": "",
+            "example": {
+                "en": "We videotape everybody that comes in and out of these things.",
+                "vi": "Chúng tôi ghi hình lại tất cả những người ra vào nơi này."
+            }
+        }
+    ]
+}

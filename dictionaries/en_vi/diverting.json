@@ -1,0 +1,53 @@
+{
+    "word": "diverting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvərdiNG/",
+            "/dəˈvərdɪŋ/",
+            "/dīˈvərdiNG/",
+            "/daɪˈvərdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvəːtɪŋ/",
+            "/dʌɪˈvəːtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay",
+            "type": "conjunction verb adjective",
+            "example": {}
+        },
+        {
+            "content": "thú vị",
+            "type": "adjective",
+            "example": {
+                "en": "It's not as diverting as it used to be.",
+                "vi": "Nó không còn thú vị như xưa."
+            }
+        },
+        {
+            "content": "tiêu khiển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vui",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

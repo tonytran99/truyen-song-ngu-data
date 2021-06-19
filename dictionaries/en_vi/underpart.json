@@ -1,0 +1,35 @@
+{
+    "word": "underpart",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌpärt/",
+            "/ˈəndərˌpɑrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndəpɑːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phần dưới",
+            "type": "",
+            "example": {
+                "en": "the underpart of the slide would be an electromagnet.",
+                "vi": "phần dưới của cầu trượt là nam châm điện."
+            }
+        },
+        {
+            "content": "vai phụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

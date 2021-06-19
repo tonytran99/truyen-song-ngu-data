@@ -1,0 +1,50 @@
+{
+    "word": "drinker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdriNGkər/",
+            "/ˈdrɪŋkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrɪŋkə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ nghiện rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hay uống",
+            "type": "",
+            "example": {
+                "en": "Usually, an immoderate drinker gradually builds up a tolerance to alcohol.",
+                "vi": "Thường thì một người hay uống rượu quá độ sẽ dần dần uống được nhiều rượu hơn."
+            }
+        },
+        {
+            "content": "người nghiện rượu",
+            "type": "",
+            "example": {
+                "en": "IAN’s father was a heavy drinker.",
+                "vi": "Cha của anh Ian là người nghiện rượu."
+            }
+        },
+        {
+            "content": "người uống",
+            "type": "",
+            "example": {
+                "en": "Those vessels strained the beer, preventing drinkers from swallowing husks of the barley from which it was brewed.",
+                "vi": "Những hũ này lọc bia để người uống không nuốt phải vỏ lúa mạch."
+            }
+        }
+    ]
+}

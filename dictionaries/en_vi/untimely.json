@@ -1,0 +1,48 @@
+{
+    "word": "untimely",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈtīmlē/",
+            "/ˌənˈtaɪmli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtʌɪmli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sớm",
+            "type": "adjective",
+            "example": {
+                "en": "The foolish may also bring upon themselves hardship, shame, disease, and even untimely death.",
+                "vi": "Họ cũng tự chuốc lấy những khó khăn, hổ thẹn, bệnh tật và ngay cả chết sớm."
+            }
+        },
+        {
+            "content": "không hợp thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không phi mùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đúng lúc",
+            "type": "",
+            "example": {
+                "en": "(Proverbs 15:23) If we conclude that the thought is negative or untimely, let us make a conscientious effort to dismiss it.",
+                "vi": "(Châm-ngôn 15:23) Nếu nhận thấy suy nghĩ của mình tiêu cực hoặc không đúng lúc, chúng ta cần phải cố gắng loại bỏ nó."
+            }
+        }
+    ]
+}

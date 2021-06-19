@@ -1,0 +1,71 @@
+{
+    "word": "gangrene",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaNGɡrēn/",
+            "/ˈɡæŋɡrin/",
+            "/ɡaNGˈɡrēn/",
+            "/ɡæŋˈɡrin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaŋɡriːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh thối hoại",
+            "type": "noun",
+            "example": {
+                "en": "If blood flow to a leg is interrupted, gangrene may follow.",
+                "vi": "Nếu máu chảy tới một chân bị gián đoạn thì có thể tiếp theo là bệnh thối hoại."
+            }
+        },
+        {
+            "content": "hoại thư",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mắc bệnh thối hoại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng hoại thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng hoại tử",
+            "type": "noun",
+            "example": {
+                "en": "Sergeant, gangrene is eating my leg away, not my eyes.",
+                "vi": "Trung sĩ, chứng hoại tử ăn mất chân tôi, chứ không phải mắt tôi."
+            }
+        },
+        {
+            "content": "Hoại tử",
+            "type": "",
+            "example": {
+                "en": "Sergeant, gangrene is eating my leg away, not my eyes.",
+                "vi": "Trung sĩ, chứng hoại tử ăn mất chân tôi, chứ không phải mắt tôi."
+            }
+        },
+        {
+            "content": "hoại tử",
+            "type": "",
+            "example": {
+                "en": "Sergeant, gangrene is eating my leg away, not my eyes.",
+                "vi": "Trung sĩ, chứng hoại tử ăn mất chân tôi, chứ không phải mắt tôi."
+            }
+        }
+    ]
+}

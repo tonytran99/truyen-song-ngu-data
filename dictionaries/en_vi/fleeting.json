@@ -1,0 +1,46 @@
+{
+    "word": "fleeting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflēdiNG/",
+            "/ˈflidɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfliːtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lướt nhanh",
+            "type": "",
+            "example": {
+                "en": "My brothers and sisters, time with your children is fleeting.",
+                "vi": "Thưa các anh chị em, thời gian với con cái mình đang lướt nhanh."
+            }
+        },
+        {
+            "content": "phù du",
+            "type": "",
+            "example": {
+                "en": "Human lives are fleeting, they're nothing.",
+                "vi": "Thọ mệnh con người chỉ như giấc mộng phù du."
+            }
+        },
+        {
+            "content": "thoáng qua",
+            "type": "",
+            "example": {
+                "en": "A dream, a breath, a froth of fleeting joy.",
+                "vi": "Một giấc mơ, một hơi thở, một niềm vui thoáng qua."
+            }
+        }
+    ]
+}

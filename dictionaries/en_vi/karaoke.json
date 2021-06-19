@@ -1,0 +1,48 @@
+{
+    "word": "karaoke",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkerēˈōkē/",
+            "/ˌkɛriˈoʊki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkarɪˈəʊki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "karaoke",
+            "type": "noun",
+            "example": {
+                "en": "Having found a suitable human host, an ambitious Cuba Libre sang a beautiful ballad at the karaoke bar.",
+                "vi": "Tìm thấy một người chủ thích hợp, cốc rượu mạnh Cuba Libre hát một bản ballad tuyệt vời tại quầy karaoke."
+            }
+        },
+        {
+            "content": "caraôkê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Karaoke",
+            "type": "",
+            "example": {
+                "en": "Having found a suitable human host, an ambitious Cuba Libre sang a beautiful ballad at the karaoke bar.",
+                "vi": "Tìm thấy một người chủ thích hợp, cốc rượu mạnh Cuba Libre hát một bản ballad tuyệt vời tại quầy karaoke."
+            }
+        },
+        {
+            "content": "tiếng Myanma",
+            "type": "s s",
+            "example": {}
+        }
+    ]
+}

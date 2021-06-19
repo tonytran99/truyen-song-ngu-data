@@ -1,0 +1,60 @@
+{
+    "word": "humid",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)yo͞oməd/",
+            "/ˈ(h)juməd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhjuːmɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ẩm",
+            "type": "adjective",
+            "example": {
+                "en": "Later that day , we braved the hot , humid city .",
+                "vi": "Sau đó , chúng tôi bất chấp cái nóng nực và ẩm ướt này của thành phố ."
+            }
+        },
+        {
+            "content": "ẩm ướt",
+            "type": "adjective",
+            "example": {
+                "en": "Later that day , we braved the hot , humid city .",
+                "vi": "Sau đó , chúng tôi bất chấp cái nóng nực và ẩm ướt này của thành phố ."
+            }
+        },
+        {
+            "content": "nồm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩm sì",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ẩm thấp",
+            "type": "adjective",
+            "example": {
+                "en": "And it turns out the Mars atmosphere is often 100 percent humid.",
+                "vi": "Và hóa ra là bầu khí quyển sao Hỏa thường là 100% ẩm thấp."
+            }
+        },
+        {
+            "content": "ấm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

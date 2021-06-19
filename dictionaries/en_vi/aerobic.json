@@ -1,0 +1,51 @@
+{
+    "word": "aerobic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrōbik/",
+            "/əˈroʊbɪk/",
+            "/eˈrōbik/",
+            "/ɛˈroʊbɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛːˈrəʊbɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiếu khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "háo khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu không khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể dục nhịp điệu",
+            "type": "noun",
+            "example": {
+                "en": "Shine a flashlight on the wall or wave a string while you do the aerobics .",
+                "vi": "Bạn hãy rọi đèn pin lên bức tường hoặc lắc sợi dây trong khi tập thể dục nhịp điệu ."
+            }
+        },
+        {
+            "content": "đói không khí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

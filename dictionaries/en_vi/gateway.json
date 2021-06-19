@@ -1,0 +1,55 @@
+{
+    "word": "gateway",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡātˌwā/",
+            "/ˈɡeɪtˌweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡeɪtweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cổng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nối kết dị mạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cổng giao tiếp - Gateway",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cổng nối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cổng ra vào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cửa ngõ",
+            "type": "noun",
+            "example": {
+                "en": "This could be the gateway to extraordinary things.",
+                "vi": "Có thể đây là cửa ngõ đến với những điều phi thường."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "diagonal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈaɡənl/",
+            "/daɪˈæɡənl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈaɡ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chéo",
+            "type": "adjective",
+            "example": {
+                "en": "It's not folded, that's a photograph and it's cut on the diagonal.",
+                "vi": "Nó không gấp lại được, nó là một tấm ảnh Và nó bị cắt theo đường chéo"
+            }
+        },
+        {
+            "content": "đường chéo",
+            "type": "noun",
+            "example": {
+                "en": "It's not folded, that's a photograph and it's cut on the diagonal.",
+                "vi": "Nó không gấp lại được, nó là một tấm ảnh Và nó bị cắt theo đường chéo"
+            }
+        },
+        {
+            "content": "vải chéo go",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

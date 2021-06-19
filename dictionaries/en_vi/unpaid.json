@@ -1,0 +1,59 @@
+{
+    "word": "unpaid",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈpād/",
+            "/ˌənˈpeɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈpeɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không dán tem",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thanh toán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trả bưu phí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trả công",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trả lương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa thanh toán",
+            "type": "",
+            "example": {
+                "en": "A couple of unpaid parking tickets, but that's about it.",
+                "vi": "chưa thanh toán vài giấy phạt đậu xe bất hợp pháp, chỉ vậy thôi."
+            }
+        }
+    ]
+}

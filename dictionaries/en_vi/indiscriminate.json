@@ -1,0 +1,42 @@
+{
+    "word": "indiscriminate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌindəˈskrimənət/",
+            "/ˌɪndəˈskrɪmənət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪndɪˈskrɪmɪnət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quàng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bừa bãi",
+            "type": "adjective",
+            "example": {
+                "en": "For instance, consider the indiscriminate sowing of land mines.",
+                "vi": "Thí dụ, hãy liên tưởng đến các vụ đặt mìn bừa bãi."
+            }
+        },
+        {
+            "content": "không phân biệt",
+            "type": "adjective",
+            "example": {
+                "en": "Natural disasters, on the other hand, strike with little or no warning, and they kill and maim indiscriminately.",
+                "vi": "Trái lại, thiên tai thường đến bất thình lình, gây chết chóc và thương tật cho tất cả mọi người, không phân biệt một ai."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "countess",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)əs/",
+            "/ˈkaʊn(t)əs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bá tước phu nhân",
+            "type": "noun",
+            "example": {
+                "en": "She is the Countess.",
+                "vi": "Bá tước phu nhân là cô ấy."
+            }
+        },
+        {
+            "content": "nữ bá tước",
+            "type": "",
+            "example": {
+                "en": "The father of the countess Isabella was a pious and righteous man",
+                "vi": "Ba của nữ bá tước Isabella, là một người đàng hoàng và công bằng."
+            }
+        },
+        {
+            "content": "vợ bá tước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

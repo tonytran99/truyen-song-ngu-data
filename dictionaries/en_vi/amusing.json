@@ -1,0 +1,59 @@
+{
+    "word": "amusing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmyo͞oziNG/",
+            "/əˈmjuzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmjuːzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vui",
+            "type": "adjective",
+            "example": {
+                "en": "You're willing to ruin a whole life for the sake of your own amusement.",
+                "vi": "Anh sẽ phá nát cả một cuộc đời để phục vụ cho thú vui của anh."
+            }
+        },
+        {
+            "content": "giải trí",
+            "type": "",
+            "example": {
+                "en": "It happened on an island, in an amusement park.",
+                "vi": "Chuyện xảy ra trên đảo của một công viên giải trí."
+            }
+        },
+        {
+            "content": "làm cho buồn cười",
+            "type": "adjective",
+            "example": {
+                "en": "I am uncertain as to why someone falling into freezing water is amusing.",
+                "vi": "Bác sĩ, tôi phải thú nhận rằng, tôi không rõ là tại sao ai đó rơi xuống nước đóng băng lại làm cho buồn cười."
+            }
+        },
+        {
+            "content": "tiêu khiển",
+            "type": "",
+            "example": {
+                "en": "Do you really think I tell that story for my own amusement?",
+                "vi": "Anh thật sự nghĩ rằng tôi kể câu chuyện đó để tiêu khiển sao?"
+            }
+        },
+        {
+            "content": "điều lý thú",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "uninjured",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈinjərd/",
+            "/ˌənˈɪndʒərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈɪndʒəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "còn nguyên vẹn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bị hư hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bị thiệt hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bị thương",
+            "type": "",
+            "example": {
+                "en": "It was uninjured, but it was frightened and unable to climb back.",
+                "vi": "Nó không bị thương gì, nhưng rất hoảng sợ và không thể tự leo lên được."
+            }
+        },
+        {
+            "content": "không bị xúc phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lành lặn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

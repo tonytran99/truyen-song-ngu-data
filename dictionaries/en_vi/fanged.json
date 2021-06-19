@@ -1,0 +1,40 @@
+{
+    "word": "fanged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faNGd/",
+            "/fæŋd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaŋd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chân răng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có răng nanh",
+            "type": "",
+            "example": {
+                "en": "No, they don't have Any fangs or anything like that.",
+                "vi": "Không, chúng không có răng nanh hay mấy thứ như thế."
+            }
+        },
+        {
+            "content": "có răng nọc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

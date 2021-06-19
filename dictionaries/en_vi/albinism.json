@@ -1,0 +1,42 @@
+{
+    "word": "albinism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalbəˌnizəm/",
+            "/ˈælbəˌnɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalbɪnɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạch tạng",
+            "type": "noun",
+            "example": {
+                "en": "my parents found out I had a condition called ocular albinism.",
+                "vi": "bố mẹ tôi phát hiện ra rằng tôi mắc một chứng bệnh gọi là mắt bạch tạng."
+            }
+        },
+        {
+            "content": "chứng bạch tạng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Bạch tạng",
+            "type": "",
+            "example": {
+                "en": "my parents found out I had a condition called ocular albinism.",
+                "vi": "bố mẹ tôi phát hiện ra rằng tôi mắc một chứng bệnh gọi là mắt bạch tạng."
+            }
+        }
+    ]
+}

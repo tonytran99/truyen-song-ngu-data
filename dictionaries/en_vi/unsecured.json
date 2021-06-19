@@ -1,0 +1,44 @@
+{
+    "word": "unsecured",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənsəˈkyo͝ord/",
+            "/ˌənsəˈkjʊrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnsɪˈkjʊəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không bo hiểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bo đm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chắc chắn",
+            "type": "",
+            "example": {
+                "en": "Let me just say that every unsecured transaction",
+                "vi": "Tôi có thể nói rằng mỗi cuộc giao dịch không chắc chắn"
+            }
+        },
+        {
+            "content": "không đóng chặt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

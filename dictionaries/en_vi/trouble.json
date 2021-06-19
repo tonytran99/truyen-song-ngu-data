@@ -1,0 +1,328 @@
+{
+    "word": "trouble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrʌb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh",
+            "type": "noun",
+            "example": {
+                "en": "Others will be troubled by sickness or feelings of personal inadequacy.",
+                "vi": "Những người khác có thể bị bệnh hoặc cảm thấy mình không đủ khả năng."
+            }
+        },
+        {
+            "content": "làm phiền",
+            "type": "",
+            "example": {
+                "en": "Uh, I'm sorry to trouble you, but my car's just broken down.",
+                "vi": "Tôi xin lỗi đã làm phiền cô, nhưng chiếc xe của tôi vừa bị hư."
+            }
+        },
+        {
+            "content": "phiền",
+            "type": "",
+            "example": {
+                "en": "Beset means to surround or press in on all sides, to trouble, or to harass.",
+                "vi": "Quấy nhiễu có nghĩa là bao vây hoặc thúc ép mọi phía, gây phiền hà, hay quấy rầy."
+            }
+        },
+        {
+            "content": "chuyện",
+            "type": "noun",
+            "example": {
+                "en": "This guy's neighbors will have no trouble believing it.",
+                "vi": "Hàng xóm tên này sẽ tin chuyện đó."
+            }
+        },
+        {
+            "content": "nhiễu",
+            "type": "verb",
+            "example": {
+                "en": "Beset means to surround or press in on all sides, to trouble, or to harass.",
+                "vi": "Quấy nhiễu có nghĩa là bao vây hoặc thúc ép mọi phía, gây phiền hà, hay quấy rầy."
+            }
+        },
+        {
+            "content": "ngầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạo lực",
+            "type": "",
+            "example": {
+                "en": "He's violent and he's troubled, but he must be capable of some degree of mercy and compassion.",
+                "vi": "Hắn bạo lực và hắn gặp rắc rối, nhưng hắn phải có khả năng từ bi và thương hại."
+            }
+        },
+        {
+            "content": "dằn vặt",
+            "type": "noun",
+            "example": {
+                "en": "A few years later, he made an error in judgment and his conscience started to trouble him.",
+                "vi": "Vài năm sau, ông phạm một sai lầm và lương tâm ông bị dằn vặt."
+            }
+        },
+        {
+            "content": "khó khăn",
+            "type": "noun",
+            "example": {
+                "en": "I had all the money stolen and was in trouble.",
+                "vi": "Tôi đã bị trộm hết tiền và gặp khó khăn."
+            }
+        },
+        {
+            "content": "nổi loạn",
+            "type": "noun",
+            "example": {
+                "en": "I knew these rogues would be trouble.",
+                "vi": "Tôi biết những điệp viên nổi loạn sẽ gặp rắc rối."
+            }
+        },
+        {
+            "content": "phiền toái",
+            "type": "noun",
+            "example": {
+                "en": "You're in as much trouble as he is, you understand?",
+                "vi": "Mày cũng phiền toái chẳng kém gì nó, hiểu chưa?"
+            }
+        },
+        {
+            "content": "rắc rối",
+            "type": "noun",
+            "example": {
+                "en": "I'm sorry to have caused you so much trouble.",
+                "vi": "Tôi xin lỗi vì đã gây ra nhiều rắc rối cho bạn."
+            }
+        },
+        {
+            "content": "điều rắc rối",
+            "type": "noun",
+            "example": {
+                "en": "The trouble is, I never meet anyone like him.",
+                "vi": "Có một điều rắc rối là tôi không bao giờ gặp lại một người như anh ta nữa."
+            }
+        },
+        {
+            "content": "nhũng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "băn khoăn",
+            "type": "",
+            "example": {
+                "en": "I confess, it troubled me at the time.",
+                "vi": "Tôi thú nhận rằng ý nghĩ đó làm tôi băn khoăn vào lúc ấy."
+            }
+        },
+        {
+            "content": "bận tâm",
+            "type": "",
+            "example": {
+                "en": "No need to go to the trouble of getting some sort of official pardon.",
+                "vi": "Giờ ta không cần bận tâm chuyện xin ân xá cho cậu."
+            }
+        },
+        {
+            "content": "lo lắng",
+            "type": "",
+            "example": {
+                "en": "Does it not, trouble you, to serve her?",
+                "vi": "Anh không thấy lo lắng khi phụng mệnh bà ta ư?"
+            }
+        },
+        {
+            "content": "lo nghĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loạn lạc",
+            "type": "adjective",
+            "example": {
+                "en": "Within it are malice and trouble.",
+                "vi": "Bên trong thành tràn ngập độc ác và loạn lạc."
+            }
+        },
+        {
+            "content": "làm băn khoăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho khổ sở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho lo lắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho đau đớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phiền muộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiễu nhương",
+            "type": "adjective, noun",
+            "example": {
+                "en": "May our Heavenly Father continue to bless you as you prepare to serve Him in this troubled world.",
+                "vi": "Cầu xin Ngài tiếp tục ban phước cho các em trong khi các em chuẩn bị phục vụ Chúa trong thế giới nhiễu nhương này."
+            }
+        },
+        {
+            "content": "phiền lụy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quấy rầy",
+            "type": "verb",
+            "example": {
+                "en": "Why do you lay these troubles on an already troubled mind?",
+                "vi": "Tại sao các người lại quấy rầy một con người không còn tỉnh?"
+            }
+        },
+        {
+            "content": "sự chịu khó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cố gắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khó nhọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm phiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự quấy rầy",
+            "type": "",
+            "example": {
+                "en": "I'm sorry for all the trouble.",
+                "vi": "Tôi xin lỗi vì mọi sự quấy rầy."
+            }
+        },
+        {
+            "content": "sự rắc rối",
+            "type": "",
+            "example": {
+                "en": "of working age is in real trouble. And things are going to get worse,",
+                "vi": "trong độ tuổi lao động thì thật sự rắc rối. Và mọi thứ sẽ trở nên tồi tệ,"
+            }
+        },
+        {
+            "content": "trạng thái khó ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng bất an",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng mắc bệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng rắc rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng rối loạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều lo lắng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điều phiền hà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều phiền muộn",
+            "type": "noun",
+            "example": {
+                "en": "Think about your own troubles.",
+                "vi": "Hãy suy nghĩ đến những điều phiền muộn của chính mình."
+            }
+        },
+        {
+            "content": "ốm",
+            "type": "adjective",
+            "example": {
+                "en": "He evidently had some kind of stomach trouble and experienced “frequent cases of sickness.”",
+                "vi": "Ông đã có vấn đề về bao tử và “hay đau ốm”."
+            }
+        },
+        {
+            "content": "cố gắng",
+            "type": "verb",
+            "example": {
+                "en": "Keep it as free from trouble as you can.",
+                "vi": "Hãy cố gắng hết sức để giữ cho cuộc sống của mình khỏi rắc rối."
+            }
+        },
+        {
+            "content": "vấn đề",
+            "type": "noun",
+            "example": {
+                "en": "I'm always running into trouble with money.",
+                "vi": "Tôi luôn gặp vấn đề về tiền bạc."
+            }
+        }
+    ]
+}

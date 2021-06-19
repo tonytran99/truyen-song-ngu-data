@@ -1,0 +1,46 @@
+{
+    "word": "wavelength",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwāvˌleNG(k)TH/",
+            "/ˈweɪvˌlɛŋ(k)θ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪvlɛŋ(k)θ/",
+            "/ˈweɪvlɛn(t)θ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bước sóng",
+            "type": "noun",
+            "example": {
+                "en": "Different wavelengths of light have different activities of doing that.",
+                "vi": "Các bước sóng khác nhau của ánh sáng có các hoạt động khác nhau."
+            }
+        },
+        {
+            "content": "Bước sóng",
+            "type": "",
+            "example": {
+                "en": "Different wavelengths of light have different activities of doing that.",
+                "vi": "Các bước sóng khác nhau của ánh sáng có các hoạt động khác nhau."
+            }
+        },
+        {
+            "content": "chiều dài bước sóng",
+            "type": "noun",
+            "example": {
+                "en": "only about one wavelength of light long,",
+                "vi": "chỉ dài khoảng 1 chiều dài bước sóng ánh sáng."
+            }
+        }
+    ]
+}

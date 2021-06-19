@@ -1,0 +1,56 @@
+{
+    "word": "handwriting",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ˌrīdiNG/",
+            "/ˈhæn(d)ˌraɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhandrʌɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ viết tay",
+            "type": "noun",
+            "example": {
+                "en": "That guy could sell that list I gave him as a sample of my handwriting.",
+                "vi": "Gã đó có thể bán cái danh sách như một bản mẫu chữ viết tay của anh."
+            }
+        },
+        {
+            "content": "dạng chữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nét chữ",
+            "type": "",
+            "example": {
+                "en": "You realize what would happen if I hand in my homework in your handwriting?",
+                "vi": "Có nhận ra nếu tao nộp bài của mình với nét chữ của mày thì thế nào không?"
+            }
+        },
+        {
+            "content": "tự dạng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chữ viết",
+            "type": "noun",
+            "example": {
+                "en": "According to some scholars, the image expressed is that of erasing handwriting.",
+                "vi": "Theo một số học giả, hình ảnh được diễn tả ở đây là việc xóa chữ viết."
+            }
+        }
+    ]
+}

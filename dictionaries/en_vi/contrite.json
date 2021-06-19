@@ -1,0 +1,49 @@
+{
+    "word": "contrite",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtrīt/",
+            "/kənˈtraɪt/",
+            "/ˈkäntrīt/",
+            "/ˈkɑntraɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtrʌɪt/",
+            "/ˈkɒntrʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hối hận",
+            "type": "",
+            "example": {
+                "en": "Still, to be able to die with no special contrition, not having been slaughtered, or enslaved.",
+                "vi": "Vẫn vậy, để có thể chết mà không hối hận không chém giết, hay nô lệ."
+            }
+        },
+        {
+            "content": "hối lỗi",
+            "type": "",
+            "example": {
+                "en": "Would you like to hear my contrite reply?",
+                "vi": "Ông có muốn nghe lời hối lỗi của tôi không?"
+            }
+        },
+        {
+            "content": "ăn năn",
+            "type": "",
+            "example": {
+                "en": "Your father demands contrition from everyone except himself.",
+                "vi": "Cha con muốn mọi người đều phải ăn năn trừ bản thân ông ấy."
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "word": "wine",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wīn/",
+            "/waɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rượu vang",
+            "type": "noun",
+            "example": {
+                "en": "After some wine he became a wit.",
+                "vi": "Sau khi uống chút rượu vang, anh ta trở thành anh hề."
+            }
+        },
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to buy a few bottles of wine for dinner.",
+                "vi": "Tôi chuẩn bị đi mua vài chai rượu cho bữa tối."
+            }
+        },
+        {
+            "content": "vang",
+            "type": "verb",
+            "example": {
+                "en": "After some wine he became a wit.",
+                "vi": "Sau khi uống chút rượu vang, anh ta trở thành anh hề."
+            }
+        },
+        {
+            "content": "rượu vàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bình cũ rượu mới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu rượu vang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu chát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rượu thuốc",
+            "type": "",
+            "example": {
+                "en": "Medicinal wine for my master.",
+                "vi": "Tôi muốn mua một bình rượu thuốc cho sư phụ."
+            }
+        },
+        {
+            "content": "uống rượu",
+            "type": "",
+            "example": {
+                "en": "The manner of ordering wine without looking at the price?",
+                "vi": "Chính là không cần xem giá khi uống rượu vang."
+            }
+        },
+        {
+            "content": "đ i rượu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

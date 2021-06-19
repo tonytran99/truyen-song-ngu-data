@@ -1,0 +1,48 @@
+{
+    "word": "ceremonial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌserəˈmōnēəl/",
+            "/ˌsɛrəˈmoʊniəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɛrɪˈməʊnɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghi thức",
+            "type": "noun",
+            "example": {
+                "en": "Tokyo has often asked Washington to send an envoy to this annual ceremony .",
+                "vi": "Tokyo thường mời đại diện ngoại giao Washington đến tham dự nghi thức hàng năm này ."
+            }
+        },
+        {
+            "content": "nghi lễ",
+            "type": "noun",
+            "example": {
+                "en": "There is a ceremony of exorcism which can eradicate the Barbason.",
+                "vi": "Có một nghi lễ trừ tà có thể tiêu diệt con Barbason này."
+            }
+        },
+        {
+            "content": "thuộc nghi lễ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nghi thức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

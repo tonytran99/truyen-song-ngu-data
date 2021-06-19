@@ -1,0 +1,50 @@
+{
+    "word": "decadent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdekəd(ə)nt/",
+            "/ˈdɛkəd(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛkəd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "suy đồi",
+            "type": "adjective",
+            "example": {
+                "en": "Today, civilization as we know it is corrupt and decadent.",
+                "vi": "Ngày nay, nền văn minh như chúng ta biết đã bị thối nát và suy đồi."
+            }
+        },
+        {
+            "content": "người suy đồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sa sút",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "suy bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điêu tàn",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

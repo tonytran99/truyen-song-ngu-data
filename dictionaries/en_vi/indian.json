@@ -1,0 +1,76 @@
+{
+    "word": "indian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈindēən/",
+            "/ˈɪndiən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪndɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người Anh Điêng",
+            "type": "",
+            "example": {
+                "en": "Some of my clientele don't take kindly to an Indian on the premises.",
+                "vi": "Một số khách hàng không hài lòng khi đưa một người Anh-Điêng vào quán."
+            }
+        },
+        {
+            "content": "người Anh-điêng",
+            "type": "noun",
+            "example": {
+                "en": "Some of my clientele don't take kindly to an Indian on the premises.",
+                "vi": "Một số khách hàng không hài lòng khi đưa một người Anh-Điêng vào quán."
+            }
+        },
+        {
+            "content": "người Ấn Độ",
+            "type": "proper",
+            "example": {
+                "en": "I don't know if we Indians can be proud of such a distinction.",
+                "vi": "Tôi không biết người Ấn Độ chúng tôi có thể tự hào về điểm này không."
+            }
+        },
+        {
+            "content": "người Ấn độ",
+            "type": "noun",
+            "example": {
+                "en": "I don't know if we Indians can be proud of such a distinction.",
+                "vi": "Tôi không biết người Ấn Độ chúng tôi có thể tự hào về điểm này không."
+            }
+        },
+        {
+            "content": "thuộc Ấn Độ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "Ấn",
+            "type": "noun",
+            "example": {
+                "en": "Chili powder is greatly used in Indian cooking.",
+                "vi": "Bột ớt được dùng rất nhiều trong các món ăn Ấn Độ."
+            }
+        },
+        {
+            "content": "Ấn Độ",
+            "type": "noun",
+            "example": {
+                "en": "Chili powder is greatly used in Indian cooking.",
+                "vi": "Bột ớt được dùng rất nhiều trong các món ăn Ấn Độ."
+            }
+        }
+    ]
+}

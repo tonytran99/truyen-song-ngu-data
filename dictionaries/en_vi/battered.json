@@ -1,0 +1,45 @@
+{
+    "word": "battered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadərd/",
+            "/ˈbædərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbatəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ba bị",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "méo mó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mòn vẹt",
+            "type": "",
+            "example": {
+                "en": "He was on the back row, dressed casually, his legs stretched out with his battered boots crossed in front of him.",
+                "vi": "Anh ta ngồi ở dãy ghễ cuối, ăn mặc bình thường, đôi chân duỗi thẳng với đôi ủng mòn vẹt vắt tréo ở trước mặt."
+            }
+        },
+        {
+            "content": "rúm ró",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

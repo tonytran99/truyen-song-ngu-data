@@ -1,0 +1,46 @@
+{
+    "word": "flowered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflou(ə)rd/",
+            "/ˈflaʊ(ə)rd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaʊəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hoa",
+            "type": "",
+            "example": {
+                "en": "Hey, Dolores, will you see if there's any flowers outside?",
+                "vi": "Nè, Dolores, cô đi coi có hoa nào ở ngoài dùm được không?"
+            }
+        },
+        {
+            "content": "ra hoa",
+            "type": "",
+            "example": {
+                "en": "A faint and fading hope that one day it will flower.",
+                "vi": "Một niềm hy vọng mơ hồ rằng một ngày kia nó sẽ ra hoa."
+            }
+        },
+        {
+            "content": "hoa",
+            "type": "noun",
+            "example": {
+                "en": "My hobby is taking pictures of wild flowers.",
+                "vi": "Sở thích của tôi là chụp những bức ảnh hoa dại."
+            }
+        }
+    ]
+}

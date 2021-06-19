@@ -1,0 +1,35 @@
+{
+    "word": "tunisian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/t(y)o͞oˈnēZH(ə)n/",
+            "/t(j)uˈniʒ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tjuːˈnɪzɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Tuy-ni-di",
+            "type": "adjective proper",
+            "example": {
+                "en": "Welcome to democracy, our Tunisian and Egyptian friends.",
+                "vi": "Xin chào đến với dân chủ, các bạn Tuy-ni-di và Ai cập của chúng ta."
+            }
+        },
+        {
+            "content": "người tuy-ni-di",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

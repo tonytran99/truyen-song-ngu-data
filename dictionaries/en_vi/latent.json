@@ -1,0 +1,82 @@
+{
+    "word": "latent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlātnt/",
+            "/ˈleɪtnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ẩn",
+            "type": "adjective",
+            "example": {
+                "en": "We actually found some latent letter fragments on it.",
+                "vi": "Chúng tôi đã tìm thấy vài đoạn kí tự ẩn trên nó."
+            }
+        },
+        {
+            "content": "tiềm tàng",
+            "type": "adjective",
+            "example": {
+                "en": "What latent power exists even in the tiny atom?",
+                "vi": "Năng lượng nào tiềm tàng trong nguyên tử bé tí ti?"
+            }
+        },
+        {
+            "content": "ngầm",
+            "type": "adjective",
+            "example": {
+                "en": "What's another latent body of information that's out there",
+                "vi": "Hay đâu là những thông tin ngầm"
+            }
+        },
+        {
+            "content": "ngấm ngầm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngấm ngần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm thầm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "âm ỉ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tiềm",
+            "type": "",
+            "example": {
+                "en": "Syphilis can remain latent for many years .",
+                "vi": "Giang mai có thể tiếp tục tiềm ẩn trong nhiều năm ."
+            }
+        },
+        {
+            "content": "tiềm ẩn",
+            "type": "",
+            "example": {
+                "en": "Syphilis can remain latent for many years .",
+                "vi": "Giang mai có thể tiếp tục tiềm ẩn trong nhiều năm ."
+            }
+        }
+    ]
+}

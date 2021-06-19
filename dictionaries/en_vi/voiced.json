@@ -1,0 +1,35 @@
+{
+    "word": "voiced",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/voist/",
+            "/vɔɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɔɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hữu thanh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {
+                "en": "Do you hear voices telling you not to eat?",
+                "vi": "Cô có giọng nói nào kêu cô đừng ăn?"
+            }
+        }
+    ]
+}

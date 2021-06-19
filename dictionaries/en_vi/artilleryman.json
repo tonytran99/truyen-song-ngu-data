@@ -1,0 +1,42 @@
+{
+    "word": "artilleryman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ärˈtil(ə)rēmən/",
+            "/ɑrˈtɪl(ə)rimən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːˈtɪlərɪmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo binh",
+            "type": "noun",
+            "example": {
+                "en": "You are a sniper, not an artilleryman.",
+                "vi": "Cô là lính bắn tỉa chứ không phải là lính pháo binh."
+            }
+        },
+        {
+            "content": "pháo thủ",
+            "type": "",
+            "example": {
+                "en": "The Portuguese employed me as an artilleryman... at Fort Bertioga, next to São Vicente.",
+                "vi": "Người Bồ Đào Nha thuê tôi làm một pháo thủ... tại đồn Bertioga, gần San Vicente."
+            }
+        },
+        {
+            "content": "bộ đội pháo binh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

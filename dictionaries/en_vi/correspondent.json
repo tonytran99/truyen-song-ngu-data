@@ -1,0 +1,87 @@
+{
+    "word": "correspondent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkôrəˈspändənt/",
+            "/ˌkɔrəˈspɑndənt/",
+            "/ˌkärəˈspändənt/",
+            "/ˌkɑrəˈspɑndənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒrɪˈspɒnd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phóng viên",
+            "type": "noun",
+            "example": {
+                "en": "He is a good correspondent.",
+                "vi": "Anh ta là một phóng viên giỏi."
+            }
+        },
+        {
+            "content": "người viết thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phái viên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phù hợp với",
+            "type": "",
+            "example": {
+                "en": "And in this case, the stereotype corresponds to reality.",
+                "vi": "Trong trường hợp này, ý niệm đó phù hợp với thực tế."
+            }
+        },
+        {
+            "content": "thông tín viên",
+            "type": "noun",
+            "example": {
+                "en": "Oh, I don't think he likes correspondents.",
+                "vi": "Tôi không nghĩ ổng thích thông tín viên."
+            }
+        },
+        {
+            "content": "tương ứng",
+            "type": "noun",
+            "example": {
+                "en": "I have a corresponding milestone to robust human rejuvenation.",
+                "vi": "Tôi có một cột mốc tương ứng với sự trẻ hóa mạnh mẽ ở người."
+            }
+        },
+        {
+            "content": "tương ứng với",
+            "type": "",
+            "example": {
+                "en": "I have a corresponding milestone to robust human rejuvenation.",
+                "vi": "Tôi có một cột mốc tương ứng với sự trẻ hóa mạnh mẽ ở người."
+            }
+        },
+        {
+            "content": "xứng với",
+            "type": "noun",
+            "example": {
+                "en": "The size corresponds with a Venetian octavo and the typeface is an italian one.",
+                "vi": "Kích thước tương xứng với khổ Tám ở Thành Venice và kiểu chữ là một phong cách ltaly"
+            }
+        },
+        {
+            "content": "đúng với",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

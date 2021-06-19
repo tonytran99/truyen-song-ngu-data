@@ -1,0 +1,84 @@
+{
+    "word": "alphabet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalfəˌbet/",
+            "/ˈælfəˌbɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalfəbɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảng chữ cái",
+            "type": "noun",
+            "example": {
+                "en": "A text in Esperanto is written phonetically using an alphabet of 28 letters.",
+                "vi": "Esperanto được viết theo âm bằng bảng 27 chữ cái."
+            }
+        },
+        {
+            "content": "mẫu tự",
+            "type": "noun",
+            "example": {
+                "en": "There would be a code system, uh, for the alphabet.",
+                "vi": "Sẽ có một hệ thống mật mã, cho những mẫu tự."
+            }
+        },
+        {
+            "content": "bước đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng chữ",
+            "type": "",
+            "example": {
+                "en": "A text in Esperanto is written phonetically using an alphabet of 28 letters.",
+                "vi": "Esperanto được viết theo âm bằng bảng 27 chữ cái."
+            }
+        },
+        {
+            "content": "bộ chữ cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ ký tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ mẫu tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữ cái",
+            "type": "noun",
+            "example": {
+                "en": "A text in Esperanto is written phonetically using an alphabet of 28 letters.",
+                "vi": "Esperanto được viết theo âm bằng bảng 27 chữ cái."
+            }
+        },
+        {
+            "content": "hệ thống chữ cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều cơ bản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

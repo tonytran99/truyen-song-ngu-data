@@ -1,0 +1,62 @@
+{
+    "word": "embarrass",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌimˈberəs/",
+            "/ˌɪmˈbɛrəs/",
+            "/ˌemˈberəs/",
+            "/ˌɛmˈbɛrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbarəs/",
+            "/ɛmˈbarəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm lúng túng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây khó khăn cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ngượng nghịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nợ đìa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rắc rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rối rắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn trở",
+            "type": "",
+            "example": {
+                "en": "You've embarrassed me, my family.",
+                "vi": "Cô đã ngăn trở tôi, gia đình tôi."
+            }
+        }
+    ]
+}

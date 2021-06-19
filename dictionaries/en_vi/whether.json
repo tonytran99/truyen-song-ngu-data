@@ -1,0 +1,59 @@
+{
+    "word": "whether",
+    "type": [
+        "conjunction",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)weT͟Hər/",
+            "/ˈ(h)wɛðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dù",
+            "type": "conjunction",
+            "example": {
+                "en": "You'll have to do it, whether you like it or not.",
+                "vi": "Bạn sẽ phải làm điều đó, cho dù có thích hay không."
+            }
+        },
+        {
+            "content": "có ... không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dù ... hay",
+            "type": "",
+            "example": {
+                "en": "Once we hear the forecast, we decide what clothes to wear and whether to carry an umbrella or not.",
+                "vi": "Một khi nghe dự báo thời tiết, chúng ta quyết định mặc quần áo nào và có nên mang theo dù hay không."
+            }
+        },
+        {
+            "content": "không biết là",
+            "type": "conjunction",
+            "example": {
+                "en": "I was wondering whether you would care to accompany your old uncle.",
+                "vi": "Ta không biết là con có thể đi cùng với ông cậu già nua của con không?"
+            }
+        },
+        {
+            "content": "liệu có",
+            "type": "",
+            "example": {
+                "en": "Tom wondered whether it would be hard to find a job in Boston.",
+                "vi": "Tom muốn biết liệu có khó để tìm việc ở Boston hay không."
+            }
+        }
+    ]
+}

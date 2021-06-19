@@ -1,0 +1,61 @@
+{
+    "word": "chagrin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHəˈɡrin/",
+            "/ʃəˈɡrɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʃaɡrɪn/",
+            "/ʃəˈɡrɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự chán nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phiền muộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất vọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tủi nhục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự buồn nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thất vọng",
+            "type": "",
+            "example": {
+                "en": "To my friend’s chagrin, it worked.",
+                "vi": "Phương pháp này thành công trước sự thất vọng của người bạn tôi."
+            }
+        },
+        {
+            "content": "sự tủi nhục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

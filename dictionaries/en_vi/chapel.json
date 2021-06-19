@@ -1,0 +1,49 @@
+{
+    "word": "chapel",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHapəl/",
+            "/ˈtʃæpəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃap(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà nguyện",
+            "type": "noun",
+            "example": {
+                "en": "Guy, take the women to the chapel, huh?",
+                "vi": "Chàng trai, đưa đàn bà tới nhà nguyện, được chứ?"
+            }
+        },
+        {
+            "content": "nhà in",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà thờ nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "The administration building, is connected to the chapel.",
+                "vi": "Tòa nhà ban quản trị được nối với nhà thờ nhỏ."
+            }
+        },
+        {
+            "content": "tập thể thợ in",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

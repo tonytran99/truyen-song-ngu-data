@@ -1,0 +1,55 @@
+{
+    "word": "dong",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dôNG/",
+            "/dɔŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɒŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "₫",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "銅",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dương vật",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Dong",
+            "type": "",
+            "example": {
+                "en": "Dong-wook wouldn't let me do this because it's tiring.",
+                "vi": "Dong-Wook sẽ không cho mình làm việc này đâu vì nó rất là mệt."
+            }
+        },
+        {
+            "content": "chim",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

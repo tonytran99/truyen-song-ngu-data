@@ -1,0 +1,44 @@
+{
+    "word": "circumference",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sərˈkəmf(ə)rəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈkʌmf(ə)r(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường tròn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chu vi",
+            "type": "noun",
+            "example": {
+                "en": "A transcendental number whose value is the ratio high on any circumference to its diameter.",
+                "vi": "Một số siêu việt có giá trị là tỷ lệ giữa chu vi và đường kính hình tròn."
+            }
+        },
+        {
+            "content": "chu vi vòng tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chu vi hình tròn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

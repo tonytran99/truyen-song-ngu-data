@@ -1,0 +1,37 @@
+{
+    "word": "enigmatic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌenəɡˈmadik/",
+            "/ˌɛnəɡˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛnɪɡˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bí ẩn",
+            "type": "adjective",
+            "example": {
+                "en": "One source describes this monolith as “enigmatic and fascinating.”",
+                "vi": "Một nguồn tài liệu miêu tả nó rất “kỳ lạ và bí ẩn”."
+            }
+        },
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {
+                "en": "Being enigmatic really doesn't suit you.",
+                "vi": "Tỏ ra khó hiểu thật sự không hợp với cậu đâu."
+            }
+        }
+    ]
+}

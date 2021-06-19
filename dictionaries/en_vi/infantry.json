@@ -1,0 +1,42 @@
+{
+    "word": "infantry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinfəntrē/",
+            "/ˈɪnfəntri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnf(ə)ntri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ binh",
+            "type": "noun",
+            "example": {
+                "en": "Sir, beyond the trees, the French infantry advancing en masse.",
+                "vi": "Phía sau hàng cây, bộ binh Pháp đang tiến tới rất đông."
+            }
+        },
+        {
+            "content": "步兵",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bộ binh",
+            "type": "",
+            "example": {
+                "en": "Our infantry are still fighting in Nijmegen.",
+                "vi": "Bộ binh của chúng tôi đang đánh ở Nijmegen."
+            }
+        }
+    ]
+}

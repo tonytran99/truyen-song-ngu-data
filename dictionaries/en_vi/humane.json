@@ -1,0 +1,63 @@
+{
+    "word": "humane",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞oˈmān/",
+            "/(h)juˈmeɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjʊˈmeɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân đạo",
+            "type": "noun",
+            "example": {
+                "en": "A robot caretaker is just as humane as a human caretaker.",
+                "vi": "Một người máy trợ lý cũng nhân đạo như một con người."
+            }
+        },
+        {
+            "content": "nhân đức",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bác ái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có nhân",
+            "type": "",
+            "example": {
+                "en": "Without human rights, you don't have the protection granted to you to campaign.",
+                "vi": "Không có nhân quyền, không thể có sự bảo vệ cho vận động bầu cử."
+            }
+        },
+        {
+            "content": "nhân văn",
+            "type": "noun",
+            "example": {
+                "en": "They were an ancient brotherhood committed to humanism.",
+                "vi": "Họ có những người anh em hướng theo chủ nghĩa nhân văn."
+            }
+        },
+        {
+            "content": "nhân ái",
+            "type": "adjective",
+            "example": {
+                "en": "we have failed to become a truly moral and just human race.",
+                "vi": "thì chúng ta còn thất bại để trở thành một loài giàu lòng nhân ái đích thực."
+            }
+        }
+    ]
+}

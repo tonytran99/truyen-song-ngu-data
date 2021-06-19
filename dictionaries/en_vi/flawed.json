@@ -1,0 +1,55 @@
+{
+    "word": "flawed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flôd/",
+            "/flɔd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chỗ hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có vết",
+            "type": "",
+            "example": {
+                "en": "The game is flawed. MARTIN:",
+                "vi": "Trò chơi có vết."
+            }
+        },
+        {
+            "content": "không hoàn mỹ",
+            "type": "",
+            "example": {
+                "en": "You can see what I said about it. It's a flawed masterpiece.",
+                "vi": "Bạn biết những gì tôi nói về nó mà, một kiệt tác không hoàn mỹ"
+            }
+        },
+        {
+            "content": "không hoàn thiện",
+            "type": "",
+            "example": {
+                "en": "Gandhi, too, was a real flawed human being.",
+                "vi": "Gandhi thực tế không hoàn thiện con người."
+            }
+        },
+        {
+            "content": "rạn nứt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

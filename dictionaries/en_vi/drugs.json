@@ -1,0 +1,33 @@
+{
+    "word": "drugs",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "dược liệu",
+            "type": "plural",
+            "example": {
+                "en": "The oceans can also provide natural drugs to treat disease.",
+                "vi": "Biển cũng cung cấp dược liệu thiên nhiên để chữa bệnh."
+            }
+        },
+        {
+            "content": "ma túy",
+            "type": "plural",
+            "example": {
+                "en": "The police seized a large quantity of drugs at the school.",
+                "vi": "Cảnh sát tịch thu một lượng lớn ma túy ở ngôi trường."
+            }
+        },
+        {
+            "content": "thuốc",
+            "type": "verb noun",
+            "example": {
+                "en": "A number of countries have strict laws against drugs.",
+                "vi": "Một số quốc gia có hệ thống luật pháp nghiêm khắc chống lại thuốc phiện."
+            }
+        }
+    ]
+}

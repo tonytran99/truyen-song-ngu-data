@@ -1,0 +1,42 @@
+{
+    "word": "fluoride",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflo͝orˌīd/",
+            "/ˈflʊrˌaɪd/",
+            "/ˈflôrˌīd/",
+            "/ˈflɔrˌaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflʊərʌɪd/",
+            "/ˈflɔːrʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Florua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "flo",
+            "type": "noun",
+            "example": {
+                "en": "Some towns have fluoridated water through the taps .",
+                "vi": "Một số thành phố đã cho flo-rua vào nước qua vòi ."
+            }
+        },
+        {
+            "content": "florua",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

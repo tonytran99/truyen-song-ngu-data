@@ -1,0 +1,43 @@
+{
+    "word": "cognitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäɡnədiv/",
+            "/ˈkɑɡnədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒɡnɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhận thức",
+            "type": "",
+            "example": {
+                "en": "Should we consider turning on its higher, more cognitive functions?",
+                "vi": "Có nên khả năng biến hóa cao hơn của nó, chức năng nhận thức cao hơn không?"
+            }
+        },
+        {
+            "content": "dựa trên hiểu biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kinh nghiệm",
+            "type": "",
+            "example": {
+                "en": "and make cognitive use of its eyes again.",
+                "vi": "và rút ra kinh nghiệm sử dụng mắt lần nữa."
+            }
+        }
+    ]
+}

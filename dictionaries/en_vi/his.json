@@ -1,0 +1,93 @@
+{
+    "word": "his",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiz/",
+            "/hɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của anh ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "Tom found out his dad wasn't his real dad.",
+                "vi": "Tom đã phát hiện ra rằng cha của anh ấy không phải là cha đẻ."
+            }
+        },
+        {
+            "content": "của nó",
+            "type": "pronoun",
+            "example": {
+                "en": "My brother named his cat Huazi.",
+                "vi": "Em trai tôi đặt tên cho con mèo của nó là Huazi."
+            }
+        },
+        {
+            "content": "của hắn",
+            "type": "pronoun",
+            "example": {
+                "en": "His perception of his home life is the key to his pathology.",
+                "vi": "Nhận thức của hắn về cuộc sống gia đình là chìa khóa cho bệnh lý của hắn."
+            }
+        },
+        {
+            "content": "của ông ta",
+            "type": "pronoun",
+            "example": {
+                "en": "Jerry is a very honest man. You can always take him at his word.",
+                "vi": "Jerry là một người rất chân thật. Bạn có thể luôn tin lời của ông ta."
+            }
+        },
+        {
+            "content": "mình",
+            "type": "pronoun",
+            "example": {
+                "en": "What was so important that my father had to lose his life?",
+                "vi": "Có đáng gì mà bố tôi phải mất mạng mình chứ?"
+            }
+        },
+        {
+            "content": "cái của anh ấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của hắn",
+            "type": "",
+            "example": {
+                "en": "It's because his is very big.",
+                "vi": "Bởi vì cái của hắn bự quá."
+            }
+        },
+        {
+            "content": "cái của nó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của ông ấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của ông ấy",
+            "type": "",
+            "example": {
+                "en": "When will his new novel come out?",
+                "vi": "Khi nào mới phát hành quyển tiểu thuyết của ông ấy?"
+            }
+        }
+    ]
+}

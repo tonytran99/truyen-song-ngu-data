@@ -1,0 +1,46 @@
+{
+    "word": "hertz",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hertz",
+            "type": "noun",
+            "example": {
+                "en": "A sound’s frequency, or pitch, is described in cycles per second, or hertz.",
+                "vi": "Tần số âm thanh, hoặc độ trầm bổng được thể hiện bằng số chu kỳ mỗi giây, hay hertz."
+            }
+        },
+        {
+            "content": "héc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Héc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hertz",
+            "type": "",
+            "example": {
+                "en": "Hertz, you know why people in this country love guns?",
+                "vi": "Hertz, mày biết sao dân nước này thích súng không?"
+            }
+        }
+    ]
+}

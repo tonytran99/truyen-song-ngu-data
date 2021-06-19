@@ -1,0 +1,48 @@
+{
+    "word": "diplomatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdipləˈmadik/",
+            "/ˌdɪpləˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪpləˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tài ngoại giao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khôn khéo",
+            "type": "adjective",
+            "example": {
+                "en": "That's a diplomatic answer.",
+                "vi": "Câu trả lời khôn khéo đấy."
+            }
+        },
+        {
+            "content": "ngoại giao",
+            "type": "",
+            "example": {
+                "en": "The italian government has rescinded your diplomatic status.",
+                "vi": "Chính phủ Ý đã hủy chức vụ ngoại giao của ông."
+            }
+        },
+        {
+            "content": "văn thư công",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

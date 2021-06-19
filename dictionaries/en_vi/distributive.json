@@ -1,0 +1,56 @@
+{
+    "word": "distributive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstribyədiv/",
+            "/dəˈstrɪbjədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstrɪbjʊtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân bổ",
+            "type": "",
+            "example": {
+                "en": "Must be the way the weight is distributed.",
+                "vi": "Chắc là cái cách phân bổ trọng lượng."
+            }
+        },
+        {
+            "content": "phân phát",
+            "type": "",
+            "example": {
+                "en": "In the past 10 years alone, 51 million copies have been distributed.",
+                "vi": "Chỉ trong mười năm vừa qua, 51 triệu quyển sách đã được phân phát."
+            }
+        },
+        {
+            "content": "phân phối",
+            "type": "",
+            "example": {
+                "en": "Distribution plant can't distribute if it's not getting deliveries.",
+                "vi": "Không thể phân phối nếu không nhận được hàng."
+            }
+        },
+        {
+            "content": "phân phối phân bố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

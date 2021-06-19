@@ -1,0 +1,47 @@
+{
+    "word": "bystander",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīˌstandər/",
+            "/ˈbaɪˌstændər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪstandə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người ngoài cuộc",
+            "type": "noun",
+            "example": {
+                "en": "What if the fever's the innocent bystander?",
+                "vi": "Nếu như sốt là một người ngoài cuộc vô tội thì sao?"
+            }
+        },
+        {
+            "content": "khán giả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người đứng ngoài",
+            "type": "noun",
+            "example": {
+                "en": "Well, this could also be a bystander at a rally",
+                "vi": "Vâng, một người đứng ngoài cuộc biểu tình"
+            }
+        },
+        {
+            "content": "người đứng ngoài xem",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

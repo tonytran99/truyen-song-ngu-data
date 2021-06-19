@@ -1,0 +1,38 @@
+{
+    "word": "disco",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiskō/",
+            "/ˈdɪskoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪskəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Disco",
+            "type": "",
+            "example": {
+                "en": "It has a disco, it's got a dune buggy.",
+                "vi": "Có sàn nhảy disco, có một xe cát."
+            }
+        },
+        {
+            "content": "vũ trường",
+            "type": "",
+            "example": {
+                "en": "Life was disco after disco and party after party.",
+                "vi": "Đời sống tôi xoay quanh việc đi vũ trường và tiệc tùng."
+            }
+        }
+    ]
+}

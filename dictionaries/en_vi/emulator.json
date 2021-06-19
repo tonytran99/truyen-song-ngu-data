@@ -1,0 +1,52 @@
+{
+    "word": "emulator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈemyəˌlādər/",
+            "/ˈɛmjəˌleɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmjʊleɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đối thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ mô phỏng",
+            "type": "",
+            "example": {
+                "en": "Sync & terminal emulator with active document",
+                "vi": "Đồng bộ hoá bộ mô phỏng & thiết bị cuối với tài liệu hiện thời"
+            }
+        },
+        {
+            "content": "chương trình mô phỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thi đua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giả lập",
+            "type": "",
+            "example": {
+                "en": "Somasegar said applications built using the CTP run on both the emulator and the phone .",
+                "vi": "Somasegar cho biết các ứng dụng được xây dựng bằng việc sử dụng CTP chạy trên cả trình giả lập và điện thoại ."
+            }
+        }
+    ]
+}

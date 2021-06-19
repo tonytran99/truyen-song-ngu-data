@@ -1,0 +1,49 @@
+{
+    "word": "gyro",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjīrō/",
+            "/ˈdʒaɪroʊ/",
+            "/ˈyērō/",
+            "/ˈjiroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌɪrəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con quay",
+            "type": "",
+            "example": {
+                "en": "That gyro-power sends him over 100 feet at top speed.",
+                "vi": "với tốc độ tối đa con quay đưa anh ấy lên độ cao 100 ft"
+            }
+        },
+        {
+            "content": "con quay hồi chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của gyroscope",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Gyros",
+            "type": "",
+            "example": {
+                "en": "Remember, no gyros from the food court.",
+                "vi": "Nhớ không được ăn gyros đâu nhé."
+            }
+        }
+    ]
+}

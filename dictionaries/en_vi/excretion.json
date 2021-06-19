@@ -1,0 +1,45 @@
+{
+    "word": "excretion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈskrēSH(ə)n/",
+            "/ɪkˈskriʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskriːʃ(ə)n/",
+            "/ɛkˈskriːʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bài tiết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bài tiết",
+            "type": "",
+            "example": {
+                "en": "We ingest nutrients. We excrete nutrients as well.",
+                "vi": "Chúng ta ăn các chất dinh dưỡng. Chúng ta cũng bài tiết các chất dinh dưỡng."
+            }
+        },
+        {
+            "content": "chất bài tiết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự thải ra",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

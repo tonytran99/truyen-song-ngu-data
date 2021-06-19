@@ -1,0 +1,48 @@
+{
+    "word": "visiting",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvizidiNG/",
+            "/ˈvɪzɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪzɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thăm hỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thăm viếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thăm viếng",
+            "type": "",
+            "example": {
+                "en": "Dedicated visiting teachers visit and care for one another.",
+                "vi": "Các giảng viên thăm viếng đầy lòng tận tụy đi thăm viếng và chăm sóc cho nhau."
+            }
+        },
+        {
+            "content": "đang thăm",
+            "type": "",
+            "example": {
+                "en": "I told you you and i are just visiting.",
+                "vi": "Tôi đã nói cậu và tôi đang thăm hỏi nhau."
+            }
+        }
+    ]
+}

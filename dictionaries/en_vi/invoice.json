@@ -1,0 +1,53 @@
+{
+    "word": "invoice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌvois/",
+            "/ˈɪnˌvɔɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnvɔɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hóa đơn",
+            "type": "noun common",
+            "example": {
+                "en": "That's not like invoices or reports, or numbers.",
+                "vi": "Nó không giống như cùi hóa đơn hay tờ báo cuộn, hay đồ chơi."
+            }
+        },
+        {
+            "content": "chuyến hàng gửi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lập danh đơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hóa đơn",
+            "type": "",
+            "example": {
+                "en": "Well, the invoices were paid by a company called the Lagos Group.",
+                "vi": "Hóa đơn đã được chi trả bởi một công ty tên là Lagos Group."
+            }
+        },
+        {
+            "content": "lập hóa đơn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

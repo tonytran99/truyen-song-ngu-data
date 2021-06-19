@@ -1,0 +1,48 @@
+{
+    "word": "blackberry",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblakˌberē/",
+            "/ˈblækˌbɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblakb(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quả mâm xôi",
+            "type": "",
+            "example": {
+                "en": "Listen, we're not stopping to pick blackberries and hunt pheasant.",
+                "vi": "Nghe đây, chúng ta ko thể dừng lại để nhặt quả mâm xôi và săn gà lôi."
+            }
+        },
+        {
+            "content": "trái ngấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chi Mâm xôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây mâm xôi",
+            "type": "noun",
+            "example": {
+                "en": "I, um, I saw a blackberry.",
+                "vi": "Tôi thấy 1 cây mâm xôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "dean",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēn/",
+            "/din/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ nhiệm khoa",
+            "type": "",
+            "example": {
+                "en": "So, does the dean of the archeology department approve of that getup?",
+                "vi": "Vậy chủ nhiệm khoa khảo cổ học có cho phép mặc đồ này không?"
+            }
+        },
+        {
+            "content": "trưởng tu viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "linh mục địa phận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người cao tuổi nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trưởng khoa",
+            "type": "noun",
+            "example": {
+                "en": "But I had just seen the line crossed between a high-powered dean",
+                "vi": "Nhưng tôi vừa thấy một sự việc vượt rào: một trưởng khoa quyền lực"
+            }
+        }
+    ]
+}

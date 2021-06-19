@@ -1,0 +1,69 @@
+{
+    "word": "knitting",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnidiNG/",
+            "/ˈnɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc đan len",
+            "type": "",
+            "example": {
+                "en": "But I did something interesting with knitting",
+                "vi": "Nhưng tôi đã làm vài chuyện thú vị với việc đan len"
+            }
+        },
+        {
+            "content": "đan",
+            "type": "",
+            "example": {
+                "en": "Tom asked Mary if she knew how to knit.",
+                "vi": "Tom hỏi Mary xem cô ta có biết đan len không."
+            }
+        },
+        {
+            "content": "việc đan",
+            "type": "",
+            "example": {
+                "en": "But I did something interesting with knitting that had never been done before.",
+                "vi": "Nhưng tôi đã làm vài chuyện thú vị với việc đan len mà trước đây tôi chưa từng làm."
+            }
+        },
+        {
+            "content": "dệt kim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng dệt kim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng len",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ đan",
+            "type": "",
+            "example": {
+                "en": "Go on and get my knitting",
+                "vi": "Vào trong lấy cho bà đồ đan ra đây"
+            }
+        }
+    ]
+}

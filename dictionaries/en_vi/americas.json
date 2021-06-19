@@ -1,0 +1,41 @@
+{
+    "word": "americas",
+    "type": [
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmerəkəz/",
+            "/əˈmɛrəkəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Châu Mỹ",
+            "type": "proper",
+            "example": {
+                "en": "In colonial times, labor was in great demand in America.",
+                "vi": "Trong thời thuộc địa, công nhân rất cần ở Châu Mỹ."
+            }
+        },
+        {
+            "content": "Mỹ",
+            "type": "proper",
+            "example": {
+                "en": "America is a lovely place to be, if you are here to earn money.",
+                "vi": "Sống ở Mỹ rất thích nếu là ở đây để kiếm tiền."
+            }
+        },
+        {
+            "content": "Mỹ Lợi Gia",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "洲美",
+            "type": "proper",
+            "example": {}
+        }
+    ]
+}

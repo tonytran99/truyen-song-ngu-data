@@ -1,0 +1,45 @@
+{
+    "word": "indigenous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdijənəs/",
+            "/ɪnˈdɪdʒənəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdɪdʒɪnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản xứ",
+            "type": "adjective",
+            "example": {
+                "en": "Captain, did the indigenous life forms see you?",
+                "vi": "Cơ trưởng, các dạng sống bản xứ có nhìn thấy anh không?"
+            }
+        },
+        {
+            "content": "bản địa",
+            "type": "adjective",
+            "example": {
+                "en": "In the end, indigenous people need to be partners in and not subjects of genetic research.",
+                "vi": "Cuối cùng, những người bản địa cần trở thành đối tác chứ không phải đối tượng nghiên cứu."
+            }
+        },
+        {
+            "content": "địa phương",
+            "type": "adjective",
+            "example": {
+                "en": "You have to imagine that indigenous people have never been there.",
+                "vi": "Bạn phải biết rằng dân địa phương chưa từng đó."
+            }
+        }
+    ]
+}

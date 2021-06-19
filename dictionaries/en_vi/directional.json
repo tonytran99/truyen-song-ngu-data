@@ -1,0 +1,67 @@
+{
+    "word": "directional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈrekSH(ə)n(ə)l/",
+            "/dɪˈrɛkʃ(ə)n(ə)l/",
+            "/dīˈrekSH(ə)n(ə)l/",
+            "/daɪˈrɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈrɛkʃ(ə)n(ə)l/",
+            "/dʌɪˈrɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "định hướng",
+            "type": "",
+            "example": {
+                "en": "I'm the one that decides which direction we travel.",
+                "vi": "Tôi là người quyết định hướng đi cho cuộc hành trình của chúng ta."
+            }
+        },
+        {
+            "content": "hướng",
+            "type": "",
+            "example": {
+                "en": "We began to sail in the direction of the port.",
+                "vi": "Chúng tôi bắt đầu lái thuyền về hướng cảng."
+            }
+        },
+        {
+            "content": "cai quản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ huy",
+            "type": "",
+            "example": {
+                "en": "Okay, so who was responsible for directing the actual search?",
+                "vi": "Ai có trách nhiệm chỉ huy cuộc tìm kiếm?"
+            }
+        },
+        {
+            "content": "theo phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều khiển",
+            "type": "",
+            "example": {
+                "en": "If we point'em in the other direction, yeah.",
+                "vi": "Nếu chúng ta biết điều khiển anh ta."
+            }
+        }
+    ]
+}

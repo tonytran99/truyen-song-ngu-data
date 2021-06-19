@@ -1,0 +1,44 @@
+{
+    "word": "discern",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsəːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thấy rõ",
+            "type": "noun",
+            "example": {
+                "en": "Darkness fell, night, and the moon became discernible to him.",
+                "vi": "Ban đêm bóng tối bao phủ, và ông nhìn thấy rõ ánh trăng."
+            }
+        },
+        {
+            "content": "nhận thức",
+            "type": "noun",
+            "example": {
+                "en": "The way you react to what you hear also requires discernment.",
+                "vi": "Cách bạn phản ứng trước những gì mình nghe cũng cần phải có sự nhận thức sáng suốt."
+            }
+        },
+        {
+            "content": "phân biệt",
+            "type": "",
+            "example": {
+                "en": "Personal revelation can be honed to become spiritual discernment.",
+                "vi": "Sự mặc khải cá nhân có thể được phát triển để trở thành sự phân biệt thuộc linh."
+            }
+        }
+    ]
+}

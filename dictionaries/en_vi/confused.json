@@ -1,0 +1,107 @@
+{
+    "word": "confused",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfyo͞ozd/",
+            "/kənˈfjuzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfjuːzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lẫn lộn",
+            "type": "adjective",
+            "example": {
+                "en": "It is the nature of man to confuse genius with insanity.",
+                "vi": "Một người đàn ông bình thương không được lẫn lộn với những điên rồ đó."
+            }
+        },
+        {
+            "content": "rối ren",
+            "type": "adjective",
+            "example": {
+                "en": "Adding to this confusion, some Catholic writers had put forward the idea that the year 500 C.E. would mark the end of the world.",
+                "vi": "Sự việc càng rối ren thêm khi một số nhà văn Công Giáo cho rằng năm 500 CN sẽ tận thế."
+            }
+        },
+        {
+            "content": "bối rối",
+            "type": "",
+            "example": {
+                "en": "Tom seems totally confused.",
+                "vi": "Tom có vẻ hoàn toàn bối rối."
+            }
+        },
+        {
+            "content": "lộn xộn",
+            "type": "",
+            "example": {
+                "en": "She was a very confused woman who tried her damnedest.",
+                "vi": "Bà ấy là người lộn xộn luôn cố làm hết sức mình."
+            }
+        },
+        {
+            "content": "bàng hoàng",
+            "type": "adjective",
+            "example": {
+                "en": "And I was confused, because the fire hadn't been difficult physically, so why was he looking at me with something like astonishment?",
+                "vi": "Và tôi bối rối, bởi lửa thực sự không khó, vậy tại sao ông ta nhìn tôi với vẻ bàng hoàng như vậy?"
+            }
+        },
+        {
+            "content": "hỗn độn",
+            "type": "adjective",
+            "example": {
+                "en": "Main result is that there is tremendous confusion.",
+                "vi": "Kết quả là sẽ có sự hỗn độn nghiêm trọng."
+            }
+        },
+        {
+            "content": "mơ hồ",
+            "type": "",
+            "example": {
+                "en": "It is little wonder that people in general are confused about death and the resurrection.",
+                "vi": "Không lạ gì khi người ta nói chung hiểu mơ hồ về sự chết và sự sống lại."
+            }
+        },
+        {
+            "content": "ngượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối loạn",
+            "type": "adjective",
+            "example": {
+                "en": "Ra's told me that the confusion would pass.",
+                "vi": "Ra's nói với tôi rằng sự rối loạn sẽ sớm qua."
+            }
+        },
+        {
+            "content": "rối rắm",
+            "type": "",
+            "example": {
+                "en": "What is money , why do we trust it and has it become too confusing ?",
+                "vi": "Tiền là gì , tại sao chúng ta lại tin nó và đồng tiền đã trở thành thứ quá rối rắm ?"
+            }
+        },
+        {
+            "content": "lúng túng",
+            "type": "",
+            "example": {
+                "en": "As a result, they may become confused by bright lights on tall buildings.",
+                "vi": "Chúng có thể bị lúng túng vì ánh sáng đèn của các tòa nhà cao tầng."
+            }
+        }
+    ]
+}

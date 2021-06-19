@@ -1,0 +1,49 @@
+{
+    "word": "weekly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēklē/",
+            "/ˈwikli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng tuần",
+            "type": "adverb",
+            "example": {
+                "en": "They have weekly study groups, where teachers get together and talk about what's working.",
+                "vi": "Họ có nhóm học tập hàng tuần, nơi giáo viên họp lại và nói về những kết quả."
+            }
+        },
+        {
+            "content": "báo hằng tuần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hằng tuần",
+            "type": "",
+            "example": {
+                "en": "Maybe you also can schedule a weekly game or movie night .",
+                "vi": "Bạn cũng có thể lên lịch chơi game hằng tuần hoặc xem phim vào buổi tối ."
+            }
+        },
+        {
+            "content": "kéo dài một tuần",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

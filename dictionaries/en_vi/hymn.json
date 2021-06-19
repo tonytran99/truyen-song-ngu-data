@@ -1,0 +1,64 @@
+{
+    "word": "hymn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/him/",
+            "/hɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thánh ca",
+            "type": "noun",
+            "example": {
+                "en": "Memorize two of your favorite hymns from the hymnbook.",
+                "vi": "Học thuộc lòng hai trong số các bài thánh ca ưa thích của em từ quyển thánh ca."
+            }
+        },
+        {
+            "content": "bài thánh ca",
+            "type": "",
+            "example": {
+                "en": "When they are older, they will remember the hymns they sang with you.",
+                "vi": "Khi lớn hơn, chúng sẽ nhớ những bài thánh ca chúng hát với các anh chị em."
+            }
+        },
+        {
+            "content": "bài ca",
+            "type": "noun",
+            "example": {
+                "en": "Have the pianist play a song or hymn.",
+                "vi": "Yêu cầu người đánh đàn chơi một bài ca hoặc một bài thánh ca."
+            }
+        },
+        {
+            "content": "bài hát ca tụng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hát ca tụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hát thánh ca",
+            "type": "",
+            "example": {
+                "en": "(70) West African Saints begin singing hymns after the electrical power goes out in their meetinghouse.",
+                "vi": "(70) Các Thánh Hữu Tây Phi bắt đầu hát thánh ca sau khi nhà hội của họ bị mất điện."
+            }
+        }
+    ]
+}

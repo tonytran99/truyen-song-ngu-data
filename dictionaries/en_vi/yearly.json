@@ -1,0 +1,76 @@
+{
+    "word": "yearly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyirlē/",
+            "/ˈjɪrli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjɪəli/",
+            "/ˈjəːli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hằng năm",
+            "type": "",
+            "example": {
+                "en": "This torment occurs yearly, with the result that Hannah weeps and will not eat.",
+                "vi": "Cảnh này cứ tái diễn hằng năm, An-ne khóc than và không ăn."
+            }
+        },
+        {
+            "content": "hàng năm",
+            "type": "adverb",
+            "example": {
+                "en": "I know you put off your yearly physicals at least once every year.",
+                "vi": "Tôi biết anh trì hoãn việc kiểm tra sức khỏe hàng năm ít nhất mỗi năm một lần."
+            }
+        },
+        {
+            "content": "kéo dài một năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năm một",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năm năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suốt một năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thường niên",
+            "type": "adjective, adverb",
+            "example": {
+                "en": "I've been making the yearly tour of the Park.",
+                "vi": "Tôi đang làm chuyến đi dạo thường niên tại công viên"
+            }
+        },
+        {
+            "content": "mỗi năm",
+            "type": "",
+            "example": {
+                "en": "And on an average, earthquakes strong enough to cause total destruction of buildings have occurred yearly.",
+                "vi": "Và tính trung bình, mỗi năm đều có những trận động đất mạnh đến độ hoàn toàn hủy phá nhà cửa."
+            }
+        }
+    ]
+}

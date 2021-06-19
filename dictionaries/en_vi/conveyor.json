@@ -1,0 +1,47 @@
+{
+    "word": "conveyor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvāər/",
+            "/kənˈveɪər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈveɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băng chuyền",
+            "type": "",
+            "example": {
+                "en": "It's all conveyor belt, and it makes a book.",
+                "vi": "Nó là một băng chuyền, và nó có thể làm ra một cuốn sách."
+            }
+        },
+        {
+            "content": "băng truyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "băng tải",
+            "type": "",
+            "example": {
+                "en": "Put him in the conveyor.",
+                "vi": "Cho nó vào băng tải đi."
+            }
+        },
+        {
+            "content": "máy truyền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

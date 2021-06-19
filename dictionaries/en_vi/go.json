@@ -1,0 +1,755 @@
+{
+    "word": "go",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡō/",
+            "/ɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {
+                "en": "I have to go shopping. I'll be back in an hour.",
+                "vi": "Tôi đi mua sắm một chút. Một tiếng sau trở lại."
+            }
+        },
+        {
+            "content": "cờ vây",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biến mất",
+            "type": "verb",
+            "example": {
+                "en": "None of this will go away, should go away, or can go away.",
+                "vi": "Không gì trong những điều này sẽ biến mất, nên biến mất, hay có thể biến mất."
+            }
+        },
+        {
+            "content": "bị phá hủy",
+            "type": "verb",
+            "example": {
+                "en": "Are you really going to stand by and watch as Earth is destroyed?",
+                "vi": "các ông thực sự sẽ đứng yên và nhìn trái đất bị phá hủy sao?"
+            }
+        },
+        {
+            "content": "chạy",
+            "type": "verb",
+            "example": {
+                "en": "If we don't give them the ratings, they'll go to Moody's, right down the block.",
+                "vi": "Nếu bọn tôi không cho thì họ sẽ chạy sang Moody's ngay."
+            }
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {
+                "en": "Your death is the only thing that's going to call off the killers.",
+                "vi": "Cái chết của mày là điều duy nhất khiến bọn ám sát rút lui."
+            }
+        },
+        {
+            "content": "nói",
+            "type": "verb",
+            "example": {
+                "en": "Before you go any further, let me remind you things were very chaotic back then.",
+                "vi": "Trước khi ông nói thêm, tôi xin nhắc là thời đó rất hỗn loạn."
+            }
+        },
+        {
+            "content": "diễn ra",
+            "type": "",
+            "example": {
+                "en": "No one ever really knows what's going through someone else's head.",
+                "vi": "Không ai thực sự biết điều gì đang diễn ra trong đầu của người khác."
+            }
+        },
+        {
+            "content": "sức sống",
+            "type": "",
+            "example": {
+                "en": "We don't have the luxury of letting go of the past.",
+                "vi": "Chúng ta không làm được điều xa xỉ như bỏ đi sức sống của quá khứ."
+            }
+        },
+        {
+            "content": "thuộc về",
+            "type": "",
+            "example": {
+                "en": "The usual explanation was, well, it's all going to go to my partner anyway.",
+                "vi": "Lời giải thích thường là, tất cả sẽ thuộc về bạn đời của tôi."
+            }
+        },
+        {
+            "content": "trôi qua",
+            "type": "",
+            "example": {
+                "en": "Did you really think it was all just neatly gonna go away?",
+                "vi": "Em thực sự nghĩ tất cả chuyện đó sẽ tự nhiên trôi qua một cách dễ dàng ư?"
+            }
+        },
+        {
+            "content": "đi tới",
+            "type": "",
+            "example": {
+                "en": "Excuse me, what is the shortest way to go to the station?",
+                "vi": "Tôi xin lỗi, lối nào là lối ngắn nhất để đi tới ga?"
+            }
+        },
+        {
+            "content": "đi đến",
+            "type": "",
+            "example": {
+                "en": "I put in an hour of jogging before I go to school.",
+                "vi": "Tôi chạy bộ một giờ trước khi đi đến trường."
+            }
+        },
+        {
+            "content": "bay",
+            "type": "verb",
+            "example": {
+                "en": "They are very good fliers, but they don't go too far.",
+                "vi": "Chúng bay rất giỏi, nhưng không bay quá xa."
+            }
+        },
+        {
+            "content": "thành",
+            "type": "adjective verb noun adposition",
+            "example": {
+                "en": "I can't approve of your going out with him.",
+                "vi": "Tôi không tán thành việc bạn đi chơi với anh ấy."
+            }
+        },
+        {
+            "content": "lần",
+            "type": "noun",
+            "example": {
+                "en": "Like it learned a thing or two from the last go.",
+                "vi": "Vì tôi đã rút kinh nghiệm lần trước rồi."
+            }
+        },
+        {
+            "content": "đâm",
+            "type": "verb",
+            "example": {
+                "en": "I'm going to shove this down your throat!",
+                "vi": "Tôi sẽ đâm cái này vô cổ họng ông!"
+            }
+        },
+        {
+            "content": "đổ",
+            "type": "verb",
+            "example": {
+                "en": "You want this to go down with me too?",
+                "vi": "Anh cũng muốn đổ mọi thứ lên tôi à?"
+            }
+        },
+        {
+            "content": "hơi",
+            "type": "noun adverb",
+            "example": {
+                "en": "Now, this is going to sound kind of strange, but there's something I need you to remember.",
+                "vi": "Chuyện này sẽ hơi lạ lùng. Nhưng anh cần em ghi nhớ vài chuyện."
+            }
+        },
+        {
+            "content": "nổ",
+            "type": "verb",
+            "example": {
+                "en": "I hear bells ringing and dams bursting, and bombs going off!",
+                "vi": "Tôi nghe chuông ngân và đập tràn, và bom nổ!"
+            }
+        },
+        {
+            "content": "trả",
+            "type": "verb",
+            "example": {
+                "en": "Now you leave the girl with Adie and go.",
+                "vi": "Giờ thì trả con bé cho Adie và cút ngay."
+            }
+        },
+        {
+            "content": "hóa ra",
+            "type": "",
+            "example": {
+                "en": "Where, as it turns out, I'm going anyway.",
+                "vi": "Mặc dù, hóa ra là dẫu sao tôi cũng sẽ đi Mumbai."
+            }
+        },
+        {
+            "content": "qua đi",
+            "type": "",
+            "example": {
+                "en": "Pay these people and make this thing go away.",
+                "vi": "Trả tiền cho những người đó và để chuyện này qua đi."
+            }
+        },
+        {
+            "content": "tham dự",
+            "type": "",
+            "example": {
+                "en": "It was also hard for me to stop going to parties of the rich and famous.",
+                "vi": "Tôi cũng thấy khó từ chối tham dự các bữa tiệc của những người giàu và nổi tiếng."
+            }
+        },
+        {
+            "content": "trong tình trạng",
+            "type": "",
+            "example": {
+                "en": "Mr Potter keeps himself in good condition by going jogging every day.",
+                "vi": "Ông Potter giữ cơ thể mình trong tình trạng khỏe mạnh bằng cách chạy bộ mỗi ngày."
+            }
+        },
+        {
+            "content": "đang hoạt động",
+            "type": "",
+            "example": {
+                "en": "But today, six years later, it's still going.",
+                "vi": "Nhưng ngày nay, 6 năm sau, nó vẫn đang hoạt động."
+            }
+        },
+        {
+            "content": "được sử dụng",
+            "type": "",
+            "example": {
+                "en": "This was going to be used as a touchstone",
+                "vi": "Cái này sẽ được sử dụng như một chuẩn mực"
+            }
+        },
+        {
+            "content": "được đặt",
+            "type": "",
+            "example": {
+                "en": "So the question is, how are we going to fix this?",
+                "vi": "Nên câu hỏi được đặt ra là chúng ta sẽ sửa chữa điều này như thế nào đây?"
+            }
+        },
+        {
+            "content": "được để",
+            "type": "",
+            "example": {
+                "en": "I was going to do something, anything, to stop it.",
+                "vi": "Tôi sẽ làm gì đó, gì cũng được, để chấm dứt tục lệ này."
+            }
+        },
+        {
+            "content": "bán",
+            "type": "verb Prefix",
+            "example": {
+                "en": "Man, what this stuff would go for on eBay.",
+                "vi": "Những thứ này nên mang bán ở trên eBay mới phải."
+            }
+        },
+        {
+            "content": "sụp",
+            "type": "",
+            "example": {
+                "en": "In two weeks I'll go to pieces.",
+                "vi": "Sau hai tuần, tôi sẽ hoàn toàn suy sụp."
+            }
+        },
+        {
+            "content": "suất",
+            "type": "noun",
+            "example": {
+                "en": "But we're going to represent beliefs with probabilities.",
+                "vi": "Nhưng chúng tôi sẽ giới thiệu niềm tin bằng xác suất."
+            }
+        },
+        {
+            "content": "chén",
+            "type": "noun",
+            "example": {
+                "en": "He's going to recover the Grail for us.",
+                "vi": "Ông ấy sẽ giúp chúng ta lấy chén Thánh"
+            }
+        },
+        {
+            "content": "cú",
+            "type": "interjection noun",
+            "example": {
+                "en": "It's going to be huge!\"",
+                "vi": "Điều này sẽ là một cú hích!\""
+            }
+        },
+        {
+            "content": "cốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kê",
+            "type": "noun",
+            "example": {
+                "en": "They see a fella with sweat all over him and their boilers go steaming over.",
+                "vi": "Họ thấy một gã mồ hôi mồ kê đầy mình và cái thùng súp-de của họ sôi lên."
+            }
+        },
+        {
+            "content": "quẻ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hớp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bắt đầu",
+            "type": "verb",
+            "example": {
+                "en": "The police began to go into the murder case.",
+                "vi": "Cảnh sát bắt đầu điều tra vụ án giết người."
+            }
+        },
+        {
+            "content": "chuyển động",
+            "type": "",
+            "example": {
+                "en": "Hey, wait a minute, I thought only the good guys get to go in slow motion?",
+                "vi": "Này, khoan đã, anh chỉ nghĩ mấy gã giỏi chuyển động chậm vậy sao?"
+            }
+        },
+        {
+            "content": "chấm dứt",
+            "type": "",
+            "example": {
+                "en": "You keep going till the gorilla wants to stop.",
+                "vi": "Cô không thể ngừng lại trừ khi cuộc chiến đó chấm dứt."
+            }
+        },
+        {
+            "content": "có chỗ",
+            "type": "",
+            "example": {
+                "en": "All my life needed was a sense of someplace to go.",
+                "vi": "Tất cả những gì đời tôi cần là cảm giác có chỗ nào đó để đi."
+            }
+        },
+        {
+            "content": "cư xử",
+            "type": "verb",
+            "example": {
+                "en": "Then while you're here, we're going to act like a family.",
+                "vi": "Trong khi con còn đang ở đây, chúng ta sẽ cư xử như một gia đình."
+            }
+        },
+        {
+            "content": "diễn biến",
+            "type": "",
+            "example": {
+                "en": "There are a lot of things that could go wrong.",
+                "vi": "Ngoài đó, nhiều việc có thể diễn biến tệ đi."
+            }
+        },
+        {
+            "content": "hoá thành",
+            "type": "",
+            "example": {
+                "en": "There are microbes, you know — go back to yeast.",
+                "vi": "Có những con vui khuẩn, như bạn biết, chuyển hoá thành men."
+            }
+        },
+        {
+            "content": "hành động theo",
+            "type": "",
+            "example": {
+                "en": "You make a decision on which you're going to base an action.",
+                "vi": "Anh ra một quyết định để hành động theo đó."
+            }
+        },
+        {
+            "content": "hãy đi",
+            "type": "",
+            "example": {
+                "en": "Let's go to the beach. I got time off from work for the next 6 days.",
+                "vi": "Chúng ta hãy đi ra biển đi. Tôi được nghỉ làm trong 6 ngày tới."
+            }
+        },
+        {
+            "content": "hợp nhịp điệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp với",
+            "type": "",
+            "example": {
+                "en": "It doesn't go with the room at all, but I got it for free so it's all good!",
+                "vi": "Đúng là nó không hợp với căn phòng, nhưng miễn phí nên lấy cũng không sao."
+            }
+        },
+        {
+            "content": "khẩu phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết quả",
+            "type": "verb noun",
+            "example": {
+                "en": "They're going to tell me the results on Monday.",
+                "vi": "Họ sẽ cho tôi biết kết quả vào thứ Hai."
+            }
+        },
+        {
+            "content": "làm theo",
+            "type": "",
+            "example": {
+                "en": "I prayed, but I was mostly going through the motions.",
+                "vi": "Tôi đã cầu nguyện, nhưng hầu như làm theo thói quen."
+            }
+        },
+        {
+            "content": "làm đến mức là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mất hết",
+            "type": "",
+            "example": {
+                "en": "Now, if you suddenly change the rules of the game, you're going to lose your audience.",
+                "vi": "Giờ nếu anh đột nhiên thay đổi luật chơi, anh sẽ mất hết khán giả."
+            }
+        },
+        {
+            "content": "nhiệt tình",
+            "type": "",
+            "example": {
+                "en": "They are gonna go crazy tonight with nowhere to keep the rubbish.",
+                "vi": "Họ sẽ nhiệt tình trong tối nay, rồi sau đó với những thứ rác rưởi như thế này."
+            }
+        },
+        {
+            "content": "nói năng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá sản",
+            "type": "",
+            "example": {
+                "en": "If you don't sell to me, you're going to go bankrupt.",
+                "vi": "Nếu anh không bán nơi này cho tôi, anh sẽ bị phá sản."
+            }
+        },
+        {
+            "content": "phổ theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bận rộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hoạt đông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hăng hái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thành công",
+            "type": "",
+            "example": {
+                "en": "It 's not going to happen overnight , and it may even take years .",
+                "vi": "Sự thành công không đến trong một đêm và nó thậm chí có thể phải mất nhiều năm ."
+            }
+        },
+        {
+            "content": "sự thắng lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tích cực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi",
+            "type": "",
+            "example": {
+                "en": "They don't really go to the usual place that memories go.",
+                "vi": "Chúng không thực sự đi qua những nơi mà kí ức đã trải qua."
+            }
+        },
+        {
+            "content": "thành ra",
+            "type": "",
+            "example": {
+                "en": "For now you will go from the city and reside in the field.",
+                "vi": "Vì nay phải từ thành ra đồng ở."
+            }
+        },
+        {
+            "content": "thích hợp với",
+            "type": "",
+            "example": {
+                "en": "You just go pick out any little spot that suits ya.",
+                "vi": "Anh cứ chọn một địa điểm nào thích hợp với anh."
+            }
+        },
+        {
+            "content": "tiêu tan",
+            "type": "",
+            "example": {
+                "en": "But after you go public, it's all gone.",
+                "vi": "Nhưng sau khi cậu cho mọi người biết, tất cả sẽ tiêu tan."
+            }
+        },
+        {
+            "content": "tiêu vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiến hành",
+            "type": "",
+            "example": {
+                "en": "We can go and use inflatable systems for almost everything.",
+                "vi": "Chúng ta có thể tiến hành và sử dụng hệ thống bơm phồng cho hầu như mọi thứ."
+            }
+        },
+        {
+            "content": "tiếp diễn",
+            "type": "",
+            "example": {
+                "en": "Now, all these cases are still going on.",
+                "vi": "Bây giờ, tất cả những vụ này vẫn còn tiếp diễn."
+            }
+        },
+        {
+            "content": "truyền miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyền đi",
+            "type": "",
+            "example": {
+                "en": "That list was already going around.",
+                "vi": "Cái danh sách đó cũng đã được truyền đi khắp nơi rồi mà."
+            }
+        },
+        {
+            "content": "trôi đi",
+            "type": "",
+            "example": {
+                "en": "I can make all this go away, Jonson.",
+                "vi": "Ta có thể... để mọi thứ trôi đi, Jonson."
+            }
+        },
+        {
+            "content": "việc khó xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc rắc rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về nhà",
+            "type": "",
+            "example": {
+                "en": "If possible, I'd like to go home now.",
+                "vi": "Nếu có thể, tôi muốn được về nhà ngay bây giowf."
+            }
+        },
+        {
+            "content": "vỡ nợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vừa với",
+            "type": "",
+            "example": {
+                "en": "I'd go to Africa and bring you back a diamond as big as your fist.",
+                "vi": "Tôi sẽ đi châu Phi và đem về một vốc kim cương vừa với bàn tay em."
+            }
+        },
+        {
+            "content": "xét theo",
+            "type": "",
+            "example": {
+                "en": "And judging by the way things are going, people will only become more self-centered.",
+                "vi": "Xét theo chiều hướng sự việc đang diễn ra, người ta ngày càng trở nên vị kỷ hơn."
+            }
+        },
+        {
+            "content": "xảy ra",
+            "type": "verb",
+            "example": {
+                "en": "There are some very strange things going on here.",
+                "vi": "Có điều gì đó rất kỳ lạ đang xảy ra ở đây."
+            }
+        },
+        {
+            "content": "xứng với",
+            "type": "",
+            "example": {
+                "en": "This was going to be Superman, or it wasn't worth my time or their money.",
+                "vi": "Nhất định phải là siêu phẩm mới xứng với thời gian và tiền của."
+            }
+        },
+        {
+            "content": "yếu đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang lưu hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điểm đánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được biết",
+            "type": "",
+            "example": {
+                "en": "You are going to make the best king Oz has ever known.",
+                "vi": "Anh sẽ được biết đến là một vị vua tuyệt vời nhất xứ Oz."
+            }
+        },
+        {
+            "content": "được thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt để",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để vừa vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đủ chỗ",
+            "type": "",
+            "example": {
+                "en": "I just don't know where we're going to fit all the people.",
+                "vi": "Tôi đang không biết làm sao để có đủ chỗ cho mọi người."
+            }
+        },
+        {
+            "content": "ở vào tình trạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắp",
+            "type": "noun",
+            "example": {
+                "en": "Finally, as the sun was going down, we were running out of light.",
+                "vi": "Cuối cùng, mặt trời lặng xuống, chúng tôi sắp không còn ánh sáng."
+            }
+        },
+        {
+            "content": "thăm",
+            "type": "",
+            "example": {
+                "en": "You come and go as you please, see the ones you love.",
+                "vi": "Còn ông tới và đi nếu thích, thăm những người ông yêu quý."
+            }
+        },
+        {
+            "content": "hàng",
+            "type": "verb noun",
+            "example": {
+                "en": "You're going to meet loads of cool, new friends.",
+                "vi": "Cậu sẽ gặp hàng tá người bạn mới hay ho."
+            }
+        },
+        {
+            "content": "bỏ đi",
+            "type": "",
+            "example": {
+                "en": "All you had to do was go away!",
+                "vi": "Tất cả những gì anh phải làm là bỏ đi!"
+            }
+        },
+        {
+            "content": "dẫn tới",
+            "type": "",
+            "example": {
+                "en": "Naturally, it follows I'm going to speak about the present me.",
+                "vi": "Nó dẫn tới việc tôi nói về chính bản thân mình hiện tại."
+            }
+        },
+        {
+            "content": "hoạt động",
+            "type": "adjective noun",
+            "example": {
+                "en": "Incentives make the world go round , and sometimes go wrong .",
+                "vi": "Các động cơ thúc đẩy mọi thứ hoạt động , và đôi khi hoạt động sai ."
+            }
+        },
+        {
+            "content": "ra đi",
+            "type": "verb",
+            "example": {
+                "en": "When you believe it's okay to let go, you will.",
+                "vi": "Khi bạn thấy đến lúc nên ra đi, bạn sẽ ra đi."
+            }
+        },
+        {
+            "content": "thành công",
+            "type": "verb",
+            "example": {
+                "en": "But this time, she kept going until she successfully reached the coastline.",
+                "vi": "Nhưng lần này, em vẫn tiếp tục và bơi vào bờ một cách thành công."
+            }
+        },
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {
+                "en": "Their motives obviously influence how they go about their work.",
+                "vi": "Rõ ràng động lực của họ ảnh hưởng đến cách họ thực hiện công việc."
+            }
+        }
+    ]
+}

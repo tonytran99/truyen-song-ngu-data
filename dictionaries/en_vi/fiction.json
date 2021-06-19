@@ -1,0 +1,71 @@
+{
+    "word": "fiction",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfikSH(ə)n/",
+            "/ˈfɪkʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪkʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiểu thuyết",
+            "type": "noun",
+            "example": {
+                "en": "I'll change the names if I have to, call it fiction.",
+                "vi": "Anh sẽ đổi tên nếu cần, gọi nó là tiểu thuyết."
+            }
+        },
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {
+                "en": "So, some fiction on our side as well.",
+                "vi": "Vài điều hư cấu từ phía bên ta."
+            }
+        },
+        {
+            "content": "tiểu thuyết hư cấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viễn tưởng",
+            "type": "",
+            "example": {
+                "en": "Though, by definition, science fiction is not science.",
+                "vi": "Theo định nghĩa, thì khoa học viễn tưởng không phải là khoa học."
+            }
+        },
+        {
+            "content": "điều bịa đặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều hư cấu",
+            "type": "",
+            "example": {
+                "en": "So, some fiction on our side as well.",
+                "vi": "Vài điều hư cấu từ phía bên ta."
+            }
+        },
+        {
+            "content": "điều tưởng tượng",
+            "type": "",
+            "example": {
+                "en": "A gentleman allows a lady to maintain her fictions.",
+                "vi": "Quý ông cho phép quý bà giữ những điều tưởng tượng của mình."
+            }
+        }
+    ]
+}

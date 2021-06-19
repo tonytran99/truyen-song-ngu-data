@@ -1,0 +1,51 @@
+{
+    "word": "hypnotic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hipˈnädik/",
+            "/hɪpˈnɑdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪpˈnɒtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc ngủ",
+            "type": "",
+            "example": {
+                "en": "These medications are classified as sedative hypnotics .",
+                "vi": "Những loại thuốc này được phân loại như là thuốc ngủ an thần ."
+            }
+        },
+        {
+            "content": "bị thôi miên",
+            "type": "",
+            "example": {
+                "en": "But it's OK that even though you're not hypnotized, you will forget everything that happened.",
+                "vi": "Nhưng sẽ ổn thôi mặc dù bạn không hề bị thôi miên bạn sẽ vẫn quên những gì đã xảy ra."
+            }
+        },
+        {
+            "content": "người bị thôi miên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thôi miên",
+            "type": "",
+            "example": {
+                "en": "Are you actually trying to hypnotize me, Brain?",
+                "vi": "Anh đang thôi miên tôi đấy phải không Brain?"
+            }
+        }
+    ]
+}

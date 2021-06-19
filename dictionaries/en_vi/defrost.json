@@ -1,0 +1,47 @@
+{
+    "word": "defrost",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈfrôst/",
+            "/diˈfrɔst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈfrɒst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm tan băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tan sương giá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rã băng",
+            "type": "",
+            "example": {
+                "en": "It's a bit difficult now but I'll defrost you when things get better.",
+                "vi": "Bây giờ thì hơi khó khăn nhưng tao sẽ rã băng cho mày khi nào khá hơn."
+            }
+        },
+        {
+            "content": "rã đông",
+            "type": "",
+            "example": {
+                "en": "These children, he said, had been kept neatly in a refrigerator that didn't defrost.",
+                "vi": "Những em này, theo ông, đã được giữ kín trong tủ lạnh và không được rã đông."
+            }
+        }
+    ]
+}

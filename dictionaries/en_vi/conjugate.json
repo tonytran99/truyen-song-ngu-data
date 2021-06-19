@@ -1,0 +1,105 @@
+{
+    "word": "conjugate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänjəˌɡāt/",
+            "/ˈkɑndʒəˌɡeɪt/",
+            "/ˈkänjəɡət/",
+            "/ˈkɑndʒəɡət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒndʒʊɡeɪt/",
+            "/ˈkɒndʒʊɡət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liên hợp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "biến ngôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng gốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghép đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "4 . Conjugate vaccines ( such as Hib ) contain parts of bacteria combined with proteins .",
+                "vi": "4 . Vắc-xin kết hợp ( như Hib ) chứa các thành phần vi khuẩn kết hợp với prô-tê-in ."
+            }
+        },
+        {
+            "content": "số liên hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trục liên hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ cùng gốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường kính liên hợp;",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chia",
+            "type": "",
+            "example": {
+                "en": "that when I was conjugating French irregular verbs,",
+                "vi": "khi mà tôi đang chia động từ bất quy tắc tiếng Pháp"
+            }
+        },
+        {
+            "content": "chia động từ",
+            "type": "",
+            "example": {
+                "en": "While traveling in the city, I used to memorize verb conjugations.",
+                "vi": "Khi đi trong thành phố, tôi thường học thuộc lòng cách chia động từ."
+            }
+        }
+    ]
+}

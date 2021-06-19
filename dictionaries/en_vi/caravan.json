@@ -1,0 +1,75 @@
+{
+    "word": "caravan",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerəˌvan/",
+            "/ˈkɛrəˌvæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkarəvan/",
+            "/karəˈvan/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà lưu động",
+            "type": "",
+            "example": {
+                "en": "Our home was a plywood caravan, or trailer.",
+                "vi": "Nhà của chúng tôi là một căn nhà lưu động bằng ván ép."
+            }
+        },
+        {
+            "content": "xe moóc",
+            "type": "noun",
+            "example": {
+                "en": "We live in a caravan (small trailer) on a farm.",
+                "vi": "Chúng tôi sống trong một nhà lưu động (xe moóc) đậu trong một nông trại."
+            }
+        },
+        {
+            "content": "xe lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn bộ hành",
+            "type": "",
+            "example": {
+                "en": "Tyre is also a trading center for overland caravans as well as a great import-export depot.",
+                "vi": "Ty-rơ cũng là một trung tâm thương mại cho các đoàn bộ hành, đồng thời là một kho vĩ đại chứa hàng xuất nhập cảng."
+            }
+        },
+        {
+            "content": "đoàn người hành hương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn người đi buôn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đoàn lữ hành",
+            "type": "noun",
+            "example": {
+                "en": "This was a prime spot where caravans crossed.",
+                "vi": "Đây là điểm chính yếu để các đoàn lữ hành băng qua sông."
+            }
+        },
+        {
+            "content": "Caravan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

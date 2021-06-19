@@ -1,0 +1,52 @@
+{
+    "word": "walking",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "sự đi",
+            "type": "",
+            "example": {
+                "en": "Kevin, don't you walk in here and start pointing fingers at your own family.",
+                "vi": "Kevin, em thật sự đi vào đây và phản bội lại chính gia đình của mình sao."
+            }
+        },
+        {
+            "content": "sự đi bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi dạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi bộ",
+            "type": "verb",
+            "example": {
+                "en": "I had hardly walked a mile when it began to thunder.",
+                "vi": "Tôi mới chỉ đi bộ một kilomet rưỡi thì bắt đầu có sấm."
+            }
+        },
+        {
+            "content": "đi dạo",
+            "type": "",
+            "example": {
+                "en": "I don't feel like going to the movies. Let's take a walk instead.",
+                "vi": "Tôi không có hứng đi xem phim, hay là chúng ta đi dạo đi."
+            }
+        },
+        {
+            "content": "Đi bộ",
+            "type": "",
+            "example": {
+                "en": "I had hardly walked a mile when it began to thunder.",
+                "vi": "Tôi mới chỉ đi bộ một kilomet rưỡi thì bắt đầu có sấm."
+            }
+        }
+    ]
+}

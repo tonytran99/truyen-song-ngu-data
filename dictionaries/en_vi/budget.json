@@ -1,0 +1,83 @@
+{
+    "word": "budget",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəjət/",
+            "/ˈbədʒət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌdʒɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngân sách",
+            "type": "noun",
+            "example": {
+                "en": "I reviewed the budget, and decided to cut costs.",
+                "vi": "Tôi duyệt lại ngân sách và quyết định cắt giảm các chi phí."
+            }
+        },
+        {
+            "content": "ghi vào ngân sách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túi",
+            "type": "noun",
+            "example": {
+                "en": "This place in your budget?",
+                "vi": "Nơi này hợp với túi tiền của anh sao?"
+            }
+        },
+        {
+            "content": "kho",
+            "type": "verb",
+            "example": {
+                "en": "We're on a budget.",
+                "vi": "Chúng ta đang ở trong 1 cái kho."
+            }
+        },
+        {
+            "content": "đống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dự thảo ngân sách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngân quỹ",
+            "type": "noun",
+            "example": {
+                "en": "That's twice the country's health and education budget combined.",
+                "vi": "Gấp đôi ngân quỹ cho giáo dục và y tế cộng lại."
+            }
+        },
+        {
+            "content": "Ngân sách",
+            "type": "",
+            "example": {
+                "en": "I reviewed the budget, and decided to cut costs.",
+                "vi": "Tôi duyệt lại ngân sách và quyết định cắt giảm các chi phí."
+            }
+        }
+    ]
+}

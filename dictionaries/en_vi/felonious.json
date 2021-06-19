@@ -1,0 +1,48 @@
+{
+    "word": "felonious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈlōnēəs/",
+            "/fəˈloʊniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɛˈləʊnɪəs/",
+            "/fɪˈləʊnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tội",
+            "type": "",
+            "example": {
+                "en": "Is imagination now a felony?",
+                "vi": "Bây giờ tưởng tượng cũng có tội sao?"
+            }
+        },
+        {
+            "content": "phạm tội ác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tội ác",
+            "type": "",
+            "example": {
+                "en": "Deputy Mayor, lp Man has been charged with felony",
+                "vi": "Ngài nghị sĩ, Diệp Vấn đã gây tội ác."
+            }
+        },
+        {
+            "content": "đầy tội ác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

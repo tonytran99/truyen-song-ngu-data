@@ -1,0 +1,79 @@
+{
+    "word": "because",
+    "type": [
+        "adverb",
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēˈkəz/",
+            "/biˈkəz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈkɒz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vì",
+            "type": "conjunction",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        },
+        {
+            "content": "tại vì",
+            "type": "conjunction",
+            "example": {
+                "en": "I slept a little during lunch break because I was so tired.",
+                "vi": "\"Đang lúc ăn chưa, tôi ngủ một hồi tại vì mệt quá."
+            }
+        },
+        {
+            "content": "bởi vì",
+            "type": "conjunction",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        },
+        {
+            "content": "do",
+            "type": "conjunction",
+            "example": {
+                "en": "One's face fills with wrinkles because time does not pass in vain.",
+                "vi": "Nếp nhăn trên mặt mỗi người do thời gian không trừ một ai."
+            }
+        },
+        {
+            "content": "nhưng vì",
+            "type": "adverb",
+            "example": {
+                "en": "Not because of their physical appearance, but because of the thoughts they express.",
+                "vi": "Không phải vì hình thức bên ngoài, nhưng vì miệng diễn đạt được tư tưởng."
+            }
+        },
+        {
+            "content": "tại",
+            "type": "adposition",
+            "example": {
+                "en": "I slept a little during lunch break because I was so tired.",
+                "vi": "\"Đang lúc ăn chưa, tôi ngủ một hồi tại vì mệt quá."
+            }
+        },
+        {
+            "content": "nhân",
+            "type": "verb noun",
+            "example": {
+                "en": "That dark brown poo in the toilet is dark brown because of what?",
+                "vi": "Phân màu nâu đậm trong nhà vệ sinh có nguyên nhân từ đâu?"
+            }
+        }
+    ]
+}

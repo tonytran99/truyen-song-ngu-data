@@ -1,0 +1,168 @@
+{
+    "word": "comment",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäment/",
+            "/ˈkɑmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình luận",
+            "type": "noun",
+            "example": {
+                "en": "It isn't easy to translate all your comments into Standard German.",
+                "vi": "Không dễ dàng dàng để dịch tất cả các bình luận của bạn sang tiếng Đức chuẩn."
+            }
+        },
+        {
+            "content": "phê bình",
+            "type": "verb",
+            "example": {
+                "en": "Write some of the children’s comments on the board.",
+                "vi": "Viết một vài lời phê bình góp ý của các em lên trên bảng."
+            }
+        },
+        {
+            "content": "chú thích",
+            "type": "",
+            "example": {
+                "en": "Type any comment you think is useful here",
+                "vi": "Gõ vào đây chú thích nào có ích"
+            }
+        },
+        {
+            "content": "lời bình luận",
+            "type": "noun",
+            "example": {
+                "en": "Do you worry that your comment will not be as good as the comments of others?",
+                "vi": "Hay anh chị lo rằng lời bình luận của mình sẽ không hay như người khác?"
+            }
+        },
+        {
+            "content": "bình chú",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lời bình",
+            "type": "",
+            "example": {
+                "en": "Do you worry that your comment will not be as good as the comments of others?",
+                "vi": "Hay anh chị lo rằng lời bình luận của mình sẽ không hay như người khác?"
+            }
+        },
+        {
+            "content": "ý kiến",
+            "type": "noun",
+            "example": {
+                "en": "Listen as the householder gives his thoughts, then acknowledge and express appreciation for his comments.",
+                "vi": "Hãy lắng nghe ý kiến của chủ nhà, có phản ứng và tỏ lòng biết ơn."
+            }
+        },
+        {
+            "content": "chú giải",
+            "type": "noun",
+            "example": {
+                "en": "Such comments made a valuable contribution to understanding the syntax and grammar of the Hebrew language.",
+                "vi": "Những lời chú giải như thế góp phần quan trọng vào sự hiểu biết cú pháp và văn phạm tiếng Hê-bơ-rơ."
+            }
+        },
+        {
+            "content": "chỉ trích",
+            "type": "",
+            "example": {
+                "en": "So they immediately began posting a lot of critical comments.",
+                "vi": "Nên họ bắt đầu đăng rất nhiều bình luận chỉ trích."
+            }
+        },
+        {
+            "content": "cảm tưởng",
+            "type": "noun",
+            "example": {
+                "en": "Writer Celso Carunungan commented on “a feeling of holiness, that when you get inside you are going to confront your Creator.”",
+                "vi": "Nhà văn Celso Carunungan nhận xét về “một cảm tưởng thánh thiện, mà khi vào bên trong ta sẽ gặp Đấng Sáng Tạo của mình.”"
+            }
+        },
+        {
+            "content": "dẫn giải",
+            "type": "",
+            "example": {
+                "en": "Brother Call then asked me to comment on this section.",
+                "vi": "Sau đó Anh Call yêu cầu tôi dẫn giải về tiết này."
+            }
+        },
+        {
+            "content": "ghi chú = mark = note",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chú giải",
+            "type": "noun",
+            "example": {
+                "en": "Such comments made a valuable contribution to understanding the syntax and grammar of the Hebrew language.",
+                "vi": "Những lời chú giải như thế góp phần quan trọng vào sự hiểu biết cú pháp và văn phạm tiếng Hê-bơ-rơ."
+            }
+        },
+        {
+            "content": "lời chú thích",
+            "type": "",
+            "example": {
+                "en": "Eck added a marginal comment to the verse: “The name Adonai Jehoua.”",
+                "vi": "Ông thêm một lời chú thích về câu này: “Danh Adonai Jehoua”."
+            }
+        },
+        {
+            "content": "lời chỉ trích",
+            "type": "",
+            "example": {
+                "en": "What it does mean is that you can more easily brush off potentially hurtful comments .",
+                "vi": "Mà có nghĩa là bạn sẽ dễ dàng phớt lờ đi những lời chỉ trích bình luận có thể khiến mình bị tổn thương ."
+            }
+        },
+        {
+            "content": "lời dẫn giải",
+            "type": "",
+            "example": {
+                "en": "Let’s consider three of these contextual comments.",
+                "vi": "Hãy xem xét ba trong số những lời dẫn giải này theo văn cảnh."
+            }
+        },
+        {
+            "content": "lời phê bình",
+            "type": "noun",
+            "example": {
+                "en": "Write some of the children’s comments on the board.",
+                "vi": "Viết một vài lời phê bình góp ý của các em lên trên bảng."
+            }
+        },
+        {
+            "content": "nhận xét",
+            "type": "",
+            "example": {
+                "en": "Perhaps you'd care to comment on the article in yesterday's paper?",
+                "vi": "Có lẽ ông muốn nhận xét về bài viết trên báo hôm qua?"
+            }
+        },
+        {
+            "content": "ghi chú",
+            "type": "",
+            "example": {
+                "en": "Yurat , 13 , sent his comments to us in Spanish .",
+                "vi": "Yurat , 13 tuổi , ghi chú cho chúng tôi vài dòng bằng tiếng Tây Ban Nha ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "amnion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈamnēän/",
+            "/ˈæmniɑn/",
+            "/ˈamnēən/",
+            "/ˈæmniən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈamnɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ối",
+            "type": "noun",
+            "example": {
+                "en": "The amnion , filled with amniotic fluid , will surround and protect the growing embryo .",
+                "vi": "Màng ối , chứa nước ối , sẽ bao bọc và bảo vệ phôi thai phát triển ."
+            }
+        },
+        {
+            "content": "màng ối",
+            "type": "noun",
+            "example": {
+                "en": "Two other structures that develop at this time are the amnion and the yolk sac .",
+                "vi": "Hai cấu trúc khác cùng phát triển vào thời điểm này là màng ối và màng phôi ."
+            }
+        }
+    ]
+}

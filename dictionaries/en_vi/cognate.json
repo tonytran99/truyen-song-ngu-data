@@ -1,0 +1,70 @@
+{
+    "word": "cognate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäɡˌnāt/",
+            "/ˈkɑɡˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒɡneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cùng gốc",
+            "type": "",
+            "example": {
+                "en": "The word desire and its cognates appear eight times.",
+                "vi": "Từ mong muốn và những từ cùng gốc với từ ấy được thấy tám lần."
+            }
+        },
+        {
+            "content": "bà con",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bà con gần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng họ hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng một tổ tiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng nguồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "họ hàng gần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật cùng nguồn gốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

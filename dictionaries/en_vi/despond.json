@@ -1,0 +1,64 @@
+{
+    "word": "despond",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspänd/",
+            "/dəˈspɑnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɒnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "despondency",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chán nản",
+            "type": "",
+            "example": {
+                "en": "It didn't mention suicide specifically, but it was someone who was despondent.",
+                "vi": "Nhưng nó không đề cập chính xác tới việc tự tử, nhưng người đó đang rất chán nản."
+            }
+        },
+        {
+            "content": "ngã lòng",
+            "type": "",
+            "example": {
+                "en": "Forced from Israel’s throne, David has reason to be despondent.",
+                "vi": "Hoàn cảnh buộc Đa-vít phải rời bỏ ngôi vua, nên ông có lý do để ngã lòng."
+            }
+        },
+        {
+            "content": "nản lòng",
+            "type": "",
+            "example": {
+                "en": "In some cases, aging causes despondency, even depression.",
+                "vi": "Trong một số trường hợp, tuổi già có thể gây ra nản lòng, thậm chí trầm cảm."
+            }
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "tuyệt vọng",
+            "type": "",
+            "example": {
+                "en": "You were said to be despondent when he died.",
+                "vi": "Họ bảo rằng ngài trông tuyệt vọng khi hắn ta chết."
+            }
+        }
+    ]
+}

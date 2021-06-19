@@ -1,0 +1,57 @@
+{
+    "word": "capacitor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpasədər/",
+            "/kəˈpæsədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpasɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tụ điện",
+            "type": "noun",
+            "example": {
+                "en": "Dr. Stockman should be inventive enough to reassemble the arc capacitor.",
+                "vi": "Tiến sĩ Stockman chắc đủ khả năng để ráp lại bộ tụ điện hồ quang."
+            }
+        },
+        {
+            "content": "cái tụ điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bình ngưng hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ điện dung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái tụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tụ điện",
+            "type": "",
+            "example": {
+                "en": "Dr. Stockman should be inventive enough to reassemble the arc capacitor.",
+                "vi": "Tiến sĩ Stockman chắc đủ khả năng để ráp lại bộ tụ điện hồ quang."
+            }
+        }
+    ]
+}

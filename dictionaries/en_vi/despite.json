@@ -1,0 +1,145 @@
+{
+    "word": "despite",
+    "type": [
+        "verb",
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspīt/",
+            "/dəˈspaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặc dù",
+            "type": "adverb",
+            "example": {
+                "en": "Some people have few symptoms despite the deterioration of their joints .",
+                "vi": "Một số người mặc dù khớp bị thoái hoá nhưng chỉ mắc vài triệu chứng ."
+            }
+        },
+        {
+            "content": "bất chấp",
+            "type": "",
+            "example": {
+                "en": "Found his way back to us, despite everything they did to stop him, right?",
+                "vi": "Tìm đường quay về với ta, bất chấp mọi thứ chúng đã làm để cản cha, đúng không?"
+            }
+        },
+        {
+            "content": "không kể",
+            "type": "",
+            "example": {
+                "en": "Despite my privileged upbringing, I'm well-balanced.",
+                "vi": "Không kể việc tôi được ưu tiên đặc biệt trong học tập, thì tôi khá là bình thường"
+            }
+        },
+        {
+            "content": "bất kể",
+            "type": "conjunction",
+            "example": {
+                "en": "What can you do to share the good news despite any limitations you may have?",
+                "vi": "Anh chị có thể làm gì để chia sẻ tin mừng bất kể những hạn chế?"
+            }
+        },
+        {
+            "content": "cho dù",
+            "type": "adverb",
+            "example": {
+                "en": "Your tutor has taught you well, despite his ill intentions.",
+                "vi": "Hắn dạy cậu rất tốt, cho dù đó chỉ xuất phát từ cá nhân của hắn."
+            }
+        },
+        {
+            "content": "dù",
+            "type": "noun",
+            "example": {
+                "en": "Your tutor has taught you well, despite his ill intentions.",
+                "vi": "Hắn dạy cậu rất tốt, cho dù đó chỉ xuất phát từ cá nhân của hắn."
+            }
+        },
+        {
+            "content": "dẫu",
+            "type": "conjunction",
+            "example": {
+                "en": "despite cybercrime conventions, where the Internet",
+                "vi": "dẫu cho các công ước về tội phạm mạng,"
+            }
+        },
+        {
+            "content": "lời lăng mạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời sỉ nhục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối hờn giận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối tức giận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ghen ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hiềm khích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khinh miệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lăng mạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sỉ nhục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thù oán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuy rằng",
+            "type": "adverb, conjunction",
+            "example": {
+                "en": "Despite all these years that have passed,",
+                "vi": "Tuy rằng sau những năm đã trôi qua,"
+            }
+        },
+        {
+            "content": "ác cảm",
+            "type": "",
+            "example": {
+                "en": "Despite centuries of animosity,",
+                "vi": "Dù qua hàng thế kỉ với nỗi ác cảm,"
+            }
+        }
+    ]
+}

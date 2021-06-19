@@ -1,0 +1,44 @@
+{
+    "word": "discouraging",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈkərijiNG/",
+            "/dɪsˈkərɪdʒɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskʌrɪdʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm chán nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ngã lòng",
+            "type": "",
+            "example": {
+                "en": "(Job 14:1) Illness, financial reverses, or other difficulties common to life may cause discouragement, with its weakening effect.",
+                "vi": "(Gióp 14:1) Đau ốm, tài chính cạn kiệt hoặc những khó khăn chung của đời sống có thể gây chán nản làm ngã lòng."
+            }
+        },
+        {
+            "content": "làm nản lòng",
+            "type": "",
+            "example": {
+                "en": "Despite reasons for discouragement, what should we bear in mind?",
+                "vi": "Bất chấp những nguyên nhân làm nản lòng, chúng ta nên nhớ điều gì?"
+            }
+        }
+    ]
+}

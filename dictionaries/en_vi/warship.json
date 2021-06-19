@@ -1,0 +1,60 @@
+{
+    "word": "warship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrˌSHip/",
+            "/ˈwɔrˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tàu chiến",
+            "type": "noun",
+            "example": {
+                "en": "But first, we'll have to bring her warship down.",
+                "vi": "Nhưng trước tiên, chúng ta phải hạ tàu chiến của ả đã."
+            }
+        },
+        {
+            "content": "binh thuyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiến hạm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chiến thuyền",
+            "type": "noun",
+            "example": {
+                "en": "To design weapons and warships.",
+                "vi": "Để thiết kế vũ khí và chiến thuyền."
+            }
+        },
+        {
+            "content": "quân hạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tàu chiến",
+            "type": "",
+            "example": {
+                "en": "British warships, French privateers, you name it.",
+                "vi": "Tàu chiến Anh, tàu tuần tra Pháp, còn nhiều thứ có thể kể ra nữa."
+            }
+        }
+    ]
+}

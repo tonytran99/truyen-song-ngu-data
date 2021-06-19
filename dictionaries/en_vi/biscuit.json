@@ -1,0 +1,65 @@
+{
+    "word": "biscuit",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbiskit/",
+            "/ˈbɪskɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪskɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh quy",
+            "type": "noun",
+            "example": {
+                "en": "\"Mum, can I have a biscuit?\" \"No, you shouldn't eat between meals.\"",
+                "vi": "\"Má, con có thể ăn một miếng bánh quy được không?\" \"Không. Con không nên ăn giữa bữa ăn.\""
+            }
+        },
+        {
+            "content": "bánh bơ tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu bánh quy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh qui",
+            "type": "",
+            "example": {
+                "en": "Mum's just cracked open a packet of biscuits.",
+                "vi": "Hai đứa ra đây, mẹ vừa mở mấy gói bánh qui đấy."
+            }
+        },
+        {
+            "content": "màu nâu nhạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nâu nhạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh bích quy",
+            "type": "",
+            "example": {
+                "en": "Yeah, but, you know, if you want the biscuit, you gotta risk it.",
+                "vi": "Có chứ, nhưng cháu biết đấy, nếu cháu muốn ăn bánh bích quy thì phải liều thôi."
+            }
+        }
+    ]
+}

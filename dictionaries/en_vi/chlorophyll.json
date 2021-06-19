@@ -1,0 +1,51 @@
+{
+    "word": "chlorophyll",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklôrəˌfil/",
+            "/ˈklɔrəˌfɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɔːrəfɪl/",
+            "/ˈklɒrəfɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất diệp lục",
+            "type": "noun",
+            "example": {
+                "en": "When there's a lot of chlorophyll around, they see a lot of green light.",
+                "vi": "Khi có nhiều chất diệp lục xung quanh, chúng sẽ thấy rất nhiều ánh sáng màu xanh."
+            }
+        },
+        {
+            "content": "diệp lục tố",
+            "type": "noun",
+            "example": {
+                "en": "These contain chlorophyll, which absorbs light energy.",
+                "vi": "Lục lạp chứa diệp lục tố hấp thụ năng lượng ánh sáng."
+            }
+        },
+        {
+            "content": "diệp lục",
+            "type": "",
+            "example": {
+                "en": "These contain chlorophyll, which absorbs light energy.",
+                "vi": "Lục lạp chứa diệp lục tố hấp thụ năng lượng ánh sáng."
+            }
+        },
+        {
+            "content": "clorofin",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

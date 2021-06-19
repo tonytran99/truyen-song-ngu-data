@@ -1,0 +1,42 @@
+{
+    "word": "cheater",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHēdər/",
+            "/ˈtʃidər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃiːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người gian lận",
+            "type": "",
+            "example": {
+                "en": "Of course, cheaters also risk getting caught and suffering the consequences.",
+                "vi": "Dĩ nhiên, những người gian lận cũng có nguy cơ bị phát hiện và gánh lấy hậu quả."
+            }
+        },
+        {
+            "content": "người lừa đảo",
+            "type": "",
+            "example": {
+                "en": "I'm not a cheater.",
+                "vi": "Tôi không phải người lừa đảo."
+            }
+        },
+        {
+            "content": "tên cờ bạc bịp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

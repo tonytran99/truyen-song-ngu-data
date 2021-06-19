@@ -1,0 +1,61 @@
+{
+    "word": "yacht",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yät/",
+            "/jɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "du thuyền",
+            "type": "noun",
+            "example": {
+                "en": "In his spare time she goes yacht and sports car.",
+                "vi": "Cô ấy dùng thời gian rảnh rỗi của mình cho du thuyền và những xe thể thao."
+            }
+        },
+        {
+            "content": "thi thuyền buồm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền buồm nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền yat",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Du thuyền",
+            "type": "",
+            "example": {
+                "en": "His yacht's anchored around the point.",
+                "vi": "Du thuyền của ổng thả neo ở gần đây."
+            }
+        },
+        {
+            "content": "thuyền buồm",
+            "type": "",
+            "example": {
+                "en": "My wife and I will have our Margaritas on the yacht.",
+                "vi": "Vợ tôi và tôi sẽ làm đám cưới trên một chiếc thuyền buồm."
+            }
+        }
+    ]
+}

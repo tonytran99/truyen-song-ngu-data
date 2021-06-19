@@ -1,0 +1,66 @@
+{
+    "word": "cholera",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkälərə/",
+            "/ˈkɑlərə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒlərə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh tả",
+            "type": "noun",
+            "example": {
+                "en": "About a year later, Koch identified the germ that causes cholera.",
+                "vi": "Khoảng một năm sau, Koch đã nhận dạng vi trùng gây bệnh tả."
+            }
+        },
+        {
+            "content": "tả",
+            "type": "noun",
+            "example": {
+                "en": "The only disease you ever had was cholera.",
+                "vi": "Căn bệnh duy nhất mà con bị là thổ tả."
+            }
+        },
+        {
+            "content": "bệnh dịch tả",
+            "type": "",
+            "example": {
+                "en": "Soon cholera broke out, and some members of the camp died.",
+                "vi": "Chẳng bao lâu, bệnh dịch tả bộc phát, và một số trại viên chết."
+            }
+        },
+        {
+            "content": "dịch tả",
+            "type": "noun",
+            "example": {
+                "en": "Many stayed for months, even through the cholera epidemic.",
+                "vi": "Nhiều người đã ở lại hàng tháng, thậm chí trải qua bệnh dịch tả."
+            }
+        },
+        {
+            "content": "hoắc loạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bệnh tả",
+            "type": "",
+            "example": {
+                "en": "I would rather die of cholera than spend an afternoon with you.",
+                "vi": "Tôi thà chết vì bệnh tả còn hơn ở với anh một buổi chiều."
+            }
+        }
+    ]
+}

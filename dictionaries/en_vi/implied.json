@@ -1,0 +1,51 @@
+{
+    "word": "implied",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈplīd/",
+            "/ɪmˈplaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈplʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao hàm",
+            "type": "",
+            "example": {
+                "en": "The exhortation to use your gift implies using initiative.",
+                "vi": "Lời khuyên về việc sử dụng tài năng bao hàm việc phải chủ động."
+            }
+        },
+        {
+            "content": "mặc nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngụ ý",
+            "type": "",
+            "example": {
+                "en": "But what Doug did was imply that it was weak physically.",
+                "vi": "Nhưng điều Doug ngụ ý là nó khá yếu."
+            }
+        },
+        {
+            "content": "ám chỉ",
+            "type": "",
+            "example": {
+                "en": "None of them could understand what she was implying.",
+                "vi": "Không ai trong số họ hiểu cô ấy vừa ám chỉ điều gì."
+            }
+        }
+    ]
+}

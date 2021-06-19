@@ -1,0 +1,45 @@
+{
+    "word": "intransitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtranzədiv/",
+            "/ɪnˈtrænzədɪv/",
+            "/inˈtransədiv/",
+            "/ɪnˈtrænsədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtranzɪtɪv/",
+            "/ɪnˈtrɑːnzɪtɪv/",
+            "/ɪnˈtransɪtɪv/",
+            "/ɪnˈtrɑːnsɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nội động từ",
+            "type": "noun",
+            "example": {
+                "en": "An intransitive verb, such as \"dine,\" for example,",
+                "vi": "Một nội động từ, như \"ăn tối,\" chẳng hạn"
+            }
+        },
+        {
+            "content": "tự động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động từ không cần bổ ngữ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

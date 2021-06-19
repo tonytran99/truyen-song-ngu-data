@@ -1,0 +1,72 @@
+{
+    "word": "chord",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kôrd/",
+            "/kɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dây",
+            "type": "noun",
+            "example": {
+                "en": "A moaning sound while exhaling may merely be air passing over relaxed vocal chords.",
+                "vi": "Tiếng rên khi thở ra có lẽ chỉ là do không khí đi qua dây thanh quản chùng."
+            }
+        },
+        {
+            "content": "dây cung",
+            "type": "",
+            "example": {
+                "en": "And it’s been split up in successive bits and a chord.",
+                "vi": "Hương thơm được chia thành các đoạn liên tục và một dây cung."
+            }
+        },
+        {
+            "content": "hợp âm",
+            "type": "noun",
+            "example": {
+                "en": "But what's the actual difference between these two chords?",
+                "vi": "Nhưng đâu là sự khác biệt thực sự giữa hai hợp âm này?"
+            }
+        },
+        {
+            "content": "thừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dây trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dây cung",
+            "type": "",
+            "example": {
+                "en": "And it’s been split up in successive bits and a chord.",
+                "vi": "Hương thơm được chia thành các đoạn liên tục và một dây cung."
+            }
+        },
+        {
+            "content": "Hợp âm",
+            "type": "",
+            "example": {
+                "en": "But what's the actual difference between these two chords?",
+                "vi": "Nhưng đâu là sự khác biệt thực sự giữa hai hợp âm này?"
+            }
+        }
+    ]
+}

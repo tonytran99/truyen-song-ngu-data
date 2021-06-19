@@ -1,0 +1,82 @@
+{
+    "word": "commerce",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämərs/",
+            "/ˈkɑmərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒməːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thương mại",
+            "type": "noun",
+            "example": {
+                "en": "To this day modern industry, commerce, and science all cater to taste.",
+                "vi": "Ngày nay, công nghiệp, thương mại và khoa học hiện đại đều phục vụ cho vị giác."
+            }
+        },
+        {
+            "content": "buôn bán",
+            "type": "noun",
+            "example": {
+                "en": "This is commerce in Kenya, right along the train tracks,",
+                "vi": "Đây là khu buôn bán ở Kenya, ngay cạnh đường ray,"
+            }
+        },
+        {
+            "content": "thương nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Pirates have cut off our Egyptian grain supply... and Spartacus raids the commerce of all south Italy.",
+                "vi": "Lũ cướp biển đã cắt nguồn tiếp tế lương thực từ Ai Cập... và Spartacus tấn công vào thương nghiệp phía Nam nước Ý."
+            }
+        },
+        {
+            "content": "doanh thương",
+            "type": "noun",
+            "example": {
+                "en": "all the business, all the commerce.",
+                "vi": "tất cả những việc kinh doanh, thương mại"
+            }
+        },
+        {
+            "content": "mậu dịch",
+            "type": "noun",
+            "example": {
+                "en": "International Commerce Centre, noon.",
+                "vi": "Trung Hoàn, quảng trường mậu dịch."
+            }
+        },
+        {
+            "content": "sự buôn bán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự giao cấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giao thiệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự quan hệ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

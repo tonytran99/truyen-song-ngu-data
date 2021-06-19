@@ -1,0 +1,98 @@
+{
+    "word": "cheap",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHēp/",
+            "/tʃip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃiːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rẻ",
+            "type": "adjective",
+            "example": {
+                "en": "It's not even a little bit cheap, it's extremely expensive!",
+                "vi": "Không rẻ 1 tí nào, đắt khủng khiếp."
+            }
+        },
+        {
+            "content": "rẻ tiền",
+            "type": "adjective",
+            "example": {
+                "en": "What's your favorite cheap wine?",
+                "vi": "Bạn thích loại rượu vang rẻ tiền nào?"
+            }
+        },
+        {
+            "content": "hạ",
+            "type": "verb noun",
+            "example": {
+                "en": "Moore's law made computing cheap;",
+                "vi": "Định luật Moore hạ giá điện toán,"
+            }
+        },
+        {
+            "content": "hời",
+            "type": "adjective",
+            "example": {
+                "en": "But it will not be a cheap, shallow redemption",
+                "vi": "Nhưng đây sẽ không chỉ là cuộc trả đũa sơ sài, hời hợt"
+            }
+        },
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {
+                "en": "Takes cheap shots like Gaston",
+                "vi": "♪ Mưu mẹo như Gaston Xấu tính như Gaston ♪"
+            }
+        },
+        {
+            "content": "hạ giá",
+            "type": "",
+            "example": {
+                "en": "Moore's law made computing cheap;",
+                "vi": "Định luật Moore hạ giá điện toán,"
+            }
+        },
+        {
+            "content": "on the cheap rẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rẻ mạt",
+            "type": "",
+            "example": {
+                "en": "A power you have wasted on nothing but cheap sentiment!",
+                "vi": "Một sức mạnh mà em đã lãng phí cho một thứ tình cảm rẻ mạt"
+            }
+        },
+        {
+            "content": "ít giá trị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rẽ",
+            "type": "adjective",
+            "example": {
+                "en": "This kind of cloth is both cheap and sturdy.",
+                "vi": "Thứ vải này đã rẽ lại bền."
+            }
+        }
+    ]
+}

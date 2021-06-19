@@ -1,0 +1,64 @@
+{
+    "word": "attention",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈten(t)SH(ə)n/",
+            "/əˈtɛn(t)ʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈtɛnʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chú ý",
+            "type": "verb",
+            "example": {
+                "en": "Which player are you paying the most attention to this year?",
+                "vi": "Năm nay, tuyển thủ đang được chú ý là ai vậy?"
+            }
+        },
+        {
+            "content": "sự chú ý",
+            "type": "",
+            "example": {
+                "en": "Attention centered on the singer.",
+                "vi": "Mọi sự chú ý đều tập trung về phía ca sĩ."
+            }
+        },
+        {
+            "content": "sự chăm sóc",
+            "type": "",
+            "example": {
+                "en": "Mrs Peacock, you are in immediate need of medical attention.",
+                "vi": "Bà Peacock, bà cần sự chăm sóc của y tế ngay."
+            }
+        },
+        {
+            "content": "tư thế đứng nghiêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ân cần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tập trung",
+            "type": "",
+            "example": {
+                "en": "It's the invisible application that holds our attention to story.",
+                "vi": "Chính sự áp dụng vô hình đã giữ lấy sự tập trung vào câu chuyện."
+            }
+        }
+    ]
+}

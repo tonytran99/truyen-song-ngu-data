@@ -1,0 +1,45 @@
+{
+    "word": "decorative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdek(ə)rədiv/",
+            "/ˈdɛk(ə)rədɪv/",
+            "/ˈdekəˌrādiv/",
+            "/ˈdɛkəˌreɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛk(ə)rətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "để trang trí",
+            "type": "",
+            "example": {
+                "en": "A digiKam image plugin to apply a decorative texture to an image",
+                "vi": "Phần bổ sung ảnh digiKam để áp dụng họa tiết để trang trí cho ảnh"
+            }
+        },
+        {
+            "content": "để làm cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để trang hoàng",
+            "type": "",
+            "example": {
+                "en": "The Targaryens used dragonglass to decorate their weapons without even knowing what the First Men used it for.",
+                "vi": "Nhà Targaryen đã dùng Đá Rồng để trang hoàng vũ khí của họ... mà còn không biết Tiền Nhân dùng nó làm gì."
+            }
+        }
+    ]
+}

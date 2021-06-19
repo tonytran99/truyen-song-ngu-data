@@ -1,0 +1,95 @@
+{
+    "word": "clot",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klät/",
+            "/klɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cục",
+            "type": "noun",
+            "example": {
+                "en": "I had tight stockings on to protect from blood clots.",
+                "vi": "Tôi phải mang vớ băng chân để phòng máu bị vón cục."
+            }
+        },
+        {
+            "content": "khối",
+            "type": "noun",
+            "example": {
+                "en": "There's a big clot in the middle of the artery.",
+                "vi": "Có một khối nghẽn lớn ở giữa động mạch."
+            }
+        },
+        {
+            "content": "quện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cục máu đông",
+            "type": "noun",
+            "example": {
+                "en": "I removed the clot which caused the stroke.",
+                "vi": "Tôi đã loại bỏ cục máu đông là nguyên nhân gây đột quỵ."
+            }
+        },
+        {
+            "content": "hòn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kết",
+            "type": "verb",
+            "example": {
+                "en": "Combine smoking with any one of a dozen genetic disorders and she's a clotting machine.",
+                "vi": "Hút thuốc kết hợp với một đống bệnh di truyền biến cô ta thành một cái máy đông máu."
+            }
+        },
+        {
+            "content": "cục nghẽn",
+            "type": "",
+            "example": {
+                "en": "and boom, boom, boom get rid of the clot.",
+                "vi": "và nổ đùng đùng đùng để tống khứ cái cục nghẽn ấy."
+            }
+        },
+        {
+            "content": "dón lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm dón",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đóng cục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng cục",
+            "type": "",
+            "example": {
+                "en": "It would have been, if we hadn't let the sauce clot.",
+                "vi": "Nó sẽ đẹp nếu như nước sốt không đóng cục như vậy."
+            }
+        }
+    ]
+}

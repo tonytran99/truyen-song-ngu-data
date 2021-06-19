@@ -1,0 +1,50 @@
+{
+    "word": "wee",
+    "type": [
+        "adjective",
+        "pronoun",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wē/",
+            "/wi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhỏ",
+            "type": "adjective",
+            "example": {
+                "en": "I have a wee proposition if you wouldn't mind giving me a few moments of your time.",
+                "vi": "Ta có một đề xuất nho nhỏ, nếu các người không phiền dành cho ta ít phút."
+            }
+        },
+        {
+            "content": "tè",
+            "type": "verb",
+            "example": {
+                "en": "I don't want to see you in the shower, or have a wee.",
+                "vi": "Tớ không muốn thấy cậu tắm táp hay đi tè."
+            }
+        },
+        {
+            "content": "nhỏ xíu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rất nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "james",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jāmz/",
+            "/dʒeɪmz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒeɪmz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Giacơ",
+            "type": "",
+            "example": {
+                "en": "let him call for the elders, James 5:14–15.",
+                "vi": "hãy mời các trưởng lão đến, GiaCơ 5:14–15."
+            }
+        },
+        {
+            "content": "Giacôbê",
+            "type": "proper",
+            "example": {}
+        }
+    ]
+}

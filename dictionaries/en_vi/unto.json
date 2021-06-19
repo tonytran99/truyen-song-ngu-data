@@ -1,0 +1,57 @@
+{
+    "word": "unto",
+    "type": [
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈənto͝o/",
+            "/ˈəntʊ/",
+            "/ˈəntə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌntʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "to",
+            "type": "adjective",
+            "example": {
+                "en": "37 And it came to pass that this man did cry unto the multitude, that they might turn and look.",
+                "vi": "37 Và chuyện rằng, người này kêu to lên cho đám đông quay đầu nhìn lại."
+            }
+        },
+        {
+            "content": "đến",
+            "type": "verb adposition",
+            "example": {
+                "en": "The words the choir sings tonight will encourage us to come unto Him:",
+                "vi": "Những lời hát của ca đoàn đêm nay sẽ khuyến khích chúng ta đến cùng Ngài:"
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "And he went out unto his brethren and looked on their burdens.",
+                "vi": "Và hắn đi tới những người đồng cảnh ngộ và nhìn gánh nặng trên lưng họ."
+            }
+        },
+        {
+            "content": "về hướng",
+            "type": "adposition",
+            "example": {}
+        },
+        {
+            "content": "về phía",
+            "type": "adposition",
+            "example": {}
+        }
+    ]
+}

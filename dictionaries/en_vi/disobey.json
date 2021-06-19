@@ -1,0 +1,42 @@
+{
+    "word": "disobey",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈbā/",
+            "/ˌdɪsəˈbeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈbeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không vâng lời",
+            "type": "",
+            "example": {
+                "en": "We can choose to obey or to disobey.",
+                "vi": "Chúng ta có thể chọn lựa, vâng lời hoặc không vâng lời."
+            }
+        },
+        {
+            "content": "không tuân lệnh",
+            "type": "",
+            "example": {
+                "en": "Nizam must've disobeyed my father's orders and kept them intact.",
+                "vi": "Nizam chắc đã không tuân lệnh cha ta và giữ chúng lại."
+            }
+        },
+        {
+            "content": "không tuân thủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "word": "whatever",
+    "type": [
+        "adjective",
+        "pronoun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wətˈevər/",
+            "/(h)wətˈɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒtˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gì",
+            "type": "verb",
+            "example": {
+                "en": "You can do whatever you want to, of course.",
+                "vi": "Tất nhiên, bạn có thể làm bất cứ thứ gì mà bạn muốn."
+            }
+        },
+        {
+            "content": "dù gì",
+            "type": "",
+            "example": {
+                "en": "Say whatever you want, it's not like I can hear you.",
+                "vi": "Anh nói gì cũng được, dù gì thì tôi cũng có nghe anh nói đâu chứ."
+            }
+        },
+        {
+            "content": "dù thế nào",
+            "type": "",
+            "example": {
+                "en": "Look, for whatever it's worth, Cohen had nothing to do with us.",
+                "vi": "Coi này, dù thế nào đi nữa, Cohen chẳng có gì dính líu đến chúng ta cả."
+            }
+        },
+        {
+            "content": "bất cứ thứ gì",
+            "type": "",
+            "example": {
+                "en": "You can do whatever you want to, of course.",
+                "vi": "Tất nhiên, bạn có thể làm bất cứ thứ gì mà bạn muốn."
+            }
+        },
+        {
+            "content": "gì thì gì",
+            "type": "adverb",
+            "example": {
+                "en": "Whatever my father wants, it can wait till we get back from Paris.",
+                "vi": "Cha tôi muốn gì thì gì, phải đợi cho đến khi chúng ta đi Paris về."
+            }
+        },
+        {
+            "content": "nào",
+            "type": "",
+            "example": {
+                "en": "Well, whatever that is, I'm sure you'll find it.",
+                "vi": "Vâng, bất luận thế nào, tôi tin chắc là cô sẽ tìm được."
+            }
+        },
+        {
+            "content": "sao cũng được",
+            "type": "noun",
+            "example": {
+                "en": "Too old, just wasn't your day, whatever the reason is.",
+                "vi": "Quá già, hết thời, lý do sao cũng được."
+            }
+        },
+        {
+            "content": "thế nào cũng được",
+            "type": "adverb",
+            "example": {
+                "en": "So I came at you with a knife, kidnapped you, whatever.",
+                "vi": "Thì tôi tấn công cô với một con dao, bắt cóc cô, thế nào cũng được."
+            }
+        },
+        {
+            "content": "tất c cái gì mà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

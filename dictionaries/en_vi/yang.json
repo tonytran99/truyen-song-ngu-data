@@ -1,0 +1,42 @@
+{
+    "word": "yang",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yaNG/",
+            "/jæŋ/",
+            "/yäNG/",
+            "/jɑŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jaŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dương",
+            "type": "noun",
+            "example": {
+                "en": "Thunder and lightning, as the coupling of yin and yang.",
+                "vi": "Sấm chớp ầm ầm. Là âm dương giao hợp."
+            }
+        },
+        {
+            "content": "陽",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hoả",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

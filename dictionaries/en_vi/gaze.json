@@ -1,0 +1,35 @@
+{
+    "word": "gaze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡāz/",
+            "/ɡeɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡeɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhìn chằm chằm",
+            "type": "",
+            "example": {
+                "en": "A gaze I grew familiar with when we were yet slaves to Batiatus.",
+                "vi": "Một cái nhìn chằm chằm quen thuộc khi chúng tôi còn là nô lệ nhà Batiatus."
+            }
+        },
+        {
+            "content": "cái nhìn chằm chằm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

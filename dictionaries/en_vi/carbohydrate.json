@@ -1,0 +1,44 @@
+{
+    "word": "carbohydrate",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkärbəˈhīˌdrāt/",
+            "/ˌkɑrbəˈhaɪˌdreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːbəˈhʌɪdreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hyđat-cacbon",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Cacbohydrat",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cacbohydrat",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hydrat cacbon",
+            "type": "",
+            "example": {
+                "en": "Light supplies the energy for water and carbon dioxide to combine and produce carbohydrates.",
+                "vi": "Ánh sáng cung cấp năng lượng để phối hợp nước và cacbon đioxyt và sản xuất hydrat cacbon."
+            }
+        }
+    ]
+}

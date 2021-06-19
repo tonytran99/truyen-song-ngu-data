@@ -1,0 +1,99 @@
+{
+    "word": "cabin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkabən/",
+            "/ˈkæbən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkabɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cabin",
+            "type": "",
+            "example": {
+                "en": "It worked. The drop in cabin pressure released the doors.",
+                "vi": "Giảm áp suất đột ngột ở cabin đã làm cửa mở."
+            }
+        },
+        {
+            "content": "nhà gỗ nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "I know a lake, with a log cabin.",
+                "vi": "Tôi biết một cái hồ, với một căn nhà gỗ nhỏ."
+            }
+        },
+        {
+            "content": "phòng",
+            "type": "noun",
+            "example": {
+                "en": "For your own safety, please return to your cabins.",
+                "vi": "Vì an toàn của bạn, hãy trở về phòng."
+            }
+        },
+        {
+            "content": "buồng",
+            "type": "noun",
+            "example": {
+                "en": "And then we have these aircraft cabins.",
+                "vi": "Và rồi chúng ta những buồng máy bay."
+            }
+        },
+        {
+            "content": "ca-bin",
+            "type": "noun",
+            "example": {
+                "en": "Her uncle has a cabin on the Nevada side.",
+                "vi": "Chú cô ấy có một cái ca bin ở bên phía Nevada."
+            }
+        },
+        {
+            "content": "túp lều",
+            "type": "",
+            "example": {
+                "en": "He rides his horse to their mountain cabin regularly.",
+                "vi": "Ông đều đặn cưỡi ngựa đến túp lều trên núi."
+            }
+        },
+        {
+            "content": "khoang",
+            "type": "",
+            "example": {
+                "en": "Girl doesn't show up and leaves me to handle two cabins.",
+                "vi": "Mấy cô kia không xuất hiện và bỏ lại tôi lo luôn hai khoang."
+            }
+        },
+        {
+            "content": "buồng ngủ",
+            "type": "",
+            "example": {
+                "en": "Krest gave me his cabin.",
+                "vi": "Krest đưa cho cho tôi buồng ngủ của anh ấy."
+            }
+        },
+        {
+            "content": "buồng riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ca bin",
+            "type": "",
+            "example": {
+                "en": "Her uncle has a cabin on the Nevada side.",
+                "vi": "Chú cô ấy có một cái ca bin ở bên phía Nevada."
+            }
+        }
+    ]
+}

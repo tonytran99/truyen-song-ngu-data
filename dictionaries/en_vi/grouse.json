@@ -1,0 +1,59 @@
+{
+    "word": "grouse",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrous/",
+            "/ɡraʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡraʊs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "càu nhàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cằn nhằn",
+            "type": "",
+            "example": {
+                "en": "But I got no time for grouses.",
+                "vi": "Nhưng tao không có thời gian cằn nhằn"
+            }
+        },
+        {
+            "content": "gà gô",
+            "type": "",
+            "example": {
+                "en": "Anything about us grouse hunting in the Vienna Woods?",
+                "vi": "Có nói gì về việc chúng ta săn gà gô trong rừng Vienna không?"
+            }
+        },
+        {
+            "content": "gà gô trắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự càu nhàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cằn nhằn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

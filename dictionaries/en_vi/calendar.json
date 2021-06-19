@@ -1,0 +1,79 @@
+{
+    "word": "calendar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaləndər/",
+            "/ˈkæləndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkalɪndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lịch",
+            "type": "noun",
+            "example": {
+                "en": "In China, they celebrate the New Year by the lunar calendar.",
+                "vi": "Ở Trung Quốc, người ta mừng năm mới theo lịch âm."
+            }
+        },
+        {
+            "content": "歷",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chương trình nghị sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi vào danh sách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi vào lịch",
+            "type": "",
+            "example": {
+                "en": "■ Choose a quit date, and mark it on your calendar.",
+                "vi": "■ Chọn ngày bỏ thuốc và ghi vào lịch."
+            }
+        },
+        {
+            "content": "lịch công tác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lịch trình",
+            "type": "",
+            "example": {
+                "en": "The answer to this question is on your calendar.",
+                "vi": "Câu trả lời cho câu hỏi này nằm chính ở kể hoạch, lịch trình của bạn."
+            }
+        },
+        {
+            "content": "sổ hằng năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Lịch",
+            "type": "",
+            "example": {
+                "en": "In China, they celebrate the New Year by the lunar calendar.",
+                "vi": "Ở Trung Quốc, người ta mừng năm mới theo lịch âm."
+            }
+        }
+    ]
+}

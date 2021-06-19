@@ -1,0 +1,50 @@
+{
+    "word": "contagion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtājən/",
+            "/kənˈteɪdʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈteɪdʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh lây",
+            "type": "",
+            "example": {
+                "en": "\" For the purpose of preventing contagion. \" Hm?",
+                "vi": "\" Vì mục đích ngăn dịch bệnh lây lan. \""
+            }
+        },
+        {
+            "content": "sự lây",
+            "type": "",
+            "example": {
+                "en": "Test her for signs of contagion and quarantine this place.",
+                "vi": "Thử nghiệm cho các dấu hiệu của sự lây lan và cách ly nơi này."
+            }
+        },
+        {
+            "content": "sự lây lan",
+            "type": "noun",
+            "example": {
+                "en": "Test her for signs of contagion and quarantine this place.",
+                "vi": "Thử nghiệm cho các dấu hiệu của sự lây lan và cách ly nơi này."
+            }
+        },
+        {
+            "content": "ảnh hưởng xấu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "baggage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaɡij/",
+            "/ˈbæɡɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaɡɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hành lý",
+            "type": "noun",
+            "example": {
+                "en": "Please stick this label to your baggage.",
+                "vi": "Vui lòng dán nhãn vào hành lý của bạn."
+            }
+        },
+        {
+            "content": "con ranh con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "行李",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

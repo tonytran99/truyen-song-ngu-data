@@ -1,0 +1,70 @@
+{
+    "word": "inland",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌland/",
+            "/ˈɪnˌlænd/",
+            "/ˈinlənd/",
+            "/ˈɪnlənd/",
+            "/inˈland/",
+            "/ɪnˈlænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnlənd/",
+            "/ˈɪnland/",
+            "/ɪnˈland/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nội địa",
+            "type": "noun",
+            "example": {
+                "en": "It's an inland waterway that connects two seas.",
+                "vi": "Nó là đường thủy nội địa nối liền hai biển."
+            }
+        },
+        {
+            "content": "ở sâu trong nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trong nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vùng nội địa",
+            "type": "noun",
+            "example": {
+                "en": "Just a spoiled brat from inland.",
+                "vi": "Chỉ là một thăng quý tử ở vùng nội địa."
+            }
+        },
+        {
+            "content": "vùng ở sâu trong nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về phía trong nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong nước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

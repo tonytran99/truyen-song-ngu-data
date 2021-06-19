@@ -1,0 +1,40 @@
+{
+    "word": "avow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvou/",
+            "/əˈvaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thừa nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận",
+            "type": "verb",
+            "example": {
+                "en": "And, in parting from you now, Thus much let me avow",
+                "vi": "Và giờ trong lúc từ biệt em, bấy nhiêu đó giúp anh nhận ra rằng"
+            }
+        },
+        {
+            "content": "thú nhận",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "decompression",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdēkəmˈpreSH(ə)n/",
+            "/ˌdikəmˈprɛʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːkəmˈprɛʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bớt sức ép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giải nén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giảm sức ép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giảm áp",
+            "type": "",
+            "example": {
+                "en": "Decompression doesn't do that.",
+                "vi": "Sự giảm áp suất không thể gây ra như thế đc."
+            }
+        }
+    ]
+}

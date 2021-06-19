@@ -1,0 +1,85 @@
+{
+    "word": "zero",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈzirō/",
+            "/ˈzɪroʊ/",
+            "/ˈzēˌrō/",
+            "/ˈziˌroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈzɪərəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "số không",
+            "type": "Cardinal number, noun, numeral",
+            "example": {
+                "en": "There it comes, these zeroes after zeroes after zeroes.",
+                "vi": "Nó đây, những con số không sau những số không sau những số không."
+            }
+        },
+        {
+            "content": "zêrô",
+            "type": "Cardinal number, noun",
+            "example": {}
+        },
+        {
+            "content": "không",
+            "type": "noun",
+            "example": {
+                "en": "Zero is what comes before one.",
+                "vi": "\"Không\" là số đứng đằng trước \"một\"."
+            }
+        },
+        {
+            "content": "zerô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trạng thái hết sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trạng thái không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điểm thấp nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ cao zêrô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ không",
+            "type": "",
+            "example": {
+                "en": "I designed a compact cryo-engine to achieve absolute zero.",
+                "vi": "Tôi thiết kế một động cơ cryo nhỏ gọn để đạt được độ không tuyệt đối."
+            }
+        }
+    ]
+}

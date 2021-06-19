@@ -1,0 +1,39 @@
+{
+    "word": "goalie",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡōlē/",
+            "/ˈɡoʊli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəʊli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người giữ gôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủ thành",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thủ môn",
+            "type": "noun",
+            "example": {
+                "en": "I was playing goalie and doing a great job.",
+                "vi": "Tôi là thủ môn và chơi rất giỏi."
+            }
+        }
+    ]
+}

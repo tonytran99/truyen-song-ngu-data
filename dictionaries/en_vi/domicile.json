@@ -1,0 +1,88 @@
+{
+    "word": "domicile",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdäməˌsīl/",
+            "/ˈdɑməˌsaɪl/",
+            "/ˈdōməˌsīl/",
+            "/ˈdoʊməˌsaɪl/",
+            "/ˈdäməsəl/",
+            "/ˈdɑməsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒmɪsʌɪl/",
+            "/ˈdɒmɪsɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "This is my own private domicile and I will not be harassed.",
+                "vi": "Đây là nhà riêng của tôi, đừng có quấy rầy nữa."
+            }
+        },
+        {
+            "content": "nhà ở",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nơi ở",
+            "type": "noun",
+            "example": {
+                "en": "\" Mr Assange entered Geneva as his domicile .",
+                "vi": "\" Ông Assange ghi Geneva là nơi ở của mình ."
+            }
+        },
+        {
+            "content": "nơi ở cố định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định chỗ ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định chỗ ở tại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định nơi thanh toán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở tại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "căn hộ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nôi ôû, choã ôû",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

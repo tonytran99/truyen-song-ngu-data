@@ -1,0 +1,45 @@
+{
+    "word": "bossy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbôsē/",
+            "/ˈbɔsi/",
+            "/ˈbäsē/",
+            "/ˈbɑsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có bướu lồi ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hách dịch",
+            "type": "adjective",
+            "example": {
+                "en": "I get to be bossy today, because I am the boss of a multi-billion dollar corporation.",
+                "vi": "Em phải hách dịch hôm nay vì em là sếp của nhiều công ty tỉ đô."
+            }
+        },
+        {
+            "content": "hống hách",
+            "type": "adjective",
+            "example": {
+                "en": "Tears conquer the face of the bossy head nurse .",
+                "vi": "Nước mắt ướt đẫm khuôn mặt người y tá trưởng hống hách ."
+            }
+        }
+    ]
+}

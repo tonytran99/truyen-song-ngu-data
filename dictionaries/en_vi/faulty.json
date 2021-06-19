@@ -1,0 +1,71 @@
+{
+    "word": "faulty",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôltē/",
+            "/ˈfɔlti/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːlti/",
+            "/ˈfɒlti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thiếu sót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "But what if the faulty assumption is that it's real?",
+                "vi": "Nhưng nếu như cái giả sử sai lại là thật thì sao?"
+            }
+        },
+        {
+            "content": "không chính xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rõ chất lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tốt",
+            "type": "",
+            "example": {
+                "en": "Extensive evaluation revealed that he had two faulty valves.",
+                "vi": "Nhiều sự định lượng cho thấy rằng ông đã có hai van tim không tốt."
+            }
+        },
+        {
+            "content": "mắc khuyết điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc lỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {
+                "en": "Imagine, for example, that a man’s car has a faulty steering mechanism.",
+                "vi": "Thí dụ, hãy hình dung bộ phận lái của một chiếc xe ô tô bị hỏng."
+            }
+        }
+    ]
+}

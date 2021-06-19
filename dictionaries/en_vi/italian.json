@@ -1,0 +1,36 @@
+{
+    "word": "italian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈtalyən/",
+            "/ɪˈtæljən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈtaljən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Y",
+            "type": "Letter",
+            "example": {
+                "en": "So it's like an Italian taking down an Italian.",
+                "vi": "Y như một gã Ý đang cố hạ một gã Ý khác vậy."
+            }
+        },
+        {
+            "content": "thuộc về nước ý",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

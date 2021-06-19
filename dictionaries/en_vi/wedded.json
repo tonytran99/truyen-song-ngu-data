@@ -1,0 +1,53 @@
+{
+    "word": "wedded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweded/",
+            "/ˈwɛdɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chồng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có vợ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hoà hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "Conception takes place in a wedded embrace between husband and wife.",
+                "vi": "Sự thụ thai diễn ra trong một sự kết hợp gắn bó giữa vợ chồng."
+            }
+        },
+        {
+            "content": "vợ chồng",
+            "type": "adjective noun",
+            "example": {
+                "en": "What will help couples to remain faithful to their wedding vow?",
+                "vi": "Điều gì giúp các cặp vợ chồng giữ lời thề ước hôn nhân?"
+            }
+        }
+    ]
+}

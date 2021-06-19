@@ -1,0 +1,40 @@
+{
+    "word": "beaked",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bēkt/",
+            "/bikt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/biːkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoằm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có mỏ",
+            "type": "",
+            "example": {
+                "en": "Years later, the finches with smaller beaks once again dominated the population.",
+                "vi": "Nhiều năm sau, chim sẻ có mỏ nhỏ lại sinh sôi nảy nở trên đảo."
+            }
+        },
+        {
+            "content": "nhô ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "earthly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərTHlē/",
+            "/ˈərθli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːθli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể",
+            "type": "verb",
+            "example": {
+                "en": "We can trust that the earthly resurrection will likewise proceed in an orderly manner.",
+                "vi": "Chúng ta có thể tin rằng sự sống lại trên đất cũng sẽ diễn ra theo thứ tự."
+            }
+        },
+        {
+            "content": "quả đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trần thế",
+            "type": "",
+            "example": {
+                "en": "During His earthly ministry, He taught men the higher law.",
+                "vi": "Trong giáo vụ trần thế của Ngài, Ngài đã giảng dạy luật pháp cao hơn cho loài người."
+            }
+        },
+        {
+            "content": "trần tục",
+            "type": "",
+            "example": {
+                "en": "It is an honor to go be with it, away from this earthly plane.",
+                "vi": "Là một vinh dự được ở với nó, xa khỏi thế giới trần tục này."
+            }
+        }
+    ]
+}

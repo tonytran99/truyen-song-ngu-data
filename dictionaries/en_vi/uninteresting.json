@@ -1,0 +1,54 @@
+{
+    "word": "uninteresting",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈint(ə)rəstiNG/",
+            "/ˌənˈɪnt(ə)rəstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈɪnt(ə)rɪstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tẻ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chẳng ra gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thú vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đáng chú ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhàm chán",
+            "type": "noun",
+            "example": {
+                "en": "Might it subject you to an unhealthy environment or be so uninteresting as to leave you profoundly frustrated?",
+                "vi": "Có lẽ nó đặt bạn vào môi trường không lành mạnh hay công việc nhàm chán đến nỗi bạn hết sức nản chí chăng?"
+            }
+        }
+    ]
+}

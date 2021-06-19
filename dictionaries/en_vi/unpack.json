@@ -1,0 +1,66 @@
+{
+    "word": "unpack",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈpak/",
+            "/ˌənˈpæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈpak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở",
+            "type": "verb",
+            "example": {
+                "en": "Would you like me to unpack your case for you, Laura?",
+                "vi": "Chị muốn tôi mở hành lý giúp chị không, Laura?"
+            }
+        },
+        {
+            "content": "khui",
+            "type": "verb",
+            "example": {
+                "en": "I must say, I never saw myself unpacking a prime minister.",
+                "vi": "Nhưng anh chưa bao giờ nghĩ mình lại có dịp khui thùng một thủ tướng."
+            }
+        },
+        {
+            "content": "tháo dỡ",
+            "type": "",
+            "example": {
+                "en": "Girls, choose a bunk and unpack.",
+                "vi": "chọn một chiếc giường và tháo dỡ hành lí ra."
+            }
+        },
+        {
+            "content": "dỡ",
+            "type": "",
+            "example": {
+                "en": "We still have a lot of boxes to unpack.",
+                "vi": "Bọn con vẫn còn nhiều thùng đồ phải dỡ."
+            }
+        },
+        {
+            "content": "tháo",
+            "type": "verb",
+            "example": {
+                "en": "Girls, choose a bunk and unpack.",
+                "vi": "chọn một chiếc giường và tháo dỡ hành lí ra."
+            }
+        },
+        {
+            "content": "cởi",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

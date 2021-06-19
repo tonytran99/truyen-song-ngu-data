@@ -1,0 +1,50 @@
+{
+    "word": "voter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvōdər/",
+            "/ˈvoʊdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəʊtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cử tri",
+            "type": "noun",
+            "example": {
+                "en": "Let us get his story out there and watch it connect with the voters.",
+                "vi": "Hãy cứ kể câu chuyện của cậu ta ra và xem nó kết nối với các cử tri."
+            }
+        },
+        {
+            "content": "người bỏ phiếu",
+            "type": "",
+            "example": {
+                "en": "We have the next in our series of video questions submitted by Starling City voters.",
+                "vi": "Tiếp theo trong chuỗi video câu hỏi của người bỏ phiếu ở Starling City."
+            }
+        },
+        {
+            "content": "người bầu cử",
+            "type": "",
+            "example": {
+                "en": "in which the elites basically got out of the control of the voters.",
+                "vi": "tầng lớp ưu tú thoát khỏi kiểm soát bởi người bầu cử."
+            }
+        },
+        {
+            "content": "biểu quyết",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

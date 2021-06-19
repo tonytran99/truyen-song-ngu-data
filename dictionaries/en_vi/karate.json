@@ -1,0 +1,48 @@
+{
+    "word": "karate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrädē/",
+            "/kəˈrɑdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɑːti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "karate",
+            "type": "",
+            "example": {
+                "en": "I know it seems unbelievable but I have a black belt in karate.",
+                "vi": "Em biết là khó tin nhưng em có đai đen karate."
+            }
+        },
+        {
+            "content": "vỏ không thủ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Karate",
+            "type": "",
+            "example": {
+                "en": "You've told more than one patient his wife is sleeping with his daughter's karate teacher?",
+                "vi": "Còn bà nào là vợ bệnh nhân mà ngủ với thầy dạy Karate của con gái đây?"
+            }
+        },
+        {
+            "content": "võ caratê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

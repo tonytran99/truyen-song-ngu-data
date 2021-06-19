@@ -1,0 +1,37 @@
+{
+    "word": "erode",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrōd/",
+            "/əˈroʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈrəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ăn mòn",
+            "type": "verb",
+            "example": {
+                "en": "Around this time, flooded tunnels erode the streets above into urban rivers.",
+                "vi": "Cũng vào lúc này, những đường hầm ngập nước sẽ ăn mòn các con đường và chảy vào sông thành phố."
+            }
+        },
+        {
+            "content": "xói mòn",
+            "type": "",
+            "example": {
+                "en": "We cannot expand anymore, because it erodes the planetary boundaries.",
+                "vi": "Ta không thể mở rộng thêm nữa, vì nó làm xói mòn các ranh giới."
+            }
+        }
+    ]
+}

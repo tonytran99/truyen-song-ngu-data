@@ -1,0 +1,79 @@
+{
+    "word": "humanity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞oˈmanədē/",
+            "/(h)juˈmænədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjʊˈmanɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loài người",
+            "type": "noun",
+            "example": {
+                "en": "The humans we are today are not the humans we will be then.",
+                "vi": "Loài người chúng ta hôm nay sẽ không phải là loài người chúng ta sau này."
+            }
+        },
+        {
+            "content": "nhân loại",
+            "type": "noun",
+            "example": {
+                "en": "Language as we know is a human invention.",
+                "vi": "Như chúng ta biết, ngôn ngữ là phát minh của nhân loại."
+            }
+        },
+        {
+            "content": "nhân tính",
+            "type": "",
+            "example": {
+                "en": "You speak of humanity, yet you have all but lost yours.",
+                "vi": "Các ngài nói về nhân tính vậy mà chính cá ngài đã không còn chút nhân tính nào."
+            }
+        },
+        {
+            "content": "lòng nhân đạo",
+            "type": "noun",
+            "example": {
+                "en": "Go looking for those people who can see your humanity.",
+                "vi": "Hãy tìm kiếm những người có thể thấy được lòng nhân đạo của bạn."
+            }
+        },
+        {
+            "content": "hành động nhân đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoa học nhân văn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân bản",
+            "type": "noun",
+            "example": {
+                "en": "The climate makes them more human, more sociable, friendlier.",
+                "vi": "Khí hậu làm cho họ nhân bản hơn, chan hòa hơn, thân thiện hơn."
+            }
+        },
+        {
+            "content": "nhân đạo",
+            "type": "noun",
+            "example": {
+                "en": "A robot caretaker is just as humane as a human caretaker.",
+                "vi": "Một người máy trợ lý cũng nhân đạo như một con người."
+            }
+        }
+    ]
+}

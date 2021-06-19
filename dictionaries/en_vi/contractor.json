@@ -1,0 +1,72 @@
+{
+    "word": "contractor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌtraktər/",
+            "/ˈkɑnˌtræktər/",
+            "/kənˈtraktər/",
+            "/kənˈtræktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtraktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thầu khoán",
+            "type": "noun",
+            "example": {
+                "en": "The contractor dutifully took notes of each observation.",
+                "vi": "Người thầu khoán trưởng nghiêm túc ghi chép mỗi khi có lời yêu cầu phải chà nhám và đánh bóng."
+            }
+        },
+        {
+            "content": "chủ thầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ co",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thầu",
+            "type": "noun",
+            "example": {
+                "en": "What procedure should be followed if there is a need to hire a contractor?",
+                "vi": "Nên theo thủ tục nào nếu cần mướn người thầu?"
+            }
+        },
+        {
+            "content": "người đấu thầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà thầu",
+            "type": "noun",
+            "example": {
+                "en": "Do we have to guess who it was that funded this independent contractor?",
+                "vi": "Ta có cần phải đoán ai đã tài trợ nhà thầu độc lập đó không?"
+            }
+        },
+        {
+            "content": "nhân viên hợp đồng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tổng thầu xây dựng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "word": "inn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/in/",
+            "/ɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quán trọ",
+            "type": "noun",
+            "example": {
+                "en": "Then they went slowly down the road until they came to an inn, or small hotel.",
+                "vi": "Rồi ông chầm chậm đi cho đến khi tới một quán trọ, tức một khách sạn nhỏ."
+            }
+        },
+        {
+            "content": "khách sạn",
+            "type": "noun",
+            "example": {
+                "en": "Find a local inn, or B and B nearby.",
+                "vi": "Đi tìm khách sạn, hay nhà nghỉ nào đó."
+            }
+        },
+        {
+            "content": "khách sạn nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "Then they went slowly down the road until they came to an inn, or small hotel.",
+                "vi": "Rồi ông chầm chậm đi cho đến khi tới một quán trọ, tức một khách sạn nhỏ."
+            }
+        },
+        {
+            "content": "quán",
+            "type": "noun",
+            "example": {
+                "en": "An inn gave us food and lodging and would accept no payment.",
+                "vi": "Một quán trọ cho mẹ và em đồ ăn và chỗ ở mà không lấy tiền."
+            }
+        },
+        {
+            "content": "cho ở trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lữ quán",
+            "type": "noun",
+            "example": {
+                "en": "We'll be staying in a beautiful little inn.",
+                "vi": "Chúng ta sẽ ở trong một lữ quán xinh đẹp."
+            }
+        },
+        {
+            "content": "lữ điếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà nội trú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quán cơm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở trọ",
+            "type": "",
+            "example": {
+                "en": "We wish to stay at the inn.",
+                "vi": "Chúng tôi muốn ở trọ"
+            }
+        },
+        {
+            "content": "Nhà trọ",
+            "type": "",
+            "example": {
+                "en": "Are you aware of the recent trouble at the inn?",
+                "vi": "Anh biết vụ án mới xảy ra ở nhà trọ đó chứ?"
+            }
+        },
+        {
+            "content": "tửu điếm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

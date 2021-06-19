@@ -1,0 +1,53 @@
+{
+    "word": "immeasurable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(m)ˈmeZH(ə)rəb(ə)l/",
+            "/ɪ(m)ˈmɛʒ(ə)rəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmɛʒ(ə)rəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mênh mông",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô bờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô hạn",
+            "type": "adjective",
+            "example": {
+                "en": "His love for us is immeasurable.",
+                "vi": "Tình yêu thương của Ngài dành cho chúng ta là vô hạn."
+            }
+        },
+        {
+            "content": "không thể đo lường được",
+            "type": "",
+            "example": {
+                "en": "2 The benefits of this to us personally are immeasurable.",
+                "vi": "2 Điều này đem lại cho cá nhân chúng ta những lợi ích không thể đo lường được."
+            }
+        },
+        {
+            "content": "to lớn",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

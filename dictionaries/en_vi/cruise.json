@@ -1,0 +1,50 @@
+{
+    "word": "cruise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kro͞oz/",
+            "/kruz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kruːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chờn vờn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cuộc đi chơi biển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tuần tra trên biển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi chơi biển",
+            "type": "",
+            "example": {
+                "en": "Your basic beach cruise.",
+                "vi": "Một chuyến đi chơi biển cổ điển."
+            }
+        },
+        {
+            "content": "đội tàu tuần tra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

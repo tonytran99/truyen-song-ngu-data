@@ -1,0 +1,51 @@
+{
+    "word": "hockey",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäkē/",
+            "/ˈhɑki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒki/",
+            "/ˈɒki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khúc côn cầu",
+            "type": "noun",
+            "example": {
+                "en": "Oh, Will used to be a great hockey player.",
+                "vi": "Ồ, Will từng là tay khúc côn cầu rất giỏi."
+            }
+        },
+        {
+            "content": "môn bóng gậy cong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "môn khúc côn cầu",
+            "type": "noun",
+            "example": {
+                "en": "Senator a hockey fan?",
+                "vi": "Thượng nghị sĩ, một fan hâm mộ môn khúc côn cầu?"
+            }
+        },
+        {
+            "content": "Khúc côn cầu",
+            "type": "",
+            "example": {
+                "en": "Oh, Will used to be a great hockey player.",
+                "vi": "Ồ, Will từng là tay khúc côn cầu rất giỏi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "word": "herself",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərˈself/",
+            "/hərˈsɛlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːˈsɛlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính bà ta",
+            "type": "",
+            "example": {
+                "en": "The real magic she keeps for herself.",
+                "vi": "Pháp thuật chân chính bà ta giữ cho riêng mình."
+            }
+        },
+        {
+            "content": "chính cô ta",
+            "type": "",
+            "example": {
+                "en": "She probably dropped those bodies herself.",
+                "vi": "Có khi chính cô ta giết họ."
+            }
+        },
+        {
+            "content": "chính nó",
+            "type": "",
+            "example": {
+                "en": "This female indri has fought to keep this particular patch of forest safe for herself and her family.",
+                "vi": "Con vượn cáo cái này đã chiến đấu để giữ mảnh đất đặc biệt của rừng an toàn cho chính nó và gia đình."
+            }
+        },
+        {
+            "content": "tự bà ta",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự cô ta",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự mình",
+            "type": "",
+            "example": {
+                "en": "I knew Mom wouldn't have thought that up herself.",
+                "vi": "Anh đã biết là Mẹ không tự mình có cái ý tưởng này mà."
+            }
+        },
+        {
+            "content": "tự nó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chính chị ta",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự chị ta",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

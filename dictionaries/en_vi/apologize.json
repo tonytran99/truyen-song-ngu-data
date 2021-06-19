@@ -1,0 +1,37 @@
+{
+    "word": "apologize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpäləˌjīz/",
+            "/əˈpɑləˌdʒaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpɒlədʒʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xin lỗi",
+            "type": "verb",
+            "example": {
+                "en": "You must apologize to her, and do it at once.",
+                "vi": "Mày phải xin lỗi nó, và phải làm liền."
+            }
+        },
+        {
+            "content": "tạ lỗi",
+            "type": "",
+            "example": {
+                "en": "You have my apologies - do with him as you will.",
+                "vi": "Ngài sẽ có lời tạ lỗi của tôi, và ngài cứ tùy nghi mà xử hắn."
+            }
+        }
+    ]
+}

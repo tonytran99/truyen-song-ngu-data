@@ -1,0 +1,45 @@
+{
+    "word": "heir",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/er/",
+            "/ɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thừa kế",
+            "type": "",
+            "example": {
+                "en": "I must remind you that the princess is the direct heir to the throne.",
+                "vi": "Tôi phải nhắc anh rằng Công chúa là người trực tiếp thừa kế ngai vàng."
+            }
+        },
+        {
+            "content": "người thừa kế",
+            "type": "noun",
+            "example": {
+                "en": "The king must have an heir if we are to continue our good work.",
+                "vi": "Nhà vua phải có người thừa kế nếu chúng ta muốn tiếp tục công cuộc tốt đẹp này."
+            }
+        },
+        {
+            "content": "người thừa tự",
+            "type": "noun",
+            "example": {
+                "en": "And speaking of breeding, the entire principality will be expecting an heir soon...",
+                "vi": "Ăn nói có duyên, cả dòng họ đang mong chờ có người thừa tự..."
+            }
+        }
+    ]
+}

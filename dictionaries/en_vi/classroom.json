@@ -1,0 +1,45 @@
+{
+    "word": "classroom",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasˌro͞om/",
+            "/ˈklæsˌrum/",
+            "/ˈklasˌro͝om/",
+            "/ˈklæsˌrʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɑːsruːm/",
+            "/ˈklɑːsrʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lớp học",
+            "type": "noun",
+            "example": {
+                "en": "In this classroom, as a matter of fact.",
+                "vi": "Thật ra thì ngay trong lớp học này."
+            }
+        },
+        {
+            "content": "phòng đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng học",
+            "type": "noun",
+            "example": {
+                "en": "They don't even feel safe in their own classroom.",
+                "vi": "Chúng thậm chí còn không thấy an toàn trong phòng học của chính mình."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "beeper",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbēpər/",
+            "/ˈbipər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbiːpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "= pager",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy nhắn tin",
+            "type": "",
+            "example": {
+                "en": "I hope you will delete my beeper number.",
+                "vi": "Hi vọng cô xóa số máy nhắn tin của tôi."
+            }
+        }
+    ]
+}

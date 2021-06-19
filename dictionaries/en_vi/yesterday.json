@@ -1,0 +1,41 @@
+{
+    "word": "yesterday",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyestərˌdā/",
+            "/ˈjɛstərˌdeɪ/",
+            "/ˈyestərdē/",
+            "/ˈjɛstərdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjɛstədeɪ/",
+            "/ˈjɛstədi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hôm qua",
+            "type": "noun",
+            "example": {
+                "en": "Our patience is in much the same condition as yesterday.",
+                "vi": "Sự kiên nhẫn của chúng tôi cũng trong tình trạng như hôm qua."
+            }
+        },
+        {
+            "content": "ngày hôm qua",
+            "type": "",
+            "example": {
+                "en": "I actually ended up walking all the way from Shinjuku Station to Jimbocho yesterday!",
+                "vi": "Rốt cuộc tớ đi bộ từ trạm Shinjuku tới Jumbocho ngày hôm qua!"
+            }
+        }
+    ]
+}

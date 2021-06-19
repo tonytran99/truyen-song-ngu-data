@@ -1,0 +1,78 @@
+{
+    "word": "depot",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēpō/",
+            "/ˈdipoʊ/",
+            "/ˈdepō/",
+            "/ˈdɛpoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛpəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kho hàng",
+            "type": "",
+            "example": {
+                "en": "We're turning around, back to the depot.",
+                "vi": "Chúng ta đang quay lại, trở lại kho hàng."
+            }
+        },
+        {
+            "content": "kho",
+            "type": "noun",
+            "example": {
+                "en": "I'm pulling all the trucks back to the main depot.",
+                "vi": "Tôi đang kéo tất cả xe tải về kho chính đây."
+            }
+        },
+        {
+            "content": "bến",
+            "type": "noun",
+            "example": {
+                "en": "The Cherokee Kid, got him cornered at depot.",
+                "vi": "Cherokee Kid đang bị bao vây ở bến xe."
+            }
+        },
+        {
+            "content": "ga",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kho chứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nhà kho",
+            "type": "",
+            "example": {
+                "en": "When the service at the depot was finished, I was asked to assist at the branch office.",
+                "vi": "Khi hết việc ở nhà kho, tôi được mời làm việc ở trụ sở chi nhánh."
+            }
+        },
+        {
+            "content": "bến tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bến xe",
+            "type": "",
+            "example": {
+                "en": "The Cherokee Kid, got him cornered at depot.",
+                "vi": "Cherokee Kid đang bị bao vây ở bến xe."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "incept",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsept/",
+            "/ɪnˈsɛpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɛpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hút",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bắt đầu",
+            "type": "verb",
+            "example": {
+                "en": "FROM its very inception, the United Nations organization has been interested in children and their problems.",
+                "vi": "TỪ LÚC mới bắt đầu, tổ chức Liên Hiệp Quốc đã chú ý đến trẻ em và vấn đề của chúng."
+            }
+        },
+        {
+            "content": "hấp thụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khởi đầu",
+            "type": "",
+            "example": {
+                "en": "Since its inception in 1958, it's proven to carry a 92% accuracy rate in cases that have gone to trial.",
+                "vi": "Từ khởi đầu của nó trong năm 1958, đã chứng minh độ chính xác 92% trong các vụ đã được xét xử."
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "compartment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpärtmənt/",
+            "/kəmˈpɑrtmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpɑːtm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gian",
+            "type": "noun",
+            "example": {
+                "en": "You called me Lisa in the avionics compartment.",
+                "vi": "Anh nói về Lisa đi. Trong gian phòng chật hẹp này."
+            }
+        },
+        {
+            "content": "ngăn",
+            "type": "noun",
+            "example": {
+                "en": "I found a plank in secret desk compartment.",
+                "vi": "Tôi tìm thấy một mảnh gỗ trong ngăn kéo bí mật của bàn."
+            }
+        },
+        {
+            "content": "căn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngăn ra từng gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồng",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

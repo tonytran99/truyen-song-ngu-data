@@ -1,0 +1,29 @@
+{
+    "word": "dug",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đào",
+            "type": "verb noun",
+            "example": {
+                "en": "If we dug, we might find something valuable.",
+                "vi": "Nếu chúng tôi đào, biết đâu có thể tìm thấy cái gì đó có giá trị."
+            }
+        }
+    ]
+}

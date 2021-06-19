@@ -1,0 +1,42 @@
+{
+    "word": "embroil",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/emˈbroil/",
+            "/ɛmˈbrɔɪl/",
+            "/imˈbroil/",
+            "/ɪmˈbrɔɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbrɔɪl/",
+            "/ɛmˈbrɔɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm cho",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm rối rắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lôi kéo",
+            "type": "",
+            "example": {
+                "en": "But then, she... became embroiled with another man.",
+                "vi": "Nhưng rồi cô ấy... dần bị một người nam khác lôi kéo."
+            }
+        }
+    ]
+}

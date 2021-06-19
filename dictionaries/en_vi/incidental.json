@@ -1,0 +1,64 @@
+{
+    "word": "incidental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinsəˈden(t)l/",
+            "/ˌɪnsəˈdɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnsɪˈdɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "And hundreds of thousands of children, incidentally, are subjected to this every year.",
+                "vi": "Và hàng trăm nghìn các đứa trẻ một cách ngẫu nhiên phải chịu đựng điều này hàng năm."
+            }
+        },
+        {
+            "content": "phụ",
+            "type": "verb",
+            "example": {
+                "en": "“Wards and stakes are incidental.",
+                "vi": "Tiểu giáo khu và giáo khu chỉ là phụ thôi."
+            }
+        },
+        {
+            "content": "bất ngờ",
+            "type": "",
+            "example": {
+                "en": "The illusion of speech follows incidentally.",
+                "vi": "Ảo giác về lời nói theo sau một cách bất ngờ."
+            }
+        },
+        {
+            "content": "không cốt yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thực chất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {
+                "en": "which incidentally is how old Alberto Giacometti was when he died.",
+                "vi": "mà, rất tình cờ, lại chính là tuổi của Alberto Giacometti khi ông mất."
+            }
+        }
+    ]
+}

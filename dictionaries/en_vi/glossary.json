@@ -1,0 +1,77 @@
+{
+    "word": "glossary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡläsərē/",
+            "/ˈɡlɑsəri/",
+            "/ˈɡlôsərē/",
+            "/ˈɡlɔsəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlɒs(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ điển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tập từ vựng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ điển thuật ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng chú giải thuật ngữ",
+            "type": "noun",
+            "example": {
+                "en": "10 min: Are You Using the Glossary?",
+                "vi": "10 phút: Anh chị có dùng Bảng chú giải thuật ngữ không?"
+            }
+        },
+        {
+            "content": "bản chú giải",
+            "type": "",
+            "example": {
+                "en": "Unable to show selected glossary entry: unable to open file 'glossary. html. in '!",
+                "vi": "Không thể hiển thị mục nhập bản chú giải đã chọn: không thể mở tập tin « glossary. html. in »!"
+            }
+        },
+        {
+            "content": "bảng chú giải",
+            "type": "",
+            "example": {
+                "en": "10 min: Are You Using the Glossary?",
+                "vi": "10 phút: Anh chị có dùng Bảng chú giải thuật ngữ không?"
+            }
+        },
+        {
+            "content": "thuật ngữ chuyên môn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ điển cổ ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ điển thổ ngữ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

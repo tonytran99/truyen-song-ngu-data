@@ -1,0 +1,38 @@
+{
+    "word": "included",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈklo͞odəd/",
+            "/ɪnˈkludəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkluːdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kể cả",
+            "type": "",
+            "example": {
+                "en": "He has a list of targets, including a man who's running for Congress.",
+                "vi": "Hắn có một danh sách mục tiêu, kể cả người ứng cử vào Quốc Hội."
+            }
+        },
+        {
+            "content": "bao gồm cả",
+            "type": "",
+            "example": {
+                "en": "The entrée includes a beverage.",
+                "vi": "Vé vào cửa bao gồm cả nước giải khát."
+            }
+        }
+    ]
+}

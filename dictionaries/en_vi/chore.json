@@ -1,0 +1,35 @@
+{
+    "word": "chore",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHôr/",
+            "/tʃɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc vặt",
+            "type": "",
+            "example": {
+                "en": "Ask others to help you with child care, household chores, and errands.",
+                "vi": "Nhờ người khác phụ chăm sóc em bé, làm việc nhà và những việc vặt."
+            }
+        },
+        {
+            "content": "việc mọn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

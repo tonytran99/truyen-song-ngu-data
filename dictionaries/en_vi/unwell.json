@@ -1,0 +1,54 @@
+{
+    "word": "unwell",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈwel/",
+            "/ˌənˈwɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈwɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thấy tháng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành kinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khó ở",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không khỏe",
+            "type": "adjective",
+            "example": {
+                "en": "Then why did I always feel so unwell, so fatigued, so restless?",
+                "vi": "Thế thì tại sao tôi luôn cảm thấy không khỏe, mệt mỏi, khó chịu?"
+            }
+        },
+        {
+            "content": "se mình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

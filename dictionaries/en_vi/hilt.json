@@ -1,0 +1,48 @@
+{
+    "word": "hilt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hilt/",
+            "/hɪlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cán",
+            "type": "",
+            "example": {
+                "en": "You press the jewel on its hilt, and you'll see.",
+                "vi": "Anh nhấn vào viên ngọc trên cán nó và anh sẽ thấy."
+            }
+        },
+        {
+            "content": "chuôi",
+            "type": "noun",
+            "example": {
+                "en": "The words on the hilt of the sword, what do they mean?",
+                "vi": "Những chữ trên chuôi kiếm, chúng có ý nghĩa gì?"
+            }
+        },
+        {
+            "content": "cán kiếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tra cán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

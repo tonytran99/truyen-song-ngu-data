@@ -1,0 +1,43 @@
+{
+    "word": "desired",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzī(ə)rd/",
+            "/dəˈzaɪ(ə)rd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzʌɪəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "muốn có đòi hỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng ao ước",
+            "type": "adjective",
+            "example": {
+                "en": "All other desirable things cannot compare to it.",
+                "vi": "Mọi thứ đáng ao ước cũng không thể sánh bằng."
+            }
+        },
+        {
+            "content": "đáng khao khát",
+            "type": "adjective",
+            "example": {
+                "en": "What makes a job desirable, Rick, isn't just the dollar amount attached to it.",
+                "vi": "Điều khiến việc này đáng khao khát Rick, không chỉ là mấy đồng đô la đi kèm theo nó."
+            }
+        }
+    ]
+}

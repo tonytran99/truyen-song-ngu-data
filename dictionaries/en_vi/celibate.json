@@ -1,0 +1,48 @@
+{
+    "word": "celibate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈseləbət/",
+            "/ˈsɛləbət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛlɪbət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "độc thân",
+            "type": "adjective, noun",
+            "example": {
+                "en": "but who wants to be vegetarian and celibate?",
+                "vi": "nhưng có ai lại muốn ăn chay và sống độc thân?"
+            }
+        },
+        {
+            "content": "không lập gia đình",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người sống độc thân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sống độc thân",
+            "type": "",
+            "example": {
+                "en": "but who wants to be vegetarian and celibate?",
+                "vi": "nhưng có ai lại muốn ăn chay và sống độc thân?"
+            }
+        }
+    ]
+}

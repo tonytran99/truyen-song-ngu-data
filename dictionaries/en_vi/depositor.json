@@ -1,0 +1,39 @@
+{
+    "word": "depositor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈpäzədər/",
+            "/dəˈpɑzədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpɒzɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người gửi đồ vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy làn lắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người gửi tiền",
+            "type": "",
+            "example": {
+                "en": "Citibank , for example , operates worldwide , and depositors in many countries are not insured .",
+                "vi": "Citibank , chẳng hạn , hoạt động toàn cầu , và người gửi tiền ở nhiều quốc gia không được đảm bảo ."
+            }
+        }
+    ]
+}

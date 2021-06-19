@@ -1,0 +1,43 @@
+{
+    "word": "compressed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprest/",
+            "/kəmˈprɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị nén",
+            "type": "",
+            "example": {
+                "en": "You breathe liquid so you can't get compressed.",
+                "vi": "Dù gì anh thở chất lỏng do đó anh không thể bị nén."
+            }
+        },
+        {
+            "content": "bị ép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nén",
+            "type": "",
+            "example": {
+                "en": "We've got spinal compression and root damage at minimum.",
+                "vi": "Chúng tôi đã nén cột sống và giảm thiệt hại ở mức tối thiểu."
+            }
+        }
+    ]
+}

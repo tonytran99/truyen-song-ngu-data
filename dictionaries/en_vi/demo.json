@@ -1,0 +1,59 @@
+{
+    "word": "demo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdemō/",
+            "/ˈdɛmoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛməʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc biểu tình",
+            "type": "",
+            "example": {
+                "en": "You lose every key demo.",
+                "vi": "Anh sẽ thua tất cả các cuộc biểu tình."
+            }
+        },
+        {
+            "content": "chương trình giới thiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giới thiệu",
+            "type": "verb",
+            "example": {
+                "en": "So I'm going to show you a demo of this.",
+                "vi": "Tôi sẽ cho các bạn xem một đoạn giới thiệu về nó."
+            }
+        },
+        {
+            "content": "Demo",
+            "type": "",
+            "example": {
+                "en": "He sent ryan his demo tape And some sheet music He wrote in his own blood.",
+                "vi": "Nó gửi Ryan băng demo của nó và vài bản nhạc nó viết, bằng máu nó."
+            }
+        },
+        {
+            "content": "demo",
+            "type": "",
+            "example": {
+                "en": "He sent ryan his demo tape And some sheet music He wrote in his own blood.",
+                "vi": "Nó gửi Ryan băng demo của nó và vài bản nhạc nó viết, bằng máu nó."
+            }
+        }
+    ]
+}

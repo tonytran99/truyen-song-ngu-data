@@ -1,0 +1,71 @@
+{
+    "word": "usher",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəSHər/",
+            "/ˈəʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dẫn",
+            "type": "",
+            "example": {
+                "en": "I ushered you into this world.",
+                "vi": "Ta đã dẫn lối cho con vào thế giới này."
+            }
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "I believe our new friends... are going to help us usher in a new era, Bill.",
+                "vi": "Tôi tin rằng những người bạn này sẽ giúp đưa chúng ta vào kỷ nguyên mới."
+            }
+        },
+        {
+            "content": "báo hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưởng toà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mõ tòa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mở ra",
+            "type": "",
+            "example": {
+                "en": "They will usher in a period of hope.",
+                "vi": "Chúng sẽ mở ra một thời kỳ hy vọng."
+            }
+        },
+        {
+            "content": "người chỉ chỗ ngồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trợ giáo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

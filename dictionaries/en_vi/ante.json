@@ -1,0 +1,40 @@
+{
+    "word": "ante",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)ē/",
+            "/ˈæn(t)i/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thanh toán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "",
+            "example": {
+                "en": "I told her that I wanted to up the ante",
+                "vi": "Tôi nói với bà ấy rằng tôi muốn đánh cuộc"
+            }
+        },
+        {
+            "content": "đánh cược",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

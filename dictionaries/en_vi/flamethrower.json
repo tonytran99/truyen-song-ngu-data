@@ -1,0 +1,37 @@
+{
+    "word": "flamethrower",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflāmˌTHrōər/",
+            "/ˈfleɪmˌθroʊər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfleɪmθrəʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "súng phun lửa",
+            "type": "noun",
+            "example": {
+                "en": "A black man just came in with a flamethrower, just like you always knew would happen!",
+                "vi": "Anh da đen cầm súng phun lửa đây, giống y xì những gì chúng mày ngờ tới!"
+            }
+        },
+        {
+            "content": "Súng phun lửa",
+            "type": "",
+            "example": {
+                "en": "The boys called it the Flamethrower, but it wasn't really that bad.",
+                "vi": "Họ gọi nó là Súng phun lửa, nhưng thật ra nó không tệ dữ vậy."
+            }
+        }
+    ]
+}

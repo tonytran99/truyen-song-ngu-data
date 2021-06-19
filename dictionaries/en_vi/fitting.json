@@ -1,0 +1,101 @@
+{
+    "word": "fitting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfidiNG/",
+            "/ˈfɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {
+                "en": "Why don't you explain how they fit into this special night?",
+                "vi": "Cô hãy giải thích làm sao mà chúng lại phù hợp cho bữa tối nay?"
+            }
+        },
+        {
+            "content": "thích hợp",
+            "type": "",
+            "example": {
+                "en": "And none of her other case profiles fit the profile.",
+                "vi": "Và cũng không có ai trong hồ sơ bệnh án của cô thích hợp cả."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "How do you distribute? How do you work out how to fit the thing?",
+                "vi": "Phân phối ra bằng cách nào? Làm sao để đo đúng thị lực người bệnh?"
+            }
+        },
+        {
+            "content": "vừa",
+            "type": "adjective",
+            "example": {
+                "en": "Well, enough that I can make it fit.",
+                "vi": "Tôi nghĩ mình có thể chế vừa được."
+            }
+        },
+        {
+            "content": "phụ kiện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phải",
+            "type": "adjective",
+            "example": {
+                "en": "You'd have to be fit to make it through this terrain.",
+                "vi": "Bạn phải khỏe mạnh để vượt qua địa hình này."
+            }
+        },
+        {
+            "content": "máy móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm cho khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lắp ráp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thích hợp",
+            "type": "",
+            "example": {
+                "en": "Would participating in such practices really be fitting for any of God’s people?",
+                "vi": "Việc tham gia những tập tục như thế có thật sự thích hợp cho dân Đức Chúa Trời không?"
+            }
+        },
+        {
+            "content": "sự thử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự điều chỉnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "emphysema",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌemfəˈsēmə/",
+            "/ˌɛmfəˈsimə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛmfɪˈsiːmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí phế thũng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khí thũng",
+            "type": "noun",
+            "example": {
+                "en": "The chemicals from the fire were aggravating her emphysema.",
+                "vi": "Do hoá chất từ vụ nổ mà bệnh khí thũng của bà thêm trầm trọng."
+            }
+        }
+    ]
+}

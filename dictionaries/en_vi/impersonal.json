@@ -1,0 +1,57 @@
+{
+    "word": "impersonal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌimˈpərs(ə)n(ə)l/",
+            "/ˌɪmˈpərs(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpəːs(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bâng quơ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khách quan",
+            "type": "",
+            "example": {
+                "en": "Would you prefer impersonal?",
+                "vi": "Cô muốn câu hỏi khách quan ư?"
+            }
+        },
+        {
+            "content": "không ngôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói trống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạnh lùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô cảm",
+            "type": "",
+            "example": {
+                "en": "the system is a impersonal mechanism... an articulation of selfish interests.",
+                "vi": "Hệ thống là một chỗ máy vô cảm."
+            }
+        }
+    ]
+}

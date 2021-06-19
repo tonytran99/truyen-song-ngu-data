@@ -1,0 +1,34 @@
+{
+    "word": "cordless",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrdləs/",
+            "/ˈkɔrdləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːdləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không dây",
+            "type": "",
+            "example": {
+                "en": "Right, I'm just looking for a cordless phone.",
+                "vi": "Đúng, tôi chỉ tìm một điện thoại không dây."
+            }
+        },
+        {
+            "content": "vô tuyến",
+            "type": "adjective noun",
+            "example": {}
+        }
+    ]
+}

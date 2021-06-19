@@ -1,0 +1,50 @@
+{
+    "word": "john",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jän/",
+            "/dʒɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɒn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Giăng",
+            "type": "proper",
+            "example": {
+                "en": "How is it that John was considered one of the greatest of prophets?",
+                "vi": "Làm thế nào mà Giăng được xem là một trong số các vị tiên tri cao trọng nhất?"
+            }
+        },
+        {
+            "content": "Gioan",
+            "type": "proper",
+            "example": {
+                "en": "Pope John Paul II approved the Nova Vulgata.",
+                "vi": "Giáo hoàng Gioan Phao-lồ II phê chuẩn bản dịch Nova Vulgata."
+            }
+        },
+        {
+            "content": "Giôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Giang",
+            "type": "proper",
+            "example": {
+                "en": "As we concluded our time together, John asked if I would give him a priesthood blessing.",
+                "vi": "Khi sắp ra về, Giang hỏi xin tôi ban cho anh ta một phước lành chức tư tế."
+            }
+        }
+    ]
+}

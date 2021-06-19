@@ -1,0 +1,50 @@
+{
+    "word": "browser",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrouzər/",
+            "/ˈbraʊzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbraʊzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trình duyệt",
+            "type": "noun",
+            "example": {
+                "en": "Overall , the browser market has become more vigorous than ever .",
+                "vi": "Nhìn chung , thị trường trình duyệt đã trở nên sôi nổi hơn bao giờ hết ."
+            }
+        },
+        {
+            "content": "bộ duyệt tìm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trình duyệt Web",
+            "type": "",
+            "example": {
+                "en": "Imagine you had web browsers that helped route you",
+                "vi": "Tưởng tượng bạn có các trình duyệt web giúp bạn"
+            }
+        },
+        {
+            "content": "trình duyệt web",
+            "type": "",
+            "example": {
+                "en": "Imagine you had web browsers that helped route you",
+                "vi": "Tưởng tượng bạn có các trình duyệt web giúp bạn"
+            }
+        }
+    ]
+}

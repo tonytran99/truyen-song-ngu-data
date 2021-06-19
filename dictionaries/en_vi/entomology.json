@@ -1,0 +1,39 @@
+{
+    "word": "entomology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌen(t)əˈmäləjē/",
+            "/ˌɛn(t)əˈmɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛntəˈmɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "côn trùng học",
+            "type": "noun",
+            "example": {
+                "en": "Consider Gerard, a professor of entomology who was taught evolution at college.",
+                "vi": "Hãy xem trường hợp của ông Gerard, giáo sư môn côn trùng học đã từng được dạy về tiến hóa ở trường đại học."
+            }
+        },
+        {
+            "content": "昆蟲學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khoa sâu bọ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

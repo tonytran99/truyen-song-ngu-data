@@ -1,0 +1,66 @@
+{
+    "word": "computation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämpyəˈtāSH(ə)n/",
+            "/ˌkɑmpjəˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒmpjʊˈteɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tính toán",
+            "type": "",
+            "example": {
+                "en": "So the computation is space soluble and network soluble.",
+                "vi": "Vì thế sự tính toán là không gian giải được và mạng lưới giải được."
+            }
+        },
+        {
+            "content": "tính",
+            "type": "verb",
+            "example": {
+                "en": "Let Tom buy a new computer if he wants to.",
+                "vi": "Nếu Tom muốn thì mua cho anh ta máy tính mới đi."
+            }
+        },
+        {
+            "content": "kế toán",
+            "type": "noun",
+            "example": {
+                "en": "I have access to his computer, and his accountants'and his lawyers'.",
+                "vi": "Anh đột nhập vào máy tính của hắn, cả của kế toán và luật sư của hắn."
+            }
+        },
+        {
+            "content": "kỹ thuật tính toán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ước tính",
+            "type": "",
+            "example": {
+                "en": "and it tries to have actual computation.",
+                "vi": "và cố gắng để có sự ước tính thực sự."
+            }
+        },
+        {
+            "content": "tính toán",
+            "type": "",
+            "example": {
+                "en": "So the computation is space soluble and network soluble.",
+                "vi": "Vì thế sự tính toán là không gian giải được và mạng lưới giải được."
+            }
+        }
+    ]
+}

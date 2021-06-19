@@ -1,0 +1,73 @@
+{
+    "word": "vat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vat/",
+            "/væt/",
+            "/ˌvēˌāˈtē/",
+            "/ˌviˌeɪˈti/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vat/",
+            "/viːeɪˈtiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bể",
+            "type": "verb noun",
+            "example": {
+                "en": "Then they placed the mass in a covered vat and simmered it with seawater for several more days.",
+                "vi": "Sau đó, họ cho hỗn hợp này cùng với nước biển vào một bể, đậy lại và đun nhỏ lửa thêm vài ngày nữa."
+            }
+        },
+        {
+            "content": "chum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ vào bể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ vào chum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thùng to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ủ vào bể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ủ vào chum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàu",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "bể chứa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

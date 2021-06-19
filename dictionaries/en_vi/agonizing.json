@@ -1,0 +1,51 @@
+{
+    "word": "agonizing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaɡəˌnīziNG/",
+            "/ˈæɡəˌnaɪzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaɡənʌɪzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây đau đớn",
+            "type": "adjective",
+            "example": {
+                "en": "Do I need to recount the final agonizing moments of dear Abigail's life?",
+                "vi": "Tôi cần phải kể lại các chi tiết tôi đang gây đau đớn cho mạng sống yêu quí Abigail của anh?"
+            }
+        },
+        {
+            "content": "hành hạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khổ não",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm khổ sở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đau đớn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

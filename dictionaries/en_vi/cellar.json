@@ -1,0 +1,46 @@
+{
+    "word": "cellar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈselər/",
+            "/ˈsɛlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hầm chứa",
+            "type": "noun",
+            "example": {
+                "en": "You'll be safe in the cellar.",
+                "vi": "Anh sẽ an toàn trong hầm chứa."
+            }
+        },
+        {
+            "content": "hầm",
+            "type": "noun",
+            "example": {
+                "en": "They told me you had a wine cellar, but I didn't believe it.",
+                "vi": "Tôi nghe nói ông có một hầm rượu vang, nhưng tôi không tin."
+            }
+        },
+        {
+            "content": "hầm rượu",
+            "type": "",
+            "example": {
+                "en": "They told me you had a wine cellar, but I didn't believe it.",
+                "vi": "Tôi nghe nói ông có một hầm rượu vang, nhưng tôi không tin."
+            }
+        }
+    ]
+}

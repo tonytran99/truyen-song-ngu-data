@@ -1,0 +1,67 @@
+{
+    "word": "computing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpyo͞odiNG/",
+            "/kəmˈpjudɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpjuːtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy điện toán",
+            "type": "noun",
+            "example": {
+                "en": "A computer can be a useful and indispensable tool.",
+                "vi": "Một máy điện toán có thể là một dụng cụ hữu ích và rất cần thiết."
+            }
+        },
+        {
+            "content": "sự tính toán",
+            "type": "",
+            "example": {
+                "en": "So the computation is space soluble and network soluble.",
+                "vi": "Vì thế sự tính toán là không gian giải được và mạng lưới giải được."
+            }
+        },
+        {
+            "content": "tin học",
+            "type": "noun",
+            "example": {
+                "en": "Gone from an A to a D in computers?",
+                "vi": "Rớt từ điểm A xuống D môn tin học?"
+            }
+        },
+        {
+            "content": "tính toán",
+            "type": "",
+            "example": {
+                "en": "So the computation is space soluble and network soluble.",
+                "vi": "Vì thế sự tính toán là không gian giải được và mạng lưới giải được."
+            }
+        },
+        {
+            "content": "điện toán",
+            "type": "",
+            "example": {
+                "en": "A computer can be a useful and indispensable tool.",
+                "vi": "Một máy điện toán có thể là một dụng cụ hữu ích và rất cần thiết."
+            }
+        },
+        {
+            "content": "khoa học máy tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "champagne",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHamˈpān/",
+            "/ʃæmˈpeɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʃamˈpeɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sâm panh",
+            "type": "noun",
+            "example": {
+                "en": "He offered her champagne and roses.",
+                "vi": "Anh ta tặng cho cô ấy rượu sâm-panh và hoa hồng."
+            }
+        },
+        {
+            "content": "rượu sâm banh",
+            "type": "",
+            "example": {
+                "en": "The difference is at Elizabeth's they'll be serving champagne.",
+                "vi": "Sự khác biệt là tiệc của Elizabeth họ sẽ phục vụ rượu sâm banh."
+            }
+        },
+        {
+            "content": "rượu sâm panh",
+            "type": "noun",
+            "example": {
+                "en": "He offered her champagne and roses.",
+                "vi": "Anh ta tặng cho cô ấy rượu sâm-panh và hoa hồng."
+            }
+        },
+        {
+            "content": "sâm banh",
+            "type": "noun",
+            "example": {
+                "en": "Open the champagne, and I will be right back.",
+                "vi": "Mở sâm banh đi, anh sẽ quay lại ngay."
+            }
+        }
+    ]
+}

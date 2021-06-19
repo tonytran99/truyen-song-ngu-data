@@ -1,0 +1,60 @@
+{
+    "word": "glasses",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlasəz/",
+            "/ˈɡlæsəz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlɑːsɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kính",
+            "type": "noun",
+            "example": {
+                "en": "I had broken my glasses, so that I couldn't see the blackboard.",
+                "vi": "Tôi đã làm vỡ kính rồi, vì thế tôi không thể thấy được bảng."
+            }
+        },
+        {
+            "content": "mắt kính",
+            "type": "noun plural",
+            "example": {
+                "en": "Above the ungainly bandage sat a big , thick pair of glasses .",
+                "vi": "Phía trên miếng băng vụng về là một cặp mắt kính to dày cộp ."
+            }
+        },
+        {
+            "content": "kính đeo mắt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhãn kính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "caëp maét kính, nhöõng caùi ly thuûy tinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kính mắt",
+            "type": "noun",
+            "example": {
+                "en": "So, I've now made eye glasses to my prescription.",
+                "vi": "Giờ tôi đã làm kính mắt theo độ cận thị của mình."
+            }
+        }
+    ]
+}

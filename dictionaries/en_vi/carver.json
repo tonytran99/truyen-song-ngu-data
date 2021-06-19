@@ -1,0 +1,47 @@
+{
+    "word": "carver",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärvər/",
+            "/ˈkɑrvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dao lạng thịt;",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lạng thịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ chạm",
+            "type": "noun",
+            "example": {
+                "en": "13 The wood-carver stretches the measuring line, tracing out the pattern with red chalk.",
+                "vi": "13 Thợ chạm gỗ giăng dây đo, dùng phấn đỏ vẽ kiểu mẫu,"
+            }
+        },
+        {
+            "content": "thợ khắc",
+            "type": "noun",
+            "example": {
+                "en": "I had the vegetable carvers work on that for me.",
+                "vi": "Tôi nhờ thợ khắc rau củ làm dùm tôi."
+            }
+        }
+    ]
+}

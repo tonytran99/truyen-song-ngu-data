@@ -1,0 +1,55 @@
+{
+    "word": "coral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəl/",
+            "/ˈkɔrəl/",
+            "/ˈkärəl/",
+            "/ˈkɑrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "san hô",
+            "type": "noun",
+            "example": {
+                "en": "We were looking for corals, deep sea corals.",
+                "vi": "Chúng tôi đang tìm san hô, rặng san hô sâu dưới biển."
+            }
+        },
+        {
+            "content": "珊瑚",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "San hô",
+            "type": "",
+            "example": {
+                "en": "We were looking for corals, deep sea corals.",
+                "vi": "Chúng tôi đang tìm san hô, rặng san hô sâu dưới biển."
+            }
+        },
+        {
+            "content": "bọc trứng tôm hùm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đỏ như san hô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

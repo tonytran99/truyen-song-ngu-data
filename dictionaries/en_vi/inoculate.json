@@ -1,0 +1,55 @@
+{
+    "word": "inoculate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnäkyəˌlāt/",
+            "/ɪˈnɑkjəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɒkjʊleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủng",
+            "type": "verb",
+            "example": {
+                "en": "If we'd been inoculated before we entered the terminal, Greg would...",
+                "vi": "Nếu chúng tôi được tiêm chủng trước khi tiến vào nhà đón khách, Greg đã có thể..."
+            }
+        },
+        {
+            "content": "tiêm chủng",
+            "type": "",
+            "example": {
+                "en": "If we'd been inoculated before we entered the terminal, Greg would...",
+                "vi": "Nếu chúng tôi được tiêm chủng trước khi tiến vào nhà đón khách, Greg đã có thể..."
+            }
+        },
+        {
+            "content": "ghép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chích ngừa",
+            "type": "verb",
+            "example": {
+                "en": "It was simply to encourage the inoculation of children",
+                "vi": "Đó là ví dụ đơn giản về việc khuyên khích chích ngừa cho trẻ em"
+            }
+        },
+        {
+            "content": "tiêm nhiễm cho",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

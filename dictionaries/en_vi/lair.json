@@ -1,0 +1,63 @@
+{
+    "word": "lair",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ler/",
+            "/lɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hang",
+            "type": "noun",
+            "example": {
+                "en": "Ladies and gentlemen, welcome to my underground lair.",
+                "vi": "Mọi người, chào mừng đến hang ổ dưới đất của ta."
+            }
+        },
+        {
+            "content": "hang ổ",
+            "type": "",
+            "example": {
+                "en": "Ladies and gentlemen, welcome to my underground lair.",
+                "vi": "Mọi người, chào mừng đến hang ổ dưới đất của ta."
+            }
+        },
+        {
+            "content": "hang ổ thú rừng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nằm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhốt vào trạm nhốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trạm nhốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa vào trạm nhốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

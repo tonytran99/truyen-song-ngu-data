@@ -1,0 +1,77 @@
+{
+    "word": "believe",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈlēv/",
+            "/bəˈliv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈliːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tin",
+            "type": "verb",
+            "example": {
+                "en": "Everyone would like to believe that dreams can come true.",
+                "vi": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực."
+            }
+        },
+        {
+            "content": "tin tưởng",
+            "type": "verb",
+            "example": {
+                "en": "You must stand up for what you believe in or no one will respect you.",
+                "vi": "Anh phải bảo vệ những gì anh tin tưởng nếu không sẽ không có ai tôn trọng anh."
+            }
+        },
+        {
+            "content": "ngỡ",
+            "type": "verb",
+            "example": {
+                "en": "♪ I don't believe what I saw ♪",
+                "vi": "♪ Ngỡ ngàng thay điều tôi thấy ♪"
+            }
+        },
+        {
+            "content": "công nhận",
+            "type": "",
+            "example": {
+                "en": "I must confess, I find it difficult to believe in a disease of machinery.",
+                "vi": "Phải công nhận là khó mà tin vào một căn bệnh của máy móc."
+            }
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "We have intel that I believe warns an immediate debrief.",
+                "vi": "Chúng tôi có thông tin mà tôi cho rằng đáng được kiểm tra ngay."
+            }
+        },
+        {
+            "content": "nghĩ rằng",
+            "type": "",
+            "example": {
+                "en": "I believe that the sun has set on our day in the sun.",
+                "vi": "Tớ nghĩ rằng mặt trời đã lặn trong ngày của chúng ta."
+            }
+        },
+        {
+            "content": "tưởng",
+            "type": "verb",
+            "example": {
+                "en": "You must stand up for what you believe in or no one will respect you.",
+                "vi": "Anh phải bảo vệ những gì anh tin tưởng nếu không sẽ không có ai tôn trọng anh."
+            }
+        }
+    ]
+}

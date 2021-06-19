@@ -1,0 +1,93 @@
+{
+    "word": "triple",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtripəl/",
+            "/ˈtrɪpəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɪp(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gấp ba",
+            "type": "",
+            "example": {
+                "en": "People are paying triple the standard rate for electric.",
+                "vi": "Người dân đang phải trả cao gấp ba lần so với giá điện chuẩn."
+            }
+        },
+        {
+            "content": "gồm ba phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ba",
+            "type": "adjective noun numeral",
+            "example": {
+                "en": "I got a triple homicide here in the Livingston house.",
+                "vi": "Tôi có ba người chết ở căn nhà Livingston."
+            }
+        },
+        {
+            "content": "gấp ba lần",
+            "type": "",
+            "example": {
+                "en": "People are paying triple the standard rate for electric.",
+                "vi": "Người dân đang phải trả cao gấp ba lần so với giá điện chuẩn."
+            }
+        },
+        {
+            "content": "ba lần",
+            "type": "",
+            "example": {
+                "en": "People are paying triple the standard rate for electric.",
+                "vi": "Người dân đang phải trả cao gấp ba lần so với giá điện chuẩn."
+            }
+        },
+        {
+            "content": "bội ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có ba cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân ba",
+            "type": "",
+            "example": {
+                "en": "It's like a triple whammy.",
+                "vi": "Như thể là vết đau nhân ba vậy."
+            }
+        },
+        {
+            "content": "tăng lên ba lần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ba phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ba thứ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

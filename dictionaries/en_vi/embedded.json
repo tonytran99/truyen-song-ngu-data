@@ -1,0 +1,38 @@
+{
+    "word": "embedded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈbedəd/",
+            "/ɪmˈbɛdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbɛdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhúng",
+            "type": "",
+            "example": {
+                "en": "The codes for that connection have been embedded within the drive that contains this video.",
+                "vi": "Các mã kết nối đó đã được nhúng vào ổ đĩa có chứa video này."
+            }
+        },
+        {
+            "content": "được nhúng",
+            "type": "",
+            "example": {
+                "en": "The codes for that connection have been embedded within the drive that contains this video.",
+                "vi": "Các mã kết nối đó đã được nhúng vào ổ đĩa có chứa video này."
+            }
+        }
+    ]
+}

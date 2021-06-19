@@ -1,0 +1,55 @@
+{
+    "word": "hibernate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhībərˌnāt/",
+            "/ˈhaɪbərˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪbəneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngủ đông",
+            "type": "verb",
+            "example": {
+                "en": "There could be another hibernation machine in the cargo hold.",
+                "vi": "Có thể trong kho hàng còn một kén ngủ đông khác."
+            }
+        },
+        {
+            "content": "không hoạt động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không làm gì",
+            "type": "",
+            "example": {
+                "en": "Hibernating, like the last dark age.",
+                "vi": "Không làm gì cả, như sống trong Thời kì Trung cổ."
+            }
+        },
+        {
+            "content": "nằm lì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngủ",
+            "type": "verb",
+            "example": {
+                "en": "We're not gonna find a hibernation facility in a box.",
+                "vi": "Chúng ta không tìm được kén ngủ đông còn nguyên hộp đâu."
+            }
+        }
+    ]
+}

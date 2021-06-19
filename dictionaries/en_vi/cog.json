@@ -1,0 +1,48 @@
+{
+    "word": "cog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käɡ/",
+            "/kɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "răng",
+            "type": "noun",
+            "example": {
+                "en": "Every one of these circles is a cog, a stack of cogs,",
+                "vi": "Mỗi vòng tròn là một bánh răng, một chồng bánh răng,"
+            }
+        },
+        {
+            "content": "vấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "răng bánh xe",
+            "type": "",
+            "example": {
+                "en": "Many workers feel like cogs in an impersonal machine",
+                "vi": "Nhiều công nhân cảm thấy họ chẳng khác nào những cái răng bánh xe của một cỗ máy vô cảm"
+            }
+        },
+        {
+            "content": "ăn khớp nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

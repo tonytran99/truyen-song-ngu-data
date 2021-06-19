@@ -1,0 +1,54 @@
+{
+    "word": "detector",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtektər/",
+            "/dəˈtɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ tách sóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy dò",
+            "type": "",
+            "example": {
+                "en": "Because the alarm had already gone off, the seismic detectors couldn't detect the drill.",
+                "vi": "Và vì chuông báo động đã reo, máy dò địa chấn không thể phát hiện ra tiếng khoan."
+            }
+        },
+        {
+            "content": "người dò ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người khám phá ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người phát hiện ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tìm ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

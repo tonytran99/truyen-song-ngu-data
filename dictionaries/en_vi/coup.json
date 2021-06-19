@@ -1,0 +1,61 @@
+{
+    "word": "coup",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͞o/",
+            "/ku/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc làm táo bạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành động phi thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đảo chính",
+            "type": "",
+            "example": {
+                "en": "This was nothing more or less than an attempted coup, plain and simple.",
+                "vi": "Chuyện này không khác gì một cố gắng đảo chính, nói đơn giản là thế."
+            }
+        },
+        {
+            "content": "bạo động",
+            "type": "",
+            "example": {
+                "en": "went through a violent coup.",
+                "vi": "một cuộc bạo động."
+            }
+        },
+        {
+            "content": "cuộc đảo chính",
+            "type": "",
+            "example": {
+                "en": "When you hear Babangida, you remember the military and military coups.",
+                "vi": "Khi bạn nghe Babangida, bạn sẽ nhớ tới quân đội và những cuộc đảo chính."
+            }
+        },
+        {
+            "content": "phiến loạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

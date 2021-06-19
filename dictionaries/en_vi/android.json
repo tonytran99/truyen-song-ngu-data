@@ -1,0 +1,35 @@
+{
+    "word": "android",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanˌdroid/",
+            "/ˈænˌdrɔɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈandrɔɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người máy",
+            "type": "noun",
+            "example": {
+                "en": "Your android brain is capable of much more.",
+                "vi": "Bộ não người máy của mi có khả năng làm được nhiều hơn thế."
+            }
+        },
+        {
+            "content": "máy có nhân tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

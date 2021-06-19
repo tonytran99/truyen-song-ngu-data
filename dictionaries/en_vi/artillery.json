@@ -1,0 +1,53 @@
+{
+    "word": "artillery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌärˈtil(ə)rē/",
+            "/ˌɑrˈtɪl(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːˈtɪləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo binh",
+            "type": "noun",
+            "example": {
+                "en": "We need shelter and a place to refit artillery.",
+                "vi": "Chúng tôi cần ẩn náu và trang bị pháo binh."
+            }
+        },
+        {
+            "content": "pháo",
+            "type": "noun",
+            "example": {
+                "en": "Are we artillery observers or are we playing cards?",
+                "vi": "Ta đang nghiên cứu pháo hay đang chơi bài?"
+            }
+        },
+        {
+            "content": "Pháo",
+            "type": "",
+            "example": {
+                "en": "They have artillery, aircraft, tanks.",
+                "vi": "Pháo binh của họ hùng hậu. Máy bay, xe tăng."
+            }
+        },
+        {
+            "content": "đại pháo",
+            "type": "noun",
+            "example": {
+                "en": "Our artillery cannot detect them.",
+                "vi": "Đại pháo của chúng ta không thể dò ra chúng."
+            }
+        }
+    ]
+}

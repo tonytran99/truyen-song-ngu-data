@@ -1,0 +1,34 @@
+{
+    "word": "governess",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəvərnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌv(ə)nəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảo mẫu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cô giáo",
+            "type": "",
+            "example": {
+                "en": "I'm not here as your governess.",
+                "vi": "Dì không tới đây để làm cô giáo của con."
+            }
+        }
+    ]
+}

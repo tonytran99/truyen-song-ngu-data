@@ -1,0 +1,57 @@
+{
+    "word": "deafen",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdefən/",
+            "/ˈdɛfən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛf(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "át",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làm chói tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm inh tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm điếc",
+            "type": "",
+            "example": {
+                "en": "Because we're too deafened by the din of our bodies to hear God's Word.",
+                "vi": "Bởi vì chúng tôi bị sự rền rĩ của cơ thể làm điếc tai nên không nghe được lời của Chúa?"
+            }
+        },
+        {
+            "content": "làm điếc tai",
+            "type": "",
+            "example": {
+                "en": "Because we're too deafened by the din of our bodies to hear God's Word.",
+                "vi": "Bởi vì chúng tôi bị sự rền rĩ của cơ thể làm điếc tai nên không nghe được lời của Chúa?"
+            }
+        },
+        {
+            "content": "ngăn được tiếng động",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

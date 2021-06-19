@@ -1,0 +1,35 @@
+{
+    "word": "albert",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalbərt/",
+            "/ˈælbərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalbət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dây đồng hồ anbe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "albert",
+            "type": "",
+            "example": {
+                "en": "Yeah, but you're not even a good sheep farmer, Albert.",
+                "vi": "Nhưng anh cũng không giỏi chăn cừu, Albert."
+            }
+        }
+    ]
+}

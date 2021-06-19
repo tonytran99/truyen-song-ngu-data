@@ -1,0 +1,72 @@
+{
+    "word": "interesting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈint(ə)rəstiNG/",
+            "/ˈɪnt(ə)rəstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnt(ə)rɪstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thú vị",
+            "type": "noun",
+            "example": {
+                "en": "I dropped by the bookstore and bought an interesting book.",
+                "vi": "Tôi ghé qua hiệu sách và mua một cuốn sách thú vị."
+            }
+        },
+        {
+            "content": "hay",
+            "type": "adjective",
+            "example": {
+                "en": "This is the most interesting book I have ever read.",
+                "vi": "Đây là quyển sách hay nhất mà tôi đã từng đọc."
+            }
+        },
+        {
+            "content": "làm quan tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú",
+            "type": "adjective",
+            "example": {
+                "en": "There are some interesting exhibits in the museum.",
+                "vi": "Có một vài hiện vật lý thú đươc trưng bày ở bảo tàng."
+            }
+        },
+        {
+            "content": "bổ ích",
+            "type": "noun",
+            "example": {
+                "en": "It's an interesting story, and it also has a lesson.",
+                "vi": "Nó là câu chuyện hay, và nó cũng có bài học bổ ích."
+            }
+        },
+        {
+            "content": "hay ho",
+            "type": "noun",
+            "example": {
+                "en": "You have an interesting way of being disinterested, Sam.",
+                "vi": "Cậu có một cách hay ho để bị tước bỏ quyền lợi, Sam."
+            }
+        },
+        {
+            "content": "làm chú ý",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

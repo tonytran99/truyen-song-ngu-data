@@ -1,0 +1,54 @@
+{
+    "word": "weeping",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēpiNG/",
+            "/ˈwipɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːpɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chy nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khóc lóc",
+            "type": "",
+            "example": {
+                "en": "And now the rains weep o'er our halls.",
+                "vi": "Và bây giờ những cơn mưa khóc lóc tràn vào sảnh của chúng ta."
+            }
+        },
+        {
+            "content": "rỉ nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rủ cành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang khóc",
+            "type": "",
+            "example": {
+                "en": "“Happy are you who weep now, for you will laugh.",
+                "vi": "Hạnh phúc cho những anh em đang khóc vì sẽ cười."
+            }
+        }
+    ]
+}

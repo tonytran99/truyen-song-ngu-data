@@ -1,0 +1,49 @@
+{
+    "word": "clientele",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌklīənˈtel/",
+            "/ˌklaɪənˈtɛl/",
+            "/ˌklēənˈtel/",
+            "/ˌkliənˈtɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkliːɒnˈtɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "an Asian clientele",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một nhóm khách hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhóm khách hàng",
+            "type": "",
+            "example": {
+                "en": "Well, if you'll excuse me..., it seems as though I need to procure some alcohol for my dwindling clientele.",
+                "vi": "Cho tôi xin phép, có vẻ như tôi cần đi kiếm chút rượu cho nhóm khách hàng nhỏ của tôi."
+            }
+        },
+        {
+            "content": "những khách quen",
+            "type": "",
+            "example": {
+                "en": "They have VIPs in their clientele.",
+                "vi": "Họ có những khách quen là VIP."
+            }
+        }
+    ]
+}

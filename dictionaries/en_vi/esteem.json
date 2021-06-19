@@ -1,0 +1,80 @@
+{
+    "word": "esteem",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstēm/",
+            "/əˈstim/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈstiːm/",
+            "/ɛˈstiːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kính mến",
+            "type": "",
+            "example": {
+                "en": "Our esteemed professor will explain it.",
+                "vi": "Giáo sư kính mến đây sẽ giải thích nó."
+            }
+        },
+        {
+            "content": "quý trọng",
+            "type": "",
+            "example": {
+                "en": "We all want to be respected and esteemed.",
+                "vi": "Chúng ta đều muốn được tôn trọng và quý trọng."
+            }
+        },
+        {
+            "content": "trọng",
+            "type": "adjective",
+            "example": {
+                "en": "Your self-esteem is like a notch below Kafka's.",
+                "vi": "Lòng tự trọng của cô còn dưới cả Kafka."
+            }
+        },
+        {
+            "content": "quí",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phục",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cho là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "coi là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kính mến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự quý trọng",
+            "type": "",
+            "example": {
+                "en": "With profound esteem for dairy and dairy products...",
+                "vi": "Với sự quý trọng sâu sắc dành cho bơ sữa và các sản phẩm bơ sữa..."
+            }
+        }
+    ]
+}

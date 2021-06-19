@@ -1,0 +1,188 @@
+{
+    "word": "doctor",
+    "type": [
+        ""
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdäktər/",
+            "/ˈdɑktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bác sĩ",
+            "type": "noun",
+            "example": {
+                "en": "He told me his father was a doctor.",
+                "vi": "Anh ấy bảo tôi rằng cha của anh ấy là một bác sĩ."
+            }
+        },
+        {
+            "content": "tiến sĩ",
+            "type": "noun",
+            "example": {
+                "en": "You may more properly address me as doctor or mister.",
+                "vi": "Anh có thể gọi tôi một cách thích đáng hơn là tiến sĩ hay là ông."
+            }
+        },
+        {
+            "content": "bác sĩ y khoa",
+            "type": "noun",
+            "example": {
+                "en": "My long road to become a doctor of medicine was only the beginning.",
+                "vi": "Con đường dài của tôi để trở thành một bác sĩ y khoa chỉ mới bắt đầu."
+            }
+        },
+        {
+            "content": "thầy thuốc",
+            "type": "noun",
+            "example": {
+                "en": "She had been to many doctors, but they could not help her.",
+                "vi": "Bà đã đi rất nhiều thầy thuốc, nhưng họ không thể giúp gì cho bà được."
+            }
+        },
+        {
+            "content": "bác",
+            "type": "pronoun verb noun",
+            "example": {
+                "en": "She is not a nurse, but a doctor.",
+                "vi": "Cô ấy không phải là y tá mà là bác sĩ."
+            }
+        },
+        {
+            "content": "y",
+            "type": "noun",
+            "example": {
+                "en": "Remember I told you Ricardo Prisco was a licensed doctor?",
+                "vi": "Có nhớ tôi kể rằng Ricardo Prisco có bằng y khoa không?"
+            }
+        },
+        {
+            "content": "bác sỹ",
+            "type": "",
+            "example": {
+                "en": "The doctor broke the Hippocratic Oath.",
+                "vi": "Người bác sỹ đã phá vỡ lời thề Hippocrates."
+            }
+        },
+        {
+            "content": "chữa",
+            "type": "verb",
+            "example": {
+                "en": "The doctor says you're in agonizing pain, but that you won't accept medication.",
+                "vi": "Bác sĩ nói rằng anh đang bị đau nặng, nhưng không chịu để họ chạy chữa."
+            }
+        },
+        {
+            "content": "tiến sỹ",
+            "type": "",
+            "example": {
+                "en": "Cory Kidd developed this robot for his doctoral work.",
+                "vi": "Cory Kidd tạo ra robot này trong công trình tiến sỹ của anh ta."
+            }
+        },
+        {
+            "content": "đốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ phận điều chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho uống thuốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấp vá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữa bệnh cho",
+            "type": "",
+            "example": {
+                "en": "As your family doctor , a family practitioner can continue to treat both you and your baby after birth .",
+                "vi": "Với tư cách là bác sĩ đa khoa thì họ vẫn có thể chữa bệnh cho cả mẹ và bé sau khi sinh xong ."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "",
+            "example": {
+                "en": "Others complained of doctored voting lists .",
+                "vi": "Những người khác thì phàn nàn là danh sách bỏ phiếu bị giả mạo ."
+            }
+        },
+        {
+            "content": "làm bác sĩ y khoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả",
+            "type": "",
+            "example": {
+                "en": "The doctor faked the DNA.",
+                "vi": "Gã bác sĩ đã làm giả kết quả ADN."
+            }
+        },
+        {
+            "content": "nhà học giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà thông thái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ruồi già",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sửa chữa",
+            "type": "verb noun",
+            "example": {
+                "en": "Charles contends that Jimmy took the documents pertaining to the rosella branch and, while Charles was indisposed, photocopied and doctored them.",
+                "vi": "Charles cho rằng Jimmy đã lấy tài liệu liên quan tới chi nhánh Rosella đã sao chép và sửa chữa chúng."
+            }
+        },
+        {
+            "content": "tống thuốc vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữa bệnh",
+            "type": "",
+            "example": {
+                "en": "Becoming a doctor doesn't make you a healer.",
+                "vi": "Làm bác sĩ thì không khiến ta trở thành 1 người chữa bệnh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "visibly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvizəblē/",
+            "/ˈvɪzəbli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪzəbli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiển nhiên",
+            "type": "",
+            "example": {
+                "en": "And this is visible in the unstoppable change in language —",
+                "vi": "Và hiển nhiên khi ngôn ngữ thay đổi không ngừng —"
+            }
+        },
+        {
+            "content": "hữu hình",
+            "type": "",
+            "example": {
+                "en": "But this our containment of the visible universe.",
+                "vi": "Nhưng sự kìm hãm không gian của chúng ta là trong vũ trụ hữu hình."
+            }
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {
+                "en": "You have to run tests even if there's no visible trauma.",
+                "vi": "Dù cho không có vết thương bên ngoài rõ ràng, cũng phải kiểm tra."
+            }
+        },
+        {
+            "content": "rõ rệt",
+            "type": "",
+            "example": {
+                "en": "On their third visit, however, there was a visible change in Stan’s countenance and demeanor.",
+                "vi": "Tuy nhiên, vào lần thứ ba, có một sự thay đổi rõ rệt nơi nét mặt và hành động của Stan."
+            }
+        }
+    ]
+}

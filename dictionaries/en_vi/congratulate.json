@@ -1,0 +1,65 @@
+{
+    "word": "congratulate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈɡraCHəˌlāt/",
+            "/kənˈɡrætʃəˌleɪt/",
+            "/kənˈɡrajəˌlāt/",
+            "/kənˈɡrædʒəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈɡratjʊleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chúc mừng",
+            "type": "verb",
+            "example": {
+                "en": "And to congratulate him on the way he handled the English mob this morning.",
+                "vi": "Và để chúc mừng ông về cái cách ông đã xử lý bọn côn đồ Anh sáng nay."
+            }
+        },
+        {
+            "content": "mừng",
+            "type": "verb",
+            "example": {
+                "en": "And to congratulate him on the way he handled the English mob this morning.",
+                "vi": "Và để chúc mừng ông về cái cách ông đã xử lý bọn côn đồ Anh sáng nay."
+            }
+        },
+        {
+            "content": "khen",
+            "type": "verb",
+            "example": {
+                "en": "You think you'll raise a commotion and get congratulated for it.",
+                "vi": "Mày tưởng mày sẽ tạo ra được một sự rúng động và được người ta khen ngợi hả?"
+            }
+        },
+        {
+            "content": "ban khen",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khen ngợi",
+            "type": "verb",
+            "example": {
+                "en": "You think you'll raise a commotion and get congratulated for it.",
+                "vi": "Mày tưởng mày sẽ tạo ra được một sự rúng động và được người ta khen ngợi hả?"
+            }
+        },
+        {
+            "content": "khánh chúc",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "hood",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ho͝od/",
+            "/hʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mũ trùm đầu",
+            "type": "noun",
+            "example": {
+                "en": "You will let in the second person and put the hood on him.",
+                "vi": "Cô sẽ để người đàn ông đó vào và đội mũ trùm đầu cho anh ta."
+            }
+        },
+        {
+            "content": "mui",
+            "type": "noun",
+            "example": {
+                "en": "Do you know what he has under that hood?",
+                "vi": "Anh biết hắn có gì bên dưới mui xe không?"
+            }
+        },
+        {
+            "content": "nắp xe",
+            "type": "",
+            "example": {
+                "en": "He jumped right through the window onto the hood of my car.",
+                "vi": "Hắn bay ra ngoài cửa sổ và rơi trúng nắp xe tôi."
+            }
+        },
+        {
+            "content": "che bằng mui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "huy hiệu học vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miếng da trùm đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mui xe",
+            "type": "noun",
+            "example": {
+                "en": "Do you know what he has under that hood?",
+                "vi": "Anh biết hắn có gì bên dưới mui xe không?"
+            }
+        },
+        {
+            "content": "đậy mui lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đội mũ trùm đầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

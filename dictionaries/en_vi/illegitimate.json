@@ -1,0 +1,72 @@
+{
+    "word": "illegitimate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiləˈjidəmət/",
+            "/ˌɪləˈdʒɪdəmət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪlɪˈdʒɪtɪmət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chính đáng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đẻ hoang",
+            "type": "",
+            "example": {
+                "en": "And now remain gone, illegitimate-faced bugger-folk!",
+                "vi": "Và bây giờ đi đi, đồ chó chết đẻ hoang!"
+            }
+        },
+        {
+            "content": "bất hợp pháp",
+            "type": "adjective",
+            "example": {
+                "en": "single white male, divorced three times, two illegitimate children.",
+                "vi": "Người đàn ông da trắng độc thân, li dị 3 lần, có 2 đứa con bất hợp pháp"
+            }
+        },
+        {
+            "content": "con hoang",
+            "type": "adjective",
+            "example": {
+                "en": "I would never consider marrying the illegitimate daughter of the King of Naples",
+                "vi": "Tôi chưa từng nghĩ đến việc lấy đứa con hoang của vua xứ Naples"
+            }
+        },
+        {
+            "content": "không hợp pháp",
+            "type": "adjective",
+            "example": {
+                "en": "King Ferrante of Naples has an illegitimate daughter.",
+                "vi": "Vua Ferrante xứ Naples có con gái không hợp pháp."
+            }
+        },
+        {
+            "content": "ngoài giá thú",
+            "type": "adjective",
+            "example": {
+                "en": "I have one illegitimate child who is a lot like me.",
+                "vi": "Tôi có một đứa con ngoài giá thú rất giống tôi."
+            }
+        },
+        {
+            "content": "đứa con đẻ hoang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

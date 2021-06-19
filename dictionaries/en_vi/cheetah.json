@@ -1,0 +1,49 @@
+{
+    "word": "cheetah",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHēdə/",
+            "/ˈtʃidə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃiːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báo săn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "báo bờm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "báo ghêpa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loài báo gêpa",
+            "type": "",
+            "example": {
+                "en": "BJ: And then cheetahs have crashed",
+                "vi": "BJ: Còn loài báo gêpa (cheetah)"
+            }
+        },
+        {
+            "content": "Báo săn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

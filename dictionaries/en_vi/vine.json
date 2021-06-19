@@ -1,0 +1,50 @@
+{
+    "word": "vine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vīn/",
+            "/vaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây nho",
+            "type": "noun",
+            "example": {
+                "en": "Every family will dwell in peace under its own vine and fig tree.",
+                "vi": "Mỗi gia đình sẽ sống trong sự bình yên dưới cây nho và cây vả mình."
+            }
+        },
+        {
+            "content": "cây bò",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây leo",
+            "type": "noun",
+            "example": {
+                "en": "Growing among them are countless ferns, mosses, vines, shrubs, and herbs.",
+                "vi": "Mọc xung quanh đấy là vô số dương xỉ, rêu, cây leo, cây bụi, và thảo mộc."
+            }
+        },
+        {
+            "content": "leo",
+            "type": "adjective",
+            "example": {
+                "en": "Only long vines tied to their ankles save them from certain death.",
+                "vi": "Chỉ có sợi dây leo buộc ở cổ chân là thứ duy nhất cứu họ khỏi cái chết."
+            }
+        }
+    ]
+}

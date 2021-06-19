@@ -1,0 +1,60 @@
+{
+    "word": "eight",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/āt/",
+            "/eɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tám",
+            "type": "Cardinal number, numeral",
+            "example": {
+                "en": "It doesn't start before eight thirty.",
+                "vi": "Nó sẽ không bắt đầu cho tới lúc tám giờ rưỡi."
+            }
+        },
+        {
+            "content": "bát",
+            "type": "noun",
+            "example": {
+                "en": "Then how can you control the eight vassals?",
+                "vi": "Thế thì làm sao có thể huy động được bát lộ chư hầu đây?"
+            }
+        },
+        {
+            "content": "số tám",
+            "type": "",
+            "example": {
+                "en": "Two of his eight children also passed away as the years went by.",
+                "vi": "Hai trong số tám người con của ông cũng qua đời trong những năm kế tiếp."
+            }
+        },
+        {
+            "content": "tám tuổi",
+            "type": "",
+            "example": {
+                "en": "My friend Max was baptized when he was eight years old.",
+                "vi": "Người bạn của tôi tên Max đã chịu phép báp têm vào lúc tám tuổi."
+            }
+        },
+        {
+            "content": "hình con số tám",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

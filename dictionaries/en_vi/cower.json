@@ -1,0 +1,50 @@
+{
+    "word": "cower",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkou(ə)r/",
+            "/ˈkaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngồi co rúm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khúm núm",
+            "type": "verb",
+            "example": {
+                "en": "Don't cower to him.",
+                "vi": "Đừng khúm núm trước hắn."
+            }
+        },
+        {
+            "content": "nằm co",
+            "type": "",
+            "example": {
+                "en": "He makes me cower in the ashes.",
+                "vi": "Khiến tôi nằm co ro trong tro."
+            }
+        },
+        {
+            "content": "thu mình lại",
+            "type": "",
+            "example": {
+                "en": "The boy half cowered behind his father as they knocked on the door.",
+                "vi": "Đứa bé đứng thu mình lại sau lưng người cha khi họ gõ cửa nhà."
+            }
+        }
+    ]
+}

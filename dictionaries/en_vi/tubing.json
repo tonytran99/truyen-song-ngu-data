@@ -1,0 +1,45 @@
+{
+    "word": "tubing",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈt(y)o͞obiNG/",
+            "/ˈt(j)ubɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtjuːbɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ống",
+            "type": "noun",
+            "example": {
+                "en": "This method uses a thin , flexible tube called a catheter .",
+                "vi": "Phương pháp này sử dụng một ống mỏng , mềm dẻo gọi là ống thông ."
+            }
+        },
+        {
+            "content": "hệ thống ống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đặt ống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miệng lắp ống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

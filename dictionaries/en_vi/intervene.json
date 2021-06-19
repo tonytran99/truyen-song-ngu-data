@@ -1,0 +1,50 @@
+{
+    "word": "intervene",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈvēn/",
+            "/ˌɪn(t)ərˈvin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈviːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "can thiệp",
+            "type": "verb",
+            "example": {
+                "en": "Social services won't intervene until they do a full investigation.",
+                "vi": "Dịch vụ xã hội sẽ không can thiệp đến khi họ điều tra đầy đủ."
+            }
+        },
+        {
+            "content": "ở giữa",
+            "type": "",
+            "example": {
+                "en": "5 In a sensitive way, the intervening sections cover different reactions to the death of a loved one.",
+                "vi": "5 Các phần ở giữa bàn một cách tế nhị về những phản ứng khác nhau trước sự chết của một người thân."
+            }
+        },
+        {
+            "content": "xen vào",
+            "type": "",
+            "example": {
+                "en": "Anyone who intervenes will be the first to die!",
+                "vi": "Kẻ nào xen vào trận đấu này sẽ bị xử tử"
+            }
+        },
+        {
+            "content": "xảy ra ở giữa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "iterative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈidəˌrādiv/",
+            "/ˈɪdəˌreɪdɪv/",
+            "/ˈidərədiv/",
+            "/ˈɪdərədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪt(ə)rətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lặp",
+            "type": "",
+            "example": {
+                "en": "It's time to move on to the next iteration.",
+                "vi": "Đã đến lúc chuyển sang vòng lặp tiếp theo."
+            }
+        },
+        {
+            "content": "lắp lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lặp đi lặp lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhắc lại",
+            "type": "",
+            "example": {
+                "en": "And if we are, are we ready to iterate, monitor",
+                "vi": "Và nếu có cam kết thì chúng ta đã sẵn sàng để nhắc lại, giám sát"
+            }
+        },
+        {
+            "content": "nhắc đi nhắc lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

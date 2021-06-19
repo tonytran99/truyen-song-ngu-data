@@ -1,0 +1,71 @@
+{
+    "word": "dice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīs/",
+            "/daɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "súc sắc",
+            "type": "noun",
+            "example": {
+                "en": "And then we had a snakes and ladders game, where you throw dice.",
+                "vi": "Và chúng tôi có trò chơi tung súc sắc với con rắn và cái thang."
+            }
+        },
+        {
+            "content": "kẻ ô vuông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số nhiều của die",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò chơi súc sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò chơi xúc sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viên xúc xắc",
+            "type": "noun",
+            "example": {
+                "en": "Well, imagine if I gave you a pair of dice, and I said you wanted to see whether those dice were loaded or fair.",
+                "vi": "À, hãy thử tưởng tượng nếu và tôi từng nói bạn muốn nhìn thấy liệu những viên xúc xắc này"
+            }
+        },
+        {
+            "content": "vạch ô vuông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xúc xắc",
+            "type": "",
+            "example": {
+                "en": "Buckle your seatbelts, roll the dice, and take a ride on the Reading.",
+                "vi": "Hãy trói chặt ghế ngồi, thả xúc xắc, và bắt đầu khám phá trò chơi."
+            }
+        }
+    ]
+}

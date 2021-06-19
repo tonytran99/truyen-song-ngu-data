@@ -1,0 +1,68 @@
+{
+    "word": "unable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈābəl/",
+            "/ˌənˈeɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈeɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thể",
+            "type": "adjective",
+            "example": {
+                "en": "The doctor could not determine what was wrong and was unable to help him.",
+                "vi": "Bác sĩ đã không thể khám ra bệnh và không thể cứu chữa em."
+            }
+        },
+        {
+            "content": "không có khả năng",
+            "type": "adjective",
+            "example": {
+                "en": "I am unable to save you now, even if I wished to.",
+                "vi": "Lúc này ta không có khả năng để cứu ngươi, ngay cả khi ngươi ước thế."
+            }
+        },
+        {
+            "content": "không đủ khả năng",
+            "type": "adjective",
+            "example": {
+                "en": "the homeless person who is unable to follow medical advice",
+                "vi": "người vô gia cư không đủ khả năng thực hiện đơn thuốc"
+            }
+        },
+        {
+            "content": "không đủ sức",
+            "type": "adjective",
+            "example": {
+                "en": "Do you sometimes feel unable to carry on in your own strength?",
+                "vi": "Đôi lúc bạn có cảm thấy mình không đủ sức chịu đựng một vấn đề nào đó không?"
+            }
+        },
+        {
+            "content": "bất tài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có năng lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có thẩm quyền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

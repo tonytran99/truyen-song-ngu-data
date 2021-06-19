@@ -1,0 +1,82 @@
+{
+    "word": "ebb",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eb/",
+            "/ɛb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuống",
+            "type": "verb",
+            "example": {
+                "en": "So you're seeing the daily ebb and flow",
+                "vi": "Vậy bạn đang nhìn thấy triều dân và xuống"
+            }
+        },
+        {
+            "content": "rút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ròng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nước xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy sụp",
+            "type": "",
+            "example": {
+                "en": "The spiritual condition of the nation was at a low ebb.",
+                "vi": "Tình trạng thiêng liêng của xứ đang suy sụp."
+            }
+        },
+        {
+            "content": "thời kỳ suy sụp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thời kỳ tàn tạ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "triều xuống",
+            "type": "",
+            "example": {
+                "en": "Galaxies, the ebb and the flow...",
+                "vi": "Những thiên hà, triều xuống, triều lên..."
+            }
+        },
+        {
+            "content": "tàn tạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

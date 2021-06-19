@@ -1,0 +1,51 @@
+{
+    "word": "ladder",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈladər/",
+            "/ˈlædər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈladə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thang",
+            "type": "noun",
+            "example": {
+                "en": "I need a ladder so I can get up to my roof.",
+                "vi": "Tôi cần một cái thang như thế tôi có thể trèo lên mái nhà."
+            }
+        },
+        {
+            "content": "bậc thang",
+            "type": "",
+            "example": {
+                "en": "Think of this as a ladder, and you're at the bottom of this ladder.",
+                "vi": "Việc này như một cái thang vậy, và con đang ở bậc thang cuối cùng."
+            }
+        },
+        {
+            "content": "tháng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái thang",
+            "type": "noun",
+            "example": {
+                "en": "I need a ladder so I can get up to my roof.",
+                "vi": "Tôi cần một cái thang như thế tôi có thể trèo lên mái nhà."
+            }
+        }
+    ]
+}

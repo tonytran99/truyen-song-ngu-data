@@ -1,0 +1,44 @@
+{
+    "word": "freeman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrēmən/",
+            "/ˈfrimən/",
+            "/ˈfrēˌman/",
+            "/ˈfriˌmæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfriːmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người tự do",
+            "type": "",
+            "example": {
+                "en": "Evangelizers came to include men and women, young and old, slave and freeman.",
+                "vi": "Như vậy, những người rao truyền tin mừng gồm cả nam lẫn nữ, già lẫn trẻ, nô lệ lẫn người tự do."
+            }
+        },
+        {
+            "content": "người được đặc quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự do",
+            "type": "adjective noun",
+            "example": {
+                "en": "In a few hours you're a freeman!",
+                "vi": "Vài giờ nữa anh sẽ được tự do."
+            }
+        }
+    ]
+}

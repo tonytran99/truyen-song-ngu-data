@@ -1,0 +1,74 @@
+{
+    "word": "everyone",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevrēˌwən/",
+            "/ˈɛvriˌwən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvrɪwʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mọi người",
+            "type": "pronoun",
+            "example": {
+                "en": "Everyone seemed to be very busy and everyone seemed to be in a hurry.",
+                "vi": "Dường như mọi người rất bận rộn và dường như mọi người đang hối hả."
+            }
+        },
+        {
+            "content": "ai ai",
+            "type": "",
+            "example": {
+                "en": "Everyone is out in the street, everyone's on their rooftops, everyone's on their mobile phones.",
+                "vi": "Ai ai cũng ra đường, hoặc là lên mái nhà, ai ai cũng dùng điện thoại."
+            }
+        },
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "Everyone would like to believe that dreams can come true.",
+                "vi": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực."
+            }
+        },
+        {
+            "content": "bàn dân thiên hạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỗi người",
+            "type": "",
+            "example": {
+                "en": "It'd be more friendly if everyone made it with everyone.",
+                "vi": "Sẽ thân thiện hơn nếu mỗi người nói rõ với mỗi người."
+            }
+        },
+        {
+            "content": "người người",
+            "type": "",
+            "example": {
+                "en": "No, tell everyone what happened that day.",
+                "vi": "Không, hãy nói cho mọi người người biết những gì đã xảy ra hôm đó."
+            }
+        },
+        {
+            "content": "tất cả mọi người",
+            "type": "pronoun",
+            "example": {
+                "en": "And not everyone will. But you don't need everyone.",
+                "vi": "Và không phải ai cũng làm theo. Nhưng bạn không cần tất cả mọi người."
+            }
+        }
+    ]
+}

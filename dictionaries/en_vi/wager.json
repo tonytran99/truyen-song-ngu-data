@@ -1,0 +1,54 @@
+{
+    "word": "wager",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwājər/",
+            "/ˈweɪdʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪdʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá",
+            "type": "noun",
+            "example": {
+                "en": "And, so, the greatest wager in history began.",
+                "vi": "Và, vụ cá cược lớn nhất lịch sử bắt đầu."
+            }
+        },
+        {
+            "content": "sự cá cược",
+            "type": "",
+            "example": {
+                "en": "and his wager went like this:",
+                "vi": "và sự cá cược của ông ấy như sau:"
+            }
+        },
+        {
+            "content": "sự đánh cuộc",
+            "type": "",
+            "example": {
+                "en": "Equally well known is Pascal's Wager.",
+                "vi": "sự đánh cuộc của Pascal cũng được biết đến nhiều như vậy"
+            }
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "noun",
+            "example": {
+                "en": "Treasure enough to impress even your Princess, I'd wager.",
+                "vi": "Kho báu đủ để làm xiêu lòng nàng Công chúa của ngươi, ta đánh cuộc như thế."
+            }
+        }
+    ]
+}

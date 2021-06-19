@@ -1,0 +1,111 @@
+{
+    "word": "fighting",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīdiNG/",
+            "/ˈfaɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến sự",
+            "type": "noun",
+            "example": {
+                "en": "'\" to where the fighting is fiercest",
+                "vi": "'\" ở chỗ nào chiến sự xảy ra căng nhất"
+            }
+        },
+        {
+            "content": "chiến đấu",
+            "type": "verb",
+            "example": {
+                "en": "He is possessed of a strong fighting instinct.",
+                "vi": "Anh ta có một bản năng chiến đấu mạnh mẽ."
+            }
+        },
+        {
+            "content": "cuộc chiến đấu",
+            "type": "",
+            "example": {
+                "en": "We won't give up our fight until the dictator is eliminated.",
+                "vi": "Chúng tôi sẽ không từ bỏ cuộc chiến đấu cho tới khi đánh đuổi được tên độc tài."
+            }
+        },
+        {
+            "content": "cuộc đánh nhau",
+            "type": "",
+            "example": {
+                "en": "There was a fight in your store about a week or so back.",
+                "vi": "Có một cuộc đánh nhau trong cửa hàng của ông khoảng một tuần trước."
+            }
+        },
+        {
+            "content": "cuộc đấu tranh",
+            "type": "",
+            "example": {
+                "en": "Nepal has made significant strides in the fight for equality.",
+                "vi": "Nepal đã làm nên những tiến bộ rõ rệt trong cuộc đấu tranh cho sự công bằng."
+            }
+        },
+        {
+            "content": "sự chiến đấu",
+            "type": "",
+            "example": {
+                "en": "Nothing I thought I'd actually have to fight.",
+                "vi": "Không có gì cháu nghĩ cháu phải thực sự chiến đấu với chúng."
+            }
+        },
+        {
+            "content": "sự đánh nhau",
+            "type": "",
+            "example": {
+                "en": "But you don't go into someone's house and start dropping bombs unless you're picking a fight.",
+                "vi": "Và đừng xông vào nhà người khác rồi dội bom trừ khi muốn gây sự đánh nhau."
+            }
+        },
+        {
+            "content": "đánh nhau",
+            "type": "",
+            "example": {
+                "en": "We used to fight.",
+                "vi": "Chúng tôi từng đánh nhau."
+            }
+        },
+        {
+            "content": "đấu tranh",
+            "type": "",
+            "example": {
+                "en": "And no matter how hard you try to fight it, couples need other couples.",
+                "vi": "Và cho dù các cậu cố gắng đấu tranh đến mấy, cặp đôi cần cặp đôi."
+            }
+        },
+        {
+            "content": "chiến",
+            "type": "noun",
+            "example": {
+                "en": "He is possessed of a strong fighting instinct.",
+                "vi": "Anh ta có một bản năng chiến đấu mạnh mẽ."
+            }
+        },
+        {
+            "content": "trận ẩu đả",
+            "type": "",
+            "example": {
+                "en": "Broke your kneecap in a street fight.",
+                "vi": "Bị gãy xương bánh chè do một trận ẩu đả ngoài phố."
+            }
+        }
+    ]
+}

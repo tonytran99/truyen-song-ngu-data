@@ -1,0 +1,39 @@
+{
+    "word": "bidder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbidər/",
+            "/ˈbɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người mời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người trả giá",
+            "type": "",
+            "example": {
+                "en": "And now it's being sold to the highest bidder.",
+                "vi": "Và giờ nó sẽ được bán cho người trả giá cao nhất."
+            }
+        },
+        {
+            "content": "người xướng bài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

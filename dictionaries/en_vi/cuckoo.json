@@ -1,0 +1,69 @@
+{
+    "word": "cuckoo",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈko͞oko͞o/",
+            "/ˈkuku/",
+            "/ˈko͝oko͞o/",
+            "/ˈkʊku/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʊkuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chim cu",
+            "type": "noun",
+            "example": {
+                "en": "This fellow is a very nice bird, this is the Pied cuckoo.",
+                "vi": "Đây là một loài xinh đẹp, đây là chim cu gáy Pied."
+            }
+        },
+        {
+            "content": "họ cu cu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chim cu cu",
+            "type": "",
+            "example": {
+                "en": "You once mentioned that Lex Luthor spent time in the cuckoo's nest.",
+                "vi": "well, em một lần đề cập rằng lex luthor tiêu phí một thời gian nhỏ bé trong tổ chim cu cu."
+            }
+        },
+        {
+            "content": "chàng ngốc",
+            "type": "",
+            "example": {
+                "en": "Well, a cuckoo like him and a smart guy like you.",
+                "vi": "Một chàng ngốc như nó và một gã thông minh như anh."
+            }
+        },
+        {
+            "content": "gàn gàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gáy cu cu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên điên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

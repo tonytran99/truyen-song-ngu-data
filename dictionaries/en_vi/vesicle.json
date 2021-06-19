@@ -1,0 +1,55 @@
+{
+    "word": "vesicle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvesək(ə)l/",
+            "/ˈvɛsək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛsɪk(ə)l/",
+            "/ˈviːsɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bọng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "túi",
+            "type": "noun",
+            "example": {
+                "en": "by getting captured in a bubble or a vesicle",
+                "vi": "bằng cách giam nó trong bong bóng hoặc túi"
+            }
+        },
+        {
+            "content": "bọng nước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mụn nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Túi tiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túi tiết",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

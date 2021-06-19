@@ -1,0 +1,48 @@
+{
+    "word": "carnation",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kärˈnāSH(ə)n/",
+            "/kɑrˈneɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːˈneɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây cẩm chướng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hoa cẩm chướng",
+            "type": "",
+            "example": {
+                "en": "What do carnations smell like?",
+                "vi": "Hoa cẩm chướng có mùi gì?"
+            }
+        },
+        {
+            "content": "cẩm chướng",
+            "type": "noun",
+            "example": {
+                "en": "What do carnations smell like?",
+                "vi": "Hoa cẩm chướng có mùi gì?"
+            }
+        },
+        {
+            "content": "hồng nhạt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

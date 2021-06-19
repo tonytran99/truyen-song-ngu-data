@@ -1,0 +1,84 @@
+{
+    "word": "chronicle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkränək(ə)l/",
+            "/ˈkrɑnək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɒnɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghi chép",
+            "type": "",
+            "example": {
+                "en": "The scriptures chronicle the ministries of the prophets and apostles.",
+                "vi": "Thánh thư ghi chép thời gian giáo vụ của các vị tiên tri và sứ đồ."
+            }
+        },
+        {
+            "content": "ký sự",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ký sự niên đại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mục tin hằng ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mục tin thời sự",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "niên biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sử biên niên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sử",
+            "type": "noun",
+            "example": {
+                "en": "We're all uncomfortable with the idea of a chronicle of our family.",
+                "vi": "Chúng tôi không thoải mái với ý tưởng có cuốn biên niên sử gia đình."
+            }
+        },
+        {
+            "content": "Biên niên sử",
+            "type": "",
+            "example": {
+                "en": "We're all uncomfortable with the idea of a chronicle of our family.",
+                "vi": "Chúng tôi không thoải mái với ý tưởng có cuốn biên niên sử gia đình."
+            }
+        },
+        {
+            "content": "biên niên sử",
+            "type": "noun",
+            "example": {
+                "en": "We're all uncomfortable with the idea of a chronicle of our family.",
+                "vi": "Chúng tôi không thoải mái với ý tưởng có cuốn biên niên sử gia đình."
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "footstep",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝otˌstep/",
+            "/ˈfʊtˌstɛp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊtstɛp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bước chân đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dấu chân",
+            "type": "",
+            "example": {
+                "en": "Repeat with all the footsteps of the first color.",
+                "vi": "Lặp lại với tất cả các dấu chân có màu đầu tiên."
+            }
+        },
+        {
+            "content": "tiếng chân đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bước chân",
+            "type": "noun",
+            "example": {
+                "en": "Schmidt believes he walks in the footsteps of the gods.",
+                "vi": "Schmidt tin rằng ông ta đang đi theo bước chân của các vị thần."
+            }
+        },
+        {
+            "content": "tiếng bước chân",
+            "type": "",
+            "example": {
+                "en": "One night , we did hear footsteps .",
+                "vi": "Một đêm , chúng tôi nghe tiếng bước chân ."
+            }
+        }
+    ]
+}

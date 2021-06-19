@@ -1,0 +1,88 @@
+{
+    "word": "dye",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dī/",
+            "/daɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhuộm",
+            "type": "verb",
+            "example": {
+                "en": "Tom tried to convince Mary to dye her hair red.",
+                "vi": "Tom cố thuyết phục Mary nhuộm tóc đỏ."
+            }
+        },
+        {
+            "content": "thuốc nhuộm",
+            "type": "noun",
+            "example": {
+                "en": "An allergy to dyes in the diapers can cause this reaction .",
+                "vi": "Dị ứng với thuốc nhuộm trong tã lót cũng có thể gây ra phản ứng đó ."
+            }
+        },
+        {
+            "content": "màu",
+            "type": "noun",
+            "example": {
+                "en": "Next, these marine snails were removed from their shells so that their dye glands could be extracted.",
+                "vi": "Tiếp theo, người ta tách những con ốc này khỏi vỏ để chiết lấy tuyến dịch màu."
+            }
+        },
+        {
+            "content": "phẩm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhuộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu nhuộm",
+            "type": "",
+            "example": {
+                "en": "We can inject these dyes into the bloodstream,",
+                "vi": "Và chúng ta tiêm màu nhuộm này vào trong mạch máu"
+            }
+        },
+        {
+            "content": "màu sắc",
+            "type": "noun",
+            "example": {
+                "en": "Several soakings in the dye produce a deeper color.",
+                "vi": "Sau vài lần ngâm trong thuốc nhuộm thì chúng sẽ có màu sắc đậm hơn."
+            }
+        },
+        {
+            "content": "Thuốc nhuộm",
+            "type": "",
+            "example": {
+                "en": "Red dye was extracted from the roots of the madder plant or from the kermes insect.",
+                "vi": "Thuốc nhuộm màu đỏ được chiết xuất từ rễ cây thiên thảo hoặc từ rệp kermes."
+            }
+        },
+        {
+            "content": "nhuộm màu",
+            "type": "",
+            "example": {
+                "en": "Red dye was extracted from the roots of the madder plant or from the kermes insect.",
+                "vi": "Thuốc nhuộm màu đỏ được chiết xuất từ rễ cây thiên thảo hoặc từ rệp kermes."
+            }
+        }
+    ]
+}

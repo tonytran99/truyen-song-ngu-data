@@ -1,0 +1,84 @@
+{
+    "word": "inclined",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈklīnd/",
+            "/ɪnˈklaɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈklʌɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có chiều hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có khuynh hướng",
+            "type": "",
+            "example": {
+                "en": "For example, one might be more inclined to spend while the other is more inclined to save.",
+                "vi": "Chẳng hạn, một người có khuynh hướng xài tiền thoáng, còn người kia thì tiết kiệm."
+            }
+        },
+        {
+            "content": "có ý sãn sàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có ý thiên về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có ý thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuynh",
+            "type": "adjective",
+            "example": {
+                "en": "Being selfishly inclined, they tend to favor the rich over the poor.",
+                "vi": "Do khuynh hướng ích kỷ, người ta thường ưu đãi người giàu hơn người nghèo."
+            }
+        },
+        {
+            "content": "nghiêng",
+            "type": "adjective",
+            "example": {
+                "en": "We have to fly at a special incline in order to make the measurements.",
+                "vi": "Chúng tôi phải bay với độ nghiêng đặc biệt để thực hiện các phép đo."
+            }
+        },
+        {
+            "content": "nghiêng dốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghiêng về",
+            "type": "",
+            "example": {
+                "en": "Perhaps they're more inclined to Tudor's side?",
+                "vi": "Có lẽ họ nghiêng về phe Tudor hơn chăng?"
+            }
+        },
+        {
+            "content": "xiêu vẹo",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

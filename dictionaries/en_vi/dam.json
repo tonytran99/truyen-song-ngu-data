@@ -1,0 +1,89 @@
+{
+    "word": "dam",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dam/",
+            "/dæm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đập",
+            "type": "noun",
+            "example": {
+                "en": "We're short on our bid for the dam.",
+                "vi": "Chúng tôi đã hết tiền cho con đập."
+            }
+        },
+        {
+            "content": "nước ngăn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cản",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bể nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bờ đê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ghìm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiềm chế lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật mẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xây đập",
+            "type": "",
+            "example": {
+                "en": "If you swim with that rug, they'll think you're building a dam.",
+                "vi": "Nếu anh đi bơi với tấm thảm đó, người ta sẽ tưởng anh là con hải ly đang xây đập."
+            }
+        },
+        {
+            "content": "Đập",
+            "type": "",
+            "example": {
+                "en": "The dam will burst before we make it.",
+                "vi": "Đập sắp vỡ, không kịp đâu."
+            }
+        },
+        {
+            "content": "đập nước",
+            "type": "",
+            "example": {
+                "en": "If we need water, we build a dam",
+                "vi": "Nếu cần nước uống, chúng ta sẽ xây một cái đập nước"
+            }
+        }
+    ]
+}

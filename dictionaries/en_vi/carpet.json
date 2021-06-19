@@ -1,0 +1,64 @@
+{
+    "word": "carpet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärpət/",
+            "/ˈkɑrpət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːpɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thảm",
+            "type": "noun",
+            "example": {
+                "en": "I still have to get rid of this carpet.",
+                "vi": "Tớ còn phải bỏ tấm thảm đi."
+            }
+        },
+        {
+            "content": "tấm thảm",
+            "type": "noun",
+            "example": {
+                "en": "I still have to get rid of this carpet.",
+                "vi": "Tớ còn phải bỏ tấm thảm đi."
+            }
+        },
+        {
+            "content": "gọi lên mắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ra mắng mỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trải thảm",
+            "type": "",
+            "example": {
+                "en": "Find a carpeted floor in a warm room .",
+                "vi": "Bạn nên tìm một cái sàn được trải thảm trong một căn phòng ấm áp ."
+            }
+        },
+        {
+            "content": "Thảm",
+            "type": "",
+            "example": {
+                "en": "I still have to get rid of this carpet.",
+                "vi": "Tớ còn phải bỏ tấm thảm đi."
+            }
+        }
+    ]
+}

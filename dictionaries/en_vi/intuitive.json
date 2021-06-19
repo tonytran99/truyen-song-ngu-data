@@ -1,0 +1,40 @@
+{
+    "word": "intuitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈt(y)o͞oədiv/",
+            "/ɪnˈt(j)uədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtjuːɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuộc trực giác",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thuộc về trực giác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trực giác",
+            "type": "",
+            "example": {
+                "en": "How do we develop this intuition? Well we like to play with stuff.",
+                "vi": "Làm thế nào để phát triển trực giác? Chúng ta thích chơi với các thứ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "ammo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈamō/",
+            "/ˈæmoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaməʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của ammunition",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạn dược",
+            "type": "",
+            "example": {
+                "en": "Did you bring the extra vest and ammo?",
+                "vi": "Anh có mang theo áo chống đạn và đạn dược như tôi yêu cầu?"
+            }
+        }
+    ]
+}

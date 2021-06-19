@@ -1,0 +1,67 @@
+{
+    "word": "cocktail",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäkˌtāl/",
+            "/ˈkɑkˌteɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒkteɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cocktail",
+            "type": "noun",
+            "example": {
+                "en": "Last time we had a long chat at a comparatively small cocktail party.",
+                "vi": "Lần vừa rồi cha đã trò chuyện với bả rất lâu trong một bữa tiệc cocktail nhỏ."
+            }
+        },
+        {
+            "content": "kẻ mới phất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước quả cây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rau hoa quả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu cốctay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cốc tai",
+            "type": "noun",
+            "example": {
+                "en": "Got any mustard for that cocktail frank, butt-lick?",
+                "vi": "Có một ít mù tạt ở ly cốc tai hả, Thằng ngố?"
+            }
+        },
+        {
+            "content": "Cocktail",
+            "type": "",
+            "example": {
+                "en": "Last time we had a long chat at a comparatively small cocktail party.",
+                "vi": "Lần vừa rồi cha đã trò chuyện với bả rất lâu trong một bữa tiệc cocktail nhỏ."
+            }
+        }
+    ]
+}

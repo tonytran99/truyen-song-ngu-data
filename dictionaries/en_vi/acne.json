@@ -1,0 +1,53 @@
+{
+    "word": "acne",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaknē/",
+            "/ˈækni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trứng cá",
+            "type": "noun",
+            "example": {
+                "en": "The oil works to get rid of bacteria that can cause a breakout of back acne .",
+                "vi": "Tinh dầu trà có tác dụng diệt khuẩn có thể gây nổi mụn trứng cá ở lưng ."
+            }
+        },
+        {
+            "content": "mụn trứng cá",
+            "type": "noun",
+            "example": {
+                "en": "The oil works to get rid of bacteria that can cause a breakout of back acne .",
+                "vi": "Tinh dầu trà có tác dụng diệt khuẩn có thể gây nổi mụn trứng cá ở lưng ."
+            }
+        },
+        {
+            "content": "mụn",
+            "type": "",
+            "example": {
+                "en": "The oil works to get rid of bacteria that can cause a breakout of back acne .",
+                "vi": "Tinh dầu trà có tác dụng diệt khuẩn có thể gây nổi mụn trứng cá ở lưng ."
+            }
+        },
+        {
+            "content": "Mụn trứng cá",
+            "type": "",
+            "example": {
+                "en": "Back acne can be eliminated just like acne on other parts like the face .",
+                "vi": "Mụn trứng cá ở lưng cũng có thể được chữa lành giống như mụn trứng cá ở các bộ phận khác như mặt ."
+            }
+        }
+    ]
+}

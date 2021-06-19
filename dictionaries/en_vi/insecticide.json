@@ -1,0 +1,37 @@
+{
+    "word": "insecticide",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsektəˌsīd/",
+            "/ɪnˈsɛktəˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɛktɪsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc trừ sâu",
+            "type": "noun",
+            "example": {
+                "en": "Will this work to reduce insecticide sprays in Bangladesh?",
+                "vi": "Liệu phương pháp này có giúp giảm bớt việc phun thuốc trừ sâu ở Băng-la-đét?"
+            }
+        },
+        {
+            "content": "Thuốc trừ sâu",
+            "type": "",
+            "example": {
+                "en": "This is a new class of insecticides.",
+                "vi": "Đây là một thế hệ mới của thuốc trừ sâu."
+            }
+        }
+    ]
+}

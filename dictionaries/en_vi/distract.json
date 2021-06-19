@@ -1,0 +1,76 @@
+{
+    "word": "distract",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstrakt/",
+            "/dəˈstrækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstrakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm rối trí",
+            "type": "",
+            "example": {
+                "en": "I don't want this to be a distraction.",
+                "vi": "Tôi ko muốn nó làm rối trí."
+            }
+        },
+        {
+            "content": "làm sao lãng",
+            "type": "",
+            "example": {
+                "en": "The smell distracted from the sacred nature of the meeting.",
+                "vi": "Cái mùi đó đã làm sao lãng tính chất thiêng liêng của buổi lễ."
+            }
+        },
+        {
+            "content": "làm lãng trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lãng đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mất trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm quẫn trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rối bời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm điên cuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh lạc hướng",
+            "type": "",
+            "example": {
+                "en": "This request for a declaration of war is yet another distraction.",
+                "vi": "Việc đưa ra lời tuyên chiến là một sự đánh lạc hướng khác."
+            }
+        }
+    ]
+}

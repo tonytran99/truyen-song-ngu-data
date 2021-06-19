@@ -1,0 +1,38 @@
+{
+    "word": "greens",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "rau",
+            "type": "noun plural",
+            "example": {
+                "en": "Hey, you gettin'any more greens up in here?",
+                "vi": "Này, không có món rau nào ở đây sao?"
+            }
+        },
+        {
+            "content": "rau cỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rau củ",
+            "type": "plural",
+            "example": {
+                "en": "Most Timorese meals include rice, corn, or cassava, along with leafy greens and vegetables.",
+                "vi": "Phần lớn các bữa ăn của người Timor đều có cơm, bắp hay khoai mì và rau củ."
+            }
+        },
+        {
+            "content": "rau quả",
+            "type": "plural",
+            "example": {
+                "en": "Healthful foods, like fruits and green vegetables, offer little appeal to a junk-food addict.",
+                "vi": "Những thức ăn lành mạnh, như trái cây và rau quả xanh, ít hấp dẫn đối với một người ghiền ăn vặt."
+            }
+        }
+    ]
+}

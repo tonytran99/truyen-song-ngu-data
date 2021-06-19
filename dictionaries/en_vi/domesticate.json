@@ -1,0 +1,56 @@
+{
+    "word": "domesticate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmestəˌkāt/",
+            "/dəˈmɛstəˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmɛstɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuần hóa",
+            "type": "verb",
+            "example": {
+                "en": "In other words, this suggests that we could domesticate these organisms.",
+                "vi": "Nói cách khác, điều này gợi ý chúng ta có thể thuần hóa các sinh vật này."
+            }
+        },
+        {
+            "content": "khai hoá",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhập tịch",
+            "type": "",
+            "example": {
+                "en": "I'll domesticate you boys yet.",
+                "vi": "Tôi sẽ giúp nhập tịch cho các anh."
+            }
+        },
+        {
+            "content": "thuần hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuần dưỡng",
+            "type": "",
+            "example": {
+                "en": "Wheat is the most important crop — the first crop we domesticated",
+                "vi": "Lúa mì là cây trồng quan trọng nhất — loại cây trồng đầu tiên mà chúng ta thuần dưỡng"
+            }
+        }
+    ]
+}

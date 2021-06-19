@@ -1,0 +1,53 @@
+{
+    "word": "finalize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīnlˌīz/",
+            "/ˈfaɪnlˌaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪn(ə)lʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {
+                "en": "Often , it takes a while for custody arrangements to be finalized .",
+                "vi": "Thông thường phải mất một thời gian để hoàn thành thủ tục nhận quyền nuôi con ."
+            }
+        },
+        {
+            "content": "làm xong",
+            "type": "",
+            "example": {
+                "en": "Rachel, 17, is done with her chores, and she’s ready for some well-earned downtime —finally!",
+                "vi": "Sau khi làm xong việc nhà thì cuối cùng Ruby, 17 tuổi, cũng được giải lao!"
+            }
+        },
+        {
+            "content": "vào chung kết",
+            "type": "",
+            "example": {
+                "en": "If this is about the Bellas getting into the finals, we already know.",
+                "vi": "Nếu là chuyện Bella được vào chung kết thì biết rồi."
+            }
+        },
+        {
+            "content": "hoàn tất",
+            "type": "",
+            "example": {
+                "en": "The terms of your release have been finalized.",
+                "vi": "Các điều khoản phóng thích đã hoàn tất."
+            }
+        }
+    ]
+}

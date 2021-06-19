@@ -1,0 +1,35 @@
+{
+    "word": "flipper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflipər/",
+            "/ˈflɪpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflɪpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vây",
+            "type": "verb noun",
+            "example": {
+                "en": "Part of the secret lies in the bumps on its flippers.",
+                "vi": "Một trong các bí quyết là nhờ các khối u trên vây của nó."
+            }
+        },
+        {
+            "content": "bàn tay",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

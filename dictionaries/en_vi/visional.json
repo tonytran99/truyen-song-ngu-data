@@ -1,0 +1,45 @@
+{
+    "word": "visional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviZH(ə)n(ə)l/",
+            "/ˈvɪʒ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪʒ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thị giác",
+            "type": "",
+            "example": {
+                "en": "So he's not using vision to do it.",
+                "vi": "Nên nó không chỉ sử dụng thị giác để làm điều đó."
+            }
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "The vision of that which has already been proven or can be ascertained.",
+                "vi": "Loại tưởng tượng về cái đã được chứng thực hoặc có thể xác định được."
+            }
+        },
+        {
+            "content": "ảo tưởng",
+            "type": "",
+            "example": {
+                "en": "It's not a vision, it's just common sense.",
+                "vi": "Đó không phải là ảo tưởng, là phán đoán sơ lược thôi."
+            }
+        }
+    ]
+}

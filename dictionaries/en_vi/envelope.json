@@ -1,0 +1,134 @@
+{
+    "word": "envelope",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈenvəˌlōp/",
+            "/ˈɛnvəˌloʊp/",
+            "/ˈänvəˌlōp/",
+            "/ˈɑnvəˌloʊp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛnvələʊp/",
+            "/ˈɒnvələʊp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phong bì",
+            "type": "noun",
+            "example": {
+                "en": "My invoice is in the envelope, if that's all.",
+                "vi": "Phiếu thanh toán tôi để trong phong bì, có vậy thôi."
+            }
+        },
+        {
+            "content": "bao thư",
+            "type": "",
+            "example": {
+                "en": "Please give this envelope to the bishop for us.",
+                "vi": "Con làm ơn đưa bao thư này cho vị giám trợ của chúng ta."
+            }
+        },
+        {
+            "content": "bao",
+            "type": "noun",
+            "example": {
+                "en": "Please give this envelope to the bishop for us.",
+                "vi": "Con làm ơn đưa bao thư này cho vị giám trợ của chúng ta."
+            }
+        },
+        {
+            "content": "phong",
+            "type": "verb noun",
+            "example": {
+                "en": "My invoice is in the envelope, if that's all.",
+                "vi": "Phiếu thanh toán tôi để trong phong bì, có vậy thôi."
+            }
+        },
+        {
+            "content": "bì thơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đùm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bao nhóm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao thơ",
+            "type": "noun",
+            "example": {
+                "en": "The envelope was found near the body, but its contents were missing.",
+                "vi": "Bao thơ được tìm thấy gần xác chết, nhưng nội dung bên trong đã mất."
+            }
+        },
+        {
+            "content": "bì thư",
+            "type": "noun",
+            "example": {
+                "en": "On the outside of the envelope, always provide a return address —preferably your own postal address.",
+                "vi": "Ngoài bì thư, luôn luôn ghi địa chỉ người gửi—tốt hơn hết là địa chỉ riêng của bạn."
+            }
+        },
+        {
+            "content": "bầu khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bọc bì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình bao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màng bao",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vỏ bao",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vỏ bọc",
+            "type": "noun",
+            "example": {
+                "en": "Not in an envelope of a human arm,",
+                "vi": "Không thể là trong lớp vỏ bọc của một cánh tay người,"
+            }
+        },
+        {
+            "content": "đường bao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bao thư",
+            "type": "",
+            "example": {
+                "en": "Please give this envelope to the bishop for us.",
+                "vi": "Con làm ơn đưa bao thư này cho vị giám trợ của chúng ta."
+            }
+        }
+    ]
+}

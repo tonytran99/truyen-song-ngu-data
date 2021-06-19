@@ -1,0 +1,50 @@
+{
+    "word": "wiring",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwī(ə)riNG/",
+            "/ˈwaɪ(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwʌɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hệ thống dây điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hệ thống điện",
+            "type": "",
+            "example": {
+                "en": "The rest of the system is hooked into the ship's old wiring.",
+                "vi": "Phần còn lại của hệ thống được gắn vào hệ thống điện cũ."
+            }
+        },
+        {
+            "content": "sự chằng lưới sắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lắp ráp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đặt đường dây",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

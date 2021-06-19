@@ -1,0 +1,51 @@
+{
+    "word": "confiscate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänfəˌskāt/",
+            "/ˈkɑnfəˌskeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnfɪskeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tịch thu",
+            "type": "verb",
+            "example": {
+                "en": "But once they were brought over, their passports were confiscated.",
+                "vi": "Nhưng một khi họ được gởi qua, hộ chiếu của họ sẽ bị tịch thu."
+            }
+        },
+        {
+            "content": "tịch thâu",
+            "type": "",
+            "example": {
+                "en": "I tried to think of something to say that would prevent this spiritual treasure from being confiscated.",
+                "vi": "Tôi cố nghĩ ra một điều gì đó để nói hầu cho kho tàng thiêng liêng này khỏi bị tịch thâu."
+            }
+        },
+        {
+            "content": "sung công",
+            "type": "verb",
+            "example": {
+                "en": "Those were mostly confiscated automatic weapons.",
+                "vi": "Hầu hết các vũ khí tự động đều được sung công."
+            }
+        },
+        {
+            "content": "trưng thu",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

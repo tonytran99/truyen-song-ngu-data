@@ -1,0 +1,94 @@
+{
+    "word": "delicious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈliSHəs/",
+            "/dəˈlɪʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈlɪʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngon",
+            "type": "adjective, noun",
+            "example": {
+                "en": "All this food is n't just delicious .",
+                "vi": "Tất cả các thức ăn này không chỉ đem lại cảm giác ngon miệng ."
+            }
+        },
+        {
+            "content": "ngon ngọt",
+            "type": "adjective",
+            "example": {
+                "en": "The only alliance I'm interested in is temporary, delicious, in bed.",
+                "vi": "Liên minh duy nhất ta hứng thú là tạm thời là, cảm giác ngon ngọt, trên giường."
+            }
+        },
+        {
+            "content": "ngọt ngào",
+            "type": "adjective",
+            "example": {
+                "en": "The handsome, the heroic, the delicious aptain John Jameson.",
+                "vi": "Một anh hùng, đẹp trai, rất ngọt ngào thuyền trưởng John Jameson."
+            }
+        },
+        {
+            "content": "thơm tho",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngon lành",
+            "type": "",
+            "example": {
+                "en": "Rico, bust us out of this delicious prison.",
+                "vi": "Rico, đưa chúng ta ra khỏi cái tù ngon lành này."
+            }
+        },
+        {
+            "content": "ngon lắm",
+            "type": "",
+            "example": {
+                "en": "I hear the crab cakes here are delicious.",
+                "vi": "Nghe đâu bánh thịt cua ở đây ngon lắm."
+            }
+        },
+        {
+            "content": "tuyệt hảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hẩu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khoái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vui thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thơm ngon",
+            "type": "",
+            "example": {
+                "en": "What I see is a cow about to eat something delicious.",
+                "vi": "Cái tôi thấy là một con bò chuẩn bị ăn một thứ gì đó thơm ngon."
+            }
+        }
+    ]
+}

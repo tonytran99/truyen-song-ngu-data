@@ -1,0 +1,72 @@
+{
+    "word": "hourly",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈou(ə)rlē/",
+            "/ˈaʊ(ə)rli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaʊəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hằng giờ",
+            "type": "",
+            "example": {
+                "en": "For them these words are their daily, hourly reality:",
+                "vi": "Đối với họ, những lời này là thực tại hằng ngày, hằng giờ của họ:"
+            }
+        },
+        {
+            "content": "hàng giờ",
+            "type": "",
+            "example": {
+                "en": "Until I hear good news, you will report to me hourly.",
+                "vi": "Cho đến khi tôi nghe được tin tốt, anh sẽ phải báo cáo cho tôi hàng giờ."
+            }
+        },
+        {
+            "content": "hằng phút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên miên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "luôn luôn",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "mỗi giờ một lần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từng giờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo giờ",
+            "type": "",
+            "example": {
+                "en": "Because you're on the hourly plan now.",
+                "vi": "Vì cô đang được lên kế hoạch theo giờ."
+            }
+        }
+    ]
+}

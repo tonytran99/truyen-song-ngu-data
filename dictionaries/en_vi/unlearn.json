@@ -1,0 +1,41 @@
+{
+    "word": "unlearn",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈlərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈləːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "He learned this nonsense, Murray, and he can unlearn it too.",
+                "vi": "Thằng bé đã biết được rằng chuyện này chả có nghĩa gì và cũng có thể từ bỏ nó, Murray."
+            }
+        },
+        {
+            "content": "quên",
+            "type": "verb",
+            "example": {
+                "en": "I decided to do away with and unlearn.",
+                "vi": "tôi quyết định quên nó đi."
+            }
+        },
+        {
+            "content": "gạt bỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

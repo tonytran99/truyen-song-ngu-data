@@ -1,0 +1,43 @@
+{
+    "word": "aloha",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlōˌhä/",
+            "/əˈloʊˌhɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈləʊhə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "interj",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xin chào",
+            "type": "interjection",
+            "example": {
+                "en": "Aloha, and welcome aboard.",
+                "vi": "Xin chào, chào mừng lên tàu."
+            }
+        },
+        {
+            "content": "Aloha",
+            "type": "",
+            "example": {
+                "en": "Well, say \" aloha \" to it.",
+                "vi": "Vậy thì nói \" Aloha \" đi."
+            }
+        }
+    ]
+}

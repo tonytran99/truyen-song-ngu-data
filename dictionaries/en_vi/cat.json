@@ -1,0 +1,91 @@
+{
+    "word": "cat",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kat/",
+            "/kæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mèo",
+            "type": "noun",
+            "example": {
+                "en": "She has two cats. One is white and the other one is black.",
+                "vi": "Cô ấy có hai con mèo. Một con thì trắng và con kia thì đen."
+            }
+        },
+        {
+            "content": "con mèo",
+            "type": "noun",
+            "example": {
+                "en": "She has two cats. One is white and the other one is black.",
+                "vi": "Cô ấy có hai con mèo. Một con thì trắng và con kia thì đen."
+            }
+        },
+        {
+            "content": "khăng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con khăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lên đòn kéo neo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nôn mửa",
+            "type": "",
+            "example": {
+                "en": "My cat was puking like crazy.",
+                "vi": "Con mèo em nôn mửa như điên."
+            }
+        },
+        {
+            "content": "roi chín dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú họ mèo",
+            "type": "",
+            "example": {
+                "en": "This is the largest cat in the world —",
+                "vi": "loài thú họ mèo lớn nhất trên thế giới —"
+            }
+        },
+        {
+            "content": "Mèo",
+            "type": "proper",
+            "example": {
+                "en": "She has two cats. One is white and the other one is black.",
+                "vi": "Cô ấy có hai con mèo. Một con thì trắng và con kia thì đen."
+            }
+        },
+        {
+            "content": "Cat",
+            "type": "",
+            "example": {
+                "en": "How would you like to see your beloved Cat again?",
+                "vi": "Ngươi muốn gặp lại Cat yêu quý của ngươi tới cỡ nào?"
+            }
+        }
+    ]
+}

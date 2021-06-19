@@ -1,0 +1,68 @@
+{
+    "word": "valve",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/valv/",
+            "/vælv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/valv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "van",
+            "type": "noun",
+            "example": {
+                "en": "Usually mitral valve prolapse does n't cause any problems .",
+                "vi": "Thường thì sa van hai lá không gây ra vấn đề gì ."
+            }
+        },
+        {
+            "content": "cần bấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiểm tra bằng van",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưỡi gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lắp van",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rađiô đèn điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "van tim",
+            "type": "noun",
+            "example": {
+                "en": "The kind made of muscle that opens your heart valves.",
+                "vi": "Là loại cấu tạo từ cơ để đóng mở van tim."
+            }
+        },
+        {
+            "content": "xupap",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

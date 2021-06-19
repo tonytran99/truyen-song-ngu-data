@@ -1,0 +1,52 @@
+{
+    "word": "hemisphere",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheməˌsfir/",
+            "/ˈhɛməˌsfɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛmɪsfɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bán cầu",
+            "type": "noun",
+            "example": {
+                "en": "Track one is heading east, track two to the southern hemisphere.",
+                "vi": "Một cái đang tiến về phía đông bán cầu, một cái tiến về phía nam bán cầu."
+            }
+        },
+        {
+            "content": "半球",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bán cầu não",
+            "type": "noun",
+            "example": {
+                "en": "Oxygen main left hemisphere, critical levels.",
+                "vi": "Khí oxy ở bán cầu não trái trong tình trạng thấp nghiêm trọng."
+            }
+        },
+        {
+            "content": "bàn cầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nửa bán cầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

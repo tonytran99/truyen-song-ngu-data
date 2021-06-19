@@ -1,0 +1,100 @@
+{
+    "word": "garden",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärd(ə)n/",
+            "/ˈɡɑrd(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːd(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vườn",
+            "type": "noun",
+            "example": {
+                "en": "I breathed the smell of the flowers in the garden.",
+                "vi": "Tôi nghe mùi hoa thơm trong vườn."
+            }
+        },
+        {
+            "content": "vườn rau",
+            "type": "noun",
+            "example": {
+                "en": "it led to the creation of 20 million vegetable gardens across the United States.",
+                "vi": "nó đã đưa tới kết quả là tạo ra 20 triệu vườn rau cả nước Mỹ."
+            }
+        },
+        {
+            "content": "花園",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoa viên",
+            "type": "",
+            "example": {
+                "en": "He is still in the back garden, sire.",
+                "vi": "Bẩm hoàng thượng, tướng quân vẫn còn quỳ ở ngoài hoa viên"
+            }
+        },
+        {
+            "content": "khu vườn",
+            "type": "noun",
+            "example": {
+                "en": "It's my secret garden.",
+                "vi": "Đó là khu vườn bí mật của tôi."
+            }
+        },
+        {
+            "content": "vườn tược",
+            "type": "noun",
+            "example": {
+                "en": "Weeds filled front yards, and gardens were overgrown.",
+                "vi": "Cỏ dại mọc đầy sân, còn vườn tược thì um tùm rậm rạp."
+            }
+        },
+        {
+            "content": "công viên",
+            "type": "noun",
+            "example": {
+                "en": "Bees make honey and they pollinate the city's parks and gardens.",
+                "vi": "Đàn ong làm mật và thụ phấn cho những công viên, vườn của thành phố."
+            }
+        },
+        {
+            "content": "làm vườn",
+            "type": "",
+            "example": {
+                "en": "There isn't a garden fairy alive who can control those weeds!",
+                "vi": "Không có một tiên làm vườn nào sống mà bắt được cái đám phá hoại đó!"
+            }
+        },
+        {
+            "content": "Vườn cảnh",
+            "type": "",
+            "example": {
+                "en": "And then I was a masseuse. And then I was a landscape gardener.",
+                "vi": "Và rồi tôi đi làm massage. Và rồi tôi đi thiết kế vườn cảnh."
+            }
+        },
+        {
+            "content": "vườn cảnh",
+            "type": "",
+            "example": {
+                "en": "And then I was a masseuse. And then I was a landscape gardener.",
+                "vi": "Và rồi tôi đi làm massage. Và rồi tôi đi thiết kế vườn cảnh."
+            }
+        }
+    ]
+}

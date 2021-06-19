@@ -1,0 +1,35 @@
+{
+    "word": "bunny",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbənē/",
+            "/ˈbəni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con thỏ",
+            "type": "",
+            "example": {
+                "en": "I feel like Hugh Hefner with all you little bunnies around here.",
+                "vi": "Tôi thấy như Hugh Hefner với những con thỏ non dễ thương xung quanh."
+            }
+        },
+        {
+            "content": "khuấy 6",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

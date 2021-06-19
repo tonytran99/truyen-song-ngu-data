@@ -1,0 +1,37 @@
+{
+    "word": "dangerously",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdānj(ə)rəslē/",
+            "/ˈdeɪndʒ(ə)rəsli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪn(d)ʒ(ə)rəsli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiểm nghèo",
+            "type": "",
+            "example": {
+                "en": "In a dangerous adventure.",
+                "vi": "Trong một cuộc phiêu lưu hiểm nghèo."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "adjective noun",
+            "example": {
+                "en": "Some people say Boston is a dangerous city.",
+                "vi": "Một số người nói rằng Boston là thành phố nguy hiểm."
+            }
+        }
+    ]
+}

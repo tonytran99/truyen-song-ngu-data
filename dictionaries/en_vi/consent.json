@@ -1,0 +1,108 @@
+{
+    "word": "consent",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsent/",
+            "/kənˈsɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đồng ý",
+            "type": "noun",
+            "example": {
+                "en": "Their president governs with the consent of the people.",
+                "vi": "Họ cũng có một tổng thống nhưng ổng cầm quyền với sự đồng ý của người dân."
+            }
+        },
+        {
+            "content": "sự ưng thuận",
+            "type": "noun",
+            "example": {
+                "en": "With his parents’ consent, I share what they learned from this experience.",
+                "vi": "Với sự ưng thuận của cha mẹ của anh, tôi chia sẻ điều mà họ đã học được từ kinh nghiệm này."
+            }
+        },
+        {
+            "content": "đồng ý",
+            "type": "verb",
+            "example": {
+                "en": "She didn't even read the consent form for the pancreatic biopsy.",
+                "vi": "Cô ấy còn chả thèm đọc giấy tờ đồng ý làm sinh thiết tụy nữa."
+            }
+        },
+        {
+            "content": "khứng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quy ước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bằng lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thoả thuận",
+            "type": "",
+            "example": {
+                "en": "you can actually go through an online informed consent process —",
+                "vi": "bạn thực sự có thể nhận được sự thoả thuận có hiểu biết trên mạng"
+            }
+        },
+        {
+            "content": "sự thỏa thuận",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đồng tình",
+            "type": "noun",
+            "example": {
+                "en": "that do not reflect consent of the governed.",
+                "vi": "không phản ánh sự đồng tình của người dân về cai trị."
+            }
+        },
+        {
+            "content": "ưng thuận",
+            "type": "",
+            "example": {
+                "en": "To these several propositions they consented by a unanimous vote.",
+                "vi": "Họ đã đồng lòng ưng thuận những lời đề nghị này."
+            }
+        },
+        {
+            "content": "bằng lòng",
+            "type": "",
+            "example": {
+                "en": "And even so, you consented to bury yourself down here?",
+                "vi": "Vậy mà cô vẫn bằng lòng chôn mình ở đây sao?"
+            }
+        },
+        {
+            "content": "sự nhất trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ñoàng yù, thoûa thuaän",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

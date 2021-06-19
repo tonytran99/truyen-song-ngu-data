@@ -1,0 +1,44 @@
+{
+    "word": "viscera",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvisərə/",
+            "/ˈvɪsərə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪs(ə)rə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nội tạng",
+            "type": "noun",
+            "example": {
+                "en": "Believe it or not, even with internal viscera.",
+                "vi": "Thậm chí cả nội tạng, tin hay không tùy bạn."
+            }
+        },
+        {
+            "content": "phủ tạng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tạng phủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tạng",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

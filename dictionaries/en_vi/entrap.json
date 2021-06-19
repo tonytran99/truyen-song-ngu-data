@@ -1,0 +1,45 @@
+{
+    "word": "entrap",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtrap/",
+            "/ɪnˈtræp/",
+            "/enˈtrap/",
+            "/ɛnˈtræp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtrap/",
+            "/ɛnˈtrap/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bẫy",
+            "type": "verb",
+            "example": {
+                "en": "It sounds like a kind of an entrapment you're suggesting.",
+                "vi": "Nghe như ông đang đề nghị một sự gài bẫy."
+            }
+        },
+        {
+            "content": "lừa",
+            "type": "noun",
+            "example": {
+                "en": "She never dreamt she was being entrapped into a feigned union with a defrauded wretch.",
+                "vi": "Cô không bao giờ ngờ là mình đang bị dụ dỗ vào một cuộc hôn nhân giả mạo với một kẻ lừa lọc xấu xa."
+            }
+        },
+        {
+            "content": "đánh bẫy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

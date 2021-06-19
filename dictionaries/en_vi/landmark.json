@@ -1,0 +1,93 @@
+{
+    "word": "landmark",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)ˌmärk/",
+            "/ˈlæn(d)ˌmɑrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)mɑːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mốc",
+            "type": "noun",
+            "example": {
+                "en": "The pilot can no longer make out landmarks.",
+                "vi": "Người phi công không còn nhận ra được những cái mốc ranh giới nữa."
+            }
+        },
+        {
+            "content": "bước ngoặc",
+            "type": "",
+            "example": {
+                "en": "led to a landmark case that led to the Equal Opportunity Act,",
+                "vi": "dẫn tới một bước ngoặc đã dẫn tới Luật Cơ Hội Bằng Nhau,"
+            }
+        },
+        {
+            "content": "giới hạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mốc bờ",
+            "type": "",
+            "example": {
+                "en": "Sailors navigated by sight—landmarks by day, stars by night.",
+                "vi": "Thủy thủ định hướng tàu bằng mắt—mốc bờ vào ban ngày, các vì sao vào ban đêm."
+            }
+        },
+        {
+            "content": "mốc ranh giới",
+            "type": "",
+            "example": {
+                "en": "It's her only landmark.",
+                "vi": "Đó là mốc ranh giới của nó."
+            }
+        },
+        {
+            "content": "dấu mốc",
+            "type": "noun",
+            "example": {
+                "en": "It's a respected landmark.",
+                "vi": "Đó là một dấu mốc tôn trọng."
+            }
+        },
+        {
+            "content": "sự kiện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Điểm mốc",
+            "type": "",
+            "example": {
+                "en": "We navigated by looking at landmarks on the comet.",
+                "vi": "Chúng tôi đã bay ngang để thấy những điểm mốc trên sao chổi đó."
+            }
+        },
+        {
+            "content": "điểm mốc",
+            "type": "",
+            "example": {
+                "en": "We navigated by looking at landmarks on the comet.",
+                "vi": "Chúng tôi đã bay ngang để thấy những điểm mốc trên sao chổi đó."
+            }
+        },
+        {
+            "content": "điểm định hướng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "aerodynamics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌerōˌdīˈnamiks/",
+            "/ˌɛroʊˌdaɪˈnæmɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛːrə(ʊ)dʌɪˈnamɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí động lực học",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khí động học",
+            "type": "noun",
+            "example": {
+                "en": "When you've done that, we have to look at the aerodynamics, front and rear wing.",
+                "vi": "Sau khi làm thế, ta phải kiểm tra khí động học, cả cánh trước và cánh sau."
+            }
+        },
+        {
+            "content": "Khí động lực học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

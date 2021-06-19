@@ -1,0 +1,46 @@
+{
+    "word": "inevitably",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈevidəblē/",
+            "/ɪnˈɛvɪdəbli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɛvɪtəbli/",
+            "/ɪnˈɛvɪtəbli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chắc chắn",
+            "type": "adjective adverb",
+            "example": {
+                "en": "This query is inevitably thought, if not spoken, by every human being.",
+                "vi": "Câu hỏi này chắc chắn là đã được mỗi người trần thế nghĩ tới, mà không nói ra."
+            }
+        },
+        {
+            "content": "không thể tránh khỏi",
+            "type": "adverb",
+            "example": {
+                "en": "There's two great forces that are both volitional but inevitable.",
+                "vi": "Có hai nguồn lực lớn đều tự nguyện nhưng không thể tránh khỏi."
+            }
+        },
+        {
+            "content": "tất nhiên",
+            "type": "adverb",
+            "example": {
+                "en": "Of course, it was inevitable.",
+                "vi": "Tất nhiên, việc đó không tránh được."
+            }
+        }
+    ]
+}

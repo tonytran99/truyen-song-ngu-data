@@ -1,0 +1,56 @@
+{
+    "word": "consequence",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänsikwəns/",
+            "/ˈkɑnsɪkwəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnsɪkw(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hậu quả",
+            "type": "noun",
+            "example": {
+                "en": "There could be consequences.",
+                "vi": "Có thể sẽ có hậu quả."
+            }
+        },
+        {
+            "content": "hệ quả",
+            "type": "noun",
+            "example": {
+                "en": "But we're not quite so good at dealing with the consequences.",
+                "vi": "Những cũng không giải quyết tốt những hệ quả sau đó."
+            }
+        },
+        {
+            "content": "tầm quan trọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết quả",
+            "type": "verb noun",
+            "example": {
+                "en": "And calling forth that kind of energy has consequences.",
+                "vi": "Và gọi ra những loại năng lượng là kết quả."
+            }
+        },
+        {
+            "content": "tính trọng đại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "desist",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzist/",
+            "/dəˈzɪst/",
+            "/dəˈsist/",
+            "/dəˈsɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzɪst/",
+            "/dɪˈsɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngừng",
+            "type": "",
+            "example": {
+                "en": "You need to desist right now!",
+                "vi": "Anh cần ngừng lại ngay!"
+            }
+        },
+        {
+            "content": "bỏ",
+            "type": "verb",
+            "example": {
+                "en": "I would beg you to desist from pursuit of your mother's honour.",
+                "vi": "Em chắc là anh sẽ cởi bỏ cái áo tu sĩ để phục hồi danh phẩm cho mẹ anh."
+            }
+        },
+        {
+            "content": "nghỉ",
+            "type": "pronoun verb",
+            "example": {}
+        },
+        {
+            "content": "thôi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "chừa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

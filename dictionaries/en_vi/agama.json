@@ -1,0 +1,36 @@
+{
+    "word": "agama",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈɡāmə/",
+            "/əˈɡeɪmə/",
+            "/ˈaɡəmə/",
+            "/ˈæɡəmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈɡɑːmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhông",
+            "type": "noun",
+            "example": {
+                "en": "Did the agama’s tail come about by evolution?",
+                "vi": "Đuôi kỳ nhông do tiến hóa mà có?"
+            }
+        },
+        {
+            "content": "con nhông",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

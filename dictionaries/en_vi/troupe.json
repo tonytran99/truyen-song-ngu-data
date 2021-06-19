@@ -1,0 +1,48 @@
+{
+    "word": "troupe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tro͞op/",
+            "/trup/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/truːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoàn",
+            "type": "noun",
+            "example": {
+                "en": "We are not some village troupe to be held up by bandits.",
+                "vi": "Chúng tôi chẳng phải đoàn kịch dễ bị cướp như vậy đâu."
+            }
+        },
+        {
+            "content": "gánh hát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đoàn kịch",
+            "type": "noun",
+            "example": {
+                "en": "We are not some village troupe to be held up by bandits.",
+                "vi": "Chúng tôi chẳng phải đoàn kịch dễ bị cướp như vậy đâu."
+            }
+        },
+        {
+            "content": "Gánh hát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "unarmed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈärmd/",
+            "/ˌənˈɑrmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈɑːmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị tước khí giới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có khí giới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có vũ khí",
+            "type": "adjective",
+            "example": {
+                "en": "There's a dozen guards between here and there and I'm unarmed.",
+                "vi": "Có hàng tá bảo vệ trên đường, và tôi không có vũ khí."
+            }
+        },
+        {
+            "content": "tay không",
+            "type": "",
+            "example": {
+                "en": "I'm not taking your gun and leaving you unarmed.",
+                "vi": "Em không muốn lấy súng của anh và để anh tay không."
+            }
+        }
+    ]
+}

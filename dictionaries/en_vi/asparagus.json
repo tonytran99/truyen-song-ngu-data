@@ -1,0 +1,37 @@
+{
+    "word": "asparagus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsperəɡəs/",
+            "/əˈspɛrəɡəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsparəɡəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây măng tây",
+            "type": "noun",
+            "example": {
+                "en": "Speaking of kitchens, here's some asparagus.",
+                "vi": "Nhân nói đến bếp, đây là mấy cây măng tây."
+            }
+        },
+        {
+            "content": "măng tây",
+            "type": "noun",
+            "example": {
+                "en": "All I told him was that if you want me to do that, then don't eat the asparagus.",
+                "vi": "Tôi chỉ nói với hắn là nếu muốn chơi tiếp thì đừng ăn măng tây nữa."
+            }
+        }
+    ]
+}

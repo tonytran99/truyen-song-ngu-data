@@ -1,0 +1,56 @@
+{
+    "word": "dogmatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dôɡˈmadik/",
+            "/dɔɡˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɒɡˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo lý",
+            "type": "",
+            "example": {
+                "en": "enough dogmatism to last a lifetime, and said,",
+                "vi": "qua quá nhiều chủ nghĩa giáo lý, và nói:"
+            }
+        },
+        {
+            "content": "giáo điều",
+            "type": "",
+            "example": {
+                "en": "but the era of their dogmatic universalism is over.",
+                "vi": "nhưng kỉ nguyên của thuyết phổ biến giáo điều đã kết thúc."
+            }
+        },
+        {
+            "content": "quyết đoán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách vở",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "võ đoán",
+            "type": "",
+            "example": {
+                "en": "However, there is no reason to be dogmatic.",
+                "vi": "Tuy nhiên, chúng ta không nên võ đoán."
+            }
+        }
+    ]
+}

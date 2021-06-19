@@ -1,0 +1,103 @@
+{
+    "word": "cracked",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krakt/",
+            "/krækt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krakt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dở hơi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rạn",
+            "type": "adjective",
+            "example": {
+                "en": "It can detect the crack in a weapon.",
+                "vi": "Nó có thể kiểm tra được vết rạn nứt của các binh khí khác."
+            }
+        },
+        {
+            "content": "nứt",
+            "type": "adjective",
+            "example": {
+                "en": "There was a crack in the mirror.",
+                "vi": "Có vết nứt trên tấm gương."
+            }
+        },
+        {
+            "content": "cám hấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có vết nứt",
+            "type": "adjective",
+            "example": {
+                "en": "There was a crack in the mirror.",
+                "vi": "Có vết nứt trên tấm gương."
+            }
+        },
+        {
+            "content": "dở người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gàn",
+            "type": "adjective",
+            "example": {
+                "en": "I think Mr. Hartley is just a little bit cracked.",
+                "vi": "Tôi nghĩ ông Hartley hơi gàn."
+            }
+        },
+        {
+            "content": "khùng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nẻ",
+            "type": "adjective",
+            "example": {
+                "en": "You're lips are cracked.",
+                "vi": "Môi của cô bị nẻ."
+            }
+        },
+        {
+            "content": "rạn nứt",
+            "type": "",
+            "example": {
+                "en": "It can detect the crack in a weapon.",
+                "vi": "Nó có thể kiểm tra được vết rạn nứt của các binh khí khác."
+            }
+        },
+        {
+            "content": "vỡ",
+            "type": "",
+            "example": {
+                "en": "So, you asked how she could have cracked the system.",
+                "vi": "Vậy, ông hỏi là làm sao mà cô ta có thể phá vỡ được hệ thống."
+            }
+        },
+        {
+            "content": "gàn dở",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

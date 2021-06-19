@@ -1,0 +1,48 @@
+{
+    "word": "cobble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäbəl/",
+            "/ˈkɑbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuội",
+            "type": "noun",
+            "example": {
+                "en": "there's gravel and cobbles in there",
+                "vi": "có sỏi và sỏi cuội trong này"
+            }
+        },
+        {
+            "content": "sỏi",
+            "type": "noun",
+            "example": {
+                "en": "there's gravel and cobbles in there",
+                "vi": "có sỏi và sỏi cuội trong này"
+            }
+        },
+        {
+            "content": "than cục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sửa chữa",
+            "type": "verb noun",
+            "example": {}
+        }
+    ]
+}

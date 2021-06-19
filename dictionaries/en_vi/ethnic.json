@@ -1,0 +1,56 @@
+{
+    "word": "ethnic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeTHnik/",
+            "/ˈɛθnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛθnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân tộc",
+            "type": "noun",
+            "example": {
+                "en": "Einstein believed deeply that science should transcend national and ethnic divisions.",
+                "vi": "Einstein thực sự tin rằng khoa học nên vượt qua sự phân biệt dân tộc và quốc gia."
+            }
+        },
+        {
+            "content": "thuộc dân tộc",
+            "type": "adjective",
+            "example": {
+                "en": "My family belongs to the Ixil people, an ethnic group of Maya descent.",
+                "vi": "Gia đình tôi thuộc dân tộc Ixil, một nhóm người có tổ tiên là người Maya."
+            }
+        },
+        {
+            "content": "thuộc tộc người",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tộc",
+            "type": "noun",
+            "example": {
+                "en": "I am a very particular and peculiar ethnicity.",
+                "vi": "Tôi thật cá biệt và tính cách sắc tộc khác biệt."
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "word": "village",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvilij/",
+            "/ˈvɪlɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪlɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làng",
+            "type": "noun",
+            "example": {
+                "en": "We went down to the valley where the village is.",
+                "vi": "Chúng tôi đi xuống thung lũng nơi có ngôi làng."
+            }
+        },
+        {
+            "content": "xã",
+            "type": "noun",
+            "example": {
+                "en": "The new school building is the boast of the village.",
+                "vi": "Ngôi trường mới xây là niềm tự hào của xã."
+            }
+        },
+        {
+            "content": "làng quê",
+            "type": "",
+            "example": {
+                "en": "She'll just fade away in this godforsaken village.",
+                "vi": "Cô ấy sẽ héo mòn nơi làng quê vắng vẻ này."
+            }
+        },
+        {
+            "content": "thôn",
+            "type": "noun",
+            "example": {
+                "en": "May I ask why you have come to our village?",
+                "vi": "Tiểu dân có thể hỏi ngài đến thôn này có việc gì không?"
+            }
+        },
+        {
+            "content": "ngôi làng",
+            "type": "noun",
+            "example": {
+                "en": "We went down to the valley where the village is.",
+                "vi": "Chúng tôi đi xuống thung lũng nơi có ngôi làng."
+            }
+        },
+        {
+            "content": "xóm",
+            "type": "noun",
+            "example": {
+                "en": "We had preached in four villages and countless hamlets.",
+                "vi": "Chúng tôi đã rao giảng tại bốn ngôi làng và nhiều thôn xóm."
+            }
+        },
+        {
+            "content": "thôn xóm",
+            "type": "",
+            "example": {
+                "en": "We had preached in four villages and countless hamlets.",
+                "vi": "Chúng tôi đã rao giảng tại bốn ngôi làng và nhiều thôn xóm."
+            }
+        },
+        {
+            "content": "莊",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dân làng",
+            "type": "",
+            "example": {
+                "en": "It was the hungry bears that the villagers were afraid of.",
+                "vi": "Nó chính là con gấu đói mà dân làng sợ hãi."
+            }
+        }
+    ]
+}

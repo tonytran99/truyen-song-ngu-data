@@ -1,0 +1,47 @@
+{
+    "word": "euro",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orō/",
+            "/ˈjʊroʊ/",
+            "/ˈyərō/",
+            "/ˈjəroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "euro",
+            "type": "noun",
+            "example": {
+                "en": "Some Germans work for only one euro an hour.",
+                "vi": "Một số người Đức chỉ cần trả lương một euro một giờ."
+            }
+        },
+        {
+            "content": "đồng Euro",
+            "type": "noun",
+            "example": {
+                "en": "Bettencourt-Meyers accused a photographer of bilking her mother out of a billion euros .",
+                "vi": "Bettencourt-Meyers từng buộc tội một tay nhiếp ảnh gia lừa bà cụ một tỉ đồng euro ."
+            }
+        },
+        {
+            "content": "đồng euro",
+            "type": "",
+            "example": {
+                "en": "Bettencourt-Meyers accused a photographer of bilking her mother out of a billion euros .",
+                "vi": "Bettencourt-Meyers từng buộc tội một tay nhiếp ảnh gia lừa bà cụ một tỉ đồng euro ."
+            }
+        }
+    ]
+}

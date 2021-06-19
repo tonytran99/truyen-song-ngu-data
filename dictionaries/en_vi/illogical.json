@@ -1,0 +1,55 @@
+{
+    "word": "illogical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/i(l)ˈläjək(ə)l/",
+            "/ɪ(l)ˈlɑdʒək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɒdʒɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất hợp lý",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không lôgíc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi lý",
+            "type": "adjective",
+            "example": {
+                "en": "The charge was not only false but also illogical.",
+                "vi": "Những lời cáo buộc đó không chỉ sai mà còn phi lý."
+            }
+        },
+        {
+            "content": "không hợp lý",
+            "type": "",
+            "example": {
+                "en": "Not only would it be illogical but it would also be unscriptural.",
+                "vi": "Không những thế là không hợp lý mà cũng không phù hợp với Kinh-thánh nữa."
+            }
+        },
+        {
+            "content": "vô lý",
+            "type": "adjective",
+            "example": {
+                "en": "And here's the real trick, which seems illogical, I know.",
+                "vi": "Và đây là mánh khóe... có vẻ như rất vô lý, tôi biết."
+            }
+        }
+    ]
+}

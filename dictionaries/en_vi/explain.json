@@ -1,0 +1,99 @@
+{
+    "word": "explain",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsplān/",
+            "/ɪkˈspleɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspleɪn/",
+            "/ɛkˈspleɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải thích",
+            "type": "verb",
+            "example": {
+                "en": "Please explain the reason why she was arrested.",
+                "vi": "Xin hãy giải thích lý do vì sao cô ta đã bị bắt giữ."
+            }
+        },
+        {
+            "content": "giảng giải",
+            "type": "verb",
+            "example": {
+                "en": "Thank you for explaining siege tactics to me.",
+                "vi": "Cám ơn vì đã giảng giải lý thuyết cho ta"
+            }
+        },
+        {
+            "content": "giảng",
+            "type": "verb",
+            "example": {
+                "en": "I'm trying to explain to him how to survive.",
+                "vi": "Còn tôi đang giảng ổng hiểu cách để sinh tồn."
+            }
+        },
+        {
+            "content": "giải nghĩa",
+            "type": "verb",
+            "example": {
+                "en": "It's impossible for me to explain it to you.",
+                "vi": "Tôi không thế nào giải nghĩa cho bạn được."
+            }
+        },
+        {
+            "content": "cắt nghĩa",
+            "type": "verb",
+            "example": {
+                "en": "because I need to explain what I mean by that.",
+                "vi": "bởi tôi muốn cắt nghĩa cái mà tôi muốn ám chỉ tới."
+            }
+        },
+        {
+            "content": "giải",
+            "type": "verb noun",
+            "example": {
+                "en": "Please explain the reason why she was arrested.",
+                "vi": "Xin hãy giải thích lý do vì sao cô ta đã bị bắt giữ."
+            }
+        },
+        {
+            "content": "biện giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diễn giải",
+            "type": "verb",
+            "example": {
+                "en": "And then I'll explain why I explained it.",
+                "vi": "Và sau đó tôi sẽ giải thích lý do tôi diễn giải nó."
+            }
+        },
+        {
+            "content": "giảng nghĩa",
+            "type": "",
+            "example": {
+                "en": "The disciple Philip explained a passage that was read from the “Septuagint”",
+                "vi": "Môn đồ Phi-líp giảng nghĩa đoạn Kinh Thánh vừa đọc từ bản “Septuagint”"
+            }
+        },
+        {
+            "content": "thanh minh",
+            "type": "",
+            "example": {
+                "en": "I'm not going to explain myself to you, Bernard.",
+                "vi": "Tôi sẽ không thanh minh gì đâu, Bernard."
+            }
+        }
+    ]
+}

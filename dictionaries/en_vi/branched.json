@@ -1,0 +1,40 @@
+{
+    "word": "branched",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bran(t)SHt/",
+            "/bræn(t)ʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brɑːn(t)ʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân cành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân nhánh",
+            "type": "",
+            "example": {
+                "en": "Each of those cells branches off into thousands of connections with other cells.",
+                "vi": "Mỗi tế bào ấy phân nhánh thành hàng ngàn mối liên kết với các tế bào khác."
+            }
+        },
+        {
+            "content": "được chia nhánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

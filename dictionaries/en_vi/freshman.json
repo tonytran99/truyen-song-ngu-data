@@ -1,0 +1,40 @@
+{
+    "word": "freshman",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfreSHmən/",
+            "/ˈfrɛʃmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛʃmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người mới bắt đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người mới vào nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sinh viên năm nhất",
+            "type": "noun",
+            "example": {
+                "en": "He was a freshman at a very good university.",
+                "vi": "Em ấy là sinh viên năm nhất tại một trường đại học rất tốt."
+            }
+        }
+    ]
+}

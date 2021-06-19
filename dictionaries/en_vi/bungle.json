@@ -1,0 +1,80 @@
+{
+    "word": "bungle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəNGɡəl/",
+            "/ˈbəŋɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌŋɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm ẩu",
+            "type": "",
+            "example": {
+                "en": "No, Reese, I'm the one that bungled it.",
+                "vi": "Không phải, Reese, tôi là người đã làm ẩu việc đó."
+            }
+        },
+        {
+            "content": "làm cẩu thả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hỏng việc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm vụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lính quýnh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc làm cẩu thả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "việc làm vụng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

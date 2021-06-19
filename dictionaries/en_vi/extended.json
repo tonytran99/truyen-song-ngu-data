@@ -1,0 +1,39 @@
+{
+    "word": "extended",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌikˈstendəd/",
+            "/ˌɪkˈstɛndəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstɛndɪd/",
+            "/ɛkˈstɛndɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kéo dài thời hạn",
+            "type": "",
+            "example": {
+                "en": "Egypt 's authorities have extended the detention of ousted President Hosni Mubarak for another 15 days .",
+                "vi": "Nhà cầm quyền Ai Cập vừa kéo dài thời hạn giam giữ Tổng thống bị lật đổ Hosni Mubarak thêm 15 ngày nữa ."
+            }
+        },
+        {
+            "content": "mở rộng",
+            "type": "",
+            "example": {
+                "en": "Maddie's using temperature to extend this phenomenon to a new scenario.",
+                "vi": "Maddie sử dụng nhiệt độ để mở rộng hiện tượng này thành một trường hợp mới."
+            }
+        }
+    ]
+}

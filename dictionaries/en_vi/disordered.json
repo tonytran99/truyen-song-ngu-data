@@ -1,0 +1,35 @@
+{
+    "word": "disordered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈôrdərd/",
+            "/dɪsˈɔrdərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈɔːdəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bừa bộn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lộn xộn",
+            "type": "adjective",
+            "example": {
+                "en": "It's the randomness, the disorder, the chaoticness of some systems.",
+                "vi": "Nó là tính ngẫu nhiên, tính lộn xộn, tính hỗn loạn của một số hệ thống."
+            }
+        }
+    ]
+}

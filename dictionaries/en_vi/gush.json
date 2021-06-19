@@ -1,0 +1,78 @@
+{
+    "word": "gush",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəSH/",
+            "/ɡəʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phun",
+            "type": "verb",
+            "example": {
+                "en": "But that's the way the oil gushes.",
+                "vi": "Nhưng đó là cách làm cho dầu phun ra."
+            }
+        },
+        {
+            "content": "phụt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộc lộ tràn trề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phun ra",
+            "type": "",
+            "example": {
+                "en": "But that's the way the oil gushes.",
+                "vi": "Nhưng đó là cách làm cho dầu phun ra."
+            }
+        },
+        {
+            "content": "phun ra một tràng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phun ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vọt ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổ lộ tràn trề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vọt ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phọt ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

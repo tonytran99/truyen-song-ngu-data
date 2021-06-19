@@ -1,0 +1,55 @@
+{
+    "word": "twelve",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twelv/",
+            "/twɛlv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twɛlv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mười hai",
+            "type": "",
+            "example": {
+                "en": "I invited twelve people to my party, but one person could not come.",
+                "vi": "Tôi mời mười hai người tới bữa tiệc của tôi, nhưng một người không đến."
+            }
+        },
+        {
+            "content": "12 tuổi",
+            "type": "",
+            "example": {
+                "en": "I still look like I did when I was twelve.",
+                "vi": "Tôi vẫn trông như hồi còn 12 tuổi."
+            }
+        },
+        {
+            "content": "số 12",
+            "type": "",
+            "example": {
+                "en": "Scott of the Quorum of the Twelve Apostles shares some thoughts on this subject.",
+                "vi": "Scott thuộc Nhóm Túc Số Mười Hai Vị Sứ Đồ chia sẻ một số ý nghĩ về vấn đề này."
+            }
+        },
+        {
+            "content": "số mười hai",
+            "type": "",
+            "example": {
+                "en": "Oaks of the Quorum of the Twelve Apostles aloud.",
+                "vi": "Oaks thuộc Nhóm Túc Số Mười Hai Vị Sứ Đồ."
+            }
+        }
+    ]
+}

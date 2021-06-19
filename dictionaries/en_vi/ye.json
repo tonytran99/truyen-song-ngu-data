@@ -1,0 +1,56 @@
+{
+    "word": "ye",
+    "type": [
+        "pronoun",
+        "verb",
+        "interjection",
+        "Article"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yē/",
+            "/ji/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "you",
+            "type": "",
+            "example": {
+                "en": "Yes, thank you, we've established that.",
+                "vi": "Yes, thank you, chúng ta đã tạo lập điều đó."
+            }
+        },
+        {
+            "content": "bạn",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Please don't limit your opinions just to 'Yes' or 'No'.",
+                "vi": "Xin dừng giới hạn ý kiến của bạn ở \"Có\" hoặc \"Không\"."
+            }
+        },
+        {
+            "content": "các ngươi",
+            "type": "pronoun neuter, plural",
+            "example": {
+                "en": "8 Be not ye therefore like unto them, for your Father aknoweth what things ye have need of before ye bask him.",
+                "vi": "8 Vậy các ngươi chớ làm như chúng, vì Cha các ngươi abiết những gì các ngươi cần trước khi các ngươi cầu xin Ngài."
+            }
+        },
+        {
+            "content": "các bạn",
+            "type": "",
+            "example": {
+                "en": "Well, the answer is yes, and I'm going to show you how.",
+                "vi": "Và câu trả lời là có, và tôi sẽ chỉ các bạn làm thế nào."
+            }
+        }
+    ]
+}

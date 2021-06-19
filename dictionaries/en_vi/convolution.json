@@ -1,0 +1,70 @@
+{
+    "word": "convolution",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkänvəˈlo͞oSHən/",
+            "/ˌkɑnvəˈluʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒnvəˈluːʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nếp",
+            "type": "noun",
+            "example": {
+                "en": "a bigger brain with more convolutions.",
+                "vi": "một bộ não lớn hơn với nhiều nếp nhăn hơn."
+            }
+        },
+        {
+            "content": "cuộn",
+            "type": "verb noun",
+            "example": {
+                "en": "and that's why the neocortex is so highly convoluted.",
+                "vi": "và đó là lý do tại sao vùng vỏ não mới lại cuộn lại nhiều như thế."
+            }
+        },
+        {
+            "content": "phép nhân chập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự quấn lại",
+            "type": "",
+            "example": {
+                "en": "Generates the convolution of one vector with another",
+                "vi": "Tạo ra sự quấn lại của véc-tơ này với véc-tơ khác. Name"
+            }
+        },
+        {
+            "content": "sự xoắn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tích chập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng cuộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường quấn xoắn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

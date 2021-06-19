@@ -1,0 +1,50 @@
+{
+    "word": "famed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fāmd/",
+            "/feɪmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/feɪmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nổi tiếng",
+            "type": "adjective",
+            "example": {
+                "en": "And we compare that to the fame that we observe.",
+                "vi": "Rồi chúng ta so sánh nó với mức độ nổi tiếng chúng ta quan sát được."
+            }
+        },
+        {
+            "content": "lừng danh",
+            "type": "",
+            "example": {
+                "en": "\" A hall of fame terrorist is visiting New York and not for the muchentuchen. \"",
+                "vi": "Một kẻ khủng bố lừng danh đã đến New York và không phải để ăn. \" ( ý nói đến cửa hàng của Phantom )"
+            }
+        },
+        {
+            "content": "trứ danh",
+            "type": "adjective",
+            "example": {
+                "en": "Today’s men of fame are glorified in books, movies, television, and music.",
+                "vi": "Những kẻ trứ danh thời nay được ca tụng trong sách vở, phim ảnh, truyền hình và âm nhạc."
+            }
+        },
+        {
+            "content": "được đồn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

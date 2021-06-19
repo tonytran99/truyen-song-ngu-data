@@ -1,0 +1,44 @@
+{
+    "word": "underlie",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈlī/",
+            "/ˌəndərˈlaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈlʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm cơ sở cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nền tảng cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nằm dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở dưới",
+            "type": "",
+            "example": {
+                "en": "The crease pattern shown here is the underlying blueprint",
+                "vi": "Đường gấp bạn thấy ở đây là bản vẽ kĩ thuật ở dưới tất cả"
+            }
+        }
+    ]
+}

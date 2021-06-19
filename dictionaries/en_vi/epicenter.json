@@ -1,0 +1,33 @@
+{
+    "word": "epicenter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈepəˌsen(t)ər/",
+            "/ˈɛpəˌsɛn(t)ər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chấn tâm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Chấn tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tâm chấn",
+            "type": "",
+            "example": {
+                "en": "Lofa County was right at the center, the epicenter of this epidemic.",
+                "vi": "Hạt Lofa ở ngay trung tâm, tâm chấn của đại dịch này."
+            }
+        }
+    ]
+}

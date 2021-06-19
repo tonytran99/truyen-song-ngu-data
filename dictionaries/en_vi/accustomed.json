@@ -1,0 +1,47 @@
+{
+    "word": "accustomed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkəstəmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkʌstəmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quen với",
+            "type": "",
+            "example": {
+                "en": "Strange as it may seem, I've grown accustomed to your face.",
+                "vi": "Nó trông thật lạ, Tôi đã quen với khung mặt của cô."
+            }
+        },
+        {
+            "content": "thành thói quen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành thường lệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quen thuộc",
+            "type": "",
+            "example": {
+                "en": "Or do we continue doing things just as we have been accustomed to doing them?",
+                "vi": "Hay chúng ta tiếp tục làm theo cách quen thuộc trước đây?"
+            }
+        }
+    ]
+}

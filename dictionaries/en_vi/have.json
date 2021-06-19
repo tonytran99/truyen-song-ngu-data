@@ -1,0 +1,393 @@
+{
+    "word": "have",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hav/",
+            "/hæv/",
+            "/həv/",
+            "/(ə)v/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hav/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có",
+            "type": "verb",
+            "example": {
+                "en": "I have other things to worry about, like work.",
+                "vi": "Tôi có những điều khác để lo lắng, như là công việc."
+            }
+        },
+        {
+            "content": "ăn",
+            "type": "verb",
+            "example": {
+                "en": "As a matter of fact, I have had nothing since this morning.",
+                "vi": "Trên thực tế tôi chưa ăn gì từ sáng nay."
+            }
+        },
+        {
+            "content": "uống",
+            "type": "noun",
+            "example": {
+                "en": "Before going home, I have a few drinks to relax.",
+                "vi": "Trước khi về nhà, tôi uống một vài ly để thư giãn."
+            }
+        },
+        {
+            "content": "phải",
+            "type": "verb",
+            "example": {
+                "en": "All you have to do is follow his advice.",
+                "vi": "Mọi thứ bạn phải làm là thực hiện theo lời khuyên của anh ấy."
+            }
+        },
+        {
+            "content": "bị",
+            "type": "verb",
+            "example": {
+                "en": "It's obvious why you have a stomachache.",
+                "vi": "Thật dễ thấy tại sao bạn bị đau bụng."
+            }
+        },
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {
+                "en": "You have to expect that to happen once in a while.",
+                "vi": "Bạn phải biết là lâu lâu nó sẽ xảy ra một lần."
+            }
+        },
+        {
+            "content": "nói",
+            "type": "verb",
+            "example": {
+                "en": "I have no words.",
+                "vi": "Tôi hết lời để nói."
+            }
+        },
+        {
+            "content": "bắt",
+            "type": "verb",
+            "example": {
+                "en": "Do you have a course for beginners?",
+                "vi": "Bạn có khoá học nào cho người mới bắt đầu không?"
+            }
+        },
+        {
+            "content": "nhờ",
+            "type": "",
+            "example": {
+                "en": "I think I had better have my sweater mended.",
+                "vi": "Tôi nghĩ tốt hơn là nên đi nhờ người sửa cái áo len của tôi."
+            }
+        },
+        {
+            "content": "muốn",
+            "type": "verb",
+            "example": {
+                "en": "You'd think he'd have our hours of operation down by now, right?",
+                "vi": "Em nghĩ anh ta muốn mình mở cửa giờ luôn đúng không?"
+            }
+        },
+        {
+            "content": "cho là",
+            "type": "",
+            "example": {
+                "en": "Al Ghazy consider yourself lucky even to have a role at all.",
+                "vi": "Al Ghazi cứ cho là anh may mắn."
+            }
+        },
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {
+                "en": "Why does the US government let people have guns?",
+                "vi": "Tại sao chính phủ Mỹ cho phép mọi người sở hữu súng?"
+            }
+        },
+        {
+            "content": "sai khiến",
+            "type": "",
+            "example": {
+                "en": "It means that I'm agreeing that you have the right to give me rules, huh?",
+                "vi": "Nghĩa là tôi thừa nhận các người có quyền sai khiến tôi."
+            }
+        },
+        {
+            "content": "đã",
+            "type": "",
+            "example": {
+                "en": "Please return the book when you have finished reading it.",
+                "vi": "Vui lòng trả quyển sách nếu bạn đã đọc xong."
+            }
+        },
+        {
+            "content": "hưởng",
+            "type": "verb",
+            "example": {
+                "en": "All of us together, having a good time.",
+                "vi": "Cả nhà quây quần, tận hưởng khoảng thời gian bên nhau."
+            }
+        },
+        {
+            "content": "bảo",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "He is said to have been very poor when he was young.",
+                "vi": "Người ta bảo khi còn trẻ ông ta rất nghèo."
+            }
+        },
+        {
+            "content": "dùng",
+            "type": "verb",
+            "example": {
+                "en": "I always have coffee and toast for breakfast.",
+                "vi": "Tôi luôn dùng cà phê và bánh mì nướng trong bữa sáng."
+            }
+        },
+        {
+            "content": "hưởng thụ",
+            "type": "",
+            "example": {
+                "en": "People who go in for vice seem to have very good taste about it.",
+                "vi": "Những người tới đây hưởng thụ có vẻ như có một khiếu thẩm mỹ rất hay."
+            }
+        },
+        {
+            "content": "nhận lại",
+            "type": "",
+            "example": {
+                "en": "Thousands have repented of their unchristian actions and have been welcomed back into the congregation.",
+                "vi": "Hàng ngàn người đã ăn năn về hành vi sai trái và được hội thánh nhận lại."
+            }
+        },
+        {
+            "content": "nhận thấy",
+            "type": "",
+            "example": {
+                "en": "Have you noticed how awkward it is, having this conversation through the door?",
+                "vi": "Bố có nhận thấy hơi lạ thế nào không? Nói chuyện xuyên qua cánh cửa?"
+            }
+        },
+        {
+            "content": "nắm",
+            "type": "",
+            "example": {
+                "en": "But the problem is, we don't have the ethics to handle it.",
+                "vi": "Nhưng vấn đề là, ta không có đủ đạo đức để nắm giữ nó."
+            }
+        },
+        {
+            "content": "hiểu",
+            "type": "verb",
+            "example": {
+                "en": "You don't have a clue what I'm feeling.",
+                "vi": "Cô chẳng hiểu tôi cảm thấy gì đâu."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "She'll have a tough time competing with that.",
+                "vi": "Cô ấy sẽ không thể thắng món quà này đâu."
+            }
+        },
+        {
+            "content": "tóm",
+            "type": "",
+            "example": {
+                "en": "Why not let them have me, Donald?",
+                "vi": "Sao không để chúng tóm tôi đi, Donald?"
+            }
+        },
+        {
+            "content": "nhớ",
+            "type": "verb",
+            "example": {
+                "en": "I have no memory of such an attack.",
+                "vi": "Tôi không nhớ gì về một vụ tấn công."
+            }
+        },
+        {
+            "content": "bịp",
+            "type": "",
+            "example": {
+                "en": "Now, most of you have figured out that this was a prank,",
+                "vi": "Phần lớn đã hiểu ra đây là một trò bịp,"
+            }
+        },
+        {
+            "content": "hút",
+            "type": "verb",
+            "example": {
+                "en": "What if you have a workmate who is a smoker?",
+                "vi": "Nhưng nếu đồng nghiệp của bạn hút thuốc thì sao?"
+            }
+        },
+        {
+            "content": "hiếu",
+            "type": "verb",
+            "example": {
+                "en": "Though most have very little in a material way, they are kind and hospitable.",
+                "vi": "Hầu hết họ đều nghèo nhưng tử tế và hiếu khách."
+            }
+        },
+        {
+            "content": "biết được",
+            "type": "",
+            "example": {
+                "en": "Of course you would have known that if you would have just asked me.",
+                "vi": "Tất nhiên lẽ ra thầy đã biết được điều đó nếu mở mồm ra hỏi tôi trước."
+            }
+        },
+        {
+            "content": "bắt buộc phải",
+            "type": "",
+            "example": {
+                "en": "If you have to ask, it's not a gift.",
+                "vi": "Nếu cô bắt buộc phải hỏi, thì đó không phải là quà của Chúa đâu."
+            }
+        },
+        {
+            "content": "chủ trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có bổn phận phải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành động lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận được",
+            "type": "",
+            "example": {
+                "en": "When we have that kind of thought and feel the joy, we might have received a blessing already.",
+                "vi": "Khi chúng ta có ý nghĩ như thế và cảm nhận được niềm vui thì chúng ta có thể đã nhận được phước lành rồi."
+            }
+        },
+        {
+            "content": "nắm chặt",
+            "type": "",
+            "example": {
+                "en": "Now you have white knuckles and you're gripping the steering wheel.",
+                "vi": "Và giờ bạn đang rất áp lực và nắm chặt vào tay lái."
+            }
+        },
+        {
+            "content": "sự lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thắng thế",
+            "type": "",
+            "example": {
+                "en": "The people of Midʹi·an have gained power over them and are hurting them.",
+                "vi": "Dân Ma-đi-an thắng thế hơn họ và làm cho họ đau khổ."
+            }
+        },
+        {
+            "content": "tin chắc là",
+            "type": "",
+            "example": {
+                "en": "Then I'm sure you'll have a good time together in Venice.",
+                "vi": "Vậy thì anh tin chắc là hai người sẽ vui vẻ cùng nhau ở Venice."
+            }
+        },
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {
+                "en": "All you have to do is follow his advice.",
+                "vi": "Mọi thứ bạn phải làm là thực hiện theo lời khuyên của anh ấy."
+            }
+        },
+        {
+            "content": "rồi",
+            "type": "",
+            "example": {
+                "en": "I have no more ideas.",
+                "vi": "Tôi sắp cạn ý tưởng rồi."
+            }
+        },
+        {
+            "content": "sinh",
+            "type": "verb",
+            "example": {
+                "en": "None of the students have arrived on time.",
+                "vi": "Không một sinh viên nào tới đúng giờ."
+            }
+        },
+        {
+            "content": "Sở hữu",
+            "type": "",
+            "example": {
+                "en": "Why does the US government let people have guns?",
+                "vi": "Tại sao chính phủ Mỹ cho phép mọi người sở hữu súng?"
+            }
+        },
+        {
+            "content": "lừa gạt",
+            "type": "",
+            "example": {
+                "en": "How many times have you lied to the transplant committee?",
+                "vi": "Anh đã bao nhiêu lần lừa gạt hội đồng cấy ghép rồi?"
+            }
+        },
+        {
+            "content": "sinh ra",
+            "type": "",
+            "example": {
+                "en": "Honey, the werewolves have been having babies out here since before you were born.",
+                "vi": "Cưng ơi, người sói đã sinh con ở ngoài này từ khi cô sinh ra."
+            }
+        },
+        {
+            "content": "sinh sản",
+            "type": "",
+            "example": {
+                "en": "They have sexuality as an evolutionary reproductive need.",
+                "vi": "Chúng có tính dục như là nhu cầu sinh sản tiến hóa."
+            }
+        },
+        {
+            "content": "sản sinh",
+            "type": "",
+            "example": {
+                "en": "Right there is reason enough to have uniforms.",
+                "vi": "Đó chính là lý do cho việc sản sinh ra đồng phục."
+            }
+        },
+        {
+            "content": "đã từng",
+            "type": "",
+            "example": {
+                "en": "This is the most interesting book I have ever read.",
+                "vi": "Đây là quyển sách hay nhất mà tôi đã từng đọc."
+            }
+        }
+    ]
+}

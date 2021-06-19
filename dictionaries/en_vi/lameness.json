@@ -1,0 +1,49 @@
+{
+    "word": "lameness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlāmnəs/",
+            "/ˈleɪmnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪmnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự què quặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi khập khiễng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính không chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính không thoả đáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khập khiễng",
+            "type": "",
+            "example": {
+                "en": "I don't want to leave a lame voicemail message.",
+                "vi": "Em không muốn để lại thư thoại khập khiễng."
+            }
+        }
+    ]
+}

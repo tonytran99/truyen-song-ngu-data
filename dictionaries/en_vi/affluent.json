@@ -1,0 +1,60 @@
+{
+    "word": "affluent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaflo͞oənt/",
+            "/ˈæfluənt/",
+            "/əˈflo͞oənt/",
+            "/əˈfluənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaflʊənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giàu có",
+            "type": "adjective",
+            "example": {
+                "en": "We're also designing coin ponds for the rich and affluent.",
+                "vi": "Chúng tôi còn đang thiết kế những cái ao tiền xu cho những người giàu có."
+            }
+        },
+        {
+            "content": "nhiều",
+            "type": "adjective",
+            "example": {
+                "en": "Even in affluent societies, life for many becomes repetitious, and at length “wearisome.”",
+                "vi": "Ngay đến trong những xã hội phong lưu, sự sống của nhiều người trở nên nhàm chán và sống lâu chỉ “lao-khổ”."
+            }
+        },
+        {
+            "content": "dồi dào",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phong phú",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sung mãn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sông nhánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

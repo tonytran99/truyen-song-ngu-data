@@ -1,0 +1,82 @@
+{
+    "word": "charter",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHärdər/",
+            "/ˈtʃɑrdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɑːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiến chương",
+            "type": "noun",
+            "example": {
+                "en": "If we win, you give up your charter and you move out of the Beta House.",
+                "vi": "Nếu bọn ta thắng, bọn mày phải từ bỏ hiến chương và ra khỏi nhà Beta."
+            }
+        },
+        {
+            "content": "ban đặc quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giấy nhượng đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp đồng thuê tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thuê tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuê mướn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe cộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều lệ",
+            "type": "noun",
+            "example": {
+                "en": "Now, this is a charter plane, provided by the cartel.",
+                "vi": "Đây là một máy bay điều lệ, được bọn buôn ma túy cung cấp."
+            }
+        },
+        {
+            "content": "đặc quyền",
+            "type": "noun",
+            "example": {
+                "en": "which was, after all, a charter for masters.",
+                "vi": "cái mà, sau tất cả, là một đặc quyền cho những kẻ làm chủ."
+            }
+        },
+        {
+            "content": "thuê chở hàng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

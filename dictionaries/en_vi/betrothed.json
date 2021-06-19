@@ -1,0 +1,43 @@
+{
+    "word": "betrothed",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈtrōT͟Hd/",
+            "/bəˈtroʊðd/",
+            "/bəˈtrôTHd/",
+            "/bəˈtrɔθd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈtrəʊðd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hứa hôn",
+            "type": "",
+            "example": {
+                "en": "She can meet her betrothed before she is bartered like a golden calf.",
+                "vi": "Nó sẽ gặp người hứa hôn trước khi nó được bán đi như 1 con bê bằng vàng."
+            }
+        },
+        {
+            "content": "chồng chưa cưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vợ chưa cưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

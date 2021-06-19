@@ -1,0 +1,87 @@
+{
+    "word": "aboard",
+    "type": [
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbôrd/",
+            "/əˈbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gần",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "kế",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "dọc theo",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "lên trên",
+            "type": "adverb",
+            "example": {
+                "en": "But we need someone to come aboard and negotiate the deal.",
+                "vi": "Nhưng chúng tôi cần ai đó lên trên tàu này và đàm phán."
+            }
+        },
+        {
+            "content": "trên boong tàu",
+            "type": "adverb",
+            "example": {
+                "en": "You've spoken with him when you and I were aboard his ship.",
+                "vi": "Chú đã chứng tỏ với ông ấy khi chú và cháu ở trên boong tàu."
+            }
+        },
+        {
+            "content": "trên máy bay",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "trên thuyền",
+            "type": "adverb",
+            "example": {
+                "en": "I'll stay aboard with Captain and chart these shores.",
+                "vi": "Tớ sẽ ở trên thuyền cùng thuyền trưởng và vẽ bản đồ bờ biển."
+            }
+        },
+        {
+            "content": "trên tàu",
+            "type": "adverb",
+            "example": {
+                "en": "But the family’s adventure aboard the ark was far from over.",
+                "vi": "Nhưng cuộc hành trình của gia đình ông trên tàu vẫn còn phía trước."
+            }
+        },
+        {
+            "content": "trên xe lửa",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "ở trên",
+            "type": "",
+            "example": {
+                "en": "Only the harbor watch was aboard when the fire started.",
+                "vi": "Chỉ có người trực cảng ở trên tàu khi bắt đầu cháy."
+            }
+        }
+    ]
+}

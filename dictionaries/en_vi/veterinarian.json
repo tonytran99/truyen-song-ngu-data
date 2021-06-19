@@ -1,0 +1,41 @@
+{
+    "word": "veterinarian",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvedərəˈnerēən/",
+            "/ˌvɛdərəˈnɛriən/",
+            "/ˌvetrəˈnerēən/",
+            "/ˌvɛtrəˈnɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvɛt(ə)rɪˈnɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thầy thuốc thú y",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú y sĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bác sĩ thú y",
+            "type": "noun",
+            "example": {
+                "en": "If you're not working to be a veterinarian in six weeks, you will be dead.",
+                "vi": "Nếu mày không trở thành bác sĩ thú y trong sáu tuần tới, mày chết chắc rồi."
+            }
+        }
+    ]
+}

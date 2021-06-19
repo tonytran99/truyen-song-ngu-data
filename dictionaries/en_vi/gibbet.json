@@ -1,0 +1,58 @@
+{
+    "word": "gibbet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjibit/",
+            "/ˈdʒɪbɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪbɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giá treo cổ",
+            "type": "noun",
+            "example": {
+                "en": "Might be me up on that gibbet, instead of you.",
+                "vi": "Có thể ta sẽ phải lên giá treo cổ, thay vì ngươi."
+            }
+        },
+        {
+            "content": "cần trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giá phơi thây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chết treo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự treo cổ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "treo cổ",
+            "type": "",
+            "example": {
+                "en": "Might be me up on that gibbet, instead of you.",
+                "vi": "Có thể ta sẽ phải lên giá treo cổ, thay vì ngươi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "forged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrjd/",
+            "/fɔrdʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːdʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả",
+            "type": "adjective",
+            "example": {
+                "en": "But for law enforcement, they just forge whatever they need.",
+                "vi": "Nhưng hồ sơ giấy tờ có thể làm giả."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "",
+            "example": {
+                "en": "Perfect motive for him to forge those scripts.",
+                "vi": "Động cơ hoàn hảo để anh ta giả mạo các đơn thuốc này."
+            }
+        },
+        {
+            "content": "được rèn luyện được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được tôi luyện",
+            "type": "",
+            "example": {
+                "en": "He would have to be forged by jupiter himself...",
+                "vi": "Anh ta chắc phải được tôi luyện bởi thần Jupiter..."
+            }
+        }
+    ]
+}

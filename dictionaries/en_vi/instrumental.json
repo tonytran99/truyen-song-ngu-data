@@ -1,0 +1,63 @@
+{
+    "word": "instrumental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinstrəˈmen(t)l/",
+            "/ˌɪnstrəˈmɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnstrʊˈmɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cách công cụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm công cụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm dụng cụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm phương tiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhạc khí",
+            "type": "",
+            "example": {
+                "en": "The superscriptions to the psalms indicate the widespread use of musical instruments.",
+                "vi": "Những lời ghi chú ở đầu các bài Thi-thiên cho thấy nhạc khí được dùng phổ biến."
+            }
+        },
+        {
+            "content": "phương tiện",
+            "type": "",
+            "example": {
+                "en": "No financial instruments, no wire transfer, no cashier's checks.",
+                "vi": "Không dùng phương tiện tài chính nào, không chuyển khoản, không séc đảm bảo."
+            }
+        },
+        {
+            "content": "viết cho nhạc khí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

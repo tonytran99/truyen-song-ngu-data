@@ -1,0 +1,60 @@
+{
+    "word": "hers",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái của bà ấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của chị ấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của cô ấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của nó",
+            "type": "",
+            "example": {
+                "en": "17 aZion shall not be moved out of her place, notwithstanding her children are scattered.",
+                "vi": "17 aSi Ôn sẽ không bị dời khỏi vị trí của nó, mặc dù con cái của nó bị phân tán."
+            }
+        },
+        {
+            "content": "chị ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "Her delight consists of teaching children.",
+                "vi": "Sở thích của chị ấy là dạy trẻ em."
+            }
+        },
+        {
+            "content": "cô ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "I cannot help loving her in spite of her many faults.",
+                "vi": "Tôi yêu cô ấy mặc dù cô ấy có nhiều lỗi lầm."
+            }
+        }
+    ]
+}

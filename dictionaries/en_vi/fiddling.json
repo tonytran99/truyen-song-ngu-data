@@ -1,0 +1,51 @@
+{
+    "word": "fiddling",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfidliNG/",
+            "/ˈfɪdlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪdlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không đáng kể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lặt vặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhỏ mọn",
+            "type": "",
+            "example": {
+                "en": "Stop fiddling with sweets and little men!",
+                "vi": "Dám giành đồ chơi với cấp trên, đồ nhỏ mọn!"
+            }
+        },
+        {
+            "content": "tầm thường",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô ích",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

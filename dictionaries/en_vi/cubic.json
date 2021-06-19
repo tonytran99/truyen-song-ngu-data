@@ -1,0 +1,83 @@
+{
+    "word": "cubic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͞obik/",
+            "/ˈkjubɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjuːbɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bậc ba",
+            "type": "",
+            "example": {
+                "en": "Generates a cubic spline interpolation for a set of data",
+                "vi": "Tạo ra sự nội suy chốt trục bậc ba cho một tập dữ liệu. Name"
+            }
+        },
+        {
+            "content": "cubic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có hình lập phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường bậc ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lập phương",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khối",
+            "type": "adjective",
+            "example": {
+                "en": "The process of heating and separating bitumen from the sand requires millions of cubic meters of water.",
+                "vi": "Quy trình nung nóng và tách nhựa đường từ cát cần đến hàng triệu mét khối nước."
+            }
+        },
+        {
+            "content": "có hình khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương trình bậc ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc hình lập phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường cubic",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

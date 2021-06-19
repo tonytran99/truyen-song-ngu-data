@@ -1,0 +1,106 @@
+{
+    "word": "however",
+    "type": [
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/houˈevər/",
+            "/haʊˈɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haʊˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuy nhiên",
+            "type": "adverb, conjunction",
+            "example": {
+                "en": "It's already September; however, it is very hot.",
+                "vi": "Đã là tháng chín, tuy nhiên, trời vẫn rất nóng."
+            }
+        },
+        {
+            "content": "tuy vậy",
+            "type": "",
+            "example": {
+                "en": "The extra copies, however, go and gum up the mosquitoes' genes, killing the organism.",
+                "vi": "Các bản sao protein, tuy vậy, lại xâm nhập và kết dính các gene của muỗi, giết chết con vật."
+            }
+        },
+        {
+            "content": "song",
+            "type": "conjunction",
+            "example": {
+                "en": "She did not object to receiving the treatment involved —she would not, however, direct its use.”",
+                "vi": "Bà ta không có từ chối nhận cách chữa bệnh đó, song bà không muốn trực tiếp chỉ định phương pháp đó”."
+            }
+        },
+        {
+            "content": "dù",
+            "type": "conjunction",
+            "example": {
+                "en": "I can never remember names however hard I try.",
+                "vi": "Tôi không thể nhớ nổi tên người dù cố thế nào đi nữa."
+            }
+        },
+        {
+            "content": "thế mà",
+            "type": "adverb",
+            "example": {
+                "en": "Most of those who frequent sexual sites, however, consider the practice to be harmless.",
+                "vi": "Thế mà hầu hết những người thường vào địa chỉ tình dục xem đó là thói quen vô hại."
+            }
+        },
+        {
+            "content": "dầu",
+            "type": "conjunction",
+            "example": {}
+        },
+        {
+            "content": "dù cách gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dù cách nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dù đến đâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuy thế",
+            "type": "",
+            "example": {
+                "en": "Well, however long it lasted, it wasn't real.",
+                "vi": "Chà, tuy thế nó kéo dài và không thật cho lắm."
+            }
+        },
+        {
+            "content": "vậy mà",
+            "type": "adverb",
+            "example": {
+                "en": "There are , however , some of them forget this fact .",
+                "vi": "Vậy mà một số người đã quên mất điều này ."
+            }
+        },
+        {
+            "content": "bằng cách nào",
+            "type": "",
+            "example": {
+                "en": "However, no studies exist yet that show how or why.",
+                "vi": "Tuy nhiên, chưa có nghiên cứu nào chỉ ra bằng cách nào hay tại làm sao."
+            }
+        }
+    ]
+}

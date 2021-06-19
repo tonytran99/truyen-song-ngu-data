@@ -1,0 +1,44 @@
+{
+    "word": "unpopular",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈpäpyələr/",
+            "/ˌənˈpɑpjələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈpɒpjʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất nhân tâm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không phổ biến",
+            "type": "adjective",
+            "example": {
+                "en": "This went down very well in the U.K., where religion is extremely unpopular.",
+                "vi": "Ở Anh việc này được hoan nghênh nhiệt liệt nơi tôn giáo không phổ biến lắm."
+            }
+        },
+        {
+            "content": "không được ưa chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mất lòng dân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "dictionary",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdikSHəˌnerē/",
+            "/ˈdɪkʃəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪkʃ(ə)n(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ điển",
+            "type": "noun",
+            "example": {
+                "en": "He looked up the word in his dictionary.",
+                "vi": "Anh ta tìm từ đó trong từ điển."
+            }
+        },
+        {
+            "content": "tự điển",
+            "type": "noun",
+            "example": {
+                "en": "It took me two hours of hard work with my dictionary to order it.",
+                "vi": "Chú phải mất hai tiếng tra tự điển mới gọi được nó."
+            }
+        },
+        {
+            "content": "字典",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "có tính chất từ điển",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

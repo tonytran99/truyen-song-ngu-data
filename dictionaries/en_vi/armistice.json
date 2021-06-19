@@ -1,0 +1,47 @@
+{
+    "word": "armistice",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärməstəs/",
+            "/ˈɑrməstəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːmɪstɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hưu chiến",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đình chiến",
+            "type": "noun",
+            "example": {
+                "en": "I see you are negotiating the terms of the armistice without me.",
+                "vi": "Tôi thấy các ông đã đàm phán điều khoản đình chiến mà không có tôi."
+            }
+        },
+        {
+            "content": "sự đình chiến",
+            "type": "noun",
+            "example": {
+                "en": "there will be no armistice...",
+                "vi": "Sẽ không có sự đình chiến nào đâu..."
+            }
+        },
+        {
+            "content": "cuộc đình chiến ngắn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

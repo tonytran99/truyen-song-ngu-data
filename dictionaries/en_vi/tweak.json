@@ -1,0 +1,45 @@
+{
+    "word": "tweak",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twēk/",
+            "/twik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twiːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vặn",
+            "type": "",
+            "example": {
+                "en": "and then the soul steps in and tweaks those molecules so that they connect.",
+                "vi": "và sau đó linh hồn bước vào và vặn vẹo các phân tử đó để chúng liên kết."
+            }
+        },
+        {
+            "content": "véo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cái véo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái vặn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

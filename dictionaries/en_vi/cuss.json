@@ -1,0 +1,49 @@
+{
+    "word": "cuss",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʌs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chửi rủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nguyền rủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thằng cha",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chửi rủa",
+            "type": "",
+            "example": {
+                "en": "then it starts with cuss words,",
+                "vi": "rồi những câu chửi rủa,"
+            }
+        }
+    ]
+}

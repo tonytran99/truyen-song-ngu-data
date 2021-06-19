@@ -1,0 +1,41 @@
+{
+    "word": "buzzer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "còi",
+            "type": "noun",
+            "example": {
+                "en": "I don't know, a buzzer or something to get a nurse.",
+                "vi": "Anh không biết, một cái còi hay gì đấy để gọi y tá."
+            }
+        },
+        {
+            "content": "máy con ve",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuông",
+            "type": "noun",
+            "example": {
+                "en": "You know, the interesting thing about this building is that the buzzer system runs through your telephone.",
+                "vi": "Điều thú vị về tòa nhà này là hệ thống chuông báo chạy kèm với điện thoại của bà."
+            }
+        }
+    ]
+}

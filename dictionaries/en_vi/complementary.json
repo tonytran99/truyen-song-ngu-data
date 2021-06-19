@@ -1,0 +1,50 @@
+{
+    "word": "complementary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämpləˈment(ə)rē/",
+            "/ˌkɑmpləˈmɛnt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒmplɪˈmɛnt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bổ sung",
+            "type": "adjective",
+            "example": {
+                "en": "The two meanings are complementary, and both are important.",
+                "vi": "Hai nghĩa đó bổ sung cho nhau và đều quan trọng."
+            }
+        },
+        {
+            "content": "bù",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bổ khuyết",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phụ khuyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "boå sung",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

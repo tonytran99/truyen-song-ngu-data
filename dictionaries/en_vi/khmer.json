@@ -1,0 +1,63 @@
+{
+    "word": "khmer",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈme(ə)r/",
+            "/kəˈmɛ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kmɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Khơ-Me",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "Khmer",
+            "type": "proper",
+            "example": {
+                "en": "The Khmer Rouge have killed every journalist they've ever caught.",
+                "vi": "Khmer Đỏ đã giết mọi nhà báo mà chúng bắt được."
+            }
+        },
+        {
+            "content": "Khơ-Me",
+            "type": "proper",
+            "example": {
+                "en": "the Khmer Rouge had killed them all.",
+                "vi": "Khơ-me đỏ đã giết tất cả bọn họ."
+            }
+        },
+        {
+            "content": "tiếng Khmer",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "tiếng Miên",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "người Khơ-me",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng Khơ-me",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

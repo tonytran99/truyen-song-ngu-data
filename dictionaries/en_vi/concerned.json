@@ -1,0 +1,84 @@
+{
+    "word": "concerned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsərnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəːnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lo lắng",
+            "type": "",
+            "example": {
+                "en": "I saw there was no reason for my concern and left.",
+                "vi": "Tôi thấy không lý do nào phải lo lắng nên tôi về."
+            }
+        },
+        {
+            "content": "có dính líu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có liên quan",
+            "type": "",
+            "example": {
+                "en": "As far as the record is concerned, this man did nothing wrong.",
+                "vi": "Theo các ghi chép có liên quan, người này không làm gì sai."
+            }
+        },
+        {
+            "content": "dính líu tới",
+            "type": "adjective",
+            "example": {
+                "en": "Because as far as friends and family are concerned, it's your life.",
+                "vi": "Bởi vì cho đến khi bạn bè và gia đình bị dính líu tới, Thì đó là cuộc sống của anh."
+            }
+        },
+        {
+            "content": "hữu quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên quan tới",
+            "type": "adjective",
+            "example": {
+                "en": "But their request is of great interest because it concerns you.",
+                "vi": "Nhưng yêu cầu của chúng thì khá thú vị, vì liên quan tới cô."
+            }
+        },
+        {
+            "content": "lo âu",
+            "type": "",
+            "example": {
+                "en": "The salesman looked concerned as he called to them.",
+                "vi": "Người bán hàng lo âu nhìn theo trong khi gọi chúng."
+            }
+        },
+        {
+            "content": "quan tâm",
+            "type": "verb",
+            "example": {
+                "en": "So, when you say you're concerned about him, you actually are concerned?",
+                "vi": "Vậy, khi anh nói anh quan tâm đến anh ấy Anh thực sự quan tâm?"
+            }
+        },
+        {
+            "content": "sở quan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

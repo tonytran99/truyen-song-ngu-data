@@ -1,0 +1,30 @@
+{
+    "word": "blinker",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbliNGkər/",
+            "/ˈblɪŋkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblɪŋkə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mắt",
+            "type": "noun",
+            "example": {
+                "en": "Even the horses are wearing blinkers.",
+                "vi": "Ngay cả mấy con ngựa cũng bị che mắt."
+            }
+        }
+    ]
+}

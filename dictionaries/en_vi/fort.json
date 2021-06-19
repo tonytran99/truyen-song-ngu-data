@@ -1,0 +1,45 @@
+{
+    "word": "fort",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrt/",
+            "/fɔrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo đài",
+            "type": "noun",
+            "example": {
+                "en": "Yes, the fort is in a sorry state.",
+                "vi": "Phải, pháo đài đang trong tình trạng xấu."
+            }
+        },
+        {
+            "content": "công sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vị trí phòng thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành trì",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

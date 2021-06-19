@@ -1,0 +1,87 @@
+{
+    "word": "browse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brouz/",
+            "/braʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/braʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xem lướt qua",
+            "type": "",
+            "example": {
+                "en": "You browse through the site, you make your choice,",
+                "vi": "Bạn xem lướt qua trang này, bạn lựa chọn,"
+            }
+        },
+        {
+            "content": "đọc lướt qua",
+            "type": "",
+            "example": {
+                "en": "I used to browse through them.",
+                "vi": "Tôi vẫn thường đọc lướt qua."
+            }
+        },
+        {
+            "content": "duyệt",
+            "type": "verb",
+            "example": {
+                "en": "Move forward one step in the browsing history",
+                "vi": "Chuyển một bước lên trước trong lịch sử duyệt"
+            }
+        },
+        {
+            "content": "gặm",
+            "type": "verb",
+            "example": {
+                "en": "There, high above the ground, they pushed their heads into the midst of a colony of weaverbird nests and browsed unconcerned.",
+                "vi": "Đứng cao lừng lững, chúng đưa đầu vào giữa một khóm các tổ chim và thản nhiên gặm lá."
+            }
+        },
+        {
+            "content": "cho",
+            "type": "verb adposition",
+            "example": {}
+        },
+        {
+            "content": "chồi non",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cành non",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gặm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc bỏ quãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc lướt",
+            "type": "",
+            "example": {
+                "en": "I used to browse through them.",
+                "vi": "Tôi vẫn thường đọc lướt qua."
+            }
+        }
+    ]
+}

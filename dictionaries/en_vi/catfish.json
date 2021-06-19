@@ -1,0 +1,30 @@
+{
+    "word": "catfish",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkatˌfiSH/",
+            "/ˈkætˌfɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkatfɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá trê",
+            "type": "noun",
+            "example": {
+                "en": "I'd be happier if she married the catfish.",
+                "vi": "Tôi sẽ còn vui hơn nếu nó cưới cá trê."
+            }
+        }
+    ]
+}

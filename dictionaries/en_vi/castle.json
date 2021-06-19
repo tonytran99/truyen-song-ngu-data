@@ -1,0 +1,77 @@
+{
+    "word": "castle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkasəl/",
+            "/ˈkæsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːs(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lâu đài",
+            "type": "noun",
+            "example": {
+                "en": "When was the castle built?",
+                "vi": "Lâu đài đã được xây vào lúc nào?"
+            }
+        },
+        {
+            "content": "thành trì",
+            "type": "",
+            "example": {
+                "en": "Your home is your castle .",
+                "vi": "Nhà của bạn là thành trì của bạn ."
+            }
+        },
+        {
+            "content": "tòa thành",
+            "type": "",
+            "example": {
+                "en": "You southerners build your big castles and you never move.",
+                "vi": "Người phương nam các người xây những tòa thành bự và chẳng đi đâu."
+            }
+        },
+        {
+            "content": "quân cờ thấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lâu dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành quách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thành",
+            "type": "noun",
+            "example": {
+                "en": "We weren't riding anyway, not with the castle surrounded.",
+                "vi": "Chúng ta cũng không cưỡi chúng đi đâu được, khi mà cả thành bị vây."
+            }
+        },
+        {
+            "content": "Lâu đài",
+            "type": "",
+            "example": {
+                "en": "When was the castle built?",
+                "vi": "Lâu đài đã được xây vào lúc nào?"
+            }
+        }
+    ]
+}

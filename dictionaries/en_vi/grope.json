@@ -1,0 +1,48 @@
+{
+    "word": "grope",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrōp/",
+            "/ɡroʊp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəʊp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dò dẫm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mò mẫm",
+            "type": "",
+            "example": {
+                "en": "She groped in utter darkness and deep despair.",
+                "vi": "Bà mò mẫm trong bóng tối và nỗi tuyệt vọng vô cùng."
+            }
+        },
+        {
+            "content": "mò",
+            "type": "verb",
+            "example": {
+                "en": "She groped in utter darkness and deep despair.",
+                "vi": "Bà mò mẫm trong bóng tối và nỗi tuyệt vọng vô cùng."
+            }
+        },
+        {
+            "content": "sờ soạng tìm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

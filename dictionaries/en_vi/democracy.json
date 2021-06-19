@@ -1,0 +1,76 @@
+{
+    "word": "democracy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmäkrəsē/",
+            "/dəˈmɑkrəsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmɒkrəsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân chủ",
+            "type": "adjective noun",
+            "example": {
+                "en": "I am on the side of democracy.",
+                "vi": "Tôi đang ở bên phe dân chủ."
+            }
+        },
+        {
+            "content": "民主",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dân chủ",
+            "type": "noun",
+            "example": {
+                "en": "Representative democracy is one form of government.",
+                "vi": "Dân chủ đại diện là một hình thức của chính phủ."
+            }
+        },
+        {
+            "content": "chế độ dân chủ",
+            "type": "noun",
+            "example": {
+                "en": "What does it mean to say that there's an Islamic democracy?",
+                "vi": "Nó có nghĩa gì để nói rằng có một chế độ dân chủ Hồi giáo?"
+            }
+        },
+        {
+            "content": "dân quốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nền dân chủ",
+            "type": "",
+            "example": {
+                "en": "I'm not here to make an indictment of democracy.",
+                "vi": "Tôi không ở đây để lên án nền dân chủ."
+            }
+        },
+        {
+            "content": "chính thể dân chủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dân chủ",
+            "type": "",
+            "example": {
+                "en": "And that is democracy at the grassroots level in action.",
+                "vi": "Và đó chính là sự dân chủ ở cấp độ cơ sở."
+            }
+        }
+    ]
+}

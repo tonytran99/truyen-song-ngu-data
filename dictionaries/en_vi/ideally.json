@@ -1,0 +1,56 @@
+{
+    "word": "ideally",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īˈdē(ə)lē/",
+            "/aɪˈdi(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪˈdɪəl(l)i/",
+            "/ʌɪˈdiːəl(l)i/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "theo lý tưởng",
+            "type": "",
+            "example": {
+                "en": "Ideally, we could go through the circuit",
+                "vi": "Theo lý tưởng, chúng ta xét toàn mạng lưới"
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "Our planet is ideally suited to host life.",
+                "vi": "Hành tinh của chúng ta hoàn toàn thích hợp để duy trì sự sống."
+            }
+        },
+        {
+            "content": "lý tưởng",
+            "type": "adjective noun",
+            "example": {
+                "en": "It is good to have ideals... don't you think?",
+                "vi": "Có lý tưởng là điều tốt... bạn nghĩ sao?"
+            }
+        },
+        {
+            "content": "trong lý tưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng như lý tưởng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

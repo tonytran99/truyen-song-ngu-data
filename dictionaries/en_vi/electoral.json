@@ -1,0 +1,34 @@
+{
+    "word": "electoral",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlekt(ə)rəl/",
+            "/əˈlɛkt(ə)rəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛkt(ə)r(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cử tri",
+            "type": "",
+            "example": {
+                "en": "This law also states that governing power rests with the electorate.",
+                "vi": "Đạo luật này cũng nói rằng quyền lực của chính phủ nằm trong tay cử tri."
+            }
+        },
+        {
+            "content": "sự bầu cử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

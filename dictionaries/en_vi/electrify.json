@@ -1,0 +1,57 @@
+{
+    "word": "electrify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrəˌfī/",
+            "/əˈlɛktrəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện khí hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho nhiễm điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho điện giật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "Electrify the boys and girls if you'd be so kind.",
+                "vi": "Hãy kích thích các chàng trai và cô gái nếu các cậu có lòng."
+            }
+        },
+        {
+            "content": "làm giật nảy người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiễm điện",
+            "type": "",
+            "example": {
+                "en": "When you fired your arrow at the force field you electrified the nation.",
+                "vi": "Khi cô bắn tên vào trường lực, Cô làm cả nước bị nhiễm điện."
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "undercut",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈkət/",
+            "/ˈəndərˌkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈkʌt/",
+            "/ˈʌndəkʌt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt",
+            "type": "verb noun",
+            "example": {
+                "en": "it would undercut the entire market for smugglers,",
+                "vi": "nó sẽ cắt giảm toàn bộ thị trường buôn lậu,"
+            }
+        },
+        {
+            "content": "chạm trổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú đấm móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt thăn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

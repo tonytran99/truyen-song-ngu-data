@@ -1,0 +1,38 @@
+{
+    "word": "boiled",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/boild/",
+            "/bɔɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɔɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "luộc",
+            "type": "verb",
+            "example": {
+                "en": "I would like a boiled egg, and I want it runny.",
+                "vi": "Tôi muốn một quả trứng luộc, có lòng đào."
+            }
+        },
+        {
+            "content": "sôi",
+            "type": "adjective",
+            "example": {
+                "en": "Parents who beat their children really make my blood boil.",
+                "vi": "Cha mẹ mà đánh con cái làm tôi giận sôi máu."
+            }
+        }
+    ]
+}

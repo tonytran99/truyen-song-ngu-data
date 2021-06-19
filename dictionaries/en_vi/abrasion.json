@@ -1,0 +1,44 @@
+{
+    "word": "abrasion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbrāZHən/",
+            "/əˈbreɪʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbreɪʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỗ bị trầy da",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cọ xơ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm trầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mài mòn",
+            "type": "noun",
+            "example": {
+                "en": "They are usually both a scrape ( abrasion ) and a heat burn .",
+                "vi": "Chúng thường là cả phỏng do trầy xước ( sự mài mòn ) và phỏng do sức nóng ."
+            }
+        }
+    ]
+}

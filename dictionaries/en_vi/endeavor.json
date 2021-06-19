@@ -1,0 +1,34 @@
+{
+    "word": "endeavor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈdevər/",
+            "/ənˈdɛvər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cố gắng",
+            "type": "verb",
+            "example": {
+                "en": "We must endeavor to make sure it stays that way.",
+                "vi": "Chúng ta phải cố gắng duy trì như thế này."
+            }
+        },
+        {
+            "content": "toan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "endeavour",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

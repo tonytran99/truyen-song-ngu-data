@@ -1,0 +1,43 @@
+{
+    "word": "indigent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈindəjənt/",
+            "/ˈɪndədʒənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪndɪdʒ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghèo",
+            "type": "adjective",
+            "example": {
+                "en": "I'd been informed he's going indigent.",
+                "vi": "tôi lại nhận được thông tin là anh ta rất nghèo cơ đấy."
+            }
+        },
+        {
+            "content": "bần cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghèo khổ",
+            "type": "",
+            "example": {
+                "en": "They even like Medicaid, even though that goes to the poor and indigent,",
+                "vi": "Họ thậm chí muốn bảo hiểm hỗ trợ của chính phủ, mặc dù nó chỉ dành cho những người bần cùng, nghèo khổ,"
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "diving",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīviNG/",
+            "/ˈdaɪvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lặn",
+            "type": "",
+            "example": {
+                "en": "Oh, I booked you in for scuba diving tomorrow.",
+                "vi": "Anh đã sắp xếp cho em đi lặn biển."
+            }
+        },
+        {
+            "content": "Nhảy cầu",
+            "type": "",
+            "example": {
+                "en": "And then we'll go to a pool with a high diving board, perfect for diving.",
+                "vi": "Và chúng tôi sẽ ra bể bơi, nơi có ván nhảy thật cao, hoàn hảo để nhảy cầu."
+            }
+        },
+        {
+            "content": "nhảy cầu",
+            "type": "",
+            "example": {
+                "en": "And then we'll go to a pool with a high diving board, perfect for diving.",
+                "vi": "Và chúng tôi sẽ ra bể bơi, nơi có ván nhảy thật cao, hoàn hảo để nhảy cầu."
+            }
+        },
+        {
+            "content": "đi lặn",
+            "type": "",
+            "example": {
+                "en": "Oh, I booked you in for scuba diving tomorrow.",
+                "vi": "Anh đã sắp xếp cho em đi lặn biển."
+            }
+        }
+    ]
+}

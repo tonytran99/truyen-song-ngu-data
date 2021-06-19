@@ -1,0 +1,47 @@
+{
+    "word": "casually",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaZHo͞oəlē/",
+            "/ˈkæʒuəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʒʊəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hú họa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "You know, if you're just sleeping with somebody casually,",
+                "vi": "Bạn biết đấy, nếu bạn ngủ với ai đó một cách ngẫu nhiên,"
+            }
+        },
+        {
+            "content": "thất thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {
+                "en": "Never commit to an interaction that won't be casual or mellow.",
+                "vi": "Không bao giờ tương tác mà không phải tình cờ hay thoải mái."
+            }
+        }
+    ]
+}

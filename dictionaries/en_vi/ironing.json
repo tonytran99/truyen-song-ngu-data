@@ -1,0 +1,50 @@
+{
+    "word": "ironing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈī(ə)rniNG/",
+            "/ˈaɪ(ə)rnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪənɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quần áo là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Là ủi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn là",
+            "type": "noun",
+            "example": {
+                "en": "The supply of electricity was so limited that we could not use a washing machine or an iron.",
+                "vi": "Điện thì rất ít nên chúng tôi không thể sử dụng máy giặt hoặc bàn là."
+            }
+        },
+        {
+            "content": "quần áo là ủi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "fretful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfretfəl/",
+            "/ˈfrɛtfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛtfʊl/",
+            "/ˈfrɛtf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bực bội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cáu kỉnh",
+            "type": "",
+            "example": {
+                "en": "So stop your fretting, Master Dwarf.",
+                "vi": "Vì vậy hãy thôi cáu kỉnh đi, ngài Người Lùn."
+            }
+        },
+        {
+            "content": "băn khoăn",
+            "type": "adjective",
+            "example": {
+                "en": "To think it was only a year ago, you were a little college girl, fretting about boys.",
+                "vi": "Mới chỉ một năm trước, cô chỉ là một cô sinh viên đại học, băn khoăn về lũ con trai."
+            }
+        },
+        {
+            "content": "bực",
+            "type": "Verbal; Adjectival",
+            "example": {
+                "en": "Rather than fret about the money you don’t have, why not learn to manage the money that does pass through your hands?",
+                "vi": "Thay vì buồn bực về điều đó, sao bạn không tập quản lý số tiền mình có?"
+            }
+        }
+    ]
+}

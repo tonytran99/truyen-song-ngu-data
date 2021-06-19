@@ -1,0 +1,51 @@
+{
+    "word": "employer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈploiər/",
+            "/əmˈplɔɪər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈplɔɪə/",
+            "/ɛmˈplɔɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ",
+            "type": "noun",
+            "example": {
+                "en": "You will be more honest with your employers.",
+                "vi": "Các anh em sẽ lương thiện hơn với những người chủ thuê mình làm."
+            }
+        },
+        {
+            "content": "người chủ",
+            "type": "",
+            "example": {
+                "en": "You will be more honest with your employers.",
+                "vi": "Các anh em sẽ lương thiện hơn với những người chủ thuê mình làm."
+            }
+        },
+        {
+            "content": "người sử dụng lao động",
+            "type": "",
+            "example": {
+                "en": "Employer payments , based on total payroll , contribute to the program .",
+                "vi": "Số tiền thanh toán của người sử dụng lao động , dựa trên tổng tiền lương , góp phần xây dựng chương trình này ."
+            }
+        },
+        {
+            "content": "chuû nhaân",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

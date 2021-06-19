@@ -1,0 +1,69 @@
+{
+    "word": "uncomfortable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈkəmfərdəb(ə)l/",
+            "/ˌənˈkəmftərbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈkʌmf(ə)təb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất tiện",
+            "type": "adjective",
+            "example": {
+                "en": "I have never been so uncomfortable in my entire life.",
+                "vi": "Tớ chưa bao giờ thấy bất tiện vậy trong đời mình."
+            }
+        },
+        {
+            "content": "không thoải mái",
+            "type": "adjective",
+            "example": {
+                "en": "I mean, you don't have to call it that word if that makes you uncomfortable.",
+                "vi": "Con không cần phải gọi bằng từ đó nếu nó làm con thấy không thoải mái."
+            }
+        },
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "If you're uncomfortable in any way, no one here will think any less of you.",
+                "vi": "Nếu cô thấy lo lắng, khó chịu thì không có ai trách cô đâu."
+            }
+        },
+        {
+            "content": "bực bội",
+            "type": "",
+            "example": {
+                "en": "Stop it! You're making her feel uncomfortable!",
+                "vi": "Đừng! Mày đang làm cô ấy bực bội đấy."
+            }
+        },
+        {
+            "content": "không tiện",
+            "type": "",
+            "example": {
+                "en": "I'm uncomfortable setting a number.",
+                "vi": "Tôi không tiện nói."
+            }
+        },
+        {
+            "content": "lo lắng",
+            "type": "",
+            "example": {
+                "en": "If you're uncomfortable in any way, no one here will think any less of you.",
+                "vi": "Nếu cô thấy lo lắng, khó chịu thì không có ai trách cô đâu."
+            }
+        }
+    ]
+}

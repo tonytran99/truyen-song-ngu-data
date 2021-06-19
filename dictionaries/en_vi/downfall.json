@@ -1,0 +1,53 @@
+{
+    "word": "downfall",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdounˌfôl/",
+            "/ˈdaʊnˌfɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaʊnfɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự suy vi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sa sút",
+            "type": "",
+            "example": {
+                "en": "He later lamented his spiritual downfall.",
+                "vi": "Về sau, ông đã than khóc về sự sa sút phần thuộc linh của mình."
+            }
+        },
+        {
+            "content": "sự suy sụp",
+            "type": "",
+            "example": {
+                "en": "Do you know what led to Haman’s downfall?",
+                "vi": "Bạn có biết điều gì dẫn đến sự suy sụp của Ha-man không?"
+            }
+        },
+        {
+            "content": "sự trút xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đổ xuống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

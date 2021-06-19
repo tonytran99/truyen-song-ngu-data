@@ -1,0 +1,51 @@
+{
+    "word": "ecology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēˈkäləjē/",
+            "/iˈkɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈkɒlədʒi/",
+            "/ɛˈkɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh thái học",
+            "type": "noun",
+            "example": {
+                "en": "We want to employ him as an ecological expert.",
+                "vi": "Chúng tôi sẽ thuê anh ta như một chuyên gia về sinh thái học."
+            }
+        },
+        {
+            "content": "生態學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sinh thái",
+            "type": "",
+            "example": {
+                "en": "I tripped on the reality of this ecology of creativity just last week.",
+                "vi": "Tôi đã bước vào thực tế của hệ sinh thái sáng tạo này vào tuần trước."
+            }
+        },
+        {
+            "content": "Sinh thái học",
+            "type": "",
+            "example": {
+                "en": "We want to employ him as an ecological expert.",
+                "vi": "Chúng tôi sẽ thuê anh ta như một chuyên gia về sinh thái học."
+            }
+        }
+    ]
+}

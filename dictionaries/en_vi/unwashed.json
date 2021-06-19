@@ -1,0 +1,46 @@
+{
+    "word": "unwashed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈwôSHt/",
+            "/ˌənˈwɔʃt/",
+            "/ˌənˈwäSHt/",
+            "/ˌənˈwɑʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈwɒʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rếch",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bẩn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không giặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rửa",
+            "type": "",
+            "example": {
+                "en": "+ 2 And they saw some of his disciples eat their meal with defiled hands, that is, unwashed ones.",
+                "vi": "+ 2 Họ thấy một số môn đồ ngài dùng bữa mà tay còn ô uế, tức là không rửa tay."
+            }
+        }
+    ]
+}

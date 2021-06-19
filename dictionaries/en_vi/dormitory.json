@@ -1,0 +1,73 @@
+{
+    "word": "dormitory",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrməˌtôrē/",
+            "/ˈdɔrməˌtɔri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːmɪt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ký túc xá",
+            "type": "noun",
+            "example": {
+                "en": "There were many weird stories in the dormitory.",
+                "vi": "Có khá nhiều chuyện kỳ lạ trong ký túc xá."
+            }
+        },
+        {
+            "content": "kí túc xá",
+            "type": "",
+            "example": {
+                "en": "I suggest you go back to your dormitories.",
+                "vi": "Ta nghĩ trò nên trở lại kí túc xá đi."
+            }
+        },
+        {
+            "content": "phòng ngủ tập thể",
+            "type": "noun",
+            "example": {
+                "en": "After the convention sessions, we visited our brothers and sisters at the dormitory.",
+                "vi": "Sau các phiên nhóm đại hội, chúng tôi đến thăm các anh chị tại phòng ngủ tập thể."
+            }
+        },
+        {
+            "content": "học xá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khu nhà ở ngoại ô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà ngủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà ở tập thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng ngủ",
+            "type": "",
+            "example": {
+                "en": "Now, we must insist that you don't come inside to the dormitory.",
+                "vi": "Chúng tôi phải yêu cầu ông đừng vô trong phòng ngủ tập thể."
+            }
+        }
+    ]
+}

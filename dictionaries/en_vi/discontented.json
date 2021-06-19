@@ -1,0 +1,45 @@
+{
+    "word": "discontented",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdiskənˈten(t)əd/",
+            "/ˌdɪskənˈtɛn(t)əd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪskənˈtɛntɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất bình",
+            "type": "adjective",
+            "example": {
+                "en": "Prisoner discontent eventually boiled over into open prison rebellion.",
+                "vi": "Sự bất bình của các tù nhân ngày càng sôi sục, dẫn đến cuộc nổi dậy công khai trong tù."
+            }
+        },
+        {
+            "content": "bất mãn",
+            "type": "adjective",
+            "example": {
+                "en": "There is widespread public discontent with the struggling economy .",
+                "vi": "Lại có sự bất mãn công khai lan rộng giữa lúc nền kinh tế đang lâm nguy ."
+            }
+        },
+        {
+            "content": "không hài lòng",
+            "type": "",
+            "example": {
+                "en": "In fact, a Chihuahua shivers when excited, apprehensive, discontented, or frightened —not just when it is cold.",
+                "vi": "Nó run khi hào hứng, lo sợ, không hài lòng hoặc sợ hãi chứ không phải chỉ vì bị lạnh."
+            }
+        }
+    ]
+}

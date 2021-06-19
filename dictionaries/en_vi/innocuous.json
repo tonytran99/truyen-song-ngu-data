@@ -1,0 +1,55 @@
+{
+    "word": "innocuous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnäkyo͞oəs/",
+            "/ɪˈnɑkjuəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɒkjʊəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô hại",
+            "type": "adjective",
+            "example": {
+                "en": "You put your knife with a fork and a spoon and it looks innocuous.",
+                "vi": "Anh để con dao chung với muỗng nĩa để trông như có vẻ vô hại."
+            }
+        },
+        {
+            "content": "không độc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô phạt",
+            "type": "",
+            "example": {
+                "en": "I wanted to show you the ways, innocuous as they seem,",
+                "vi": "Tôi muốn chỉ cho bạn con đường, vô thưởng vô phạt,"
+            }
+        },
+        {
+            "content": "vô thưởng",
+            "type": "",
+            "example": {
+                "en": "I wanted to show you the ways, innocuous as they seem,",
+                "vi": "Tôi muốn chỉ cho bạn con đường, vô thưởng vô phạt,"
+            }
+        }
+    ]
+}

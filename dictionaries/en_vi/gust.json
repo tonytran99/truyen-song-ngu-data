@@ -1,0 +1,52 @@
+{
+    "word": "gust",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơn gió mạnh",
+            "type": "",
+            "example": {
+                "en": "Because she 's so dependent on tree so I have to be a gust wind .",
+                "vi": "Vì cô lúc nào cũng bám vào cây nên tôi phải trở thành một cơn gió mạnh ."
+            }
+        },
+        {
+            "content": "cơn",
+            "type": "",
+            "example": {
+                "en": "Because she 's so dependent on tree so I have to be a gust wind .",
+                "vi": "Vì cô lúc nào cũng bám vào cây nên tôi phải trở thành một cơn gió mạnh ."
+            }
+        },
+        {
+            "content": "cơn mưa rào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngọn lửa cháy bùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi giật từng cơn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

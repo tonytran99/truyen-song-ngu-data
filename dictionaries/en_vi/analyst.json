@@ -1,0 +1,47 @@
+{
+    "word": "analyst",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanələst/",
+            "/ˈænələst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(ə)lɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người phân tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà giải tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà phân tích",
+            "type": "noun",
+            "example": {
+                "en": "Many analysts see a clear difference between the two companies .",
+                "vi": "Nhiều nhà phân tích nhận thấy sự khác biệt rõ rệt giữa hai công ty này ."
+            }
+        },
+        {
+            "content": "phân tích viên",
+            "type": "",
+            "example": {
+                "en": "I have a junior analyst who's started a file.",
+                "vi": "Tôi có một phân tích viên trẻ tuổi, người đã tạo ra một hồ sơ."
+            }
+        }
+    ]
+}

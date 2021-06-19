@@ -1,0 +1,60 @@
+{
+    "word": "vertebra",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərdəbrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtɪbrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sống",
+            "type": "verb noun",
+            "example": {
+                "en": "He could have tweaked a vertebra in his neck.",
+                "vi": "Cậu ta có thể đã bị lệch một đốt sống cổ."
+            }
+        },
+        {
+            "content": "đốt sống",
+            "type": "",
+            "example": {
+                "en": "He could have tweaked a vertebra in his neck.",
+                "vi": "Cậu ta có thể đã bị lệch một đốt sống cổ."
+            }
+        },
+        {
+            "content": "đốt xương sống",
+            "type": "",
+            "example": {
+                "en": "Yes, there are slight lesions of the thoracic vertebrae.",
+                "vi": "Vâng, có một vài vết thương nhẹ ở đốt xương sống vùng ngực"
+            }
+        },
+        {
+            "content": "cột sống",
+            "type": "noun",
+            "example": {
+                "en": "I broke three vertebrae in my neck and damaged my spinal cord.",
+                "vi": "Ba đốt sống cổ bị gãy và dây cột sống bị tổn thương."
+            }
+        },
+        {
+            "content": "xương sống",
+            "type": "noun",
+            "example": {
+                "en": "Included in her injuries were broken ribs and broken vertebrae.",
+                "vi": "Thương tích của chị là bị gãy xương sườn và xương sống."
+            }
+        }
+    ]
+}

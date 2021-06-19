@@ -1,0 +1,359 @@
+{
+    "word": "heavy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhevē/",
+            "/ˈhɛvi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛvi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nặng",
+            "type": "adjective",
+            "example": {
+                "en": "This table is heavy.",
+                "vi": "Cái bàn này nặng quá."
+            }
+        },
+        {
+            "content": "nặng nề",
+            "type": "adjective",
+            "example": {
+                "en": "I specialize in dragging heavy things around cold places.",
+                "vi": "Tôi chuyên kéo đồ nặng nề như vậy tới những nơi giá lạnh."
+            }
+        },
+        {
+            "content": "khó tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm u",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớn",
+            "type": "adjective",
+            "example": {
+                "en": "Everything else on board is trying to pick up the load, but the load's too heavy.",
+                "vi": "Mọi hệ thống khác trên tàu cố gắng gánh tải, nhưng tải quá lớn."
+            }
+        },
+        {
+            "content": "nhiều",
+            "type": "",
+            "example": {
+                "en": "You have been heavy with gold for equal years.",
+                "vi": "Anh đã có rất nhiều vàng ngần ấy năm."
+            }
+        },
+        {
+            "content": "khó",
+            "type": "adjective",
+            "example": {
+                "en": "That's some heavy stuff.",
+                "vi": "Có nhiều thứ khó xơi ở đó lắm."
+            }
+        },
+        {
+            "content": "to",
+            "type": "adjective",
+            "example": {
+                "en": "They say we're going to get heavy rain.",
+                "vi": "Bọn họ nói rằng tụi mình sẽ gặp mưa to."
+            }
+        },
+        {
+            "content": "động",
+            "type": "adjective",
+            "example": {
+                "en": "There were thunders, lightnings, a heavy cloud, and a very loud sound of a horn.",
+                "vi": "Lúc đó có sấm sét chớp nhoáng, mây mù mịt và tiếng kèn rất vang động."
+            }
+        },
+        {
+            "content": "đặc",
+            "type": "adjective",
+            "example": {
+                "en": "I, too, often feel that heavy fog you spoke of, Corrie.",
+                "vi": "Anh cũng thường cảm thấy màn sương dày đặc mà em đã nói."
+            }
+        },
+        {
+            "content": "dày đặc",
+            "type": "adjective",
+            "example": {
+                "en": "I, too, often feel that heavy fog you spoke of, Corrie.",
+                "vi": "Anh cũng thường cảm thấy màn sương dày đặc mà em đã nói."
+            }
+        },
+        {
+            "content": "lệ khệ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chắc",
+            "type": "adjective",
+            "example": {
+                "en": "Feeling assured of future raises, they took on heavy mortgage payments.",
+                "vi": "Tin chắc được tăng lương trong tương lai, họ mượn nợ trả tiền nhà cao."
+            }
+        },
+        {
+            "content": "mạmh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bi thảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồn ngủ",
+            "type": "adjective",
+            "example": {
+                "en": "The bed was -warm , and his eyes heavy with sleep .",
+                "vi": "Chiếc giường ấm áp và đôi mắt ông nặng trĩu với cơn buồn ngủ ập đến ."
+            }
+        },
+        {
+            "content": "buồn tẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bì bì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chán ngắt",
+            "type": "",
+            "example": {
+                "en": "That's heavy, Robin, real heavy.",
+                "vi": "Chuyện đó chán ngắt, Robin, chán thiệt đó."
+            }
+        },
+        {
+            "content": "chán nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất nặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chậm chạp",
+            "type": "",
+            "example": {
+                "en": "The Attackers were heavy and slow.",
+                "vi": "Những Phi Cơ Xung Kích này nặng nề và chậm chạp."
+            }
+        },
+        {
+            "content": "chậm hiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứa đầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dữ dội",
+            "type": "",
+            "example": {
+                "en": "The heavy bombing during the blitz on London posed increasing dangers.",
+                "vi": "Những đợt oanh tạc dữ dội xuống Luân Đôn khiến việc sống ở đó ngày càng nguy hiểm."
+            }
+        },
+        {
+            "content": "khó bay hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hấp dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không xốp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khắc khổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kịch liệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy lội khó đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghiêm nghị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nặng trĩu",
+            "type": "",
+            "example": {
+                "en": "Its long branches , so heavy with flowers , almost touched the ground .",
+                "vi": "Những nhánh cây dài nặng trĩu hoa gần chạm đất ."
+            }
+        },
+        {
+            "content": "nặng trọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rậm rạp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "trông nặng trình trịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trọng pháo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối dạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u ám",
+            "type": "",
+            "example": {
+                "en": "But it started to get warm and heavy .",
+                "vi": "Nhưng trời bắt đầu trở nên ấm và u ám ."
+            }
+        },
+        {
+            "content": "võ sĩ hạng nặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụng về khó coi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đau buồn",
+            "type": "",
+            "example": {
+                "en": "As her comment indicates, grief can exact a heavy toll, both physically and emotionally.",
+                "vi": "Như lời chị Cecília, nỗi đau buồn có thể gây tổn hại nghiêm trọng cả về thể chất lẫn tinh thần."
+            }
+        },
+        {
+            "content": "đau đớn",
+            "type": "adjective",
+            "example": {
+                "en": "The suffering children, who are innocent victims, weigh particularly heavy upon us.",
+                "vi": "Đặc biệt, những nạn nhân vô tội là những đứa trẻ đang phải chịu sự đau đớn đã làm cho chúng ta buồn rầu."
+            }
+        },
+        {
+            "content": "đần độn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ vật hạng nặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đội cận vệ Rồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảm đạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ục ịch",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trọng",
+            "type": "adjective",
+            "example": {
+                "en": "It's almost like they get heavy. They get massive.",
+                "vi": "Gần như người đó bị nặng hơn. Anh ta có thêm trọng lượng."
+            }
+        },
+        {
+            "content": "nắng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vụng về",
+            "type": "",
+            "example": {
+                "en": "More heavy-handed than gentle, which surprised me.",
+                "vi": "Vụng về thì đúng hơn là tế nhị, điều đó làm em bất ngờ đấy."
+            }
+        }
+    ]
+}

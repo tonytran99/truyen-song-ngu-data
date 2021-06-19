@@ -1,0 +1,74 @@
+{
+    "word": "guest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡest/",
+            "/ɡɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "The new hotel invited suggestions from the guests.",
+                "vi": "Khách sạn mới mời gọi các người khách giới thiệu."
+            }
+        },
+        {
+            "content": "客",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người khách",
+            "type": "noun",
+            "example": {
+                "en": "The new hotel invited suggestions from the guests.",
+                "vi": "Khách sạn mới mời gọi các người khách giới thiệu."
+            }
+        },
+        {
+            "content": "cây ký sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khách mời",
+            "type": "noun",
+            "example": {
+                "en": "Meanwhile, the party's tomorrow and we don't have a guest list.",
+                "vi": "Buổi tiệc sẽ diễn ra vào ngày mai nhưng ta vẫn chưa có danh sách khách mời."
+            }
+        },
+        {
+            "content": "khách trọ",
+            "type": "",
+            "example": {
+                "en": "I'm gonna be your guest here, indefinitely.",
+                "vi": "Tôi sẽ là khách trọ ở đây, thời gian không xác định."
+            }
+        },
+        {
+            "content": "trùng ký sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật ký sinh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

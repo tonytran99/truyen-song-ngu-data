@@ -1,0 +1,87 @@
+{
+    "word": "capsule",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapsəl/",
+            "/ˈkæpsəl/",
+            "/ˈkapˌs(y)o͞ol/",
+            "/ˈkæpˌs(j)ul/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapsjuːl/",
+            "/ˈkapsjʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quả nang",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "viên thuốc con nhộng",
+            "type": "",
+            "example": {
+                "en": "Mastic also finds a place in dental cements and in the internal coatings of drug capsules.",
+                "vi": "Mát-tít cũng được dùng làm xi-măng trám răng và lớp trong của vỏ bọc viên thuốc con nhộng."
+            }
+        },
+        {
+            "content": "capxun",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao",
+            "type": "noun",
+            "example": {
+                "en": "These capsules are embedded in a nutrient-rich jelly,",
+                "vi": "Những chiếc bao nang này được ngấm với một loại thạch giàu dinh dưỡng,"
+            }
+        },
+        {
+            "content": "bao con nhộng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bao vỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nồi con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viên nang",
+            "type": "",
+            "example": {
+                "en": "A human standing in front of an unprotected capsule would die instantly.",
+                "vi": "Con người đứng trước một viên nang không được che chắn này có thể chết ngay lập tức."
+            }
+        },
+        {
+            "content": "vỏ",
+            "type": "noun",
+            "example": {
+                "en": "Well, We're working with a prototype of the capsule, Al.",
+                "vi": "Ta đang thử nghiệm với mô hình vỏ tàu, Al."
+            }
+        },
+        {
+            "content": "Quả nang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

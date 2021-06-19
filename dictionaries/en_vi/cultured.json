@@ -1,0 +1,59 @@
+{
+    "word": "cultured",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəlCHərd/",
+            "/ˈkəltʃərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌltʃəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có giáo dục",
+            "type": "adjective",
+            "example": {
+                "en": "A lady of real culture.",
+                "vi": "Một quý cô có giáo dục."
+            }
+        },
+        {
+            "content": "có học thức",
+            "type": "adjective",
+            "example": {
+                "en": "He is very cultured.",
+                "vi": "Ảnh rất có học thức."
+            }
+        },
+        {
+            "content": "có văn hoá",
+            "type": "",
+            "example": {
+                "en": "He' s intelligent, polite, cultured, caring",
+                "vi": "Anh ấy thông minh, lịch sự, có văn hoá, biết quan tâm chăm sóc"
+            }
+        },
+        {
+            "content": "nho nhã",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có văn hóa",
+            "type": "",
+            "example": {
+                "en": "How can you get to know people of other cultures?",
+                "vi": "Làm sao bạn có thể làm quen để biết những người có văn hóa khác với mình?"
+            }
+        }
+    ]
+}

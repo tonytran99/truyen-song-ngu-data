@@ -1,0 +1,34 @@
+{
+    "word": "aerodrome",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerəˌdrōm/",
+            "/ˈɛrəˌdroʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːrədrəʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sân bay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phi trường",
+            "type": "noun",
+            "example": {
+                "en": "The Flying Ace returned to the aerodrome with the love of his life.",
+                "vi": "Viên Phi Công Xuất Sắc trở lại phi trường với tình yêu của đời mình."
+            }
+        }
+    ]
+}

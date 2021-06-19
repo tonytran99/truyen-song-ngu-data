@@ -1,0 +1,58 @@
+{
+    "word": "ethnicity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eTHˈnisədē/",
+            "/ɛθˈnɪsədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛθˈnɪsɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân tộc",
+            "type": "noun",
+            "example": {
+                "en": "That's the same first line, only more ethnic.",
+                "vi": "Cùng một câu mở đầu, chỉ có điều dân tộc hơn."
+            }
+        },
+        {
+            "content": "民族",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chủng tộc",
+            "type": "noun",
+            "example": {
+                "en": "It does not matter if they are of another race or ethnic group.",
+                "vi": "Việc họ thuộc chủng tộc hay sắc tộc khác không thành vấn đề."
+            }
+        },
+        {
+            "content": "một sắc tộc",
+            "type": "noun",
+            "example": {
+                "en": "Yet, he has given no ethnic group the basis for feeling superior.",
+                "vi": "Tuy nhiên, Ngài không cho một sắc tộc nào cơ sở để cảm thấy cao trọng hơn sắc tộc khác."
+            }
+        },
+        {
+            "content": "sắc tộc",
+            "type": "",
+            "example": {
+                "en": "Is there any hope for a future without ethnic hatred?",
+                "vi": "Có hy vọng gì về một tương lai không còn sự thù ghét sắc tộc không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "fifteen",
+    "type": [
+        "numeral",
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fifˈtēn/",
+            "/fɪfˈtin/",
+            "/ˈfifˌtēn/",
+            "/ˈfɪfˌtin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪfˈtiːn/",
+            "/ˈfɪftiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mười lăm",
+            "type": "numeral",
+            "example": {
+                "en": "Ronan's fleet has been spotted, and will arrive in T-minus fifteen minutes.",
+                "vi": "Đã phát hiện hạm đội của Ronan, chúng sẽ tới trong vòng mười lăm phút nữa."
+            }
+        },
+        {
+            "content": "mưới lăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mười lăm tuổi",
+            "type": "",
+            "example": {
+                "en": "The plastic surgeon , a good fifteen years my senior , was a very attractive man .",
+                "vi": "Vị bác sĩ phẫu thuật thẩm mỹ lớn hơn tôi khoảng mười lăm tuổi là người vô cùng hấp dẫn ."
+            }
+        }
+    ]
+}

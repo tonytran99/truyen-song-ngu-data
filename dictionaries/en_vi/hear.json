@@ -1,0 +1,66 @@
+{
+    "word": "hear",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hir/",
+            "/hɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghe",
+            "type": "verb",
+            "example": {
+                "en": "I don't want to hear your lame excuses.",
+                "vi": "Tôi không muốn nghe những lời biện hộ củ chuối của cậu."
+            }
+        },
+        {
+            "content": "chấp nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghe theo",
+            "type": "",
+            "example": {
+                "en": "I don't think he cares to hear what I have to say.",
+                "vi": "Em không nghĩ nó sẽ nghe theo những gì em nói đâu."
+            }
+        },
+        {
+            "content": "đồng ý",
+            "type": "verb",
+            "example": {
+                "en": "I didn't expect to hear a simple yes.",
+                "vi": "Ta cũng không nghĩ huynh sẽ dễ dàng đồng ý."
+            }
+        },
+        {
+            "content": "nghe nói",
+            "type": "",
+            "example": {
+                "en": "Did you hear that the position for manager is up for grabs?",
+                "vi": "Bạn có nghe nói vị trí trưởng phòng còn trống không?"
+            }
+        },
+        {
+            "content": "lắng nghe",
+            "type": "",
+            "example": {
+                "en": "You needed me to hear you and I didn't.",
+                "vi": "Em cần anh lắng nghe, và anh đã không lắng nghe."
+            }
+        }
+    ]
+}

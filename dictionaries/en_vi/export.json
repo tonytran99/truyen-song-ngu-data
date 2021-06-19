@@ -1,0 +1,79 @@
+{
+    "word": "export",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈspôrt/",
+            "/ɪkˈspɔrt/",
+            "/ˈekspôrt/",
+            "/ˈɛkspɔrt/",
+            "/ˈekˌspôrt/",
+            "/ˈɛkˌspɔrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspɔːt/",
+            "/ɛkˈspɔːt/",
+            "/ˈɛkspɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuất khẩu",
+            "type": "",
+            "example": {
+                "en": "We are still exporting commodities, and exporting commodities is what?",
+                "vi": "Chúng tôi vẫn đang xuất khẩu hàng hóa, vậy đang xuất khẩu hàng hóa gì?"
+            }
+        },
+        {
+            "content": "xuất cảng",
+            "type": "verb",
+            "example": {
+                "en": "But I wrote to you that I am a clerk in a coffee export house.",
+                "vi": "Nhưng tôi đã viết thư nói tôi là một thư ký của một hãng xuất cảng cà-phê."
+            }
+        },
+        {
+            "content": "xuất",
+            "type": "verb",
+            "example": {
+                "en": "We're also working on a little house for export.",
+                "vi": "Chúng tôi cũng làm một nhà nhỏ để xuất khẩu."
+            }
+        },
+        {
+            "content": "hàng xuất khẩu",
+            "type": "",
+            "example": {
+                "en": "Except in our case, only three percent of exports go to the US.",
+                "vi": "Nhưng với chúng tôi, chỉ có 3% hàng xuất khẩu tới Mỹ thôi."
+            }
+        },
+        {
+            "content": "sự xuất khẩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Xuất khẩu",
+            "type": "",
+            "example": {
+                "en": "We're also working on a little house for export.",
+                "vi": "Chúng tôi cũng làm một nhà nhỏ để xuất khẩu."
+            }
+        },
+        {
+            "content": "xuất chuyển",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

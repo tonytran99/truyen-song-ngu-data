@@ -1,0 +1,53 @@
+{
+    "word": "detour",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēto͝or/",
+            "/ˈditʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiːtʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường vòng",
+            "type": "",
+            "example": {
+                "en": "I'm not entirely sure why I took a different route that day, a detour.",
+                "vi": "Tôi không rõ vì sao mình đã chọn, ngày hôm đó, một con đường vòng."
+            }
+        },
+        {
+            "content": "chỗ quanh co",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khúc ngoặt",
+            "type": "",
+            "example": {
+                "en": "Life is filled with detours and dead ends, trials and challenges of every kind.",
+                "vi": "Cuộc sống có đầy những khúc ngoặt và ngõ cụt, đủ loại gian nan và thử thách."
+            }
+        },
+        {
+            "content": "sự đi chệch hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi sai đường",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

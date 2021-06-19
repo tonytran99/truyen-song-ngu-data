@@ -1,0 +1,80 @@
+{
+    "word": "graph",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡraf/",
+            "/ɡræf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrɑːf/",
+            "/ɡraf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu đồ",
+            "type": "noun",
+            "example": {
+                "en": "And you can see the points there on the graph.",
+                "vi": "Và quí vị có thể thấy các điểm trên biểu đồ."
+            }
+        },
+        {
+            "content": "đồ thị",
+            "type": "",
+            "example": {
+                "en": "And this graph sort of sums up what the problem is.",
+                "vi": "Và đồ thị trên đã cho chúng ta một cái nhìn tổng thể về vấn đề."
+            }
+        },
+        {
+            "content": "mạch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "in thạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy in thạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẽ đồ thị",
+            "type": "",
+            "example": {
+                "en": "In fact, if you plot on a height versus mass graph",
+                "vi": "Sự thật là, nếu bạn vẽ đồ thị chiều cao và khối lượng"
+            }
+        },
+        {
+            "content": "đồ biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đồ thị",
+            "type": "",
+            "example": {
+                "en": "And the way this looks is shown in this graph.",
+                "vi": "Và kết quả được thể hiện trên đồ thị này."
+            }
+        }
+    ]
+}

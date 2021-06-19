@@ -1,0 +1,44 @@
+{
+    "word": "cambodian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamˈbōdēən/",
+            "/kæmˈboʊdiən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kamˈbəʊdɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người Campuchia",
+            "type": "proper",
+            "example": {
+                "en": "He thinks you think Cambodian people are stupid.",
+                "vi": "Anh ấy nghĩ anh cho rằng người Campuchia bọn tôi ngu dốt."
+            }
+        },
+        {
+            "content": "tiếng Cam-pu-chia",
+            "type": "proper",
+            "example": {
+                "en": "I visited there and learned to read Cambodian.",
+                "vi": "Tôi đến thăm nhóm đó và học đọc tiếng Cam-pu-chia."
+            }
+        },
+        {
+            "content": "tiếng Khơ-Me",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

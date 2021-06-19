@@ -1,0 +1,63 @@
+{
+    "word": "cum",
+    "type": [
+        "verb",
+        "noun",
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͝om/",
+            "/kʊm/",
+            "/kəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʌm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tinh dịch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "với",
+            "type": "noun",
+            "example": {
+                "en": "Cummings. We were thrilled to gather ten people for the Memorial in 1945.",
+                "vi": "Chúng tôi rất vui khi cùng với mười người tham dự Lễ Tưởng Niệm vào năm 1945."
+            }
+        },
+        {
+            "content": "cực khoái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kiêm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kể cả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tinh trùng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xuất tinh",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

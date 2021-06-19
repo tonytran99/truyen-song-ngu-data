@@ -1,0 +1,55 @@
+{
+    "word": "hinder",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhindər/",
+            "/ˈhɪndər/",
+            "/ˈhīndər/",
+            "/ˈhaɪndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪndə/",
+            "/ˈhʌɪndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cản trở",
+            "type": "",
+            "example": {
+                "en": "Did your medical knowledge hinder your belief in creation?",
+                "vi": "Kiến thức của anh về y khoa có cản trở anh tin nơi sự sáng tạo không?"
+            }
+        },
+        {
+            "content": "gây trở ngại",
+            "type": "",
+            "example": {
+                "en": "Rain and snow have been hindering the rescue and relief effort .",
+                "vi": "Mưa và tuyết gây trở ngại cho việc nỗ lực cứu hộ ."
+            }
+        },
+        {
+            "content": "ở đằng sau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trở",
+            "type": "verb",
+            "example": {
+                "en": "Why would you hinder us and steal the compass?",
+                "vi": "Tại sao cô lại cản trở chúng tôi, và trộm cái la bàn?"
+            }
+        }
+    ]
+}

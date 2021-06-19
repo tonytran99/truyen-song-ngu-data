@@ -1,0 +1,47 @@
+{
+    "word": "courier",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈko͝orēər/",
+            "/ˈkʊriər/",
+            "/ˈkərēər/",
+            "/ˈkəriər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʊrɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người đưa thư",
+            "type": "",
+            "example": {
+                "en": "The courier just arrived.",
+                "vi": "Người đưa thư vừa mới đến."
+            }
+        },
+        {
+            "content": "hướng dẫn viên du lịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thông tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đưa tin tức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

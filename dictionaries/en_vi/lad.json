@@ -1,0 +1,50 @@
+{
+    "word": "lad",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lad/",
+            "/læd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lad/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chàng trai",
+            "type": "",
+            "example": {
+                "en": "I'm going to join up with our brave lads in gray.",
+                "vi": "Tôi sẽ nhập ngũ với những chàng trai dũng cảm của chúng ta."
+            }
+        },
+        {
+            "content": "chú bé",
+            "type": "",
+            "example": {
+                "en": "Percy, stick out your arms like a good lad.",
+                "vi": "Percy, xỏ tay vào như 1 chú bé ngoan."
+            }
+        },
+        {
+            "content": "chú coi chuồng ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh niên",
+            "type": "noun",
+            "example": {
+                "en": "Was drowned trying to save a lad from a dangerous entanglement of weeds.",
+                "vi": "Bị ngộp nước khi cố cứu một thanh niên bị rối loạn vì thiếu thuốc phiện."
+            }
+        }
+    ]
+}

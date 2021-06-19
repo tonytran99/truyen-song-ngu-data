@@ -1,0 +1,45 @@
+{
+    "word": "cursive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərsiv/",
+            "/ˈkərsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viết thảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữ thảo",
+            "type": "",
+            "example": {
+                "en": "A few of the Glagolitic characters appear to come from cursive Greek or Hebrew.",
+                "vi": "Một ít chữ cái Glagolitic dường như bắt nguồn từ chữ thảo Hy Lạp hoặc Hê-bơ-rơ."
+            }
+        },
+        {
+            "content": "viết bằng chữ thảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữ sáng tạo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

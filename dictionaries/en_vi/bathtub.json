@@ -1,0 +1,42 @@
+{
+    "word": "bathtub",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaTHˌtəb/",
+            "/ˈbæθˌtəb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɑːθtʌb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bồn tắm",
+            "type": "noun",
+            "example": {
+                "en": "We bury his body in soil in the bathtub.",
+                "vi": "Chúng ta chôn cái xác trong bồn tắm."
+            }
+        },
+        {
+            "content": "Bồn tắm",
+            "type": "",
+            "example": {
+                "en": "We bury his body in soil in the bathtub.",
+                "vi": "Chúng ta chôn cái xác trong bồn tắm."
+            }
+        },
+        {
+            "content": "bể tắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

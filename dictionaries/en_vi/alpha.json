@@ -1,0 +1,43 @@
+{
+    "word": "alpha",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalfə/",
+            "/ˈælfə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ anfa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "alpha",
+            "type": "",
+            "example": {
+                "en": "And that, combined with the sound, put you into an instant alpha pattern.",
+                "vi": "Và thứ đó, kết hợp với âm thanh, đưa bạn vào một mô hình alpha."
+            }
+        },
+        {
+            "content": "an-pha",
+            "type": "noun",
+            "example": {
+                "en": "1:8, 17—To whom do the titles “the Alpha and the Omega” and “the First and the Last” refer?",
+                "vi": "1:8, 17—Danh hiệu “An-pha và Ô-mê-ga” và ‘Đấng trước hết và Đấng sau cùng’ ám chỉ ai?"
+            }
+        }
+    ]
+}

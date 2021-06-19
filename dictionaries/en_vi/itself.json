@@ -1,0 +1,47 @@
+{
+    "word": "itself",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/itˈself/",
+            "/ɪtˈsɛlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪtˈsɛlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản thân cái đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản thân",
+            "type": "",
+            "example": {
+                "en": "Remember, life itself depends on the arrow of time.",
+                "vi": "Nhớ rằng, bản thân cuộc sống phụ thuộc vào mũi tên thời gian."
+            }
+        },
+        {
+            "content": "bản thân điều đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự nó",
+            "type": "",
+            "example": {
+                "en": "But work in itself is not a curse.",
+                "vi": "Tuy nhiên, việc làm tự nó không phải là một sự rủa sả."
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "jaundice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjôndəs/",
+            "/ˈdʒɔndəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɔːndɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh vàng da",
+            "type": "noun",
+            "example": {
+                "en": "It's too early to see jaundice from her liver.",
+                "vi": "Quá sớm để thấy bệnh vàng da do gan."
+            }
+        },
+        {
+            "content": "hoàng đản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ghen tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hằn học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ghen tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hằn học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vàng da",
+            "type": "",
+            "example": {
+                "en": "It's too early to see jaundice from her liver.",
+                "vi": "Quá sớm để thấy bệnh vàng da do gan."
+            }
+        },
+        {
+            "content": "Hoàng đản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

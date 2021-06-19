@@ -1,0 +1,30 @@
+{
+    "word": "delayed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "bị chậm",
+            "type": "",
+            "example": {
+                "en": "I assume that the next shipment will be delayed.",
+                "vi": "Tôi cho rằng chuyến hàng tiếp sẽ bị chậm trễ."
+            }
+        },
+        {
+            "content": "bị trì hoãn",
+            "type": "adjective",
+            "example": {
+                "en": "Yet they are often delayed for a purpose.",
+                "vi": "Tuy nhiên, chúng thường bị trì hoãn vì một mục đích."
+            }
+        },
+        {
+            "content": "bị trì trệ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

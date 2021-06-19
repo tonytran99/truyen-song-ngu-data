@@ -1,0 +1,44 @@
+{
+    "word": "facetious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈsēSHəs/",
+            "/fəˈsiʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈsiːʃəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hay bông lơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay hài hước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay khôi hài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khôi hài",
+            "type": "",
+            "example": {
+                "en": "You know, I thought it was rather facetious.",
+                "vi": "Bạn biết đấy, tôi đã nghĩ rằng nó khá là khôi hài."
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "cardiac",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärdēˌak/",
+            "/ˈkɑrdiˌæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːdɪak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tim",
+            "type": "noun",
+            "example": {
+                "en": "Your patient had cardiac arrest during the venous sampling.",
+                "vi": "Bệnh nhân của ông bị ngưng tim trong khi lấy mẫu tĩnh mạch."
+            }
+        },
+        {
+            "content": "rượu bổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc kích thích tim",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

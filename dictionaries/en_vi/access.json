@@ -1,0 +1,149 @@
+{
+    "word": "access",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakˌses/",
+            "/ˈækˌsɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaksɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường vào",
+            "type": "",
+            "example": {
+                "en": "The village is easy of access.",
+                "vi": "Đường vào làng dễ đi."
+            }
+        },
+        {
+            "content": "cơn",
+            "type": "",
+            "example": {
+                "en": "While it's true that many who died in Katrina did not have access to transportation,",
+                "vi": "Trong khi đúng là có nhiều người chết trong cơn bão Katrina vì không có phương tiện giao thông,"
+            }
+        },
+        {
+            "content": "cửa vào",
+            "type": "",
+            "example": {
+                "en": "But the access point is 47 clicks away.",
+                "vi": "Nhưng cửa vào còn cách 47 điểm nữa."
+            }
+        },
+        {
+            "content": "lối vào",
+            "type": "noun",
+            "example": {
+                "en": "There must be access routes that cut through the maze.",
+                "vi": "Phải có lối vào nào đó cắt ngang qua mê cung chứ, đúng không?"
+            }
+        },
+        {
+            "content": "quyền lui tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyền đến gần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cho vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dâng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lui tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thâm nhập",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự thêm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tiếp cận",
+            "type": "",
+            "example": {
+                "en": "So then the question is, why can't we have some kind of shared access?",
+                "vi": "Vậy câu hỏi đặt ra, tại sao chúng ta không thể dùng sự tiếp cận chia sẻ?"
+            }
+        },
+        {
+            "content": "sự truy cập",
+            "type": "noun",
+            "example": {
+                "en": "will determine our access to collaborative consumption.",
+                "vi": "sẽ quyết định sự truy cập của chúng ta tới sự tiêu dùng mang tính hợp tác."
+            }
+        },
+        {
+            "content": "sự tăng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đến gần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tồn thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếp cận",
+            "type": "",
+            "example": {
+                "en": "You need to have access to some family planning.",
+                "vi": "Bạn cần có quyền tiếp cận kế hoạch hóa gia đình."
+            }
+        },
+        {
+            "content": "truy nhập",
+            "type": "",
+            "example": {
+                "en": "And access to portions of the police database.",
+                "vi": "Và truy nhập vào nhiều phần dữ liệu cảnh sát."
+            }
+        },
+        {
+            "content": "được phép vào",
+            "type": "",
+            "example": {
+                "en": "Do you have an access badge?",
+                "vi": "Anh có huy hiệu được phép vào không?"
+            }
+        }
+    ]
+}

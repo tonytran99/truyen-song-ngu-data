@@ -1,0 +1,97 @@
+{
+    "word": "woo",
+    "type": [
+        "adjective",
+        "verb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wo͞o/",
+            "/wu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "theo đuổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán",
+            "type": "verb noun",
+            "example": {
+                "en": "A smarter man would think you were being wooed.",
+                "vi": "Ng thông minh hơn sẽ biết là con đang bị tán đấy."
+            }
+        },
+        {
+            "content": "ve",
+            "type": "noun",
+            "example": {
+                "en": "Come on, you got wooed, just like me.",
+                "vi": "Cô đã bị ve vãn, giống như tôi."
+            }
+        },
+        {
+            "content": "chim",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chim chuột",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chim gái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cầu hôn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dạm hỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nài nỉ",
+            "type": "",
+            "example": {
+                "en": "He knows exactly what he wants, but he needs to be wooed.",
+                "vi": "Hắn biết chính xác mình muốn gì nhưng hắn muốn được nài nỉ."
+            }
+        },
+        {
+            "content": "tán gái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán tỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ve gái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi cầu hôn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

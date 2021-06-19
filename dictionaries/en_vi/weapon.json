@@ -1,0 +1,68 @@
+{
+    "word": "weapon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwepən/",
+            "/ˈwɛpən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛp(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vũ khí",
+            "type": "noun",
+            "example": {
+                "en": "Do they have weapons?",
+                "vi": "Họ có vũ khí không?"
+            }
+        },
+        {
+            "content": "兵器",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "武器",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "binh khí",
+            "type": "noun",
+            "example": {
+                "en": "It can detect the crack in a weapon.",
+                "vi": "Nó có thể kiểm tra được vết rạn nứt của các binh khí khác."
+            }
+        },
+        {
+            "content": "khí giới",
+            "type": "noun",
+            "example": {
+                "en": "Today, nuclear weapons threaten the survival of life on earth.",
+                "vi": "Ngày nay khí giới hạch tâm đe dọa sự sinh tồn của mọi sinh vật trên đất."
+            }
+        },
+        {
+            "content": "wũ khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Vũ khí",
+            "type": "",
+            "example": {
+                "en": "Do they have weapons?",
+                "vi": "Họ có vũ khí không?"
+            }
+        }
+    ]
+}

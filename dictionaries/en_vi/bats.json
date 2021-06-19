@@ -1,0 +1,49 @@
+{
+    "word": "bats",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bats/",
+            "/bæts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bats/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con dơi",
+            "type": "",
+            "example": {
+                "en": "It's modeled after the articulated wings of a bat.",
+                "vi": "Nó được dựng theo các khớp cánh của con dơi."
+            }
+        },
+        {
+            "content": "khùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên",
+            "type": "adjective",
+            "example": {
+                "en": "She's bats, or hadn't you noticed?",
+                "vi": "Bà ta điên rồi, anh không nhận ra sao?"
+            }
+        },
+        {
+            "content": "điên khùng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

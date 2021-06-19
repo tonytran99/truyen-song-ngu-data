@@ -1,0 +1,79 @@
+{
+    "word": "inflated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈflādəd/",
+            "/ɪnˈfleɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfleɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoa trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạm phát",
+            "type": "noun",
+            "example": {
+                "en": "That might slow down the price inflation, but it won't halt it.",
+                "vi": "Việc đó có thể làm chậm lạm phát giá cả, nhưng sẽ không ngăn chặn được nó."
+            }
+        },
+        {
+            "content": "phồng lên",
+            "type": "",
+            "example": {
+                "en": "People's memories inflate what they think they saw.",
+                "vi": "Trí nhớ con người thổi phồng lên những gì họ nghĩ rằng họ đã thấy."
+            }
+        },
+        {
+            "content": "tăng giả tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự mãn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự túc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vênh váo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được bơm phồng",
+            "type": "adjective",
+            "example": {
+                "en": "The boy punched the inflatable man, who tipped over and immediately bounced back after every punch.",
+                "vi": "Đứa bé đấm vào túi đấm hình người được bơm phồng lên và ngay lập tức hình người bật trở lại sau mỗi cú đấm."
+            }
+        },
+        {
+            "content": "được thổi phồng",
+            "type": "adjective",
+            "example": {
+                "en": "I believe his reputation inflated.",
+                "vi": "Tôi tin danh tiếng của hắn chỉ được thổi phồng."
+            }
+        }
+    ]
+}

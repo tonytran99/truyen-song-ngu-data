@@ -1,0 +1,42 @@
+{
+    "word": "infertile",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfərdl/",
+            "/ɪnˈfərdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfəːtʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cằn cỗi",
+            "type": "",
+            "example": {
+                "en": "A big advantage is that these acacias can survive in harsh, infertile soils.",
+                "vi": "Một lợi điểm lớn là những cây keo này có thể tiếp tục tồn tại ở những vùng đất khắc nghiệt và cằn cỗi."
+            }
+        },
+        {
+            "content": "không màu mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô sinh",
+            "type": "adjective noun",
+            "example": {
+                "en": "Wealthy, infertile people will go all out trying to buy babies.",
+                "vi": "Những người giàu có, vô sinh luôn ra ngoài tìm mua một đứa con."
+            }
+        }
+    ]
+}

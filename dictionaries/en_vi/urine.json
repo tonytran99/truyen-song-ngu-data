@@ -1,0 +1,52 @@
+{
+    "word": "urine",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orən/",
+            "/ˈjʊrən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərɪn/",
+            "/ˈjʊərʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước tiểu",
+            "type": "",
+            "example": {
+                "en": "Blood in your urine clogged up your old catheter.",
+                "vi": "Máu trong nước tiểu đã vón cục và chặn ống nước tiểu."
+            }
+        },
+        {
+            "content": "nước đái",
+            "type": "",
+            "example": {
+                "en": "I thought that urine might be getting a little stale.",
+                "vi": "chắc là mùi nước đái cũng nhạt bớt rồi nhỉ."
+            }
+        },
+        {
+            "content": "nước giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nước tiểu",
+            "type": "",
+            "example": {
+                "en": "Human urine's by far the best for leaching the ash.",
+                "vi": "Nước tiểu người còn hơn chán nước tro."
+            }
+        }
+    ]
+}

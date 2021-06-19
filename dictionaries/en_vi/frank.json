@@ -1,0 +1,98 @@
+{
+    "word": "frank",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fraNGk/",
+            "/fræŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fraŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộc trực",
+            "type": "",
+            "example": {
+                "en": "I like her innocence , like her frankness .",
+                "vi": "Tôi thích vẻ ngây thơ và bộc trực của cô ấy ."
+            }
+        },
+        {
+            "content": "chân thật",
+            "type": "adjective",
+            "example": {
+                "en": "3 Those words are frank but true.",
+                "vi": "3 Những lời này thẳng thắn nhưng chân thật."
+            }
+        },
+        {
+            "content": "chữ ký miễn cước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấp giấy thông hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ký miễn cước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miễn cước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngay thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phác thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẳng thắn",
+            "type": "noun",
+            "example": {
+                "en": "Let's be frank in this question.",
+                "vi": "Chúng ta hãy thẳng thắn trong câu hỏi này."
+            }
+        },
+        {
+            "content": "đóng dấu miễn cước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cởi mở",
+            "type": "adjective",
+            "example": {
+                "en": "But now I’m glad my mom was so frank and open.",
+                "vi": "Nhưng giờ thì mình vui vì mẹ đã rất thẳng thắn và cởi mở."
+            }
+        },
+        {
+            "content": "thành thật",
+            "type": "",
+            "example": {
+                "en": "Another requirement for friendship is open and frank communication.",
+                "vi": "Một sự đòi hỏi khác của tình bạn là sự thông tri cởi mở và thành thật."
+            }
+        }
+    ]
+}

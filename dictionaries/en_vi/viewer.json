@@ -1,0 +1,52 @@
+{
+    "word": "viewer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvyo͞oər/",
+            "/ˈvjuər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvjuːə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người xem",
+            "type": "noun",
+            "example": {
+                "en": "So a viewer enters the space, and they snap to attention.",
+                "vi": "Và người xem bước vào phòng, và họ chú ý ngay đến chúng."
+            }
+        },
+        {
+            "content": "người khám xét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thẩm tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người xem truyền hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người quan sát",
+            "type": "noun",
+            "example": {
+                "en": "the viewers have become the viewed.",
+                "vi": "những người quan sát trở thành người bị quan sát."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "edict",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēdikt/",
+            "/ˈidɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːdɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sắc lệnh",
+            "type": "noun",
+            "example": {
+                "en": "A similar edict banished the Muslims ten years later.",
+                "vi": "Mười năm sau, một sắc lệnh tương tự cũng được ban ra để trục xuất người Hồi giáo."
+            }
+        },
+        {
+            "content": "chỉ dụ",
+            "type": "noun",
+            "example": {
+                "en": "11 Happily, though, many sincere people refused to follow these edicts.",
+                "vi": "11 Dù vậy, vui mừng là nhiều người chân thật không chịu nghe theo những chỉ dụ này."
+            }
+        },
+        {
+            "content": "dụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "fractional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrakSH(ə)n(ə)l/",
+            "/ˈfrækʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrakʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bé li ti",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một phần",
+            "type": "",
+            "example": {
+                "en": "I can sell it at a fraction of the cost of a normal mission.",
+                "vi": "Tôi có thể bán nó với giá bằng một phần của sứ mệnh thông thường."
+            }
+        },
+        {
+            "content": "phân số",
+            "type": "noun",
+            "example": {
+                "en": "of the best person in the world teaching fractions.",
+                "vi": "của người giỏi nhất thế giới dạy phân số."
+            }
+        },
+        {
+            "content": "phân đoạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rất nhỏ bé",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc phân số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rất nhỏ",
+            "type": "",
+            "example": {
+                "en": "We could see just a tiny fraction of what the parasite really looked like.",
+                "vi": "Chúng ta mới chỉ thấy được phần rất nhỏ của kí sinh trùng."
+            }
+        }
+    ]
+}

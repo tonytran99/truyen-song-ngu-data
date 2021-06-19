@@ -1,0 +1,52 @@
+{
+    "word": "glittering",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlidəriNG/",
+            "/ˈɡlɪdərɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlɪtərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lấp lánh",
+            "type": "noun",
+            "example": {
+                "en": "Oh, where did I put my glitter pen?",
+                "vi": "Cái bút lấp lánh của mình đâu nhỉ?"
+            }
+        },
+        {
+            "content": "chói lọi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rực rỡ",
+            "type": "noun",
+            "example": {
+                "en": "Instead, he went on to build a glittering empire of department stores.",
+                "vi": "Thay vào đó, ông bắt tay xây dựng một đế chế rực rỡ các cửa hàng bách hóa."
+            }
+        },
+        {
+            "content": "sáng loáng",
+            "type": "adjective",
+            "example": {
+                "en": "The roof is glittering in the sunshine.",
+                "vi": "Mái nhà sáng loáng dưới ánh nắng mặt trời."
+            }
+        }
+    ]
+}

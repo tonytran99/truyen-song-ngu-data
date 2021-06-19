@@ -1,0 +1,63 @@
+{
+    "word": "flunk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fləNGk/",
+            "/fləŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flʌŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {
+                "en": "He flunked with flying colors.",
+                "vi": "Ông ấy làm hỏng bài kiểm tra với kêt quả mĩ mãn."
+            }
+        },
+        {
+            "content": "chịu thua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hỏng thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thi trượt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rút lui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thi trượt",
+            "type": "",
+            "example": {
+                "en": "he got expelled or at least flunked out.",
+                "vi": "Nó bị đuổi học hoặc ít nhất là thi trượt."
+            }
+        },
+        {
+            "content": "đánh hỏng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "gingerly",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjinjərlē/",
+            "/ˈdʒɪndʒərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪndʒəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thận trọng",
+            "type": "adverb",
+            "example": {
+                "en": "And they walked into this cafe quietly, tentatively, gingerly, a little anxious.",
+                "vi": "Và họ bước vào tiệm im lặng, ngập ngừng, thận trọng, đôi chút lo lắng."
+            }
+        },
+        {
+            "content": "cẩn thận",
+            "type": "adverb",
+            "example": {
+                "en": "and then they gingerly put it on top,",
+                "vi": "cẩn thận đặt trên đỉnh của kết cấu,"
+            }
+        },
+        {
+            "content": "gượng nhẹ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rón rén",
+            "type": "adverb",
+            "example": {
+                "en": "Reaching, I gingerly pulled a small branch closer.",
+                "vi": "Tôi với tay rón rén kéo xuống một cành cây nhỏ gần hơn."
+            }
+        }
+    ]
+}

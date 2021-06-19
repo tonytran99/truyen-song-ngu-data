@@ -1,0 +1,50 @@
+{
+    "word": "vogue",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vōɡ/",
+            "/voʊɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəʊɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời trang",
+            "type": "noun",
+            "example": {
+                "en": "We're back in vogue.",
+                "vi": "Chúng ta trở lại với thời trang."
+            }
+        },
+        {
+            "content": "mốt",
+            "type": "numeral noun",
+            "example": {}
+        },
+        {
+            "content": "cái đang thịnh hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái đang được chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịnh hành",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

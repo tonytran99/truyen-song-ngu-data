@@ -1,0 +1,42 @@
+{
+    "word": "compute",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpyo͞ot/",
+            "/kəmˈpjut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpjuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính toán",
+            "type": "",
+            "example": {
+                "en": "The Internet of today is a platform for computation.",
+                "vi": "Internet của ngày hôm nay là nền tảng cho việc tính toán."
+            }
+        },
+        {
+            "content": "ước tính",
+            "type": "",
+            "example": {
+                "en": "It computes on what it was doing before",
+                "vi": "Chúng sẽ ước tính trước đó chúng đã làm gì"
+            }
+        },
+        {
+            "content": "tính toaùn, öôùc tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

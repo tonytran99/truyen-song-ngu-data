@@ -1,0 +1,47 @@
+{
+    "word": "cerebellum",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌserəˈbeləm/",
+            "/ˌsɛrəˈbɛləm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsɛrɪˈbɛləm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuộc não",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thuộc óc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiểu não",
+            "type": "noun",
+            "example": {
+                "en": "My money's on the cerebellum.",
+                "vi": "Tôi cá là vấn đề ở tiểu não."
+            }
+        },
+        {
+            "content": "Tiểu não",
+            "type": "",
+            "example": {
+                "en": "The cerebellum coordinates the muscle movements ordered by the motor cortex .",
+                "vi": "Tiểu não phối hợp chuyển động cơ do vỏ não vận động yêu cầu ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "humanism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)yo͞oməˌnizəm/",
+            "/ˈ(h)juməˌnɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhjuːmənɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ nghĩa nhân đạo",
+            "type": "noun",
+            "example": {
+                "en": "I thought we agreed that empathy was the foundation of all humanism.",
+                "vi": "Tôi nghĩ chúng ta tán thành rằng cảm thông là nền tảng của mọi chủ nghĩa nhân đạo."
+            }
+        },
+        {
+            "content": "chủ nghĩa nhân văn",
+            "type": "noun",
+            "example": {
+                "en": "They were an ancient brotherhood committed to humanism.",
+                "vi": "Họ có những người anh em hướng theo chủ nghĩa nhân văn."
+            }
+        },
+        {
+            "content": "nhân văn chủ nghỉa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "主義人道",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "人文主義",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

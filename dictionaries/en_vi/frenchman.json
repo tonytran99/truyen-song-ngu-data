@@ -1,0 +1,44 @@
+{
+    "word": "frenchman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfren(t)SHmən/",
+            "/ˈfrɛn(t)ʃmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛn(t)ʃmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người Pháp",
+            "type": "noun",
+            "example": {
+                "en": "He was a Frenchman. I could tell by his accent.",
+                "vi": "Anh ta là người Pháp. Tôi biết nhờ cách phát âm của anh ấy."
+            }
+        },
+        {
+            "content": "đàn ông Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nói tiếng Pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàu thuỷ Pháp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

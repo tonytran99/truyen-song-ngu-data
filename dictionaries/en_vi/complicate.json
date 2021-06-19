@@ -1,0 +1,56 @@
+{
+    "word": "complicate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämpləˌkāt/",
+            "/ˈkɑmpləˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmplɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm phức tạp",
+            "type": "",
+            "example": {
+                "en": "which acts to temper and complicate",
+                "vi": "có tác dụng ôn hòa và làm phức tạp"
+            }
+        },
+        {
+            "content": "làm rắc rối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phức tạp",
+            "type": "adjective",
+            "example": {
+                "en": "In reality, the explanation is a bit more complicated than this, but you get the gist.",
+                "vi": "Trong thực tế, giải thích là một chút phức tạp hơn điều này, nhưng bạn nắm được ý chính."
+            }
+        },
+        {
+            "content": "phức tạp hóa",
+            "type": "",
+            "example": {
+                "en": "But if you complicate your question just a little bit and ask something like,",
+                "vi": "Nhưng nếu bạn phức tạp hóa những câu hỏi của mình một chút, và hỏi những câu như,"
+            }
+        },
+        {
+            "content": "đa đoan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

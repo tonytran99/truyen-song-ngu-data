@@ -1,0 +1,55 @@
+{
+    "word": "hyphen",
+    "type": [
+        "verb",
+        "noun",
+        "conjunction",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīfən/",
+            "/ˈhaɪfən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪf(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dấu nối",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gạch nối",
+            "type": "noun",
+            "example": {
+                "en": "Yeah, he's one of those \" hyphenates. \"",
+                "vi": "Ừ, anh ấy là một trong số những \" gạch nối \"."
+            }
+        },
+        {
+            "content": "dấu gạch nối",
+            "type": "",
+            "example": {
+                "en": "Imagine — we still spell \"teen-ager\" with a hyphen,",
+                "vi": "Thử nghĩ xem — chúng tôi vẫn còn viết chữ \"teen-ager\" có dấu gạch nối,"
+            }
+        },
+        {
+            "content": "gạch dấu nối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quâng ngắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

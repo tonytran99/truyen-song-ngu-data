@@ -1,0 +1,54 @@
+{
+    "word": "governance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəvərnəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌv(ə)nəns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cai trị",
+            "type": "",
+            "example": {
+                "en": "Will human experiments in government go on indefinitely?",
+                "vi": "Những thử nghiệm trong sự cai trị của con người sẽ tiếp tục vô hạn định không?"
+            }
+        },
+        {
+            "content": "chính phủ",
+            "type": "noun",
+            "example": {
+                "en": "The policy of the government was criticized by the opposition party.",
+                "vi": "Chính sách của chính phủ bị phê phán bởi đảng đối lập."
+            }
+        },
+        {
+            "content": "nhiệm vụ cai quản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cai quản",
+            "type": "",
+            "example": {
+                "en": "to fill that governance space,",
+                "vi": "để lấp đầy khoảng trống của sự cai quản đó"
+            }
+        },
+        {
+            "content": "sự thống trị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

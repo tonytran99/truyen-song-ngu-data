@@ -1,0 +1,116 @@
+{
+    "word": "buzz",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu vo vo",
+            "type": "",
+            "example": {
+                "en": "Your ears aren't buzzing?",
+                "vi": "Tai cô chưa kêu vo vo sao?"
+            }
+        },
+        {
+            "content": "cưa tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu vù vù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lan truyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liệng mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ném mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rì rầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tin đồn",
+            "type": "",
+            "example": {
+                "en": "You know I'm always tracking the buzz on who's moving what and where.",
+                "vi": "Anh biết tôi để ý mấy tin đồn về ai đang làm gì và đi đâu mà."
+            }
+        },
+        {
+            "content": "tiêng ồn ào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng rì rầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng vo vo",
+            "type": "",
+            "example": {
+                "en": "The accompanying result may be tinnitus—a buzzing, ringing, or roaring in the ears or head.",
+                "vi": "Kết quả sau đó có lẽ là bị ù tai—tức tiếng vo vo, lùng bùng trong tai hoặc đầu."
+            }
+        },
+        {
+            "content": "tiếng vù vù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uống cạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uống hết sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xì xào",
+            "type": "verb",
+            "example": {
+                "en": "The whole town is buzzing with excitement.",
+                "vi": "Cả thị trấn đang xì xào bàn tán."
+            }
+        },
+        {
+            "content": "ồn ào",
+            "type": "adjective",
+            "example": {
+                "en": "All day long, it's buzzing, and at this hour, it's so desolate.",
+                "vi": "Cả ngày dài toàn là tiếng ồn ào, còn giờ này thì thật là trống vắng."
+            }
+        }
+    ]
+}

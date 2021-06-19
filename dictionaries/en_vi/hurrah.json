@@ -1,0 +1,51 @@
+{
+    "word": "hurrah",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈrä/",
+            "/həˈrɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʊˈrɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {
+                "en": "Give five hurrahs Give 12 hip-hips",
+                "vi": "♪ Chúc mừng 5 lần và hoan hô 12 lần ♪"
+            }
+        },
+        {
+            "content": "萬歲",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "vạn tuế",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "a ha",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "tiếng hoan hô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

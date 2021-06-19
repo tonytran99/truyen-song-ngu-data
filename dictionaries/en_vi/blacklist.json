@@ -1,0 +1,35 @@
+{
+    "word": "blacklist",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblakˌlist/",
+            "/ˈblækˌlɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblaklɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "danh sách đen",
+            "type": "",
+            "example": {
+                "en": "I understand you have a blacklist of violent men.",
+                "vi": "Tôi hiểu bà có một danh sách đen của những tên bạo lực."
+            }
+        },
+        {
+            "content": "sổ bìa đen",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

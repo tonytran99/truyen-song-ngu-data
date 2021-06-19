@@ -1,0 +1,50 @@
+{
+    "word": "unsafe",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsāf/",
+            "/ˌənˈseɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈseɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguy hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "My community will not feel we are unsafe walking home after dark.",
+                "vi": "Cộng đồng của tôi sẽ không cảm thấy nguy hiểm đi bộ về nhà lúc tối."
+            }
+        },
+        {
+            "content": "không an toàn",
+            "type": "adjective",
+            "example": {
+                "en": "Is it possible to protect your family from unsafe food?",
+                "vi": "Bạn có thể bảo vệ gia đình mình khỏi thực phẩm không an toàn không?"
+            }
+        },
+        {
+            "content": "bất an",
+            "type": "adjective",
+            "example": {
+                "en": "What has caused billions worldwide to feel unsafe?",
+                "vi": "Điều gì khiến hàng tỉ người trên thế giới cảm thấy bất an?"
+            }
+        },
+        {
+            "content": "không chắc chắn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

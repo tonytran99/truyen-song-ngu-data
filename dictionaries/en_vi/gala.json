@@ -1,0 +1,46 @@
+{
+    "word": "gala",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡālə/",
+            "/ˈɡeɪlə/",
+            "/ˈɡalə/",
+            "/ˈɡælə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːlə/",
+            "/ˈɡeɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hội",
+            "type": "noun",
+            "example": {
+                "en": "Quite the gala, I imagine.",
+                "vi": "Anh nghĩ cũng giống như hội hè vậy."
+            }
+        },
+        {
+            "content": "hội hè",
+            "type": "noun",
+            "example": {
+                "en": "Quite the gala, I imagine.",
+                "vi": "Anh nghĩ cũng giống như hội hè vậy."
+            }
+        },
+        {
+            "content": "lễ lớn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

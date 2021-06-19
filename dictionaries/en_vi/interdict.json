@@ -1,0 +1,77 @@
+{
+    "word": "interdict",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)ərˌdikt/",
+            "/ˈɪn(t)ərˌdɪkt/",
+            "/ˌin(t)ərˈdikt/",
+            "/ˌɪn(t)ərˈdɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntədɪkt/",
+            "/ˌɪntəˈdɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấm",
+            "type": "determiner",
+            "example": {}
+        },
+        {
+            "content": "cấm chỉ",
+            "type": "",
+            "example": {
+                "en": "There is no real name for the interdiction.",
+                "vi": "Không có tên thật cho sự cấm chỉ này."
+            }
+        },
+        {
+            "content": "huyền chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai trừ",
+            "type": "",
+            "example": {
+                "en": "to isolate and interdict their actions,",
+                "vi": "với mục tiêu cách ly và khai trừ tội ác của chúng."
+            }
+        },
+        {
+            "content": "sự cấm",
+            "type": "",
+            "example": {
+                "en": "There is no real name for the interdiction.",
+                "vi": "Không có tên thật cho sự cấm chỉ này."
+            }
+        },
+        {
+            "content": "sự cấm chỉ",
+            "type": "",
+            "example": {
+                "en": "There is no real name for the interdiction.",
+                "vi": "Không có tên thật cho sự cấm chỉ này."
+            }
+        },
+        {
+            "content": "sự huyền chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khai trừ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

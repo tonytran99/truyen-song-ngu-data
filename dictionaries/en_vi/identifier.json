@@ -1,0 +1,34 @@
+{
+    "word": "identifier",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īˈden(t)əˌfīər/",
+            "/aɪˈdɛn(t)əˌfaɪər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪˈdɛntɪfʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "định danh",
+            "type": "",
+            "example": {
+                "en": "Part of Mia's assignment was to identify him.",
+                "vi": "Một phần nhiệm vụ giao cho Mia là xác định danh tính của hắn."
+            }
+        },
+        {
+            "content": "mã định danh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

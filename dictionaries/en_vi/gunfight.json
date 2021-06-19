@@ -1,0 +1,30 @@
+{
+    "word": "gunfight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡənˌfīt/",
+            "/ˈɡənˌfaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌnfʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc đọ súng",
+            "type": "noun",
+            "example": {
+                "en": "Why is this shepherd walking around after a gunfight?",
+                "vi": "Tại sao lũ cừu này lại được thả ra sau một cuộc đọ súng chứ?"
+            }
+        }
+    ]
+}

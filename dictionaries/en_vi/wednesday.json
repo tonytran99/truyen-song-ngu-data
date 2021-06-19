@@ -1,0 +1,44 @@
+{
+    "word": "wednesday",
+    "type": [
+        "adverb",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwenzdā/",
+            "/ˈwɛnzdeɪ/",
+            "/ˈwenzdē/",
+            "/ˈwɛnzdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛnzdeɪ/",
+            "/ˈwɛnzdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Wednesday ngày thứ tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thöù tö",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thứ tư",
+            "type": "noun",
+            "example": {
+                "en": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+                "vi": "Ngày mai là thứ Tư và ngày kia là thứ Năm."
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "kip",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kip/",
+            "/kɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kíp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kíp Lào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngủ",
+            "type": "noun",
+            "example": {
+                "en": "If you wanna get some kip, now's a good time because we're still a few hours out.",
+                "vi": "Nếu anh muốn ngủ chút, giờ là lúc thích hợp đấy vì chúng ta còn bay vài giờ nữa cơ."
+            }
+        },
+        {
+            "content": "giường",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chỗ ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "da súc vật non",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà trọ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

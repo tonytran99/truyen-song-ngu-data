@@ -1,0 +1,47 @@
+{
+    "word": "indictment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdītmənt/",
+            "/ɪnˈdaɪtmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʌɪtm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản cáo trạng",
+            "type": "noun",
+            "example": {
+                "en": "We can use that to prepare our defense in case there's an indictment.",
+                "vi": "Ta có thể dùng nó để chuẩn bị phòng thủ trong trường hợp có bản cáo trạng."
+            }
+        },
+        {
+            "content": "cáo trạng",
+            "type": "noun",
+            "example": {
+                "en": "Probably some major federal indictment of somebody who majorly does not wanna get indicted.",
+                "vi": "Hầu như những bảng cáo trạng của cảnh sát liên bang của một ai đó bị buộc tội."
+            }
+        },
+        {
+            "content": "sự buộc tội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự truy tố",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

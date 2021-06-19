@@ -1,0 +1,44 @@
+{
+    "word": "influx",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌfləks/",
+            "/ˈɪnˌfləks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnflʌks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dòng",
+            "type": "verb noun",
+            "example": {
+                "en": "An influx of refugees has caused foreign-speaking territories to open up.",
+                "vi": "Dòng người tị nạn đã góp phần hình thành những khu vực tiếng nước ngoài."
+            }
+        },
+        {
+            "content": "cửa sông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự chảy vào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tràn vào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

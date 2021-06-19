@@ -1,0 +1,50 @@
+{
+    "word": "grandchild",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)ˌCHīld/",
+            "/ˈɡræn(d)ˌtʃaɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)tʃʌɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cháu",
+            "type": "noun",
+            "example": {
+                "en": "Give me a grandchild or I will have you replaced.",
+                "vi": "Sinh cháu cho tao không tao đá mày đi để tìm thằng khác."
+            }
+        },
+        {
+            "content": "cháu của ông/ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cháu ngoại",
+            "type": "",
+            "example": {
+                "en": "In the words of my teenage grandchild: “Because They love me!",
+                "vi": "Theo lời của đứa cháu ngoại tuổi niên thiếu của tôi: “Vì hai Ngài yêu thương con!"
+            }
+        },
+        {
+            "content": "cháu nội",
+            "type": "",
+            "example": {
+                "en": "This was our grandchild whom we loved and wanted to be near.",
+                "vi": "Đây là đứa cháu nội chúng tôi yêu thương và muốn được sống gần nó."
+            }
+        }
+    ]
+}

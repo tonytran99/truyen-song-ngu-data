@@ -1,0 +1,61 @@
+{
+    "word": "deploy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈploi/",
+            "/dəˈplɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈplɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "triển khai",
+            "type": "",
+            "example": {
+                "en": "And since the Russians have deployed, we need to look at our own nuclear attack options.",
+                "vi": "Và vì người Nga đang triển khai, chúng ta cần xem xét việc tấn công bằng hạt nhân."
+            }
+        },
+        {
+            "content": "dàn quân",
+            "type": "",
+            "example": {
+                "en": "So the question is, where to deploy them?",
+                "vi": "Cho nên vấn đề là, chúng ta dàn quân ở đâu?"
+            }
+        },
+        {
+            "content": "dàn trận",
+            "type": "",
+            "example": {
+                "en": "He is supposed to be deployed in Afghanistan.",
+                "vi": "Đáng ra thì anh ta phải dàn trận ở Afghanistan chứ."
+            }
+        },
+        {
+            "content": "sự dàn quân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dàn trận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự triển khai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

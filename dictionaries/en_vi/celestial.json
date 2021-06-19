@@ -1,0 +1,51 @@
+{
+    "word": "celestial",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈlesCHəl/",
+            "/səˈlɛstʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈlɛstɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trời",
+            "type": "noun",
+            "example": {
+                "en": "You know, the celestial spotlight is shining down upon thee.",
+                "vi": "Ánh sáng trên bầu trời đang chiếu thẳng vào ông."
+            }
+        },
+        {
+            "content": "như thiên đàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vũ trụ",
+            "type": "noun",
+            "example": {
+                "en": "And he would know that for essentially every celestial object",
+                "vi": "Và cậu bé sẽ biết mọi vật thể trong vũ trụ"
+            }
+        },
+        {
+            "content": "thiên",
+            "type": "noun proper",
+            "example": {
+                "en": "A celestial type said something big's on its way.",
+                "vi": "Một thiên thần nói có một chuyện hệ trọng sắp xảy ra."
+            }
+        }
+    ]
+}

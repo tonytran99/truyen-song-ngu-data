@@ -1,0 +1,76 @@
+{
+    "word": "trolley",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈträlē/",
+            "/ˈtrɑli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɒli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tàu điện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "goòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh vẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cần vẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe dọn bàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe đẩy",
+            "type": "",
+            "example": {
+                "en": "Are you going, or do I have to get a food trolley and wheel you over there?",
+                "vi": "Anh có đi không, hay để tôi lấy một cái xe đẩy và đẩy anh tới đó?"
+            }
+        },
+        {
+            "content": "xe đẩy tay",
+            "type": "noun",
+            "example": {
+                "en": "and we Band-Aided it here, onto a gurney, a hospital trolley,",
+                "vi": "và dán nó ở đây, trên băng ca của xe đẩy tay,"
+            }
+        },
+        {
+            "content": "xe đẩy hàng",
+            "type": "",
+            "example": {
+                "en": "What is it about tower blocks and shopping trolleys?",
+                "vi": "Xe đẩy hàng và tòa nhà này thì có liên quan gì tới nhau nhỉ?"
+            }
+        }
+    ]
+}

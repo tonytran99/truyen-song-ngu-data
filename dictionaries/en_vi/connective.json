@@ -1,0 +1,74 @@
+{
+    "word": "connective",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnektiv/",
+            "/kəˈnɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nối",
+            "type": "verb",
+            "example": {
+                "en": "I can't connect to the Internet.",
+                "vi": "Tôi không thể kết nối vào mạng."
+            }
+        },
+        {
+            "content": "liên kết",
+            "type": "",
+            "example": {
+                "en": "I been lookin'into victimology, and so far, there's really nothing to connect the families.",
+                "vi": "Tôi đang nghiên cứu nạn nhân, đến giờ, không có liên kết giữa các gia đình."
+            }
+        },
+        {
+            "content": "bộ phận nối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái nối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên hợp",
+            "type": "",
+            "example": {
+                "en": "The connections, the interactions, the synapses.",
+                "vi": "Các liên kết, tương tác, các liên hợp,"
+            }
+        },
+        {
+            "content": "từ nối",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "để chấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để nối",
+            "type": "adjective",
+            "example": {
+                "en": "Not a single rock connects it to the seafloor.",
+                "vi": "Không một tảng đá nào để nối liền với đáy biển."
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "divergent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvərjənt/",
+            "/dəˈvərdʒənt/",
+            "/dīˈvərjənt/",
+            "/daɪˈvərdʒənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈvəːdʒ(ə)nt/",
+            "/dɪˈvəːdʒ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân kỳ",
+            "type": "",
+            "example": {
+                "en": "that explains this great divergence,",
+                "vi": "giải thích cho sự phân kỳ tuyệt vời này,"
+            }
+        },
+        {
+            "content": "rẽ ra",
+            "type": "",
+            "example": {
+                "en": "Two roads diverged in a wood, and I—",
+                "vi": "Có hai con đường rẽ ra trong một khu rừng, và tôi—"
+            }
+        },
+        {
+            "content": "trệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất đồng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "They have different interests. They have divergent values.",
+                "vi": "Chúng có sở thích khác nhau. Chúng có giá trị khác nhau."
+            }
+        },
+        {
+            "content": "sai biệt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sai lạc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trệch đi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

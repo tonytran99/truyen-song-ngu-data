@@ -1,0 +1,52 @@
+{
+    "word": "gondola",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡändələ/",
+            "/ˈɡɑndələ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒndələ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giỏ khí cầu",
+            "type": "",
+            "example": {
+                "en": "This is the envelope, and this is the gondola, the payload.",
+                "vi": "Đây là vỏ khỉ cầu, và đây là giỏ khí cầu, trọng tải."
+            }
+        },
+        {
+            "content": "gonđon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền gonđon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuyền đáy bằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Gondola",
+            "type": "",
+            "example": {
+                "en": "It is equally difficult to get to the origin of the gondola’s name.",
+                "vi": "Cũng không dễ xác định nguồn gốc của tên gọi gondola."
+            }
+        }
+    ]
+}

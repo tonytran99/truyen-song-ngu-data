@@ -1,0 +1,43 @@
+{
+    "word": "downpour",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdounpôr/",
+            "/ˈdaʊnpɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaʊnpɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mưa như trút nước",
+            "type": "",
+            "example": {
+                "en": "Downpours triggered landslides in the mountain town of Teresopolis , where 130 were reported to have died .",
+                "vi": "Trận mưa như trút nước đã gây lở đất ở tỉnh miền núi Teresopolis khiến 130 người được cho là thiệt mạng ."
+            }
+        },
+        {
+            "content": "mưa rào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận mưa lớn",
+            "type": "noun",
+            "example": {
+                "en": "Well, he mentions snow and downpours of rain.",
+                "vi": "Ông đề cập đến tuyết và trận mưa lớn."
+            }
+        }
+    ]
+}

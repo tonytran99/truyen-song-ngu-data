@@ -1,0 +1,122 @@
+{
+    "word": "inform",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfôrm/",
+            "/ɪnˈfɔrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɔːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thông báo",
+            "type": "noun",
+            "example": {
+                "en": "He informed me about the changes in the plan.",
+                "vi": "Nó thông báo cho tôi về những thay đổi trong kế hoạch."
+            }
+        },
+        {
+            "content": "báo",
+            "type": "noun verb",
+            "example": {
+                "en": "He informed me about the changes in the plan.",
+                "vi": "Nó thông báo cho tôi về những thay đổi trong kế hoạch."
+            }
+        },
+        {
+            "content": "báo tin cho",
+            "type": "",
+            "example": {
+                "en": "He informed me that there were numerous Witnesses in the Ohaji area.",
+                "vi": "Anh ấy báo tin cho tôi biết rằng có nhiều Nhân Chứng trong vùng Ohaji."
+            }
+        },
+        {
+            "content": "cho biết",
+            "type": "",
+            "example": {
+                "en": "Our informant reports that she's preparing for a fight.",
+                "vi": "Nguồn tin của chúng ta cho biết ả đang chuẩn bị chiến đấu."
+            }
+        },
+        {
+            "content": "chỉ điểm",
+            "type": "verb",
+            "example": {
+                "en": "None of our informants heard about this going down.",
+                "vi": "Không tên chỉ điểm nào biết về chuyện này."
+            }
+        },
+        {
+            "content": "cung cấp tin tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cung cấp tài liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông tin",
+            "type": "verb",
+            "example": {
+                "en": "You're not supposed to have that information.",
+                "vi": "Thông tin đó không dành cho bạn."
+            }
+        },
+        {
+            "content": "truyền cho",
+            "type": "",
+            "example": {
+                "en": "You take all that information, and you stream it to your players.",
+                "vi": "Bạn có thông tin, và truyền cho các cầu thủ"
+            }
+        },
+        {
+            "content": "đưa tin",
+            "type": "verb",
+            "example": {
+                "en": "I promised my informant I would keep her safe.",
+                "vi": "Tôi đã hứa với người đưa tin tôi sẽ giữ an toàn cho nó."
+            }
+        },
+        {
+            "content": "mách bảo",
+            "type": "noun",
+            "example": {
+                "en": "And then let's think how compassion informs wisdom,",
+                "vi": "Hãy nghĩ về lòng trắc ẩn đã mách bảo trí tuệ như thế nào,"
+            }
+        },
+        {
+            "content": "tố",
+            "type": "verb",
+            "example": {
+                "en": "Well it will inform the correct combination of elements.",
+                "vi": "Nó sẽ cho biết việc kết hợp các yêu tố chính xác."
+            }
+        },
+        {
+            "content": "baùo tin cho, cho bieát, cung caáp tin töùc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tố cáo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "chromatic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krōˈmadik/",
+            "/kroʊˈmædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəˈmatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nửa cung",
+            "type": "adjective",
+            "example": {
+                "en": "So people from Laventille repurposed the old drums left behind into the full chromatic scale: the steel pan.",
+                "vi": "Cho nên người dân từ Laventille sửa lại những cái thùng cũ bị bỏ lại thành một gam nửa cung đầy đủ: cái trống thép."
+            }
+        },
+        {
+            "content": "màu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sắc sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc có màu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

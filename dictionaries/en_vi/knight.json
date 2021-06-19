@@ -1,0 +1,98 @@
+{
+    "word": "knight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nīt/",
+            "/naɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệp sĩ",
+            "type": "noun",
+            "example": {
+                "en": "I can't knight you, but I can teach you how to fight.",
+                "vi": "Ta không thể phong cậu làm hiệp sĩ, nhưng ta có thể dạy cậu cách chiến đấu."
+            }
+        },
+        {
+            "content": "hiệp khách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kỵ sĩ",
+            "type": "",
+            "example": {
+                "en": "I'm getting a seat at the knight's table.",
+                "vi": "Ta sẽ có một ghế ở bàn kỵ sĩ."
+            }
+        },
+        {
+            "content": "phong tước hầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân cờ \"ddầu ngựa\"",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắc phong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiệp sỹ",
+            "type": "",
+            "example": {
+                "en": "As only a knight can love a knight.",
+                "vi": "Nhưng một hiệp sỹ với một hiệp sỹ."
+            }
+        },
+        {
+            "content": "người được phong tước",
+            "type": "",
+            "example": {
+                "en": "Don't take it too hard, we can't all be knighted.",
+                "vi": "Đừng gắng sức quá, chỉ một người được phong tước thôi."
+            }
+        },
+        {
+            "content": "quân mã",
+            "type": "",
+            "example": {
+                "en": "I am the king, Simon is my knight.",
+                "vi": "Tôi là quân tướng. Simon là quân mã."
+            }
+        },
+        {
+            "content": "Mã",
+            "type": "proper",
+            "example": {
+                "en": "I am the king, Simon is my knight.",
+                "vi": "Tôi là quân tướng. Simon là quân mã."
+            }
+        },
+        {
+            "content": "Hiệp sĩ",
+            "type": "",
+            "example": {
+                "en": "A knight, ugh, should be a knight, a monk a monk.",
+                "vi": "Hiệp sĩ là hiệp sĩ, thầy tu là thầy tu."
+            }
+        }
+    ]
+}

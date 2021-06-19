@@ -1,0 +1,47 @@
+{
+    "word": "aberrant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabərənt/",
+            "/ˈæbərənt/",
+            "/əˈberənt/",
+            "/əˈbɛrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbɛr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác thường",
+            "type": "adjective",
+            "example": {
+                "en": "What's interesting about this experiment is that it's not an aberration.",
+                "vi": "Và điều hấp dẫn là cuộc thí nghiệm này không phải là một trường hợp khác thường."
+            }
+        },
+        {
+            "content": "lầm lạc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sai lệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất cách",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

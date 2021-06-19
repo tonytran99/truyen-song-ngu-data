@@ -1,0 +1,35 @@
+{
+    "word": "jobless",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjäbləs/",
+            "/ˈdʒɑbləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɒbləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có việc làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất nghiệp",
+            "type": "",
+            "example": {
+                "en": "The improving jobless rate reflects growth in the economy .",
+                "vi": "Tỉ lệ thất nghiệp đang được cải thiện phản ánh mức tăng trưởng trong nền kinh tế ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "cupcake",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəpˌkāk/",
+            "/ˈkəpˌkeɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌpkeɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh nướng nhỏ",
+            "type": "",
+            "example": {
+                "en": "Alyssa volunteered to help transport the cupcakes to the stake center.",
+                "vi": "Alyssa tình nguyện giúp chở những cái bánh nướng nhỏ đó đến trung tâm giáo khu."
+            }
+        }
+    ]
+}

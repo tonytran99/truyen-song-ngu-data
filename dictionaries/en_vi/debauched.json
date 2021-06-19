@@ -1,0 +1,53 @@
+{
+    "word": "debauched",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈbôCHt/",
+            "/dəˈbɔtʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈbɔːtʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trụy lạc",
+            "type": "adjective",
+            "example": {
+                "en": "I write this in the interest of the people, who are being neglected by a debauched king.",
+                "vi": "Tôi viết thư này trên danh nghĩa những người, bị bỏ rơi bởi 1 ông vua trụy lạc."
+            }
+        },
+        {
+            "content": "trác táng",
+            "type": "adjective",
+            "example": {
+                "en": "(Luke 15:20) Even if the father has heard of his son’s debauched living, he welcomes his son back.",
+                "vi": "Dù đã nghe về lối sống trác táng của con mình, người cha vẫn chào đón con trở về."
+            }
+        },
+        {
+            "content": "dâm đãng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phóng đãng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đồi bại",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "fertile",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːtʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "màu mỡ",
+            "type": "",
+            "example": {
+                "en": "They make the humus, the fertile layer to which all life on land is linked.",
+                "vi": "Chúng tạo lớp đất mùn màu mỡ liên kết mọi loài sống trên cạn."
+            }
+        },
+        {
+            "content": "phì nhiêu",
+            "type": "adjective",
+            "example": {
+                "en": "The family is reunited and settled in the fertile land of Goshen.",
+                "vi": "Gia đình sum họp và định cư tại xứ phì nhiêu Gô-sen."
+            }
+        },
+        {
+            "content": "tốt giống",
+            "type": "",
+            "example": {
+                "en": "I haven't exactly been fertile ground for planting little, baby Kev seedlings.",
+                "vi": "Tớ không chắc mình tốt giống để đẻ con cho Kev."
+            }
+        },
+        {
+            "content": "tốt",
+            "type": "adjective",
+            "example": {
+                "en": "I haven't exactly been fertile ground for planting little, baby Kev seedlings.",
+                "vi": "Tớ không chắc mình tốt giống để đẻ con cho Kev."
+            }
+        }
+    ]
+}

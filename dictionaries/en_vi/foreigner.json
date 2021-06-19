@@ -1,0 +1,58 @@
+{
+    "word": "foreigner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrənər/",
+            "/ˈfɔrənər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɒrɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người nước ngoài",
+            "type": "noun",
+            "example": {
+                "en": "In Japan the ceilings are quite low for foreigners.",
+                "vi": "Đối với người nước ngoài thì ở Nhật trần nhà khá thấp."
+            }
+        },
+        {
+            "content": "người ngoại quốc",
+            "type": "noun",
+            "example": {
+                "en": "There are over two million foreigners are in Paris at this time of year.",
+                "vi": "Hơn hai triệu người ngoại quốc tới Paris trong mùa này."
+            }
+        },
+        {
+            "content": "tàu nước ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người nước ngoài",
+            "type": "",
+            "example": {
+                "en": "In Japan the ceilings are quite low for foreigners.",
+                "vi": "Đối với người nước ngoài thì ở Nhật trần nhà khá thấp."
+            }
+        },
+        {
+            "content": "người lạ",
+            "type": "noun",
+            "example": {
+                "en": "What are our feelings toward strangers, or foreigners?",
+                "vi": "Chúng ta cảm thấy thế nào về người lạ hay người nước ngoài?"
+            }
+        }
+    ]
+}

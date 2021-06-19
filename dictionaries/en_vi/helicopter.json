@@ -1,0 +1,51 @@
+{
+    "word": "helicopter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheləˌkäptər/",
+            "/ˈhɛləˌkɑptər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛlɪkɒptə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy bay lên thẳng",
+            "type": "noun",
+            "example": {
+                "en": "I'll direct you from the helicopter.",
+                "vi": "Ta sẽ chỉ huy từ máy bay lên thẳng."
+            }
+        },
+        {
+            "content": "máy bay trực thăng",
+            "type": "noun",
+            "example": {
+                "en": "We took this photo next to the helicopter.",
+                "vi": "Chúng tôi chụp hình này cạnh máy bay trực thăng."
+            }
+        },
+        {
+            "content": "trực thăng",
+            "type": "noun",
+            "example": {
+                "en": "Did you see how he turned the helicopter?",
+                "vi": "Thấy hắn quẹo chiếc trực thăng thế nào không?"
+            }
+        },
+        {
+            "content": "Máy bay trực thăng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

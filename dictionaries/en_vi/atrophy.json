@@ -1,0 +1,61 @@
+{
+    "word": "atrophy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈatrəfē/",
+            "/ˈætrəfi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈatrəfi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự teo",
+            "type": "",
+            "example": {
+                "en": "It prevents atrophy by",
+                "vi": "Nó ngăn cản sự teo cơ...."
+            }
+        },
+        {
+            "content": "hao mòn",
+            "type": "",
+            "example": {
+                "en": "Is all of our brain going to start to shrink and atrophy like that?",
+                "vi": "Có phải bộ não của tất cả chúng ta đều bắt đầu teo nhỏ và hao mòn như vậy?"
+            }
+        },
+        {
+            "content": "làm hao mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm teo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hao mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "teo đi",
+            "type": "",
+            "example": {
+                "en": "Cerebral cortex atrophies in coma patients.",
+                "vi": "Vỏ não ở bệnh nhân hôn mê bị teo đi."
+            }
+        }
+    ]
+}

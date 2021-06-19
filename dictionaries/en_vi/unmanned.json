@@ -1,0 +1,38 @@
+{
+    "word": "unmanned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈmand/",
+            "/ˌənˈmænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈmand/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có người",
+            "type": "adjective",
+            "example": {
+                "en": "It was unmanned, so nobody was hurt,",
+                "vi": "Không có người ở đó nên không ai bị thương."
+            }
+        },
+        {
+            "content": "tự động",
+            "type": "",
+            "example": {
+                "en": "Consumer electronics, next generation prosthetics, unmanned military applications.",
+                "vi": "Đồ điện tử tiêu dùng, thế hệ chi giả tiếp theo, ứng dụng quân sự tự động."
+            }
+        }
+    ]
+}

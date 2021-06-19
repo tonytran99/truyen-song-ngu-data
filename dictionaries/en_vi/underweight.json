@@ -1,0 +1,55 @@
+{
+    "word": "underweight",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈwāt/",
+            "/ˌəndərˈweɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈweɪt/",
+            "/ˈʌndəweɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhẹ cân",
+            "type": "noun",
+            "example": {
+                "en": "If you were overweight or underweight before pregnancy , your health care provider may have different recommendations for weight gain",
+                "vi": "Nếu bạn béo phì hay nhẹ cân trước thai kỳ thì bác sĩ có thể cho bạn nhiều khuyến nghị khác về tăng cân ."
+            }
+        },
+        {
+            "content": "trọng lượng quá nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Suy dinh dưỡng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy dinh dưỡng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu cân",
+            "type": "noun",
+            "example": {
+                "en": "Cubs that were born underweight are at the greatest risk.",
+                "vi": "Những con gấu con sinh ra thiếu cân thì nguy cơ là cao nhất."
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "word": "whisper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)wispər/",
+            "/ˈ(h)wɪspər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪspə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thì thầm",
+            "type": "verb",
+            "example": {
+                "en": "I whispered , but my husband had left the room to water the plants .",
+                "vi": "Tôi thì thầm , nhưng chồng tôi đã ra khỏi phòng để tưới cây ."
+            }
+        },
+        {
+            "content": "nói thầm",
+            "type": "",
+            "example": {
+                "en": "You know, if you talk low like this, it's actually harder to hear than a whisper.",
+                "vi": "Em biết không, nếu em hạ thấp giọng như vậy, thật ra còn khó nghe hơn cả tiếng nói thầm đấy."
+            }
+        },
+        {
+            "content": "xì xào",
+            "type": "verb",
+            "example": {
+                "en": "All I need in return are whispers.",
+                "vi": "Những gì ta cần chỉ là những lời xì xào."
+            }
+        },
+        {
+            "content": "rì rầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xào xạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời thì thầm",
+            "type": "noun",
+            "example": {
+                "en": "It's not hardly a whisper, but you can hear it.",
+                "vi": "Gần như là lời thì thầm nhưng các người có thể nghe được."
+            }
+        },
+        {
+            "content": "dỉ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bí mật phao lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời gợi ý bí mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói nhỏ",
+            "type": "",
+            "example": {
+                "en": "How can these cars whisper, \"You need to get out of the way?\"",
+                "vi": "Làm sao để mấy xe này nói nhỏ. \"Anh làm ơn đi tránh đường với?\""
+            }
+        },
+        {
+            "content": "rầm rì",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thì thào",
+            "type": "verb",
+            "example": {
+                "en": "They heard Lecter whispering to him all afternoon and Miggs crying.",
+                "vi": "Lính cần vụ nghe Lecter thì thào với hắn suốt buổi chiều."
+            }
+        },
+        {
+            "content": "tin đồn kín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng nói thầm",
+            "type": "noun",
+            "example": {
+                "en": "You know, if you talk low like this, it's actually harder to hear than a whisper.",
+                "vi": "Em biết không, nếu em hạ thấp giọng như vậy, thật ra còn khó nghe hơn cả tiếng nói thầm đấy."
+            }
+        },
+        {
+            "content": "tiếng xì xào",
+            "type": "noun",
+            "example": {
+                "en": "Einstein, did you hear whispers?",
+                "vi": "Einstein, em có nghe thấy tiếng xì xào không?"
+            }
+        },
+        {
+            "content": "tiếng đồn kín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xì xào bàn tán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "wallpaper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôlˌpāpər/",
+            "/ˈwɔlˌpeɪpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːlpeɪpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giấy dán tường",
+            "type": "noun",
+            "example": {
+                "en": "Maybe we should have taken the teddy bear wallpaper?",
+                "vi": "Có lẽ chúng ta nên mua giấy dán tường gấu bông."
+            }
+        },
+        {
+            "content": "hình nền",
+            "type": "noun",
+            "example": {
+                "en": "Some models I 've tested even automatically imported the \" wallpaper \" photo that I had on my previous phone .",
+                "vi": "Một số mẫu mà tôi thử nghiệm thậm chí còn tự động tải hình nền mà tôi có trên điện thoại cũ ."
+            }
+        },
+        {
+            "content": "Phông nền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "cavalry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkavəlrē/",
+            "/ˈkævəlri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkav(ə)lri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỵ binh",
+            "type": "noun",
+            "example": {
+                "en": "He's going to bring that cavalry over fast as he can.",
+                "vi": "Hắn sẽ đưa bọn kỵ binh qua đây nhanh hết mức. Phải."
+            }
+        },
+        {
+            "content": "cavalier",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Kỵ binh",
+            "type": "",
+            "example": {
+                "en": "He's scouted some and ridden dispatch some for the cavalry.",
+                "vi": "Hắn từng là trinh sát và bây giờ đang chuyển thư cho Kỵ binh."
+            }
+        }
+    ]
+}

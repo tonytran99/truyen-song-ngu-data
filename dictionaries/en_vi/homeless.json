@@ -1,0 +1,61 @@
+{
+    "word": "homeless",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmləs/",
+            "/ˈhoʊmləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmlɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô gia cư",
+            "type": "adjective",
+            "example": {
+                "en": "Other homeless people didn't see me as homeless, but I did.",
+                "vi": "Những người không nhà khác không cho tôi là người vô gia cư, nhưng tôi thì có."
+            }
+        },
+        {
+            "content": "không cửa không nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màn trời chiếu đất",
+            "type": "adjective",
+            "example": {
+                "en": "An additional 1.3 million were rendered homeless in an instant.",
+                "vi": "Trong phút chốc, 1.300.000 người rơi vào cảnh màn trời chiếu đất."
+            }
+        },
+        {
+            "content": "khoâng coù nhaø ôû, voâ gia cö",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lang thang",
+            "type": "verb",
+            "example": {
+                "en": "You were begging on the street and fighting with a homeless woman.",
+                "vi": "Cô đã đi ăn xin trên phố và đánh nhau với người phụ nữ lang thang."
+            }
+        },
+        {
+            "content": "nguoi khong nha",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "word": "worrying",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərēiNG/",
+            "/ˈwəriɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwʌrɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng lo ngại",
+            "type": "",
+            "example": {
+                "en": "Now you might think this is a worrying idea.",
+                "vi": "Bạn sẽ nghĩ rằng khái niệm này rất đáng lo ngại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "lathe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lāT͟H/",
+            "/leɪð/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/leɪð/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy tiện",
+            "type": "noun",
+            "example": {
+                "en": "The daily walk, the lathe, the geometry lessons?",
+                "vi": "Đi bộ hàng ngày, quanh quẩn bên máy tiện và các bài toán hình học chứ?"
+            }
+        },
+        {
+            "content": "bàn tiện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiện",
+            "type": "adjective",
+            "example": {
+                "en": "The daily walk, the lathe, the geometry lessons?",
+                "vi": "Đi bộ hàng ngày, quanh quẩn bên máy tiện và các bài toán hình học chứ?"
+            }
+        }
+    ]
+}

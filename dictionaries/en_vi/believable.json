@@ -1,0 +1,42 @@
+{
+    "word": "believable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈlēvəb(ə)l/",
+            "/bəˈlivəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈliːvəbl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể tin được",
+            "type": "",
+            "example": {
+                "en": "Here is a leader I could believe in.”",
+                "vi": "Ngài là một đấng Lãnh đạo mà em có thể tin được”."
+            }
+        },
+        {
+            "content": "đáng tin cậy",
+            "type": "",
+            "example": {
+                "en": "Your valuations are no longer believable.",
+                "vi": "Các đánh giá của ông không còn đáng tin cậy."
+            }
+        },
+        {
+            "content": "giống như thật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

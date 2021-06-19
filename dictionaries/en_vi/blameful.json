@@ -1,0 +1,59 @@
+{
+    "word": "blameful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblāmf(ə)l/",
+            "/ˈbleɪmf(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbleɪmf(ə)l/",
+            "/ˈbleɪmfʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "blameworthy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khiển trách",
+            "type": "",
+            "example": {
+                "en": "Everybody blames me for my careless mistake.",
+                "vi": "Mọi người khiển trách sai lầm của tôi."
+            }
+        },
+        {
+            "content": "trách mắng",
+            "type": "",
+            "example": {
+                "en": "Bowing to the dead, recognising blame, my own personal blame.",
+                "vi": "Cúi mình trước cái chết, chấp nhận lời trách mắng, tội lỗi của chính mình."
+            }
+        },
+        {
+            "content": "đổ lỗi cho",
+            "type": "",
+            "example": {
+                "en": "Are you blaming me?",
+                "vi": "Anh đổ lỗi cho tôi ư?"
+            }
+        },
+        {
+            "content": "đổ tội cho",
+            "type": "",
+            "example": {
+                "en": "And now the Sheriff, he's blaming you and your brother for what happened last night.",
+                "vi": "Và giờ cảnh sát trưởng, đổ tội cho hai người về những việc xãy ra tối qua."
+            }
+        }
+    ]
+}

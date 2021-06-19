@@ -1,0 +1,45 @@
+{
+    "word": "firework",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌwərk/",
+            "/ˈfaɪ(ə)rˌwərk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəwəːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo hoa",
+            "type": "noun",
+            "example": {
+                "en": "Remember the first time you saw the fireworks?",
+                "vi": "Có nhớ lần đầu con thấy pháo hoa không?"
+            }
+        },
+        {
+            "content": "Pháo hoa",
+            "type": "",
+            "example": {
+                "en": "The fireworks at the docks, that was me trying to spoil his plan.",
+                "vi": "Pháo hoa tại bến cảng, đó là tôi cố gắng phá hoại kế hoạch của hắn."
+            }
+        },
+        {
+            "content": "pháo bông",
+            "type": "noun",
+            "example": {
+                "en": "With a child on the shore and nothing in the bank but fireworks?",
+                "vi": "Với một đứa con trên bờ và không gì trong ngân hàng ngoài pháo bông?"
+            }
+        }
+    ]
+}

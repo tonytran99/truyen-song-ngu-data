@@ -1,0 +1,53 @@
+{
+    "word": "earn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiếm được",
+            "type": "",
+            "example": {
+                "en": "He earns double my salary.",
+                "vi": "Anh ta kiếm được gấp đôi lương của tôi"
+            }
+        },
+        {
+            "content": "kiếm",
+            "type": "noun",
+            "example": {
+                "en": "America is a lovely place to be, if you are here to earn money.",
+                "vi": "Sống ở Mỹ rất thích nếu là ở đây để kiếm tiền."
+            }
+        },
+        {
+            "content": "thu",
+            "type": "noun",
+            "example": {
+                "en": "Look at the dates of these spikes in earnings.",
+                "vi": "Nhìn ngày tháng những đỉnh nhọn trong bảng thu nhập này."
+            }
+        },
+        {
+            "content": "giành được",
+            "type": "",
+            "example": {
+                "en": "From here on out, you want something, you earn it.",
+                "vi": "Từ giờ muốn cái gì, cậu phải giành được nó."
+            }
+        }
+    ]
+}

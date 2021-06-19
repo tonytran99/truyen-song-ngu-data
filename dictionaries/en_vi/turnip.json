@@ -1,0 +1,51 @@
+{
+    "word": "turnip",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərnəp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːnɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "củ cải",
+            "type": "noun",
+            "example": {
+                "en": "This is not a small plot of land on which to grow turnips and onions.",
+                "vi": "Đây không phải mảnh đất vớ vẩn chỉ để trồng củ cải và hành tây."
+            }
+        },
+        {
+            "content": "cây củ cải",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây cải",
+            "type": "",
+            "example": {
+                "en": "I don't know about a turnip.",
+                "vi": "Mình không rõ về cây cải."
+            }
+        },
+        {
+            "content": "củ cải trắng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Cải củ turnip",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

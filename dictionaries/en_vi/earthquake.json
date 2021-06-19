@@ -1,0 +1,79 @@
+{
+    "word": "earthquake",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərTHˌkwāk/",
+            "/ˈərθˌkweɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːθkweɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động đất",
+            "type": "noun",
+            "example": {
+                "en": "When the big earthquake happened, I was only ten.",
+                "vi": "Một trận động đất lớn đã xảy ra khi tôi mới chỉ mười tuổi."
+            }
+        },
+        {
+            "content": "sự động đất",
+            "type": "",
+            "example": {
+                "en": "8 “There will be great earthquakes.”",
+                "vi": "8 “Sẽ có sự động đất lớn”."
+            }
+        },
+        {
+            "content": "địa chấn",
+            "type": "noun",
+            "example": {
+                "en": "Flooding a fault could cause a major earthquake.",
+                "vi": "Làm ngập 1 đường nứt có thể gây ra 1 cơn địa chấn khủng khiếp."
+            }
+        },
+        {
+            "content": "cơn địa chấn",
+            "type": "noun",
+            "example": {
+                "en": "Flooding a fault could cause a major earthquake.",
+                "vi": "Làm ngập 1 đường nứt có thể gây ra 1 cơn địa chấn khủng khiếp."
+            }
+        },
+        {
+            "content": "cơn động đất",
+            "type": "noun",
+            "example": {
+                "en": "Within hours of the earthquake, relief goods were made available.",
+                "vi": "Chỉ vài giờ sau khi cơn động đất xảy ra, hàng cứu trợ đã được đem đến."
+            }
+        },
+        {
+            "content": "trận động đất",
+            "type": "noun",
+            "example": {
+                "en": "When the big earthquake happened, I was only ten.",
+                "vi": "Một trận động đất lớn đã xảy ra khi tôi mới chỉ mười tuổi."
+            }
+        },
+        {
+            "content": "地震",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "địa động",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

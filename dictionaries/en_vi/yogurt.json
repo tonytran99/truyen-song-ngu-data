@@ -1,0 +1,43 @@
+{
+    "word": "yogurt",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyōɡərt/",
+            "/ˈjoʊɡərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjɒɡət/",
+            "/ˈjəʊɡət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sữa chua",
+            "type": "noun",
+            "example": {
+                "en": "All right, I've been eavesdropping, and this is not worth missing frozen yogurt for.",
+                "vi": "Này tôi nghe rồi cái này không đáng để đánh đổi sữa chua lạnh."
+            }
+        },
+        {
+            "content": "da ua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Sữa chua",
+            "type": "",
+            "example": {
+                "en": "All right, I've been eavesdropping, and this is not worth missing frozen yogurt for.",
+                "vi": "Này tôi nghe rồi cái này không đáng để đánh đổi sữa chua lạnh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "word": "facsimile",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakˈsiməlē/",
+            "/fækˈsɪməli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fakˈsɪmɪli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản chép",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bản mô tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản sao",
+            "type": "noun",
+            "example": {
+                "en": "In 1984 a limited facsimile edition was printed.",
+                "vi": "Một số bản sao có giới hạn được ấn hành năm 1984."
+            }
+        },
+        {
+            "content": "bản truyền chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản viễn sao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điện thư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sao",
+            "type": "noun adverb",
+            "example": {
+                "en": "In 1984 a limited facsimile edition was printed.",
+                "vi": "Một số bản sao có giới hạn được ấn hành năm 1984."
+            }
+        },
+        {
+            "content": "chép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bản sao",
+            "type": "",
+            "example": {
+                "en": "In 1984 a limited facsimile edition was printed.",
+                "vi": "Một số bản sao có giới hạn được ấn hành năm 1984."
+            }
+        }
+    ]
+}

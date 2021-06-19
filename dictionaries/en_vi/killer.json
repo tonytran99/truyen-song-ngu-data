@@ -1,0 +1,77 @@
+{
+    "word": "killer",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkilər/",
+            "/ˈkɪlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ giết người",
+            "type": "noun",
+            "example": {
+                "en": "You can't send a killer to catch a killer.",
+                "vi": "Anh không thể gửi một kẻ giết người để bắt một sát thủ, thám tử."
+            }
+        },
+        {
+            "content": "người giết",
+            "type": "noun",
+            "example": {
+                "en": "You're a murderer, a cop killer at that.",
+                "vi": "Anh là kẻ giết người, giết cả cảnh sát."
+            }
+        },
+        {
+            "content": "kẻ sát nhân",
+            "type": "noun",
+            "example": {
+                "en": "Look at his face does he look like a killer?",
+                "vi": "Nhìn mặt cậu ta xem. Trông có giống kẻ sát nhân không?"
+            }
+        },
+        {
+            "content": "kẻ ám sát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tay giết người",
+            "type": "noun",
+            "example": {
+                "en": "You being a serial killer?",
+                "vi": "Cậu là tay giết người hàng loạt à?"
+            }
+        },
+        {
+            "content": "cá heo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dụng cụ giết thịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hung thủ",
+            "type": "",
+            "example": {
+                "en": "The same parts of the body the killer scrubbed.",
+                "vi": "Cùng bộ phận mà hung thủ đã hủy đi."
+            }
+        }
+    ]
+}

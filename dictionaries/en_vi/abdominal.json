@@ -1,0 +1,43 @@
+{
+    "word": "abdominal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/abˈdämən(ə)l/",
+            "/æbˈdɑmən(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/abˈdɒmɪn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở bụng",
+            "type": "",
+            "example": {
+                "en": "Resulting abdominal pain persisted for several days, so I went to see a doctor.",
+                "vi": "Hậu quả là cơn đau ở bụng kéo dài mấy ngày liền nên tôi đi khám bác sĩ."
+            }
+        },
+        {
+            "content": "bụng",
+            "type": "noun",
+            "example": {
+                "en": "I have abdominal gas.",
+                "vi": "Bụng tôi bị đầy hơi."
+            }
+        },
+        {
+            "content": "thuộc về bụng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

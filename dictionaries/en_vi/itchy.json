@@ -1,0 +1,42 @@
+{
+    "word": "itchy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiCHē/",
+            "/ˈɪtʃi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪtʃi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngứa",
+            "type": "adjective",
+            "example": {
+                "en": "My scalp is very itchy.",
+                "vi": "Da đầu tôi rất ngứa"
+            }
+        },
+        {
+            "content": "làm ngứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngứa ngáy",
+            "type": "adjective",
+            "example": {
+                "en": "The scalp may also become itchy and scaly .",
+                "vi": "Da đầu cũng có thể trở nên bong vảy và ngứa ngáy khó chịu ."
+            }
+        }
+    ]
+}

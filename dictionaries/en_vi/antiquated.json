@@ -1,0 +1,58 @@
+{
+    "word": "antiquated",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)əˌkwādəd/",
+            "/ˈæn(t)əˌkweɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪkweɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cũ kỹ",
+            "type": "",
+            "example": {
+                "en": "The antique X-ray machine had broken down, so no helpful X-rays could be taken.",
+                "vi": "Cái máy chụp X quang cũ kỹ đã hư cho nên không thể chiếu X quang được."
+            }
+        },
+        {
+            "content": "cổ",
+            "type": "adjective pronoun noun",
+            "example": {
+                "en": "Sure, they may be old antiques, but they look new.",
+                "vi": "Chúng có thể là đồ cổ, nhưng nhìn còn mới."
+            }
+        },
+        {
+            "content": "cũ",
+            "type": "adjective",
+            "example": {
+                "en": "I am not a creation of the antique pastoral world.",
+                "vi": "Ta không phải là sáng chế của thế giới quê mùa xưa cũ."
+            }
+        },
+        {
+            "content": "cổ xưa",
+            "type": "",
+            "example": {
+                "en": "That's the antiquities wing.",
+                "vi": "Có 1 đôi cánh cổ xưa ở đó."
+            }
+        },
+        {
+            "content": "không hợp thời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

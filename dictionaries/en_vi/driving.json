@@ -1,0 +1,44 @@
+{
+    "word": "driving",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrīviNG/",
+            "/ˈdraɪvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌɪvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lái",
+            "type": "verb",
+            "example": {
+                "en": "Tom knows that Mary doesn't know how to drive.",
+                "vi": "Tom biết rằng Mary không biết lái xe."
+            }
+        },
+        {
+            "content": "lái xe",
+            "type": "verb",
+            "example": {
+                "en": "Tom knows that Mary doesn't know how to drive.",
+                "vi": "Tom biết rằng Mary không biết lái xe."
+            }
+        },
+        {
+            "content": "sự lái xe",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

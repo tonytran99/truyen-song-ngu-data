@@ -1,0 +1,45 @@
+{
+    "word": "ultrasound",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəltrəˌsound/",
+            "/ˈəltrəˌsaʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌltrəsaʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "siêu âm",
+            "type": "",
+            "example": {
+                "en": "Your health care provider will measure your levels of amniotic fluid as part of your routine ultrasound .",
+                "vi": "Bác sĩ sẽ đo lượng nước ối bằng phương pháp siêu âm theo thường lệ ."
+            }
+        },
+        {
+            "content": "Siêu âm",
+            "type": "",
+            "example": {
+                "en": "The ultrasound would be the way to go if you were looking for ovarian cancer.",
+                "vi": "Siêu âm vốn là cách để xác định ung thư buồng trứng."
+            }
+        },
+        {
+            "content": "sóng siêu âm",
+            "type": "",
+            "example": {
+                "en": "Okay, so let's talk a little bit about ultrasound, the force of ultrasound.",
+                "vi": "Thôi, hãy nói một chút về sóng siêu âm, sức mạnh của sóng siêu âm."
+            }
+        }
+    ]
+}

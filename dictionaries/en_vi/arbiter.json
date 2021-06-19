@@ -1,0 +1,56 @@
+{
+    "word": "arbiter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärbədər/",
+            "/ˈɑrbədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːbɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trọng tài",
+            "type": "noun",
+            "example": {
+                "en": "that is the final arbiter about what words mean.",
+                "vi": "là trọng tài phán quyết cuối cùng về nghĩa của từ."
+            }
+        },
+        {
+            "content": "người nắm toàn quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người phân xử",
+            "type": "",
+            "example": {
+                "en": "Consul Antony, I am here strictly as an impartial arbiter.",
+                "vi": "Chấp chính Antony, ta có mặt như 1 người phân xử công bằng."
+            }
+        },
+        {
+            "content": "quan toà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẩm phán",
+            "type": "",
+            "example": {
+                "en": "Yeah, maybe, if I knew what arbiter meant.",
+                "vi": "Phải, có thể, nếu anh hiểu từ \" thẩm phán \"."
+            }
+        }
+    ]
+}

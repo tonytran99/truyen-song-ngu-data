@@ -1,0 +1,64 @@
+{
+    "word": "gulp",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəlp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌlp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngụm",
+            "type": "noun",
+            "example": {
+                "en": "which kind of — I need a quick gulp of water, forgive me.",
+                "vi": "như là — Tôi cần một ngụm nước, xin lỗi."
+            }
+        },
+        {
+            "content": "ực",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nốc",
+            "type": "noun",
+            "example": {
+                "en": "They will drink and gulp down,",
+                "vi": "Chúng sẽ uống và nốc cạn,"
+            }
+        },
+        {
+            "content": "tợp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nuốt",
+            "type": "verb",
+            "example": {
+                "en": "Yet, they figuratively gulped down the camel, which was also unclean.",
+                "vi": "Thế nhưng, theo nghĩa bóng họ lại nuốt cả một con lạc đà, cũng là vật ô uế."
+            }
+        },
+        {
+            "content": "uống",
+            "type": "noun",
+            "example": {
+                "en": "Stir it in your mead and swallow it in one gulp.",
+                "vi": "Trộn với rượu mật ong rồi uống nó trong một hơi."
+            }
+        }
+    ]
+}

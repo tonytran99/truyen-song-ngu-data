@@ -1,0 +1,34 @@
+{
+    "word": "aerodynamic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌerōˌdīˈnamik/",
+            "/ˌɛroʊˌdaɪˈnæmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛərəʊdʌɪˈnamɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí động lực",
+            "type": "",
+            "example": {
+                "en": "We can do it because in space there are no aerodynamics.",
+                "vi": "Chúng ta có thể làm điều đó bởi vì ngoài vũ trụ không có khí động lực."
+            }
+        },
+        {
+            "content": "khí động lực học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

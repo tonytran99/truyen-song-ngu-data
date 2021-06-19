@@ -1,0 +1,37 @@
+{
+    "word": "chi",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kī/",
+            "/kaɪ/",
+            "/CHē/",
+            "/tʃi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʌɪ/",
+            "/kiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí",
+            "type": "noun",
+            "example": {
+                "en": "But you weren't taught how to recharge your chi?",
+                "vi": "Nhưng anh vẫn chưa được dạy cách hồi phục khí?"
+            }
+        },
+        {
+            "content": "氣",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

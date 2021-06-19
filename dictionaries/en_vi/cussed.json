@@ -1,0 +1,50 @@
+{
+    "word": "cussed",
+    "type": [
+        "adjective",
+        "adverb",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəsəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌsɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị chửi rủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị nguyền rủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cứng cổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cứng đầu",
+            "type": "",
+            "example": {
+                "en": "You're a persistent cuss, pilgrim.",
+                "vi": "Anh đúng là cứng đầu, khách lạ."
+            }
+        },
+        {
+            "content": "ngoan cố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

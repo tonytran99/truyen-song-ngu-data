@@ -1,0 +1,59 @@
+{
+    "word": "walnut",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôlˌnət/",
+            "/ˈwɔlˌnət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːlnʌt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quả óc chó",
+            "type": "noun",
+            "example": {
+                "en": "Coffee and walnut, I think it is still Toby's favourite. Mmm. Mmm!",
+                "vi": "Cà phê và quả óc chó, em nghĩ Toby còn thích nó."
+            }
+        },
+        {
+            "content": "óc chó",
+            "type": "",
+            "example": {
+                "en": "Coffee and walnut, I think it is still Toby's favourite. Mmm. Mmm!",
+                "vi": "Cà phê và quả óc chó, em nghĩ Toby còn thích nó."
+            }
+        },
+        {
+            "content": "Họ Óc chó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây óc chó",
+            "type": "noun",
+            "example": {
+                "en": "I mean, I built it out of Peruvian walnut with inlaid zebrawood.",
+                "vi": "Tôi làm nó bằng gỗ cây óc chó Pê-ru có hiện cả vân."
+            }
+        },
+        {
+            "content": "gỗ cây óc chó",
+            "type": "",
+            "example": {
+                "en": "I mean, I built it out of Peruvian walnut with inlaid zebrawood.",
+                "vi": "Tôi làm nó bằng gỗ cây óc chó Pê-ru có hiện cả vân."
+            }
+        }
+    ]
+}

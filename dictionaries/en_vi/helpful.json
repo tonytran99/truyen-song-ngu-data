@@ -1,0 +1,70 @@
+{
+    "word": "helpful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhelpfəl/",
+            "/ˈhɛlpfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛlpfʊl/",
+            "/ˈhɛlpf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có ích",
+            "type": "adjective",
+            "example": {
+                "en": "Any details will help us, and they will help Jack.",
+                "vi": "Bất cứ chi tiết nào cũng có thể có ích để chúng tôi hỗ trợ cho Jack."
+            }
+        },
+        {
+            "content": "giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "Such a program will help the rich but harm the poor.",
+                "vi": "Một chương trình như vậy sẽ giúp đỡ người giàu có hại tới người nghèo."
+            }
+        },
+        {
+            "content": "hay giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "It means you help people, you understand them.",
+                "vi": "Nghĩa là em hay giúp đỡ người khác, em đồng cảm với họ."
+            }
+        },
+        {
+            "content": "bổ ích",
+            "type": "adjective",
+            "example": {
+                "en": "As you explore them, you will learn other helpful details.",
+                "vi": "Khi tìm tòi các câu Kinh Thánh, bạn sẽ học được những chi tiết bổ ích khác."
+            }
+        },
+        {
+            "content": "giúp ích",
+            "type": "",
+            "example": {
+                "en": "It may be helpful to understand that the word whoredoms refers to sexual sins.",
+                "vi": "Có thể giúp ích để hiểu rằng từ thói tà dâm ám chỉ tội tình dục."
+            }
+        },
+        {
+            "content": "hữu ích",
+            "type": "",
+            "example": {
+                "en": "The methodology used in his study is also helpful to us in conducting our research.",
+                "vi": "Phương pháp luận được dùng trong cuộc nghiên cứu của anh ta cũng hữu ích trong việc quản lý cuộc nghiên cứu của chúng tôi."
+            }
+        }
+    ]
+}

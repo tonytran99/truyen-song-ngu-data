@@ -1,0 +1,99 @@
+{
+    "word": "known",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nōn/",
+            "/noʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {
+                "en": "The scientists wanted to make their discoveries known to the world at large.",
+                "vi": "Các nhà khoa học muốn cho cả thế giới biết đến khám phá của họ."
+            }
+        },
+        {
+            "content": "được biết",
+            "type": "",
+            "example": {
+                "en": "You are going to make the best king Oz has ever known.",
+                "vi": "Anh sẽ được biết đến là một vị vua tuyệt vời nhất xứ Oz."
+            }
+        },
+        {
+            "content": "biết rõ vấn đề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biết rõ về",
+            "type": "",
+            "example": {
+                "en": "The killer had to have known both his intended victim And kyle fairly well.",
+                "vi": "Hung thủ cần phải biết rõ về hai nạn nhân còn lại và cả Kyle nữa."
+            }
+        },
+        {
+            "content": "biết tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiểu biết",
+            "type": "",
+            "example": {
+                "en": "Sara, I'm tempted to say you should have known better.",
+                "vi": "Sara, tôi vẫn luôn cho rằng có là người có hiểu biết."
+            }
+        },
+        {
+            "content": "nhận biết",
+            "type": "",
+            "example": {
+                "en": "Before our eyes may it become known among the nations",
+                "vi": "Trước mắt chúng con, nguyện dân các nước nhận biết"
+            }
+        },
+        {
+            "content": "phân biệt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quen biết",
+            "type": "",
+            "example": {
+                "en": "I have seen something similar happen to people I have known.",
+                "vi": "Tôi đã thấy một điều tương tự xảy ra đối với những người tôi quen biết."
+            }
+        },
+        {
+            "content": "đã biết mùi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã trải qua",
+            "type": "",
+            "example": {
+                "en": "All of us have experienced suffering or have known someone who has.",
+                "vi": "Tất cả chúng ta đã trải qua sự đau khổ hay ít nhất quen biết một người nào bị đau khổ."
+            }
+        }
+    ]
+}

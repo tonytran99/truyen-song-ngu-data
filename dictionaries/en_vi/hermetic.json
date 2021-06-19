@@ -1,0 +1,34 @@
+{
+    "word": "hermetic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərˈmedik/",
+            "/hərˈmɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːˈmɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kín",
+            "type": "adjective",
+            "example": {
+                "en": "And you see that these courtyards are not hermetically sealed spaces.",
+                "vi": "Và bạn thấy những sân chơi này không phải là không gian được bọc kín."
+            }
+        },
+        {
+            "content": "kín hơi",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

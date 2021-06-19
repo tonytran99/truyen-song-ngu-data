@@ -1,0 +1,109 @@
+{
+    "word": "enough",
+    "type": [
+        "interjection",
+        "adjective",
+        "pronoun",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnəf/",
+            "/ɪˈnəf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đủ",
+            "type": "adjective",
+            "example": {
+                "en": "My brother is big enough to travel alone.",
+                "vi": "Anh của tôi đủ lớn để đi du lịch một mình."
+            }
+        },
+        {
+            "content": "đủ rồi",
+            "type": "interjection",
+            "example": {
+                "en": "I don't know what you're trying to prove, but enough is enough.",
+                "vi": "Tôi không biết anh muốn chứng tỏ điều gì, nhưng quá đủ rồi."
+            }
+        },
+        {
+            "content": "khá",
+            "type": "adjective",
+            "example": {
+                "en": "He is old enough to travel alone.",
+                "vi": "Ông ấy khá nhiều tuổi để đi du lịch một mình."
+            }
+        },
+        {
+            "content": "một cách công bằng",
+            "type": "",
+            "example": {
+                "en": "Fair enough. They are disorders of behavior,",
+                "vi": "Một cách công bằng, đây là những rối loạn hành vi,"
+            }
+        },
+        {
+            "content": "điều lạ là",
+            "type": "",
+            "example": {
+                "en": "Strangely enough, the thermal camera shows there's no difference in skin temperature between Wim and Henny.",
+                "vi": "Điều lạ là, máy ghi hình nhiệt kế cho thấy không có sự khác biệt về nhiệt độ trên da giữa Wim và Henny."
+            }
+        },
+        {
+            "content": "đầy đủ",
+            "type": "adjective",
+            "example": {
+                "en": "Who's going to get enough out of the world?",
+                "vi": "Ai sẽ rút ra được đầy đủ từ thế giới?"
+            }
+        },
+        {
+            "content": "đụ",
+            "type": "adverb, determiner",
+            "example": {}
+        },
+        {
+            "content": "kha khá",
+            "type": "adjective",
+            "example": {
+                "en": "And if I can just get enough money to tell enough people, I'll sell enough.\"",
+                "vi": "Và chỉ cần tôi có đủ tiền để kêu gọi đủ người, tôi sẽ bán được kha khá.\""
+            }
+        },
+        {
+            "content": "lượng đủ dùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số đủ dùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đủ dùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đủ dùng",
+            "type": "",
+            "example": {
+                "en": "We've got food and water enough for three days.",
+                "vi": "Chúng ta có thức ăn và nước đủ dùng trong ba ngày."
+            }
+        }
+    ]
+}

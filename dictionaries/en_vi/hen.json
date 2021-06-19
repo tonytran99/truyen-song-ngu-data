@@ -1,0 +1,44 @@
+{
+    "word": "hen",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hen/",
+            "/hɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gà mái",
+            "type": "noun",
+            "example": {
+                "en": "I was raising a hen from which I got a rooster and another hen.",
+                "vi": "Em nuôi một con gà mái, nó đẻ ra một con trống và một con mái khác."
+            }
+        },
+        {
+            "content": "mái",
+            "type": "adjective",
+            "example": {
+                "en": "You boys are as crotchety as a couple of old hens.",
+                "vi": "Hai người kỳ cục như hai con gà mái già."
+            }
+        },
+        {
+            "content": "đàn bà",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "genotype",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjenəˌtīp/",
+            "/ˈdʒɛnəˌtaɪp/",
+            "/ˈjēnəˌtīp/",
+            "/ˈdʒinəˌtaɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnətʌɪp/",
+            "/ˈdʒiːnətʌɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiểu di truyền",
+            "type": "noun",
+            "example": {
+                "en": "You have a genotype and you have to have a phenotype.",
+                "vi": "Bạn có 1 kiểu di truyền và phải có 1 kiểu hình nữa."
+            }
+        },
+        {
+            "content": "Kiểu gen",
+            "type": "",
+            "example": {
+                "en": "If we have a lot of shared genotypes, and a lot of shared",
+                "vi": "Nếu ta có thật nhiều những kiểu gen được chia sẻ, và thật nhiều"
+            }
+        },
+        {
+            "content": "kiểu gen",
+            "type": "",
+            "example": {
+                "en": "If we have a lot of shared genotypes, and a lot of shared",
+                "vi": "Nếu ta có thật nhiều những kiểu gen được chia sẻ, và thật nhiều"
+            }
+        }
+    ]
+}

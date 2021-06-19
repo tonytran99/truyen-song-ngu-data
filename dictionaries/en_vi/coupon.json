@@ -1,0 +1,70 @@
+{
+    "word": "coupon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈk(y)o͞oˌpän/",
+            "/ˈk(j)uˌpɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkuːpɒn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phiếu",
+            "type": "",
+            "example": {
+                "en": "Might there be a coupon for this item somewhere ?",
+                "vi": "Mặt hàng này ở đâu có phiếu giảm giá ?"
+            }
+        },
+        {
+            "content": "vé",
+            "type": "noun",
+            "example": {
+                "en": "We'll have a coupon day or something.",
+                "vi": "Ta sê có một ngày bán vé, đại khái như vậy."
+            }
+        },
+        {
+            "content": "cuống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phiếu giảm giá",
+            "type": "noun",
+            "example": {
+                "en": "Might there be a coupon for this item somewhere ?",
+                "vi": "Mặt hàng này ở đâu có phiếu giảm giá ?"
+            }
+        },
+        {
+            "content": "cuống vé",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cổ phiếu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phiếu dự xổ số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiếu thưởng hiện vật",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

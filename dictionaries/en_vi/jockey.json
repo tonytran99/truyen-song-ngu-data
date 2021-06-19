@@ -1,0 +1,63 @@
+{
+    "word": "jockey",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjäkē/",
+            "/ˈdʒɑki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɒki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người cưỡi ngựa đua",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nài",
+            "type": "noun",
+            "example": {
+                "en": "Never trust an animal without a jockey on its back.",
+                "vi": "Không bao giờ tin một con thú mà không có cái nài ở trên lưng."
+            }
+        },
+        {
+            "content": "cưỡi ngựa đua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dô kề",
+            "type": "",
+            "example": {
+                "en": "So the one-legged jockey said...",
+                "vi": "Rồi chàng dô-kề què nói..."
+            }
+        },
+        {
+            "content": "làm dô kề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa phỉnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

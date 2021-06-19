@@ -1,0 +1,39 @@
+{
+    "word": "cardiology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkärdēˈäləjē/",
+            "/ˌkɑrdiˈɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɑːdɪˈɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh học tim",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khoa tim",
+            "type": "noun",
+            "example": {
+                "en": "At the time I was assigned to the cardiology service on a cardiology rotation.",
+                "vi": "Lúc đó tôi được giao nhiệm vụ ở khoa tim trực ban khoa tim."
+            }
+        },
+        {
+            "content": "Khoa tim mạch",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

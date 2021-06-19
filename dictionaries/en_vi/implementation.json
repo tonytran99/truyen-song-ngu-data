@@ -1,0 +1,39 @@
+{
+    "word": "implementation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌimpləmənˈtāSH(ə)n/",
+            "/ˌɪmpləmənˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmplɪmɛnˈteɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thi hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bổ sung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {
+                "en": "Some of them are partially implemented already, the ones at the top.",
+                "vi": "Một số trong đó đã được thực hiện, mấy cái ở phía trên."
+            }
+        }
+    ]
+}

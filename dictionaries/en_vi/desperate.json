@@ -1,0 +1,88 @@
+{
+    "word": "desperate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdesp(ə)rət/",
+            "/ˈdɛsp(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛsp(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuyệt vọng",
+            "type": "adjective",
+            "example": {
+                "en": "Made him desperate for others to think of him as some kind of hero.",
+                "vi": "Làm anh ta muốn mọi người nghĩ anh ta là anh hùng một cách tuyệt vọng."
+            }
+        },
+        {
+            "content": "liều lĩnh",
+            "type": "adjective",
+            "example": {
+                "en": "You know, something about the attempt on Morra seemed desperate.",
+                "vi": "Cô biết không, nỗ lực hạ Morran có vẻ liều lĩnh."
+            }
+        },
+        {
+            "content": "khẩn cầu",
+            "type": "",
+            "example": {
+                "en": "Her message sounded like a desperate plea for attention.",
+                "vi": "Thông điệp của cô như một lời khẩn cầu sự quan tâm."
+            }
+        },
+        {
+            "content": "vô vọng",
+            "type": "adjective",
+            "example": {
+                "en": "Kenton desperately trying to command his robot out of that suicide corner.",
+                "vi": "Kenton đang cố gắng trong vô vọng điểu khiển robot của mình ra khỏi góc chết."
+            }
+        },
+        {
+            "content": "dữ dội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghê gớm",
+            "type": "",
+            "example": {
+                "en": "All that desperate administrative need.",
+                "vi": "Mấy cái nhu cầu chuyên quyền ghê gớm đấy."
+            }
+        },
+        {
+            "content": "không còn hy vọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kinh khủng",
+            "type": "",
+            "example": {
+                "en": "When people are desperate they'll do... horrible things to survive.",
+                "vi": "Khi con người ta cùng đường, họ sẽ làm... những việc kinh khủng để sinh tồn."
+            }
+        },
+        {
+            "content": "liều mạng",
+            "type": "adjective",
+            "example": {
+                "en": "Is that why you were so desperate to find her?",
+                "vi": "Có phải đó là lý do em liều mạng tìm cô ấy không?"
+            }
+        }
+    ]
+}

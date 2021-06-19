@@ -1,0 +1,43 @@
+{
+    "word": "escapement",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈskāpmənt/",
+            "/əˈskeɪpmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈskeɪpm(ə)nt/",
+            "/ɛˈskeɪpm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lối thoát ra",
+            "type": "",
+            "example": {
+                "en": "We have as much chance of escaping that way as a man clawing his way out of his own grave.",
+                "vi": "Làm như sẽ có cơ hội trốn khỏi đây bằng cách cào lối thoát ra khỏi nấm mồ của mình ấy."
+            }
+        },
+        {
+            "content": "sự thoát",
+            "type": "",
+            "example": {
+                "en": "I knew the only way I could ever truly escape him would be to disappear completely.",
+                "vi": "Cô biết cách duy nhất để thực sự thoát khỏi ông ta là... hoàn toàn biến mất."
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "incur",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkər/",
+            "/ɪnˈkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkəː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chịu",
+            "type": "",
+            "example": {
+                "en": "Should any damage be incurred, who will be held responsible?",
+                "vi": "Nếu có vấn đề gì xảy ra, ai sẽ là người chịu trách nhiệm đây?"
+            }
+        },
+        {
+            "content": "mắc",
+            "type": "adjective",
+            "example": {
+                "en": "Dries adds: “We kept life simple and avoided incurring debts.",
+                "vi": "Dries nói thêm: “Chúng tôi giữ cuộc sống đơn giản và tránh mắc nợ."
+            }
+        },
+        {
+            "content": "bị",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "mắc nợ",
+            "type": "",
+            "example": {
+                "en": "Dries adds: “We kept life simple and avoided incurring debts.",
+                "vi": "Dries nói thêm: “Chúng tôi giữ cuộc sống đơn giản và tránh mắc nợ."
+            }
+        },
+        {
+            "content": "gánh",
+            "type": "",
+            "example": {
+                "en": "You would incur the wrath of the League of Assassins?",
+                "vi": "Anh định gánh chịu cơn thịnh nộ của Liên Minh Sát Thủ?"
+            }
+        },
+        {
+            "content": "chòu, maéc, gaùnh phaûi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gánh chịu",
+            "type": "",
+            "example": {
+                "en": "You would incur the wrath of the League of Assassins?",
+                "vi": "Anh định gánh chịu cơn thịnh nộ của Liên Minh Sát Thủ?"
+            }
+        }
+    ]
+}

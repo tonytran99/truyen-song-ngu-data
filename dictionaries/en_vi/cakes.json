@@ -1,0 +1,33 @@
+{
+    "word": "cakes",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "bánh",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to bake a cake for Tom's birthday.",
+                "vi": "Tôi sẽ làm một chiếc bánh cho sinh nhật của Tom."
+            }
+        },
+        {
+            "content": "bánh ngọt",
+            "type": "",
+            "example": {
+                "en": "How about another piece of cake?",
+                "vi": "Anh có muốn miếng bánh ngọt khác không?"
+            }
+        },
+        {
+            "content": "bánh trái",
+            "type": "noun",
+            "example": {
+                "en": "These fig cakes were convenient, nourishing, and delicious.",
+                "vi": "Những bánh trái vả này tiện lợi, bổ dưỡng và ngon."
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "vaporize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvāpəˌrīz/",
+            "/ˈveɪpəˌraɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈveɪpərʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bốc hơi",
+            "type": "",
+            "example": {
+                "en": "Then more water vapor goes into the air, forming yet another potent greenhouse gas.",
+                "vi": "Sau đó nước bốc hơi vào không khí, lại hình thành nên một tầng khí nhà kính."
+            }
+        },
+        {
+            "content": "bơm",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "xì",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bay hơi",
+            "type": "",
+            "example": {
+                "en": "You know they make vaporizers, right?",
+                "vi": "Anh biết người ta làm bộ bay hơi rồi không?"
+            }
+        },
+        {
+            "content": "làm cho bốc hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lên hơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

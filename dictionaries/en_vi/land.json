@@ -1,0 +1,308 @@
+{
+    "word": "land",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/land/",
+            "/lænd/",
+            "/länt/",
+            "/länd/",
+            "/lɑnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/land/",
+            "/lant/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đất",
+            "type": "noun",
+            "example": {
+                "en": "If I ever had the money, I'd buy a gigantic plot of land.",
+                "vi": "Nếu có tiền tôi sẽ mua một mảnh đất cỡ bự."
+            }
+        },
+        {
+            "content": "hạ cánh",
+            "type": "verb",
+            "example": {
+                "en": "You have to remember to let me call my father when we land.",
+                "vi": "Carl, khi chúng ta hạ cánh, ông nhớ cho tôi gọi điện cho bố."
+            }
+        },
+        {
+            "content": "đất đai",
+            "type": "noun",
+            "example": {
+                "en": "Wave upon wave of insects, most prominently locusts, devastate the land.",
+                "vi": "Từng làn sóng sâu bọ, nổi bật nhất là cào cào, hủy diệt đất đai."
+            }
+        },
+        {
+            "content": "đổ bộ",
+            "type": "",
+            "example": {
+                "en": "She said the Russians had landed, and they were attacking her personally.",
+                "vi": "Bả nói bọn Nga đã đổ bộ, và chúng tấn công cá nhân bả."
+            }
+        },
+        {
+            "content": "vùng",
+            "type": "",
+            "example": {
+                "en": "The finest swordmakers in the land work there.",
+                "vi": "Người rèn kiếm tốt nhất vùng này ở đó."
+            }
+        },
+        {
+            "content": "nước",
+            "type": "noun",
+            "example": {
+                "en": "Her father was the keeper of the lands of the king of Prussia.",
+                "vi": "Cha của bà là người quản lý đất đai cho vua nước Prussia."
+            }
+        },
+        {
+            "content": "đưa vào bờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẩy vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xứ",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to live there because they say France is the land of freedom.",
+                "vi": "Tôi sẽ sống ở đó bởi vì người ta nói Pháp là xứ sở của tự do."
+            }
+        },
+        {
+            "content": "cập",
+            "type": "verb",
+            "example": {
+                "en": "Saw us land, saw us off.",
+                "vi": "Thấy chúng tôi cập bến và thấy chúng tôi rút quân."
+            }
+        },
+        {
+            "content": "bờ",
+            "type": "noun",
+            "example": {
+                "en": "If we're lucky, they'll figure we beached our canoes and headed cross land.",
+                "vi": "Nếu ta may mắn, chúng sẽ nghĩ ta cho xuồng cập bờ và đi vào đất liền."
+            }
+        },
+        {
+            "content": "vùng đất",
+            "type": "noun",
+            "example": {
+                "en": "A land without people, a dead place.",
+                "vi": "Một vùng đất không có người ở, một vùng đất chết."
+            }
+        },
+        {
+            "content": "điền",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "Neither fighter has landed yet.",
+                "vi": "Cả hai võ sĩ đều chưa đánh trúng."
+            }
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bắt được",
+            "type": "",
+            "example": {
+                "en": "We all most nail him when he lands.",
+                "vi": "Chúng tôi đã suýt bắt được khi máy bay hạ cánh."
+            }
+        },
+        {
+            "content": "ca tụng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dẫn đến",
+            "type": "",
+            "example": {
+                "en": "29 And the Lamanites did give unto us the land anorthward, yea, even to the bnarrow passage which led into the land southward.",
+                "vi": "29 Và dân La Man dành cho chúng tôi phần đất miền bắc, phải, cho tới adải đất hẹp dẫn đến phần đất miền nam."
+            }
+        },
+        {
+            "content": "ghé vào bờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giang sơn",
+            "type": "noun",
+            "example": {
+                "en": "What his life's duty is to defends each and every inch of the land",
+                "vi": "Ông dành cả cuộc đời để dành từng tấc đất của giang sơn."
+            }
+        },
+        {
+            "content": "giành được",
+            "type": "",
+            "example": {
+                "en": "How can we get our land or keep it if we disarm?",
+                "vi": "Làm sao chúng tôi giành được đất hay giữ đất, nếu chúng tôi giải giới?"
+            }
+        },
+        {
+            "content": "núi sông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ruộng đất",
+            "type": "noun",
+            "example": {
+                "en": "She helped the needy, planted vineyards, and purchased land.",
+                "vi": "Nàng giúp đỡ người nghèo khổ, trồng vườn nho, và mua ruộng đất."
+            }
+        },
+        {
+            "content": "rơi vào",
+            "type": "",
+            "example": {
+                "en": "Never again will the land of my people fall into enemy hands.",
+                "vi": "Vùng đất của dân ta sẽ không bao giờ rơi vào tay của kẻ địch."
+            }
+        },
+        {
+            "content": "sa cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơn hà",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xã tắc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điền sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa đến",
+            "type": "",
+            "example": {
+                "en": "Formerly, he warned them that disobedience to his Law would result in their expulsion from the land.",
+                "vi": "Trước đây, Ngài đã cảnh cáo họ là việc bất tuân Luật Pháp Ngài sẽ đưa đến hậu quả bị tống ra khỏi xứ."
+            }
+        },
+        {
+            "content": "đạt được",
+            "type": "",
+            "example": {
+                "en": "During the 2000 service year, this land saw a peak of 112,720 publishers.",
+                "vi": "Trong năm công tác 2000, số người công bố ở nước này đạt được cao điểm là 112.720."
+            }
+        },
+        {
+            "content": "đất liền",
+            "type": "noun",
+            "example": {
+                "en": "We won't sleep on land again for weeks.",
+                "vi": "Ta sẽ không được ngủ trên đất liền trong vòng vài tuần nữa."
+            }
+        },
+        {
+            "content": "đất nước",
+            "type": "noun",
+            "example": {
+                "en": "My husband stole millions from this land, our land.",
+                "vi": "Chồng tôi đã cướp hàng triệu của đất nước này, đất nước của chúng tôi."
+            }
+        },
+        {
+            "content": "đất trồng",
+            "type": "",
+            "example": {
+                "en": "They're planting sugarcane in our land.",
+                "vi": "Họ đang trồng mía trên đất trồng bắp của chúng tôi."
+            }
+        },
+        {
+            "content": "địa phương",
+            "type": "noun",
+            "example": {
+                "en": "We lose our option on the commune's land in 3 days.",
+                "vi": "Đã 3 ngày rồi chúng tôi chưa được phản hồi từ địa phương."
+            }
+        },
+        {
+            "content": "Đất",
+            "type": "",
+            "example": {
+                "en": "If I ever had the money, I'd buy a gigantic plot of land.",
+                "vi": "Nếu có tiền tôi sẽ mua một mảnh đất cỡ bự."
+            }
+        },
+        {
+            "content": "vực",
+            "type": "noun",
+            "example": {
+                "en": "You were on watch on the landing, huh?",
+                "vi": "Các anh xem xét khu vực rồi chứ?"
+            }
+        },
+        {
+            "content": "bất động sản",
+            "type": "noun",
+            "example": {
+                "en": "These land deals floating around, those new corporations?",
+                "vi": "Mấy vụ mua bán bất động sản, thêm mấy công ty đó."
+            }
+        },
+        {
+            "content": "ñaát lieàn, ñieàn saûn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáp xuống",
+            "type": "",
+            "example": {
+                "en": "We could land anytime and fly back home with an airplane.",
+                "vi": "Chúng tôi có thể đáp xuống bất kỳ khi nào và đi máy bay về nhà."
+            }
+        }
+    ]
+}

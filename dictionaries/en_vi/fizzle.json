@@ -1,0 +1,55 @@
+{
+    "word": "fizzle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfizəl/",
+            "/ˈfɪzəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪz(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng xèo xèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng xì xì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xèo xèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xì xì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất bại",
+            "type": "",
+            "example": {
+                "en": "I knew right away it was going to fizzle.",
+                "vi": "Em biết ngay lập tức là em sẽ thất bại thảm hại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "enigma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈniɡmə/",
+            "/ɪˈnɪɡmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɪɡmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều bí ẩn",
+            "type": "",
+            "example": {
+                "en": "Death does not need to be an enigma.",
+                "vi": "Sự chết không còn là điều bí ẩn."
+            }
+        },
+        {
+            "content": "người khó hiểu",
+            "type": "",
+            "example": {
+                "en": "Like you, Mr. Snart, I am an enigma.",
+                "vi": "Giống anh, Snart, tôi là một người khó hiểu."
+            }
+        }
+    ]
+}

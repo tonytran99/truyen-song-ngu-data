@@ -1,0 +1,71 @@
+{
+    "word": "venomous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvenəməs/",
+            "/ˈvɛnəməs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛnəməs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "độc",
+            "type": "adjective",
+            "example": {
+                "en": "A few inches lower, the venom would have stilled your heart.",
+                "vi": "Thấp xuống vài inch thôi nọc độc sẽ chạy vào tim ngươi."
+            }
+        },
+        {
+            "content": "nham hiểm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ác nghiệt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "độc ác",
+            "type": "",
+            "example": {
+                "en": "Given her dark past, Jane could easily have become vindictive, venomous, or violent.",
+                "vi": "Với quá khứ đen tối của mình, Jane có thể dễ dàng trở nên thù oán, độc ác, hoặc bạo động."
+            }
+        },
+        {
+            "content": "chua cay",
+            "type": "adjective",
+            "example": {
+                "en": "because of the venom and vituperation",
+                "vi": "bởi những lời lẽ chua cay và phỉ báng"
+            }
+        },
+        {
+            "content": "có nọc độc",
+            "type": "",
+            "example": {
+                "en": "Injuries from venomous creatures usually require emergency medical attention.",
+                "vi": "Khi bị những con có nọc độc cắn, thường cần cấp cứu ngay."
+            }
+        },
+        {
+            "content": "độc địa",
+            "type": "adjective",
+            "example": {
+                "en": "With venomous slander, they poison the minds of the people of Lystra.",
+                "vi": "Họ nói những lời vu khống độc địa, đầu độc tâm trí người dân Lít-trơ."
+            }
+        }
+    ]
+}

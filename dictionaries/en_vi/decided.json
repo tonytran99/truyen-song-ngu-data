@@ -1,0 +1,79 @@
+{
+    "word": "decided",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsīdəd/",
+            "/dəˈsaɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsʌɪdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "Since they had no children of their own, they decided to adopt a little girl.",
+                "vi": "Vì không sinh con nên họ quyết định nhận nuôi một bé gái."
+            }
+        },
+        {
+            "content": "dứt khoát",
+            "type": "",
+            "example": {
+                "en": "I think it is essential to take my troops to Morelos and help him decide to disarm.",
+                "vi": "Tôi nghĩ dứt khoát tôi phải đưa quân đội xuống Morelos và giúp hắn giải giới."
+            }
+        },
+        {
+            "content": "không cãi được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không do dự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiên quyết",
+            "type": "adjective",
+            "example": {
+                "en": "Some decided not to evacuate their homes but to sit it out.",
+                "vi": "Một số người thì không chịu chạy sơ tán mà kiên quyết ở lại."
+            }
+        },
+        {
+            "content": "rõ rệt",
+            "type": "",
+            "example": {
+                "en": "Man’s imperfection puts him at a decided disadvantage.",
+                "vi": "Sự bất toàn của con người đặt họ vào thế bất lợi rõ rệt."
+            }
+        },
+        {
+            "content": "đã được giải quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã được phân xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã được quyết định",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "word": "gentleman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjen(t)lmən/",
+            "/ˈdʒɛn(t)lmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnt(ə)lmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ông",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Your mother called, and a gentleman called from Paris.",
+                "vi": "Mẹ bà gọi, và một quý ông gọi từ Paris."
+            }
+        },
+        {
+            "content": "ngài",
+            "type": "noun",
+            "example": {
+                "en": "The gentleman from Georgia may state the nature of his parliamentary inquiry.",
+                "vi": "Quý ngài tới từ Georgia nên hiểu rõ về buổi điều trần của ông ta."
+            }
+        },
+        {
+            "content": "người đàn ông lịch sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quý ông",
+            "type": "noun",
+            "example": {
+                "en": "Your mother called, and a gentleman called from Paris.",
+                "vi": "Mẹ bà gọi, và một quý ông gọi từ Paris."
+            }
+        },
+        {
+            "content": "con chuột chũi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người quý phái",
+            "type": "",
+            "example": {
+                "en": "He's a gentleman, I'm a gentleman's daughter.",
+                "vi": "Anh ấy là một người quý phái, tôi là con gái của một người cha quý phái."
+            }
+        },
+        {
+            "content": "người thượng lưu",
+            "type": "",
+            "example": {
+                "en": "Wow, you really are a gentleman.",
+                "vi": "anh thực sự là một người thượng lưu đấy."
+            }
+        },
+        {
+            "content": "người đàn ông",
+            "type": "",
+            "example": {
+                "en": "It is a pleasure for a gentleman to wait for a lady.",
+                "vi": "Một người đàn ông sẽ rất lấy làm vinh hạnh khi được chờ đợi một phụ nữ."
+            }
+        },
+        {
+            "content": "quân tử",
+            "type": "noun",
+            "example": {
+                "en": "Although he is not an officer, he is, in fact, a gentleman.",
+                "vi": "Dù anh ấy không phải sĩ quan nhưng là người quân tử."
+            }
+        }
+    ]
+}

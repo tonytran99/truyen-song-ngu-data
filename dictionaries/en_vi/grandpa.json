@@ -1,0 +1,50 @@
+{
+    "word": "grandpa",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)ˌpä/",
+            "/ˈɡræn(d)ˌpɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)pɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ông",
+            "type": "pronoun noun",
+            "example": {
+                "en": "So we asked him if he would be happy being the grandpa, to fill a gap.",
+                "vi": "Nên chúng tôi hỏi xem ông ấy có chịu làm ông nội để lấp khoảng trống không."
+            }
+        },
+        {
+            "content": "nhuấy &",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ông ngoại",
+            "type": "noun",
+            "example": {
+                "en": "And a grandpa will be found in the quorums of the priesthood.",
+                "vi": "Và một ông nội, ông ngoại sẽ được tìm thấy trong các nhóm túc số chức tư tế."
+            }
+        },
+        {
+            "content": "ông nội",
+            "type": "noun",
+            "example": {
+                "en": "So we asked him if he would be happy being the grandpa, to fill a gap.",
+                "vi": "Nên chúng tôi hỏi xem ông ấy có chịu làm ông nội để lấp khoảng trống không."
+            }
+        }
+    ]
+}

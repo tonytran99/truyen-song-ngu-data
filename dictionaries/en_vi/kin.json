@@ -1,0 +1,83 @@
+{
+    "word": "kin",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kin/",
+            "/kɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dòng họ",
+            "type": "",
+            "example": {
+                "en": "Depends on his kin.",
+                "vi": "Tùy vào dòng họ của nó."
+            }
+        },
+        {
+            "content": "gia đình",
+            "type": "noun",
+            "example": {
+                "en": "Has anyone found out if he has next of kin or family?",
+                "vi": "Anh ta có người thân hay gia đình không?"
+            }
+        },
+        {
+            "content": "bà con",
+            "type": "noun",
+            "example": {
+                "en": "So I figured you must know something regarding his next of kin.",
+                "vi": "Nên tôi đoán chắc ông phải biết gì đó Về bà con thân thích của anh ta chứ."
+            }
+        },
+        {
+            "content": "bà con thân thiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có họ",
+            "type": "adjective",
+            "example": {
+                "en": "I've got no kin, no money, no horses!",
+                "vi": "Đó là tôi không có họ hàng, không tiền, không ngựa!"
+            }
+        },
+        {
+            "content": "dòng dõi",
+            "type": "",
+            "example": {
+                "en": "We are kin under the skin.",
+                "vi": "Chúng ta về bản chất là cùng dòng dõi."
+            }
+        },
+        {
+            "content": "họ hàng",
+            "type": "noun",
+            "example": {
+                "en": "Can you help me with next of kin?",
+                "vi": "Anh giúp tôi tìm họ hàng của anh ta được không?"
+            }
+        },
+        {
+            "content": "ruột thịt",
+            "type": "noun",
+            "example": {
+                "en": "I'll need the name, next of kin.",
+                "vi": "Cho tôi tên cậu ấy và người ruột thịt gần nhất."
+            }
+        }
+    ]
+}

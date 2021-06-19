@@ -1,0 +1,63 @@
+{
+    "word": "diadem",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīəˌdem/",
+            "/ˈdaɪəˌdɛm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪədɛm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mũ miện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quyền vua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng hoa đội đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng lá đội đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng nguyệt quế",
+            "type": "",
+            "example": {
+                "en": "Don't you remember what Cho said about Rowena Ravenclaw's diadem?",
+                "vi": "Anh còn nhớ Cho đã nói gì về Vòng Nguyệt Quế của Ravenclaw chứ?"
+            }
+        },
+        {
+            "content": "vương miện",
+            "type": "",
+            "example": {
+                "en": "And he is not to come with regal pomp and splendor—no robes of royalty nor any sparkling diadems.",
+                "vi": "Và ngài không đến với nghi thức long trọng và vinh hiển dành cho vua—không vương phục cũng không vương miện lóng lánh."
+            }
+        },
+        {
+            "content": "vương quyền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

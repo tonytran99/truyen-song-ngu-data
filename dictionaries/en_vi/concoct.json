@@ -1,0 +1,71 @@
+{
+    "word": "concoct",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkäkt/",
+            "/kənˈkɑkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkɒkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chế",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "pha",
+            "type": "verb noun",
+            "example": {
+                "en": "How about some more of Stifmeister's collegiate concoction?",
+                "vi": "Dùng thêm kiểu pha trộn đại học của Stifmiester nữa nhé?"
+            }
+        },
+        {
+            "content": "bày đặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bịa ra",
+            "type": "",
+            "example": {
+                "en": "He concocted a story about her getting it from a German officer.",
+                "vi": "Hắn đã bịa ra câu chuyện về việc bà hắn lấy nó từ một sĩ quan Đức."
+            }
+        },
+        {
+            "content": "dựng lên",
+            "type": "",
+            "example": {
+                "en": "I think you concocted this entire scenario to trick me into incriminating myself.",
+                "vi": "Tôi nghĩ anh đã dựng lên màn kịch này để lừa tôi tự buộc tội mình thì có."
+            }
+        },
+        {
+            "content": "đặt ra",
+            "type": "",
+            "example": {
+                "en": "They concocted such phrases as \" kill ratios \", \" search and destroy \",",
+                "vi": "Họ đặt ra những khái niệm như \" tỷ lệ giết, \" \" tìm và diệt, \""
+            }
+        },
+        {
+            "content": "tạo ra",
+            "type": "",
+            "example": {
+                "en": "And I have concocted a questionnaire to see to what degree you express dopamine, serotonin, estrogen and testosterone.",
+                "vi": "Và tôi đã tạo ra một bộ câu hỏi để tìm xem bạn thể hiện tới mức độ nào dopamine, serotonin, estrogen và testosterone."
+            }
+        }
+    ]
+}

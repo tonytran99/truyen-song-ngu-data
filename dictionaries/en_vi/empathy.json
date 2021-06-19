@@ -1,0 +1,45 @@
+{
+    "word": "empathy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈempəTHē/",
+            "/ˈɛmpəθi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmpəθi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thấu cảm",
+            "type": "noun",
+            "example": {
+                "en": "It was as though they knew the words but not the music of empathy.",
+                "vi": "Giống như là họ biết lời nhưng không biết nhạc điệu của sự thấu cảm."
+            }
+        },
+        {
+            "content": "đồng cảm",
+            "type": "",
+            "example": {
+                "en": "Tanner, the hallmark of a sociopath is a lack of empathy.",
+                "vi": "Tanner, dấu hiệu nhận biết một kẻ điên là sự thiếu đồng cảm."
+            }
+        },
+        {
+            "content": "sự thông cảm",
+            "type": "",
+            "example": {
+                "en": "Downhearted ones may need empathy more than answers.",
+                "vi": "Những người ngã lòng có lẽ cần sự thông cảm hơn là đưa ra giải pháp cho họ."
+            }
+        }
+    ]
+}

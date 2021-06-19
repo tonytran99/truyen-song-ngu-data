@@ -1,0 +1,43 @@
+{
+    "word": "burgle",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ăn trộm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "trộm",
+            "type": "verb",
+            "example": {
+                "en": "I mean, even I'd burgle a house with flowers left outside.",
+                "vi": "Thậm chí cả trộm cũng sẽ để ý."
+            }
+        },
+        {
+            "content": "ăn trộm bẻ khoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn trộm đào ngạch",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

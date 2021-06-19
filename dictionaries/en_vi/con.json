@@ -1,0 +1,82 @@
+{
+    "word": "con",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kän/",
+            "/kɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {
+                "en": "You know, I've collared lots of con men over the years, best in the business.",
+                "vi": "Anh biết đấy, tôi đã nắm cổ rất nhiều dân lừa bịp, những kẻ giói nh"
+            }
+        },
+        {
+            "content": "lái",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "học thuộc lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa gạt",
+            "type": "",
+            "example": {
+                "en": "Dave used to con her into getting naked by saying that her clothes had ghosts in them.",
+                "vi": "Dave thường xuyên lừa gạt cô ấy cởi trần truồng bằng cách nói rằng co ma ẩn trong quần áo cô ấy."
+            }
+        },
+        {
+            "content": "nghiên cứu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nghiền ngẫm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chống lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lừa gạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự trái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều khiển",
+            "type": "",
+            "example": {
+                "en": "When I was running from the con trol room, when I yelled at you.",
+                "vi": "Khi tôi chạy khỏi phòng điều khiển, khi tôi hét lên với anh."
+            }
+        }
+    ]
+}

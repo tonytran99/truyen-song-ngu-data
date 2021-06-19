@@ -1,0 +1,55 @@
+{
+    "word": "concept",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌsept/",
+            "/ˈkɑnˌsɛpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnsɛpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khái niệm",
+            "type": "noun",
+            "example": {
+                "en": "Novelty is a concept of commerce, not an aesthetic concept.",
+                "vi": "Sự mới lạ là một khái niệm thuộc về kinh doanh, không phải một khái niệm nghệ thuật."
+            }
+        },
+        {
+            "content": "quan niệm",
+            "type": "noun",
+            "example": {
+                "en": "A child-rearing concept that has been skillfully promoted is called quality time.",
+                "vi": "Một quan niệm nuôi dạy con gọi là thời gian chất lượng đã được quảng bá khéo léo."
+            }
+        },
+        {
+            "content": "概念",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "觀念",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ý niệm",
+            "type": "noun",
+            "example": {
+                "en": "We need to find a way to translate this into an emotional concept.",
+                "vi": "Chúng ta cần tìm cách chuyển nó thành một ý niệm cảm xúc."
+            }
+        }
+    ]
+}

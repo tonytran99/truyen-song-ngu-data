@@ -1,0 +1,55 @@
+{
+    "word": "both",
+    "type": [
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bōTH/",
+            "/boʊθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəʊθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cả hai",
+            "type": "determiner, noun",
+            "example": {
+                "en": "The last few days have been very busy for both of us.",
+                "vi": "Mấy ngày vừa qua là những ngày rất bận rộn cho cả hai chúng tôi."
+            }
+        },
+        {
+            "content": "cả",
+            "type": "adjective",
+            "example": {
+                "en": "He is already skilled in both math and literature.",
+                "vi": "Nó đã giỏi toán, còn giỏi cả văn."
+            }
+        },
+        {
+            "content": "lưỡng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đều",
+            "type": "adverb",
+            "example": {
+                "en": "Both Tom and I are very proud of you.",
+                "vi": "Cả Tom và tôi đều rất tự hào về bạn."
+            }
+        },
+        {
+            "content": "caû hai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "gender",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjendər/",
+            "/ˈdʒɛndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống",
+            "type": "noun",
+            "example": {
+                "en": "placement of indirect, direct objects, gender and so forth.",
+                "vi": "thay thế gián tiếp, tân ngữ trực tiếp, giống ..."
+            }
+        },
+        {
+            "content": "giới tính",
+            "type": "noun",
+            "example": {
+                "en": "Well, it's that pesky business of the gender pay gap.",
+                "vi": "Vâng, đó là thứ nhức nhối trong vấn đề khoảng cách lương theo giới tính."
+            }
+        },
+        {
+            "content": "giới",
+            "type": "noun",
+            "example": {
+                "en": "What have you done to further gender equality?",
+                "vi": "Bà đã làm gì để thúc đẩy bình đẳng giới?"
+            }
+        },
+        {
+            "content": "engender",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loài",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "giới tính (xã hội)",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

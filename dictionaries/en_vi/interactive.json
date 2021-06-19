@@ -1,0 +1,48 @@
+{
+    "word": "interactive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈaktiv/",
+            "/ˌɪn(t)ərˈæktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntərˈaktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tác động qua lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảnh hưởng lẫn nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có sự tương tác",
+            "type": "",
+            "example": {
+                "en": "Now, the result of that is that you can't have real interactivity.",
+                "vi": "Kết quả là không có sự tương tác thật của nhân vật."
+            }
+        },
+        {
+            "content": "tương tác",
+            "type": "noun",
+            "example": {
+                "en": "And it is our interactions and the clustering of those interactions.",
+                "vi": "Và đó chính là những tương tác của chúng ta và sự tập hợp những tương tác đó."
+            }
+        }
+    ]
+}

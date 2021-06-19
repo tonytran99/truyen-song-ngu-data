@@ -1,0 +1,38 @@
+{
+    "word": "vexed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vekst/",
+            "/vɛkst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛkst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bực tức",
+            "type": "adjective",
+            "example": {
+                "en": "Let them what's troubled, what's vexed of mind, take heart.",
+                "vi": "Những ai đang ưu phiền, đang bực tức, hãy lắng nghe."
+            }
+        },
+        {
+            "content": "phật ý",
+            "type": "adjective",
+            "example": {
+                "en": "It seems quite vexing.",
+                "vi": "Có vẻ như điều này sẽ làm phật ý nhiều người."
+            }
+        }
+    ]
+}

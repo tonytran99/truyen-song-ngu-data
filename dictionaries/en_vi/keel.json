@@ -1,0 +1,71 @@
+{
+    "word": "keel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kēl/",
+            "/kil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sống thuyền",
+            "type": "",
+            "example": {
+                "en": "It had neither bow nor stern, keel nor rudder—no curves.",
+                "vi": "Nó không có đuôi, mũi, sống thuyền, bánh lái và không có đường cong nào."
+            }
+        },
+        {
+            "content": "thuyền",
+            "type": "noun",
+            "example": {
+                "en": "It had neither bow nor stern, keel nor rudder—no curves.",
+                "vi": "Nó không có đuôi, mũi, sống thuyền, bánh lái và không có đường cong nào."
+            }
+        },
+        {
+            "content": "lườn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lật úp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sống tàu thuỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàu thuỷ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Sống thuyền",
+            "type": "",
+            "example": {
+                "en": "It had neither bow nor stern, keel nor rudder—no curves.",
+                "vi": "Nó không có đuôi, mũi, sống thuyền, bánh lái và không có đường cong nào."
+            }
+        },
+        {
+            "content": "sống tàu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

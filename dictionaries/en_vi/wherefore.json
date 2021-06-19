@@ -1,0 +1,72 @@
+{
+    "word": "wherefore",
+    "type": [
+        "noun",
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)werˌfôr/",
+            "/ˈ(h)wɛrˌfɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːfɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cớ",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "do gì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lý do",
+            "type": "noun",
+            "example": {
+                "en": "52 Wherefore, for this cause preached the apostles unto the world the resurrection of the dead.",
+                "vi": "52 Vậy nên, vì lý do này, các sứ đồ đã thuyết giảng cho thế gian biết về sự phục sinh của những kẻ chết."
+            }
+        },
+        {
+            "content": "tại sao",
+            "type": "adverb",
+            "example": {
+                "en": "\" O Romeo, Romeo, wherefore art thou Romeo?",
+                "vi": "\" Ôi Roméo, Roméo, tại sao chàng lại là Roméo?"
+            }
+        },
+        {
+            "content": "vì sao",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "vì thế",
+            "type": "",
+            "example": {
+                "en": "Wherefore the book shall be kept from them.",
+                "vi": "Vì thế sách ấy phải được cất giấu khỏi họ."
+            }
+        },
+        {
+            "content": "vì vậy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

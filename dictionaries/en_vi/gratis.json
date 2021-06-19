@@ -1,0 +1,47 @@
+{
+    "word": "gratis",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡradəs/",
+            "/ˈɡrædəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡratɪs/",
+            "/ˈɡrɑːtɪs/",
+            "/ˈɡreɪtɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không mất tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biếu không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho không",
+            "type": "",
+            "example": {
+                "en": "So, you know, now I'm persona non \" gratis \" or whatever.",
+                "vi": "Nên giờ tôi như kẻ cho không hay gì cũng được."
+            }
+        },
+        {
+            "content": "không lấy tiền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

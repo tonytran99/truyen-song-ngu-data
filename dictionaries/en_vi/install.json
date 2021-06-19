@@ -1,0 +1,46 @@
+{
+    "word": "install",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈstôl/",
+            "/ɪnˈstɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈstɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cài đặt",
+            "type": "",
+            "example": {
+                "en": "Whatever happens to me, don't stop installing that software.",
+                "vi": "Dù cho có chuyện gì xảy ra với tôi, đừng dừng cài đặt phần mềm đó."
+            }
+        },
+        {
+            "content": "bố trí",
+            "type": "",
+            "example": {
+                "en": "From these contexts was born an installation in the art space",
+                "vi": "Từ những tình huống này một bố trí không gian nghệ thuật được hình thành"
+            }
+        },
+        {
+            "content": "lắp đặt",
+            "type": "",
+            "example": {
+                "en": "And in his day, a million dollar gardens and incredible installations.",
+                "vi": "Và ở thời của ông ấy, những khu vườn triệu đô và những sự lắp đặt phi thường."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "aesthetics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/esˈTHediks/",
+            "/ɛsˈθɛdɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːsˈθɛtɪks/",
+            "/ɛsˈθɛtɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỹ học",
+            "type": "noun",
+            "example": {
+                "en": "I occasionally write about the aesthetics of photography.",
+                "vi": "Tôi thỉng thoảng có viết về quan điểm mỹ học trong nhiếp ảnh."
+            }
+        },
+        {
+            "content": "美學",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thẩm mỹ",
+            "type": "",
+            "example": {
+                "en": "And what's most important for me is the beauty and the aesthetic,",
+                "vi": "Với tôi, điều quan trọng nhất là tính thẩm mỹ và nghệ thuật,"
+            }
+        },
+        {
+            "content": "thẩm mỹ học",
+            "type": "noun",
+            "example": {
+                "en": "'Cause whoever said aesthetics aren't important.",
+                "vi": "Vậy mà ai cũng nói thẩm mỹ học không quan trọng đấy."
+            }
+        }
+    ]
+}

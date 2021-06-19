@@ -1,0 +1,45 @@
+{
+    "word": "curable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͝orəb(ə)l/",
+            "/ˈkjʊrəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjʊərəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữa khỏi được",
+            "type": "",
+            "example": {
+                "en": "and transforming that into a curable, or treatable illness.",
+                "vi": "trở thành các bệnh hoàn toàn có thể chữa khỏi được."
+            }
+        },
+        {
+            "content": "chữa được",
+            "type": "",
+            "example": {
+                "en": "And I'm guessing it's not curable.",
+                "vi": "Và tôi đoán là nó không thể chữa được."
+            }
+        },
+        {
+            "content": "có thể chữa khỏi",
+            "type": "",
+            "example": {
+                "en": "and transforming that into a curable, or treatable illness.",
+                "vi": "trở thành các bệnh hoàn toàn có thể chữa khỏi được."
+            }
+        }
+    ]
+}

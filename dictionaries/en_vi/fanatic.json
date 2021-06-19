@@ -1,0 +1,38 @@
+{
+    "word": "fanatic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈnadik/",
+            "/fəˈnædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈnatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuồng tín",
+            "type": "adjective",
+            "example": {
+                "en": "Indeed my husband was simply a fanatical fisherman.",
+                "vi": "Thực sự thì chồng tôi đơn giản chỉ là một ngư dân cuồng tín."
+            }
+        },
+        {
+            "content": "người cuồng tín",
+            "type": "",
+            "example": {
+                "en": "The wealthy fanatics who were previously sponsoring this kind of activity are now less generous.",
+                "vi": "Sự thịnh vượng của những người cuồng tín chỉ đã từng đỡ đầu cho những hoạt động trên nay đang dần hiếm hoi."
+            }
+        }
+    ]
+}

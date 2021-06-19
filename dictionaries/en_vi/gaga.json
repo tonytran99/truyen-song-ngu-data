@@ -1,0 +1,53 @@
+{
+    "word": "gaga",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡäˌɡä/",
+            "/ˈɡɑˌɡɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːɡɑː/",
+            "/ˈɡaɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngốc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "già nua lẫn cẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lẩm cẩm",
+            "type": "",
+            "example": {
+                "en": "Thank you, but I'm not gaga yet.",
+                "vi": "Cám ơn, Theo, nhưng Cha chưa già nua lẩm cẩm."
+            }
+        },
+        {
+            "content": "gaga",
+            "type": "",
+            "example": {
+                "en": "Lady gaga was there last Friday.",
+                "vi": "Lady Gaga đã đến đó hồi thứ 6 tuần trước."
+            }
+        }
+    ]
+}

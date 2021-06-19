@@ -1,0 +1,50 @@
+{
+    "word": "inject",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈjekt/",
+            "/ɪnˈdʒɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʒɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiêm",
+            "type": "",
+            "example": {
+                "en": "You inject that stuff into your body to control the Lickers, right?",
+                "vi": "Cách anh tiêm nó vào để kiềm Licker à?"
+            }
+        },
+        {
+            "content": "chích",
+            "type": "verb",
+            "example": {
+                "en": "They gave me my injection so now I'm back to normal.",
+                "vi": "Họ đã chích cho tôi một mũi và bây giờ tôi đã trở lại bình thường."
+            }
+        },
+        {
+            "content": "một cách lạc lõng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêm thuốc",
+            "type": "",
+            "example": {
+                "en": "I suppose you think lethal injection's funny too.",
+                "vi": "Chắc các anh nghĩ tiêm thuốc tử hình cũng hay?"
+            }
+        }
+    ]
+}

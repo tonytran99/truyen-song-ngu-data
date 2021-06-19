@@ -1,0 +1,46 @@
+{
+    "word": "voyage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvoiij/",
+            "/ˈvɔɪɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɔɪɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyến",
+            "type": "noun",
+            "example": {
+                "en": "I learned that lesson on our voyage here.",
+                "vi": "Tôi học được trong chuyến đi ở đây."
+            }
+        },
+        {
+            "content": "chuyến du hành",
+            "type": "",
+            "example": {
+                "en": "In short, our cosmic voyages will be fraught with dangers both known and unknown.",
+                "vi": "Tóm lại, chuyến du hành vũ trụ của ta sẽ đầy hiểm nguy đã biết và chưa biết."
+            }
+        },
+        {
+            "content": "cuộc hành trình",
+            "type": "noun",
+            "example": {
+                "en": "He meets cannibals and giants on his voyages.",
+                "vi": "Anh ấy đụng phải kẻ ăn thịt người và những tên khổng lồ trong cuộc hành trình."
+            }
+        }
+    ]
+}

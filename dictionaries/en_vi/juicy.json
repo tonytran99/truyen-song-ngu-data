@@ -1,0 +1,60 @@
+{
+    "word": "juicy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjo͞osē/",
+            "/ˈdʒusi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒuːsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hay",
+            "type": "conjunction verb adjective",
+            "example": {
+                "en": "See, I told you this is the really juicy stuff.",
+                "vi": "Thấy không, tôi đã nói với các bạn đây là điều thật sự hay ho."
+            }
+        },
+        {
+            "content": "có nhiều nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lý thú",
+            "type": "",
+            "example": {
+                "en": "Five men is a juicy opportunity.",
+                "vi": "5 người là một cơ hội lý thú."
+            }
+        },
+        {
+            "content": "rôm rả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẩm ướt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mọng nước",
+            "type": "",
+            "example": {
+                "en": "Pressed your face to the fire like you're a nice juicy mutton chop.",
+                "vi": "Nhấn mặt của ông vào ngọn lửa như thể ông là miếng thịt cừu mọng nước."
+            }
+        }
+    ]
+}

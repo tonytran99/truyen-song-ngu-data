@@ -1,0 +1,75 @@
+{
+    "word": "epic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈepik/",
+            "/ˈɛpɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛpɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên anh hùng ca",
+            "type": "noun",
+            "example": {
+                "en": "I liked this one the best: a level 60 Warlock with lots of epics for 174,000 dollars.",
+                "vi": "Tôi thích cái này nhất một thầy phù thủy ở bậc 60 với rất nhiều thiên anh hùng ca với giá 174 nghìn đô"
+            }
+        },
+        {
+            "content": "thiên sử thi",
+            "type": "noun",
+            "example": {
+                "en": "HAVE you ever read some of the Iliad or the Odyssey, two great epic poems of ancient Greece?",
+                "vi": "BẠN có bao giờ đọc Iliad hay Odyssey, hai thiên sử thi của Hy Lạp cổ chưa?"
+            }
+        },
+        {
+            "content": "anh hùng ca",
+            "type": "noun",
+            "example": {
+                "en": "I liked this one the best: a level 60 Warlock with lots of epics for 174,000 dollars.",
+                "vi": "Tôi thích cái này nhất một thầy phù thủy ở bậc 60 với rất nhiều thiên anh hùng ca với giá 174 nghìn đô"
+            }
+        },
+        {
+            "content": "sử thi",
+            "type": "",
+            "example": {
+                "en": "Gadreel, we are writing our own epic story here.",
+                "vi": "Gadreel, chúng ta đang viết nên câu chuyện sử thi của chính chúng ta."
+            }
+        },
+        {
+            "content": "trường ca",
+            "type": "noun",
+            "example": {
+                "en": "Numerous stone carvings adorn the walls of the temple, depicting scenes from the Hindu epic the Mahabharata.",
+                "vi": "Nhiều bức chạm khắc đá trang trí cho tường ngôi đền, miêu tả cảnh trong trường ca Hindu Mahabharata."
+            }
+        },
+        {
+            "content": "có thể viết thành sử thi",
+            "type": "adjective",
+            "example": {
+                "en": "Your uselessness is epic.",
+                "vi": "Sự vô tích sự của anh có thể viết thành sử thi."
+            }
+        },
+        {
+            "content": "sự nghiệp anh hùng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

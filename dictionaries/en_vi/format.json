@@ -1,0 +1,83 @@
+{
+    "word": "format",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌmat/",
+            "/ˈfɔrˌmæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːmat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "định dạng",
+            "type": "noun",
+            "example": {
+                "en": "These compressed formats are themselves written in binary code.",
+                "vi": "Các định dạng nén này cũng được viết bằng dãy nhị phân."
+            }
+        },
+        {
+            "content": "dạng thức",
+            "type": "noun",
+            "example": {
+                "en": "the document is not in the correct file format",
+                "vi": "tài liệu không phải có dạng thức tập tin đúng"
+            }
+        },
+        {
+            "content": "kiểu",
+            "type": "noun",
+            "example": {
+                "en": "Look, the new small format camera from Leica",
+                "vi": "Nhìn nè, một cái máy chụp hình Leica khổ nhỏ kiểu mới."
+            }
+        },
+        {
+            "content": "khuôn dạng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thiết kế",
+            "type": "verb",
+            "example": {
+                "en": "What are the reasons for the new format?",
+                "vi": "Tại sao các tờ chuyên đề được thiết kế lại?"
+            }
+        },
+        {
+            "content": "định dạng:",
+            "type": "noun",
+            "example": {
+                "en": "These compressed formats are themselves written in binary code.",
+                "vi": "Các định dạng nén này cũng được viết bằng dãy nhị phân."
+            }
+        },
+        {
+            "content": "khổ",
+            "type": "noun",
+            "example": {
+                "en": "Look, the new small format camera from Leica",
+                "vi": "Nhìn nè, một cái máy chụp hình Leica khổ nhỏ kiểu mới."
+            }
+        },
+        {
+            "content": "hình dạng",
+            "type": "",
+            "example": {
+                "en": "Bizarre-shaped rock formations called the Faraglioni",
+                "vi": "Tảng đá có hình dạng kỳ dị mang tên Faraglioni"
+            }
+        }
+    ]
+}

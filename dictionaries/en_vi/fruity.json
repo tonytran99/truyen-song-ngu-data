@@ -1,0 +1,64 @@
+{
+    "word": "fruity",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfro͞odē/",
+            "/ˈfrudi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfruːti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chớt nhã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có mùi nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có mùi trái cây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khêu gợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngọt lự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngọt xớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái cây",
+            "type": "noun",
+            "example": {
+                "en": "Take the Tooty-Fruity sitting in front of me for example .",
+                "vi": "Chẳng hạn như \" món kem tươi trái cây \" đang ngồi trước mặt tôi đây ."
+            }
+        },
+        {
+            "content": "yêu người cùng tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

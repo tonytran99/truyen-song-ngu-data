@@ -1,0 +1,112 @@
+{
+    "word": "cable",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkābəl/",
+            "/ˈkeɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cáp",
+            "type": "noun",
+            "example": {
+                "en": "Tom has a drawer full of USB cables.",
+                "vi": "Tom có một ngăn tủ đầy cáp USB."
+            }
+        },
+        {
+            "content": "dây cáp",
+            "type": "noun",
+            "example": {
+                "en": "The cable over there, that's an optical fiber.",
+                "vi": "Dây cáp ở kia, nó là dây cáp quang."
+            }
+        },
+        {
+            "content": "truyền hình cáp",
+            "type": "noun",
+            "example": {
+                "en": "I got the cable guy coming on Wednesday.",
+                "vi": "Tôi đã gọi người lắp truyền hình cáp rồi, thứ 4 là có."
+            }
+        },
+        {
+            "content": "dây neo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ",
+            "type": "noun adjective Suffix",
+            "example": {}
+        },
+        {
+            "content": "cablegram",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buộc bằng dây cáp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cáp xuyên đại dương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cột bằng dây cáp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh cáp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường chạm xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường viền xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dây",
+            "type": "noun",
+            "example": {
+                "en": "Are you sure you cut the right cable?",
+                "vi": "Anh có chắc là cắt đúng dây không đấy?"
+            }
+        },
+        {
+            "content": "điện tín",
+            "type": "noun",
+            "example": {
+                "en": "Anyone in England to whom we can send a cable?",
+                "vi": "Có ai ở Anh để ta có thể gởi điện tín tới không?"
+            }
+        }
+    ]
+}

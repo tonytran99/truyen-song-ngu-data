@@ -1,0 +1,50 @@
+{
+    "word": "underwater",
+    "type": [
+        "verb",
+        "noun",
+        "adverb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈwôdər/",
+            "/ˌəndərˈwɔdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈwɔːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm ở dưới mặt nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước ngầm",
+            "type": "",
+            "example": {
+                "en": "I'm an underwater explorer,",
+                "vi": "Tôi là nhà thám hiểm nước ngầm,"
+            }
+        },
+        {
+            "content": "đặt dưới mặt nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở dưới nước",
+            "type": "",
+            "example": {
+                "en": "A major portion of the movie takes place underwater.",
+                "vi": "Phần lớn bộ phim lấy khung cảnh ở dưới nước."
+            }
+        }
+    ]
+}

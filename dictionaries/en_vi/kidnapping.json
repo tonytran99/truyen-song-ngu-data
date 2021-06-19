@@ -1,0 +1,43 @@
+{
+    "word": "kidnapping",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkidnapiNG/",
+            "/ˈkɪdnæpɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪdnapɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt cóc",
+            "type": "noun",
+            "example": {
+                "en": "The journalist was kidnapped by terrorists.",
+                "vi": "Nhà báo bị bắt cóc bởi khủng bố."
+            }
+        },
+        {
+            "content": "sự bắt cóc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vụ bắt cóc",
+            "type": "noun",
+            "example": {
+                "en": "Who are the ones responsible for the kidnappings in Mexico?",
+                "vi": "Ai là kẻ chủ mưu những vụ bắt cóc ở thành phố Mexico?"
+            }
+        }
+    ]
+}

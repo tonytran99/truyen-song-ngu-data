@@ -1,0 +1,55 @@
+{
+    "word": "buggy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəɡē/",
+            "/ˈbəɡi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɡi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe độc mã",
+            "type": "noun",
+            "example": {
+                "en": "It's where you left it, in the back of the buggy.",
+                "vi": "Con đã bỏ nó lại ở đó, đằng sau chiếc xe độc mã."
+            }
+        },
+        {
+            "content": "có rệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều rệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe một ngựa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đầy bọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầy lỗi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

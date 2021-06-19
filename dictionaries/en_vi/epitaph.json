@@ -1,0 +1,54 @@
+{
+    "word": "epitaph",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈepəˌtaf/",
+            "/ˈɛpəˌtæf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛpɪtɑːf/",
+            "/ˈɛpɪtaf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "văn bia",
+            "type": "noun",
+            "example": {
+                "en": "I cannot allow this to be my epitaph.",
+                "vi": "Không thể để điều này ghi trên văn bia của con được."
+            }
+        },
+        {
+            "content": "bi chí",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bia mộ",
+            "type": "noun",
+            "example": {
+                "en": "His epitaph reads: “He died for God’s honor.”",
+                "vi": "Trên bia mộ của anh có dòng chữ: “Anh hy sinh vì tôn vinh Đức Chúa Trời”."
+            }
+        },
+        {
+            "content": "mộ chi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "văn mộ chí",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

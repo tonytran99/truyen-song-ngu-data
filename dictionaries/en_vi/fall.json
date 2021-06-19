@@ -1,0 +1,380 @@
+{
+    "word": "fall",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôl/",
+            "/fɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rớt",
+            "type": "verb",
+            "example": {
+                "en": "I told you it was all falling out.",
+                "vi": "Em đã nói với chị là tất cả đã rớt mất."
+            }
+        },
+        {
+            "content": "ngã",
+            "type": "verb",
+            "example": {
+                "en": "If it went to his brain, it could explain the aphasia and the falling down.",
+                "vi": "Nếu thứ đó đi lên não có thể giải thích chứng mất ngôn ngữ và cú ngã."
+            }
+        },
+        {
+            "content": "rơi",
+            "type": "verb",
+            "example": {
+                "en": "Rain does not fall from the ground.",
+                "vi": "Mưa không rơi từ mặt đất."
+            }
+        },
+        {
+            "content": "té",
+            "type": "verb",
+            "example": {
+                "en": "It's like falling off a cliff in slow motion.",
+                "vi": "Nó giống như té thật chậm khỏi một vách núi, anh biết không?"
+            }
+        },
+        {
+            "content": "mùa thu",
+            "type": "noun",
+            "example": {
+                "en": "The leaves turn red in the fall.",
+                "vi": "Lá chuyển sang màu đỏ vào mùa thu."
+            }
+        },
+        {
+            "content": "xuống",
+            "type": "verb",
+            "example": {
+                "en": "It's still remembered. The fall of life expectancy.",
+                "vi": "Người ta vẫn còn nhớ. Tuổi thọ trung bình xuống dốc."
+            }
+        },
+        {
+            "content": "sự rơi",
+            "type": "",
+            "example": {
+                "en": "Worshiping that calf caused our people to fall into idolatry.",
+                "vi": "Việc thờ con bò đó đã khiến dân sự rơi vào sự thờ hình tượng."
+            }
+        },
+        {
+            "content": "thu",
+            "type": "noun",
+            "example": {
+                "en": "The leaves turn red in the fall.",
+                "vi": "Lá chuyển sang màu đỏ vào mùa thu."
+            }
+        },
+        {
+            "content": "đổ",
+            "type": "verb",
+            "example": {
+                "en": "Soon all the trees in the world will fall.",
+                "vi": "Sớm muốn tất cả những cây trên trái đất cũng đổ hết thôi."
+            }
+        },
+        {
+            "content": "sa",
+            "type": "verb",
+            "example": {
+                "en": "Two addicts made it to sobriety, only to fall off the wagon.",
+                "vi": "Hai tên nghiện đã cai thành công rồi lại tiếp tục sa ngã."
+            }
+        },
+        {
+            "content": "rơi xuống",
+            "type": "",
+            "example": {
+                "en": "The horns of the altar will be cut off and fall to the earth.",
+                "vi": "Các sừng bàn thờ sẽ bị chặt và rơi xuống đất."
+            }
+        },
+        {
+            "content": "thác",
+            "type": "",
+            "example": {
+                "en": "If we go that way now, we'll have to walk all night to make it to the falls.",
+                "vi": "Nếu đi lối đó, muốn tới thác sẽ phải đi suốt đêm đấy."
+            }
+        },
+        {
+            "content": "rụng",
+            "type": "verb",
+            "example": {
+                "en": "Maybe if I were happier, my hair wouldn't be falling out.",
+                "vi": "Có lẽ nếu tôi là người hạnh phúc, tóc của tôi đã không bị rụng."
+            }
+        },
+        {
+            "content": "sụt",
+            "type": "verb",
+            "example": {
+                "en": "And the domestic market is slow , with the price of goods falling .",
+                "vi": "Và thị trường trong nước hoạt động chậm chạp , giá hàng hoá đang sụt giảm ."
+            }
+        },
+        {
+            "content": "nhằm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xìu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ghềnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bậc nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cột nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dây ròng rọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốc xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hướng đi xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "keo vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưới che mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lượng mưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lượng tuyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lứa cừu con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mùa lá rụng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mạng che mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số lượng cây ngả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số lượng gỗ xẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giảm giá",
+            "type": "noun",
+            "example": {
+                "en": "And the falling price of drugs has a lot to do with that.",
+                "vi": "Và sự giảm giá của các loại thuốc có liên quan rất nhiều đến điều này."
+            }
+        },
+        {
+            "content": "sự hạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mất địa vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rũ xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rụng xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sa ngã",
+            "type": "noun",
+            "example": {
+                "en": "Because I have not the power, in consequence of that which the fall has brought upon me. ...",
+                "vi": "Bởi vì tôi không có quyền năng, vì sự sa ngã mà ra... ."
+            }
+        },
+        {
+            "content": "sự sa sút",
+            "type": "noun",
+            "example": {
+                "en": "In this context, it does not mean just a lapse or a falling away due to spiritual weakness.",
+                "vi": "Trong toàn bộ đoạn văn, đó không chỉ là một sự sa sút hay bỏ đi vì đức tin yếu kém."
+            }
+        },
+        {
+            "content": "sự suy sụp",
+            "type": "",
+            "example": {
+                "en": "In the long run, this could result in a spiritual fall.",
+                "vi": "Rốt cuộc, điều này có thể dẫn đến sự suy sụp về thiêng liêng."
+            }
+        },
+        {
+            "content": "sự sụp đổ",
+            "type": "",
+            "example": {
+                "en": "He secrets himself among the rebels, to hasten their fall.",
+                "vi": "Anh ta bí mật thâm nhập vào trại phiến loạn, để đẩy nhanh sự sụp đổ."
+            }
+        },
+        {
+            "content": "sự sụt giá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự vật ngã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xuống dốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự xuống thế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thác nước",
+            "type": "",
+            "example": {
+                "en": "It's a back to school thing at the falls.",
+                "vi": "Tiệc tựu trường tại thác nước"
+            }
+        },
+        {
+            "content": "thúc thủ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thất thủ",
+            "type": "verb",
+            "example": {
+                "en": "There won't be anywhere to hide if the castle falls.",
+                "vi": "Hắc Thành thất thủ thì sẽ chẳng còn chỗ nào trốn."
+            }
+        },
+        {
+            "content": "đổ nhào",
+            "type": "",
+            "example": {
+                "en": "They all fall down.",
+                "vi": "Tất cả đã đổ nhào."
+            }
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "秋",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạ thấp",
+            "type": "",
+            "example": {
+                "en": "Sea levels rise and fall.",
+                "vi": "Mực nước biển nâng cao và hạ thấp."
+            }
+        },
+        {
+            "content": "sụp đổ",
+            "type": "",
+            "example": {
+                "en": "And you know who will suffer the most if this all falls apart.",
+                "vi": "Và ngươi biết ai sẽ phải chịu thống khổ nhất nếu mọi thứ sụp đổ."
+            }
+        },
+        {
+            "content": "trở nên",
+            "type": "verb",
+            "example": {
+                "en": "May they not allow their ‘hands to drop down,’ or fall limp.",
+                "vi": "Mong sao họ không để cho ‘tay họ trở nên yếu đuối’, hoặc uể oải."
+            }
+        },
+        {
+            "content": "xảy ra",
+            "type": "verb",
+            "example": {
+                "en": "I can not sit, staring, while our family falls apart.",
+                "vi": "Tôi không thể ngồi im khi mọi chuyện xảy ra như thế này được."
+            }
+        }
+    ]
+}

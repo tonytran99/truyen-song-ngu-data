@@ -1,0 +1,34 @@
+{
+    "word": "distillery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstil(ə)rē/",
+            "/dəˈstɪl(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstɪləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà máy rượu",
+            "type": "noun",
+            "example": {
+                "en": "ATF shut down a distillery in Breaux Bridge last week over a bad batch of vodka.",
+                "vi": "ATF đóng của một nhà máy rượu ở Breaux Bridge tuần trước vì 1 đợt vodka hỏng."
+            }
+        },
+        {
+            "content": "nhà máy cất",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

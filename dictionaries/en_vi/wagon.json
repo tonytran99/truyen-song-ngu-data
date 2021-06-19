@@ -1,0 +1,69 @@
+{
+    "word": "wagon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwaɡən/",
+            "/ˈwæɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwaɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe",
+            "type": "noun",
+            "example": {
+                "en": "Old crocodile teeth switching'the gold to the wagon?",
+                "vi": "Việc lão răng cá sấu chuyển vàng qua toa xe?"
+            }
+        },
+        {
+            "content": "xe bò",
+            "type": "",
+            "example": {
+                "en": "If you fail, I'll have you spreadeagled on a wagon wheel.",
+                "vi": "Nếu các bạn làm không xong, tôi sẽ cho trói giang tay các bạn lên bánh xe bò."
+            }
+        },
+        {
+            "content": "xe ngựa",
+            "type": "",
+            "example": {
+                "en": "Fella in the wagon ain't partial to company?",
+                "vi": "Người trong xe ngựa không ưa có bạn đồng hành sao?"
+            }
+        },
+        {
+            "content": "máy bay",
+            "type": "noun",
+            "example": {
+                "en": "I saw abandoned wagons and artillery and even the wreckage of an airplane.",
+                "vi": "Tôi thấy những xe kéo và pháo binh bị bỏ lại, thậm chí là xác của một chiếc máy bay."
+            }
+        },
+        {
+            "content": "toa trần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe goòng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xe trẻ con",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

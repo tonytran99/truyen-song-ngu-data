@@ -1,0 +1,34 @@
+{
+    "word": "circuitry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərkətrē/",
+            "/ˈsərkətri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːkɪtri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hệ thống mạch điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạch điện",
+            "type": "",
+            "example": {
+                "en": "A device which creates a cardiac arrest for broadband circuitry.",
+                "vi": "Là một cái máy, tạo ra kích thích trong mạch điện dải sóng rộng."
+            }
+        }
+    ]
+}

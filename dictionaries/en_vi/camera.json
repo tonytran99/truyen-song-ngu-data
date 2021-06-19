@@ -1,0 +1,113 @@
+{
+    "word": "camera",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkam(ə)rə/",
+            "/ˈkæm(ə)rə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkam(ə)rə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy hình",
+            "type": "noun",
+            "example": {
+                "en": "I'm not getting a feed from your camera.",
+                "vi": "Tôi không có tín hiệu nào từ máy hình của cô cả."
+            }
+        },
+        {
+            "content": "máy quay phim",
+            "type": "noun",
+            "example": {
+                "en": "Anybody here know how to work a video camera?",
+                "vi": "Có ai ở đây biết sử dụng máy quay phim?"
+            }
+        },
+        {
+            "content": "máy chụp hình",
+            "type": "noun",
+            "example": {
+                "en": "Will you get from in front of the camera?",
+                "vi": "Anh tránh cái máy chụp hình được không?"
+            }
+        },
+        {
+            "content": "máy chụp ảnh",
+            "type": "noun",
+            "example": {
+                "en": "And it seemed that whenever there was a camera around,",
+                "vi": "Và dường như mỗi khi có máy chụp ảnh"
+            }
+        },
+        {
+            "content": "máy ảnh",
+            "type": "noun",
+            "example": {
+                "en": "Japan's competitiveness in camera making is unchallenged.",
+                "vi": "Tính cạnh tranh của Nhật Bản trong việc sàn xuất máy ảnh là không thể nghi ngờ."
+            }
+        },
+        {
+            "content": "máy quay",
+            "type": "noun",
+            "example": {
+                "en": "Look at the camera so I can see you.",
+                "vi": "Nhìn vào máy quay đi để anh thấy em nào."
+            }
+        },
+        {
+            "content": "quay phim",
+            "type": "",
+            "example": {
+                "en": "Anybody here know how to work a video camera?",
+                "vi": "Có ai ở đây biết sử dụng máy quay phim?"
+            }
+        },
+        {
+            "content": "máy chụp phim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy lấy hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy phim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy quay truyền hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy thu hình",
+            "type": "",
+            "example": {
+                "en": "Ambrose is showing something to McCloy on a digital camera.",
+                "vi": "Ambrose đang đưa cho McCloy xem cái gì đó trên máy thu hình kỹ thuật số."
+            }
+        },
+        {
+            "content": "máy ghi hình",
+            "type": "",
+            "example": {
+                "en": "Believe it or not, everywhere Shaw's team is, the cameras are down.",
+                "vi": "Tin hay không, tất cả nơi chúng xuất hiện máy ghi hình đều tắt."
+            }
+        }
+    ]
+}

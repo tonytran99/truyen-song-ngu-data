@@ -1,0 +1,76 @@
+{
+    "word": "detective",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtektiv/",
+            "/dəˈtɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thám tử",
+            "type": "noun",
+            "example": {
+                "en": "I figured a detective would jump at the chance of something to detect.",
+                "vi": "Tôi nghĩ là một thám tử giỏi sẽ không bỏ qua cơ hội này."
+            }
+        },
+        {
+            "content": "thám tử trinh thám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trinh thám",
+            "type": "",
+            "example": {
+                "en": "You oughta write for one of those kooky detective magazines, make a fortune.",
+                "vi": "Anh mà viết cho những tờ tạp chí trinh thám thì kiếm bộn tiền đấy."
+            }
+        },
+        {
+            "content": "để dò ra",
+            "type": "",
+            "example": {
+                "en": "There's a dial on the bottom, but none of our equipment can detect any electrical or spectrographic signals.",
+                "vi": "Có số ở dưới đáy, nhưng chúng ta không có thiết bị để dò ra bất kỳ tín hiệu điện tử hay quang phổ nào."
+            }
+        },
+        {
+            "content": "để khám phá ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để phát hiện ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để tìm ra",
+            "type": "",
+            "example": {
+                "en": "But to find his name, and to do it in secret is a job of pure detective work.",
+                "vi": "Nhưng để tìm ra tên hắn, và tìm trong bí mật thì đó là một công việc trinh thám thuần túy."
+            }
+        },
+        {
+            "content": "Thám tử",
+            "type": "",
+            "example": {
+                "en": "Some undercover and a female detective.",
+                "vi": "Các cảnh sát chìm và nữ Thám Tử."
+            }
+        }
+    ]
+}

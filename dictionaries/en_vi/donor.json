@@ -1,0 +1,67 @@
+{
+    "word": "donor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdōnər/",
+            "/ˈdoʊnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəʊnə/",
+            "/ˈdəʊnɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người cho",
+            "type": "noun",
+            "example": {
+                "en": "Matching a donor’s blood and a patient’s blood is critical in transfusions.",
+                "vi": "Lựa máu người cho để hợp với máu người bệnh là thiết yếu trong việc truyền máu."
+            }
+        },
+        {
+            "content": "người quyên cúng",
+            "type": "",
+            "example": {
+                "en": "Today donors are spending billions of dollars on this.",
+                "vi": "Ngày nay những người quyên cúng đang chi hàng tỷ đô la vào cơ sở hạ tầng."
+            }
+        },
+        {
+            "content": "người biếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hiến tặng",
+            "type": "noun",
+            "example": {
+                "en": "Do you know your son was an organ donor?",
+                "vi": "Bà có biết con trai mình là một người hiến tặng nội tạng?"
+            }
+        },
+        {
+            "content": "người tặng",
+            "type": "",
+            "example": {
+                "en": "Parents, families, friends, and donors to the General Missionary Fund may also assist.",
+                "vi": "Cha mẹ, gia đình, bạn bè, và những người tặng tiền cho Quỹ Truyền Giáo Trung Ương cũng có thể phụ giúp."
+            }
+        },
+        {
+            "content": "tặng",
+            "type": "verb",
+            "example": {
+                "en": "Do you know your son was an organ donor?",
+                "vi": "Bà có biết con trai mình là một người hiến tặng nội tạng?"
+            }
+        }
+    ]
+}

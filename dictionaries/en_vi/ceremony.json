@@ -1,0 +1,63 @@
+{
+    "word": "ceremony",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈserəˌmōnē/",
+            "/ˈsɛrəˌmoʊni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛrɪməni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghi lễ",
+            "type": "noun",
+            "example": {
+                "en": "A staircase led up to a terrace where the king officiated at various ceremonies.",
+                "vi": "Một cầu thang dẫn lên sân thượng, nơi vua chủ trì những nghi lễ khác nhau."
+            }
+        },
+        {
+            "content": "nghi thức",
+            "type": "noun",
+            "example": {
+                "en": "Tokyo has often asked Washington to send an envoy to this annual ceremony .",
+                "vi": "Tokyo thường mời đại diện ngoại giao Washington đến tham dự nghi thức hàng năm này ."
+            }
+        },
+        {
+            "content": "sự khách sáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buổi lễ",
+            "type": "noun",
+            "example": {
+                "en": "The only thing not appropriate is this ceremony.",
+                "vi": "Thứ duy nhất không thích hợp là cái buổi lễ này."
+            }
+        },
+        {
+            "content": "lễ",
+            "type": "verb noun",
+            "example": {
+                "en": "The only thing not appropriate is this ceremony.",
+                "vi": "Thứ duy nhất không thích hợp là cái buổi lễ này."
+            }
+        },
+        {
+            "content": "sự kiểu cách",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

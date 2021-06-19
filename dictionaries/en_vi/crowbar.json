@@ -1,0 +1,48 @@
+{
+    "word": "crowbar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrōˌbär/",
+            "/ˈkroʊˌbɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrəʊbɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xà beng",
+            "type": "noun",
+            "example": {
+                "en": "I want a sledgehammer, I want a crowbar, I want a jackhammer, now!",
+                "vi": "Tôi cần một cái búa lớn, một cái xà beng, một búa khoan, ngay bây giờ!"
+            }
+        },
+        {
+            "content": "cái nạy nắp thùng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái xà beng",
+            "type": "noun",
+            "example": {
+                "en": "I want a sledgehammer, I want a crowbar, I want a jackhammer, now!",
+                "vi": "Tôi cần một cái búa lớn, một cái xà beng, một búa khoan, ngay bây giờ!"
+            }
+        },
+        {
+            "content": "cái đòn bẫy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

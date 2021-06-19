@@ -1,0 +1,44 @@
+{
+    "word": "exporter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekspôrdər/",
+            "/ˈɛkspɔrdər/",
+            "/ikˈspôrdər/",
+            "/ɪkˈspɔrdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspɔːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người xuất khẩu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hàng xuất khẩu",
+            "type": "",
+            "example": {
+                "en": "Except in our case, only three percent of exports go to the US.",
+                "vi": "Nhưng với chúng tôi, chỉ có 3% hàng xuất khẩu tới Mỹ thôi."
+            }
+        },
+        {
+            "content": "nhà xuất khẩu",
+            "type": "",
+            "example": {
+                "en": "So it kind of feels like the exporters win and the importers lose.",
+                "vi": "Vì vậy có cảm giác như nhà xuất khẩu thắng và nhà nhập khẩu thua."
+            }
+        }
+    ]
+}

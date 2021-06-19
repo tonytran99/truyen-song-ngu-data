@@ -1,0 +1,50 @@
+{
+    "word": "credible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkredəb(ə)l/",
+            "/ˈkrɛdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɛdɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tin được",
+            "type": "",
+            "example": {
+                "en": "Is this scenario credible?",
+                "vi": "Tình huống này có tin được không?"
+            }
+        },
+        {
+            "content": "đáng tin",
+            "type": "",
+            "example": {
+                "en": "We have credible intelligence that you're being targeted.",
+                "vi": "Chúng tôi có thông tin tình báo đáng tin cậy rằng ông đang là mục tiêu."
+            }
+        },
+        {
+            "content": "đáng tin cậy",
+            "type": "",
+            "example": {
+                "en": "We have credible intelligence that you're being targeted.",
+                "vi": "Chúng tôi có thông tin tình báo đáng tin cậy rằng ông đang là mục tiêu."
+            }
+        },
+        {
+            "content": "giống như thật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

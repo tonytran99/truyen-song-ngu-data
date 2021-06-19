@@ -1,0 +1,45 @@
+{
+    "word": "congee",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänjē/",
+            "/ˈkɑndʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒndʒiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cháo",
+            "type": "noun",
+            "example": {
+                "en": "Any fancy food can compare to this bowl of congee.",
+                "vi": "Không có thực phẩm nào tốt hơn bát cháo này."
+            }
+        },
+        {
+            "content": "粥",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước cháo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chúc",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

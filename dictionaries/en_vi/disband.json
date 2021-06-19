@@ -1,0 +1,42 @@
+{
+    "word": "disband",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈband/",
+            "/dɪsˈbænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈband/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải thể",
+            "type": "verb",
+            "example": {
+                "en": "The best way to fix the league is to disband it.",
+                "vi": "Cách tốt nhất để cứu liên minh là giải thể nó."
+            }
+        },
+        {
+            "content": "giải tán",
+            "type": "",
+            "example": {
+                "en": "We had our reasons for disbanding the Avengers.",
+                "vi": "Chúng ta có lí do của mình để giải tán biệt đội Avengers."
+            }
+        },
+        {
+            "content": "tán loạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

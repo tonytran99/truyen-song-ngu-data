@@ -1,0 +1,39 @@
+{
+    "word": "connotation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkänəˈtāSH(ə)n/",
+            "/ˌkɑnəˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒnəˈteɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghĩa rộng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nội hàm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ý nghĩa",
+            "type": "noun",
+            "example": {
+                "en": "you use it in a new context, you give it a new connotation,",
+                "vi": "bạn sử dụng nó trong một ngữ cảnh mới, là bạn cấp cho nó một ý nghĩa,"
+            }
+        }
+    ]
+}

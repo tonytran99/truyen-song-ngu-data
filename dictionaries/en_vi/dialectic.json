@@ -1,0 +1,43 @@
+{
+    "word": "dialectic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdīəˈlektik/",
+            "/ˌdaɪəˈlɛktɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdʌɪəˈlɛktɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biện chứng",
+            "type": "adjective",
+            "example": {
+                "en": "So what happens, if you want to sustain desire, it's that real dialectic piece.",
+                "vi": "Vậy điều gì sẽ xảy ra, nếu tôi muốn duy trì niềm khao khát, nó là phần biện chứng thực tế đó."
+            }
+        },
+        {
+            "content": "dialectal",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Biện chứng",
+            "type": "",
+            "example": {
+                "en": "it's that real dialectic piece.",
+                "vi": "nó là phần biện chứng thực tế đó."
+            }
+        }
+    ]
+}

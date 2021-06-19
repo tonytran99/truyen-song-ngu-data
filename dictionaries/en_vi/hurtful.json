@@ -1,0 +1,53 @@
+{
+    "word": "hurtful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhərtfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəːtfʊl/",
+            "/ˈhəːtf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có hại",
+            "type": "",
+            "example": {
+                "en": "Jane, when you were with Frank, did he ever hurt anyone else?",
+                "vi": "Khi bà ở với Frank, ông ấy có hại ai khác không?"
+            }
+        },
+        {
+            "content": "gây tổn thương",
+            "type": "",
+            "example": {
+                "en": "Because if you don’t, you’re bound to get hurt or hurt others.",
+                "vi": "Vì nếu không, bạn sẽ gây tổn thương cho mình hoặc người khác."
+            }
+        },
+        {
+            "content": "hại",
+            "type": "adjective",
+            "example": {
+                "en": "You would never hurt Mommy or me, would you?",
+                "vi": "Cha sẽ không bao giờ làm hại Mẹ hay con, phải không?"
+            }
+        },
+        {
+            "content": "gây tổn hại",
+            "type": "",
+            "example": {
+                "en": "But it could hurt me more than it hurts her.",
+                "vi": "Nhưng điều đó có thể gây tổn hại cho tôi hơn là cho chị ta."
+            }
+        }
+    ]
+}

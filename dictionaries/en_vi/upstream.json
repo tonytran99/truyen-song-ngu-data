@@ -1,0 +1,39 @@
+{
+    "word": "upstream",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈstrēm/",
+            "/ˌəpˈstrim/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌpstriːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngược dòng",
+            "type": "adjective",
+            "example": {
+                "en": "To avert disaster, we must strenuously row upstream against the strong current.",
+                "vi": "Để tránh bị tai họa, chúng ta phải gắng hết sức chèo ngược dòng."
+            }
+        },
+        {
+            "content": "thượng nguồn",
+            "type": "",
+            "example": {
+                "en": "They receive input from thousands of upstream partners",
+                "vi": "Chúng nhận thông tin từ hàng ngàn đồng sự thượng nguồn"
+            }
+        }
+    ]
+}

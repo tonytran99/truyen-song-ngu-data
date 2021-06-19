@@ -1,0 +1,40 @@
+{
+    "word": "deodorant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈōdərənt/",
+            "/diˈoʊdərənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈəʊd(ə)r(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất khử mùi",
+            "type": "noun",
+            "example": {
+                "en": "Some deodorants come in a white stick that you can twist up .",
+                "vi": "Một số chất khử mùi có dạng ống trắng , bạn có thể vặn lên ."
+            }
+        },
+        {
+            "content": "bay mùi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thuốc khử mùi",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "disinfect",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisənˈfekt/",
+            "/ˌdɪsənˈfɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsɪnˈfɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tẩy trùng",
+            "type": "",
+            "example": {
+                "en": "We've found that propolis is a natural disinfectant.",
+                "vi": "Chúng tôi nhận thấy rằng keo ong là một chất tẩy trùng tự nhiên."
+            }
+        },
+        {
+            "content": "tẩy uế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

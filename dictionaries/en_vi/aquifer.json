@@ -1,0 +1,44 @@
+{
+    "word": "aquifer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈäkwəfər/",
+            "/ˈɑkwəfər/",
+            "/ˈakwəfər/",
+            "/ˈækwəfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakwɪfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tầng ngậm nước",
+            "type": "noun",
+            "example": {
+                "en": "The underground aquifers are drying out.",
+                "vi": "Những tầng ngậm nước dưới mặt đất đang cạn dần."
+            }
+        },
+        {
+            "content": "lớp ngậm nước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Tầng ngậm nước",
+            "type": "",
+            "example": {
+                "en": "The underground aquifers are drying out.",
+                "vi": "Những tầng ngậm nước dưới mặt đất đang cạn dần."
+            }
+        }
+    ]
+}

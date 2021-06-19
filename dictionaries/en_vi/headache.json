@@ -1,0 +1,55 @@
+{
+    "word": "headache",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌāk/",
+            "/ˈhɛdˌeɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdeɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng nhức đầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đau đầu",
+            "type": "",
+            "example": {
+                "en": "Because of intense stress, they may suffer from stomach ailments and headaches.",
+                "vi": "Vì quá căng thẳng, các bạn có thể đau dạ dày và đau đầu."
+            }
+        },
+        {
+            "content": "cơn đau đầu",
+            "type": "noun",
+            "example": {
+                "en": "On my way home from work one day, I suffered a sudden, incapacitating headache.",
+                "vi": "Ngày nọ, trên đường về nhà, thình lình tôi bị một cơn đau đầu kinh khủng."
+            }
+        },
+        {
+            "content": "vấn đề hắc búa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đau đầu",
+            "type": "",
+            "example": {
+                "en": "Yeah, and the stress is giving me headaches.",
+                "vi": "Vâng, và stress làm cháu bị đau đầu."
+            }
+        }
+    ]
+}

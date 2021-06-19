@@ -1,0 +1,56 @@
+{
+    "word": "exaggerate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzajəˌrāt/",
+            "/ɪɡˈzædʒəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzadʒəreɪt/",
+            "/ɛɡˈzadʒəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phóng đại",
+            "type": "",
+            "example": {
+                "en": "Many of us tend to exaggerate the negative when we experience disappointment.",
+                "vi": "Khi thất vọng, nhiều người trong chúng ta thường có khuynh hướng phóng đại những điều tiêu cực."
+            }
+        },
+        {
+            "content": "cường điệu",
+            "type": "",
+            "example": {
+                "en": "And that sounds like a kind of a romantic exaggeration.",
+                "vi": "Và điều đó nghe giống như một sự cường điệu đầy tiểu thuyết."
+            }
+        },
+        {
+            "content": "làm tăng quá mức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói rước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi phồng",
+            "type": "noun",
+            "example": {
+                "en": "Pride exaggerates its own strength and ignores the virtues of others.",
+                "vi": "Tính kiêu ngạo tự nó thổi phồng sức mạnh và bỏ qua đức hạnh của người khác."
+            }
+        }
+    ]
+}

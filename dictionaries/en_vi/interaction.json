@@ -1,0 +1,50 @@
+{
+    "word": "interaction",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈakSH(ə)n/",
+            "/ˌɪn(t)ərˈækʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntərˈakʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phản ứng hỗ tương",
+            "type": "noun",
+            "example": {
+                "en": "There is a natural interaction that takes place between mother and child.",
+                "vi": "Giữa người mẹ và đứa bé có một phản ứng hỗ tương tự nhiên."
+            }
+        },
+        {
+            "content": "sự tương tác",
+            "type": "noun",
+            "example": {
+                "en": "Now, the fish in the tanks were gorgeous to look at, but they didn't really interact with people.",
+                "vi": "Lũ cá trong bể trông rất đẹp đẽ, nhưng chúng không thực sự tương tác với mọi người."
+            }
+        },
+        {
+            "content": "tác động qua lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương tác",
+            "type": "noun",
+            "example": {
+                "en": "And it is our interactions and the clustering of those interactions.",
+                "vi": "Và đó chính là những tương tác của chúng ta và sự tập hợp những tương tác đó."
+            }
+        }
+    ]
+}

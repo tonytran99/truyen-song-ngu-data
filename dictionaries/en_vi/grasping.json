@@ -1,0 +1,46 @@
+{
+    "word": "grasping",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡraspiNG/",
+            "/ˈɡræspɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrɑːspɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tham lam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giữ chặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "keo cú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắm chặt",
+            "type": "",
+            "example": {
+                "en": "He comes over here, and he gets the fingers to grasp together,",
+                "vi": "Anh ta đến đây, và nắm chặt những ngón tay với nhau,"
+            }
+        }
+    ]
+}

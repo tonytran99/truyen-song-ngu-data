@@ -1,0 +1,67 @@
+{
+    "word": "digestive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈjestiv/",
+            "/dəˈdʒɛstɪv/",
+            "/dīˈjestiv/",
+            "/daɪˈdʒɛstɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈdʒɛstɪv/",
+            "/dɪˈdʒɛstɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giúp cho dễ tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giúp dễ tiêu",
+            "type": "adjective",
+            "example": {
+                "en": "It is also a great digestive tonic .",
+                "vi": "Nó cũng là liều thuốc tốt giúp dễ tiêu hoá ."
+            }
+        },
+        {
+            "content": "thuốc tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu hoá",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "And the beginnings of the digestive and respiratory systems are forming , too .",
+                "vi": "Hệ hô hấp và tiêu hoá cũng bắt đầu được hình thành ."
+            }
+        },
+        {
+            "content": "tiêu hóa",
+            "type": "",
+            "example": {
+                "en": "With age, digestion becomes more of a problem.",
+                "vi": "Theo tuổi tác, sự tiêu hóa ngày càng phiền phức."
+            }
+        },
+        {
+            "content": "tiêu hóa được",
+            "type": "adjective",
+            "example": {
+                "en": "Gene will never be able to digest them.",
+                "vi": "Gene sẽ không thể nào tiêu hóa được chúng."
+            }
+        }
+    ]
+}

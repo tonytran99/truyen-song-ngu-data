@@ -1,0 +1,44 @@
+{
+    "word": "ably",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈāblē/",
+            "/ˈeɪbli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪbli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có tài",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "có khả năng",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "khéo léo",
+            "type": "adverb",
+            "example": {
+                "en": "With his thorough grasp of Israel’s history, Jephthah ably refutes Ammonite claims.",
+                "vi": "Hiểu biết tường tận về lịch sử dân Y-sơ-ra-ên, Giép-thê đã khéo léo bác lý lẽ của vua Am-môn."
+            }
+        },
+        {
+            "content": "tài tình",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

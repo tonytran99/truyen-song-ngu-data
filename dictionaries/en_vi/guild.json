@@ -1,0 +1,44 @@
+{
+    "word": "guild",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡild/",
+            "/ɡɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ái hữu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Phường hội",
+            "type": "",
+            "example": {
+                "en": "The guild pays us a caretaker's fee for each prisoner each year.",
+                "vi": "Phường hội trả phí trông coi tù nhân mỗi năm"
+            }
+        },
+        {
+            "content": "hội đoàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên đoàn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

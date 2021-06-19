@@ -1,0 +1,55 @@
+{
+    "word": "forte",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌtā/",
+            "/ˈfɔrˌteɪ/",
+            "/fôrt/",
+            "/fɔrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːteɪ/",
+            "/ˈfɔːti/",
+            "/fɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sở trường",
+            "type": "noun",
+            "example": {
+                "en": "Tech support's not exactly my forte, you know.",
+                "vi": "Hỗ trợ kỹ thuật không phải sở trường của tôi, anh biết đấy"
+            }
+        },
+        {
+            "content": "nốt mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân gươm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điểm mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoạn chơi mạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

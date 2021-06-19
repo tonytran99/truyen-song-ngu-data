@@ -1,0 +1,73 @@
+{
+    "word": "boarding",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbôrdiNG/",
+            "/ˈbɔrdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɔːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "miếng ván",
+            "type": "noun",
+            "example": {
+                "en": "Skysurfing is skydiving with a board on the feet.",
+                "vi": "Skysurfing cũng là nhảy dù nhưng có kèm theo miếng ván ở chân."
+            }
+        },
+        {
+            "content": "sự lát ván",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lên tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lót ván",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ăn cơm tháng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ăn cơm trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đáp tau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đóng bìa cứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tấm ván",
+            "type": "noun",
+            "example": {
+                "en": "The neighbor’s garage was very old and dilapidated, and some of the boards were breaking.",
+                "vi": "Nhà xe của người hàng xóm thì rất cũ và ọp ẹp và mấy tấm ván bị bể."
+            }
+        }
+    ]
+}

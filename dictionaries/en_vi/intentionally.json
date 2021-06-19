@@ -1,0 +1,46 @@
+{
+    "word": "intentionally",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtenSH(ə)nəlē/",
+            "/ɪnˈtɛnʃ(ə)nəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛnʃ(ə)nəli/",
+            "/ɪnˈtɛnʃən(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cố tình",
+            "type": "adverb",
+            "example": {
+                "en": "Our nine families have intentionally chosen an alternative way of living.",
+                "vi": "Chín nhà chúng tôi đã cố tình chọn một lối sống khác."
+            }
+        },
+        {
+            "content": "cố ý",
+            "type": "adverb",
+            "example": {
+                "en": "You did this intentionally!",
+                "vi": "Bạn cố ý làm phải không!"
+            }
+        },
+        {
+            "content": "một cách cố ý",
+            "type": "",
+            "example": {
+                "en": "It could even be disseminated intentionally.",
+                "vi": "Thậm chí có thể bị phát tán một cách cố ý."
+            }
+        }
+    ]
+}

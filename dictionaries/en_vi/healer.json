@@ -1,0 +1,34 @@
+{
+    "word": "healer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhēlər/",
+            "/ˈhilər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhiːlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chữa bệnh",
+            "type": "noun",
+            "example": {
+                "en": "I've been told he's the greatest healer in all the world.",
+                "vi": "Tôi nghe nói ông là người chữa bệnh vĩ đại nhất thế giới."
+            }
+        },
+        {
+            "content": "thầy lang băm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

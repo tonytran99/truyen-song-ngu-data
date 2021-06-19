@@ -1,0 +1,81 @@
+{
+    "word": "coordinate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōˈôrdəˌnāt/",
+            "/koʊˈɔrdəˌneɪt/",
+            "/kōˈôrd(ə)nət/",
+            "/koʊˈɔrd(ə)nət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊˈɔːdɪneɪt/",
+            "/kəʊˈɔːdɪnət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phối hợp",
+            "type": "",
+            "example": {
+                "en": "Both his memory and his muscle coordination may be impaired, too.",
+                "vi": "Ngoài ra trí nhớ và sự phối hợp cơ bắp của người ấy cũng bị suy yếu đi."
+            }
+        },
+        {
+            "content": "toạ độ",
+            "type": "",
+            "example": {
+                "en": "It came down at coordinates sent by a scav beacon.",
+                "vi": "Nó rơi xuống toạ độ được gửi từ máy dẫn hướng của Scav."
+            }
+        },
+        {
+            "content": "tọa độ",
+            "type": "",
+            "example": {
+                "en": "Donaghan, I'll get you the coordinates for the target.",
+                "vi": "Donegan, tôi sẽ báo anh tọa độ mục tiêu."
+            }
+        },
+        {
+            "content": "bằng vai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "This isn't just about eye-hand coordination out there you know.",
+                "vi": "Nó không chỉ đơn thuần là sự kết hợp giữa tay và mắt đâu."
+            }
+        },
+        {
+            "content": "ngang hàng",
+            "type": "",
+            "example": {
+                "en": "More participation, more peer coordination,",
+                "vi": "Nhiều sự tham gia, hợp tác ngang hàng hơn,"
+            }
+        },
+        {
+            "content": "xếp sắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt đồng hàng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

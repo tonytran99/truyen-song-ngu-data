@@ -1,0 +1,53 @@
+{
+    "word": "dilation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈlāSH(ə)n/",
+            "/daɪˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈleɪʃ(ə)n/",
+            "/dʌɪˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỗ giãn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ nở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gián",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giãn",
+            "type": "",
+            "example": {
+                "en": "there is dilation of the blood vessels.",
+                "vi": "có sự giãn nở của các mạch máu."
+            }
+        },
+        {
+            "content": "sự nở",
+            "type": "",
+            "example": {
+                "en": "There is no change in blood flow, in dilatation of the blood vessels.",
+                "vi": "Không có sự thay đổi trong dòng máu, sự nở ra của mạch máu."
+            }
+        }
+    ]
+}

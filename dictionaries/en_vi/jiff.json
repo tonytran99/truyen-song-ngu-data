@@ -1,0 +1,40 @@
+{
+    "word": "jiff",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/jif/",
+            "/dʒɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chốc lát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nháy mắt",
+            "type": "noun",
+            "example": {
+                "en": "Pretty sure she could get this place all shiny in a jiff.",
+                "vi": "Tôi khá chắc là cô ấy có thể khiến nơi đó đầy nắng trong nháy mắt."
+            }
+        },
+        {
+            "content": "thoáng nháy mắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

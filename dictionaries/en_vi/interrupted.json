@@ -1,0 +1,38 @@
+{
+    "word": "interrupted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)əˈrəptəd/",
+            "/ˌɪn(t)əˈrəptəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈrʌptɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gián đoạn",
+            "type": "adjective",
+            "example": {
+                "en": "We interrupt this programme for a special bulletin.",
+                "vi": "Chương trình bị gián đoạn bởi bản tin đặc biệt."
+            }
+        },
+        {
+            "content": "ngắt quãng",
+            "type": "",
+            "example": {
+                "en": "Anyway, before I was so rudely interrupted...",
+                "vi": "Dù sao thì, trước khi tôi bị ngắt quãng..."
+            }
+        }
+    ]
+}

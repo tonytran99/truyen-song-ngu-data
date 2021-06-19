@@ -1,0 +1,73 @@
+{
+    "word": "commentator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämənˌtādər/",
+            "/ˈkɑmənˌteɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmənteɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà bình luận",
+            "type": "noun",
+            "example": {
+                "en": "Many commentators have said that death is the forbidden subject of our generation.",
+                "vi": "Nhiều nhà bình luận cho rằng cái chết là chủ đề cấm của thế hệ chúng ta."
+            }
+        },
+        {
+            "content": "người thuyết minh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người tường thuật",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người viết chú thích",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người viết dẫn giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bình luận gia",
+            "type": "noun",
+            "example": {
+                "en": "Many historians and commentators agree that 1914 was a turning point in human history.",
+                "vi": "Nhiều sử gia và bình luận gia đều đồng ý rằng năm 1914 là một khúc quanh trong lịch sử nhân loại."
+            }
+        },
+        {
+            "content": "bình luận viên",
+            "type": "",
+            "example": {
+                "en": "Even so, asked one commentator: “How worried should we be?”",
+                "vi": "Dù vậy, một bình luận viên đã nêu câu hỏi: “Lẽ nào chúng ta không sợ sao?”."
+            }
+        },
+        {
+            "content": "người bình luận",
+            "type": "",
+            "example": {
+                "en": "What suggestions may help one to comment at meetings?",
+                "vi": "Những lời đề nghị nào có thể giúp một người bình luận trong buổi họp?"
+            }
+        }
+    ]
+}

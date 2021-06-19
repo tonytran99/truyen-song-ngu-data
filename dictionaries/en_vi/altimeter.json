@@ -1,0 +1,44 @@
+{
+    "word": "altimeter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alˈtimidər/",
+            "/ælˈtɪmɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaltɪmiːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cao kế",
+            "type": "",
+            "example": {
+                "en": "a GPS, a compass, a barometric altimeter",
+                "vi": "một GPS, một la bàn và một cao kế khí áp"
+            }
+        },
+        {
+            "content": "cao độ kế",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái đo độ cao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy đo độ cao",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

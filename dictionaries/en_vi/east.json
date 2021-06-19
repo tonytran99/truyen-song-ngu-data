@@ -1,0 +1,108 @@
+{
+    "word": "east",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēst/",
+            "/ist/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đông",
+            "type": "noun",
+            "example": {
+                "en": "All teams start casually moving to the east side of the market.",
+                "vi": "Toàn đội di chuyển một cách bình thường đến phía đông của chợ."
+            }
+        },
+        {
+            "content": "hướng đông",
+            "type": "",
+            "example": {
+                "en": "A could in the shape of a horn from the far east.",
+                "vi": "Mây tụ thành hình sừng từ phía xa hướng đông."
+            }
+        },
+        {
+            "content": "phía đông",
+            "type": "",
+            "example": {
+                "en": "All teams start casually moving to the east side of the market.",
+                "vi": "Toàn đội di chuyển một cách bình thường đến phía đông của chợ."
+            }
+        },
+        {
+            "content": "phương đông",
+            "type": "proper",
+            "example": {
+                "en": "Hector commands the finest army in the east.",
+                "vi": "Hector chỉ huy đội quân thiện chiến nhất phương Đông."
+            }
+        },
+        {
+            "content": "từ phía đông",
+            "type": "",
+            "example": {
+                "en": "There's a tidal wave coming from the east.",
+                "vi": "Có một cơn sóng thần từ phía đông."
+            }
+        },
+        {
+            "content": "Hướng Đông",
+            "type": "noun",
+            "example": {
+                "en": "A could in the shape of a horn from the far east.",
+                "vi": "Mây tụ thành hình sừng từ phía xa hướng đông."
+            }
+        },
+        {
+            "content": "đồng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gió đông",
+            "type": "",
+            "example": {
+                "en": "Yet I hope the east wind will come early",
+                "vi": "Thiếp mong gió Đông mau đến một chút."
+            }
+        },
+        {
+            "content": "miền đông",
+            "type": "",
+            "example": {
+                "en": "I'm so glad you could come back east for a visit.",
+                "vi": "Tôi thật hân hạnh khi anh có thể trở lại miền đông cho chuyến viếng thăm."
+            }
+        },
+        {
+            "content": "về hướng đông",
+            "type": "",
+            "example": {
+                "en": "Ike Clanton rode through here three days ago, heading east.",
+                "vi": "Ike Clanton đi ngang qua đây ba ngày trước, đi về hướng đông."
+            }
+        },
+        {
+            "content": "ở phía đông",
+            "type": "",
+            "example": {
+                "en": "Yeah, he works out of a warehouse on the east side.",
+                "vi": "Hắn ta làm ở kho hàng ở phía đông."
+            }
+        }
+    ]
+}

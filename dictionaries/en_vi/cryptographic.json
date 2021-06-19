@@ -1,0 +1,34 @@
+{
+    "word": "cryptographic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkriptəˈɡrafik/",
+            "/ˌkrɪptəˈɡræfɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkrɪptəˈɡrafɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mật mã",
+            "type": "noun",
+            "example": {
+                "en": "We have the cryptograph we nabbed from Amanda.",
+                "vi": "Chúng ta vẫn có các mật mã bắt giữ được từ Amanda."
+            }
+        }
+    ]
+}

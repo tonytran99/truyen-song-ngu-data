@@ -1,0 +1,86 @@
+{
+    "word": "chunk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHəNGk/",
+            "/tʃəŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃʌŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khúc",
+            "type": "noun",
+            "example": {
+                "en": "We can get hammered, blow some chunks in the woods.",
+                "vi": "Chúng ta có thể say bí tỉ, đạp đổ vài khúc cây trong rừng."
+            }
+        },
+        {
+            "content": "mảnh",
+            "type": "noun",
+            "example": {
+                "en": "Take chunks of glass, melt them in a furnace that is itself rotating.",
+                "vi": "Những mảnh thủy tinh được thu thập, đun chảy trong một lò nung tự xoay."
+            }
+        },
+        {
+            "content": "mảng",
+            "type": "",
+            "example": {
+                "en": "which I'm going to read a big chunk of,",
+                "vi": "mà tôi sẽ đọc một mảng lớn cho các bạn,"
+            }
+        },
+        {
+            "content": "mẩu",
+            "type": "",
+            "example": {
+                "en": "So what we're looking at is a little chunk of metal,",
+                "vi": "Và điều chúng ta đang nhìn vào là một mẩu kim loại,"
+            }
+        },
+        {
+            "content": "khoanh",
+            "type": "noun",
+            "example": {
+                "en": "He showed me these chunks of meat in his freezer.",
+                "vi": "Hắn đã chỉ cho tôi hai khoanh thịt trong tủ lạnh."
+            }
+        },
+        {
+            "content": "miếng",
+            "type": "",
+            "example": {
+                "en": "which in turn means the entire chunk of metal",
+                "vi": "đồng nghĩa với việc toàn thể miếng kim loại"
+            }
+        },
+        {
+            "content": "khối",
+            "type": "",
+            "example": {
+                "en": "and I look at the relationships between those chunks.",
+                "vi": "và nhìn vào mối quan hệ giữa những khối này."
+            }
+        },
+        {
+            "content": "cục",
+            "type": "noun",
+            "example": {
+                "en": "This one would pay off a chunk.",
+                "vi": "Con này sẽ trả được cả cục tiền."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "unpleasant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈplezənt/",
+            "/ˌənˈplɛzənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈplɛz(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "Just a few simple words, and we can end all this unpleasantness.",
+                "vi": "Chỉ vài câu đơn giản thôi là chúng ta có thể kết thúc sự khó chịu này."
+            }
+        },
+        {
+            "content": "khó ưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {
+                "en": "The final leg of the journey was particularly unpleasant, for it brought travelers to a swampy, lowland area.",
+                "vi": "Chặng đường cuối rất xấu, vì là vùng đất thấp đầm lầy."
+            }
+        },
+        {
+            "content": "đáng ghét",
+            "type": "",
+            "example": {
+                "en": "A very unpleasant fall.",
+                "vi": "Một cú rơi thật đáng ghét"
+            }
+        }
+    ]
+}

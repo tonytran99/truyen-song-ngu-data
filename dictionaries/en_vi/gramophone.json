@@ -1,0 +1,34 @@
+{
+    "word": "gramophone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡraməˌfōn/",
+            "/ˈɡræməˌfoʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡraməfəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy hát",
+            "type": "noun",
+            "example": {
+                "en": "He even took the Gramophone on safari.",
+                "vi": "Ảnh còn đem theo cả máy hát khi đi săn."
+            }
+        },
+        {
+            "content": "kèn hát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

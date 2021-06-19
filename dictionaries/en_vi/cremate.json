@@ -1,0 +1,60 @@
+{
+    "word": "cremate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrēˌmāt/",
+            "/ˈkriˌmeɪt/",
+            "/krəˈmāt/",
+            "/krəˈmeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krɪˈmeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiêu",
+            "type": "verb",
+            "example": {
+                "en": "I have a signed order to cremate the body.",
+                "vi": "Tôi có lệnh đã được ký để thiêu hủy xác chết."
+            }
+        },
+        {
+            "content": "hoả táng",
+            "type": "verb",
+            "example": {
+                "en": "You need to claim her body or they're gonna cremate her.",
+                "vi": "Bố phải tới nhận thi thể đi, không họ sẽ hoả táng đấy."
+            }
+        },
+        {
+            "content": "hỏa thiêu",
+            "type": "",
+            "example": {
+                "en": "We're investigating the cremation of a woman here two years ago.",
+                "vi": "Chúng tôi đang điều tra đợt hỏa thiêu một phụ nữ hai năm trước."
+            }
+        },
+        {
+            "content": "hỏa táng",
+            "type": "verb",
+            "example": {
+                "en": "If it has, see if there's a cremation scheduled.",
+                "vi": "Nếu rồi, thử hỏi có kế hoạch hỏa táng không?"
+            }
+        },
+        {
+            "content": "đốt ra tro",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "crystalline",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkristələn/",
+            "/ˈkrɪstələn/",
+            "/ˈkristəˌlīn/",
+            "/ˈkrɪstəˌlaɪn/",
+            "/ˈkristəˌlēn/",
+            "/ˈkrɪstəˌlin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪst(ə)lʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kết tinh",
+            "type": "noun",
+            "example": {
+                "en": "The insulator oxide layer on the other hand is not crystalline .",
+                "vi": "Lớp oxit cách điện nhưng không phải là chất kết tinh ."
+            }
+        },
+        {
+            "content": "bằng pha lê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giống pha lê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trong như pha lê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

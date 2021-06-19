@@ -1,0 +1,37 @@
+{
+    "word": "hypothesis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīˈpäTHəsəs/",
+            "/haɪˈpɑθəsəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪˈpɒθɪsɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả thuyết",
+            "type": "noun",
+            "example": {
+                "en": "That's an interesting hypothesis.",
+                "vi": "Đó là một giả thuyết thú vị."
+            }
+        },
+        {
+            "content": "giả thiết",
+            "type": "noun",
+            "example": {
+                "en": "So we decided that we needed to test this hypothesis.",
+                "vi": "Vì vậy, chúng tôi đã kiểm chứng giả thiết này."
+            }
+        }
+    ]
+}

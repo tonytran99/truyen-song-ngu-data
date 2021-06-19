@@ -1,0 +1,34 @@
+{
+    "word": "hallucinate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈlo͞osəˌnāt/",
+            "/həˈlusəˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈluːsɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gặp ảo giác",
+            "type": "",
+            "example": {
+                "en": "Lack of delta sleep can lead to hallucinations.",
+                "vi": "Sự thiếu hụt giấc ngủ delta có thể dẫn đến việc gặp ảo giác."
+            }
+        },
+        {
+            "content": "gợi ảo giác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

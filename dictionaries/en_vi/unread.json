@@ -1,0 +1,45 @@
+{
+    "word": "unread",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈred/",
+            "/ˌənˈrɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈrɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dốt nát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ai đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đọc",
+            "type": "",
+            "example": {
+                "en": "But when I got home, I placed it unread on a shelf.",
+                "vi": "Nhưng khi về nhà, tôi không đọc và để cuốn sách lên trên cái kệ tủ."
+            }
+        }
+    ]
+}

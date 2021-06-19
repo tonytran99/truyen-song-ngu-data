@@ -1,0 +1,42 @@
+{
+    "word": "devalue",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈvalyo͞o/",
+            "/diˈvælju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈvaljuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giảm giá",
+            "type": "",
+            "example": {
+                "en": "Would that not devalue the document?",
+                "vi": "Chẳng phải điều đó làm giảm giá trị của văn bản sao?"
+            }
+        },
+        {
+            "content": "làm mất giá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá giá",
+            "type": "",
+            "example": {
+                "en": "which we've so effectively devalued and dismantled.",
+                "vi": "chúng ta đã phá giá 1 cách hữu hiệu."
+            }
+        }
+    ]
+}

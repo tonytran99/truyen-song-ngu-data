@@ -1,0 +1,34 @@
+{
+    "word": "chinatown",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHīnəˌtoun/",
+            "/ˈtʃaɪnəˌtaʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃʌɪnətaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khu Hoa-kiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phố người hoa",
+            "type": "",
+            "example": {
+                "en": "Yet, each Chinatown has its own history.",
+                "vi": "Tuy nhiên, mỗi phố người Hoa lại có một lịch sử riêng."
+            }
+        }
+    ]
+}

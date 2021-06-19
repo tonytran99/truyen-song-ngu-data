@@ -1,0 +1,50 @@
+{
+    "word": "cryptically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈkriptək(ə)lē/",
+            "/ˈkrɪptək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪptɪk(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mật",
+            "type": "noun",
+            "example": {
+                "en": "\" So the virus could be cryptically spreading in the population . \"",
+                "vi": "\" Cho nên vi-rút có thể phát tán một cách bí mật trong quần thể sinh học . \""
+            }
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "\" So the virus could be cryptically spreading in the population . \"",
+                "vi": "\" Cho nên vi-rút có thể phát tán một cách bí mật trong quần thể sinh học . \""
+            }
+        },
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {
+                "en": "I just wanted to apologize for being so cryptic earlier.",
+                "vi": "Tôi chỉ muốn xin lỗi vì những hành động khó hiểu trước đây."
+            }
+        },
+        {
+            "content": "kín đáo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

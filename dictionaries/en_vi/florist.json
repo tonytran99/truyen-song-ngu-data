@@ -1,0 +1,47 @@
+{
+    "word": "florist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflôrəst/",
+            "/ˈflɔrəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflɒrɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bán hoa",
+            "type": "noun",
+            "example": {
+                "en": "I was always afraid that someday I'd end up working in a florist shop.",
+                "vi": "Tôi vẫn luôn sợ là có ngày mình sẽ trở thành một người bán hoa."
+            }
+        },
+        {
+            "content": "người nghiên cứu hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người trồng hoa",
+            "type": "noun",
+            "example": {
+                "en": "To be in the Tournament of Roses, that's every florist's dream!",
+                "vi": "Được ở trong Giải các loài hoa là mơ ước của bất cứ người trồng hoa nào!"
+            }
+        },
+        {
+            "content": "người cắm hoa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

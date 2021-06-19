@@ -1,0 +1,134 @@
+{
+    "word": "delegate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeləɡət/",
+            "/ˈdɛləɡət/",
+            "/ˈdeləˌɡāt/",
+            "/ˈdɛləˌɡeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛlɪɡət/",
+            "/ˈdɛlɪɡeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đại biểu",
+            "type": "noun",
+            "example": {
+                "en": "But come they did, along with delegates from many other lands.",
+                "vi": "Nhưng họ đã đến cùng với những đại biểu từ nhiều nước khác."
+            }
+        },
+        {
+            "content": "cử",
+            "type": "verb",
+            "example": {
+                "en": "Me and my delegates are about inches from walking out.",
+                "vi": "Tôi cùng các cử tri của mình chuẩn bị ra về đây."
+            }
+        },
+        {
+            "content": "phái",
+            "type": "verb",
+            "example": {
+                "en": "No delegation was allowed to visit the besieged region.",
+                "vi": "Không phái đoàn nào đã được phép đến vùng bị vây hãm."
+            }
+        },
+        {
+            "content": "cắt cứ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cử làm đại biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao phó",
+            "type": "",
+            "example": {
+                "en": "Responsibilities had to be delegated in this busy scene.",
+                "vi": "Các trách nhiệm phải được giao phó trong cảnh tượng bận rộn này."
+            }
+        },
+        {
+            "content": "người được uỷ nhiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người được ủy thác",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người đại biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đại diện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người ủy nhiệm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "uỷ quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uỷ thác",
+            "type": "",
+            "example": {
+                "en": "The delegation is at your discretion, Mr. President.",
+                "vi": "Sự uỷ thác thuộc toàn quyền của ngài, thưa Tổng thống."
+            }
+        },
+        {
+            "content": "giao",
+            "type": "verb",
+            "example": {
+                "en": "Why is it difficult for some to delegate authority?",
+                "vi": "Tại sao một số người thấy khó giao lại trách nhiệm cho người khác?"
+            }
+        },
+        {
+            "content": "người tham gia đại hội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ủy quyền",
+            "type": "",
+            "example": {
+                "en": "That responsibility was then delegated to bishops and stake presidents.",
+                "vi": "Sau đó, trách nhiệm này đã được ủy quyền cho các giám trợ và chủ tịch giáo khu."
+            }
+        },
+        {
+            "content": "ủy thác",
+            "type": "",
+            "example": {
+                "en": "This delegated power and authority is called priesthood.",
+                "vi": "Quyền năng và thẩm quyền được ủy thác này gọi là chức tư tế."
+            }
+        }
+    ]
+}

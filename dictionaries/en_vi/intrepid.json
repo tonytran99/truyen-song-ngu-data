@@ -1,0 +1,42 @@
+{
+    "word": "intrepid",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtrepəd/",
+            "/ɪnˈtrɛpəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtrɛpɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dũng cảm",
+            "type": "adjective",
+            "example": {
+                "en": "Oh, Gustave, be intrepid.",
+                "vi": "Ôi, Gustave, dũng cảm lên chứ."
+            }
+        },
+        {
+            "content": "gan dạ",
+            "type": "adjective",
+            "example": {
+                "en": "Not all on board were intrepid seamen, however.",
+                "vi": "Tuy vậy, không phải mọi người trên thuyền đều là những người đi biển gan dạ."
+            }
+        },
+        {
+            "content": "gan góc",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

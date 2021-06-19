@@ -1,0 +1,35 @@
+{
+    "word": "gendarme",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈZHändärm/",
+            "/ˈʒɑndɑrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʒɒndɑːm/",
+            "/ʒɑ̃daʀm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sen đầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiến binh",
+            "type": "",
+            "example": {
+                "en": "What distance should a gendarme keep from a portcullis?",
+                "vi": "Khoảng cách từ một hiến binh tới hàng rào chắn là bao nhiêu?"
+            }
+        }
+    ]
+}

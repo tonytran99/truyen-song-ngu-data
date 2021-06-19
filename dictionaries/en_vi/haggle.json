@@ -1,0 +1,76 @@
+{
+    "word": "haggle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaɡəl/",
+            "/ˈhæɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặc cả",
+            "type": "",
+            "example": {
+                "en": "And if you haggle any further, I'll cut out your tongue.",
+                "vi": "Nếu còn mặc cả nữa, ta sẽ cắt lưỡi của ngươi."
+            }
+        },
+        {
+            "content": "bớt xớ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cãi nhau",
+            "type": "",
+            "example": {
+                "en": "Had to haggle with las negritas, but I got it.",
+                "vi": "Đã phải cãi nhau với con ranh mọi đen, nhưng tôi có đây rồi."
+            }
+        },
+        {
+            "content": "cò kè",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "mà cả",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự cãi nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mặc cả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tranh cãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh cãi",
+            "type": "",
+            "example": {
+                "en": "We could haggle forever, huh?",
+                "vi": "Ta có thể tranh cãi lâu, phải không?"
+            }
+        }
+    ]
+}

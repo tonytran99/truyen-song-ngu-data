@@ -1,0 +1,65 @@
+{
+    "word": "bumpy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəmpē/",
+            "/ˈbəmpi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌmpi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gập ghềnh",
+            "type": "adjective",
+            "example": {
+                "en": "Aaron decides it's safer to fly, but it'll be a bumpy ride.",
+                "vi": "Aaron quyết định bay an toàn hơn nhưng đó là một chuyến đi gập ghềnh."
+            }
+        },
+        {
+            "content": "xóc",
+            "type": "adjective",
+            "example": {
+                "en": "A happy conclusion to a slightly bumpy journey.",
+                "vi": "Một cái kết đẹp cho một chuyến đi hơi xóc."
+            }
+        },
+        {
+            "content": "gồ ghề",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "u",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khi khu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khấp khểnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mấp mô",
+            "type": "adjective",
+            "example": {
+                "en": "And you can see, it's lumpy bumpy.",
+                "vi": "Và quý vị có thể thấy, nó nhấp nhô ,mấp mô."
+            }
+        }
+    ]
+}

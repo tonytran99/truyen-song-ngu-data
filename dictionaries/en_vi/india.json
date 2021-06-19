@@ -1,0 +1,40 @@
+{
+    "word": "india",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈindēə/",
+            "/ˈɪndiə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪndɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người da đỏ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người Ân-ddộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấn độ",
+            "type": "",
+            "example": {
+                "en": "Java and Javascript are like India and Indonesia, they aren't the same thing.",
+                "vi": "Java với Javascript khác nhau như Ấn Độ khác với Indonesia vậy."
+            }
+        }
+    ]
+}

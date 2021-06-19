@@ -1,0 +1,59 @@
+{
+    "word": "washer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäSHər/",
+            "/ˈwɑʃər/",
+            "/ˈwôSHər/",
+            "/ˈwɔʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy giặt",
+            "type": "noun",
+            "example": {
+                "en": "And then if you're smart enough, it goes on a basket on top of the washer.",
+                "vi": "Và nếu bạn đủ thông minh, nó sẽ rơi xuống cái rổ đặt trên máy giặt."
+            }
+        },
+        {
+            "content": "người giặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng đệm",
+            "type": "",
+            "example": {
+                "en": "and maybe I'll have to walk around and look for washers.",
+                "vi": "hay là tôi cũng có thể đi loanh quanh và tìm vòng đệm,"
+            }
+        },
+        {
+            "content": "giẻ rửa bát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy đãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người rửa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

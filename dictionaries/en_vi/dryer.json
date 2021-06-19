@@ -1,0 +1,58 @@
+{
+    "word": "dryer",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrī(ə)r/",
+            "/ˈdraɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy sấy",
+            "type": "",
+            "example": {
+                "en": "I helped a guy with a dryer, but I still don't have a package.",
+                "vi": "Tôi giúp một người bê máy sấy, nhưng vẫn chưa thấy hàng đâu."
+            }
+        },
+        {
+            "content": "máy làm khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy sấy tóc",
+            "type": "noun",
+            "example": {
+                "en": "It looks like a hair dryer from Mars.",
+                "vi": "Nó nhìn giống như máy sấy tóc ở Sao hỏa."
+            }
+        },
+        {
+            "content": "người phơi khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà sấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc làm khô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

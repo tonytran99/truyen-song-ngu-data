@@ -1,0 +1,37 @@
+{
+    "word": "cargo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärɡō/",
+            "/ˈkɑrɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng hóa",
+            "type": "noun",
+            "example": {
+                "en": "There were, of course, small boats that transported passengers and cargo in coastal waters.",
+                "vi": "Dĩ nhiên, có những thuyền nhỏ chở khách và hàng hóa trong vùng ven biển."
+            }
+        },
+        {
+            "content": "hàng hoá",
+            "type": "noun",
+            "example": {
+                "en": "Was, they were getting free stuff, they were getting cargo.",
+                "vi": "Họ được chia đồ ăn, họ được phân phát hàng hoá."
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "commendable",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmendəb(ə)l/",
+            "/kəˈmɛndəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɛndəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng khen ngợi",
+            "type": "adjective",
+            "example": {
+                "en": "Your dedication when you're on the job is most commendable, James.",
+                "vi": "Sự cống hiến của anh dành cho công tác rất đáng khen ngợi, James."
+            }
+        },
+        {
+            "content": "đáng ca ngợi",
+            "type": "adjective",
+            "example": {
+                "en": "This is a commendable ideal, to say the least.",
+                "vi": "Lý tưởng nêu trên thật đáng ca ngợi, điều mà ta phải nhìn nhận."
+            }
+        },
+        {
+            "content": "đáng tuyên dương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáng tán dương",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

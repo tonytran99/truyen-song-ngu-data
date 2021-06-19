@@ -1,0 +1,47 @@
+{
+    "word": "eventuate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈven(t)SHəˌwāt/",
+            "/əˈvɛn(t)ʃəˌweɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈvɛn(t)ʃʊeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoá ra là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết thúc",
+            "type": "noun",
+            "example": {
+                "en": "Eventually he was hospitalized, and life was ebbing away.",
+                "vi": "Cuối cùng ông vào bệnh viện và cuộc đời của ông sắp kết thúc."
+            }
+        },
+        {
+            "content": "thành ra là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xảy ra",
+            "type": "verb",
+            "example": {
+                "en": "But eventually i came to understand what had happened.",
+                "vi": "Nhưng cuối cùng bố đã hiểu những gì đã xảy ra."
+            }
+        }
+    ]
+}

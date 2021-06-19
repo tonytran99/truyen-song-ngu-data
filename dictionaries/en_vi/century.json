@@ -1,0 +1,50 @@
+{
+    "word": "century",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsen(t)SH(ə)rē/",
+            "/ˈsɛn(t)ʃ(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛntʃʊri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thế kỷ",
+            "type": "noun",
+            "example": {
+                "en": "The species will be made extinct by the end of this century.",
+                "vi": "Nhiều loài sẽ bị tuyệt chủng vào cuối thế kỷ này"
+            }
+        },
+        {
+            "content": "trăm",
+            "type": "numeral",
+            "example": {
+                "en": "You said that you've lived here for centuries!",
+                "vi": "Anh nói là đã sống ở đây mấy trăm năm rồi mà."
+            }
+        },
+        {
+            "content": "trăm năm",
+            "type": "",
+            "example": {
+                "en": "You said that you've lived here for centuries!",
+                "vi": "Anh nói là đã sống ở đây mấy trăm năm rồi mà."
+            }
+        },
+        {
+            "content": "trăm đô la",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

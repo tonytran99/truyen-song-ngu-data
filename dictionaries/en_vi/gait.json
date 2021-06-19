@@ -1,0 +1,48 @@
+{
+    "word": "gait",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡāt/",
+            "/ɡeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dáng đi",
+            "type": "noun",
+            "example": {
+                "en": "But no, just the mechanics stabilized the gait, and the robot doesn't fall over.",
+                "vi": "Không, chỉ các cơ chế đã giữ dáng đi ổn định, và con robot không bị ngã xuống."
+            }
+        },
+        {
+            "content": "dáng",
+            "type": "noun",
+            "example": {
+                "en": "Except his shoe size, his height, his gait, his walking pace.",
+                "vi": "Ngoại trừ cỡ giầy, chiều cao, dáng đi, và chiều dài bước chân của tên bắt cóc."
+            }
+        },
+        {
+            "content": "bộ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khí cốt",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

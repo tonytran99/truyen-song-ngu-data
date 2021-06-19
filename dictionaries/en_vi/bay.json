@@ -1,0 +1,123 @@
+{
+    "word": "bay",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bā/",
+            "/beɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/beɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vịnh",
+            "type": "noun",
+            "example": {
+                "en": "The fact that Gatsby's house is just across the bay.",
+                "vi": "Rằng nhà của Gatsby lại ngay bên kia vịnh."
+            }
+        },
+        {
+            "content": "灣",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hồng",
+            "type": "adjective noun",
+            "example": {
+                "en": "A bay, two black and a gray.",
+                "vi": "Một con màu hồng, hai con màu đen và một con màu xám."
+            }
+        },
+        {
+            "content": "sủa",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bộ",
+            "type": "noun",
+            "example": {
+                "en": "We need full evac on the lower hangar bay.",
+                "vi": "Ta cần di tản toàn bộ khoang dưới."
+            }
+        },
+        {
+            "content": "gian",
+            "type": "noun",
+            "example": {
+                "en": "Looks like the main problem is in avionics bay two.",
+                "vi": "Có vẻ vấn đề chính nằm ở khu động cơ bay gian số 2."
+            }
+        },
+        {
+            "content": "ô",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "hộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhịp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chỗ tránh nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây nguyệt quế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngựa hồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng chó sủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng nguyệt quế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảng",
+            "type": "noun",
+            "example": {
+                "en": "All emergency personnel, please report to bay six.",
+                "vi": "Tất cả nhân viên cứu hộ mời tập trung về cảng số 6."
+            }
+        },
+        {
+            "content": "港",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

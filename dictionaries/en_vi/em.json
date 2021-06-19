@@ -1,0 +1,50 @@
+{
+    "word": "em",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/em/",
+            "/ɛm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "em",
+            "type": "adjective pronoun noun",
+            "example": {
+                "en": "Okay, pul \" em off.",
+                "vi": "Ok, để em cởi ra."
+            }
+        },
+        {
+            "content": "mờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "em-mờ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "m",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "M",
+            "type": "Letter",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "word": "feeble",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēbəl/",
+            "/ˈfibəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "yếu",
+            "type": "adjective",
+            "example": {
+                "en": "For reasons that are utterly stupid and feeble.",
+                "vi": "Vì các lý do cực kỳ ngớ ngẩn và yếu đuối."
+            }
+        },
+        {
+            "content": "nhu nhược",
+            "type": "adjective",
+            "example": {
+                "en": "The gods will not allow my death by your feeble blade.",
+                "vi": "Chúa trời sẽ không để ta chết dưới lưỡi kiếm nhu nhược của ngươi đâu."
+            }
+        },
+        {
+            "content": "yếu đuối",
+            "type": "adjective",
+            "example": {
+                "en": "For reasons that are utterly stupid and feeble.",
+                "vi": "Vì các lý do cực kỳ ngớ ngẩn và yếu đuối."
+            }
+        },
+        {
+            "content": "kém",
+            "type": "adjective",
+            "example": {
+                "en": "Someone so weak, so feeble, saved ME.",
+                "vi": "Một tên yếu đuối, hèn kém, đã cứu con."
+            }
+        },
+        {
+            "content": "foible",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bạc nhược",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "dễ gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lờ mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỏng mảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ốm yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yếu ớt",
+            "type": "",
+            "example": {
+                "en": "A feeble, plaintive cry was heard from beneath the rubble.",
+                "vi": "Người ta nghe một tiếng kêu rên yếu ớt từ dưới đống đá vụn."
+            }
+        }
+    ]
+}

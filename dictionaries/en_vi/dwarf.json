@@ -1,0 +1,95 @@
+{
+    "word": "dwarf",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dwôrf/",
+            "/dwɔrf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dwɔːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người lùn",
+            "type": "noun",
+            "example": {
+                "en": "So, yeah, we're looking for a dwarf.",
+                "vi": "Nên ừ, ta đang tìm một người lùn."
+            }
+        },
+        {
+            "content": "chú lùn",
+            "type": "noun",
+            "example": {
+                "en": "Ask me nicely and maybe I'll tell you, dwarf.",
+                "vi": "Hỏi tôi đàng hoàng thì có lẽ tôi sẽ kể cho ông, chú lùn à."
+            }
+        },
+        {
+            "content": "lùn",
+            "type": "adjective",
+            "example": {
+                "en": "The Solar System has only eight planets now as Pluto, which was the ninth, has been reclassified as a dwarf planet.",
+                "vi": "Thái dương hệ chỉ có 8 hành tinh bây giờ là Pluto, hành tinh thứ 9, đã được công nhận là một hành tinh lùn."
+            }
+        },
+        {
+            "content": "còi cọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con vật lùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây lùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm còi cọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cọc lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lùn tịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lùn tịt",
+            "type": "",
+            "example": {
+                "en": "I'm a dwarf, it's no secret.",
+                "vi": "Tôi lùn tịt, chẳng phải là điều bí mật gì."
+            }
+        },
+        {
+            "content": "nhỏ xíu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "oắt con",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

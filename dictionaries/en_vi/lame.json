@@ -1,0 +1,87 @@
+{
+    "word": "lame",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lām/",
+            "/leɪm/",
+            "/laˈmā/",
+            "/læˈmeɪ/",
+            "/läˈmā/",
+            "/lɑˈmeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/leɪm/",
+            "/ˈlɑːmeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "què",
+            "type": "adjective",
+            "example": {
+                "en": "He always came up with a lame excuse not to do it.",
+                "vi": "Cậu ta luôn luôn có mặt lấy cớ là bị què để không phải nhảy."
+            }
+        },
+        {
+            "content": "khập khiễng",
+            "type": "",
+            "example": {
+                "en": "I don't want to leave a lame voicemail message.",
+                "vi": "Em không muốn để lại thư thoại khập khiễng."
+            }
+        },
+        {
+            "content": "chán",
+            "type": "adjective verb",
+            "example": {}
+        },
+        {
+            "content": "thọt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thoả đáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho què quặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho tàn tật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lá kim loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "què quặt",
+            "type": "adjective",
+            "example": {
+                "en": "The universe cannot be that lame.",
+                "vi": "Thiên hà này không thể què quặt như thế."
+            }
+        }
+    ]
+}

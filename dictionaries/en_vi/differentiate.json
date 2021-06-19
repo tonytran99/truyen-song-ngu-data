@@ -1,0 +1,60 @@
+{
+    "word": "differentiate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdifəˈren(t)SHēˌāt/",
+            "/ˌdɪfəˈrɛn(t)ʃiˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɪfəˈrɛnʃɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân biệt",
+            "type": "",
+            "example": {
+                "en": "We can continue this differential in five minutes.",
+                "vi": "Chúng ta có thể chẩn đoán phân biệt trong năm phút nữa."
+            }
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "What differentiates success and failure, is your ability to work.",
+                "vi": "Sự khác biệt giữa thành công và thất bại, là sự hợp tác."
+            }
+        },
+        {
+            "content": "lấy vi phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân biệt đối xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân hóa",
+            "type": "",
+            "example": {
+                "en": "If somehow we can cause these cells to differentiate —",
+                "vi": "Nếu một cách nào đó ta có thể làm những tế bào này phân hóa"
+            }
+        },
+        {
+            "content": "trở thành khác biệt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

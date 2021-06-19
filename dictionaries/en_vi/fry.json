@@ -1,0 +1,78 @@
+{
+    "word": "fry",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frī/",
+            "/fraɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiên",
+            "type": "verb",
+            "example": {
+                "en": "I never understood your country's need to fry everything.",
+                "vi": "Tôi chưa bao giờ hiểu sao đất nước cô lại cần chiên hết mọi thứ lên."
+            }
+        },
+        {
+            "content": "rán",
+            "type": "verb",
+            "example": {
+                "en": "You guys, we shouldn't be frying up tissues anymore, okay?",
+                "vi": "Mọi người, chúng ta không nên rán giòn khăn giấy nữa nhé?"
+            }
+        },
+        {
+            "content": "cá bột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xào",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quay",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ram",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cá hồi hai năm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cá mới nở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt rán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

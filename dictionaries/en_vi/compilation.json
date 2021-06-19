@@ -1,0 +1,57 @@
+{
+    "word": "compilation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämpəˈlāSH(ə)n/",
+            "/ˌkɑmpəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒmpɪˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự biên soạn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biên dịch",
+            "type": "",
+            "example": {
+                "en": "The document will be able to be compiled alone",
+                "vi": "Tài liệu này có thể được biên dịch riêng"
+            }
+        },
+        {
+            "content": "dịch mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài liệu biên soạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài liệu sưu tập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sưu tập",
+            "type": "",
+            "example": {
+                "en": "Here are some global statistics compiled by The Daily Mail newspaper .",
+                "vi": "Sau đây là vài con số thống kê toàn cầu tờ Daily Mail sưu tập ."
+            }
+        }
+    ]
+}

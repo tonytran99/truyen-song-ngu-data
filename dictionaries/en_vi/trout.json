@@ -1,0 +1,43 @@
+{
+    "word": "trout",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/trout/",
+            "/traʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/traʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá hồi",
+            "type": "noun",
+            "example": {
+                "en": "They still fish salmons and trout in this river.",
+                "vi": "Họ vẫn bắt cá hồi dưới sông này."
+            }
+        },
+        {
+            "content": "câu cá hồi",
+            "type": "",
+            "example": {
+                "en": "The goal of the fly fisherman is to catch trout through skillful deception.",
+                "vi": "Mục tiêu của người câu cá bằng mồi giả là câu cá hồi bằng mưu mẹo khéo léo."
+            }
+        },
+        {
+            "content": "Cá hương",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

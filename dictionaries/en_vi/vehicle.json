@@ -1,0 +1,80 @@
+{
+    "word": "vehicle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēək(ə)l/",
+            "/ˈviək(ə)l/",
+            "/ˈvēˌhik(ə)l/",
+            "/ˈviˌhɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe",
+            "type": "noun",
+            "example": {
+                "en": "Still have no information about who's driving this vehicle.",
+                "vi": "Chúng tôi vẫn không có thông tin nào về người lái chiếc xe này."
+            }
+        },
+        {
+            "content": "xe cộ",
+            "type": "noun",
+            "example": {
+                "en": "We have an abandoned vehicle and an elderly man in the middle of the street.",
+                "vi": "Chúng tôi đã chặn xe cộ và người lớn tuổi ở giữa đường."
+            }
+        },
+        {
+            "content": "chuyển chở bằng xe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyển ngữ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phương tiện truyền bá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tá dược lỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật truyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe hai bánh",
+            "type": "noun",
+            "example": {
+                "en": "Two-wheeled vehicles that travel 150 miles an hour don't really go well with crippled, irresponsible drug addicts.",
+                "vi": "Xe hai bánh phóng 150 dặm một giờ xem ra không hợp với một người tàn tật, nghiện thuốc vô tội vạ."
+            }
+        },
+        {
+            "content": "xe hơi",
+            "type": "noun",
+            "example": {
+                "en": "She left in a vehicle with a black male.",
+                "vi": "Cô ta rời đi cùng với một người đàn ông da màu trong chiếc xe hơi."
+            }
+        }
+    ]
+}

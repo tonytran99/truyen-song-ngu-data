@@ -1,0 +1,85 @@
+{
+    "word": "certificate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sərˈtifəkət/",
+            "/sərˈtɪfəkət/",
+            "/ˌsərˈtifəkāt/",
+            "/ˌsərˈtɪfəkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈtɪfɪkət/",
+            "/səˈtɪfɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giấy chứng nhận",
+            "type": "noun",
+            "example": {
+                "en": "Work for two years, so you get a certificate and a passport.",
+                "vi": "Làm việc hai năm, bạn sẽ được giấy chứng nhận và passport."
+            }
+        },
+        {
+            "content": "chứng chỉ",
+            "type": "noun",
+            "example": {
+                "en": "The certificates are awarded under the direction of the bishop.",
+                "vi": "Các chứng chỉ được trao tặng dưới sự hướng dẫn của vị giám trợ."
+            }
+        },
+        {
+            "content": "bằng",
+            "type": "noun",
+            "example": {
+                "en": "He read the paragraph fluently and received the certificate.",
+                "vi": "Anh đọc đoạn đó rất trôi chảy và có được bằng."
+            }
+        },
+        {
+            "content": "chứng nhận",
+            "type": "noun",
+            "example": {
+                "en": "Work for two years, so you get a certificate and a passport.",
+                "vi": "Làm việc hai năm, bạn sẽ được giấy chứng nhận và passport."
+            }
+        },
+        {
+            "content": "chứng thư",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cấp giấy chứng nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấp văn bằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giấy chứng chỉ",
+            "type": "noun",
+            "example": {
+                "en": "Coins, paper, certificates, or something people use as payment for goods or services.",
+                "vi": "Bạc cắc, bạc giấy, chứng chỉ hay một cái gì đó mà người ta dùng để trả cho hàng hóa hay dịch vụ."
+            }
+        },
+        {
+            "content": "văn bằng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

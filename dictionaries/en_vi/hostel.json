@@ -1,0 +1,53 @@
+{
+    "word": "hostel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhästl/",
+            "/ˈhɑstl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒst(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cũ nhà trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ký túc xác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà ký túc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà trọ",
+            "type": "",
+            "example": {
+                "en": "There is a hostel for families on the temple grounds.",
+                "vi": "Trong khu đất của đền thờ, có một nhà trọ dành cho gia đình."
+            }
+        },
+        {
+            "content": "nhà tập thể",
+            "type": "",
+            "example": {
+                "en": "During that time, I lived in a hostel.",
+                "vi": "Trong thời gian đó, tôi sống ở trong một nhà tập thể."
+            }
+        }
+    ]
+}

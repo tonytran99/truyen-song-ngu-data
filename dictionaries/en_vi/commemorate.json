@@ -1,0 +1,45 @@
+{
+    "word": "commemorate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmeməˌrāt/",
+            "/kəˈmɛməˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɛməreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỷ niệm",
+            "type": "verb",
+            "example": {
+                "en": "And why has its commemoration caused such controversy?",
+                "vi": "Và tại sao lễ kỷ niệm biến cố này lại gây tranh cãi đến thế?"
+            }
+        },
+        {
+            "content": "tưởng nhớ",
+            "type": "",
+            "example": {
+                "en": "Shall we stick golden roses in half the meat pies to commemorate your generosity?",
+                "vi": "Vậy chúng ta sẽ cắm hoa hồng vàng lên nửa phần bánh thịt để tưởng nhớ sự hào phóng của bà nhé?"
+            }
+        },
+        {
+            "content": "tưởng niệm",
+            "type": "",
+            "example": {
+                "en": "this commemoration, the police will round us up",
+                "vi": "của lễ tưởng niệm này, cảnh sát sẽ bố ráp vây bắt chúng tôi"
+            }
+        }
+    ]
+}

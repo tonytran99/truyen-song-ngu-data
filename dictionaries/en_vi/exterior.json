@@ -1,0 +1,91 @@
+{
+    "word": "exterior",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌikˈstirēər/",
+            "/ˌɪkˈstɪriər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstɪərɪə/",
+            "/ɛkˈstɪərɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngoài",
+            "type": "adjective noun adverb adposition",
+            "example": {
+                "en": "The roof is supported by creating a difference between the exterior and interior air pressure.",
+                "vi": "Mái được hỗ trợ bằng cách tạo chênh lệch áp suất giữa bên trong và bên ngoài."
+            }
+        },
+        {
+            "content": "bên ngoài",
+            "type": "adjective",
+            "example": {
+                "en": "The roof is supported by creating a difference between the exterior and interior air pressure.",
+                "vi": "Mái được hỗ trợ bằng cách tạo chênh lệch áp suất giữa bên trong và bên ngoài."
+            }
+        },
+        {
+            "content": "bề ngoài",
+            "type": "noun",
+            "example": {
+                "en": "Beneath the warm, sunny exterior beats the cold, mechanical heart of a robot.",
+                "vi": "Dưới bề ngoài ấm áp của cậu ta lại là trái tim sắc đá của một robot."
+            }
+        },
+        {
+            "content": "phía ngoài",
+            "type": "noun",
+            "example": {
+                "en": "We haven't redone the exterior of the motel in a few years now, and that hardware store just reopened.",
+                "vi": "Cũng mấy năm rồi chúng ta chẳng sửa chữa gì phía ngoài nhà nghỉ... và tiệm tạp hóa cũng vừa mở cửa lại."
+            }
+        },
+        {
+            "content": "ở ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngoại",
+            "type": "noun",
+            "example": {
+                "en": "a couple of struts, like this, some exterior cladding material",
+                "vi": "một vài thanh chống, một số vật liệu ốp ngoại thất,"
+            }
+        },
+        {
+            "content": "mặt ngoài",
+            "type": "",
+            "example": {
+                "en": "If we alter the exterior from smooth to corrugated, the capsule might have more stability,",
+                "vi": "Nếu thay đổi mặt ngoài từ nhẵn thành có khía... thì thân tàu có thể có độ ổn định cao hơn."
+            }
+        },
+        {
+            "content": "nước ngoài",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "từ ngoài vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẻ bề ngoài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

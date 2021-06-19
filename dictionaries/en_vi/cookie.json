@@ -1,0 +1,67 @@
+{
+    "word": "cookie",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈko͝okē/",
+            "/ˈkʊki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʊki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh quy",
+            "type": "noun",
+            "example": {
+                "en": "He is making cookies.",
+                "vi": "Anh ta đang làm bánh quy."
+            }
+        },
+        {
+            "content": "bánh bích quy",
+            "type": "",
+            "example": {
+                "en": "I want my cookies!",
+                "vi": "Tôi muốn ăn bánh bích quy!"
+            }
+        },
+        {
+            "content": "bích quy",
+            "type": "noun",
+            "example": {
+                "en": "I want my cookies!",
+                "vi": "Tôi muốn ăn bánh bích quy!"
+            }
+        },
+        {
+            "content": "cookie",
+            "type": "",
+            "example": {
+                "en": "Keeps track of all cookies in the system",
+                "vi": "Theo dõi các tập tin cookie trong hệ thống. Comment"
+            }
+        },
+        {
+            "content": "bánh bao",
+            "type": "",
+            "example": {
+                "en": "The dumpling squadron will take position here... while the cookie squadron will take position here.",
+                "vi": "Phi đội bánh bao sẽ chiếm giữ vị trí ở đây... trong khi phi đội bánh quy sẽ giữ vị trí ở đây."
+            }
+        },
+        {
+            "content": "bánh dẹt nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

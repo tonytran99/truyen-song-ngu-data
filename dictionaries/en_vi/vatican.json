@@ -1,0 +1,44 @@
+{
+    "word": "vatican",
+    "type": [
+        "adjective",
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvadəkən/",
+            "/ˈvædəkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvatɪk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Va-ti-can",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toà thánh",
+            "type": "",
+            "example": {
+                "en": "Just until the Vatican approves it.",
+                "vi": "Chỉ phải chờ đến khi Toà Thánh Vantican thông qua nó là ổn."
+            }
+        },
+        {
+            "content": "vatican",
+            "type": "",
+            "example": {
+                "en": "It looks like he lobbied the vatican For a diplomatic posting, but they refused.",
+                "vi": "Hình như ổng vận động hành lang ở Vatican để lấy quyền ngoại giao, nhưng họ từ chối."
+            }
+        }
+    ]
+}

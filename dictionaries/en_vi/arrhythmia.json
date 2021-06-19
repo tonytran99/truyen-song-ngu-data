@@ -1,0 +1,36 @@
+{
+    "word": "arrhythmia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/āˈriT͟Hmēə/",
+            "/eɪˈrɪðmiə/",
+            "/əˈriT͟Hmēə/",
+            "/əˈrɪðmiə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪˈrɪðmɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng loạn nhịp",
+            "type": "noun",
+            "example": {
+                "en": "The clots were caused by an arrhythmia.",
+                "vi": "Tụ máu được tạo ra bởi chứng loạn nhịp nhanh."
+            }
+        },
+        {
+            "content": "chứng loạn nhịp tim",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

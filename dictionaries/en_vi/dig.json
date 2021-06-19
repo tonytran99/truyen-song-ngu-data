@@ -1,0 +1,228 @@
+{
+    "word": "dig",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diɡ/",
+            "/dɪɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đào",
+            "type": "verb",
+            "example": {
+                "en": "We're gonna have to dig up the floor to get to it.",
+                "vi": "Chúng tôi sẽ phải đào qua nền nhà để sửa sợi cáp đó."
+            }
+        },
+        {
+            "content": "bới",
+            "type": "verb",
+            "example": {
+                "en": "They were digging in the dirt, looking for this stuff.",
+                "vi": "Họ đang đào bới ngoài đồng, tìm kiếm thứ này."
+            }
+        },
+        {
+            "content": "đào bới",
+            "type": "",
+            "example": {
+                "en": "They were digging in the dirt, looking for this stuff.",
+                "vi": "Họ đang đào bới ngoài đồng, tìm kiếm thứ này."
+            }
+        },
+        {
+            "content": "moi",
+            "type": "verb",
+            "example": {
+                "en": "You got this job by digging up dirt.",
+                "vi": "Cậu có được công việc này bằng cách moi móc ra những thứ bẩn thỉu."
+            }
+        },
+        {
+            "content": "xới",
+            "type": "",
+            "example": {
+                "en": "The less you say, the more they'll dig.",
+                "vi": "Bà càng kín tiếng, họ sẽ càng xới lên."
+            }
+        },
+        {
+            "content": "cuốc",
+            "type": "noun verb",
+            "example": {
+                "en": "I am not strong enough to dig, and I am ashamed to beg.”",
+                "vi": "Mình không có sức để cuốc đất, còn đi ăn mày thì xấu hổ”."
+            }
+        },
+        {
+            "content": "huých",
+            "type": "",
+            "example": {
+                "en": "Then your companion will dig you in the ribs and say, \"Wake up!",
+                "vi": "Sẽ còn tệ hơn nữa khi cô bạn gái đi cùng huých vào xương sườn của bạn và gọi \"Dậy đi!"
+            }
+        },
+        {
+            "content": "xới đất",
+            "type": "",
+            "example": {
+                "en": "As a second example, I worked with researchers to dig in the dirt in people's backyards.",
+                "vi": "Ví dụ thứ hai, Tôi cùng các nhà nghiên cứu đào xới đất ở sân sau."
+            }
+        },
+        {
+            "content": "đào hố",
+            "type": "",
+            "example": {
+                "en": "Humans can dig holes and make a well.",
+                "vi": "Con người có thể đào hố và khoan giếng."
+            }
+        },
+        {
+            "content": "thúc",
+            "type": "",
+            "example": {
+                "en": "In fact, it might encourage her to dig deeper.",
+                "vi": "Mà có khi, nó sẽ thúc đẩy cô ta đào sâu hơn."
+            }
+        },
+        {
+            "content": "khơi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xoi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chú ý tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cú thúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "for moi móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "moi ra",
+            "type": "",
+            "example": {
+                "en": "Watching someone night and day, you never know what you'll dig up.",
+                "vi": "Cứ bám đuôi ai đó ngày và đêm, rồi không biết mình sẽ moi ra được gì."
+            }
+        },
+        {
+            "content": "nghiên cứu",
+            "type": "verb",
+            "example": {
+                "en": "Did some digging and came up with a name.",
+                "vi": "Tớ có nghiên cứu qua và tìm được cái tên này."
+            }
+        },
+        {
+            "content": "người tái giá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tái hôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đi bước nữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cuốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khai quật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đào",
+            "type": "",
+            "example": {
+                "en": "If the media really digs their feet in, forget about the public response.",
+                "vi": "Nếu giới truyền thông thực sự đào sau nó, hãy quên phản ứng của công chúng đi."
+            }
+        },
+        {
+            "content": "thọc sâu",
+            "type": "",
+            "example": {
+                "en": "Dig into that file cabinet of yours and pull something out!",
+                "vi": "Thọc sâu vào bên trong cơ thể và lôi cái gì đó ra đi!"
+            }
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {
+                "en": "Just a matter of digging and finding them.",
+                "vi": "Chỉ là vấn đề đào bới và tìm ra chúng."
+            }
+        },
+        {
+            "content": "tìm tòi",
+            "type": "",
+            "example": {
+                "en": "I started digging into all of his stuff.",
+                "vi": "Tôi bắt đầu tìm tòi những thứ của ông ta."
+            }
+        },
+        {
+            "content": "án sâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quật",
+            "type": "verb",
+            "example": {
+                "en": "So this is why you've been funding our dig.",
+                "vi": "Thì ra đó là lý do ông đã tài trợ cuộc khai quật này!"
+            }
+        }
+    ]
+}

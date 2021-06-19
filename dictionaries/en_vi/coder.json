@@ -1,0 +1,49 @@
+{
+    "word": "coder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōdər/",
+            "/ˈkoʊdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ biên mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người biên mã",
+            "type": "",
+            "example": {
+                "en": "So I did a search and I found the most talented coder in my company.",
+                "vi": "Nên tôi đã tìm kiếm và tìm thấy người biên mã tài năng nhất trong công ty mình."
+            }
+        },
+        {
+            "content": "người đánh mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết bị ghi mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lập trình viên",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

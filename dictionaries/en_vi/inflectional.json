@@ -1,0 +1,44 @@
+{
+    "word": "inflectional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈflekSH(ə)n(ə)l/",
+            "/ɪnˈflɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈflɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "uốn",
+            "type": "verb",
+            "example": {
+                "en": "You may have noticed that I don't have much inflection",
+                "vi": "Các bạn có thể nhận ra rằng tôi không có nhiều uốn lượn"
+            }
+        },
+        {
+            "content": "biến tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyển điệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "góc cong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

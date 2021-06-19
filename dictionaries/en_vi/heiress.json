@@ -1,0 +1,38 @@
+{
+    "word": "heiress",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeris/",
+            "/ˈɛrɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛːrəs/",
+            "/ɛːˈrɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người nữ thừa kế",
+            "type": "noun",
+            "example": {
+                "en": "L'Oreal heiress placed under guardianship",
+                "vi": "Người nữ thừa kế của hãng L'Oreal phải chịu sự giám hộ"
+            }
+        },
+        {
+            "content": "người thừa kế",
+            "type": "",
+            "example": {
+                "en": "One daughter, the heiress of Rosings and very extensive property.",
+                "vi": "Một cô con gái, người thừa kế Rosings và rất nhiều bất động sản."
+            }
+        }
+    ]
+}

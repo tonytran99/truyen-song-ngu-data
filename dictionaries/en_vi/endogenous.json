@@ -1,0 +1,40 @@
+{
+    "word": "endogenous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/enˈdäjənəs/",
+            "/ɛnˈdɑdʒənəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛnˈdɒdʒɪnəs/",
+            "/ɪnˈdɒdʒɪnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nội sinh",
+            "type": "adjective",
+            "example": {
+                "en": "You simply need to find ways of promoting the endogenous, spontaneous repair that occurs anyway.",
+                "vi": "Bạn chỉ cần tìm cách làm tăng sự tái tạo nội sinh, tự nhiên để chúng xuất hiện."
+            }
+        },
+        {
+            "content": "sinh trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong hệ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

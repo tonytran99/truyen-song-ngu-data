@@ -1,0 +1,52 @@
+{
+    "word": "beginner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈɡinər/",
+            "/bəˈɡɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈɡɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người mới học",
+            "type": "noun",
+            "example": {
+                "en": "We combine the translations of multiple beginners",
+                "vi": "Chúng tôi kết hợp bản dịch của nhiều người mới học lại"
+            }
+        },
+        {
+            "content": "người bắt đầu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người mới bắt đầu",
+            "type": "noun",
+            "example": {
+                "en": "Do you have a course for beginners?",
+                "vi": "Bạn có khoá học nào cho người mới bắt đầu không?"
+            }
+        },
+        {
+            "content": "người mới ra đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người mới vào nghề",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

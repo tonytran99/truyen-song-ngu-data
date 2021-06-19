@@ -1,0 +1,47 @@
+{
+    "word": "wetland",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwetˌland/",
+            "/ˈwɛtˌlænd/",
+            "/ˈwetˌlənd/",
+            "/ˈwɛtˌlənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛtlənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vùng đất ngập nước",
+            "type": "noun",
+            "example": {
+                "en": "All across the boreal, we're blessed with this incredible abundance of wetlands.",
+                "vi": "Trên khắp phương bắc, chúng tôi may mắn có được sự phong phú đến đáng kinh ngạc của những vùng đất ngập nước."
+            }
+        },
+        {
+            "content": "vùng đất ướt",
+            "type": "noun",
+            "example": {
+                "en": "And as the world's largest and most ambitious wetland restoration project,",
+                "vi": "và là dự án khôi phục vùng đất ướt lớn nhất và tham vọng nhất thế giới"
+            }
+        },
+        {
+            "content": "Đất ngập nước",
+            "type": "",
+            "example": {
+                "en": "The water comes into our treatment wetland,",
+                "vi": "Nước được đổ vào vùng xử lý đất ngập nước,"
+            }
+        }
+    ]
+}

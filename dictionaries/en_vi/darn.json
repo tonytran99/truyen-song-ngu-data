@@ -1,0 +1,40 @@
+{
+    "word": "darn",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/därn/",
+            "/dɑrn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɑːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chỗ mạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mạng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

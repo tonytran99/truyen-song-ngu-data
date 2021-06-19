@@ -1,0 +1,44 @@
+{
+    "word": "warlike",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrˌlīk/",
+            "/ˈwɔrˌlaɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːlʌɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiếu chiến",
+            "type": "adjective",
+            "example": {
+                "en": "According to these blessings, Gad’s descendants were to be a warlike race.",
+                "vi": "Theo những phước lành nầy, con cháu của Gát sẽ trở thành một dân tộc hiếu chiến."
+            }
+        },
+        {
+            "content": "chiến tranh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hùng dũng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiện chiến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

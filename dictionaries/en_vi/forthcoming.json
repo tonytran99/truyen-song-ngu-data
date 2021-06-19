@@ -1,0 +1,66 @@
+{
+    "word": "forthcoming",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrTHˈkəmiNG/",
+            "/fɔrθˈkəmɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːθˈkʌmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sắp tới",
+            "type": "adjective",
+            "example": {
+                "en": "We're all very excited about your forthcoming trip to Paris.",
+                "vi": "Chúng tôi đều rất thích thú về chuyến đi Paris sắp tới của em."
+            }
+        },
+        {
+            "content": "sắp đến",
+            "type": "adjective",
+            "example": {
+                "en": "They have not taken seriously the warning about their forthcoming demise.",
+                "vi": "Họ coi thường lời cảnh cáo về sự hủy diệt sắp đến."
+            }
+        },
+        {
+            "content": "sắp",
+            "type": "adjective",
+            "example": {
+                "en": "I sense a more detailed proposal is forthcoming?",
+                "vi": "Tôi cảm thấy cậu sắp đề xuất một thứ chi tiết hơn?"
+            }
+        },
+        {
+            "content": "sẵn sàng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sãn sàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắp rời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắp xuất bản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

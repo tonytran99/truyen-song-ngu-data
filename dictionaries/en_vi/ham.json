@@ -1,0 +1,87 @@
+{
+    "word": "ham",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ham/",
+            "/hæm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ham/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giăm bông",
+            "type": "",
+            "example": {
+                "en": "Tom ate part of the ham, and then put the rest into the refrigerator.",
+                "vi": "Tom ăn một phần giăm bông, rồi cắt phần còn lại vào tủ lạnh."
+            }
+        },
+        {
+            "content": "thành phố làng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kheo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỉnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giăm-bông",
+            "type": "noun",
+            "example": {
+                "en": "Tom ate part of the ham, and then put the rest into the refrigerator.",
+                "vi": "Tom ăn một phần giăm bông, rồi cắt phần còn lại vào tủ lạnh."
+            }
+        },
+        {
+            "content": "thành phố",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Giăm bông",
+            "type": "",
+            "example": {
+                "en": "Tom ate part of the ham, and then put the rest into the refrigerator.",
+                "vi": "Tom ăn một phần giăm bông, rồi cắt phần còn lại vào tủ lạnh."
+            }
+        },
+        {
+            "content": "thịt giăm-bông",
+            "type": "",
+            "example": {
+                "en": "Three slices of ham .",
+                "vi": "Ba lát thịt giăm-bông ."
+            }
+        },
+        {
+            "content": "thịt nguội",
+            "type": "noun",
+            "example": {
+                "en": "Jimmy, we need a ham and cheese on white.",
+                "vi": "Jimmy, cho tôi một cái sandwich thịt nguội phô mai."
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "automated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôdəˌmādəd/",
+            "/ˈɔdəˌmeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːtəmeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vận hành tự động",
+            "type": "",
+            "example": {
+                "en": "Ships have automation now.",
+                "vi": "Các tàu có thể vận hành tự động"
+            }
+        }
+    ]
+}

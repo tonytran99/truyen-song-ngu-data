@@ -1,0 +1,72 @@
+{
+    "word": "convict",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvikt/",
+            "/kənˈvɪkt/",
+            "/ˈkänˌvikt/",
+            "/ˈkɑnˌvɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvɪkt/",
+            "/ˈkɒnvɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kết án",
+            "type": "verb",
+            "example": {
+                "en": "Chet was tried and convicted of murder and sentenced to life in prison.",
+                "vi": "Chet bị xét xử và bị kết án sát nhân và lãnh án tù chung thân."
+            }
+        },
+        {
+            "content": "tù",
+            "type": "",
+            "example": {
+                "en": "Every convict on this ship knows who you are.",
+                "vi": "Mọi tù nhân trên chiếc tàu này đều biết anh là ai."
+            }
+        },
+        {
+            "content": "người tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phạm tội",
+            "type": "",
+            "example": {
+                "en": "They haven't yet been convicted of a crime.",
+                "vi": "Họ chưa bị kết án là có phạm tội."
+            }
+        },
+        {
+            "content": "tuyên bố có tội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tù nhân",
+            "type": "noun",
+            "example": {
+                "en": "Every convict on this ship knows who you are.",
+                "vi": "Mọi tù nhân trên chiếc tàu này đều biết anh là ai."
+            }
+        },
+        {
+            "content": "người bị kết án tù",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

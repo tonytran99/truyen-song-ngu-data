@@ -1,0 +1,51 @@
+{
+    "word": "clue",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klo͞o/",
+            "/klu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kluː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "manh mối",
+            "type": "noun",
+            "example": {
+                "en": "Give me a clue.",
+                "vi": "Cho tôi một manh mối."
+            }
+        },
+        {
+            "content": "đầu mối",
+            "type": "noun",
+            "example": {
+                "en": "And that will lead to another clue, and that will lead to another clue!",
+                "vi": "Và nó sẽ dẫn tới một đầu mối khác, nó sẽ dẫn tới một đầu mối khác!"
+            }
+        },
+        {
+            "content": "dòng tư tưởng",
+            "type": "",
+            "example": {
+                "en": "The other set of clues came from the Web side of the company 's operations .",
+                "vi": "Tập hợp các dòng tư tưởng khác đến từ khía cạnh Web trong sự hoạt động của công ty ."
+            }
+        },
+        {
+            "content": "mạch câu chuyện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

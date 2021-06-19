@@ -1,0 +1,62 @@
+{
+    "word": "callous",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaləs/",
+            "/ˈkæləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chai",
+            "type": "adjective",
+            "example": {
+                "en": "Many are indifferent, even callous, to distressing events of the day.",
+                "vi": "Nhiều người thờ ơ, thậm chí còn chai đá trước những biến cố đang xảy ra."
+            }
+        },
+        {
+            "content": "nhẫn tâm",
+            "type": "adjective",
+            "example": {
+                "en": "On the surface such a comment may seem cold, callous, even cynical.",
+                "vi": "Theo bề ngoài thì lời nói đó có vẻ lạnh lùng, nhẫn tâm, ngay cả vô nhân đạo."
+            }
+        },
+        {
+            "content": "thành chai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có chai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạnh lùng",
+            "type": "adjective",
+            "example": {
+                "en": "On the surface such a comment may seem cold, callous, even cynical.",
+                "vi": "Theo bề ngoài thì lời nói đó có vẻ lạnh lùng, nhẫn tâm, ngay cả vô nhân đạo."
+            }
+        },
+        {
+            "content": "bạc bẽo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

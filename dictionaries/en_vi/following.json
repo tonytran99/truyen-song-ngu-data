@@ -1,0 +1,96 @@
+{
+    "word": "following",
+    "type": [
+        "adjective",
+        "noun",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfälōiNG/",
+            "/ˈfɑloʊɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɒləʊɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sau đây",
+            "type": "",
+            "example": {
+                "en": "Basically, because of the following three unwholesome influences.",
+                "vi": "Về cơ bản, đó là vì ba ảnh hưởng tai hại sau đây."
+            }
+        },
+        {
+            "content": "tiếp theo",
+            "type": "adjective",
+            "example": {
+                "en": "Enter your username, followed by your password.",
+                "vi": "Nhập tên người dùng của bạn, tiếp theo đó là mật khẩu."
+            }
+        },
+        {
+            "content": "sau",
+            "type": "conjunction",
+            "example": {
+                "en": "Basically, because of the following three unwholesome influences.",
+                "vi": "Về cơ bản, đó là vì ba ảnh hưởng tai hại sau đây."
+            }
+        },
+        {
+            "content": "những người sau đây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những thứ sau đây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số người theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số người ủng hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự noi theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự theo",
+            "type": "",
+            "example": {
+                "en": "and really to follow my journey.",
+                "vi": "và thực sự theo dõi hành trình của tôi."
+            }
+        },
+        {
+            "content": "theo sau",
+            "type": "",
+            "example": {
+                "en": "Kill him, and you'll bear the wrath of his following.",
+                "vi": "Giết hắn đi, và anh sẽ phải chịu sự phẫn nộ của những kẻ theo sau."
+            }
+        },
+        {
+            "content": "sau đó",
+            "type": "",
+            "example": {
+                "en": "And then follows one of nature's great spectaculars.",
+                "vi": "Và tiếp theo sau đó một trong những cảnh tượng vĩ đại của thế giới tự nhiên."
+            }
+        }
+    ]
+}

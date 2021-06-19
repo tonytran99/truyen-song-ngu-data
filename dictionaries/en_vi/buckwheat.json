@@ -1,0 +1,39 @@
+{
+    "word": "buckwheat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəkˌ(h)wēt/",
+            "/ˈbəkˌ(h)wit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌkwiːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiều mạch",
+            "type": "noun",
+            "example": {
+                "en": "you can use things like buckwheat husks or oat hulls.",
+                "vi": "bạn có thể sử dụng vỏ kiều mạch hoặc yến mạch."
+            }
+        },
+        {
+            "content": "lúa mạch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bột kiều mạch",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

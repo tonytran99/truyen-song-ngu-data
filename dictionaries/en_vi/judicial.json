@@ -1,0 +1,68 @@
+{
+    "word": "judicial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jo͞oˈdiSHəl/",
+            "/dʒuˈdɪʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒuːˈdɪʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị Chúa trừng phạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có phán đoán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có phê phán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có suy xét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công bằng",
+            "type": "",
+            "example": {
+                "en": "Can you think of anything less judicial than this?",
+                "vi": "Các bạn nghĩ điều gì ít công bằng hơn thế?"
+            }
+        },
+        {
+            "content": "do toà quyết định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tư pháp",
+            "type": "adjective",
+            "example": {
+                "en": "However, the decision to reinstate is made by the original judicial committee.",
+                "vi": "Tuy nhiên, quyết định nhận vào lại là do ủy ban tư pháp trước kia đưa ra."
+            }
+        },
+        {
+            "content": "vô tư",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

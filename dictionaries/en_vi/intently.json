@@ -1,0 +1,37 @@
+{
+    "word": "intently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtentlē/",
+            "/ɪnˈtɛntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chăm chú",
+            "type": "adverb",
+            "example": {
+                "en": "I watched her closely and was surprised that she read every single line—intently.",
+                "vi": "Tôi theo dõi bà rất kỹ và ngạc nhiên thấy bà—chăm chú đọc từng hàng chữ."
+            }
+        },
+        {
+            "content": "chủ tâm",
+            "type": "adverb",
+            "example": {
+                "en": "But that's not apathy; that's intentional exclusion.",
+                "vi": "Nhưng đó không phải là sự lãnh đạm; đó là sự ngăn chặn có chủ tâm."
+            }
+        }
+    ]
+}

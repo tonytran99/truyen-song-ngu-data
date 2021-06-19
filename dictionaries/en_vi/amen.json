@@ -1,0 +1,35 @@
+{
+    "word": "amen",
+    "type": [
+        "verb",
+        "noun",
+        "adverb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/äˈmen/",
+            "/ɑˈmɛn/",
+            "/āˈmen/",
+            "/eɪˈmɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːˈmɛn/",
+            "/eɪˈmɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Amen",
+            "type": "",
+            "example": {
+                "en": "I didn't know Hindus said \" amen. \"",
+                "vi": "Tôi đã không biết rằng đạo Hinđu nói Amen đó."
+            }
+        }
+    ]
+}

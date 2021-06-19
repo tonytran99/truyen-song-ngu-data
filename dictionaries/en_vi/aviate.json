@@ -1,0 +1,44 @@
+{
+    "word": "aviate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈāvēˌāt/",
+            "/ˈeɪviˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪvɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bay",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "The tanker in the ocean there is full of aviation fuel.",
+                "vi": "Chiếc tàu dầu viễn dương này chứa đầy xăng máy bay."
+            }
+        },
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lái khí cầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lái máy bay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

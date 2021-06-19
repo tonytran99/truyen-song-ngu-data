@@ -1,0 +1,39 @@
+{
+    "word": "cravat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəˈvat/",
+            "/krəˈvæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəˈvat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ca vát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái ca vát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cà vạt",
+            "type": "noun",
+            "example": {
+                "en": "There were many types of knots used to tie the cravats.",
+                "vi": "Có nhiều kiểu thắt cà vạt."
+            }
+        }
+    ]
+}

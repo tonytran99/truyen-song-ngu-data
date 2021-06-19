@@ -1,0 +1,86 @@
+{
+    "word": "disagree",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈɡrē/",
+            "/ˌdɪsəˈɡri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈɡriː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất đồng",
+            "type": "",
+            "example": {
+                "en": "To agree to disagree on red velvet cake.",
+                "vi": "Sẽ chấp nhận bất đồng ý kiến về bánh bông lan đỏ."
+            }
+        },
+        {
+            "content": "không đồng ý",
+            "type": "",
+            "example": {
+                "en": "I disagree with that comment.",
+                "vi": "Tôi không đồng ý với bình luận này."
+            }
+        },
+        {
+            "content": "khác",
+            "type": "adjective",
+            "example": {
+                "en": "If these historians are reliable, why do they disagree?",
+                "vi": "Nếu sự ghi chép của các sử gia này đều chính xác, tại sao số liệu trong đó khác nhau?"
+            }
+        },
+        {
+            "content": "bất hoà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không giống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hợp",
+            "type": "",
+            "example": {
+                "en": "It is appropriate to disagree, but it is not appropriate to be disagreeable.",
+                "vi": "Việc bất đồng ý kiến là hợp lý nhưng việc gắt gỏng cau có thì không hợp lý ."
+            }
+        },
+        {
+            "content": "không khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thích hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lục đục",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tranh cãi",
+            "type": "",
+            "example": {
+                "en": "It 's normal for parents to disagree and argue .",
+                "vi": "Bố mẹ đôi khi cũng bất đồng và tranh cãi , điều ấy hoàn toàn bình thường thôi ."
+            }
+        }
+    ]
+}

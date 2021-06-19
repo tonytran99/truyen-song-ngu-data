@@ -1,0 +1,37 @@
+{
+    "word": "authentically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈTHen(t)ək(ə)lē/",
+            "/əˈθɛn(t)ək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɔːˈθɛntɪkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đích thực",
+            "type": "",
+            "example": {
+                "en": "There is always something authentic concealed in every forgery.",
+                "vi": "Luôn luôn có một cái gì đó đích thực trong một bản sao chép."
+            }
+        },
+        {
+            "content": "xác thực",
+            "type": "",
+            "example": {
+                "en": "I doubt my teaching assistant would testify to its authenticity.",
+                "vi": "Tôi dám chắc trợ giảng của mình sẽ dám không chứng minh độ xác thực của nó."
+            }
+        }
+    ]
+}

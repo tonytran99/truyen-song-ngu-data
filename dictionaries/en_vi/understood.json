@@ -1,0 +1,36 @@
+{
+    "word": "understood",
+    "type": [
+        "adjective",
+        "interjection",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {
+                "en": "It is understood that you wish to ruin this marriage.",
+                "vi": "Nó đã biết rằng từ lâu ông đã muốn hủy hoại căn nhà này."
+            }
+        },
+        {
+            "content": "hiểu",
+            "type": "verb",
+            "example": {
+                "en": "I'm the only one who ever really understood Tom.",
+                "vi": "Tôi là người duy nhất thực sự hiểu Tom."
+            }
+        },
+        {
+            "content": "hiểu ngầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắm được ý",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

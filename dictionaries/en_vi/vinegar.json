@@ -1,0 +1,79 @@
+{
+    "word": "vinegar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvinəɡər/",
+            "/ˈvɪnəɡər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪnɪɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giấm",
+            "type": "noun",
+            "example": {
+                "en": "He should not drink the vinegar of wine or the vinegar of anything alcoholic.",
+                "vi": "Người không được uống giấm của rượu hay giấm của bất cứ thức uống có cồn nào."
+            }
+        },
+        {
+            "content": "trộn giấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chua như giấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "(Proverbs 10:26) Vinegar is a source of discomfort to the teeth.",
+                "vi": "(Châm-ngôn 10:26) Giấm là chất làm cho răng khó chịu."
+            }
+        },
+        {
+            "content": "Giấm",
+            "type": "",
+            "example": {
+                "en": "Use a mixture of garlic, vinegar and hot pepper sauce.",
+                "vi": "Lấy tỏi trộn với giấm và tương ớt mà tẩy."
+            }
+        },
+        {
+            "content": "dấm",
+            "type": "noun",
+            "example": {
+                "en": "Take cucumber and put it in a tub with vinegar.",
+                "vi": "Lấy quả dưa chuột, cho nó vào bát với ít dấm."
+            }
+        },
+        {
+            "content": "giảm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tính khó chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính đanh đá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

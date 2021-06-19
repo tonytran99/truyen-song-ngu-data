@@ -1,0 +1,47 @@
+{
+    "word": "vaunt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vônt/",
+            "/vɔnt/",
+            "/vänt/",
+            "/vɑnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɔːnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoe",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khoa đại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoe khoang",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khoác lác",
+            "type": "noun",
+            "example": {
+                "en": "Do not now raise vaunted concerns now.",
+                "vi": "Đừng có lên giọng khoác lác nói quân tâm bây giờ."
+            }
+        }
+    ]
+}

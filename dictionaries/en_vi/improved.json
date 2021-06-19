@@ -1,0 +1,38 @@
+{
+    "word": "improved",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpro͞ovd/",
+            "/ɪmˈpruvd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpruːvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được cải tiến",
+            "type": "",
+            "example": {
+                "en": "We've seen all-round improvements lately.",
+                "vi": "Gần đây tất cả đều được cải tiến toàn diện."
+            }
+        },
+        {
+            "content": "được hoàn thiện",
+            "type": "",
+            "example": {
+                "en": "WHEN most of us look at ourselves in a mirror, we see areas that we feel could be improved.",
+                "vi": "KHI nhìn vào gương, hầu hết chúng ta đều cảm thấy một vài chỗ nào đó trên cơ thể cần được hoàn thiện."
+            }
+        }
+    ]
+}

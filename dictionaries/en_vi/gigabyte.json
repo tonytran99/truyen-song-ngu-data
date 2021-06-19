@@ -1,0 +1,42 @@
+{
+    "word": "gigabyte",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiɡəˌbīt/",
+            "/ˈɡɪɡəˌbaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪɡəbʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "một tỷ bai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "GB",
+            "type": "",
+            "example": {
+                "en": "The scan of today takes up about 800 books, or 20 gigabytes.",
+                "vi": "Chúng chiếm khoảng 800 cuốn sách, hay 20 GB."
+            }
+        },
+        {
+            "content": "gigabyte",
+            "type": "",
+            "example": {
+                "en": "So the next time you download a gigabyte,",
+                "vi": "Do đó, lần tới các bạn tải về 1 gigabyte,"
+            }
+        }
+    ]
+}

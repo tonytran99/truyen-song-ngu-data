@@ -1,0 +1,87 @@
+{
+    "word": "excise",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekˌsīz/",
+            "/ˈɛkˌsaɪz/",
+            "/ikˈsīz/",
+            "/ɪkˈsaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛksʌɪz/",
+            "/ɪkˈsʌɪz/",
+            "/ɛkˈsʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt",
+            "type": "verb noun",
+            "example": {
+                "en": "we're trying to excise cancer, we don't know where the cancer is.",
+                "vi": "Chúng ta đang cắt bỏ ung thư mà chúng ta không biết ung thư là gì."
+            }
+        },
+        {
+            "content": "bắt trả quá mức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt bớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt lọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt xén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuế hàng hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuế môn bài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh thuế hàng hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh thuế môn bài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thuế tiêu thụ đặc biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt bỏ",
+            "type": "",
+            "example": {
+                "en": "we're trying to excise cancer, we don't know where the cancer is.",
+                "vi": "Chúng ta đang cắt bỏ ung thư mà chúng ta không biết ung thư là gì."
+            }
+        }
+    ]
+}

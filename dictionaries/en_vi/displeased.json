@@ -1,0 +1,38 @@
+{
+    "word": "displeased",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈplēzd/",
+            "/dɪsˈplizd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈpliːzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất bình",
+            "type": "adjective",
+            "example": {
+                "en": "“My parents repeatedly told me that they were highly displeased with me and that I was letting them down.",
+                "vi": "“Cha mẹ luôn nói rằng họ bất bình và thất vọng về tôi."
+            }
+        },
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "And if that displeases you, take it up with a majestor.",
+                "vi": "Và nếu điều đó làm cậu khó chịu, hãy nói với một vị vua"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "hurried",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhərēd/",
+            "/ˈhərid/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌrɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp tấp",
+            "type": "adjective",
+            "example": {
+                "en": "Pay attention, Natasha, and don't be in a hurry.",
+                "vi": "Chú ý, Natasha, và đừng có hấp tấp."
+            }
+        },
+        {
+            "content": "vội vàng",
+            "type": "",
+            "example": {
+                "en": "We hurried for fear we should be late for school.",
+                "vi": "Chúng tôi vội vàng vì sợ trễ giờ đi học."
+            }
+        },
+        {
+            "content": "quàng quàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vội vã",
+            "type": "",
+            "example": {
+                "en": "They were in a hurry to get home.",
+                "vi": "Họ rất vội vã đi về nhà."
+            }
+        }
+    ]
+}

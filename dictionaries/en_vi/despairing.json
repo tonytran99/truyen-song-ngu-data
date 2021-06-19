@@ -1,0 +1,44 @@
+{
+    "word": "despairing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsperiNG/",
+            "/dəˈspɛrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɛːrɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hết hy vọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {
+                "en": "We should never let hope be displaced by despair.",
+                "vi": "Chúng ta đừng bao giờ để cho nỗi thất vọng thay thế niềm hy vọng."
+            }
+        },
+        {
+            "content": "tuyệt vọng",
+            "type": "adjective",
+            "example": {
+                "en": "Where there was despair and pain, there is joy and hope.",
+                "vi": "Nơi nào đã có tuyệt vọng và đau đớn, thì nay có niềm vui và hy vọng."
+            }
+        }
+    ]
+}

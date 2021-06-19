@@ -1,0 +1,53 @@
+{
+    "word": "iced",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īst/",
+            "/aɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có nước đá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phủ băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng băng",
+            "type": "",
+            "example": {
+                "en": "Or maybe someone smarter than you iced him.",
+                "vi": "Hoặc có thể có kẻ khác thông minh hơn anh đã đóng băng hắn."
+            }
+        },
+        {
+            "content": "ướp lạnh",
+            "type": "",
+            "example": {
+                "en": "Transport cold food with an ice source and refrigerate it immediately once you reach your destination .",
+                "vi": "Vận chuyển thực phẩm lạnh với một nguồn làm lạnh và ướp lạnh ngay lập tức khi bạn đến nơi ."
+            }
+        },
+        {
+            "content": "ướp nước đá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

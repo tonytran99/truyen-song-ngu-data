@@ -1,0 +1,68 @@
+{
+    "word": "vagrant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvāɡrənt/",
+            "/ˈveɪɡrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈveɪɡr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "du mục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "du đãng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lang thang",
+            "type": "adjective",
+            "example": {
+                "en": "I have shot and buried three vagrants in the past year!",
+                "vi": "Năm ngoái, tao đã bắn và chôn ba thằng lang thang rồi đấy!"
+            }
+        },
+        {
+            "content": "lưu lãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lang thang",
+            "type": "",
+            "example": {
+                "en": "A long time ago, on the coldest of winter nights, a vagrant came knocking at the door of our shop.",
+                "vi": "Cách đây rất lâu rồi, vào đêm lạnh nhất của mùa đông, một người lang thang đến gõ cửa tiệm nhà chúng ta."
+            }
+        },
+        {
+            "content": "sống lang thang",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vô định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẩn vơ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

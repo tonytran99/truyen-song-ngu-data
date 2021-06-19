@@ -1,0 +1,34 @@
+{
+    "word": "hospice",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäspəs/",
+            "/ˈhɑspəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒspɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà nghỉ chân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà tế bần",
+            "type": "noun",
+            "example": {
+                "en": "Well, any idea how one might cast them out of one's house before one opens a hospice business?",
+                "vi": "Cha có cách nào đuổi chúng ra khỏi nhà trước khi con mở một nhà tế bần không?"
+            }
+        }
+    ]
+}

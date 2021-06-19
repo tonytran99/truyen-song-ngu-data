@@ -1,0 +1,45 @@
+{
+    "word": "council",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkounsəl/",
+            "/ˈkaʊnsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊns(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ban",
+            "type": "noun",
+            "example": {
+                "en": "They didn't know that I was a head of a department at the Design Council.",
+                "vi": "Họ không hề biết rằng tôi là giám đốc tại Ủy ban Thiết kế."
+            }
+        },
+        {
+            "content": "hội nghị",
+            "type": "noun",
+            "example": {
+                "en": "Eusebius sat at the right hand of the emperor at the council.",
+                "vi": "Tại giáo hội nghị, Eusebius đã ngồi bên tay hữu của hoàng đế."
+            }
+        },
+        {
+            "content": "hội đồng",
+            "type": "noun",
+            "example": {
+                "en": "The third type of family council is a limited family council.",
+                "vi": "Loại hội đồng gia đình thứ ba là một hội đồng gia đình hạn chế."
+            }
+        }
+    ]
+}

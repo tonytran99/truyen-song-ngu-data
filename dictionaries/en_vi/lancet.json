@@ -1,0 +1,40 @@
+{
+    "word": "lancet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlansət/",
+            "/ˈlænsət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlɑːnsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dao mổ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lưỡi trích",
+            "type": "",
+            "example": {
+                "en": "For an infant , the blood may be obtained by puncturing the heel with a small needle ( lancet ) .",
+                "vi": "Trẻ sơ sinh có thể được lấy máu bằng cách đâm kim nhỏ ( lưỡi trích ) vào gót chân ."
+            }
+        },
+        {
+            "content": "vòm đỉnh nhọn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

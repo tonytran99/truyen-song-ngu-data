@@ -1,0 +1,36 @@
+{
+    "word": "flowering",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflou(ə)riNG/",
+            "/ˈflaʊ(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaʊərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự nở hoa",
+            "type": "",
+            "example": {
+                "en": "Some of them are very well known, like the flowering.",
+                "vi": "Một số đã được biết rất rõ, như là sự nở hoa."
+            }
+        },
+        {
+            "content": "sự ra hoa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

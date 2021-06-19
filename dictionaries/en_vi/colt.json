@@ -1,0 +1,53 @@
+{
+    "word": "colt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōlt/",
+            "/koʊlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngựa non",
+            "type": "",
+            "example": {
+                "en": "The colt's been too long with the mare.",
+                "vi": "Con ngựa non đã ở với ngựa mẹ quá lâu rồi."
+            }
+        },
+        {
+            "content": "câu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngựa con",
+            "type": "",
+            "example": {
+                "en": "So he really pulled, and the colt fell over.",
+                "vi": "Nên khi anh ấy kéo thật mạnh, thì con ngựa con ngã xuống đất."
+            }
+        },
+        {
+            "content": "súng côn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bằng roi thừng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

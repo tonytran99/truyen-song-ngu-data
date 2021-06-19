@@ -1,0 +1,59 @@
+{
+    "word": "glacial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlāSHəl/",
+            "/ˈɡleɪʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡleɪsɪəl/",
+            "/ˈɡleɪʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băng giá",
+            "type": "",
+            "example": {
+                "en": "Few countries range from glacial to tropical within a small area, but Uganda does.",
+                "vi": "Không mấy xứ giống như Uganda, có phong cảnh thay đổi từ băng giá đến nhiệt đới trong một vùng nhỏ."
+            }
+        },
+        {
+            "content": "băng",
+            "type": "noun",
+            "example": {
+                "en": "And we wanted to find out — and we see all kinds of glacial features on it.",
+                "vi": "Và khi tìm hiểu, chúng tôi thấy tất cả các loại băng trên đó."
+            }
+        },
+        {
+            "content": "lạnh buốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạnh lùng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thời kỳ sông băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảm đạm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

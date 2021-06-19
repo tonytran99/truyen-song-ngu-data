@@ -1,0 +1,37 @@
+{
+    "word": "tuna",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈt(y)o͞onə/",
+            "/ˈt(j)unə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtjuːnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá ngừ đại dương",
+            "type": "noun",
+            "example": {
+                "en": "I've been fascinated for a lifetime by the beauty, form and function of giant bluefin tuna.",
+                "vi": "Tôi bị lôi cuốn suốt cả cuộc đời bởi vẻ đẹp, hình dáng và chức năng của cá ngừ đại dương khổng lồ."
+            }
+        },
+        {
+            "content": "cá ngừ",
+            "type": "",
+            "example": {
+                "en": "How about we become tuna fishermen and then move to Japan?",
+                "vi": "Vậy còn chúng ta là người câu cá ngừ rồi chuyển đến ở Nhật thì sao?"
+            }
+        }
+    ]
+}

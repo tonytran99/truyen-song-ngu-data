@@ -1,0 +1,64 @@
+{
+    "word": "wheat",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wēt/",
+            "/(h)wit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lúa mì",
+            "type": "noun",
+            "example": {
+                "en": "As far as the eye could reach, nothing was to be seen but a field of wheat.",
+                "vi": "Nhìn hết tầm mắt, không có gì ngoài cánh đồng lúa mì."
+            }
+        },
+        {
+            "content": "mì",
+            "type": "noun",
+            "example": {
+                "en": "As far as the eye could reach, nothing was to be seen but a field of wheat.",
+                "vi": "Nhìn hết tầm mắt, không có gì ngoài cánh đồng lúa mì."
+            }
+        },
+        {
+            "content": "cây lúa mì",
+            "type": "noun",
+            "example": {
+                "en": "You'll lose the farm if this wheat ain't in on time.",
+                "vi": "Bố sẽ mất trang trại Nếu những cây lúa mì này không được trồng đúng hạn."
+            }
+        },
+        {
+            "content": "cây lúa mỳ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiểu mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạch",
+            "type": "noun",
+            "example": {
+                "en": "You’re looking at the root of wheat,",
+                "vi": "Các bạn đang nhìn thấy rễ cây lúa mạch,"
+            }
+        }
+    ]
+}

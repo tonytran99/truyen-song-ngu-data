@@ -1,0 +1,52 @@
+{
+    "word": "disclaim",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈklām/",
+            "/dɪsˈkleɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈkleɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chối",
+            "type": "",
+            "example": {
+                "en": "Whatever the circumstances, we must disclaim any knowledge of you.",
+                "vi": "Cho dù bất cứ trường hợp nào, chúng tôi phải chối bỏ mọi quen biết với ông."
+            }
+        },
+        {
+            "content": "không nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ bỏ quyền lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ chối",
+            "type": "verb",
+            "example": {
+                "en": "So a big disclaimer is put on everything that I do,",
+                "vi": "Vì vậy mọi tác phẩm của tôi đều bị từ chối thẳng thừng."
+            }
+        }
+    ]
+}

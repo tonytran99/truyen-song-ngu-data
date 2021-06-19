@@ -1,0 +1,27 @@
+{
+    "word": "encoding",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "biên mã",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "編碼",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mã hóa",
+            "type": "noun",
+            "example": {
+                "en": "What other evidence is there that the script could actually encode language?",
+                "vi": "Có bằng chứng nào khác chữ viết liệu có thể mã hóa được ngôn ngữ?"
+            }
+        }
+    ]
+}

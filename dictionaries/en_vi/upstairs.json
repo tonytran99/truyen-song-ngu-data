@@ -1,0 +1,80 @@
+{
+    "word": "upstairs",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈsterz/",
+            "/ˌəpˈstɛrz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈstɛːz/",
+            "/ˈʌpstɛːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở trên gác",
+            "type": "",
+            "example": {
+                "en": "The library is just upstairs on the right, okay?",
+                "vi": "Thư viện ở trên gác bên tay phải."
+            }
+        },
+        {
+            "content": "ở tầng trên",
+            "type": "",
+            "example": {
+                "en": "I'm just saying maybe the puppies are still upstairs, and they just tricked us into coming down here.",
+                "vi": "Tao nói mấy con chó vẫn còn ở tầng trên chúng đánh lừa ta đi xuống dưới này."
+            }
+        },
+        {
+            "content": "lên gác",
+            "type": "",
+            "example": {
+                "en": "Mal, go upstairs and get all of Lucinda's salt.",
+                "vi": "Mal, lên gác và lấy tất cả muối của dì Lucianda."
+            }
+        },
+        {
+            "content": "lên tầng trên",
+            "type": "",
+            "example": {
+                "en": "We just have to go upstairs and ask for more money.",
+                "vi": "Chỉ cần lên tầng trên vay thêm chút tiền là được."
+            }
+        },
+        {
+            "content": "tầng trên",
+            "type": "",
+            "example": {
+                "en": "I'm just saying maybe the puppies are still upstairs, and they just tricked us into coming down here.",
+                "vi": "Tao nói mấy con chó vẫn còn ở tầng trên chúng đánh lừa ta đi xuống dưới này."
+            }
+        },
+        {
+            "content": "trên gác",
+            "type": "",
+            "example": {
+                "en": "A little girl whose parents had died lived with her grandmother and slept in an upstairs bedroom .",
+                "vi": "Một cô bé mồ côi cha mẹ sống với bà ngoại trong căn phòng nhỏ trên gác ."
+            }
+        },
+        {
+            "content": "lên",
+            "type": "verb",
+            "example": {
+                "en": "I'll get him to carry my suitcase upstairs.",
+                "vi": "Tôi sắp yêu cầu anh ấy mang va li của tôi lên tầng."
+            }
+        }
+    ]
+}

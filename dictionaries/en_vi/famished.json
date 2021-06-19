@@ -1,0 +1,30 @@
+{
+    "word": "famished",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfamiSHt/",
+            "/ˈfæmɪʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfamɪʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đói cồn cào",
+            "type": "adjective",
+            "example": {
+                "en": "A famished lion feels no pity for its prey.",
+                "vi": "Một con sư tử đói cồn cào sẽ không thương tiếc con mồi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "folk",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fōk/",
+            "/foʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người",
+            "type": "noun",
+            "example": {
+                "en": "And so these folks had, very simply, the courage to be imperfect.",
+                "vi": "Vậy những người này rất đơn giản, có dũng khí để là người không hoàn hảo."
+            }
+        },
+        {
+            "content": "dân gian",
+            "type": "adjective",
+            "example": {
+                "en": "Yeah, people who enjoy folk dancing, for instance.",
+                "vi": "Phải, chẳng hạn như những người thích khiêu vũ dân gian."
+            }
+        },
+        {
+            "content": "dân tộc",
+            "type": "noun",
+            "example": {
+                "en": "You're single-handedly turning this psychopath into a folk hero.",
+                "vi": "Ông đơn thương độc mã biến kẻ tâm thần này thành một anh hùng dân tộc."
+            }
+        },
+        {
+            "content": "người thân thuộc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

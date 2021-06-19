@@ -1,0 +1,58 @@
+{
+    "word": "dire",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdī(ə)r/",
+            "/ˈdaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thảm khốc",
+            "type": "",
+            "example": {
+                "en": "There are seven four in the mornings, and they're all very dire.",
+                "vi": "Có bảy \"4 giờ sáng\", và tất cả đều thảm khốc."
+            }
+        },
+        {
+            "content": "khốc liệt",
+            "type": "",
+            "example": {
+                "en": "It must have warmed Jehovah’s heart to see Jonah’s brave, self-sacrificing spirit in that dire moment.",
+                "vi": "Hẳn Đức Giê-hô-va cảm thấy ấm lòng khi thấy Giô-na tỏ ra can đảm, có tinh thần hy sinh trong thời điểm khốc liệt ấy."
+            }
+        },
+        {
+            "content": "kinh khủng",
+            "type": "",
+            "example": {
+                "en": "This boy is to be executed in six days and is in dire need of redemption.",
+                "vi": "Anh ta sẽ bị hành hình trong 6 ngày nữa và đang có một khát vọng kinh khủng được cứu rỗi"
+            }
+        },
+        {
+            "content": "tàn khốc",
+            "type": "noun",
+            "example": {
+                "en": "The situation is more dire than she knows.",
+                "vi": "Tình thế tàn khốc hơn cô ấy hiểu."
+            }
+        },
+        {
+            "content": "đen tối",
+            "type": "adj.",
+            "example": {}
+        }
+    ]
+}

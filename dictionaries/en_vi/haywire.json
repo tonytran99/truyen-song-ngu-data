@@ -1,0 +1,40 @@
+{
+    "word": "haywire",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhāˌwī(ə)r/",
+            "/ˈheɪˌwaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈheɪwʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái mắc míu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái rối rắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối loạn",
+            "type": "",
+            "example": {
+                "en": "The body's immune response goes haywire and starts attacking the peripheral nerves.",
+                "vi": "Phản ứng miễn dịch của cơ thể đột ngột rối loạn và tấn công các dây thần kinh ngoại biên."
+            }
+        }
+    ]
+}

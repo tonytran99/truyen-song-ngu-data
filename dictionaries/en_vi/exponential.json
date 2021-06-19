@@ -1,0 +1,48 @@
+{
+    "word": "exponential",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekspəˈnen(t)SH(ə)l/",
+            "/ˌɛkspəˈnɛn(t)ʃ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛkspəˈnɛnʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàm mũ",
+            "type": "",
+            "example": {
+                "en": "We see an exponential curve for wind installations now.",
+                "vi": "Chúng ta thấy đường cong hàm mũ của việc dựng trạm năng lượng gió ở hiện tại."
+            }
+        },
+        {
+            "content": "số mũ",
+            "type": "",
+            "example": {
+                "en": "Their population is increasing exponentially.",
+                "vi": "Dân số của họ tăng theo cấp số mũ."
+            }
+        },
+        {
+            "content": "theo luật số mũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc số mũ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

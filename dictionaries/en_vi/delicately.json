@@ -1,0 +1,55 @@
+{
+    "word": "delicately",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdelikətlē/",
+            "/ˈdɛlɪkətli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛlɪkətli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sắc sảo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tinh vi",
+            "type": "",
+            "example": {
+                "en": "which is something way more complicated and delicate.",
+                "vi": "một thứ gì đó phức tạp và tinh vi hơn"
+            }
+        },
+        {
+            "content": "công phu",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "tinh tế",
+            "type": "",
+            "example": {
+                "en": "The left hand is very subtle, very delicate.",
+                "vi": "Bàn tay trái rất tinh tế và nhạy cảm."
+            }
+        },
+        {
+            "content": "tế nhị",
+            "type": "",
+            "example": {
+                "en": "I was gonna put it a little more delicately than that, but yeah.",
+                "vi": "Tôi đã cố làm cho ngụ ý trở nên tế nhị hơn, nhưng đúng."
+            }
+        }
+    ]
+}

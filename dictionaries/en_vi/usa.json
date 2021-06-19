@@ -1,0 +1,61 @@
+{
+    "word": "usa",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌyo͞o ˌes ˈā/",
+            "/ˌju ˌɛs ˈeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːɛsˈeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Hoa Kỳ",
+            "type": "proper",
+            "example": {
+                "en": "The position started the following week in Ohio, USA.",
+                "vi": "Công việc đó bắt đầu vào tuần lễ sau đó ở Ohio, Hoa Kỳ."
+            }
+        },
+        {
+            "content": "Mỹ",
+            "type": "noun",
+            "example": {
+                "en": "But he's back in the USA with the missionaries.",
+                "vi": "Nhưng ông ấy về Mỹ với những người truyền giáo rồi."
+            }
+        },
+        {
+            "content": "花旗",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "Hợp chủng quốc Hoa Kỳ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nước Mỹ",
+            "type": "proper",
+            "example": {
+                "en": "Everyone in the world, we have the impression that USA is the number one nation in everything.",
+                "vi": "Mọi người trên thế giới đều mang một ấn tượng rằng nước Mỹ là quốc gia số một."
+            }
+        },
+        {
+            "content": "Hợp Chúng Quốc Hoa Kỳ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

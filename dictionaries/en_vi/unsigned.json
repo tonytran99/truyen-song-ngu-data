@@ -1,0 +1,49 @@
+{
+    "word": "unsigned",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsīnd/",
+            "/ˌənˈsaɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsʌɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không ký tên",
+            "type": "",
+            "example": {
+                "en": "The fax was unsigned.",
+                "vi": "Tờ fax không ký tên."
+            }
+        },
+        {
+            "content": "không làm dấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không làm hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ra hiệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đánh dấu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "island",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīlənd/",
+            "/ˈaɪlənd/",
+            "/ˈēsland/",
+            "/ˈislænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪlənd/",
+            "/ˈiːsland/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đảo",
+            "type": "noun",
+            "example": {
+                "en": "This island is a paradise for children.",
+                "vi": "Hòn đảo này là một thiên đường đối với trẻ em."
+            }
+        },
+        {
+            "content": "hòn đảo",
+            "type": "noun",
+            "example": {
+                "en": "There are islands in the sea.",
+                "vi": "Trên biển có những hòn đảo."
+            }
+        },
+        {
+            "content": "島",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biến thành hòn đảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô lập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cù lao",
+            "type": "",
+            "example": {
+                "en": "They will even reach “to the islands,” to distant parts.",
+                "vi": "Những phán xét ấy thậm chí sẽ bao trùm cả “các cù-lao”, tức những vùng xa xôi."
+            }
+        },
+        {
+            "content": "hải đảo",
+            "type": "noun",
+            "example": {
+                "en": "He lifts up the islands like fine dust.",
+                "vi": "Ngài cầm các hải đảo lên như bụi li ti."
+            }
+        }
+    ]
+}

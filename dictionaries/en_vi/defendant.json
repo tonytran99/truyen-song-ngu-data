@@ -1,0 +1,80 @@
+{
+    "word": "defendant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfendənt/",
+            "/dəˈfɛndənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɛnd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị cáo",
+            "type": "adjective",
+            "example": {
+                "en": "The other defendants have made an allegation against you.",
+                "vi": "Những bị cáo khác đã có một lý lẽ chống lại cô."
+            }
+        },
+        {
+            "content": "bên bị",
+            "type": "noun",
+            "example": {
+                "en": "Likely not, for any inconsistencies in the defense erode the credibility of the defendant.",
+                "vi": "Chắc không, vì nếu lời khai của bên bị không được nhất quán, thì điều này sẽ giảm đi tín nhiệm của bị cáo."
+            }
+        },
+        {
+            "content": "bị kiện",
+            "type": "",
+            "example": {
+                "en": "We, the jury, find the defendant, Perry Edward Smith, guilty of the crime of murder in the first degree.",
+                "vi": "Hãy tìm người bị kiện, Perry Edward Smith... Hung thủ hàng loạt trong các vụ án gần đây."
+            }
+        },
+        {
+            "content": "người bị cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bị kiện",
+            "type": "",
+            "example": {
+                "en": "We, the jury, find the defendant, Perry Edward Smith, guilty of the crime of murder in the first degree.",
+                "vi": "Hãy tìm người bị kiện, Perry Edward Smith... Hung thủ hàng loạt trong các vụ án gần đây."
+            }
+        },
+        {
+            "content": "bên bị cáo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Bị can",
+            "type": "",
+            "example": {
+                "en": "The defendant was sentenced to death.",
+                "vi": "Bị can đã bị tuyên án tử hình."
+            }
+        },
+        {
+            "content": "bị đơn",
+            "type": "",
+            "example": {
+                "en": "The jury is released with our apologies... and the defendant is free to go.",
+                "vi": "Hội đồng xét xử đưa ra lời xin lỗi và bị đơn được tự do."
+            }
+        }
+    ]
+}

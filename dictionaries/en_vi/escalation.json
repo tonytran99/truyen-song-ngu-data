@@ -1,0 +1,42 @@
+{
+    "word": "escalation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeskəˈlāSH(ə)n/",
+            "/ˌɛskəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛskəˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự leo thang",
+            "type": "noun",
+            "example": {
+                "en": "And I remain optimistic that tensions will be quelled without any further escalations.",
+                "vi": "Và tôi lạc quan rằng sẽ không có thêm sự leo thang căng thẳng giữa hai bên."
+            }
+        },
+        {
+            "content": "bước leo thang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "leo thang",
+            "type": "",
+            "example": {
+                "en": "Until we have answers, no need to escalate this any higher.",
+                "vi": "Cho tới khi chúng ta có đáp án, không nên để chuyện này leo thang lên nữa."
+            }
+        }
+    ]
+}

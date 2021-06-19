@@ -1,0 +1,34 @@
+{
+    "word": "broadcaster",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrôdkastər/",
+            "/ˈbrɔdkæstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɔːdkɑːstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân viên quảng bá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phát thanh viên",
+            "type": "",
+            "example": {
+                "en": "Civilian broadcasters have a certain, you know, personality trait.",
+                "vi": "Phát thanh viên thường dân thường có những đặc điểm cá nhân."
+            }
+        }
+    ]
+}

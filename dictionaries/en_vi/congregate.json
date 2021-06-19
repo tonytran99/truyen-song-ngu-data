@@ -1,0 +1,73 @@
+{
+    "word": "congregate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäNGɡrəˌɡāt/",
+            "/ˈkɑŋɡrəˌɡeɪt/",
+            "/ˈkäNGɡrəˌɡət/",
+            "/ˈkɑŋɡrəˌɡət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒŋɡrɪɡeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tập hợp",
+            "type": "noun",
+            "example": {
+                "en": "The congregation secretary compiles the monthly and annual field service reports.",
+                "vi": "Anh thư ký hội thánh tập hợp báo cáo rao giảng hằng tháng và hằng năm."
+            }
+        },
+        {
+            "content": "hội nghị",
+            "type": "",
+            "example": {
+                "en": "Groups of congregations were invited to attend zone assemblies, now called circuit assemblies.",
+                "vi": "Các nhóm hội thánh được mời tham dự hội nghị vùng, nay gọi là hội nghị vòng quanh."
+            }
+        },
+        {
+            "content": "nhóm hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu góp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu nhập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu nhặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tụ hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tụ tập",
+            "type": "",
+            "example": {
+                "en": "What happens when 20,000 people congregate in a camp?",
+                "vi": "Chuyện gì sẽ xảy ra khi 20 000 người tụ tập ở một trại?"
+            }
+        }
+    ]
+}

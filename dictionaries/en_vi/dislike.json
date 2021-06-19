@@ -1,0 +1,69 @@
+{
+    "word": "dislike",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈlīk/",
+            "/dɪsˈlaɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈlʌɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghét",
+            "type": "verb",
+            "example": {
+                "en": "I dislike you worse than anybody in the world.",
+                "vi": "Tôi ghét bà hơn bất cứ ai khác trên đời này."
+            }
+        },
+        {
+            "content": "không thích",
+            "type": "",
+            "example": {
+                "en": "Some people dislike eels because they look like snakes.",
+                "vi": "Một số người không thích lươn vì trông bọn nó giống rắn."
+            }
+        },
+        {
+            "content": "không ưa",
+            "type": "",
+            "example": {
+                "en": "They don't like you, they don't dislike you.",
+                "vi": "Chúng không ưa con, chúng cũng không phải không ưa con."
+            }
+        },
+        {
+            "content": "chán ghét",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không thích",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự không ưa",
+            "type": "noun",
+            "example": {
+                "en": "And I suspect, by someone who actively dislikes us.",
+                "vi": "Và tôi nghi ngờ rằng, việc này do ai đó thực sự không ưa chúng ta."
+            }
+        }
+    ]
+}

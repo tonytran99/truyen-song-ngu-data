@@ -1,0 +1,43 @@
+{
+    "word": "undercover",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈkəvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈkʌvə/",
+            "/ˈʌndəkʌvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "She's been undercover for a little over a year.",
+                "vi": "Cô ấy đã hoạt động bí mật được hơn một năm."
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lén lút",
+            "type": "",
+            "example": {
+                "en": "As you're an undercover johnny, I took the precaution of not being followed.",
+                "vi": "Nhưng ông giống như một trong những thằng cha lén lút đó... Tôi phòng ngừa để không bị theo dõi mà"
+            }
+        }
+    ]
+}

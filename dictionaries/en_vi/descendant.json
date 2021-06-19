@@ -1,0 +1,43 @@
+{
+    "word": "descendant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsendənt/",
+            "/dəˈsɛndənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsɛnd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con cháu",
+            "type": "noun",
+            "example": {
+                "en": "According to these blessings, Gad’s descendants were to be a warlike race.",
+                "vi": "Theo những phước lành nầy, con cháu của Gát sẽ trở thành một dân tộc hiếu chiến."
+            }
+        },
+        {
+            "content": "hậu duệ",
+            "type": "noun",
+            "example": {
+                "en": "Chizuru is the last descendant of that clan.",
+                "vi": "Chizuru là hậu duệ cuối cùng của thị tộc yata."
+            }
+        },
+        {
+            "content": "người nối dõi",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

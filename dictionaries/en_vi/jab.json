@@ -1,0 +1,50 @@
+{
+    "word": "jab",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jab/",
+            "/dʒæb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒab/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái thọc mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhát đâm mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận đánh thọc sâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mũi tiêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thọc mạnh",
+            "type": "",
+            "example": {
+                "en": "Girl jabs bad guy in the eyes with her keys - or maybe she kicks him in a certain sensitive place .",
+                "vi": "Cô gái thọc mạnh chìa khóa của mình vào mắt gã đó - hoặc có thể đá vào điểm nhạy cảm của hắn ta ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "diocese",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīəsəs/",
+            "/ˈdaɪəsəs/",
+            "/ˈdīəˌsēz/",
+            "/ˈdaɪəˌsiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəsɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo phận",
+            "type": "noun",
+            "example": {
+                "en": "In the Kilmore diocese, by far the majority of people spoke Irish.",
+                "vi": "Tại giáo phận Kilmore, đa số người dân nói tiếng Gaelic."
+            }
+        },
+        {
+            "content": "giáo khu",
+            "type": "noun",
+            "example": {
+                "en": "Certain congregation overseers even became “bishops” ruling over a diocese or group of churches.",
+                "vi": "Vài trưởng-lão của hội-thánh tự tôn mình làm “giám-mục” cai quản một giáo khu hoặc một nhóm nhà thờ."
+            }
+        },
+        {
+            "content": "教區",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

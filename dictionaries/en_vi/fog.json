@@ -1,0 +1,126 @@
+{
+    "word": "fog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôɡ/",
+            "/fɔɡ/",
+            "/fäɡ/",
+            "/fɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sương mù",
+            "type": "noun",
+            "example": {
+                "en": "London is no longer a city of fog.",
+                "vi": "London chẳng còn là thành phố sương mù nữa."
+            }
+        },
+        {
+            "content": "phủ sương mù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mờ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mù",
+            "type": "adjective",
+            "example": {
+                "en": "London is no longer a city of fog.",
+                "vi": "London chẳng còn là thành phố sương mù nữa."
+            }
+        },
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {
+                "en": "As the fog clears, I will follow the voice that guides me.",
+                "vi": "Khi màn sương biến mất, tôi sẽ đi theo tiếng gọi dẫn đường."
+            }
+        },
+        {
+            "content": "che mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chết vì úng nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chết vì đẫm sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cỏ mọc lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mờ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màn bụi mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màn khói mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phim ảnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sa mù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng mờ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầy sương mù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Sương mù",
+            "type": "",
+            "example": {
+                "en": "London is no longer a city of fog.",
+                "vi": "London chẳng còn là thành phố sương mù nữa."
+            }
+        }
+    ]
+}

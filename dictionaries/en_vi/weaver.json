@@ -1,0 +1,34 @@
+{
+    "word": "weaver",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēvər/",
+            "/ˈwivər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ dệt",
+            "type": "noun",
+            "example": {
+                "en": "And the project soon grew from five to 50 weavers in about a year.",
+                "vi": "Và dự án nhanh chóng tăng lên từ 5 lên 50 người thợ dệt trong vòng một năm."
+            }
+        },
+        {
+            "content": "người dệt vải",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

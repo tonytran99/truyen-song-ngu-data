@@ -1,0 +1,30 @@
+{
+    "word": "hushed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həSHt/",
+            "/həʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "im lặng",
+            "type": "interjection",
+            "example": {
+                "en": "And his story was hushed as he assimilated.",
+                "vi": "Và câu chuyện của ông đi vào im lặng khi ông bị đồng hoá."
+            }
+        }
+    ]
+}

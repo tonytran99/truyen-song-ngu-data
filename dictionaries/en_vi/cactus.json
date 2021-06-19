@@ -1,0 +1,59 @@
+{
+    "word": "cactus",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaktəs/",
+            "/ˈkæktəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaktəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây xương rồng",
+            "type": "noun",
+            "example": {
+                "en": "We found this snagged on a cactus half mile down the road.",
+                "vi": "Chúng tôi tìm thấy cái này mắc kẹt trên một cây xương rồng cách đây nửa dặm."
+            }
+        },
+        {
+            "content": "xương rồng",
+            "type": "noun",
+            "example": {
+                "en": "Any more colour and you'd be prettier than that cactus rose.",
+                "vi": "Thêm một chút hồng nữa thì cô sẽ còn đẹp hơn bông hồng xương rồng kia."
+            }
+        },
+        {
+            "content": "rồng",
+            "type": "noun",
+            "example": {
+                "en": "Any more colour and you'd be prettier than that cactus rose.",
+                "vi": "Thêm một chút hồng nữa thì cô sẽ còn đẹp hơn bông hồng xương rồng kia."
+            }
+        },
+        {
+            "content": "xương",
+            "type": "noun",
+            "example": {
+                "en": "Any more colour and you'd be prettier than that cactus rose.",
+                "vi": "Thêm một chút hồng nữa thì cô sẽ còn đẹp hơn bông hồng xương rồng kia."
+            }
+        },
+        {
+            "content": "họ xương rồng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

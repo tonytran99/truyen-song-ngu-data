@@ -1,0 +1,30 @@
+{
+    "word": "greetings",
+    "type": [
+        "interjection",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "lời chào",
+            "type": "",
+            "example": {
+                "en": "Grunted a very pleasant greeting at me, actually.",
+                "vi": "Rặn ra mấy lời chào dễ nghe với chị."
+            }
+        },
+        {
+            "content": "lời thăm hỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chúc mừng",
+            "type": "",
+            "example": {
+                "en": "You should have your own line of inspirational greeting cards, sir.",
+                "vi": "Sếp nên có vài lời chúc mừng đầy cảm xúc chứ, thưa sếp."
+            }
+        }
+    ]
+}

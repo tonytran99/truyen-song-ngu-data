@@ -1,0 +1,39 @@
+{
+    "word": "infancy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinfənsē/",
+            "/ˈɪnfənsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnf(ə)nsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lúc còn trứng nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuổi còn ãm ngửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuổi thơ ấu",
+            "type": "noun",
+            "example": {
+                "en": "The time to start is as soon as they are born, in their infancy!",
+                "vi": "Lúc bắt đầu luyện tập cho chúng là ngay khi chúng được sanh ra, ngay từ tuổi thơ ấu!"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "france",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frans/",
+            "/fræns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɑːns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháp",
+            "type": "",
+            "example": {
+                "en": "There is much talk that she is going to France next month.",
+                "vi": "Nhiều người nói rằng tháng sau cô ta sẽ đi Pháp."
+            }
+        }
+    ]
+}

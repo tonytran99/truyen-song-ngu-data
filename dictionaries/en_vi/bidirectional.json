@@ -1,0 +1,47 @@
+{
+    "word": "bidirectional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbīdəˈrekSH(ə)n(ə)l/",
+            "/ˌbaɪdəˈrɛkʃ(ə)n(ə)l/",
+            "/ˌbīˌdīˈrekSH(ə)n(ə)l/",
+            "/ˌbaɪˌdaɪˈrɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪdɪˈrɛkʃ(ə)n(ə)l/",
+            "/bʌɪdʌɪˈrɛkʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai chiều",
+            "type": "",
+            "example": {
+                "en": "it's bidirectional, highly adaptable,",
+                "vi": "tương tác hai chiều, dễ dàng tương thích,"
+            }
+        },
+        {
+            "content": "thuận nghịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc hai hướng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thuộc song hướng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

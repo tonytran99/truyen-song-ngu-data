@@ -1,0 +1,76 @@
+{
+    "word": "exempt",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzem(p)t/",
+            "/ɪɡˈzɛm(p)t/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɛm(p)t/",
+            "/ɛɡˈzɛm(p)t/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "miễn",
+            "type": "verb",
+            "example": {
+                "en": "He should remain exempt for one year and stay at home and bring joy to his wife.",
+                "vi": "Người đó sẽ được miễn trong vòng một năm, ở nhà và mang lại niềm vui cho vợ."
+            }
+        },
+        {
+            "content": "tha",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chước",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cho ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miễn trừ",
+            "type": "verb",
+            "example": {
+                "en": "An icy silence followed Loïc’s request for an exemption.",
+                "vi": "Một không khí im lặng ngột ngạt tiếp theo lời yêu cầu của Loïc để được miễn trừ."
+            }
+        },
+        {
+            "content": "người được miễn",
+            "type": "",
+            "example": {
+                "en": "Instead of being granted full exemption, however, my father was registered as exempt “from Combatant Service only.”",
+                "vi": "Tuy nhiên, thay vì được hoàn toàn miễn quân dịch, cha tôi chỉ được kể trong số những người được miễn “chiến đấu mà thôi”."
+            }
+        },
+        {
+            "content": "được miễn",
+            "type": "",
+            "example": {
+                "en": "No one is exempt from the storms of life.",
+                "vi": "Không một ai được miễn khỏi bão tố của cuộc đời."
+            }
+        },
+        {
+            "content": "ñöôïc mieãn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

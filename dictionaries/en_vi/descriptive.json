@@ -1,0 +1,51 @@
+{
+    "word": "descriptive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskriptiv/",
+            "/dəˈskrɪptɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrɪptɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {
+                "en": "The scenery was beautiful beyond description.",
+                "vi": "Phong cảnh đẹp hơn cả sự mô tả."
+            }
+        },
+        {
+            "content": "diễn tả",
+            "type": "",
+            "example": {
+                "en": "Chapters 30–31 include a description of a virtuous woman.",
+                "vi": "Các chương 30–31 gồm có sự diễn tả về một người đàn bà đức hạnh."
+            }
+        },
+        {
+            "content": "hoạ pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "miêu tả",
+            "type": "",
+            "example": {
+                "en": "There are many words I would use towards your description.",
+                "vi": "Có rất nhiều từ con có thể sử dụng để miêu tả về cha."
+            }
+        }
+    ]
+}

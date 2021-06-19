@@ -1,0 +1,43 @@
+{
+    "word": "ingrain",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈɡrān/",
+            "/ənˈɡreɪn/",
+            "/ˈinˌɡrān/",
+            "/ˈɪnˌɡreɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɡreɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhuộm ngay từ sợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thâm căn cố đế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn sâu",
+            "type": "",
+            "example": {
+                "en": "His obsession with cleanliness and order is deeply ingrained.",
+                "vi": "Hắn bị ăn sâu ám ảnh sạch sẽ và trật tự."
+            }
+        }
+    ]
+}

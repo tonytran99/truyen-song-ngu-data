@@ -1,0 +1,83 @@
+{
+    "word": "unjust",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈjəst/",
+            "/ˌənˈdʒəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈdʒʌst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất công",
+            "type": "adjective",
+            "example": {
+                "en": "It rains on the just and the unjust alike.",
+                "vi": "Trong cơn mưa, công bằng và bất công cũng như nhau."
+            }
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {}
+        },
+        {
+            "content": "bất bằng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất chính",
+            "type": "",
+            "example": {
+                "en": "A good man cannot, of course, be unrighteous or unjust.",
+                "vi": "Dĩ nhiên người lành không thể bất chính hay bất công."
+            }
+        },
+        {
+            "content": "không chính đáng",
+            "type": "",
+            "example": {
+                "en": "● ‘Reject unjust gain.’",
+                "vi": "● “Khinh món lợi hoạnh-tài”, không chính đáng."
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái lẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không công bằng",
+            "type": "adjective",
+            "example": {
+                "en": "+ Is it not your ways that are unjust?",
+                "vi": "+ Chẳng phải chính đường lối các ngươi mới là không công bằng sao?"
+            }
+        }
+    ]
+}

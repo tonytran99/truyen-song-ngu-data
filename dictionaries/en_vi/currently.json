@@ -1,0 +1,69 @@
+{
+    "word": "currently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərəntlē/",
+            "/ˈkərəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌrəntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiện nay",
+            "type": "",
+            "example": {
+                "en": "The good news is, the tech is useless to them in my current condition.",
+                "vi": "Tin tốt lành là công nghệ vô dụng với chúng trong tình trạng hiện nay của anh."
+            }
+        },
+        {
+            "content": "hiện",
+            "type": "verb",
+            "example": {
+                "en": "Currently Burj Khalifa is the tallest skyscraper in the world.",
+                "vi": "Burj Khalifa hiện đang là tòa nhà chọc trời cao nhất thế giới."
+            }
+        },
+        {
+            "content": "hiện giờ",
+            "type": "adverb",
+            "example": {
+                "en": "What may we do if we do not currently have the desire to pioneer?",
+                "vi": "Chúng ta có thể làm gì nếu hiện giờ mình không có ước muốn làm tiên phong?"
+            }
+        },
+        {
+            "content": "hiện hành",
+            "type": "adverb",
+            "example": {
+                "en": "Do you keep a sufficient supply of current magazines on hand, and are they in good condition?",
+                "vi": "Bạn có dự trữ đầy đủ số tạp chí hiện hành còn mới tinh khôi không?"
+            }
+        },
+        {
+            "content": "hiện tại",
+            "type": "adverb",
+            "example": {
+                "en": "Our current way of thinking is not working.",
+                "vi": "Cách nghĩ hiện tại của ta không hiệu quả."
+            }
+        },
+        {
+            "content": "hiện thời",
+            "type": "",
+            "example": {
+                "en": "The current file has been modified. Do you want to save it?",
+                "vi": "Tập tin hiện thời đã bị sửa đổi. Bạn có muốn lưu nó không?"
+            }
+        }
+    ]
+}

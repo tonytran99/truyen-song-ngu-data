@@ -1,0 +1,38 @@
+{
+    "word": "keyhole",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌhōl/",
+            "/ˈkiˌhoʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːhəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lỗ khoá",
+            "type": "",
+            "example": {
+                "en": "Mewling at his keyhole is neither one thing nor the other.",
+                "vi": "Nhìn qua lỗ khoá thì đâu có được gì."
+            }
+        },
+        {
+            "content": "lỗ khóa",
+            "type": "",
+            "example": {
+                "en": "A pair of keyholes and a key that separates into two.",
+                "vi": "Hai lỗ khóa và một chìa khóa được tách ra làm hai."
+            }
+        }
+    ]
+}

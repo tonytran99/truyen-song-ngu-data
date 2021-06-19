@@ -1,0 +1,40 @@
+{
+    "word": "handcuff",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ˌkəf/",
+            "/ˈhæn(d)ˌkəf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)kʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoá tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xích tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "còng",
+            "type": "noun",
+            "example": {
+                "en": "I had plastic handcuffs when I was three.",
+                "vi": "Tôi đã có còng nhựa khi mới lên ba."
+            }
+        }
+    ]
+}

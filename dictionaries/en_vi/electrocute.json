@@ -1,0 +1,42 @@
+{
+    "word": "electrocute",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrəˌkyo͞ot/",
+            "/əˈlɛktrəˌkjut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrəkjuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xử tử bằng điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giật chết",
+            "type": "",
+            "example": {
+                "en": "Now get out of here before you get electrocuted.",
+                "vi": "Giờ thì ra khỏi đây đi trước khi cậu bị giật chết đấy."
+            }
+        },
+        {
+            "content": "điện giật",
+            "type": "",
+            "example": {
+                "en": "If you don't stay on the block, your partner gets electrocuted.",
+                "vi": "Nếu ông không ở yên tại cái khối đó, cộng sự của ông sẽ bị điện giật chết."
+            }
+        }
+    ]
+}

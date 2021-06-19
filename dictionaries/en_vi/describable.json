@@ -1,0 +1,53 @@
+{
+    "word": "describable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskrībəb(ə)l/",
+            "/dəˈskraɪbəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrʌɪbəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể tả",
+            "type": "",
+            "example": {
+                "en": "A child may describe the feeling as sand in the eye .",
+                "vi": "Trẻ con có thể tả cảm giác đó y như có hạt cát trong mắt vậy ."
+            }
+        },
+        {
+            "content": "diễn tả được",
+            "type": "",
+            "example": {
+                "en": "There is no word to describe what I feel for you.",
+                "vi": "Không có từ nào có thể diễn tả được cảm giác của tôi về anh."
+            }
+        },
+        {
+            "content": "miêu tả được",
+            "type": "",
+            "example": {
+                "en": "A word which could also be used to describe that look in your eye.",
+                "vi": "Từ nào có thể miêu tả được cái cách anh đang nhìn?"
+            }
+        },
+        {
+            "content": "mô tả được",
+            "type": "",
+            "example": {
+                "en": "I'm sorry, but there is no other way to describe it.",
+                "vi": "Tôi xin lỗi, nhưng tôi không tìm ra cách nào khác để mô tả được nó."
+            }
+        }
+    ]
+}

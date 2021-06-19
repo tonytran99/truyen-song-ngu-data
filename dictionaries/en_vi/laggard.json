@@ -1,0 +1,53 @@
+{
+    "word": "laggard",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlaɡərd/",
+            "/ˈlæɡərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlaɡəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chậm chạp",
+            "type": "",
+            "example": {
+                "en": "No laggards on the Oregon Liberty Train!",
+                "vi": "Không có người chậm chạp trong đoàn xe Tự Do đi Oregon!"
+            }
+        },
+        {
+            "content": "chậm trễ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạc hậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người chậm chạp",
+            "type": "noun",
+            "example": {
+                "en": "No laggards on the Oregon Liberty Train!",
+                "vi": "Không có người chậm chạp trong đoàn xe Tự Do đi Oregon!"
+            }
+        },
+        {
+            "content": "người lạc hậu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

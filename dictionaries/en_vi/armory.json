@@ -1,0 +1,47 @@
+{
+    "word": "armory",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärmərē/",
+            "/ˈɑrməri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːməri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kho vũ khí",
+            "type": "noun",
+            "example": {
+                "en": "I'm gonna get to the armory and I need your help.",
+                "vi": "Tôi sẽ đến kho vũ khí và tôi cần anh giúp."
+            }
+        },
+        {
+            "content": "armoury",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xưởng đúc vũ khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kho",
+            "type": "verb",
+            "example": {
+                "en": "I'm gonna get to the armory and I need your help.",
+                "vi": "Tôi sẽ đến kho vũ khí và tôi cần anh giúp."
+            }
+        }
+    ]
+}

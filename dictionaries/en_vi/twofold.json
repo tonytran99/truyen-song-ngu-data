@@ -1,0 +1,35 @@
+{
+    "word": "twofold",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈto͞oˌfōld/",
+            "/ˈtuˌfoʊld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtuːfəʊld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gấp đôi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "gồm hai phần",
+            "type": "adjective",
+            "example": {
+                "en": "They show that the new birth takes place by means of a twofold process.",
+                "vi": "Chúng cho thấy sự sinh lại là một tiến trình gồm hai phần."
+            }
+        }
+    ]
+}

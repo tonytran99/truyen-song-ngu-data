@@ -1,0 +1,67 @@
+{
+    "word": "blend",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blend/",
+            "/blɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pha trộn",
+            "type": "",
+            "example": {
+                "en": "First you find the right ingredients, then you find the blend.",
+                "vi": "Trước tiên, thì phải tìm nguyên liệu đúng, sau đó mới tìm cách pha trộn."
+            }
+        },
+        {
+            "content": "trộn",
+            "type": "verb",
+            "example": {
+                "en": "First you find the right ingredients, then you find the blend.",
+                "vi": "Trước tiên, thì phải tìm nguyên liệu đúng, sau đó mới tìm cách pha trộn."
+            }
+        },
+        {
+            "content": "hòa vào",
+            "type": "noun",
+            "example": {
+                "en": "I have taught you to blend with every attack.",
+                "vi": "Ta đã dạy ngươi phải hòa vào cùng mọi đòn tấn công."
+            }
+        },
+        {
+            "content": "trộn lẫn",
+            "type": "",
+            "example": {
+                "en": "But our brains' primate subdivision will see the contrasting colors without blending.",
+                "vi": "Nhưng phần phụ của não sẽ thấy những màu tương phản này mà không bị trộn lẫn."
+            }
+        },
+        {
+            "content": "trộn vào",
+            "type": "noun",
+            "example": {
+                "en": "Not really sure you'd have blended in as an undergrad watching Garner.",
+                "vi": "Không chắc rằng anh có thể trà trộn vào làm sinh viên, theo dõi Garner."
+            }
+        },
+        {
+            "content": "hợp nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "camel",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaməl/",
+            "/ˈkæməl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkam(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lạc đà",
+            "type": "noun",
+            "example": {
+                "en": "I don't have room on my camel, and you don't even have one.",
+                "vi": "Tôi không đủ chỗ trên lạc đà, tôi thậm chí còn không có lạc đà."
+            }
+        },
+        {
+            "content": "駱駝",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điều khó tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con lạc đà",
+            "type": "",
+            "example": {
+                "en": "Shot straight down, so these are the shadows of the camels.",
+                "vi": "Chụp thẳng từ trên xuống, kia là bóng của những con lạc đà."
+            }
+        }
+    ]
+}

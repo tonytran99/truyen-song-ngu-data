@@ -1,0 +1,59 @@
+{
+    "word": "avenge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvenj/",
+            "/əˈvɛndʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvɛn(d)ʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báo thù",
+            "type": "verb",
+            "example": {
+                "en": "Under those circumstances, the avenger could with impunity put the manslayer to death.",
+                "vi": "Trong trường hợp đó, người báo thù có thể giết kẻ sát nhân mà không bị trừng phạt."
+            }
+        },
+        {
+            "content": "trả thù",
+            "type": "",
+            "example": {
+                "en": "I know of his wife, and his thirst to avenge her death.",
+                "vi": "Gào thét đòi công bằng. và khát vọng trả thù của hắn."
+            }
+        },
+        {
+            "content": "báo oán",
+            "type": "verb",
+            "example": {
+                "en": "48 If Cain shall be avenged sevenfold, truly Lamech shall be aseventy and seven fold;",
+                "vi": "48 Nếu Ca In được bảy lần báo thù, thì quả thật Lê Méc sẽ được abảy mươi bảy lần báo oán;"
+            }
+        },
+        {
+            "content": "báo phục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phục thù",
+            "type": "",
+            "example": {
+                "en": "She had vowed to avenge her father's death.",
+                "vi": "Phi Tuyết 1 lòng quyết phục thù cho cha nàng"
+            }
+        }
+    ]
+}

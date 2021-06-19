@@ -1,0 +1,45 @@
+{
+    "word": "edible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈedəb(ə)l/",
+            "/ˈɛdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ăn được",
+            "type": "",
+            "example": {
+                "en": "Some trees with edible fruits are also being displayed .",
+                "vi": "Những cây có quả ăn được cũng được bày bán ."
+            }
+        },
+        {
+            "content": "có thể ăn được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vật ăn được",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

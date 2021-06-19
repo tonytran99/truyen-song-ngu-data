@@ -1,0 +1,30 @@
+{
+    "word": "watchdog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäCHˌdôɡ/",
+            "/ˈwɑtʃˌdɔɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒtʃdɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chó giữ nhà",
+            "type": "",
+            "example": {
+                "en": "I thought we could use a good watchdog, sir.",
+                "vi": "Tôi nghĩ chúng ta có thể dùng một con chó giữ nhà tốt, thưa ông."
+            }
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "word": "jump",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəmp/",
+            "/dʒəmp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒʌmp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhảy",
+            "type": "noun",
+            "example": {
+                "en": "He saw the boy jump over the fence and run away.",
+                "vi": "Anh ta đã thấy thằng nhóc nhảy qua hàng rào và chạy mất."
+            }
+        },
+        {
+            "content": "giật mình",
+            "type": "",
+            "example": {
+                "en": "my dog was startled by a backfire and jumped straight up like a horse bucking.",
+                "vi": "chú chó của tôi giật mình vì tiếng nổ rồi nhảy dựng lên như ngựa tung vó."
+            }
+        },
+        {
+            "content": "nhảy lên",
+            "type": "",
+            "example": {
+                "en": "With a terrible look in his eye, he jumped up and raised his hand to hit me.",
+                "vi": "Với một ánh mắt giận dữ, người ấy nhảy lên và giơ tay đánh tôi."
+            }
+        },
+        {
+            "content": "nhảy qua",
+            "type": "",
+            "example": {
+                "en": "He saw the boy jump over the fence and run away.",
+                "vi": "Anh ta đã thấy thằng nhóc nhảy qua hàng rào và chạy mất."
+            }
+        },
+        {
+            "content": "sự giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tăng đột ngột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhẩy",
+            "type": "",
+            "example": {
+                "en": "I should just jump off the roof right now.",
+                "vi": "nhẩy lầu tự tử mất thôi."
+            }
+        },
+        {
+            "content": "chuồn",
+            "type": "",
+            "example": {
+                "en": "You're nothing but rats jumping from a sinking ship!",
+                "vi": "Các anh là lũ chuột chuồn khỏi con tàu đang đắm!"
+            }
+        },
+        {
+            "content": "ăn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "trật",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tiếp",
+            "type": "verb",
+            "example": {
+                "en": "For all they know, we're still out there ready to jump them.",
+                "vi": "Nói cho tất cả biết, chúng tôi vẫn còn ở ngoài kia sẵn sàng đón tiếp chúng."
+            }
+        },
+        {
+            "content": "cú nhảy",
+            "type": "noun",
+            "example": {
+                "en": "Or this jump, from a moving truck on the highway.",
+                "vi": "Hoặc cú nhảy này là từ một xe chở hàng."
+            }
+        },
+        {
+            "content": "trốn",
+            "type": "verb",
+            "example": {
+                "en": "Aside from jumping bail and evading the authorities?",
+                "vi": "ngoài việc trốn tránh các nhà chức trách?"
+            }
+        },
+        {
+            "content": "at",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chặt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bước nhảy",
+            "type": "",
+            "example": {
+                "en": "Even short jumps can knock you around a bit.",
+                "vi": "Dù một bước nhảy ngắn cũng có thể làm cậu choáng váng."
+            }
+        },
+        {
+            "content": "bắt nhảy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt nhảy qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ cách quãng mất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ qua",
+            "type": "",
+            "example": {
+                "en": "I figured a detective would jump at the chance of something to detect.",
+                "vi": "Tôi nghĩ là một thám tử giỏi sẽ không bỏ qua cơ hội này."
+            }
+        },
+        {
+            "content": "bỏ sót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiếm đoạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấp nhận vội vàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ hẫng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ hổng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ trống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giật nảy người",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoan đá bằng choòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đứng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho bay lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho nhảy lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chạy tán loạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mê sảng rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảy vào",
+            "type": "",
+            "example": {
+                "en": "When the firewood is lit, you can jump into the fire.",
+                "vi": "Khi củi cháy cháu có thể nhảy vào trong lửa."
+            }
+        },
+        {
+            "content": "nhảy vọt",
+            "type": "",
+            "example": {
+                "en": "In Indonesia it jumped to 39 from 29 .",
+                "vi": "Riêng ở Indonesia , hệ số Gini đã nhảy vọt từ mức 29 lên 39 ."
+            }
+        },
+        {
+            "content": "nước cờ ăn quân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nẫng tay trên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắm ngay lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phỗng tay trên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chuyển đột ngột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhảy",
+            "type": "",
+            "example": {
+                "en": "Well, the good news is Lamonsoff finally did the jump for real.",
+                "vi": "Vâng, tin tốt là Lamonsoff cuối cùng đã thực sự nhảy."
+            }
+        },
+        {
+            "content": "to chớp ngay lấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tăng vọt",
+            "type": "",
+            "example": {
+                "en": "The jump was driven largely by a 21.8 % increase in imports of liquefied natural gas .",
+                "vi": "Sự tăng vọt này còn được thúc đẩy thêm do nhập khẩu khí thiên nhiên hóa lỏng tăng 21,8% ."
+            }
+        },
+        {
+            "content": "tăng đột ngột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vội đi tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xâm chiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đào lật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật chướng ngại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

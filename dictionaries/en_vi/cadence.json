@@ -1,0 +1,63 @@
+{
+    "word": "cadence",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkādns/",
+            "/ˈkeɪdns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪd(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhịp",
+            "type": "noun",
+            "example": {
+                "en": "Duty keeps cadence with that march.",
+                "vi": "Bổn phận thì cũng nhịp nhàng đi kèm theo với thời gian."
+            }
+        },
+        {
+            "content": "điệu",
+            "type": "noun",
+            "example": {
+                "en": "That's the natural cadence of a trip.",
+                "vi": "Thế mới là nhịp điệu của chuyến đi."
+            }
+        },
+        {
+            "content": "phách",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ngữ điệu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhịp bước chân đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhịp độ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

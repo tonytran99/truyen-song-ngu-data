@@ -1,0 +1,54 @@
+{
+    "word": "announcer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnounsər/",
+            "/əˈnaʊnsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnaʊnsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mã tự báo tin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người báo tin",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người loan báo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phát thanh viên",
+            "type": "",
+            "example": {
+                "en": "The mother of that child is an announcer.",
+                "vi": "Mẹ của đứa bé kia là một phát thanh viên."
+            }
+        },
+        {
+            "content": "xướng ngôn viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người giới thiệu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

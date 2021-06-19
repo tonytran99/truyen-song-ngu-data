@@ -1,0 +1,53 @@
+{
+    "word": "insomnia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsämnēə/",
+            "/ɪnˈsɑmniə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɒmnɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mất ngủ",
+            "type": "noun",
+            "example": {
+                "en": "The problem causing the insomnia differs from person to person .",
+                "vi": "Nguyên nhân gây mất ngủ không phải ai cũng giống ai ."
+            }
+        },
+        {
+            "content": "chứng mất ngủ",
+            "type": "noun",
+            "example": {
+                "en": "Didn't you say that you have an insomnia?",
+                "vi": "Không phải là em bị chứng mất ngủ à?"
+            }
+        },
+        {
+            "content": "bệnh mất ngủ",
+            "type": "",
+            "example": {
+                "en": "However , some physicians believe insomnia is related to depression .",
+                "vi": "Tuy nhiên , một số bác sĩ cho rằng bệnh mất ngủ liên quan đến chứng trầm cảm ."
+            }
+        },
+        {
+            "content": "Mất ngủ",
+            "type": "",
+            "example": {
+                "en": "Try to identify all possible causes of your insomnia .",
+                "vi": "Hãy cố gắng xác định tất cả các nguyên nhân gây mất ngủ có thể xảy ra ."
+            }
+        }
+    ]
+}

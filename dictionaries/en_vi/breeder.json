@@ -1,0 +1,42 @@
+{
+    "word": "breeder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrēdər/",
+            "/ˈbridər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbriːdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chăn nuôi",
+            "type": "noun",
+            "example": {
+                "en": "I am but a simple cockroach breeder Rebecca.",
+                "vi": "Anh chỉ là một người chăn nuôi gián thôi, Rebecca."
+            }
+        },
+        {
+            "content": "người gây giống",
+            "type": "",
+            "example": {
+                "en": "Other horse breeders called Snowman a “flea-bitten gray.”",
+                "vi": "Những người gây giống ngựa khác gọi Snowman là một “con ngựa xám tiều tụy.”"
+            }
+        },
+        {
+            "content": "người gây giống gia súc",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

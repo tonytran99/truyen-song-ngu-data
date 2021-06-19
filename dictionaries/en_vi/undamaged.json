@@ -1,0 +1,47 @@
+{
+    "word": "undamaged",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈdamijd/",
+            "/ˌənˈdæmɪdʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈdamɪdʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "còn nguyên",
+            "type": "",
+            "example": {
+                "en": "The body is undamaged.",
+                "vi": "Do tử thi còn nguyên."
+            }
+        },
+        {
+            "content": "còn tốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bị hư hại",
+            "type": "adjective",
+            "example": {
+                "en": "The nine chapels in and around Port-au-Prince were mostly undamaged—another remarkable miracle.",
+                "vi": "Chín ngôi giáo đường ở bên trong và xung quanh thành phố Port-au-Prince hầu như không bị hư hại—một phép lạ phi thường khác."
+            }
+        },
+        {
+            "content": "không bị tổn hại",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

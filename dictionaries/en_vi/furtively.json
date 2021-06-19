@@ -1,0 +1,37 @@
+{
+    "word": "furtively",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərdivlē/",
+            "/ˈfərdɪvli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːtɪvli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lén lút",
+            "type": "adverb",
+            "example": {
+                "en": "Me shyly, obliquely, trying not to be furtive.",
+                "vi": "Tôi bẽn lẽn, xiên xẹo, thử không lén lút."
+            }
+        },
+        {
+            "content": "ngấm ngầm",
+            "type": "adverb",
+            "example": {
+                "en": "I-I know what furtive is.",
+                "vi": "Tôi hiểu ngấm ngầm là thế nào."
+            }
+        }
+    ]
+}

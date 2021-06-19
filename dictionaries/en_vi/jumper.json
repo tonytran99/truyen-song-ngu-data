@@ -1,0 +1,63 @@
+{
+    "word": "jumper",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjəmpər/",
+            "/ˈdʒəmpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌmpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "choòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dây néo cột buồm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nhảy",
+            "type": "",
+            "example": {
+                "en": "I have a jumper.",
+                "vi": "Có người nhảy lầu."
+            }
+        },
+        {
+            "content": "sâu bọ nhảy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú nhảy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo len",
+            "type": "noun",
+            "example": {
+                "en": "Valerie was constantly knitting little jumpers to keep him warm.",
+                "vi": "Valerie đã phải đan mấy cái áo len nhỏ để giữ ấm cho nó."
+            }
+        },
+        {
+            "content": "áo va rơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

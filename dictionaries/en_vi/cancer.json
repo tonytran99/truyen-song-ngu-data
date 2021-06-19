@@ -1,0 +1,58 @@
+{
+    "word": "cancer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkansər/",
+            "/ˈkænsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkansə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ung thư",
+            "type": "noun",
+            "example": {
+                "en": "The doctors are engaged in cancer research.",
+                "vi": "Những vị bác sĩ được tuyển vào trương trình nghiên cứu bệnh ung thư."
+            }
+        },
+        {
+            "content": "bệnh ung thư",
+            "type": "noun",
+            "example": {
+                "en": "The doctors are engaged in cancer research.",
+                "vi": "Những vị bác sĩ được tuyển vào trương trình nghiên cứu bệnh ung thư."
+            }
+        },
+        {
+            "content": "cự giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u ác tính",
+            "type": "",
+            "example": {
+                "en": "Here is a patient with a skin cancer called melanoma.",
+                "vi": "Đây là một bệnh nhân bị bệnh ung thư da gọi là khối u ác tính."
+            }
+        },
+        {
+            "content": "Ung thư",
+            "type": "",
+            "example": {
+                "en": "The doctors are engaged in cancer research.",
+                "vi": "Những vị bác sĩ được tuyển vào trương trình nghiên cứu bệnh ung thư."
+            }
+        }
+    ]
+}

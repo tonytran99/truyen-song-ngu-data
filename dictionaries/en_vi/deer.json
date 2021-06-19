@@ -1,0 +1,76 @@
+{
+    "word": "deer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dir/",
+            "/dɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nai",
+            "type": "noun",
+            "example": {
+                "en": "Much more significantly, they radically changed the behavior of the deer.",
+                "vi": "Còn nhiều cái đáng kể hơn, chúng hoàn toàn làm thay đổi hành vi của những con nai."
+            }
+        },
+        {
+            "content": "hươu",
+            "type": "noun",
+            "example": {
+                "en": "I just told you he hit a deer.",
+                "vi": "Tôi vừa mới nói là anh ta đâm phải con hươu mà."
+            }
+        },
+        {
+            "content": "con nai",
+            "type": "",
+            "example": {
+                "en": "Know what they say if you hit a deer?",
+                "vi": "Biết người ta nói gì nếu cậu tông trúng một con nai không?"
+            }
+        },
+        {
+            "content": "lộc",
+            "type": "noun",
+            "example": {
+                "en": "It will take nearly a month for these deer to migrate to their winter pastures.",
+                "vi": "Đàn tuần lộc phải mất gần 1 tháng để di cư đến đồng cỏ mùa đông."
+            }
+        },
+        {
+            "content": "na",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con hươu",
+            "type": "",
+            "example": {
+                "en": "I just told you he hit a deer.",
+                "vi": "Tôi vừa mới nói là anh ta đâm phải con hươu mà."
+            }
+        },
+        {
+            "content": "họ hươu nai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những vật nhỏ bé lắt nhắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

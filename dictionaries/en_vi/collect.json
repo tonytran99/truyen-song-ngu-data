@@ -1,0 +1,265 @@
+{
+    "word": "collect",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlekt/",
+            "/kəˈlɛkt/",
+            "/ˈkälˌekt/",
+            "/ˈkɑlˌɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlɛkt/",
+            "/ˈkɒlɛkt/",
+            "/ˈkɒlɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sưu tầm",
+            "type": "verb",
+            "example": {
+                "en": "I'll trade him to you, to add to your collection.",
+                "vi": "Tôi sẽ đổi hắn cho anh để sưu tầm."
+            }
+        },
+        {
+            "content": "tham gia",
+            "type": "verb",
+            "example": {
+                "en": "you could participate in the giant collective experience",
+                "vi": "bạn có thể tham gia vào trải nghiệm tập thể rông lớn"
+            }
+        },
+        {
+            "content": "thu thập",
+            "type": "noun",
+            "example": {
+                "en": "There's a container underneath that's collecting that tissue.",
+                "vi": "Có một vật chứa nằm bên dưới để thu thập các mô này."
+            }
+        },
+        {
+            "content": "tụ tập",
+            "type": "",
+            "example": {
+                "en": "How could you could collect such an army?",
+                "vi": "làm sao ngươi tụ tập được một đội quân như thế nhỉ?"
+            }
+        },
+        {
+            "content": "sưu tập",
+            "type": "verb",
+            "example": {
+                "en": "I didn't know you collected stamps.",
+                "vi": "Trước đây tôi không biết bạn sưu tập tem."
+            }
+        },
+        {
+            "content": "thu lượm",
+            "type": "verb",
+            "example": {
+                "en": "And I was actually collecting it from all the automotive shops in the area on my bicycle.",
+                "vi": "Và tôi thu lượm chúng từ tất cả các cửa hàng ô tô trong vùng bằng xe đạp."
+            }
+        },
+        {
+            "content": "góp nhặt",
+            "type": "noun",
+            "example": {
+                "en": "With the help of my husband, I soon collected several hundred copies of the magazines.",
+                "vi": "Nhờ chồng tôi giúp một tay, chẳng bao lâu tôi góp nhặt được vài trăm tạp chí."
+            }
+        },
+        {
+            "content": "thu",
+            "type": "noun",
+            "example": {
+                "en": "They collect a fee from anyone with money.",
+                "vi": "Họ thu phí từ bất cứ ai có tiền."
+            }
+        },
+        {
+            "content": "góp",
+            "type": "verb",
+            "example": {
+                "en": "What was Jim’s purpose when he set out to collect food?",
+                "vi": "Mục đích của Jim khi em ấy bắt đầu lên đường đi quyên góp thức ăn là gì?"
+            }
+        },
+        {
+            "content": "gom",
+            "type": "verb",
+            "example": {
+                "en": "So while these people are being trained, others are collecting the materials.",
+                "vi": "Trong khi những người này học việc, những người khác thu gom vật liệu."
+            }
+        },
+        {
+            "content": "ghép",
+            "type": "noun",
+            "example": {
+                "en": "TB: Many people after a kidney transplant will develop a little fluid collection around the kidney.",
+                "vi": "TB: Rất nhiều người sau phẫu thuật ghép thận sẽ có một sự tích nước nhỏ xung quanh thận."
+            }
+        },
+        {
+            "content": "nhóm",
+            "type": "verb",
+            "example": {
+                "en": "When you cry for aid your collection of things will not deliver you, but a wind will carry even all of them away.",
+                "vi": "Khi ngươi sẽ kêu, hết thảy các thần mà ngươi đã nhóm-họp hãy giải-cứu ngươi!"
+            }
+        },
+        {
+            "content": "thu hoạch",
+            "type": "noun",
+            "example": {
+                "en": "In due season he sent a slave to the cultivators to collect some of the fruits of the vineyard from them.",
+                "vi": "Đến mùa thu hoạch, ông sai một đầy tớ đến gặp những người trồng nho để thu một phần hoa lợi của vườn."
+            }
+        },
+        {
+            "content": "đón",
+            "type": "",
+            "example": {
+                "en": "You're the one soul I would come up here to collect myself.",
+                "vi": "Cậu là kẻ duy nhất mà ta đích thân lên đón về đó."
+            }
+        },
+        {
+            "content": "cóp nhặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dồn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần tụ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "rút ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu gom",
+            "type": "verb",
+            "example": {
+                "en": "So while these people are being trained, others are collecting the materials.",
+                "vi": "Trong khi những người này học việc, những người khác thu gom vật liệu."
+            }
+        },
+        {
+            "content": "tom góp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tập hợp",
+            "type": "noun",
+            "example": {
+                "en": "Be one of the few black men who live long enough to collect social security.",
+                "vi": "Là một người da đen sống đủ lâu để có thể tập hợp quỹ an ninh xã hội."
+            }
+        },
+        {
+            "content": "tập hợp lại",
+            "type": "noun",
+            "example": {
+                "en": "The folks back home took up a collection.",
+                "vi": "Người quen của tôi đã tập hợp lại."
+            }
+        },
+        {
+            "content": "tập trung",
+            "type": "",
+            "example": {
+                "en": "It's basically like a tree collecting water coming down.",
+                "vi": "Về cơ bản nó giống như một cái cây đang tập trung nước chảy xuống."
+            }
+        },
+        {
+            "content": "tổng hợp",
+            "type": "",
+            "example": {
+                "en": "They're made up of a collection of organs.",
+                "vi": "Chúng chỉ là tổng hợp của các cơ quan sinh học."
+            }
+        },
+        {
+            "content": "tụ hợp lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi lấy",
+            "type": "",
+            "example": {
+                "en": "Mr. Moguy, would you be so kind as to collect the pistol hanging off these boys'hips here?",
+                "vi": "Chú Moguy, nhờ chú đi lấy hết súng khỏi hông chúng được không?"
+            }
+        },
+        {
+            "content": "đến lấy",
+            "type": "",
+            "example": {
+                "en": "Would you like me to send a synthetic unit to collect it?",
+                "vi": "Anh có muốn tôi cử 1 đơn vị người máy đến lấy nó không?"
+            }
+        },
+        {
+            "content": "đọng lại",
+            "type": "",
+            "example": {
+                "en": "In the early morning, you can collect dewdrops from leaves that were carefully laid out the previous evening.",
+                "vi": "Vào buổi sáng, bạn có thể hứng sương đọng lại trên lá từ đêm."
+            }
+        },
+        {
+            "content": "ứ lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thập",
+            "type": "adjective numeral",
+            "example": {
+                "en": "You can collect and add up the light over hours on end.",
+                "vi": "Bạn có thể thu thập và cộng tổng ánh sáng trong nhiều giờ liền."
+            }
+        },
+        {
+            "content": "tụ",
+            "type": "",
+            "example": {
+                "en": "Many settlements had a “post office”—an eddy where floating objects collected temporarily.",
+                "vi": "Nhiều làng có “bưu điện” tức một xoáy nước, nơi những vật nổi tạm thời tụ lại."
+            }
+        },
+        {
+            "content": "gắp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

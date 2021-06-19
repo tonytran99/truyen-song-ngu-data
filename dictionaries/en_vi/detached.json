@@ -1,0 +1,82 @@
+{
+    "word": "detached",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtaCHt/",
+            "/dəˈtætʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtatʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô tư",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đứng riêng ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị tách ra",
+            "type": "",
+            "example": {
+                "en": "The shower of floaters and the light flashes are usually due to some detachment of the retina.",
+                "vi": "Hàng loạt đốm và lóe sáng xảy ra thường là do nơi võng mạc bị tách ra."
+            }
+        },
+        {
+            "content": "khách quan",
+            "type": "",
+            "example": {
+                "en": "17 As they listened to Paul’s persuasive testimony, the two rulers could not remain detached.",
+                "vi": "17 Khi nghe bằng chứng đầy sức thuyết phục của Phao-lô, hai nhà cai trị không còn giữ được sự khách quan nữa."
+            }
+        },
+        {
+            "content": "không lệ thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thiên kiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rời ra",
+            "type": "",
+            "example": {
+                "en": "Here is the preview (if it is not detached",
+                "vi": "Đây là hình xem trước (nếu nó không rời ra"
+            }
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {
+                "en": "The shower of floaters and the light flashes are usually due to some detachment of the retina.",
+                "vi": "Hàng loạt đốm và lóe sáng xảy ra thường là do nơi võng mạc bị tách ra."
+            }
+        },
+        {
+            "content": "tách rời",
+            "type": "",
+            "example": {
+                "en": "There's often an emotional detachment in the way the statement was constructed.",
+                "vi": "Thường có sự tách rời cảm xúc trong cách bày tỏ được dựng lên."
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "ego",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēɡō/",
+            "/ˈiɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːɡəʊ/",
+            "/ˈɛːɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái tôi",
+            "type": "noun",
+            "example": {
+                "en": "We also see just a relaxing of ego, and sort of a dismantling of artifice.",
+                "vi": "Ta cũng thấy cái tôi giảm đi, và sự lừa dối bị dỡ bỏ."
+            }
+        },
+        {
+            "content": "bản ngã",
+            "type": "noun",
+            "example": {
+                "en": "I felt fine physically, but my ego was a bit bruised.",
+                "vi": "Người tôi thì không có sao hết, nhưng bản ngã của tôi có hơi bị tổn thương."
+            }
+        },
+        {
+            "content": "Cái tôi",
+            "type": "",
+            "example": {
+                "en": "I've never had an ego thinking that I'm better than anyone else.",
+                "vi": "Tôi chưa bao giờ có một suy nghĩ cái tôi rằng mình giỏi hơn tất thảy mọi người."
+            }
+        },
+        {
+            "content": "lòng tự trọng",
+            "type": "",
+            "example": {
+                "en": "But in my humanity, I also allow my ego to get in.",
+                "vi": "Nhưng với bản chất của mình, tôi cũng cho phép lòng tự trọng của mình len lỏi vào."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "amazement",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmāzmənt/",
+            "/əˈmeɪzmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmeɪzm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự kinh ngạc",
+            "type": "",
+            "example": {
+                "en": "To the amazement of the crowd, when she awoke she was totally unharmed.",
+                "vi": "Trước sự kinh ngạc của đám đông, em bé đã tỉnh dậy mà không hề bị thương tích gì."
+            }
+        },
+        {
+            "content": "sự sửng sốt",
+            "type": "",
+            "example": {
+                "en": "To my amazement, after my talk the ministers lined up to speak to me.",
+                "vi": "Trước sự sửng sốt của tôi, các giáo sĩ đã sắp hàng đến nói chuyện với tôi."
+            }
+        },
+        {
+            "content": "sự hết sức ngạc nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngạc nhiên",
+            "type": "",
+            "example": {
+                "en": "They would be truly amazed to see what exists here today.",
+                "vi": "Họ sẽ thực sự ngạc nhiên khi thấy những gì tồn tại nơi đây lúc này."
+            }
+        }
+    ]
+}

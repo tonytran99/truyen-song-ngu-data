@@ -1,0 +1,45 @@
+{
+    "word": "heckle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhek(ə)l/",
+            "/ˈhɛk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hackle",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất vấn",
+            "type": "",
+            "example": {
+                "en": "But this time the heckles were replaced with applause",
+                "vi": "Nhưng lần này, những lời chất vấn được thay thế bằng tiếng vỗ tay."
+            }
+        },
+        {
+            "content": "hỏi vặn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

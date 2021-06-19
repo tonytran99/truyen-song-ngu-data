@@ -1,0 +1,51 @@
+{
+    "word": "valued",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvalyo͞od/",
+            "/ˈvæljud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaljuːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quý",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Why does his life have less value than yours?",
+                "vi": "Sao anh cho rằng mạng sống của nó không quý bằng anh?"
+            }
+        },
+        {
+            "content": "được chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được quý trọng",
+            "type": "",
+            "example": {
+                "en": "Please believe me when I say each of you is valued and needed.",
+                "vi": "Xin hãy tin tôi khi tôi nói rằng mỗi chị em được quý trọng và cần đến."
+            }
+        },
+        {
+            "content": "quý giá",
+            "type": "",
+            "example": {
+                "en": "If we can't find them, at least take something of value!",
+                "vi": "Không thì cũng ráng chôm vài thứ quý giá."
+            }
+        }
+    ]
+}

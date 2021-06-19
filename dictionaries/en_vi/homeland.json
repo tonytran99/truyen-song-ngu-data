@@ -1,0 +1,71 @@
+{
+    "word": "homeland",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmˌland/",
+            "/ˈhoʊmˌlænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmland/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tổ quốc",
+            "type": "noun",
+            "example": {
+                "en": "joy is the armor we carried across the borders of our broken homeland.",
+                "vi": "Niềm vui như chiếc áo giáp ta mặc khi băng qua biên giới tổ quốc hoang tàn."
+            }
+        },
+        {
+            "content": "quê hương",
+            "type": "noun",
+            "example": {
+                "en": "Had they returned to their homeland simply to further their own interests?",
+                "vi": "Phải chăng họ trở về quê hương chỉ để mưu cầu lợi ích cá nhân?"
+            }
+        },
+        {
+            "content": "xứ sở",
+            "type": "noun",
+            "example": {
+                "en": "Blown far from his homeland in search of glory and honor!",
+                "vi": "Rời xa quê hương xứ sở đi tìm vinh quang và danh dự!"
+            }
+        },
+        {
+            "content": "quê nhà",
+            "type": "noun",
+            "example": {
+                "en": "You do dances here in the homeland, right?",
+                "vi": "Mọi người cũng nhảy ở quê nhà đúng không?"
+            }
+        },
+        {
+            "content": "祖國",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "non sông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất nước",
+            "type": "noun",
+            "example": {
+                "en": "from numerous mass graves across my homeland,",
+                "vi": "từ vô số các ngôi mộ dọc đất nước tôi"
+            }
+        }
+    ]
+}

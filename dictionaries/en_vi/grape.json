@@ -1,0 +1,124 @@
+{
+    "word": "grape",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrāp/",
+            "/ɡreɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡreɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nho",
+            "type": "adjective noun",
+            "example": {
+                "en": "So would I have to provide the grapes?",
+                "vi": "Thế tôi có cần cung cấp trái nho không?"
+            }
+        },
+        {
+            "content": "cây",
+            "type": "noun",
+            "example": {
+                "en": "Pass your hand again like one gathering grapes from the vines.”",
+                "vi": "Hãy đưa tay qua lần nữa như người hái trái nho trên cây”."
+            }
+        },
+        {
+            "content": "màu",
+            "type": "adjective",
+            "example": {
+                "en": "when you drip a chemical extracted from some red grape skin",
+                "vi": "khi bạn nhỏ một giọt hóa chất chiết xuất từ vỏ nho màu đỏ"
+            }
+        },
+        {
+            "content": "quả nho",
+            "type": "noun",
+            "example": {
+                "en": "Here's her choice: one grapes or two grapes.",
+                "vi": "Cô ấy phải lựa chọn: một quả nho hay hai."
+            }
+        },
+        {
+            "content": "đạn chùm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "(hương vị) nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "(màu) nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "(quả) nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhỏ",
+            "type": "adjective, noun",
+            "example": {}
+        },
+        {
+            "content": "bồ đào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây nho",
+            "type": "",
+            "example": {
+                "en": "We can't make the grape plant produce babies.",
+                "vi": "chúng ta không thể khiến cây nho sinh con"
+            }
+        },
+        {
+            "content": "grape-shot",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nho",
+            "type": "",
+            "example": {
+                "en": "So would I have to provide the grapes?",
+                "vi": "Thế tôi có cần cung cấp trái nho không?"
+            }
+        },
+        {
+            "content": "chùm",
+            "type": "noun",
+            "example": {
+                "en": "I mean, just last week we were having breakfast and he had a couple grapes on his plate.",
+                "vi": "Ý tớ là, có một dịp cuối tuần, bọn tớ đã cùng ăn sáng và cậu ấy có mấy chùm nho trên đĩa."
+            }
+        },
+        {
+            "content": "đạn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "word": "aunt",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ant/",
+            "/ænt/",
+            "/änt/",
+            "/ɑnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cô",
+            "type": "noun",
+            "example": {
+                "en": "Anyway, go and visit your aunt on Saturday.",
+                "vi": "Dù gì đi nữa, thứ Bảy con đi thăm cô con nghe."
+            }
+        },
+        {
+            "content": "dì",
+            "type": "noun",
+            "example": {
+                "en": "How long will you be at your aunt's house?",
+                "vi": "Cậu ở nhà dì tới khi nào thế?"
+            }
+        },
+        {
+            "content": "thím",
+            "type": "noun",
+            "example": {
+                "en": "Your aunt's lower parts are in bad shape.",
+                "vi": "Phần dưới của thím anh đã bị nhiễm trùng."
+            }
+        },
+        {
+            "content": "mợ",
+            "type": "noun",
+            "example": {
+                "en": "The news has so shocked my aunt, it's brought on a stroke.",
+                "vi": "Tin đó làm cho mợ tôi quá sốc, và gây ra một cơn đột quỵ."
+            }
+        },
+        {
+            "content": "bác",
+            "type": "noun",
+            "example": {
+                "en": "My aunt had one of those dots on her, to target the radiation.",
+                "vi": "Bác gái tôi cũng có cái vết đó trên người, khi xạ trị."
+            }
+        },
+        {
+            "content": "o",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bác gái",
+            "type": "noun",
+            "example": {
+                "en": "Sometime afterward, my aunt’s young daughter died suddenly.",
+                "vi": "Ít lâu sau đó, người con gái trẻ tuổi của bác gái tôi chết thình lình."
+            }
+        },
+        {
+            "content": "cô / dì / thím / bác gái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dì, coâ, thím, môï",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

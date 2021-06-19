@@ -1,0 +1,37 @@
+{
+    "word": "electromagnetic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlektrōmaɡˈnetik/",
+            "/əˌlɛktroʊmæɡˈnɛtɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˌlɛktrə(ʊ)maɡˈnɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện từ",
+            "type": "adjective",
+            "example": {
+                "en": "Communications will be spotty if the storm goes electromagnetic.",
+                "vi": "Liên lạc sẽ bị ngắt quãng nếu nó trở thành bão điện từ."
+            }
+        },
+        {
+            "content": "điện tử",
+            "type": "adjective noun",
+            "example": {
+                "en": "It's an electromagnetic pulse that causes a high-intensity photoelectron surge.",
+                "vi": "Đó là nhịp điện tử tạo ra làn sóng điện tử cường độ cao."
+            }
+        }
+    ]
+}

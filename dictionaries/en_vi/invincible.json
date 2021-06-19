@@ -1,0 +1,38 @@
+{
+    "word": "invincible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvinsəb(ə)l/",
+            "/ɪnˈvɪnsəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɪnsɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất bại",
+            "type": "",
+            "example": {
+                "en": "You and I, together with Damian, would be invincible.",
+                "vi": "Anh và em, cùng với Damian, chúng ta sẽ bất bại."
+            }
+        },
+        {
+            "content": "vô địch",
+            "type": "adjective noun",
+            "example": {
+                "en": "The invincible power to command the love of mankind.",
+                "vi": "Một quyền năng vô địch để điều khiển tình yêu của loài người."
+            }
+        }
+    ]
+}

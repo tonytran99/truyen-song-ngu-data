@@ -1,0 +1,40 @@
+{
+    "word": "unexplainable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəkˈsplānəb(ə)l/",
+            "/ˌənəkˈspleɪnəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪkˈspleɪnəb(ə)l/",
+            "/ʌnɛkˈspleɪnəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không cắt nghĩa được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không giải thích được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được giải thích",
+            "type": "adjective",
+            "example": {
+                "en": "For some unexplained reason, “there was a great trembling that fell upon them, so that they went running away in hiding themselves.”",
+                "vi": "Vì một lý do nào đó không được giải thích, “họ run-rẩy quá, chạy trốn để ẩn mình”."
+            }
+        }
+    ]
+}

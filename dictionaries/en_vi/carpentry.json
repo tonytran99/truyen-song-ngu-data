@@ -1,0 +1,50 @@
+{
+    "word": "carpentry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärpəntrē/",
+            "/ˈkɑrpəntri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːp(ə)ntri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghề thợ mộc",
+            "type": "",
+            "example": {
+                "en": "As they grew, boys were given practical training by their fathers in agriculture or in a trade, such as carpentry.",
+                "vi": "Khi lớn lên, con trai được cha dạy làm ruộng hoặc một nghề khác như nghề thợ mộc."
+            }
+        },
+        {
+            "content": "rui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghề mộc",
+            "type": "",
+            "example": {
+                "en": "We don't do no carpentry work in here, so we don't need no hammers.",
+                "vi": "Ở đây chúng ta không làm nghề mộc, cho nên không cần búa."
+            }
+        },
+        {
+            "content": "đồ mộc",
+            "type": "",
+            "example": {
+                "en": "The carpentry shop is gone.",
+                "vi": "Cửa hàng đồ mộc đã biến mất."
+            }
+        }
+    ]
+}

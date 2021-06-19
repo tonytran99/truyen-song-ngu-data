@@ -1,0 +1,85 @@
+{
+    "word": "depraved",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈprāvd/",
+            "/dəˈpreɪvd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpreɪvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "suy đồi",
+            "type": "adjective",
+            "example": {
+                "en": "And a depraved killer may be on the guest list.",
+                "vi": "Và tên sát nhân suy đồi có thể nằm trong danh sách khách mời."
+            }
+        },
+        {
+            "content": "hỏng",
+            "type": "adjective",
+            "example": {
+                "en": "What could you possibly do for a country of depraved little fire monsters?",
+                "vi": "Cậu thì làm được gì cho đất nước của đám quái con hư hỏng chứ?"
+            }
+        },
+        {
+            "content": "sa đoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sa đọa",
+            "type": "adjective",
+            "example": {
+                "en": "There's a fine line between self-defense and depraved violence.",
+                "vi": "Biên giới giữa tự vệ và bạo lực sa đọa rất mong manh."
+            }
+        },
+        {
+            "content": "truỵ lạc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trụy lạc",
+            "type": "adjective",
+            "example": {
+                "en": "Are you even capable of language, or do you only understand depravity?",
+                "vi": "Ngài có khả năng ngôn ngữ, hay Ngài chỉ biết đến có trụy lạc?"
+            }
+        },
+        {
+            "content": "đốn đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồi bại",
+            "type": "adjective",
+            "example": {
+                "en": "Where the depravity of your artists will not stand.",
+                "vi": "Nơi mà sự đồi bại của các nghệ nhân sẽ không có chỗ đứng."
+            }
+        },
+        {
+            "content": "đồi trụy",
+            "type": "",
+            "example": {
+                "en": "And here I thought you were only good for writing depraved little fantasies.",
+                "vi": "Vậy mà tôi đã nghĩ anh chỉ giỏi viết mấy câu truyện đồi trụy chứ."
+            }
+        }
+    ]
+}

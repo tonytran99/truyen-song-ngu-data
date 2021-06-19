@@ -1,0 +1,50 @@
+{
+    "word": "felony",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfelənē/",
+            "/ˈfɛləni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛləni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trọng tội",
+            "type": "noun",
+            "example": {
+                "en": "Lying on a federal employment application is a felony.",
+                "vi": "Khai man trong hồ sơ xin việc cấp liên bang là trọng tội đấy."
+            }
+        },
+        {
+            "content": "tội ác",
+            "type": "noun",
+            "example": {
+                "en": "Deputy Mayor, lp Man has been charged with felony",
+                "vi": "Ngài nghị sĩ, Diệp Vấn đã gây tội ác."
+            }
+        },
+        {
+            "content": "toäi aùc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tội nghiêm trọng",
+            "type": "",
+            "example": {
+                "en": "You do realize you just confessed to a felony?",
+                "vi": "Cậu không thấy rằng mình vừa thú nhận một tội nghiêm trọng à?"
+            }
+        }
+    ]
+}

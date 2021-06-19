@@ -1,0 +1,63 @@
+{
+    "word": "epoch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈepək/",
+            "/ˈɛpək/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːpɒk/",
+            "/ˈɛpɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời kỳ",
+            "type": "noun",
+            "example": {
+                "en": "The Moon is a souvenir of that violent epoch.",
+                "vi": "Mặt Trăng là món quà lưu niệm của thời kỳ đầy sóng gió ấy."
+            }
+        },
+        {
+            "content": "kỷ nguyên",
+            "type": "noun",
+            "example": {
+                "en": "Epoch after epoch of sameness, nonevents without number.",
+                "vi": "Từng kỷ nguyên đơn điệu, không một sự kiện gì xảy ra."
+            }
+        },
+        {
+            "content": "giai đoạn",
+            "type": "",
+            "example": {
+                "en": "In the next great epoch of life, which applies for most of life,",
+                "vi": "Ở giai đoạn quan trọng tiếp theo, đúng với hầu hết mọi người,"
+            }
+        },
+        {
+            "content": "thời đại",
+            "type": "noun",
+            "example": {
+                "en": "It was an epoch-making birth.",
+                "vi": "Đó là sự sanh ra đánh dấu một thời đại."
+            }
+        },
+        {
+            "content": "Kỷ nguyên",
+            "type": "",
+            "example": {
+                "en": "I'm talking about what Jonas Salk called an Epoch B,",
+                "vi": "Tôi nói về cái mà Jonas Salk gọi là Kỷ nguyên B,"
+            }
+        }
+    ]
+}

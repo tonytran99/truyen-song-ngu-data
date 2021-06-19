@@ -1,0 +1,437 @@
+{
+    "word": "home",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hōm/",
+            "/hoʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "If possible, I'd like to go home now.",
+                "vi": "Nếu có thể, tôi muốn được về nhà ngay bây giowf."
+            }
+        },
+        {
+            "content": "quê hương",
+            "type": "noun",
+            "example": {
+                "en": "Because of him there's still hope for our homes.",
+                "vi": "Nhờ có ông ấy vẫn còn hi vọng cho quê hương của chúng ta."
+            }
+        },
+        {
+            "content": "chỗ ở",
+            "type": "noun",
+            "example": {
+                "en": "They looked forward to gaining everlasting life on earth, mankind’s original home.",
+                "vi": "Họ trông mong vào đời sống vĩnh cửu trên đất, chỗ ở nguyên thủy của loài người."
+            }
+        },
+        {
+            "content": "đích",
+            "type": "noun",
+            "example": {
+                "en": "I long to see his sword thrust home.",
+                "vi": "Đã lâu em không được thấy \" thanh kiếm \" đích thực của hắn."
+            }
+        },
+        {
+            "content": "tổ quốc",
+            "type": "noun",
+            "example": {
+                "en": "For hearth and home, right, sir?",
+                "vi": "Vì gia đình và tổ quốc, phải không thưa ngài?"
+            }
+        },
+        {
+            "content": "gia đình",
+            "type": "noun",
+            "example": {
+                "en": "Write “family prayer,” “family scripture study,” and “family home evening” on three strips of paper.",
+                "vi": "Viết “cầu nguyện chung gia đình,” “học thánh thư chung gia đình,” và “buổi họp tối gia đình” lên trên ba mảnh giấy."
+            }
+        },
+        {
+            "content": "nơi chôn",
+            "type": "noun",
+            "example": {
+                "en": "They're not gonna give up their home.",
+                "vi": "Họ sẽ không từ bỏ nơi chôn nhau cắt rốn của mình."
+            }
+        },
+        {
+            "content": "nhà cửa",
+            "type": "noun",
+            "example": {
+                "en": "But we have a home, a good home.",
+                "vi": "Nhưng chúng ta đã có nhà cửa rồi, lại còn rất tốt nữa mà."
+            }
+        },
+        {
+            "content": "nhà ở",
+            "type": "noun",
+            "example": {
+                "en": "Does it feel better in that home of yours under the waves?",
+                "vi": "Trong ngôi nhà ở dưới những con sóng của cô có cảm thấy khá hơn không?"
+            }
+        },
+        {
+            "content": "nơi sinh",
+            "type": "noun",
+            "example": {
+                "en": "Mumbai in India is home to over 20 million people.",
+                "vi": "Thành phố Mumbai, ở Ấn Độ, là nơi sinh sống của 20 triệu dân cư."
+            }
+        },
+        {
+            "content": "quê",
+            "type": "noun",
+            "example": {
+                "en": "You're in a tight race back home, Congresswoman.",
+                "vi": "Chị đang có một cuộc đua sít sao ở quê nhà, thưa bà đại biểu Quốc hội."
+            }
+        },
+        {
+            "content": "viện",
+            "type": "noun",
+            "example": {
+                "en": "Relate experiences illustrating the benefits of witnessing in nursing homes.",
+                "vi": "Hãy kể những kinh nghiệm cho thấy lợi ích của việc làm chứng tại viện dưỡng lão."
+            }
+        },
+        {
+            "content": "chủ nhà",
+            "type": "adjective",
+            "example": {
+                "en": "He referred to a householder whose home had been burglarized.",
+                "vi": "Ngài nói đến một chủ nhà đã bị mất trộm."
+            }
+        },
+        {
+            "content": "mái ấm",
+            "type": "noun",
+            "example": {
+                "en": "He owed me a home and a fire and perhaps children some day.",
+                "vi": "Nợ tôi mái ấm, bếp lửa và có thể là con cái."
+            }
+        },
+        {
+            "content": "nội địa",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sân nhà",
+            "type": "adjective",
+            "example": {
+                "en": "And we realized right away that the computer had a big home court advantage.",
+                "vi": "Chúng tôi đã tức khắc nhận ra rằng máy tính có lợi thế sân nhà rất lớn."
+            }
+        },
+        {
+            "content": "thuộc về nhà",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trại dưỡng lão",
+            "type": "",
+            "example": {
+                "en": "I'm no detective, but 1966, I would've started at the retirement home.",
+                "vi": "Tôi phải thám tử, nhưng nếu... là chuyện về năm 1966, tôi sẽ đã bắt đầu từ trại dưỡng lão."
+            }
+        },
+        {
+            "content": "tại nhà",
+            "type": "adverb",
+            "example": {
+                "en": "These meetings are usually held in private homes or at other convenient places.",
+                "vi": "Những buổi nhóm này thường được tổ chức tại nhà riêng hoặc những nơi thuận tiện khác."
+            }
+        },
+        {
+            "content": "tại nhà mình",
+            "type": "adverb",
+            "example": {
+                "en": "How does he prepare to have meetings for field service in his home each week?",
+                "vi": "Người ấy chuẩn bị cho các buổi họp rao giảng tại nhà mình mỗi tuần ra sao?"
+            }
+        },
+        {
+            "content": "ở tại nhà",
+            "type": "adverb",
+            "example": {
+                "en": "Now I spend my nights and part of my days in the nursing home.",
+                "vi": "Bấy giờ tôi ở tại nhà an dưỡng vào ban đêm và vài giờ vào ban ngày."
+            }
+        },
+        {
+            "content": "ở nhà",
+            "type": "",
+            "example": {
+                "en": "To tell the truth, I would rather stay at home than go out.",
+                "vi": "Thật ra thì tôi thích ở nhà hơn là đi ra ngoài."
+            }
+        },
+        {
+            "content": "trại",
+            "type": "noun",
+            "example": {
+                "en": "The mother and baby's homes were often run by nuns.",
+                "vi": "Các trại mẹ và bé thường do các sơ điều hành."
+            }
+        },
+        {
+            "content": "nước nhà",
+            "type": "",
+            "example": {
+                "en": "I must go, a pipe burst in my home.",
+                "vi": "Con phải đi đây, quản lý khu nhà báo là vòi nước nhà con bị vỡ rồi"
+            }
+        },
+        {
+            "content": "trại mồ côi",
+            "type": "",
+            "example": {
+                "en": "After the children's home, I ended up on the streets.",
+                "vi": "Sau khi rời khỏi trại mồ côi, tôi đã kiếm ăn trên đường phố."
+            }
+        },
+        {
+            "content": "trở về nhà",
+            "type": "",
+            "example": {
+                "en": "My sister was robbed of her bag on her way home last night.",
+                "vi": "Chị tôi bị mất cắp túi xách tay tối qua trên đường trở về nhà."
+            }
+        },
+        {
+            "content": "nội",
+            "type": "adjective noun adposition",
+            "example": {
+                "en": "From work or from home, they took the day off,",
+                "vi": "Từ việc làm hay nội trợ, họ nghĩ làm 1 ngày,"
+            }
+        },
+        {
+            "content": "chốn",
+            "type": "noun",
+            "example": {
+                "en": "– Certain that these geese have never known any home but this one:",
+                "vi": "Chắc chắn các con ngỗng này chưa biết chốn nương thân nào khác..."
+            }
+        },
+        {
+            "content": "trúng",
+            "type": "verb",
+            "example": {
+                "en": "They taking the bingo money home?",
+                "vi": "Có phải họ đang chở tiền trúng số về nhà?"
+            }
+        },
+        {
+            "content": "gia",
+            "type": "verb",
+            "example": {
+                "en": "With a bit of trepidation, the home teacher did his best.",
+                "vi": "Người thầy giảng tại gia đó đã làm hết khả năng của mình, với một chút lo sợ."
+            }
+        },
+        {
+            "content": "cho hồi hương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho về nhà",
+            "type": "",
+            "example": {
+                "en": "If somebody makes a mistake, they get sent right home.",
+                "vi": "Nếu có ai phạm lỗi, họ bị cho về nhà ngay."
+            }
+        },
+        {
+            "content": "chạm nọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ sinh sống",
+            "type": "",
+            "example": {
+                "en": "Because human trafficking is far more prevalent, complex and close to home",
+                "vi": "Vì buôn bán người dần thịnh hành, phức tạp và gần với chỗ sinh sống"
+            }
+        },
+        {
+            "content": "có gia đình",
+            "type": "",
+            "example": {
+                "en": "I volunteered so the men with families could go home early.",
+                "vi": "Tôi tình nguyện làm để những đồng nghiệp đã có gia đình được về nhà."
+            }
+        },
+        {
+            "content": "có nhà",
+            "type": "",
+            "example": {
+                "en": "But we have a home, a good home.",
+                "vi": "Nhưng chúng ta đã có nhà cửa rồi, lại còn rất tốt nữa mà."
+            }
+        },
+        {
+            "content": "hồi hương",
+            "type": "",
+            "example": {
+                "en": "I promised, they can go home when done. And we're done.",
+                "vi": "Tôi đã hứa, khi nào hoàn thành, chúng sẽ được hồi hương, và chúng tôi đã làm xong."
+            }
+        },
+        {
+            "content": "quê nhà",
+            "type": "",
+            "example": {
+                "en": "You're in a tight race back home, Congresswoman.",
+                "vi": "Chị đang có một cuộc đua sít sao ở quê nhà, thưa bà đại biểu Quốc hội."
+            }
+        },
+        {
+            "content": "trúng tim đen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trúng địch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trở về quê hương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạo một tổ ấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tổ ấm",
+            "type": "noun",
+            "example": {
+                "en": "Usually, the woman is quite adept at making the home a pleasant place in which to live.",
+                "vi": "Thường thì người đàn bà rất khéo trong việc làm cho căn nhà thành một tổ ấm."
+            }
+        },
+        {
+            "content": "về nhà",
+            "type": "",
+            "example": {
+                "en": "If possible, I'd like to go home now.",
+                "vi": "Nếu có thể, tôi muốn được về nhà ngay bây giowf."
+            }
+        },
+        {
+            "content": "về nước",
+            "type": "",
+            "example": {
+                "en": "Even though you returned home, I hardly see you face.",
+                "vi": "Em về nước rồi mà cũng khó để nhìn thấy mặt em đấy."
+            }
+        },
+        {
+            "content": "về quê",
+            "type": "",
+            "example": {
+                "en": "I'm going back home and buying me some land.",
+                "vi": "Tao sẽ về quê và mua vài miếng đất."
+            }
+        },
+        {
+            "content": "về quê hương",
+            "type": "",
+            "example": {
+                "en": "When you return home, father will welcome you as a war hero.",
+                "vi": "Khi anh về quê hương. Phụ vương sẽ chào mừng anh như một người hùng."
+            }
+        },
+        {
+            "content": "đưa về nhà",
+            "type": "",
+            "example": {
+                "en": "Finally, about a month later, word came that we were to be sent home.",
+                "vi": "bị kết án tử hình và chờ đợi. có tin chúng tôi sẽ được đưa về nhà."
+            }
+        },
+        {
+            "content": "đến cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đến nhà",
+            "type": "",
+            "example": {
+                "en": "When I came home, he was already floating.",
+                "vi": "Khi em về đến nhà, ông ta đã nổi lềnh bềnh rồi."
+            }
+        },
+        {
+            "content": "địa phương",
+            "type": "adjective",
+            "example": {
+                "en": "They usually live and serve locally but sometimes may serve away from home.",
+                "vi": "Họ thường sống và phục vụ ở địa phương nhưng đôi khi có thể phục vụ xa nhà."
+            }
+        },
+        {
+            "content": "ở gia đình",
+            "type": "",
+            "example": {
+                "en": "What could she have found among the people of Canaan that she could not find at home?)",
+                "vi": "Đi-na thích điều gì nơi họ mà cô không tìm thấy ở gia đình?)."
+            }
+        },
+        {
+            "content": "ở gần nhà",
+            "type": "",
+            "example": {
+                "en": "I was thinking of maybe staying close to home for a while.",
+                "vi": "Con nghĩ lúc này nên ở gần nhà."
+            }
+        },
+        {
+            "content": "ở trong nước",
+            "type": "",
+            "example": {
+                "en": "But you want to be respected abroad as much as you are at home.",
+                "vi": "Nhưng ngài cũng muốn được tôn trọng trên trường quốc tế như ở trong nước."
+            }
+        },
+        {
+            "content": "cái nhà",
+            "type": "",
+            "example": {
+                "en": "We talk about what interests them—their children, their dogs, their homes, their jobs.",
+                "vi": "Chúng tôi nói về những điều họ yêu thích như con cái, nhà cửa, việc làm, con chó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "armchair",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärmˌCHer/",
+            "/ˈɑrmˌtʃɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːmˈtʃɛː/",
+            "/ˈɑːmtʃɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghế bành",
+            "type": "noun",
+            "example": {
+                "en": "He settled down in his armchair to listen to the music.",
+                "vi": "Anh ta ngồi xuống ghế bành để nghe nhạc."
+            }
+        },
+        {
+            "content": "cái ghế bành",
+            "type": "",
+            "example": {
+                "en": "An armchair by the fireplace would look good.",
+                "vi": "Một cái ghế bành để đây sẽ rất hay."
+            }
+        }
+    ]
+}

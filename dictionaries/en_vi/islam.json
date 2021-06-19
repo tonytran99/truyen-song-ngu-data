@@ -1,0 +1,47 @@
+{
+    "word": "islam",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/isˈläm/",
+            "/ɪsˈlɑm/",
+            "/izˈläm/",
+            "/ɪzˈlɑm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪsˈlɑːm/",
+            "/ˈɪzlɑːm/",
+            "/ˈɪzlam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân theo đạo Hồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo Hồi",
+            "type": "",
+            "example": {
+                "en": "Now, some will still argue Islam is a violent religion.",
+                "vi": "Và bây giờ, sẽ có người cãi rằng đạo Hồi là thứ tôn giáo bạo lực."
+            }
+        },
+        {
+            "content": "hồi giáo",
+            "type": "",
+            "example": {
+                "en": "If he was a prison imam, he must have recruited militant islamic society members.",
+                "vi": "Nếu hắn là giáo sĩ nhà tù, hắn phải đã tuyển mộ các thành viên Hồi giáo vũ trang."
+            }
+        }
+    ]
+}

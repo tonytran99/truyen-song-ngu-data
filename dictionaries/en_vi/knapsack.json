@@ -1,0 +1,30 @@
+{
+    "word": "knapsack",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnapˌsak/",
+            "/ˈnæpˌsæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnapsak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ba lô",
+            "type": "noun",
+            "example": {
+                "en": "Where'd you get a knapsack like that?",
+                "vi": "Cậu kiếm được cái ba lô kiểu đó ở đâu vậy?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "certified",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərdifīd/",
+            "/ˈsərdɪfaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːtɪfʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được chứng nhận",
+            "type": "",
+            "example": {
+                "en": "She also boasts that she's a certified professional member",
+                "vi": "Bà ấy cũng khoe rằng mình là chuyên gia được chứng nhận"
+            }
+        },
+        {
+            "content": "được chứng thực",
+            "type": "",
+            "example": {
+                "en": "With two certified appraisals?",
+                "vi": "Với hai bản giám định đã được chứng thực?"
+            }
+        },
+        {
+            "content": "được nhận thực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

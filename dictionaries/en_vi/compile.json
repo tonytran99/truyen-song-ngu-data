@@ -1,0 +1,67 @@
+{
+    "word": "compile",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpīl/",
+            "/kəmˈpaɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biên soạn",
+            "type": "verb",
+            "example": {
+                "en": "Mormon did not record where he was when he compiled this book.",
+                "vi": "Mặc Môn không ghi lại nơi nào ông đang ở khi biên soạn sách này."
+            }
+        },
+        {
+            "content": "biên dịch",
+            "type": "",
+            "example": {
+                "en": "The document will be able to be compiled alone",
+                "vi": "Tài liệu này có thể được biên dịch riêng"
+            }
+        },
+        {
+            "content": "biên",
+            "type": "verb",
+            "example": {
+                "en": "The men who compiled the history attested to the accuracy of the work.",
+                "vi": "Những người biên soạn quyển lịch sử này chứng thực sự chính xác của công việc này."
+            }
+        },
+        {
+            "content": "soạn thảo",
+            "type": "verb",
+            "example": {
+                "en": "Ptolemy compiled his list some 600 years after the Neo-Babylonian period ended.",
+                "vi": "Ptolemy soạn thảo danh sách ấy vào khoảng 600 năm sau thời kỳ Tân Ba-by-lôn."
+            }
+        },
+        {
+            "content": "sưu tập tài liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "soạn",
+            "type": "verb",
+            "example": {
+                "en": "Mormon did not record where he was when he compiled this book.",
+                "vi": "Mặc Môn không ghi lại nơi nào ông đang ở khi biên soạn sách này."
+            }
+        }
+    ]
+}

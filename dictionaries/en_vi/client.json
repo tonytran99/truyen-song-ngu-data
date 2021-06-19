@@ -1,0 +1,79 @@
+{
+    "word": "client",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklīənt/",
+            "/ˈklaɪənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklʌɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách hàng",
+            "type": "noun",
+            "example": {
+                "en": "We do this for our customers who handle special clients.",
+                "vi": "Chúng tôi làm việc này cho những khách hàng mà có khách hàng đặc biệt."
+            }
+        },
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "You wanna go call some clients or something?",
+                "vi": "Em muốn đi gọi cho vài khách hàng không?"
+            }
+        },
+        {
+            "content": "Chủ đầu tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Khách hàng",
+            "type": "",
+            "example": {
+                "en": "We provide the highest level of confidentiality to our clients.",
+                "vi": "Khách hàng của chúng tôi được bảo mật ở mức cao nhất."
+            }
+        },
+        {
+            "content": "chương trình khách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy khách",
+            "type": "",
+            "example": {
+                "en": "Working on feature development , enhancements and bug fixing activities for Win7 and Win 8 's Remote Desktop client .",
+                "vi": "Làm việc phát triển tính năng , nâng cấp và các hoạt động vá lỗi cho máy khách Remote Desktop của Win7 và Win8 ."
+            }
+        },
+        {
+            "content": "người khách",
+            "type": "",
+            "example": {
+                "en": "Find her, find her family, find client number nine.",
+                "vi": "Tìm cô ta, gia đình cô ta tìm người khách hàng số chín."
+            }
+        },
+        {
+            "content": "thân chủ",
+            "type": "",
+            "example": {
+                "en": "I'm here to monitor my client's human rights.",
+                "vi": "Tôi đến đây để đọc quyền lợi của thân chủ tôi."
+            }
+        }
+    ]
+}

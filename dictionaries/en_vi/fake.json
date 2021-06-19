@@ -1,0 +1,150 @@
+{
+    "word": "fake",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fāk/",
+            "/feɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/feɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps one of the original gems was lost and had to be replaced with a fake.",
+                "vi": "Có thể là những hạt ngọc gốc đã bị mất và phải thay thế bằng đồ giả."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "verb",
+            "example": {
+                "en": "Now, you gonna tell me all these photos of you are fake, hmm?",
+                "vi": "Bây giờ, ông muốn cho tôi biết tất cả những bức ảnh của ông là giả mạo?"
+            }
+        },
+        {
+            "content": "nhái",
+            "type": "adjective",
+            "example": {
+                "en": "And that what we add on top is kind of false. It's a fake version.",
+                "vi": "Và những gì chúng ta xếp đầu bảng là đồ giả. Nó là hàng nhái."
+            }
+        },
+        {
+            "content": "báo cáo bịa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả",
+            "type": "",
+            "example": {
+                "en": "Mr. Harper went through a lot of trouble to fake his death.",
+                "vi": "Cậu Harper đã gặp rất nhiều rắc rối để làm giả cái chết của mình."
+            }
+        },
+        {
+            "content": "làm giống như thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng dây cáp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật làm giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ cổ giả mạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ giả",
+            "type": "",
+            "example": {
+                "en": "Perhaps one of the original gems was lost and had to be replaced with a fake.",
+                "vi": "Có thể là những hạt ngọc gốc đã bị mất và phải thay thế bằng đồ giả."
+            }
+        },
+        {
+            "content": "đồ giả mạo",
+            "type": "",
+            "example": {
+                "en": "He sells a fake.",
+                "vi": "Bán đồ giả mạo."
+            }
+        },
+        {
+            "content": "假",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "偽裝",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "偽造",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gian lận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng giả",
+            "type": "",
+            "example": {
+                "en": "But it's still a fake.",
+                "vi": "Nhưng nó vẫn là hàng giả."
+            }
+        },
+        {
+            "content": "hàng nhái",
+            "type": "",
+            "example": {
+                "en": "And that what we add on top is kind of false. It's a fake version.",
+                "vi": "Và những gì chúng ta xếp đầu bảng là đồ giả. Nó là hàng nhái."
+            }
+        },
+        {
+            "content": "kẻ mạo nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngụy trang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngụy tạo",
+            "type": "",
+            "example": {
+                "en": "The archeological community believed it was a fake but the company decided to explore further",
+                "vi": "Giới khảo cổ tin rằng tài liệu đấy là ngụy tạo. Nhưng công ty vẫn quyết định tìm kiếm cổ thành"
+            }
+        }
+    ]
+}

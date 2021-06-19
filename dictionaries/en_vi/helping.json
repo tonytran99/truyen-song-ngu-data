@@ -1,0 +1,30 @@
+{
+    "word": "helping",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhelpiNG/",
+            "/ˈhɛlpɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛlpɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "Tom couldn't have done that without Mary's help.",
+                "vi": "Tom đã không thể nào hoàn thành nếu thiếu sự giúp đỡ của Mary."
+            }
+        }
+    ]
+}

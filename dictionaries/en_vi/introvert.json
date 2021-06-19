@@ -1,0 +1,56 @@
+{
+    "word": "introvert",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈintrəˌvərt/",
+            "/ˈɪntrəˌvərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntrəvəːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hướng vào nội tâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lồng tụt vào trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nhút nhát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu mình vào trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hướng ngã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hướng nội",
+            "type": "",
+            "example": {
+                "en": "I'm an introvert, but I have a core project, which is to profess.",
+                "vi": "Tôi là người hướng nội, Nhưng tôi có dự án cốt lõi là dạy học."
+            }
+        }
+    ]
+}

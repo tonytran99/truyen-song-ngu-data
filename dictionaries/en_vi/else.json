@@ -1,0 +1,63 @@
+{
+    "word": "else",
+    "type": [
+        "adjective",
+        "conjunction",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/els/",
+            "/ɛls/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛls/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác",
+            "type": "adjective",
+            "example": {
+                "en": "But she is ready to become someone else.",
+                "vi": "Nhưng nhóc đã sẵn sàng để trở thành một người khác."
+            }
+        },
+        {
+            "content": "nữa",
+            "type": "adverb",
+            "example": {
+                "en": "What else do you want?",
+                "vi": "Bạn còn cần gì nữa?"
+            }
+        },
+        {
+            "content": "bằng không",
+            "type": "adjective",
+            "example": {
+                "en": "Or else be dragged down by them.",
+                "vi": "bằng không sẽ bị chúng lôi xuống."
+            }
+        },
+        {
+            "content": "nếu không",
+            "type": "",
+            "example": {
+                "en": "I knew I had to stop his bleeding or else he would die.",
+                "vi": "Tôi biết rằng mình phải dừng việc chảy máu của ông ấy nếu không ông ấy sẽ chết."
+            }
+        },
+        {
+            "content": "hoặc",
+            "type": "conjunction",
+            "example": {
+                "en": "You could have married Sam Wainwright and anybody else in town.",
+                "vi": "Em có thể lấy Sam Wainwright hoặc 1 ai đó trong thị trấn mà."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "coincident",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōˈinsədənt/",
+            "/koʊˈɪnsədənt/",
+            "/kōˈinsəˌdent/",
+            "/koʊˈɪnsəˌdɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊˈɪnsɪd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp",
+            "type": "adjective verb",
+            "example": {
+                "en": "Fifteen cases of cancer can't be a coincidence.",
+                "vi": "50 trường hợp ung thư không thể là ngẫu nhiên được."
+            }
+        },
+        {
+            "content": "trùng khớp",
+            "type": "",
+            "example": {
+                "en": "Each deposit coincides with when he sent one of his parolees back to prison.",
+                "vi": "Tiền gởi vào trùng khớp với ngày những người bị quản chế trở lại vào tù."
+            }
+        },
+        {
+            "content": "trùng nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

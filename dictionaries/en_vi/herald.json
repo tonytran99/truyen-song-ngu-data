@@ -1,0 +1,61 @@
+{
+    "word": "herald",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈherəld/",
+            "/ˈhɛrəld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛr(ə)ld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sứ giả",
+            "type": "",
+            "example": {
+                "en": "He's a herald of woe.",
+                "vi": "Hắn là sứ giả của tai ương."
+            }
+        },
+        {
+            "content": "điềm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "triệu",
+            "type": "numeral",
+            "example": {}
+        },
+        {
+            "content": "báo trước",
+            "type": "",
+            "example": {
+                "en": "They rise just before the sun appears, and they thus herald the dawn of a new day.",
+                "vi": "Vì vậy, chúng báo trước sự bắt đầu của một ngày mới."
+            }
+        },
+        {
+            "content": "người đưa tin",
+            "type": "",
+            "example": {
+                "en": "So does that mean that the herald is not particularly progressive?",
+                "vi": "Vậy có nghĩa là tờ \" Người đưa tin \" không phát triển một cách rõ rệt?"
+            }
+        },
+        {
+            "content": "sứ truyền lệnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

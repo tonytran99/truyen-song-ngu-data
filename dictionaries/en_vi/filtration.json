@@ -1,0 +1,39 @@
+{
+    "word": "filtration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/filˈtrāSH(ə)n/",
+            "/fɪlˈtreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪlˈtreɪʃn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự lọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách lọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lọc",
+            "type": "verb",
+            "example": {
+                "en": "Then he almost got everyone killed when the water filtration broke.",
+                "vi": "Rồi gần như giết mọi người khi máy lọc nước hỏng."
+            }
+        }
+    ]
+}

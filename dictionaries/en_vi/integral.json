@@ -1,0 +1,78 @@
+{
+    "word": "integral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)əɡrəl/",
+            "/ˈɪn(t)əɡrəl/",
+            "/inˈteɡrəl/",
+            "/ɪnˈtɛɡrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntɪɡr(ə)l/",
+            "/ɪnˈtɛɡr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tích phân",
+            "type": "noun, adjective",
+            "example": {
+                "en": "And it takes weeks to perform our integrations.",
+                "vi": "Mà vẫn cần hàng tuần mới thực hiện xong các phép tích phân."
+            }
+        },
+        {
+            "content": "nguyên",
+            "type": "adjective",
+            "example": {
+                "en": "You know, it's important to have some kind of personal integrity.",
+                "vi": "Giữ được bản thân nguyên vẹn là rất quan trọng."
+            }
+        },
+        {
+            "content": "cần cho tính nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn bộ",
+            "type": "adjective",
+            "example": {
+                "en": "As they spin biological silk over robotically spun silk, they give this entire pavilion its integrity.",
+                "vi": "Khi những sợi tơ tự nhiên được đan cài vào những sợi tơ có sẵn, toàn bộ khối cầu trở nên vững chãi hơn."
+            }
+        },
+        {
+            "content": "trọn vẹn",
+            "type": "adjective",
+            "example": {
+                "en": "The term “integrity” carries the thought of being upright, blameless, righteous, and faultless.",
+                "vi": "Từ “trung kiên” có ý trọn vẹn, ngay thẳng và công bình."
+            }
+        },
+        {
+            "content": "tính nguyên",
+            "type": "",
+            "example": {
+                "en": "to accord him the integrity of reality.",
+                "vi": "hòa ông vào tính nguyên vẹn của thực tại"
+            }
+        },
+        {
+            "content": "Tích phân",
+            "type": "",
+            "example": {
+                "en": "And it takes weeks to perform our integrations.",
+                "vi": "Mà vẫn cần hàng tuần mới thực hiện xong các phép tích phân."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "doze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dōz/",
+            "/doʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngủ gà ngủ gật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngủ lơ mơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chập chờn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ngủ gà",
+            "type": "",
+            "example": {
+                "en": "In school , Yoon-ho sits in the very back corner , dozing off or reading comic books .",
+                "vi": "Ở trường , Yoon-ho ngồi ở góc cuối lớp , ngủ gà gật hoặc đọc truyện tranh ."
+            }
+        },
+        {
+            "content": "ngủ gật",
+            "type": "",
+            "example": {
+                "en": "And, as many people do, he was dozing off during the sermon.",
+                "vi": "Và, như nhiều người khác, ông ta đang ngủ gật trong buổi thuyết giảng."
+            }
+        }
+    ]
+}

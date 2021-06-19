@@ -1,0 +1,38 @@
+{
+    "word": "glitch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡliCH/",
+            "/ɡlɪtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlɪtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cố nhỏ",
+            "type": "",
+            "example": {
+                "en": "Captain, what do you mean, \" a glitch \"?",
+                "vi": "Cơ trưởng, ông nói \" sự cố nhỏ \" là sao?"
+            }
+        },
+        {
+            "content": "trục trặc",
+            "type": "",
+            "example": {
+                "en": "So we just went ahead and fixed the glitch.",
+                "vi": "Nên chỉ việc sửa lại trục trặc đó thôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "debris",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈbrē/",
+            "/dəˈbri/",
+            "/ˌdāˈbrē/",
+            "/ˌdeɪˈbri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛbriː/",
+            "/ˈdeɪbriː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rác",
+            "type": "",
+            "example": {
+                "en": "I did another story on marine debris.",
+                "vi": "Tôi tạo ra một câu chuyện nữa về rác thải ở biển."
+            }
+        },
+        {
+            "content": "mảnh vỡ",
+            "type": "",
+            "example": {
+                "en": "There are cables and debris all over the bottom.",
+                "vi": "Có nhiều dây cáp và mảnh vỡ khắp dưới đáy."
+            }
+        },
+        {
+            "content": "mảnh vụn",
+            "type": "",
+            "example": {
+                "en": "There was lots of wind and debris flying around and hitting every part of my body.",
+                "vi": "Gió mạnh và các mảnh vụn bay xung quanh và trúng vào khắp người tôi."
+            }
+        },
+        {
+            "content": "vôi gạch đổ nát",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

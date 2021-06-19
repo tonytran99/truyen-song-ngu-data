@@ -1,0 +1,56 @@
+{
+    "word": "falcon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfalkən/",
+            "/ˈfælkən/",
+            "/ˈfôlkən/",
+            "/ˈfɔlkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔː(l)k(ə)n/",
+            "/ˈfɒlk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chim ưng",
+            "type": "noun",
+            "example": {
+                "en": "And if you're a falcon it's quite a nice place to be in the summer.",
+                "vi": "Nếu bạn là chim ưng, đó sẽ là nơi ở tuyệt đẹp vào mùa hè."
+            }
+        },
+        {
+            "content": "chim cắt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Chi Cắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ưng",
+            "type": "noun verb",
+            "example": {
+                "en": "And if you're a falcon it's quite a nice place to be in the summer.",
+                "vi": "Nếu bạn là chim ưng, đó sẽ là nơi ở tuyệt đẹp vào mùa hè."
+            }
+        },
+        {
+            "content": "chi cắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

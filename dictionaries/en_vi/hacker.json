@@ -1,0 +1,45 @@
+{
+    "word": "hacker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhakər/",
+            "/ˈhækər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhakə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hacker",
+            "type": "noun",
+            "example": {
+                "en": "I'll help the rest of you find the hacker.",
+                "vi": "Tôi sẽ giúp các người tìm ra tên hacker."
+            }
+        },
+        {
+            "content": "Hacker",
+            "type": "",
+            "example": {
+                "en": "A hacker could forge such proof.",
+                "vi": "Một Hacker có thể giả mạo nó mà."
+            }
+        },
+        {
+            "content": "tin tặc",
+            "type": "",
+            "example": {
+                "en": "A super hacker is trying to take over the city and I'm worried about you.",
+                "vi": "Một siêu tin tặc đang cố gắng kiểm soát thành phố và anh lo cho em."
+            }
+        }
+    ]
+}

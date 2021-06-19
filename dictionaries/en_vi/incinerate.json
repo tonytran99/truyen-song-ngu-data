@@ -1,0 +1,40 @@
+{
+    "word": "incinerate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsinəˌrāt/",
+            "/ɪnˈsɪnəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɪnəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiêu",
+            "type": "",
+            "example": {
+                "en": "Gets jumped in a prison riot and incinerates half the yard.",
+                "vi": "Hắn gây náo loạn trong tù và thiêu cháy một nửa sân sinh hoạt chung."
+            }
+        },
+        {
+            "content": "hoả táng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đốt ra tro",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

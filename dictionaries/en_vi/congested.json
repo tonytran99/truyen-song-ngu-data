@@ -1,0 +1,40 @@
+{
+    "word": "congested",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈjestəd/",
+            "/kənˈdʒɛstəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʒɛstɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chật ních",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đông nghịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sung huyết",
+            "type": "",
+            "example": {
+                "en": "He was diagnosed three years ago with terminal congestive heart failure.",
+                "vi": "Ông ấy đã được chẩn đoán từ ba năm trước, chứng sung huyết suy tim giai đoạn cuối."
+            }
+        }
+    ]
+}

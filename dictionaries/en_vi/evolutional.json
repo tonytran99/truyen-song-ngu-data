@@ -1,0 +1,61 @@
+{
+    "word": "evolutional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌevəˈlo͞oSH(ə)nəl/",
+            "/ˌɛvəˈluʃ(ə)nəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛvəˈluːʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát triển",
+            "type": "verb noun",
+            "example": {
+                "en": "So this is the evolution of the liquid metal battery.",
+                "vi": "Vì thế, đây là bước phát triển của bình ắc quy thủy tinh kim loại."
+            }
+        },
+        {
+            "content": "sự tiến hoá",
+            "type": "",
+            "example": {
+                "en": "I think the evolution of insect flight is perhaps",
+                "vi": "tôi cho rằng sự tiến hoá của loài côn trùng bay có lẽ là"
+            }
+        },
+        {
+            "content": "sự tiến triển",
+            "type": "",
+            "example": {
+                "en": "And that's the evolution of the system.",
+                "vi": "Đây là sự tiến triển về hệ thống."
+            }
+        },
+        {
+            "content": "tiến hoá",
+            "type": "verb",
+            "example": {
+                "en": "Do you believe in evolution?",
+                "vi": "Bạn có tin vào thuyết tiến hoá không?"
+            }
+        },
+        {
+            "content": "tiến hóa",
+            "type": "verb",
+            "example": {
+                "en": "You see, technology is a way to evolve the evolution.",
+                "vi": "Các bạn thấy, công nghệ là một cách để tiến hóa sự tiến hóa."
+            }
+        }
+    ]
+}

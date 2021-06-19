@@ -1,0 +1,37 @@
+{
+    "word": "hallucination",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˌlo͞osəˈnāSH(ə)n/",
+            "/həˌlusəˈneɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˌluːsɪˈneɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ảo giác",
+            "type": "",
+            "example": {
+                "en": "Now the hallucinator is going to tell the hallucinatee what happened.",
+                "vi": "Người ảo giác lại đòi kể cho người trong ảo giác chuyện gì đã xảy ra."
+            }
+        },
+        {
+            "content": "Ảo giác",
+            "type": "",
+            "example": {
+                "en": "What part of hallucinating an alien abduction isn't neurological?",
+                "vi": "Ảo giác bị người ngoài hành tinh bắt cóc mà không phải là vấn đề thần kinh?"
+            }
+        }
+    ]
+}

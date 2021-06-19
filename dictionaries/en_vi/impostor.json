@@ -1,0 +1,37 @@
+{
+    "word": "impostor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpästər/",
+            "/ɪmˈpɑstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpɒstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ mạo danh",
+            "type": "",
+            "example": {
+                "en": "The rescue of an impostor, the exposure of three spies.",
+                "vi": "Cuộc giải cứu một kẻ mạo danh, việc vạch mặt ba điệp viên."
+            }
+        },
+        {
+            "content": "kẻ lừa đảo",
+            "type": "",
+            "example": {
+                "en": "Worse yet, to contact an impostor could be dangerous.",
+                "vi": "Tệ hơn nữa, liên lạc nhầm với kẻ lừa đảo thì vô cùng nguy hiểm."
+            }
+        }
+    ]
+}

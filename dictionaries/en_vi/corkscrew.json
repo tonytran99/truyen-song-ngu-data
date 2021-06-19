@@ -1,0 +1,49 @@
+{
+    "word": "corkscrew",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrkˌskro͞o/",
+            "/ˈkɔrkˌskru/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːkskruː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tóc xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái mở nút chai",
+            "type": "noun",
+            "example": {
+                "en": "Hey, I got us wine, but I can't find a corkscrew anywhere.",
+                "vi": "Chào, tôi đã mua chai rượu nhưng tìm mãi không thấy cái mở nút chai đâu cả."
+            }
+        },
+        {
+            "content": "làm xoắn ốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoắn lại",
+            "type": "",
+            "example": {
+                "en": "As in I'd rather not see my mom twisted into a corkscrew.",
+                "vi": "Cũng như tôi không muốn thấy mẹ mình bị xoắn lại giống như một cái mở nút chai. ( hình xoắn ốc )"
+            }
+        }
+    ]
+}

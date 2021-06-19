@@ -1,0 +1,42 @@
+{
+    "word": "antidepressant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)ēdəˈpresnt/",
+            "/ˌæn(t)idəˈprɛsnt/",
+            "/ˌanˌtīdəˈpresnt/",
+            "/ˌænˌtaɪdəˈprɛsnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌantɪdɪˈprɛs(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc chống trầm cảm",
+            "type": "",
+            "example": {
+                "en": "And that is how the first antidepressant was discovered.",
+                "vi": "Từ đây, loại thuốc chống trầm cảm đầu tiên đã ra đời."
+            }
+        },
+        {
+            "content": "thuốc chống suy nhược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thuốc chống trầm cảm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

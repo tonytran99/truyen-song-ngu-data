@@ -1,0 +1,101 @@
+{
+    "word": "tune",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/t(y)o͞on/",
+            "/t(j)un/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tjuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giai điệu",
+            "type": "noun",
+            "example": {
+                "en": "Play us a tune.",
+                "vi": "Chơi một giai điệu cho chúng tôi đi."
+            }
+        },
+        {
+            "content": "điệu",
+            "type": "noun",
+            "example": {
+                "en": "Play us a tune.",
+                "vi": "Chơi một giai điệu cho chúng tôi đi."
+            }
+        },
+        {
+            "content": "âm điệu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điệu hát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làm cho hoà hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho phù hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho ăn giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho ăn khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "so dây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cao hứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hoà âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hứng thú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đúng điệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điệu nhạc",
+            "type": "noun",
+            "example": {
+                "en": "At first, we were humming the tune, and then we quietly sang the words.",
+                "vi": "Thoạt đầu, chúng tôi ngân nga điệu nhạc, sau đó hát lên các lời cách êm dịu."
+            }
+        }
+    ]
+}

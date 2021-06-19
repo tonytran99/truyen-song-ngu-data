@@ -1,0 +1,76 @@
+{
+    "word": "hike",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīk/",
+            "/haɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc hành quân",
+            "type": "",
+            "example": {
+                "en": "It's kind of out past Mars. It's a hike.",
+                "vi": "Nó đại loại đi qua sao Hoả — như một cuộc hành quân."
+            }
+        },
+        {
+            "content": "cuộc đi bộ",
+            "type": "",
+            "example": {
+                "en": "Young women carry Jami Palmer on a hike, 62",
+                "vi": "Các thiếu nữ khiêng Jami Palmer trong cuộc đi bộ việt dã, 62"
+            }
+        },
+        {
+            "content": "hành quân",
+            "type": "",
+            "example": {
+                "en": "It's kind of out past Mars. It's a hike.",
+                "vi": "Nó đại loại đi qua sao Hoả — như một cuộc hành quân."
+            }
+        },
+        {
+            "content": "kéo lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi bộ đường dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi lặn lội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi mạnh mẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi nặng nhọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẩy đi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

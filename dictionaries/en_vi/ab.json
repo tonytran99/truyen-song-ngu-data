@@ -1,0 +1,57 @@
+{
+    "word": "ab",
+    "type": [
+        "noun",
+        "verb",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/äb/",
+            "/ɑb/",
+            "/ˈˌā ˈbē/",
+            "/ˈˌeɪ ˈbi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ab/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "múi",
+            "type": "",
+            "example": {
+                "en": "It's the best way to get abs.",
+                "vi": "Đây là cách tốt nhất để có bụng sáu múi."
+            }
+        },
+        {
+            "content": "cơ bụng",
+            "type": "",
+            "example": {
+                "en": "And you have to buy a one-piece because your abs start disappearing under your giant foopa.",
+                "vi": "Và rồi cậu phải mua áo tắm liền Vì cơ bụng của cậu bắt đầu biến mất Bên dưới thì thật tồi tệ."
+            }
+        },
+        {
+            "content": "múi cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cử nhân văn chương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủy thủ hạng nhất",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

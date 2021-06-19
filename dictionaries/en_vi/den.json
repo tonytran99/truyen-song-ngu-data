@@ -1,0 +1,64 @@
+{
+    "word": "den",
+    "type": [
+        "verb",
+        "noun",
+        "adverb",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/den/",
+            "/dɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hang",
+            "type": "noun",
+            "example": {
+                "en": "Once the snow here is deep enough, she will dig down to make a den.",
+                "vi": "Một khi tuyết ở đây đã đủ dày, nó sẽ đào hang."
+            }
+        },
+        {
+            "content": "hang ổ",
+            "type": "",
+            "example": {
+                "en": "It seems that I've strayed into a den of thieves.",
+                "vi": "Làm như là tôi vừa đi lạc vô một hang ổ trộm cướp."
+            }
+        },
+        {
+            "content": "sào huyệt",
+            "type": "noun",
+            "example": {
+                "en": "He must see it as his den or his lair.",
+                "vi": "Hắn chắc phải coi nó như sào huyệt hay hang ổ của hắn."
+            }
+        },
+        {
+            "content": "huyệt",
+            "type": "noun",
+            "example": {
+                "en": "He must see it as his den or his lair.",
+                "vi": "Hắn chắc phải coi nó như sào huyệt hay hang ổ của hắn."
+            }
+        },
+        {
+            "content": "phòng làm việc",
+            "type": "",
+            "example": {
+                "en": "One bedroom and a den.",
+                "vi": "Một phòng ngủ và một phòng làm việc."
+            }
+        }
+    ]
+}

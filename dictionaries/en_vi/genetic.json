@@ -1,0 +1,55 @@
+{
+    "word": "genetic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəˈnedik/",
+            "/dʒəˈnɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒəˈnɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "di truyền",
+            "type": "",
+            "example": {
+                "en": "You'll be interested to know that I've ordered some genetic tests.",
+                "vi": "Anh sẽ muốn biết khi tôi yêu cầu kiểm tra di truyền đấy."
+            }
+        },
+        {
+            "content": "di truyền học",
+            "type": "noun",
+            "example": {
+                "en": "Trying to start an artificial genetic system running in the computer.",
+                "vi": "Cố gắng bắt đầu một hệ thống di truyền học nhân tạo chạy trong máy tính."
+            }
+        },
+        {
+            "content": "nguồn gốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phát sinh",
+            "type": "",
+            "example": {
+                "en": "And he said, \"This genetic resource,\" —",
+                "vi": "Anh nói, \"Nguồn phát sinh này,\""
+            }
+        },
+        {
+            "content": "thuộc di truyền học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

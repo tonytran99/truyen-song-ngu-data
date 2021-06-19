@@ -1,0 +1,44 @@
+{
+    "word": "firearm",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌärm/",
+            "/ˈfaɪ(ə)rˌɑrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪərɑːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoả khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vũ khí nóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "súng",
+            "type": "noun",
+            "example": {
+                "en": "Well, if anyone could shoot theirselves in the face with an unloaded firearm, it's you.",
+                "vi": "Hẳn là chỉ có anh mới có thể tự bắn mình với khẩu súng chưa nạp đạn thôi."
+            }
+        },
+        {
+            "content": "súng cầm tay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

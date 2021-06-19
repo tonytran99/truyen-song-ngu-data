@@ -1,0 +1,54 @@
+{
+    "word": "bandage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbandij/",
+            "/ˈbændɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbandɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băng",
+            "type": "noun",
+            "example": {
+                "en": "Tom put a bandage on Mary's arm.",
+                "vi": "Tom đặt dải băng lên cánh tay của Mary."
+            }
+        },
+        {
+            "content": "băng bó",
+            "type": "",
+            "example": {
+                "en": "Duncan’s finger after he repeatedly applies ointment and bandages.",
+                "vi": "Duncan sau khi ông liên tiếp bôi thuốc mỡ và băng bó lại."
+            }
+        },
+        {
+            "content": "băng gạc",
+            "type": "",
+            "example": {
+                "en": "It's just medicine and bandages and supplies for people in need.",
+                "vi": "Chỉ là thuốc, băng gạc và vật tư cho người dân có nhu cầu."
+            }
+        },
+        {
+            "content": "Băng vết thương",
+            "type": "",
+            "example": {
+                "en": "You gonna let me change that bandage when we get to the top?",
+                "vi": "Tôi sẽ thay băng vết thương cho cậu khi chúng ta lên tới trên đó."
+            }
+        }
+    ]
+}

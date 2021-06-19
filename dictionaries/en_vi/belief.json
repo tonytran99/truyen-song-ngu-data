@@ -1,0 +1,74 @@
+{
+    "word": "belief",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈlēf/",
+            "/bəˈlif/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈliːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lòng tin",
+            "type": "noun",
+            "example": {
+                "en": "But all that belief had fueled me so long.",
+                "vi": "Nhưng lòng tin đã nâng đỡ tôi suốt thời gian đó."
+            }
+        },
+        {
+            "content": "sự tin tưởng",
+            "type": "noun",
+            "example": {
+                "en": "But does such a belief bring them happiness?",
+                "vi": "Nhưng sự tin tưởng như vậy có mang lại hạnh phúc cho họ hay không?"
+            }
+        },
+        {
+            "content": "niềm tin",
+            "type": "noun",
+            "example": {
+                "en": "They also have ‘You can be serious without a suit’ as one of their key beliefs.",
+                "vi": "Họ cũng có câu \"Bạn có thể đứng đắn mà không cần com-lê\" như một chìa khóa cho niềm tin của họ."
+            }
+        },
+        {
+            "content": "tin tưởng",
+            "type": "verb",
+            "example": {
+                "en": "Thank you for your service, your mind, and your belief in me.",
+                "vi": "Cám ơn vì sự cống hiến, toàn tâm tin tưởng vào ta."
+            }
+        },
+        {
+            "content": "tín lý",
+            "type": "danh từ",
+            "example": {}
+        },
+        {
+            "content": "đức tin",
+            "type": "noun",
+            "example": {
+                "en": "If you have a belief transplant, would you be the same person?",
+                "vi": "Nếu được cấy ghép đức tin, bạn có còn là mình?"
+            }
+        },
+        {
+            "content": "tín ngưỡng",
+            "type": "noun",
+            "example": {
+                "en": "Without freedom of belief, you don't have the right to join organizations.",
+                "vi": "Không có quyền tự do tín ngưỡng, không thể có quyền gia nhập các tổ chức."
+            }
+        }
+    ]
+}

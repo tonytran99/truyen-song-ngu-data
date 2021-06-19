@@ -1,0 +1,52 @@
+{
+    "word": "invoke",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvōk/",
+            "/ɪnˈvoʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvəʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cầu khẩn",
+            "type": "",
+            "example": {
+                "en": "There the ancestors are invoked, and a drink offering is poured out to them.",
+                "vi": "Tại đó họ cầu khẩn tổ tiên, và dâng rượu cho ông bà."
+            }
+        },
+        {
+            "content": "gọi",
+            "type": "verb",
+            "example": {
+                "en": "Manually Invoke Action on Current Clipboard",
+                "vi": "Tự gọi hành động trên bảng tạm hiện có"
+            }
+        },
+        {
+            "content": "biện",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gọi cho hiện lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viện dẫn chứng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

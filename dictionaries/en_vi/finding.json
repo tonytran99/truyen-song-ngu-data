@@ -1,0 +1,95 @@
+{
+    "word": "finding",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīndiNG/",
+            "/ˈfaɪndɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪndɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự khám phá",
+            "type": "",
+            "example": {
+                "en": "to find all these discoveries, what about for everybody else?",
+                "vi": "để tìm thấy mọi sự khám phá này, những người còn lại sẽ nghĩ thế nào?"
+            }
+        },
+        {
+            "content": "sự phát hiện",
+            "type": "",
+            "example": {
+                "en": "What did you actually find out about Max?",
+                "vi": "Anh đã thực sự phát hiện điều gì về Max?"
+            }
+        },
+        {
+            "content": "sự phát minh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tuyên án",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tìm ra",
+            "type": "",
+            "example": {
+                "en": "So you didn't actually find it on campus.",
+                "vi": "Vậy em không thực sự tìm ra nó ở trường."
+            }
+        },
+        {
+            "content": "tài liệu phát hiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm kiếm",
+            "type": "",
+            "example": {
+                "en": "We should be eager to go out and find them when they stray.",
+                "vi": "Chúng ta phải thiết tha đi ra và tìm kiếm họ khi họ đi lạc đường."
+            }
+        },
+        {
+            "content": "vật bắt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật tìm thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều khám phá",
+            "type": "",
+            "example": {
+                "en": "The study presented these findings, among others:",
+                "vi": "Cuộc nghiên cứu đã đưa ra những điều khám phá này trong số nhiều điều khám phá khác:"
+            }
+        },
+        {
+            "content": "dấu hiệu",
+            "type": "noun",
+            "example": {
+                "en": "I can't find signs of degenerative or metabolic disorders.",
+                "vi": "Tôi cũng không thấy có dấu hiệu rối loạn chức năng nào."
+            }
+        }
+    ]
+}

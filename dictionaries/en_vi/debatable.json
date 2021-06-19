@@ -1,0 +1,44 @@
+{
+    "word": "debatable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈbādəb(ə)l/",
+            "/dəˈbeɪdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈbeɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể bàn cãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể thảo luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể tranh luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây tranh cãi",
+            "type": "",
+            "example": {
+                "en": "Now, this is of course a topic of philosophical debate for centuries.",
+                "vi": "Dĩ nhiên, đây là chủ đề triết học gây tranh cãi trong nhiều thế kỷ"
+            }
+        }
+    ]
+}

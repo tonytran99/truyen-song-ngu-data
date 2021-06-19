@@ -1,0 +1,42 @@
+{
+    "word": "canister",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanəstər/",
+            "/ˈkænəstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanɪstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hộp nhỏ",
+            "type": "",
+            "example": {
+                "en": "Put it in a canister and shove it up the tube with the same number.",
+                "vi": "Đặt nó trong một cái hộp nhỏ rồi nhét nó vào cái ống có cùng số."
+            }
+        },
+        {
+            "content": "hộp",
+            "type": "noun",
+            "example": {
+                "en": "The canister should be lit by artificial light.",
+                "vi": "Cái hộp này được chiếu ánh sáng đèn điện."
+            }
+        },
+        {
+            "content": "hộp đựng bánh thánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

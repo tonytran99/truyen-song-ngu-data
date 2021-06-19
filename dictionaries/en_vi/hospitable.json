@@ -1,0 +1,40 @@
+{
+    "word": "hospitable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/häˈspidəb(ə)l/",
+            "/hɑˈspɪdəb(ə)l/",
+            "/ˈhäspidəb(ə)l/",
+            "/ˈhɑspɪdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɒˈspɪtəb(ə)l/",
+            "/ˈhɒspɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mến khách",
+            "type": "adjective",
+            "example": {
+                "en": "I'd like to thank you for your hospitality, ma'am.",
+                "vi": "Tôi xin cảm ơn bà vì lòng mến khách."
+            }
+        },
+        {
+            "content": "hiếu khách",
+            "type": "adjective",
+            "example": {
+                "en": "The locals are very hospitable.",
+                "vi": "Dân địa phương rất hiếu khách."
+            }
+        }
+    ]
+}

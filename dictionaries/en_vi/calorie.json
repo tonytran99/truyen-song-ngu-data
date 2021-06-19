@@ -1,0 +1,50 @@
+{
+    "word": "calorie",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkal(ə)rē/",
+            "/ˈkæl(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "calo",
+            "type": "noun",
+            "example": {
+                "en": "But insulin accelerates the conversion of calories into fat.",
+                "vi": "Nhưng insulin đẩy nhanh việc chuyển hóa calo thành chất béo."
+            }
+        },
+        {
+            "content": "nhiệt lượng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Ca-lo",
+            "type": "",
+            "example": {
+                "en": "It takes about 10 calories to produce every calorie",
+                "vi": "Cần khoảng 10 ca-lo để sản sinh ra một ca-lo"
+            }
+        },
+        {
+            "content": "ca-lo",
+            "type": "noun",
+            "example": {
+                "en": "About 100 grams of jellyfish equals four calories.",
+                "vi": "Khoảng 100 gam sứa tương đương 4 ca-lo."
+            }
+        }
+    ]
+}

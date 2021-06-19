@@ -1,0 +1,46 @@
+{
+    "word": "inspiring",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈspī(ə)riNG/",
+            "/ɪnˈspaɪ(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈspʌɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây cảm hứng",
+            "type": "",
+            "example": {
+                "en": "It was mutual inspiration I had in mind.",
+                "vi": "Anh nghĩ mình có thể gây cảm hứng cho nhau."
+            }
+        },
+        {
+            "content": "truyền cảm",
+            "type": "",
+            "example": {
+                "en": "So the Huli inspired me in that they belong.",
+                "vi": "Vì vậy người Huli đã truyền cảm hứng cho tôi vì nơi họ thuộc về."
+            }
+        },
+        {
+            "content": "truyền cảm hứng",
+            "type": "",
+            "example": {
+                "en": "So the Huli inspired me in that they belong.",
+                "vi": "Vì vậy người Huli đã truyền cảm hứng cho tôi vì nơi họ thuộc về."
+            }
+        }
+    ]
+}

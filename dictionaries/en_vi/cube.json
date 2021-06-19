@@ -1,0 +1,105 @@
+{
+    "word": "cube",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kyo͞ob/",
+            "/kjub/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kjuːb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình lập phương",
+            "type": "noun",
+            "example": {
+                "en": "Can you see the four ways of seeing the cube?",
+                "vi": "Các bạn có thể thấy bốn cách để thấy hình lập phương không?"
+            }
+        },
+        {
+            "content": "hình khối",
+            "type": "noun",
+            "example": {
+                "en": "In this example, we all see a cube,",
+                "vi": "Trong ví dụ này, ta thấy một hình khối,"
+            }
+        },
+        {
+            "content": "lập phương",
+            "type": "adjective noun",
+            "example": {
+                "en": "But now, notice there are two ways of seeing the cube, right?",
+                "vi": "Nhưng có hai cách nhìn cái hộp lập phương đó phải không?"
+            }
+        },
+        {
+            "content": "thái hạt lựu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "luỹ thừa ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lên tam thừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lũy thừa bậc ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nâng lên bậc ba",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thái thành hình khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đo thể tích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cube",
+            "type": "",
+            "example": {
+                "en": "Only the functions 'sqr ' and 'cube ' are defined in the quaternion algebra",
+                "vi": "Chỉ hai hàm « sqr » và « cube » được xác định trong đại số quaternion"
+            }
+        },
+        {
+            "content": "Khối lập phương",
+            "type": "",
+            "example": {
+                "en": "Interference with a crime scene carries an automatic five year sentence in the iso-cubes.",
+                "vi": "Gây cản trở tại hiện trường sẽ tự động nhận án phạt 5 năm trong Khối lập phương."
+            }
+        },
+        {
+            "content": "khối lập phương",
+            "type": "",
+            "example": {
+                "en": "When you see the cube one way, behind the screen,",
+                "vi": "Khi các bạn nhìn khối lập phương theo một chiều, đằng sau màn hình,"
+            }
+        }
+    ]
+}

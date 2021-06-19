@@ -1,0 +1,52 @@
+{
+    "word": "citizen",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsidizən/",
+            "/ˈsɪdɪzən/",
+            "/ˈsidisən/",
+            "/ˈsɪdɪsən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪtɪz(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công dân",
+            "type": "noun",
+            "example": {
+                "en": "And so each citizen plays an indispensable role.",
+                "vi": "Và như vậy mọi công dân đều có vai trò không thể thiếu được."
+            }
+        },
+        {
+            "content": "dân",
+            "type": "noun",
+            "example": {
+                "en": "And so each citizen plays an indispensable role.",
+                "vi": "Và như vậy mọi công dân đều có vai trò không thể thiếu được."
+            }
+        },
+        {
+            "content": "dân thành phố",
+            "type": "",
+            "example": {
+                "en": "An action he and the citizens of this city dearly regret.",
+                "vi": "Một hành động khiên ông và cả cư dân thành phố này đều phải hối tiếc."
+            }
+        },
+        {
+            "content": "người dân thành thị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

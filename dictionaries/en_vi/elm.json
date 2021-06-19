@@ -1,0 +1,39 @@
+{
+    "word": "elm",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/elm/",
+            "/ɛlm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛlm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây đu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây du",
+            "type": "",
+            "example": {
+                "en": "Maple, elm, beech, poplar.",
+                "vi": "Cây phong, cây du, sồi, rồi bạch dương."
+            }
+        },
+        {
+            "content": "du",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

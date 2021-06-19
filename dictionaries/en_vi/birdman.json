@@ -1,0 +1,39 @@
+{
+    "word": "birdman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərdman/",
+            "/ˈbərdmæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːdman/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người lái máy bay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nuôi chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phi công",
+            "type": "",
+            "example": {
+                "en": "My son, the birdman.",
+                "vi": "Chàng phi công trẻ, con trai tôi."
+            }
+        }
+    ]
+}

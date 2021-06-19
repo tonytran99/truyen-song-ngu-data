@@ -1,0 +1,51 @@
+{
+    "word": "antic",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈan(t)ik/",
+            "/ˈæn(t)ɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh hề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hay khôi hài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò cười",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò hề",
+            "type": "",
+            "example": {
+                "en": "And your antics earned you a life sentence.",
+                "vi": "Còn trò hề của anh khiến anh bị tù chung thân."
+            }
+        },
+        {
+            "content": "trò khỉ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

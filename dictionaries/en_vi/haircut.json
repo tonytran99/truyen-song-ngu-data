@@ -1,0 +1,45 @@
+{
+    "word": "haircut",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈherˌkət/",
+            "/ˈhɛrˌkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛːkʌt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt tóc",
+            "type": "verb noun",
+            "example": {
+                "en": "I'm just here to give him a haircut.",
+                "vi": "Tôi đến đây chỉ để cắt tóc cho ảnh thôi mà."
+            }
+        },
+        {
+            "content": "hớt tóc",
+            "type": "verb noun",
+            "example": {
+                "en": "If you are a boy, I'm going to give you a haircut.",
+                "vi": "Nếu cậu là con trai, tôi sẽ hớt tóc cậu."
+            }
+        },
+        {
+            "content": "kiểu tóc",
+            "type": "noun",
+            "example": {
+                "en": "Not my haircut in this case, but my beard cut.",
+                "vi": "Trong trường hợp này, không phải là kiểu tóc mà là kiểu râu của tôi."
+            }
+        }
+    ]
+}

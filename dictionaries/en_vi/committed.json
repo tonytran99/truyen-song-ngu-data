@@ -1,0 +1,38 @@
+{
+    "word": "committed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmidəd/",
+            "/kəˈmɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tận tụy",
+            "type": "",
+            "example": {
+                "en": "At that time my ward had a wonderful, devoted, committed bishop.",
+                "vi": "Vào lúc đó, chúng tôi có một vị giám trợ tuyệt vời, tận tụy, đầy cam kết."
+            }
+        },
+        {
+            "content": "tận tâm",
+            "type": "",
+            "example": {
+                "en": "We were young and committed and there was nothing we could not do.",
+                "vi": "Chúng tôi đã trẻ trung, tận tâm, và chẳng có gì chúng tôi không thể làm."
+            }
+        }
+    ]
+}

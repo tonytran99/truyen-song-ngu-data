@@ -1,0 +1,46 @@
+{
+    "word": "crater",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrādər/",
+            "/ˈkreɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkreɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hố bom",
+            "type": "",
+            "example": {
+                "en": "You know what this crater reminds me of?",
+                "vi": "Cái hố bom này làm cháu nhớ gì không?"
+            }
+        },
+        {
+            "content": "miệng núi lửa",
+            "type": "",
+            "example": {
+                "en": "Approaching the crater, conditions do not look good.",
+                "vi": "Tiến gần đến miệng núi lửa, điều kiện có vẻ không tốt lắm."
+            }
+        },
+        {
+            "content": "hố",
+            "type": "",
+            "example": {
+                "en": "He kicked us out of the crater, then covered it all up.",
+                "vi": "Hắn đá chúng ta ra khỏi hố lửa rồi cho lấp lại toàn bộ."
+            }
+        }
+    ]
+}

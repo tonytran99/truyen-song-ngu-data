@@ -1,0 +1,73 @@
+{
+    "word": "hive",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīv/",
+            "/haɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tổ ong",
+            "type": "",
+            "example": {
+                "en": "You could even get your own hive if you want.",
+                "vi": "Bạn có thể có tổ ong của mình nếu muốn."
+            }
+        },
+        {
+            "content": "trữ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bầy đàn lúc nhúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vào tổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình tổ ong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đám đông",
+            "type": "",
+            "example": {
+                "en": "Engineering will be the central point from which they control the hive.",
+                "vi": "Việc đầu tiên chúng làm tại phòng máy là thiết lập một điểm trung tâm, để từ đó chúng có thể kiểm soát đám đông."
+            }
+        },
+        {
+            "content": "đõ ong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn ong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

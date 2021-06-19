@@ -1,0 +1,63 @@
+{
+    "word": "jargon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjärɡən/",
+            "/ˈdʒɑrɡən/",
+            "/ˈjärɡän/",
+            "/ˈdʒɑrɡɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɑːɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biệt ngữ",
+            "type": "noun",
+            "example": {
+                "en": "and we use metaphors and slang and jargon",
+                "vi": "Ta sử dụng bao phép ẩn dụ, tiếng lóng, biệt ngữ"
+            }
+        },
+        {
+            "content": "thuật ngữ",
+            "type": "noun",
+            "example": {
+                "en": "And when you're describing your science, beware of jargon.",
+                "vi": "Khi mô tả khoa học, hãy cẩn thận khi dùng thuật ngữ."
+            }
+        },
+        {
+            "content": "tiếng hót líu lo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng nói khó hiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng lóng",
+            "type": "",
+            "example": {
+                "en": "and we use metaphors and slang and jargon",
+                "vi": "Ta sử dụng bao phép ẩn dụ, tiếng lóng, biệt ngữ"
+            }
+        },
+        {
+            "content": "ẩn ngữ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

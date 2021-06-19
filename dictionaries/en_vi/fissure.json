@@ -1,0 +1,71 @@
+{
+    "word": "fissure",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiSHər/",
+            "/ˈfɪʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỗ nứt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vết nứt",
+            "type": "noun",
+            "example": {
+                "en": "Through the fissures, I was able to reach out.",
+                "vi": "Thông qua những vết nứt, ta đã có thể tiếp cận được."
+            }
+        },
+        {
+            "content": "chỗ gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ nẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ nứt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nứt nẻ",
+            "type": "",
+            "example": {
+                "en": "Beetles bore away under the thick, fissured bark.",
+                "vi": "Bọ cánh cứng đục vỏ cây dày nứt nẻ."
+            }
+        },
+        {
+            "content": "nứt rạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {
+                "en": "The amount of energy from the fissure should do the trick.",
+                "vi": "Năng lượng từ việc tách ra có thể làm được chuyện đó."
+            }
+        }
+    ]
+}

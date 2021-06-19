@@ -1,0 +1,94 @@
+{
+    "word": "weird",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wird/",
+            "/wɪrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỳ quái",
+            "type": "adjective",
+            "example": {
+                "en": "You've got a healthy body, but your pulse is weird",
+                "vi": "Cô có cơ thể khỏe mạnh, Nhưng mạch cô đập kỳ quái lắm"
+            }
+        },
+        {
+            "content": "kỳ dị",
+            "type": "",
+            "example": {
+                "en": "It's a very weird thing to write about.",
+                "vi": "Thật là một điều rất kỳ dị để viết."
+            }
+        },
+        {
+            "content": "số mệnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lạ",
+            "type": "",
+            "example": {
+                "en": "You have been acting weird, where did you go last night?",
+                "vi": "Mày trông lạ lắm, đi đâu tối qua?"
+            }
+        },
+        {
+            "content": "khó hiểu",
+            "type": "",
+            "example": {
+                "en": "Tell me why you've acted so weird since you got here",
+                "vi": "Nói xem sao con lại hành động vậy khó hiểu khi con còn đây"
+            }
+        },
+        {
+            "content": "kỳ quặc",
+            "type": "",
+            "example": {
+                "en": "It was weird and totally horrible of him.",
+                "vi": "Anh ấy rất kỳ quặc và kinh khủng."
+            }
+        },
+        {
+            "content": "phi thường",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "siêu tự nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số phận",
+            "type": "noun",
+            "example": {
+                "en": "Okay, this is just too weird.",
+                "vi": "Thôi nào, đó chỉ là số phận thôi."
+            }
+        },
+        {
+            "content": "kỳ lạ",
+            "type": "",
+            "example": {
+                "en": "These weird cuts and bruises all over me.",
+                "vi": "Người tôi đầy vết cắt và các vết bầm kỳ lạ."
+            }
+        }
+    ]
+}

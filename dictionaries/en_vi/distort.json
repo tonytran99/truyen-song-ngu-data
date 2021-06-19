@@ -1,0 +1,77 @@
+{
+    "word": "distort",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstôrt/",
+            "/dəˈstɔrt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bóp méo",
+            "type": "verb",
+            "example": {
+                "en": "And it is not subject to the distortions that often mark oral retelling.",
+                "vi": "Và nó không bị bóp méo như thường thấy trong sự truyền miệng."
+            }
+        },
+        {
+            "content": "xuyên tạc",
+            "type": "verb",
+            "example": {
+                "en": "They often resort to distortions, half-truths, and outright falsehoods.",
+                "vi": "Họ thường dùng thủ đoạn xuyên tạc, lời nửa sự thật, và sự dối trá trắng trợn."
+            }
+        },
+        {
+            "content": "làm méo mó",
+            "type": "",
+            "example": {
+                "en": "Our society has distorted who we are.",
+                "vi": "Xã hội này đã làm méo mó con người chúng ta."
+            }
+        },
+        {
+            "content": "vặn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm biến dạng",
+            "type": "",
+            "example": {
+                "en": "We've actually distorted the map by the exercise.",
+                "vi": "Chúng tôi làm biến dạng bản đồ này bằng cách tác động"
+            }
+        },
+        {
+            "content": "làm méo",
+            "type": "",
+            "example": {
+                "en": "Our society has distorted who we are.",
+                "vi": "Xã hội này đã làm méo mó con người chúng ta."
+            }
+        },
+        {
+            "content": "vặn vẹo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

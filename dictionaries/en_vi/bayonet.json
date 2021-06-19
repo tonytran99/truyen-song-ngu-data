@@ -1,0 +1,50 @@
+{
+    "word": "bayonet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbāənət/",
+            "/ˈbeɪənət/",
+            "/ˌbāəˈnet/",
+            "/ˌbeɪəˈnɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbeɪənɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưỡi lê",
+            "type": "noun",
+            "example": {
+                "en": "Admiral Nepenin was stabbed to death with a bayonet.",
+                "vi": "Tướng Nepenin bị chúng dùng lưỡi lê đâm chết."
+            }
+        },
+        {
+            "content": "đoản kiếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đâm bằng lưỡi lê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Lưỡi lê",
+            "type": "",
+            "example": {
+                "en": "Admiral Nepenin was stabbed to death with a bayonet.",
+                "vi": "Tướng Nepenin bị chúng dùng lưỡi lê đâm chết."
+            }
+        }
+    ]
+}

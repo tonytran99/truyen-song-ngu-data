@@ -1,0 +1,30 @@
+{
+    "word": "electroshock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektrōˌSHäk/",
+            "/əˈlɛktroʊˌʃɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktrə(ʊ)ʃɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sốc điện",
+            "type": "",
+            "example": {
+                "en": "It's either that or electroshock every six hours.",
+                "vi": "Hoặc là thế hoặc là chịu sốc điện 6 tiếng một lần."
+            }
+        }
+    ]
+}

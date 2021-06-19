@@ -1,0 +1,50 @@
+{
+    "word": "combustion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈbəsCH(ə)n/",
+            "/kəmˈbəstʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈbʌstʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cháy",
+            "type": "noun",
+            "example": {
+                "en": "And my advice to you is to stop worrying before you spontaneously combust.",
+                "vi": "Và lời khuyên của tôi là đừng lo lắng nữa. Trước khi cậu tự thiêu cháy chính mình."
+            }
+        },
+        {
+            "content": "sự cháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất đốt",
+            "type": "",
+            "example": {
+                "en": "This area's filled with combustibles.",
+                "vi": "Khu vực này đầy chất đốt."
+            }
+        },
+        {
+            "content": "sự đốt cháy",
+            "type": "",
+            "example": {
+                "en": "It's not good stuff, and it's from inefficient combustion,",
+                "vi": "Nó không phải là thứ tốt đẹp, và nó sinh ra từ sự đốt cháy không hiệu quả,"
+            }
+        }
+    ]
+}

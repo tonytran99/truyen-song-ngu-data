@@ -1,0 +1,51 @@
+{
+    "word": "headlong",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌlôNG/",
+            "/ˈhɛdˌlɔŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdlɒŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp tấp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "liều lĩnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu suy nghĩ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đâm đầu vào",
+            "type": "adjective",
+            "example": {
+                "en": "The vessel just moves headlong into the deadly tempest, unstoppable.",
+                "vi": "Con tàu đó không thể dừng lại được và cứ tiếp tục đâm đầu vào cơn bão tố hiểm nghèo."
+            }
+        },
+        {
+            "content": "đâm đầu xuống",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "inflict",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈflikt/",
+            "/ɪnˈflɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈflɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt phải chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giáng",
+            "type": "verb noun",
+            "example": {
+                "en": "The people had not learned from the discipline inflicted through Assyria.",
+                "vi": "Dân tộc này không học được gì từ sự trừng phạt giáng trên họ qua A-si-ri."
+            }
+        },
+        {
+            "content": "nện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuế",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gây ra",
+            "type": "",
+            "example": {
+                "en": "The most direct and fatal blow was inflicted by Tim.",
+                "vi": "Người trực tiếp gây ra cái chết... đó là Tim."
+            }
+        }
+    ]
+}

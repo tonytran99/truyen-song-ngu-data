@@ -1,0 +1,48 @@
+{
+    "word": "grammar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡramər/",
+            "/ˈɡræmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡramə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngữ pháp",
+            "type": "noun",
+            "example": {
+                "en": "They had neither a dictionary nor a grammar book.",
+                "vi": "Họ không có tự điển cũng không có sách ngữ pháp."
+            }
+        },
+        {
+            "content": "語法",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cơ sở khoa học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách ngữ pháp",
+            "type": "",
+            "example": {
+                "en": "They had neither a dictionary nor a grammar book.",
+                "vi": "Họ không có tự điển cũng không có sách ngữ pháp."
+            }
+        }
+    ]
+}

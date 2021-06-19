@@ -1,0 +1,28 @@
+{
+    "word": "dialer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdī(ə)lər/",
+            "/ˈdaɪ(ə)lər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ quay số",
+            "type": "",
+            "example": {
+                "en": "A dialer and front-end to pppd",
+                "vi": "Giao diện và bộ quay số cho pppd"
+            }
+        },
+        {
+            "content": "trình quay số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

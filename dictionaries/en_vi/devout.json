@@ -1,0 +1,69 @@
+{
+    "word": "devout",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvout/",
+            "/dəˈvaʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvaʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mộ đạo",
+            "type": "noun",
+            "example": {
+                "en": "She and other devout women were meeting by a river when Paul spoke to them.",
+                "vi": "Bà và những phụ nữ mộ đạo đang họp mặt bên bờ sông thì Phao-lô giảng cho họ."
+            }
+        },
+        {
+            "content": "sùng đạo",
+            "type": "adjective, noun",
+            "example": {
+                "en": "My mother was a devout Catholic and wanted me to be a nun.",
+                "vi": "Mẹ tôi là tín đồ Công giáo sùng đạo và muốn tôi trở thành nữ tu."
+            }
+        },
+        {
+            "content": "chân thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngoan đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiệt tình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sốt sắng",
+            "type": "",
+            "example": {
+                "en": "Two of them were with older people who were devout members of their churches.",
+                "vi": "Hai người cao niên trong số các học viên là tín đồ sốt sắng trong giáo hội của họ."
+            }
+        },
+        {
+            "content": "thành kính",
+            "type": "noun",
+            "example": {
+                "en": "+ 2 But devout men carried Stephen away to bury him, and they made a great mourning over him.",
+                "vi": "+ 2 Nhưng những người có lòng thành kính đã mang Ê-tiên đi chôn và khóc thương người rất nhiều."
+            }
+        }
+    ]
+}

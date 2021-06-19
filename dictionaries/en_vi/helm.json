@@ -1,0 +1,109 @@
+{
+    "word": "helm",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/helm/",
+            "/hɛlm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛlm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lái",
+            "type": "noun",
+            "example": {
+                "en": "Go manual override on helm.",
+                "vi": "Điều khiển cưỡng bức khoang lái bằng tay!"
+            }
+        },
+        {
+            "content": "bánh lái",
+            "type": "noun",
+            "example": {
+                "en": "Helm, full right rudder.",
+                "vi": "Helm, cho bánh lái sang phải hết mức"
+            }
+        },
+        {
+            "content": "helmet",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chính phủ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chỉ huy",
+            "type": "",
+            "example": {
+                "en": "Cruz, take the helm!",
+                "vi": "Cruz, nhận quyền chỉ huy!"
+            }
+        },
+        {
+            "content": "dẫn dắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoang bánh lái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lânh đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chỉ huy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lânh đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự điều khiển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tay bánh lái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tay lái",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "điều khiển",
+            "type": "",
+            "example": {
+                "en": "Transfer helm controls to manual.",
+                "vi": "Chuyển sang chế độ điều khiển bằng tay."
+            }
+        },
+        {
+            "content": "tấm lái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

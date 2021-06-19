@@ -1,0 +1,68 @@
+{
+    "word": "gist",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jist/",
+            "/dʒɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lý do chính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mấu chốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cốt yếu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nguyên nhân chính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thể",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thực chất",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ý chính",
+            "type": "",
+            "example": {
+                "en": "In reality, the explanation is a bit more complicated than this, but you get the gist.",
+                "vi": "Trong thực tế, giải thích là một chút phức tạp hơn điều này, nhưng bạn nắm được ý chính."
+            }
+        },
+        {
+            "content": "đại ý",
+            "type": "noun",
+            "example": {
+                "en": "No doubt you have heard some of these expressions or the gist of them.",
+                "vi": "Chắc chắn bạn đã nghe một số những lời này hoặc đại ý của chúng."
+            }
+        }
+    ]
+}

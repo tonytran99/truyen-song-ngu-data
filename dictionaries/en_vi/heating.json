@@ -1,0 +1,70 @@
+{
+    "word": "heating",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhēdiNG/",
+            "/ˈhidɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhiːtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đun nóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đốt nóng",
+            "type": "",
+            "example": {
+                "en": "A lot of heating,",
+                "vi": "Có rất nhiều sự đốt nóng."
+            }
+        },
+        {
+            "content": "sự làm nóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nóng lên",
+            "type": "",
+            "example": {
+                "en": "So some solutions to heat can provide for win-win-wins.",
+                "vi": "Vậy một số giải pháp cho sự nóng lên có thể đem lại rất nhiều hiệu quả cùng một lúc."
+            }
+        },
+        {
+            "content": "đốt nóng",
+            "type": "",
+            "example": {
+                "en": "mechanical air conditioning to cool our solar-heated spaces.",
+                "vi": "điều hòa không khí cơ khí để làm mát những không gian bị mặt trời đốt nóng."
+            }
+        },
+        {
+            "content": "hệ thống sưởi",
+            "type": "",
+            "example": {
+                "en": "Geezy is a heating and air tech, and hicks is on unemployment.",
+                "vi": "Geezy là nhân viên hệ thống sưởi và điều hòa, còn Hicks thất nghiệp."
+            }
+        }
+    ]
+}

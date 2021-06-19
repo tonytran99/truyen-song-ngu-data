@@ -1,0 +1,44 @@
+{
+    "word": "illusionist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈlo͞oZHənəst/",
+            "/ɪˈluʒənəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈluːʒ(ə)nɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hay mơ mộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hay mộng tưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà ảo thuật",
+            "type": "noun",
+            "example": {
+                "en": "I wanted to create environments that moved and morphed like an illusionist.",
+                "vi": "Tôi muốn tạo ra 1 môi trường chuyển động và biến hóa như 1 nhà ảo thuật."
+            }
+        },
+        {
+            "content": "pháp sư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

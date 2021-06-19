@@ -1,0 +1,76 @@
+{
+    "word": "happening",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhap(ə)niNG/",
+            "/ˈhæp(ə)nɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhap(ə)nɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều",
+            "type": "noun",
+            "example": {
+                "en": "I've never had anything like this happen to me before.",
+                "vi": "Tôi chưa từng gặp bất cứ điều gì như thế này trước đây."
+            }
+        },
+        {
+            "content": "biến cố",
+            "type": "noun",
+            "example": {
+                "en": "I've been thinking about your parents, what happened.",
+                "vi": "Tôi cứ nghĩ mãi đến cha mẹ cô, về biến cố."
+            }
+        },
+        {
+            "content": "chuyện xảy ra",
+            "type": "noun",
+            "example": {
+                "en": "I had nothing to do with what happened last night.",
+                "vi": "Tôi không có liên quan gì đến chuyện xảy ra tối qua."
+            }
+        },
+        {
+            "content": "cảnh huống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "diễn biến",
+            "type": "",
+            "example": {
+                "en": "Anyone interested in what happened with the swelling?",
+                "vi": "Có ai thấy hứng thú với diễn biến của vết sưng không?"
+            }
+        },
+        {
+            "content": "sự việc xảy ra",
+            "type": "noun",
+            "example": {
+                "en": "Often when things happen, it’s not by accident.",
+                "vi": "Thông thường khi những sự việc xảy ra, thì không phải là ngẫu nhiên đâu."
+            }
+        },
+        {
+            "content": "sự kiện",
+            "type": "noun",
+            "example": {
+                "en": "But the day after the apology, what happened?",
+                "vi": "Sau sự kiện xin lỗi, điều gì đã xảy ra?"
+            }
+        }
+    ]
+}

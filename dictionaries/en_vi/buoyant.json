@@ -1,0 +1,54 @@
+{
+    "word": "buoyant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈboiənt/",
+            "/ˈbɔɪənt/",
+            "/ˈbo͞oyənt/",
+            "/ˈbujənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɔɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nổi",
+            "type": "verb",
+            "example": {
+                "en": "Salt water is more buoyant than fresh water.",
+                "vi": "Nước biển thì dễ làm vật nổi hơn so với nước ngọt."
+            }
+        },
+        {
+            "content": "nổi trên mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sảng khoái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vui vẻ",
+            "type": "adjective",
+            "example": {
+                "en": "Saints from distant provinces arrived weary but buoyant.",
+                "vi": "Các Thánh Hữu đến từ các tỉnh xa, họ đều mệt mỏi nhưng vui vẻ."
+            }
+        }
+    ]
+}

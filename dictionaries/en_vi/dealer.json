@@ -1,0 +1,73 @@
+{
+    "word": "dealer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēlər/",
+            "/ˈdilər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiːlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người buôn bán",
+            "type": "noun",
+            "example": {
+                "en": "Somebody turned away my coke dealer at the door.",
+                "vi": "Ai đó đã đuổi người buôn bán thuốc của tôi về rồi."
+            }
+        },
+        {
+            "content": "người chia bài",
+            "type": "noun",
+            "example": {
+                "en": "There's one for Tabes, and Chessy, and Martini, and the dealer.",
+                "vi": "Một cho Tabes, cho Chessy, Martini và người chia bài."
+            }
+        },
+        {
+            "content": "cái",
+            "type": "noun",
+            "example": {
+                "en": "That's why I prefer to be the dealer.",
+                "vi": "Thế nên tôi mới thích làm nhà cái."
+            }
+        },
+        {
+            "content": "tay buôn",
+            "type": "noun",
+            "example": {
+                "en": "Are you sure he's not an arms dealer?",
+                "vi": "Anh có chắc hắn không phải là tay buôn lậu chứ?"
+            }
+        },
+        {
+            "content": "lái buôn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người xử sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ăn ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đối xử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

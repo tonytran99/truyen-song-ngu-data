@@ -1,0 +1,37 @@
+{
+    "word": "conjunctional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈjəNG(k)SH(ə)n(ə)l/",
+            "/kənˈdʒəŋ(k)ʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʒʌŋkʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {
+                "en": "You can use a wristwatch in conjunction with the sun.",
+                "vi": "Anh có thể sử dụng đồng hồ kết hợp với ánh mặt trời."
+            }
+        },
+        {
+            "content": "liên kết",
+            "type": "",
+            "example": {
+                "en": "or in conjunction with a cholesterol test.",
+                "vi": "hoặc liên kết với xét nghiệm về cholesterol."
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "underline",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈlīn/",
+            "/ˌəndərˈlaɪn/",
+            "/ˈəndərlīn/",
+            "/ˈəndərlaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈlʌɪn/",
+            "/ˈʌndəlʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gạch dưới",
+            "type": "",
+            "example": {
+                "en": "You may wish to underline phrases that are meaningful to you.",
+                "vi": "Các em có thể muốn gạch dưới các cụm từ có ý nghĩa đối với các em."
+            }
+        },
+        {
+            "content": "nhấn mạnh",
+            "type": "",
+            "example": {
+                "en": "But it underlines the impact of our fisheries,",
+                "vi": "Nhưng chúng nhấn mạnh ảnh hưởng của thủy sản,"
+            }
+        },
+        {
+            "content": "dòng quảng cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dằn giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gạch đít",
+            "type": "verb",
+            "example": {
+                "en": "Why have you underlined my name every time?",
+                "vi": "Sao lúc nào anh cũng gạch đít tên tôi?"
+            }
+        },
+        {
+            "content": "đường gạch dưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

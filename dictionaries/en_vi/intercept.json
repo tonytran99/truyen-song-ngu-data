@@ -1,0 +1,62 @@
+{
+    "word": "intercept",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈsept/",
+            "/ˌɪn(t)ərˈsɛpt/",
+            "/ˈin(t)ərsept/",
+            "/ˈɪn(t)ərsɛpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈsɛpt/",
+            "/ˈɪntəsɛpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chặn",
+            "type": "verb",
+            "example": {
+                "en": "I'm going to intercept the president first And warn him.",
+                "vi": "Bố sẽ chặn đường tổng thống trước để cảnh báo ông ấy."
+            }
+        },
+        {
+            "content": "chắn",
+            "type": "",
+            "example": {
+                "en": "Mr. Bavenod, plot an intercept for that ship.",
+                "vi": "Bavenod, vẽ sơ đồ chắn cho con tàu đó"
+            }
+        },
+        {
+            "content": "bị chắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chặn đứng",
+            "type": "",
+            "example": {
+                "en": "If they are to be intercepted, it's work for the legions!",
+                "vi": "Nếu chúng bị chặn đứng, đó sẽ là việc của quân đoàn!"
+            }
+        },
+        {
+            "content": "ngăn chặn",
+            "type": "",
+            "example": {
+                "en": "Nikita, I need you to intercept this guy before he has an accident.",
+                "vi": "Nikita, tôi cần cô ngăn chặn hắn trước khi ông ta gặp một tai nạn."
+            }
+        }
+    ]
+}

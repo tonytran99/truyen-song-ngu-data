@@ -1,0 +1,45 @@
+{
+    "word": "unavailable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈvāləb(ə)l/",
+            "/ˌənəˈveɪləb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnəˈveɪləb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có giá trị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không dùng được",
+            "type": "",
+            "example": {
+                "en": "Yes, well, I'm afraid Miss Bow is unavailable.",
+                "vi": "Đúng rồi, e là cô Bow không dùng được."
+            }
+        },
+        {
+            "content": "không khả dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không sẵn có",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

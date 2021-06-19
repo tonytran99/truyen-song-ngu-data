@@ -1,0 +1,53 @@
+{
+    "word": "bangle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaNGɡəl/",
+            "/ˈbæŋɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaŋɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vòng",
+            "type": "noun",
+            "example": {
+                "en": "Madame, would you like some of those orange bangles",
+                "vi": "Thưa bà, bà có muốn những vòng đeo tay màu cam"
+            }
+        },
+        {
+            "content": "chân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vòng tay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xuyến",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vòng đeo tay",
+            "type": "",
+            "example": {
+                "en": "Madame, would you like some of those orange bangles",
+                "vi": "Thưa bà, bà có muốn những vòng đeo tay màu cam"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "intern",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌtərn/",
+            "/ˈɪnˌtərn/",
+            "/inˈtərn/",
+            "/ɪnˈtərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntəːn/",
+            "/ɪnˈtəːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giam giữ",
+            "type": "",
+            "example": {
+                "en": "August Dickmann was interned in the Sachsenhausen concentration camp in 1937.",
+                "vi": "August Dickmann bị giam giữ trong trại tập trung Sachsenhausen vào năm 1937."
+            }
+        },
+        {
+            "content": "interne",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "là giáo sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bị giam giữ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "astray",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstrā/",
+            "/əˈstreɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstreɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chệch hướng",
+            "type": "",
+            "example": {
+                "en": "The World’s Spirit Would Lead Us Astray",
+                "vi": "Tinh thần thế gian có thể khiến chúng ta đi chệch hướng"
+            }
+        },
+        {
+            "content": "lạc lối",
+            "type": "adjective",
+            "example": {
+                "en": "And sin’s law within us can lead us astray.",
+                "vi": "Và tội lỗi làm ta dễ lạc lối công minh Cha."
+            }
+        },
+        {
+            "content": "lạc đường",
+            "type": "adjective",
+            "example": {
+                "en": "It appears our wolves have gone astray, brother.",
+                "vi": "Có vẻ mấy chàng sói của ta bị lạc đường rồi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "concurrently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkərəntlē/",
+            "/kənˈkərəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈkʌrəntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng thời",
+            "type": "adverb",
+            "example": {
+                "en": "Today, they run concurrently.",
+                "vi": "Ngày nay, sự đói kém và dư dật xảy ra đồng thời."
+            }
+        },
+        {
+            "content": "kiêm",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

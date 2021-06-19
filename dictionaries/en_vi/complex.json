@@ -1,0 +1,132 @@
+{
+    "word": "complex",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämˈpleks/",
+            "/ˌkɑmˈplɛks/",
+            "/kəmˈpleks/",
+            "/kəmˈplɛks/",
+            "/ˈkämˌpleks/",
+            "/ˈkɑmˌplɛks/",
+            "/ˈkämpleks/",
+            "/ˈkɑmplɛks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmplɛks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phức tạp",
+            "type": "noun",
+            "example": {
+                "en": "It's a very complex question.",
+                "vi": "Đó là một câu hỏi phức tạp."
+            }
+        },
+        {
+            "content": "rắc rối",
+            "type": "adjective",
+            "example": {
+                "en": "Who on Earth would write something as convoluted and complex and inane?",
+                "vi": "Ai lại có thể viết ra một thứ phức tạp và rắc rối và điên rồ như thế?"
+            }
+        },
+        {
+            "content": "phức hệ",
+            "type": "",
+            "example": {
+                "en": "Okay, make fun of me if you want, but the agro-business complex in this country is completely insane.",
+                "vi": "Okay, cứ chọc tôi đi, nhưng phức-hệ-kinh-doanh nông nghiệp trong đất nước này hoàn toàn điên rồi."
+            }
+        },
+        {
+            "content": "khu phức hợp",
+            "type": "noun",
+            "example": {
+                "en": "Brief him on the route into the complex.",
+                "vi": "Rồi, cậu sẽ tiến vào khu phức hợp đó."
+            }
+        },
+        {
+            "content": "mặc cảm",
+            "type": "noun",
+            "example": {
+                "en": "So, then, you are the one with the inferiority complex?",
+                "vi": "Vậy, rồi, cô chính là người có mặc cảm tự ti?"
+            }
+        },
+        {
+            "content": "phức hợp",
+            "type": "",
+            "example": {
+                "en": "So what do we know about complex systems?",
+                "vi": "Vậy, chúng ta biết gì về các hệ thống phức hợp?"
+            }
+        },
+        {
+            "content": "sự phức tạp",
+            "type": "noun",
+            "example": {
+                "en": "It was complex, but there was something capricious about its complexity.",
+                "vi": "Nó phức tạp, nhưng có gì đó hay thay đổi trong sự phức tạp đó."
+            }
+        },
+        {
+            "content": "phức",
+            "type": "",
+            "example": {
+                "en": "It's more complex when you move up the evolutionary chain.",
+                "vi": "Nó sẽ phức tạp hơn khi anh leo dần theo chuỗi tiến hóa."
+            }
+        },
+        {
+            "content": "liên hợp",
+            "type": "",
+            "example": {
+                "en": "They turned the basement into a sports complex again.",
+                "vi": "Tụi nó lại biết cái tầng hầm thành khu liên hợp thể thao nữa rồi."
+            }
+        },
+        {
+            "content": "mớ phức tạp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiêu khê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà máy liên hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phức cảm",
+            "type": "",
+            "example": {
+                "en": "He said, \"Bono, wouldn't that be a good use of your messianic complex?\"",
+                "vi": "Ông nói, \"Bono, đó chẳng phải là một cách dùng tốt phức cảm thiên sai của anh sao?\""
+            }
+        },
+        {
+            "content": "tổ hợp",
+            "type": "",
+            "example": {
+                "en": "I don't think it is the military industrial complex anymore.",
+                "vi": "Tôi không hề nghĩ là do tổ hợp công nghiệp quân sự."
+            }
+        }
+    ]
+}

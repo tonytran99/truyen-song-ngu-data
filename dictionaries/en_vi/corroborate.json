@@ -1,0 +1,45 @@
+{
+    "word": "corroborate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈräbəˌrāt/",
+            "/kəˈrɑbəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɒbəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng thực",
+            "type": "",
+            "example": {
+                "en": "There is a possibility that your claims might be corroborated by another victim.",
+                "vi": "Có khả năng rằng lời khai của cô đã được chứng thực bởi một nạn nhân khác."
+            }
+        },
+        {
+            "content": "làm chứng",
+            "type": "",
+            "example": {
+                "en": "My suspicion of something that would've happened in July that she won't corroborate?",
+                "vi": "Tôi nghi ngờ điều gì đó đã xảy ra vào tháng Bảy mà nó không thể làm chứng?"
+            }
+        },
+        {
+            "content": "làm vững thêm",
+            "type": "",
+            "example": {
+                "en": "How can you corroborate your Scriptural point?",
+                "vi": "Làm thế nào bạn có thể đưa ra thêm bằng chứng để làm vững thêm điểm Kinh Thánh mà bạn nêu ra?"
+            }
+        }
+    ]
+}

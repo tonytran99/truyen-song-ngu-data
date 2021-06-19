@@ -1,0 +1,49 @@
+{
+    "word": "departed",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈpärdəd/",
+            "/dəˈpɑrdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpɑːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dĩ vãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã chết",
+            "type": "",
+            "example": {
+                "en": "But why would we want to send our dearly departed into space?",
+                "vi": "Nhưng tại sao chúng ta lại muốn gửi người thân đã chết của mình vào vũ trụ?"
+            }
+        },
+        {
+            "content": "đã qua",
+            "type": "",
+            "example": {
+                "en": "Six B’s brought to you by your departed great-grandfather.",
+                "vi": "Sáu nguyên tắc do ông cố nội đã qua đời của anh mang đến cho anh."
+            }
+        },
+        {
+            "content": "đã quá cố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

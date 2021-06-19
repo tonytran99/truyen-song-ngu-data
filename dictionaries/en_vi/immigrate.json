@@ -1,0 +1,42 @@
+{
+    "word": "immigrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiməˌɡrāt/",
+            "/ˈɪməˌɡreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmɪɡreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhập cư",
+            "type": "verb noun",
+            "example": {
+                "en": "Looks like some sort of way station for undocumented immigrants.",
+                "vi": "Trông giống một kiểu trạm dừng giữa đường cho người nhập cư không giấy tờ."
+            }
+        },
+        {
+            "content": "cho nhập cư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "di trú",
+            "type": "verb",
+            "example": {
+                "en": "An immigration officer paid me and my husband, George, an unexpected visit.",
+                "vi": "Tôi và anh George, chồng tôi, được một viên chức sở di trú đến thăm đột xuất."
+            }
+        }
+    ]
+}

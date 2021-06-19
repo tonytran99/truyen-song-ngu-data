@@ -1,0 +1,53 @@
+{
+    "word": "horoscope",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôrəˌskōp/",
+            "/ˈhɔrəˌskoʊp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒrəskəʊp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lá số tử vi",
+            "type": "noun",
+            "example": {
+                "en": "Want me to read your horoscope?",
+                "vi": "Muốn tôi đọc lá số tử vi cho các anh à?"
+            }
+        },
+        {
+            "content": "số tử vi",
+            "type": "noun",
+            "example": {
+                "en": "My horoscope knows more than your law books.",
+                "vi": "Lá số tử vi của tôi biết nhiều hơn những cuốn sách luật của anh."
+            }
+        },
+        {
+            "content": "tử vi",
+            "type": "noun",
+            "example": {
+                "en": "What, did your horoscope in Vogue tell you to avoid women wearing green shoes?",
+                "vi": "Hả, tử vi trên tờ Vogue bảo anh phải tránh phụ nữ đi giày xanh hay sao?"
+            }
+        },
+        {
+            "content": "xem tử vi",
+            "type": "",
+            "example": {
+                "en": "“Many people consult their horoscope before making decisions.",
+                "vi": "“Nhiều người đi xem tử vi trước khi có một quyết định nào đó."
+            }
+        }
+    ]
+}

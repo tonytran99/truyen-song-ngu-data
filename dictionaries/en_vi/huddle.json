@@ -1,0 +1,91 @@
+{
+    "word": "huddle",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhədl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌd(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chụm",
+            "type": "verb",
+            "example": {
+                "en": "No doubt you and David Estes have already huddled about this mess?",
+                "vi": "Không có nghi ngờ ông và David Estes đã chụm đầu với nhau vụ này?"
+            }
+        },
+        {
+            "content": "ùm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chui rúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất đống lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội ý bí mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mớ lộn xộn",
+            "type": "",
+            "example": {
+                "en": "My wife's huddled at the bottom of a flint-mine with no food, no water, and 27 starving animal brats!",
+                "vi": "Bây giờ mớ lộn xộn của vợ tôi tại phía dưới mỏ đá... không thức ăn, không nước uống, và 27 thú con đang đói!"
+            }
+        },
+        {
+            "content": "nằm rúc vào nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hội ý bí mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hội ý riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đám đông lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đống lộn xộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "túm tụm",
+            "type": "",
+            "example": {
+                "en": "I could picture the frightened children huddled together.",
+                "vi": "Tôi có thể hình dung ra các trẻ em đầy sợ hãi túm tụm lại với nhau."
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "word": "vocal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvōk(ə)l/",
+            "/ˈvoʊk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəʊk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nói lớn tiếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói to tiếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phát âm",
+            "type": "adjective",
+            "example": {
+                "en": "I used my ability to vocalize sound to be coupled to your brains.",
+                "vi": "tôi đã dùng khả năng phát âm để đưa âm thanh vào não bạn."
+            }
+        },
+        {
+            "content": "bằng miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay nói hay la",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớn tiếng",
+            "type": "",
+            "example": {
+                "en": "The type of program that you've been vocally against.",
+                "vi": "Loại chương trình mà ông đã lớn tiếng chống lại."
+            }
+        },
+        {
+            "content": "nguyên âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thanh âm",
+            "type": "",
+            "example": {
+                "en": "Remember that your vocal cords vibrate when air passes them.",
+                "vi": "Hãy nhớ rằng những dây thanh âm rung động khi có không khí đi qua."
+            }
+        },
+        {
+            "content": "to tiếng",
+            "type": "",
+            "example": {
+                "en": "These smallest of penguins are also the most vocal.",
+                "vi": "Giống chim cánh cụt nhỏ bé nhất này lại to tiếng nhất."
+            }
+        },
+        {
+            "content": "đầy thanh âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hát",
+            "type": "verb noun",
+            "example": {
+                "en": "The first number is Gio, my vocal coach.",
+                "vi": "số đầu tiên là của Gea, cô giáo dạy hát của tôi."
+            }
+        }
+    ]
+}

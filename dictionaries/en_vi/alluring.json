@@ -1,0 +1,70 @@
+{
+    "word": "alluring",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlo͝oriNG/",
+            "/əˈlʊrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈl(j)ʊərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cám dỗ",
+            "type": "verb noun",
+            "example": {
+                "en": "All of his enticing, alluring temptations have as their root the destruction of the individual.",
+                "vi": "Tất cả những cám dỗ lôi cuốn của nó là nhằm hủy diệt từng cá nhân một."
+            }
+        },
+        {
+            "content": "quyến rũ",
+            "type": "",
+            "example": {
+                "en": "The Sirens with their deadly yet irresistible allure.",
+                "vi": "Sự quyến rũ không thể chống lại được của các mỹ nhân."
+            }
+        },
+        {
+            "content": "có duyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "duyên dáng",
+            "type": "adjective",
+            "example": {
+                "en": "I think my complete lack of allure already kind of shot that horse in the face.",
+                "vi": "Con cảm thấy sự thiếu duyên dáng của mình như kiểu bị ngựa đá vào mặt vậy."
+            }
+        },
+        {
+            "content": "làm say mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xiêu lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {
+                "en": "What chain of events can make a new romantic relationship alluring?",
+                "vi": "Những bước nào có thể làm mối quan hệ tình cảm mới nảy sinh có sức lôi cuốn?"
+            }
+        }
+    ]
+}

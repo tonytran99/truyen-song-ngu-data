@@ -1,0 +1,60 @@
+{
+    "word": "icing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsiNG/",
+            "/ˈaɪsɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kem lòng trắng trứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đóng băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ướp lạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ướp nước đá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường cô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "băng mỏng",
+            "type": "",
+            "example": {
+                "en": "A thinner ice shelf can't hold the ice sheet back as well.",
+                "vi": "Vỏ băng mỏng không thể giữ được lớp băng quá lâu."
+            }
+        },
+        {
+            "content": "băng phủ đường",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "isobaric",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌīsəˈbärik/",
+            "/ˌaɪsəˈbɑrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪsə(ʊ)ˈbarɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đẳng áp",
+            "type": "adjective",
+            "example": {
+                "en": "Isobars, for example, are lines drawn to link points that have the same barometric pressure.",
+                "vi": "Thí dụ, đường đẳng áp là đường vẽ dùng để nối các điểm có cùng một áp suất không khí."
+            }
+        },
+        {
+            "content": "đồng khởi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "cirrus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsirəs/",
+            "/ˈsɪrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lông gai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mây ti",
+            "type": "",
+            "example": {
+                "en": "All right. Those are rarer clouds than the cirrus,",
+                "vi": "Được rồi. Đó là loại mây hiếm hơn mây ti,"
+            }
+        },
+        {
+            "content": "tua cuốn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

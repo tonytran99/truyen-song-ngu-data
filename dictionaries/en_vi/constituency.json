@@ -1,0 +1,42 @@
+{
+    "word": "constituency",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈstiCHo͞oənsē/",
+            "/kənˈstɪtʃuənsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈstɪtjʊənsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khu vực bầu cử",
+            "type": "noun",
+            "example": {
+                "en": "And I've just come back from my own constituency,",
+                "vi": "Và tôi vừa mới trở về từ khu vực bầu cử của riêng tôi,"
+            }
+        },
+        {
+            "content": "các cử tri",
+            "type": "",
+            "example": {
+                "en": "But I guess elected officials don't sleep so our constituents can.",
+                "vi": "Nhưng các quan chức được bầu không ngủ để các cử tri được yên giấc."
+            }
+        },
+        {
+            "content": "khách hàng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

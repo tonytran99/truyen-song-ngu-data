@@ -1,0 +1,54 @@
+{
+    "word": "frightened",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrītnd/",
+            "/ˈfraɪtnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrʌɪtnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sợ hãi",
+            "type": "adjective",
+            "example": {
+                "en": "Tom felt helpless and frightened.",
+                "vi": "Tom cảm thấy bất lực và sợ hãi."
+            }
+        },
+        {
+            "content": "hoảng sợ",
+            "type": "",
+            "example": {
+                "en": "He could still come back and he may be frightened.",
+                "vi": "Cậu ta vẫn có thể sẽ trở lại, cậu ta có thể sẽ bị hoảng sợ."
+            }
+        },
+        {
+            "content": "khiếp đảm",
+            "type": "",
+            "example": {
+                "en": "Such supernatural experiences often frighten those having them.",
+                "vi": "Những hiện tượng siêu nhiên như vậy thường làm cho người liên hệ khiếp đảm."
+            }
+        },
+        {
+            "content": "kinh hoàng",
+            "type": "adjective",
+            "example": {
+                "en": "I can imagine how frightening this must be.",
+                "vi": "Tôi có thể tưởng tượng việc đó sẽ kinh hoàng như thế nào."
+            }
+        }
+    ]
+}

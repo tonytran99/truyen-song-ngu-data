@@ -1,0 +1,39 @@
+{
+    "word": "dementia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmen(t)SH(ē)ə/",
+            "/dəˈmɛn(t)ʃ(i)ə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmɛnʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng mất trí",
+            "type": "",
+            "example": {
+                "en": "The doctors say, if they didn't know any better, he has the beginnings of dementia.",
+                "vi": "Bác sĩ nói nếu họ ko lầm... thì đây là khởi đầu của chứng mất trí."
+            }
+        },
+        {
+            "content": "Suy giảm trí nhớ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy giảm trí nhớ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

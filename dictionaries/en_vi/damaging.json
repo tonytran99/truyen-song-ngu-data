@@ -1,0 +1,46 @@
+{
+    "word": "damaging",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdamijiNG/",
+            "/ˈdæmɪdʒɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdamɪdʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hại",
+            "type": "adjective",
+            "example": {
+                "en": "Stroke you normally think of as damage to the fibers, nothing you can do about it.",
+                "vi": "Bạn thường nghĩ đột quỵ gây tổn hại đến phần xơ, và bạn chẳng thể làm gì được."
+            }
+        },
+        {
+            "content": "có hại",
+            "type": "adjective",
+            "example": {
+                "en": "For one thing, such an attitude is emotionally and physically damaging.",
+                "vi": "Trước hết là vì thái độ như thế có hại đến tình cảm và cơ thể."
+            }
+        },
+        {
+            "content": "gây thiệt hại",
+            "type": "adjective",
+            "example": {
+                "en": "But the powerful winds also did tremendous damage.",
+                "vi": "Nhưng những ngọn gió cực mạnh cũng gây thiệt hại nặng nề."
+            }
+        }
+    ]
+}

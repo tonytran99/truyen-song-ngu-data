@@ -1,0 +1,60 @@
+{
+    "word": "activation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌaktiˈvāSH(ə)n/",
+            "/ˌæktɪˈveɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aktɪˈveɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự hoạt hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạt hóa",
+            "type": "",
+            "example": {
+                "en": "Its main active ingredient is nicotine, a highly addictive drug.",
+                "vi": "Thành phần hoạt hóa chính trong khói thuốc là nicotin, một chất thuốc gây nghiện cao độ."
+            }
+        },
+        {
+            "content": "khởi động",
+            "type": "",
+            "example": {
+                "en": "How will we know the tracker is active?",
+                "vi": "Sao ta biết được khi nào thì máy phát khởi động?"
+            }
+        },
+        {
+            "content": "phát động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự làm phóng xạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kích hoạt",
+            "type": "",
+            "example": {
+                "en": "Once we're through, it will activate and the door will open.",
+                "vi": "Khi chúng ta qua được, nó sẽ kích hoạt và cửa sẽ mở."
+            }
+        }
+    ]
+}

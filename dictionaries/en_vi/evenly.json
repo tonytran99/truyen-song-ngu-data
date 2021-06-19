@@ -1,0 +1,52 @@
+{
+    "word": "evenly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēvənlē/",
+            "/ˈivənli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːvnli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đều",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Then you dip the palette knife to see that the coverture hardens on it evenly.",
+                "vi": "Và sau đó nhúng dao láng chocolate vào... xem phần chocolate cứng lại có đều không."
+            }
+        },
+        {
+            "content": "bằng phẳng",
+            "type": "adverb",
+            "example": {
+                "en": "I looked at the square, and to my eyes it looked evenly placed.",
+                "vi": "Tôi nhìn vào ô vuông đó, và với mắt thường thì nó trông bằng phẳng."
+            }
+        },
+        {
+            "content": "ngang nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bằng nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công bằng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

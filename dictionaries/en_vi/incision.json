@@ -1,0 +1,72 @@
+{
+    "word": "incision",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsiZHən/",
+            "/ɪnˈsɪʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɪʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự rạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết rạch",
+            "type": "",
+            "example": {
+                "en": "A surgeon inflates the abdomen with gas through a small incision in the navel .",
+                "vi": "Bác sĩ phẫu thuật bơm hơi vào bụng qua một vết rạch nhỏ ở rốn ."
+            }
+        },
+        {
+            "content": "sự chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính nhạy bén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính sắc bén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết khắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường rạch",
+            "type": "",
+            "example": {
+                "en": "And we go in through a pinhole incision",
+                "vi": "Và chúng tôi đi qua một đường rạch trong lỗ kim"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "harangue",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈraNG/",
+            "/həˈræŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈraŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài diễn thuyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bài nói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diễn thuyết",
+            "type": "",
+            "example": {
+                "en": "We are harangued, lectured to,",
+                "vi": "Chúng ta hô hào, diễn thuyết,"
+            }
+        },
+        {
+            "content": "hô hào",
+            "type": "",
+            "example": {
+                "en": "and haranguing countries for engaging with China,",
+                "vi": "hô hào cho các quốc gia liên quan với Trung Quốc,"
+            }
+        },
+        {
+            "content": "kêu gọi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời hô hào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời kêu gọi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

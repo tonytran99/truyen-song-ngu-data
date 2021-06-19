@@ -1,0 +1,66 @@
+{
+    "word": "fortunate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrCH(ə)nət/",
+            "/ˈfɔrtʃ(ə)nət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːtʃ(ə)nət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "may mắn",
+            "type": "adjective",
+            "example": {
+                "en": "Fortunately, the weather was good.",
+                "vi": "May mắn thay, thời tiết rất tốt."
+            }
+        },
+        {
+            "content": "tốt số",
+            "type": "adjective",
+            "example": {
+                "en": "If he is fortunate, he died in battle.",
+                "vi": "Nếu hắn tốt số, hắn đã chết trong trận chiến."
+            }
+        },
+        {
+            "content": "may",
+            "type": "adjective",
+            "example": {
+                "en": "Fortunately, the weather was good.",
+                "vi": "May mắn thay, thời tiết rất tốt."
+            }
+        },
+        {
+            "content": "tốt",
+            "type": "adjective noun",
+            "example": {
+                "en": "If he is fortunate, he died in battle.",
+                "vi": "Nếu hắn tốt số, hắn đã chết trong trận chiến."
+            }
+        },
+        {
+            "content": "có phúc",
+            "type": "",
+            "example": {
+                "en": "Only the most fortunate ever enjoy a dish like this!",
+                "vi": "Món này chỉ dành cho những người... có phúc phần."
+            }
+        },
+        {
+            "content": "thuận lợi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

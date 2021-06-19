@@ -1,0 +1,82 @@
+{
+    "word": "foggy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôɡē/",
+            "/ˈfɔɡi/",
+            "/ˈfäɡē/",
+            "/ˈfɑɡi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɒɡi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có sương mù",
+            "type": "",
+            "example": {
+                "en": "It was dark and foggy, and I was shivering as I walked in the freezing rain.",
+                "vi": "Đêm hôm đó trời tối mịt, có sương mù và mưa, tôi vừa đi vừa run cầm cập."
+            }
+        },
+        {
+            "content": "không rõ rệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lờ mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mông lung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mông muội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mù sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mơ hồ",
+            "type": "",
+            "example": {
+                "en": "For the majority of Catholic churchgoers, the idea of Limbo has always been somewhat foggy.",
+                "vi": "Đối với đại đa số những người đi nhà thờ Công giáo, ý niệm về U Linh Giới luôn mơ hồ."
+            }
+        },
+        {
+            "content": "tối tăm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "giải nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sương mù",
+            "type": "noun",
+            "example": {
+                "en": "Sometimes the sun rises on a morning that is cloudy or foggy.",
+                "vi": "Đôi khi mặt trời mọc vào một buổi sáng u ám đầy mây hay sương mù."
+            }
+        }
+    ]
+}

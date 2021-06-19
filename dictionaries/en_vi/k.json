@@ -1,0 +1,32 @@
+{
+    "word": "k",
+    "type": [
+        "Letter",
+        "noun",
+        "adjective",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kā/",
+            "/keɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "k",
+            "type": "",
+            "example": {
+                "en": "In street lingo, It's known as being stuck in a k-Hole.",
+                "vi": "Theo tiếng lóng đường phố, nó được biết là k-hole."
+            }
+        }
+    ]
+}

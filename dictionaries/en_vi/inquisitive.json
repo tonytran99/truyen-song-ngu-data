@@ -1,0 +1,42 @@
+{
+    "word": "inquisitive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkwizədiv/",
+            "/ɪnˈkwɪzədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkwɪzɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tò mò",
+            "type": "adjective",
+            "example": {
+                "en": "The most inquisitive creature in Africa is the baboon.",
+                "vi": "Loài sinh vật tò mò nhất châu Phi là khỉ đầuf chó."
+            }
+        },
+        {
+            "content": "hay dò hỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tọc mạch",
+            "type": "",
+            "example": {
+                "en": "He said the dog got too inquisitive, so he dug it up.",
+                "vi": "Hắn nói con chó tọc mạch quá, nên hắn đã đào lên rồi."
+            }
+        }
+    ]
+}

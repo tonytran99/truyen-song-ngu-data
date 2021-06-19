@@ -1,0 +1,58 @@
+{
+    "word": "ineffective",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinəˈfektiv/",
+            "/ˌɪnəˈfɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnɪˈfɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có hiệu quả",
+            "type": "adjective",
+            "example": {
+                "en": "The focused military approach h as proven ineffective.",
+                "vi": "Cách tiếp cận quân sự tập trung không có hiệu quả."
+            }
+        },
+        {
+            "content": "không hiệu quả",
+            "type": "adjective",
+            "example": {
+                "en": "Even a persuasive teaching technique may become ineffective or boring if overused.",
+                "vi": "Ngay cả một phương pháp giảng dạy đầy thuyết phục cũng có thể trở nên không hiệu quả hoặc nhàm chán nếu bị lạm dụng."
+            }
+        },
+        {
+            "content": "không tác động",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô hiệu",
+            "type": "adjective",
+            "example": {
+                "en": "Air strikes and naval attacks had proven costly and ineffective.",
+                "vi": "Mọi nổ lực tấn công bằng không quân và hải quân đều phí công và vô hiệu."
+            }
+        },
+        {
+            "content": "vô tích sự",
+            "type": "adjective",
+            "example": {
+                "en": "It will be completely ineffective, and the pain will completely go away.",
+                "vi": "Nó sẽ hoàn toàn vô tích sự và cơn đau sẽ biến mất hoàn toàn."
+            }
+        }
+    ]
+}

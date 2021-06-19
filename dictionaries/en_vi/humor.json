@@ -1,0 +1,48 @@
+{
+    "word": "humor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)yo͞omər/",
+            "/ˈ(h)jumər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hài hước",
+            "type": "",
+            "example": {
+                "en": "He seems to be bankrupt of humor.",
+                "vi": "Hình như anh ấy chẳng có tí khiếu hài hước nào."
+            }
+        },
+        {
+            "content": "sự hài hước",
+            "type": "noun",
+            "example": {
+                "en": "There's a concept about humor about it being a benign violation.",
+                "vi": "Có khái niệm về sự hài hước là một sự vi phạm ôn hòa."
+            }
+        },
+        {
+            "content": "sự hóm hỉnh",
+            "type": "noun",
+            "example": {
+                "en": "You actually do have a sense of humor.",
+                "vi": "Cậu cũng thực sự hóm hỉnh đấy chứ."
+            }
+        },
+        {
+            "content": "thể dịch",
+            "type": "noun",
+            "example": {
+                "en": "Galen believed that the plague was due to a disproportion of the 4 humors.",
+                "vi": "Galen tin rằng dịch bệnh là do một sự thiếu cân đối của 4 thể dịch trong cơ thể."
+            }
+        }
+    ]
+}

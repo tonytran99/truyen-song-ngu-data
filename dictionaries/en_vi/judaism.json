@@ -1,0 +1,40 @@
+{
+    "word": "judaism",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjo͞odāˌizəm/",
+            "/ˈdʒudeɪˌɪzəm/",
+            "/ˈjo͞odēˌizəm/",
+            "/ˈdʒudiˌɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒuːdeɪɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "do thái giáo",
+            "type": "",
+            "example": {
+                "en": "Others embraced certain aspects of Judaism but held back from conversion.",
+                "vi": "Những người khác thì chấp nhận một số khía cạnh của Do Thái giáo nhưng không cải đạo."
+            }
+        },
+        {
+            "content": "đạo Do thái",
+            "type": "",
+            "example": {
+                "en": "The inhabitants had to convert to Judaism or else their cities would be razed.",
+                "vi": "Dân cư phải cải đạo Do Thái, nếu không thành phố của họ sẽ bị san bằng."
+            }
+        }
+    ]
+}

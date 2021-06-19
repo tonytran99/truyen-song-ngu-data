@@ -1,0 +1,41 @@
+{
+    "word": "fern",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây dương xỉ",
+            "type": "noun",
+            "example": {
+                "en": "There's lots of ferns growing out there.",
+                "vi": "Có rất nhiều cây dương xỉ mọc ngoài đó."
+            }
+        },
+        {
+            "content": "dương xỉ",
+            "type": "",
+            "example": {
+                "en": "The key to this advanced breathing apparatus is on the underside of each fern leaf.",
+                "vi": "Chìa khóa cho thiết bị hô hấp hiện đại này nằm bên trong từng chiếc lá dương xỉ."
+            }
+        },
+        {
+            "content": "ngành dương xỉ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

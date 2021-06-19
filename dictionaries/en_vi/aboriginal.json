@@ -1,0 +1,68 @@
+{
+    "word": "aboriginal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌabəˈrijənl/",
+            "/ˌæbəˈrɪdʒənl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/abəˈrɪdʒɪn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thổ dân",
+            "type": "noun",
+            "example": {
+                "en": "Did you know Australian aboriginals use boomerangs to hunt?",
+                "vi": "Mọi người có biết thổ dân Úc đã sử dụng boomerang để đi săn không?"
+            }
+        },
+        {
+            "content": "ban sơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cổ sơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên thuỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổ sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặc sản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản địa",
+            "type": "noun",
+            "example": {
+                "en": "That woman you're slavering over is practically an aborigine, you know.",
+                "vi": "Người phụ nữ đang làm anh chảy nước miếng kia là một người bản địa."
+            }
+        },
+        {
+            "content": "hoang sơ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

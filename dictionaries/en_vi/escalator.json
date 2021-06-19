@@ -1,0 +1,60 @@
+{
+    "word": "escalator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeskəˌlādər/",
+            "/ˈɛskəˌleɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛskəleɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thang cuốn",
+            "type": "noun",
+            "example": {
+                "en": "And they're going up these giant escalators on their way to their jobs.",
+                "vi": "Và họ đang đi lên chiếc thang cuốn to lớn này trên đường đi làm."
+            }
+        },
+        {
+            "content": "thang máy",
+            "type": "",
+            "example": {
+                "en": "Does this stairway go up to the escalator?",
+                "vi": "Lối này có phải dẫn đến thang máy?"
+            }
+        },
+        {
+            "content": "cầu thang tự động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quy định điều chỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thang cuốn",
+            "type": "",
+            "example": {
+                "en": "You wouldn't lug a package up the escalator.",
+                "vi": "Cô không thể lôi một kiện hàng lên thang cuốn."
+            }
+        },
+        {
+            "content": "thang máy liên tục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

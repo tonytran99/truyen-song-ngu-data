@@ -1,0 +1,52 @@
+{
+    "word": "unforeseen",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənfôrˈsēn/",
+            "/ˌənfɔrˈsin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnfɔːˈsiːn/",
+            "/ʌnfəˈsiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất ngờ",
+            "type": "adjective",
+            "example": {
+                "en": "Illness or unforeseen occurrence may keep us away occasionally.",
+                "vi": "Thỉnh thoảng mình có thể vắng mặt vì bệnh hoạn hoặc trường hợp bất ngờ xảy ra."
+            }
+        },
+        {
+            "content": "không biết trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không dự kiến",
+            "type": "",
+            "example": {
+                "en": "we go very well in unforeseen directions.",
+                "vi": "chúng ta đi trên những con đường không dự kiến."
+            }
+        },
+        {
+            "content": "không lường trước",
+            "type": "",
+            "example": {
+                "en": "It is a way to protect yourself against unforeseen losses .",
+                "vi": "Đó là cách tự bảo vệ mình khỏi những thiệt hại không lường trước được ."
+            }
+        }
+    ]
+}

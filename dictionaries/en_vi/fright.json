@@ -1,0 +1,55 @@
+{
+    "word": "fright",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frīt/",
+            "/fraɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự hoảng sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "frighten",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quỷ dạ xoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối khiếp sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sợ hãi",
+            "type": "",
+            "example": {
+                "en": "The wicked one may cause much fright to others.",
+                "vi": "Kẻ ác có thể gây ra nhiều sự sợ hãi cho người khác."
+            }
+        },
+        {
+            "content": "",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

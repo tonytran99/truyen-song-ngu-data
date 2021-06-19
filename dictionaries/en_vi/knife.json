@@ -1,0 +1,108 @@
+{
+    "word": "knife",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nīf/",
+            "/naɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/nʌɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dao",
+            "type": "noun",
+            "example": {
+                "en": "He cut a twig from the tree with his knife.",
+                "vi": "Anh ấy cắt một cành con từ cây bằng con dao nhíp của mình."
+            }
+        },
+        {
+            "content": "con dao",
+            "type": "noun",
+            "example": {
+                "en": "He cut a twig from the tree with his knife.",
+                "vi": "Anh ấy cắt một cành con từ cây bằng con dao nhíp của mình."
+            }
+        },
+        {
+            "content": "刀",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đao",
+            "type": "noun",
+            "example": {
+                "en": "Without a knife, a butcher can be a Buddha.",
+                "vi": "Buông bỏ đồ đao, lập địa thành Phật."
+            }
+        },
+        {
+            "content": "chém bằng dao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt bằng dao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dao cắt gọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dao mổ",
+            "type": "",
+            "example": {
+                "en": "He had this huge butcher's knife.",
+                "vi": "Hắn có một cây dao mổ heo lớn kinh khủng."
+            }
+        },
+        {
+            "content": "dao nạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đâm bằng dao",
+            "type": "",
+            "example": {
+                "en": "And one stabbed with a knife.",
+                "vi": "Và một người bị đâm bằng dao."
+            }
+        },
+        {
+            "content": "Dao",
+            "type": "proper",
+            "example": {
+                "en": "He cut a twig from the tree with his knife.",
+                "vi": "Anh ấy cắt một cành con từ cây bằng con dao nhíp của mình."
+            }
+        },
+        {
+            "content": "dao găm",
+            "type": "noun",
+            "example": {
+                "en": "Like the first time Big Daddy sent me into a crack den with nothing but a pen knife?",
+                "vi": "Như lần đầu Big Daddy cử con đến một động hút chỉ với một con dao găm."
+            }
+        },
+        {
+            "content": "đâm dao găm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

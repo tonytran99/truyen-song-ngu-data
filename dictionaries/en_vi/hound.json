@@ -1,0 +1,82 @@
+{
+    "word": "hound",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hound/",
+            "/haʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chó",
+            "type": "noun",
+            "example": {
+                "en": "I suppose that mangy hound's got no place else to go either.",
+                "vi": "Tôi nghĩ là con chó ghẻ này cũng không có chỗ nào khác để đi."
+            }
+        },
+        {
+            "content": "chó săn",
+            "type": "noun",
+            "example": {
+                "en": "We got a good start on them, but we can't outrun hounds forever.",
+                "vi": "Chúng ta có khởi đầu tốt hơn chúng, nhưng chúng ta không thể trốn lũ chó săn mãi."
+            }
+        },
+        {
+            "content": "truy lùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đuổi",
+            "type": "",
+            "example": {
+                "en": "They had been driven from their homes, persecuted, and hounded.",
+                "vi": "Họ đã bị đuổi ra khỏi nhà, bị ngược đãi và săn lùng."
+            }
+        },
+        {
+            "content": "houndfish",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "muông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "săn bằng chó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "săn đuổi",
+            "type": "",
+            "example": {
+                "en": "And I will never stop hounding you.",
+                "vi": "Và tao sẽ không bao giờ ngừng săn đuổi mày."
+            }
+        },
+        {
+            "content": "Chó săn",
+            "type": "",
+            "example": {
+                "en": "I've heard she beat the Hound in single combat.",
+                "vi": "Ta nghe nói cô ta đánh bại Chó săn khi đấu tay đôi."
+            }
+        }
+    ]
+}

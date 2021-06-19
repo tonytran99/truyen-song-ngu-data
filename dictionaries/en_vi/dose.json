@@ -1,0 +1,75 @@
+{
+    "word": "dose",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dōs/",
+            "/doʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəʊs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liều",
+            "type": "noun",
+            "example": {
+                "en": "I just want to make sure it's okay to give him another dose.",
+                "vi": "Tôi chỉ muốn chắc rằng có thể cho nó thêm liều nữa."
+            }
+        },
+        {
+            "content": "liều lượng",
+            "type": "noun",
+            "example": {
+                "en": "He received high dose radiation to the head.",
+                "vi": "Anh đã xạ trị trên đầu với liều lượng cao."
+            }
+        },
+        {
+            "content": "liều thuốc",
+            "type": "",
+            "example": {
+                "en": "If I'd poisoned superman with a bigger dose, i might have saved him.",
+                "vi": "Nếu tôi đầu độc Superman với liều thuốc lớn hơn, tôi đã cứu được anh ấy."
+            }
+        },
+        {
+            "content": "lượng",
+            "type": "noun",
+            "example": {
+                "en": "He received high dose radiation to the head.",
+                "vi": "Anh đã xạ trị trên đầu với liều lượng cao."
+            }
+        },
+        {
+            "content": "trộn lẫn",
+            "type": "",
+            "example": {
+                "en": "First, we'll dose the cancer cell with siRNA, the gene blocker,",
+                "vi": "Đầu tiên, sẽ trộn lẫn tế bào ung thư với siRNA, bộ hãm gen,"
+            }
+        },
+        {
+            "content": "định liều lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định lượng",
+            "type": "",
+            "example": {
+                "en": "One of the victims that was originally dosed was severely diabetic.",
+                "vi": "Một nạn nhân mà ban đầu được định lượng là bệnh tiểu đường nặng."
+            }
+        }
+    ]
+}

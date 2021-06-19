@@ -1,0 +1,88 @@
+{
+    "word": "vertical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərdək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thẳng đứng",
+            "type": "adjective",
+            "example": {
+                "en": "As I recline, my head says more or less vertical.",
+                "vi": "Khi tôi ngả ra, đầu tôi ít nhiều theo chiều thẳng đứng."
+            }
+        },
+        {
+            "content": "dọc",
+            "type": "",
+            "example": {
+                "en": "And so what we need is to embrace that verticality.",
+                "vi": "Và vì vậy điều chúng ta cần là sử dụng chiều dọc đó."
+            }
+        },
+        {
+            "content": "đứng",
+            "type": "verb",
+            "example": {
+                "en": "As I recline, my head says more or less vertical.",
+                "vi": "Khi tôi ngả ra, đầu tôi ít nhiều theo chiều thẳng đứng."
+            }
+        },
+        {
+            "content": "mặt phẳng thẳng đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiên đỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường thẳng đứng",
+            "type": "",
+            "example": {
+                "en": "Split the currently active view vertically into two views",
+                "vi": "Chia ô xem hiện thời thành hai ô bằng một đường thẳng đứng"
+            }
+        },
+        {
+            "content": "đỉnh đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở cực điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở thiên đỉnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở điểm cao nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở đỉnh đầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

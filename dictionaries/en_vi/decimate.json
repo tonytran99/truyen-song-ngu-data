@@ -1,0 +1,45 @@
+{
+    "word": "decimate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdesəˌmāt/",
+            "/ˈdɛsəˌmeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛsɪmeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sát hại nhiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giết hại nhiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu hao nhiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn sát",
+            "type": "",
+            "example": {
+                "en": "By this time next week, they'll have decimated themselves.",
+                "vi": "Một tuần nữa kể từ giờ họ sẽ tàn sát chúng ta."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "cyan",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsīən/",
+            "/ˈsaɪən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsʌɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xanh lơ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mầu xanh lá mạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu lục lam",
+            "type": "noun",
+            "example": {
+                "en": "High fade, chartreuse with cyan highlights, layered on top.",
+                "vi": "Thằng màu Chartreuse, mờ nhạt với màu lục lam nổi bật, phía trên đầu."
+            }
+        },
+        {
+            "content": "Xanh lơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lục lam",
+            "type": "",
+            "example": {
+                "en": "High fade, chartreuse with cyan highlights, layered on top.",
+                "vi": "Thằng màu Chartreuse, mờ nhạt với màu lục lam nổi bật, phía trên đầu."
+            }
+        }
+    ]
+}

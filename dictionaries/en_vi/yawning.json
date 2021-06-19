@@ -1,0 +1,31 @@
+{
+    "word": "yawning",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyôniNG/",
+            "/ˈjɔnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjɔːnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngáp",
+            "type": "verb",
+            "example": {
+                "en": "The listeners had already begun to yawn.",
+                "vi": "Những người nghe đã bắt đầu ngáp."
+            }
+        }
+    ]
+}

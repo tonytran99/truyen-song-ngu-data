@@ -1,0 +1,91 @@
+{
+    "word": "holiday",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäləˌdā/",
+            "/ˈhɑləˌdeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒlɪdeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày lễ",
+            "type": "noun",
+            "example": {
+                "en": "Now, you have all been at a mall during the holidays, yes?",
+                "vi": "Giờ, ai cũng đi siêu thị ngày lễ rồi nhỉ, hửm?"
+            }
+        },
+        {
+            "content": "nghỉ hè",
+            "type": "",
+            "example": {
+                "en": "The students are on holiday.",
+                "vi": "Sinh viên đang nghỉ hè."
+            }
+        },
+        {
+            "content": "ngày nghỉ",
+            "type": "noun",
+            "example": {
+                "en": "I was always made to come here for the holidays.",
+                "vi": "Anh luôn bị bắt buộc phải tới đây trong những ngày nghỉ."
+            }
+        },
+        {
+            "content": "lễ",
+            "type": "noun",
+            "example": {
+                "en": "Now, you have all been at a mall during the holidays, yes?",
+                "vi": "Giờ, ai cũng đi siêu thị ngày lễ rồi nhỉ, hửm?"
+            }
+        },
+        {
+            "content": "nghỉ",
+            "type": "pronoun verb",
+            "example": {
+                "en": "The students are on holiday.",
+                "vi": "Sinh viên đang nghỉ hè."
+            }
+        },
+        {
+            "content": "kỳ nghỉ",
+            "type": "",
+            "example": {
+                "en": "We had a wonderful holiday.",
+                "vi": "Chúng tôi đã có một kỳ nghỉ tuyệt vời."
+            }
+        },
+        {
+            "content": "nghỉ lễ",
+            "type": "",
+            "example": {
+                "en": "Besides eating , what else are kids doing at holiday time ?",
+                "vi": "Ngoài việc được ăn uống thì trẻ còn làm gì khác vào dịp nghỉ lễ ?"
+            }
+        },
+        {
+            "content": "nghỉ mát",
+            "type": "",
+            "example": {
+                "en": "That part about holiday destinations in the Mediterranean was brilliant.",
+                "vi": "Cái đoạn các điểm đi nghỉ mát ở Địa trung hải thật là xuất sắc."
+            }
+        },
+        {
+            "content": "ngaøy leã, ngaøy nghæ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

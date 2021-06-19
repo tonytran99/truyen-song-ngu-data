@@ -1,0 +1,54 @@
+{
+    "word": "cashier",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaˈSHir/",
+            "/kæˈʃɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaˈʃɪə/",
+            "/kəˈʃɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân viên tính tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủ quỹ",
+            "type": "noun",
+            "example": {
+                "en": "Implosive is the cashier who remains quiet, day after day and finally shoots everyone in the store.",
+                "vi": "Ngược lại, kiểu thứ 2 là người thủ quỹ, họ im lặng, ngày qua ngày Và cuối cùng là quát tháo tất cả mọi người."
+            }
+        },
+        {
+            "content": "cách chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân viên thu ngân",
+            "type": "",
+            "example": {
+                "en": "Has to make cashiers wipe down cars, even if they don't want to.",
+                "vi": "Phải biết bắt nhân viên thu ngân ra lau xe, ngay cả khi họ không muốn."
+            }
+        },
+        {
+            "content": "thải ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

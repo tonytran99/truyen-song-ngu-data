@@ -1,0 +1,39 @@
+{
+    "word": "flagon",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaɡən/",
+            "/ˈflæɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "But... it's not going to be at the bottom of a flagon of wine.",
+                "vi": "Nhưng thứ thuốc đó không có dưới đáy bình rượu đâu."
+            }
+        },
+        {
+            "content": "hũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lọ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "hurricane",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəriˌkān/",
+            "/ˈhərɪˌkeɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌrɪk(ə)n/",
+            "/ˈhʌrɪkeɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bão",
+            "type": "noun",
+            "example": {
+                "en": "I noticed'em chopping'branches when we were driving in, for the hurricane.",
+                "vi": "Trên đường vào đây, tôi thấy họ đang tỉa cành phòng cơn bão."
+            }
+        },
+        {
+            "content": "bão táp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bão tố",
+            "type": "noun",
+            "example": {
+                "en": "• prevent natural disasters, sparing humans the devastation caused by tsunamis, hurricanes, or earthquakes?",
+                "vi": "• Ngăn chặn các thảm họa thiên nhiên, giúp dân chúng không bị thiệt hại bởi sóng thần, bão tố hay động đất?"
+            }
+        },
+        {
+            "content": "cơn bão",
+            "type": "noun",
+            "example": {
+                "en": "I noticed'em chopping'branches when we were driving in, for the hurricane.",
+                "vi": "Trên đường vào đây, tôi thấy họ đang tỉa cành phòng cơn bão."
+            }
+        },
+        {
+            "content": "cơn bão tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gió bão",
+            "type": "noun",
+            "example": {
+                "en": "Imagine a severe hurricane wreaking havoc upon a small town.",
+                "vi": "Hãy tưởng tượng một trận gió bão kinh khiếp tàn phá một thành phố nhỏ."
+            }
+        },
+        {
+            "content": "cuồng phong",
+            "type": "noun",
+            "example": {
+                "en": "We have seen in the last couple of years a lot of big hurricanes.",
+                "vi": "Chúng ta đã chứng kiến trong hai năm qua hàng loạt những cơn cuồng phong."
+            }
+        }
+    ]
+}

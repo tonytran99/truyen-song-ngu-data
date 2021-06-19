@@ -1,0 +1,64 @@
+{
+    "word": "cleanly",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklēnlē/",
+            "/ˈklinli/",
+            "/ˈklenlē/",
+            "/ˈklɛnli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkliːnli/",
+            "/ˈklɛnli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sạch",
+            "type": "adjective",
+            "example": {
+                "en": "You can tell by the cleanliness of the carnage.",
+                "vi": "Anh có thể thấy bởi hắn giết sạch mọi người."
+            }
+        },
+        {
+            "content": "sạch sẽ",
+            "type": "adjective",
+            "example": {
+                "en": "His obsession with cleanliness and order is deeply ingrained.",
+                "vi": "Hắn bị ăn sâu ám ảnh sạch sẽ và trật tự."
+            }
+        },
+        {
+            "content": "có tính sạch sẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ưa sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ưa sạch sẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dễ dàng",
+            "type": "",
+            "example": {
+                "en": "Takes some skill to remove adrenals as cleanly as they did.",
+                "vi": "Cần phải có kĩ năng để lấy ra tuyến thượng thận một cách dễ dàng như vậy."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "homesick",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmˌsik/",
+            "/ˈhoʊmˌsɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmsɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhớ nhà",
+            "type": "adjective",
+            "example": {
+                "en": "One evening my wife was particularly homesick, and my efforts to help were not working.",
+                "vi": "Buổi tối nọ, vợ tôi rất nhớ nhà. Dù tôi cố an ủi nhưng không giúp ích."
+            }
+        },
+        {
+            "content": "nhớ quê hương",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "capillary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapəˌlerē/",
+            "/ˈkæpəˌlɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpɪləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mao mạch",
+            "type": "noun",
+            "example": {
+                "en": "The smallest, the lymph capillaries, occur in beds of blood capillaries.",
+                "vi": "Cái nhỏ nhất gọi là mao mạch bạch huyết, xuất hiện ở mạng mao mạch."
+            }
+        },
+        {
+            "content": "mao quản",
+            "type": "noun",
+            "example": {
+                "en": "Burst capillaries, cholesterol terrible, your liver is redlining.",
+                "vi": "Mao quản bị vỡ, Mỡ trong máu cao, gan của anh đang đỏ tấy lên."
+            }
+        },
+        {
+            "content": "mao dẫn",
+            "type": "",
+            "example": {
+                "en": "I will show how the capillary action works, how it feeds,",
+                "vi": "Các bạn sẽ thấy cơ chế làm việc của mao dẫn, cách nó nuôi cây,"
+            }
+        },
+        {
+            "content": "ống mao dẫn",
+            "type": "noun",
+            "example": {
+                "en": "The pseudotracheae secrete enzyme-filled saliva and soak up fluids and dissolved foods by capillary action.",
+                "vi": "Kiểu vòi này tiết ra enzym nước bọt và thấm qua chất lỏng, phân rã thức ăn thông qua hoạt động của ống mao dẫn."
+            }
+        },
+        {
+            "content": "Mao mạch",
+            "type": "",
+            "example": {
+                "en": "Burst capillaries and pink froth in the airway.",
+                "vi": "Mao mạch bầm tím và bọt hồng ở đường thở."
+            }
+        }
+    ]
+}

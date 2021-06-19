@@ -1,0 +1,74 @@
+{
+    "word": "burrow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərō/",
+            "/ˈbəroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌrəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hang",
+            "type": "noun",
+            "example": {
+                "en": "I can burrow into that rat's nest of a head.",
+                "vi": "Tôi có thể chui sâu vào hang của con chuột đó."
+            }
+        },
+        {
+            "content": "đào",
+            "type": "verb noun",
+            "example": {
+                "en": "But if we burrowed through this wall here...",
+                "vi": "Nhưng nếu chúng ta đào qua bức tường này đây..."
+            }
+        },
+        {
+            "content": "bới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái hang",
+            "type": "",
+            "example": {
+                "en": "What we've got is a burrow. That's where the forage was.",
+                "vi": "Chúng ta có một cái hang nhỏ, đó là chỗ thức ăn"
+            }
+        },
+        {
+            "content": "tra cứu",
+            "type": "",
+            "example": {
+                "en": "It allows anybody to go there and burrow down.",
+                "vi": "cho phép mọi người truy cập và tra cứu trong đó."
+            }
+        },
+        {
+            "content": "tìm tòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi mất hút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều tra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

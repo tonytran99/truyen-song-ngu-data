@@ -1,0 +1,47 @@
+{
+    "word": "consuming",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈso͞omiNG/",
+            "/kənˈsumɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsjuːmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chi phối",
+            "type": "",
+            "example": {
+                "en": "Negative habits have the potential to become consuming addictions.",
+                "vi": "Thói quen xấu có tiềm năng trở thành thói nghiện dễ chi phối."
+            }
+        },
+        {
+            "content": "tiêu thụ",
+            "type": "",
+            "example": {
+                "en": "Its inhabitants are among the biggest water consumers in the world.",
+                "vi": "Cư dân thành phố là những người tiêu thụ nhiều nước nhất thế giới."
+            }
+        },
+        {
+            "content": "ám ảnh",
+            "type": "",
+            "example": {
+                "en": "Michael manifests the consuming insecurity of a skin condition",
+                "vi": "Michael thể hiện những tổn hại về da đầy ám ảnh"
+            }
+        }
+    ]
+}

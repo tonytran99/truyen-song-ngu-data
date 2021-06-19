@@ -1,0 +1,40 @@
+{
+    "word": "insomniac",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/inˈsämnēˌak/",
+            "/ɪnˈsɑmniˌæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɒmnɪak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị chứng mất ngủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng mất ngủ",
+            "type": "",
+            "example": {
+                "en": "He never closes, he's an insomniac!",
+                "vi": "Hắn bị chứng mất ngủ nên không bao giờ đóng cửa!"
+            }
+        },
+        {
+            "content": "làm mất ngủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

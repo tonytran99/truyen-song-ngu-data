@@ -1,0 +1,35 @@
+{
+    "word": "barbed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bärbd/",
+            "/bɑrbd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɑːbd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có gai",
+            "type": "",
+            "example": {
+                "en": "Storming their enemies, they decimated them with iron swords, battle-axes, spears, and barbed arrows that tore flesh.",
+                "vi": "Họ tiến công xông đến giết kẻ thù bằng gươm sắt, rìu chiến, giáo mác và các mũi tên có gai xé thịt."
+            }
+        },
+        {
+            "content": "có ngạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

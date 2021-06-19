@@ -1,0 +1,35 @@
+{
+    "word": "caucus",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôkəs/",
+            "/ˈkɔkəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːkəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc họp kín",
+            "type": "",
+            "example": {
+                "en": "But you have to do it before the caucus.",
+                "vi": "Nhưng ông phải làm điều đó trước cuộc họp kín."
+            }
+        },
+        {
+            "content": "chế độ họp kín",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

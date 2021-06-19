@@ -1,0 +1,58 @@
+{
+    "word": "exclude",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsklo͞od/",
+            "/ɪkˈsklud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskluːd/",
+            "/ɛkˈskluːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loại trừ",
+            "type": "verb",
+            "example": {
+                "en": "Elections produce a loser, who is then excluded.",
+                "vi": "Bầu cử tạo ra những người thua cuộc, những người bị loại trừ."
+            }
+        },
+        {
+            "content": "khai trừ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "không cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngăn chận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tống ra",
+            "type": "",
+            "example": {
+                "en": "Refuse and we would quickly find ourselves excluded from the arena altogether.",
+                "vi": "Nếu từ chối, anh và em sẽ cùng nhau bị tống ra khỏi đấu trường."
+            }
+        },
+        {
+            "content": "đuổi tống ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

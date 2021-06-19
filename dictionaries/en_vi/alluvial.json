@@ -1,0 +1,45 @@
+{
+    "word": "alluvial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlo͞ovēəl/",
+            "/əˈluviəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈl(j)uːvɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phù sa",
+            "type": "noun",
+            "example": {
+                "en": "The backward-flowing Tonle Sap River deposits rich layers of alluvial sediment in the Tonle Sap basin.",
+                "vi": "Khi chảy ngược, sông Tonle Sap bồi đắp phù sa cho cả vùng trũng dọc theo sông."
+            }
+        },
+        {
+            "content": "sa bồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất bồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất phù sa",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

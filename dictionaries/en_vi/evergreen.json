@@ -1,0 +1,41 @@
+{
+    "word": "evergreen",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevərˌɡrēn/",
+            "/ˈɛvərˌɡrin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvəɡriːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cây xanh trang trí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây thương xanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây thường xanh",
+            "type": "",
+            "example": {
+                "en": "The bergamot is an evergreen citrus.",
+                "vi": "Bergamot là cây thường xanh thuộc họ cam quýt."
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "homosexual",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhōməˈsekSH(o͞o)əl/",
+            "/ˌhoʊməˈsɛkʃ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhɒmə(ʊ)ˈsɛkʃʊəl/",
+            "/ˌhəʊmə(ʊ)ˈsɛkʃʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tình dục đồng giới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng tính",
+            "type": "adjective",
+            "example": {
+                "en": "That's what you said about Jill, and she went from bisexuality to homosexuality.",
+                "vi": "Phải, anh cũng nói thế về Jill. Rồi cô ta chuyển từ lưỡng tính sang đồng tính."
+            }
+        },
+        {
+            "content": "đồng tính luyến ái",
+            "type": "noun",
+            "example": {
+                "en": "Some say that homosexuality is rooted in the genes.",
+                "vi": "Một số người nói rằng đồng tính luyến ái bắt nguồn từ trong gen."
+            }
+        },
+        {
+            "content": "giao hợp với người đồng tính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

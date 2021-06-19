@@ -1,0 +1,106 @@
+{
+    "word": "coin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/koin/",
+            "/kɔɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng tiền",
+            "type": "noun",
+            "example": {
+                "en": "Like two sides of a coin, the temporal and spiritual are inseparable.",
+                "vi": "Giống như hai mặt của đồng tiền, phần vật chất và thuộc linh không thể tách rời được."
+            }
+        },
+        {
+            "content": "đồng xu",
+            "type": "",
+            "example": {
+                "en": "Out of all the coins that you have, what is your absolute favorite coin?",
+                "vi": "Trong tất cả các đồng xu mà bác có, đồng nào là đặc biệt nhất với bác?"
+            }
+        },
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {
+                "en": "You can almost smell the coins dropping into our purse.",
+                "vi": "Ngươi có thể ngửi thấy mùi tiền chuẩn bị rơi vào túi chúng ta."
+            }
+        },
+        {
+            "content": "xu",
+            "type": "noun",
+            "example": {
+                "en": "I'll contact you myself after I find the coin, okay?",
+                "vi": "Tôi sẽ chủ động liên lạc với cô khi đã tìm ra đồng xu đó, được chứ?"
+            }
+        },
+        {
+            "content": "tiền xu",
+            "type": "noun",
+            "example": {
+                "en": "You think maybe you can get some coins?",
+                "vi": "Vậy anh đổi cho tôi ít tiền xu được không?"
+            }
+        },
+        {
+            "content": "tiền đồng",
+            "type": "noun",
+            "example": {
+                "en": "Lydia’s innovative businessmen are said to have been the first to use coins.",
+                "vi": "Người ta nói rằng các thương nhân có óc sáng tạo của Lydia là những người đã khởi xướng việc dùng tiền đồng."
+            }
+        },
+        {
+            "content": "tạo ra",
+            "type": "",
+            "example": {
+                "en": "When that expression was coined, it was derisive —",
+                "vi": "Và khi sự nhiễu loạn đó được tạo ra, có ý kiến khá là nhạo báng"
+            }
+        },
+        {
+            "content": "đúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền bằng kim loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền cắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt ra",
+            "type": "",
+            "example": {
+                "en": "There is a newly coined word in the English language",
+                "vi": "Có một từ mới được đặt ra trong tiếng Anh"
+            }
+        }
+    ]
+}

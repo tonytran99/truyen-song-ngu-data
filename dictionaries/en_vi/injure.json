@@ -1,0 +1,79 @@
+{
+    "word": "injure",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinjər/",
+            "/ˈɪndʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪndʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm tổn thương",
+            "type": "",
+            "example": {
+                "en": "It was my betrayal of myself that injured you both.",
+                "vi": "Chính là sự phản bội chính mình của anh đã làm tổn thương cả hai người."
+            }
+        },
+        {
+            "content": "hại",
+            "type": "",
+            "example": {
+                "en": "My programing prevents me from injuring a human being.",
+                "vi": "Tôi được thiết kế dự trên nguyên tắc không làm hại đến con người."
+            }
+        },
+        {
+            "content": "hãm hại",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm bị thương",
+            "type": "",
+            "example": {
+                "en": "He killed at least five people , and injured two .",
+                "vi": "Hắn đã giết chết ít nhất năm người , và làm bị thương hai người ."
+            }
+        },
+        {
+            "content": "làm hại",
+            "type": "",
+            "example": {
+                "en": "My programing prevents me from injuring a human being.",
+                "vi": "Tôi được thiết kế dự trên nguyên tắc không làm hại đến con người."
+            }
+        },
+        {
+            "content": "tổn thương",
+            "type": "verb",
+            "example": {
+                "en": "I would not see her injured by wagging tongue.",
+                "vi": "Tôi không muốn thấy cô ấy tổn thương vì cái lưỡi uốn éo."
+            }
+        },
+        {
+            "content": "xúc phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây thương tích",
+            "type": "",
+            "example": {
+                "en": "Thus, when tempered glass is under stress, it will not easily break into jagged shards that can injure.",
+                "vi": "Do đó, khi thủy tinh đã được tôi luyện thì sẽ không dễ vỡ thành nhiều mảnh để có thể gây thương tích."
+            }
+        }
+    ]
+}

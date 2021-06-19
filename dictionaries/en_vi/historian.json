@@ -1,0 +1,45 @@
+{
+    "word": "historian",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiˈstôrēən/",
+            "/hɪˈstɔriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈstɔːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sử gia",
+            "type": "noun",
+            "example": {
+                "en": "Art historians use it to make reflectograms of the sketch outlines beneath paintings.",
+                "vi": "Các sử gia dùng nó để phát hiện lớp nền ẩn bên dưới bề mặt bức tranh."
+            }
+        },
+        {
+            "content": "nhà viết sử",
+            "type": "",
+            "example": {
+                "en": "Secular historians seem quick to cover over the defeats of their people.",
+                "vi": "Những nhà viết sử sách thường tránh đề cập đến các thất bại của đất nước mình."
+            }
+        },
+        {
+            "content": "nhà sử học",
+            "type": "noun",
+            "example": {
+                "en": "Maybe I should become an historian, or maybe a reporter.",
+                "vi": "Có lẽ tôi muốn trở thành nhà sử học, hay là phóng viên."
+            }
+        }
+    ]
+}

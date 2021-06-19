@@ -1,0 +1,85 @@
+{
+    "word": "cramped",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kram(p)t/",
+            "/kræm(p)t/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krampt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tù túng",
+            "type": "adjective",
+            "example": {
+                "en": "But how restrictive, how cramped and narrow is this road?",
+                "vi": "Nhưng con đường hẹp này thì gò bó, tù túng và chật hẹp đến thế nào?"
+            }
+        },
+        {
+            "content": "chật hẹp",
+            "type": "adjective",
+            "example": {
+                "en": "Our quarters were very cramped, and the deck was usually awash.",
+                "vi": "Phòng của chúng tôi rất chật hẹp, còn boong tàu thì thường đầy nước."
+            }
+        },
+        {
+            "content": "bị chuột rút",
+            "type": "adjective",
+            "example": {
+                "en": "You may have cramps for several days after the miscarriage .",
+                "vi": "Bạn có thể bị chuột rút nhiều ngày sau khi sẩy thai ."
+            }
+        },
+        {
+            "content": "bị co cơ",
+            "type": "adjective",
+            "example": {
+                "en": "I haven't got any cramps.",
+                "vi": "Tôi không bị co cơ."
+            }
+        },
+        {
+            "content": "chật chội",
+            "type": "adjective",
+            "example": {
+                "en": "Uh, the dragons don't really care for cramped spaces, so they'll just hang out with you.",
+                "vi": "Hai con rồng không thích nơi chật chội nên chúng sẽ ở ngoài chơi với các anh."
+            }
+        },
+        {
+            "content": "gò bó",
+            "type": "adjective",
+            "example": {
+                "en": "But how restrictive, how cramped and narrow is this road?",
+                "vi": "Nhưng con đường hẹp này thì gò bó, tù túng và chật hẹp đến thế nào?"
+            }
+        },
+        {
+            "content": "khó đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không phóng túng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được tự do",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

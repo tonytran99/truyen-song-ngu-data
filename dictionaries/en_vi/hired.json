@@ -1,0 +1,51 @@
+{
+    "word": "hired",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīərd/",
+            "/ˈhaɪərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuê",
+            "type": "adjective",
+            "example": {
+                "en": "She hired him as an interpreter.",
+                "vi": "Cô ta thuê anh ta để làm người phiên dịch."
+            }
+        },
+        {
+            "content": "làm thuê",
+            "type": "",
+            "example": {
+                "en": "I'm not the daughter of your hired help anymore.",
+                "vi": "Em không còn là con gái của người làm thuê của anh nữa."
+            }
+        },
+        {
+            "content": "đánh thuê",
+            "type": "",
+            "example": {
+                "en": "A small number of mercenaries hired as security by the mines.",
+                "vi": "Một đội nhỏ lính đánh thuê được thuê làm bảo vệ khu mỏ."
+            }
+        },
+        {
+            "content": "để cho thuê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

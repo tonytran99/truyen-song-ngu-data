@@ -1,0 +1,42 @@
+{
+    "word": "biological",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbīəˈläjək(ə)l/",
+            "/ˌbaɪəˈlɑdʒək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪə(ʊ)ˈlɒdʒɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh vật học",
+            "type": "noun",
+            "example": {
+                "en": "I didn't even think that was biologically possible, and yet, look.",
+                "vi": "Mà hình như theo sinh vật học thì điều đó là không thể. Nhìn xem."
+            }
+        },
+        {
+            "content": "sinh học",
+            "type": "noun",
+            "example": {
+                "en": "Only this time it was biological rather than nuclear.",
+                "vi": "Vào lúc này, Là sinh học, chứ không phải hạt hân."
+            }
+        },
+        {
+            "content": "sinh vaät hoïc, (cha/meï ruoät)",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

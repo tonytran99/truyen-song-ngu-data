@@ -1,0 +1,42 @@
+{
+    "word": "da",
+    "type": [
+        "noun",
+        "interjection",
+        "Article"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/də/",
+            "/dä/",
+            "/dɑ/",
+            "/ˌdēˈā/",
+            "/ˌdiˈeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/də/",
+            "/da/",
+            "/dɑː/",
+            "/diːˈeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dad",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một",
+            "type": "Cardinal number",
+            "example": {
+                "en": "In his corner, hacking out his Da Vinci code.",
+                "vi": "Ngồi một góc, cố giải mật mã \" Da Vinci \""
+            }
+        }
+    ]
+}

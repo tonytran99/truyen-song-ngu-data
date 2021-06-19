@@ -1,0 +1,37 @@
+{
+    "word": "childbirth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHīl(d)bərTH/",
+            "/ˈtʃaɪl(d)bərθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃʌɪl(d)bəːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự sinh đẻ",
+            "type": "",
+            "example": {
+                "en": "Childbirth would cause a woman to be unclean for a specified period of time.",
+                "vi": "Sự sinh đẻ khiến một phụ nữ bị ô uế trong một thời gian ấn định."
+            }
+        },
+        {
+            "content": "sinh con",
+            "type": "",
+            "example": {
+                "en": "My mother died during childbirth when I was in seventh grade.",
+                "vi": "Mẹ tôi chết khi sinh con lúc tôi đang học lớp bảy."
+            }
+        }
+    ]
+}

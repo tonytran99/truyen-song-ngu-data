@@ -1,0 +1,52 @@
+{
+    "word": "cultivator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəltəˌvādər/",
+            "/ˈkəltəˌveɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌltɪveɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy xới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làm ruộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người trồng trọt",
+            "type": "",
+            "example": {
+                "en": "26 Over the field workers who cultivated the soil was Ezʹri the son of Cheʹlub.",
+                "vi": "26 Ê-xơ-ri con trai Kê-lúp cai quản những người trồng trọt ngoài đồng."
+            }
+        },
+        {
+            "content": "nông dân",
+            "type": "noun",
+            "example": {
+                "en": "We moved from that to becoming farmers and cultivators of information.",
+                "vi": "Chúng ta giờ trở thành nông dân, và người khai thác thông tin."
+            }
+        },
+        {
+            "content": "nông gia",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

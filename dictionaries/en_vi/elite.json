@@ -1,0 +1,49 @@
+{
+    "word": "elite",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlēt/",
+            "/əˈlit/",
+            "/āˈlēt/",
+            "/eɪˈlit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪˈliːt/",
+            "/ɪˈliːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tinh nhuệ",
+            "type": "adjective",
+            "example": {
+                "en": "Because we are an elite unit, the best of the best.",
+                "vi": "Bởi vì bọn tôi là biệt đội tinh nhuệ, là đỉnh của đỉnh"
+            }
+        },
+        {
+            "content": "tầng lớp thượng lưu",
+            "type": "",
+            "example": {
+                "en": "a topic that Indian elites love to ignore.",
+                "vi": "một chủ đề tầng lớp thượng lưu Ấn Độ thích lờ đi."
+            }
+        },
+        {
+            "content": "ưu tú",
+            "type": "adjective",
+            "example": {
+                "en": "I'm an elite agent of an intergalactic paramilitary force.",
+                "vi": "Tôi là đặc vụ ưu tú của lực lượng bán quân sự liên thiên hà."
+            }
+        }
+    ]
+}

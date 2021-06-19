@@ -1,0 +1,42 @@
+{
+    "word": "vengeance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvenjəns/",
+            "/ˈvɛndʒəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛn(d)ʒ(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trả thù",
+            "type": "",
+            "example": {
+                "en": "Together, they would take their vengeance upon humanity.",
+                "vi": "Cùng với nhau họ sẽ trả thù nhân loại."
+            }
+        },
+        {
+            "content": "sự báo thù",
+            "type": "",
+            "example": {
+                "en": "His thirst for power and vengeance clouds judgment.",
+                "vi": "Cơn khát quyền lực, và đám mây của sự báo thù."
+            }
+        },
+        {
+            "content": "sự trà thù",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

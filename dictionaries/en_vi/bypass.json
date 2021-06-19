@@ -1,0 +1,76 @@
+{
+    "word": "bypass",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīˌpas/",
+            "/ˈbaɪˌpæs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪpɑːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ qua",
+            "type": "verb",
+            "example": {
+                "en": "Are there any objections to bypassing debate in this committee?",
+                "vi": "Có ai phản đối việc bỏ qua tranh luận ở Ủy ban không?"
+            }
+        },
+        {
+            "content": "đường vòng",
+            "type": "noun",
+            "example": {
+                "en": "So our idea is to create a bypass,",
+                "vi": "Vậy nên ý tưởng của chúng tôi là tạo ra một đường vòng,"
+            }
+        },
+        {
+            "content": "sun",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm đường vòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phớt lờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi vòng",
+            "type": "",
+            "example": {
+                "en": "It allows blood to bypass the lungs while a baby is still in the womb .",
+                "vi": "Nó giúp cho máu đi vòng qua phổi trong khi trẻ vẫn còn nằm trong bụng mẹ ."
+            }
+        },
+        {
+            "content": "đi vòng quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường rẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đường tránh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

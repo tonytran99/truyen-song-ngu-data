@@ -1,0 +1,32 @@
+{
+    "word": "boston",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbôstən/",
+            "/ˈbɔstən/",
+            "/ˈbästən/",
+            "/ˈbɑstən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒstən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "boston",
+            "type": "",
+            "example": {
+                "en": "Tom wondered whether it would be hard to find a job in Boston.",
+                "vi": "Tom muốn biết liệu có khó để tìm việc ở Boston hay không."
+            }
+        }
+    ]
+}

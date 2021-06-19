@@ -1,0 +1,21 @@
+{
+    "word": "groceries",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "hàng khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng tạp phẩm",
+            "type": "plural",
+            "example": {
+                "en": "A few groceries and a bottle of gin, the lot.",
+                "vi": "Vài thứ hàng tạp phẩm và một chai rượu gin là quá nhiều rồi."
+            }
+        }
+    ]
+}

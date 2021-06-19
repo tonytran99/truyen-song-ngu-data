@@ -1,0 +1,39 @@
+{
+    "word": "compressor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpresər/",
+            "/kəmˈprɛsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprɛsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ nén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy nén",
+            "type": "",
+            "example": {
+                "en": "Why didn't you warn us on that compressor?",
+                "vi": "Tại sao ông không cảnh báo chúng tôi bằng cái máy nén hơi đó?"
+            }
+        },
+        {
+            "content": "máy ép",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

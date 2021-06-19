@@ -1,0 +1,66 @@
+{
+    "word": "gamble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡambəl/",
+            "/ˈɡæmbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡamb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh bạc",
+            "type": "verb",
+            "example": {
+                "en": "So you lost all your money? That'll teach you to gamble.",
+                "vi": "Anh thua hết tiền rồi phải không? Điều đó sẽ dạy cho anh đừng có đánh bạc."
+            }
+        },
+        {
+            "content": "bạc",
+            "type": "adjective noun",
+            "example": {
+                "en": "So you lost all your money? That'll teach you to gamble.",
+                "vi": "Anh thua hết tiền rồi phải không? Điều đó sẽ dạy cho anh đừng có đánh bạc."
+            }
+        },
+        {
+            "content": "cuộc may rủi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc đánh bạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cờ bạc",
+            "type": "noun",
+            "example": {
+                "en": "I think I could answer the question concerning gambling just that briefly.",
+                "vi": "Tôi nghĩ tôi có thể trả lời câu hỏi về cờ bạc cũng ngắn gọn như thế."
+            }
+        },
+        {
+            "content": "đầu cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ bác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

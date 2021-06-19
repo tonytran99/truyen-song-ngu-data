@@ -1,0 +1,50 @@
+{
+    "word": "ken",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ken/",
+            "/kɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {
+                "en": "I dinna ken if yer a bother or no.",
+                "vi": "Tôi không biết cô có làm phiền cậu ta hay không."
+            }
+        },
+        {
+            "content": "nhìn ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phạm vi hiểu biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm mắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

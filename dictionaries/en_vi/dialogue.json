@@ -1,0 +1,66 @@
+{
+    "word": "dialogue",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīəˌläɡ/",
+            "/ˈdaɪəˌlɑɡ/",
+            "/ˈdīəˌlôɡ/",
+            "/ˈdaɪəˌlɔɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪəlɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đối thoại",
+            "type": "noun",
+            "example": {
+                "en": "Failing to see anything good on the other side makes a dialogue impossible.",
+                "vi": "Không thể nhìn thấy điều tốt từ phía kia khiến việc đối thoại bất khả thi."
+            }
+        },
+        {
+            "content": "cuộc đối thoại",
+            "type": "noun",
+            "example": {
+                "en": "He doesn't have a face or even traditional dialogue, for that matter.",
+                "vi": "Anh không có khuôn mặt và kể cả cuộc đối thoại bình thường."
+            }
+        },
+        {
+            "content": "hội thoại",
+            "type": "verb",
+            "example": {
+                "en": "I adapted it from a scripted dialogue about love.",
+                "vi": "Tôi mô phỏng nó từ một đoạn hội thoại có sẵn về tình yêu."
+            }
+        },
+        {
+            "content": "tác phẩm đối thoại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoạn văn đối thoại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Đối thoại",
+            "type": "",
+            "example": {
+                "en": "We're far more likely to have a productive dialogue with them than with Russia.",
+                "vi": "Đối thoại với họ sẽ hiệu quả hơn là với Nga nhiều."
+            }
+        }
+    ]
+}

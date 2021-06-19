@@ -1,0 +1,37 @@
+{
+    "word": "volition",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vōˈliSH(ə)n/",
+            "/voʊˈlɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈlɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ý muốn",
+            "type": "noun",
+            "example": {
+                "en": "This is not by our own volition, for we often fall asleep without realizing it.",
+                "vi": "Việc này không do ý muốn của chúng ta, vì chúng ta thường ngủ thiếp đi mà không hay biết."
+            }
+        },
+        {
+            "content": "ý chí",
+            "type": "noun",
+            "example": {
+                "en": "And how can people’s volition be changed?",
+                "vi": "Và làm sao thay đổi được ý chí?"
+            }
+        }
+    ]
+}

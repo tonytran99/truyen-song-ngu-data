@@ -1,0 +1,48 @@
+{
+    "word": "cottage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkädij/",
+            "/ˈkɑdɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒtɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà tranh",
+            "type": "",
+            "example": {
+                "en": "I come out here when I can, stay in that old cottage down there.",
+                "vi": "Tôi thường ra đây khi có dịp, ở trong cái nhà tranh dưới kia."
+            }
+        },
+        {
+            "content": "bệnh viên thôn dã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà riêng ở nông thôn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "túp lều",
+            "type": "",
+            "example": {
+                "en": "Then one day , his travels took him near an old countrywoman 's cottage .",
+                "vi": "Rồi một hôm nọ , chuyến hành trình đưa vịt con đến gần một túp lều của một bà lão thôn quê ."
+            }
+        }
+    ]
+}

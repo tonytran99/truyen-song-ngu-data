@@ -1,0 +1,64 @@
+{
+    "word": "unemployment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəmˈploimənt/",
+            "/ˌənəmˈplɔɪmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪmˈplɔɪm(ə)nt/",
+            "/ʌnɛmˈplɔɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "You can't compare unemployment to a cat four hurricane.",
+                "vi": "Ngài không thể so sánh thất nghiệp với một cơn bão cấp bốn được."
+            }
+        },
+        {
+            "content": "sự thất nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "One scary conclusion you could draw from all of this is to worry about structural unemployment.",
+                "vi": "Một kết luận đáng sợ mà bạn có thể rút ra từ tất cả điều này là lo lắng về sự thất nghiệp cấu trúc."
+            }
+        },
+        {
+            "content": "nạn thấp nghiệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng thất nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "This is a fundamentally different look at how to solve the problem of unemployment.",
+                "vi": "Về cơ bản, đây là một cái nhìn hoàn toàn khác vào việc làm thế nào để giải quyết tình trạng thất nghiệp."
+            }
+        },
+        {
+            "content": "Thất nghiệp",
+            "type": "",
+            "example": {
+                "en": "Well, unemployment leads to crime, to malnutrition, to improper medical care.",
+                "vi": "Thất nghiệp dẫn đến phạm tội, thiếu đói, chăm sóc y tế không cần thiết."
+            }
+        },
+        {
+            "content": "thaát nghieäp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

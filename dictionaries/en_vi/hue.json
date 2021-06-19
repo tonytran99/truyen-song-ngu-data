@@ -1,0 +1,59 @@
+{
+    "word": "hue",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞o/",
+            "/(h)ju/",
+            "/(h)wā/",
+            "/(h)weɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjuː/",
+            "/hweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sắc",
+            "type": "noun",
+            "example": {
+                "en": "Set here the hue adjustment of the image",
+                "vi": "Ở đây hãy đặt cách điều chỉnh sắc màu của ảnh"
+            }
+        },
+        {
+            "content": "màu sắc",
+            "type": "noun",
+            "example": {
+                "en": "A different hue altogether.",
+                "vi": "Một màu sắc hoàn toàn khác."
+            }
+        },
+        {
+            "content": "sự kêu la",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu",
+            "type": "noun",
+            "example": {
+                "en": "And you will have noticed that the hues and tones are like \"Avatar.\"",
+                "vi": "Các bạn sẽ có lẽ để ý thấy màu sắc và âm điệu giống như phim \"Avatar.\""
+            }
+        },
+        {
+            "content": "sắc thái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

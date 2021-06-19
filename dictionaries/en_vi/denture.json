@@ -1,0 +1,53 @@
+{
+    "word": "denture",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈden(t)SHər/",
+            "/ˈdɛn(t)ʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛntʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàm răng",
+            "type": "",
+            "example": {
+                "en": "You can't understand me without the dentures, can you?",
+                "vi": "Anh không hiểu tôi nếu không có hàm răng giả à?"
+            }
+        },
+        {
+            "content": "bộ răng",
+            "type": "",
+            "example": {
+                "en": "My sister lost three pairs of dentures in the earthquakes.",
+                "vi": "California, chị tôi đã mất ba bộ răng giả trong những lần động đất."
+            }
+        },
+        {
+            "content": "hàm răng giả",
+            "type": "noun",
+            "example": {
+                "en": "You can't understand me without the dentures, can you?",
+                "vi": "Anh không hiểu tôi nếu không có hàm răng giả à?"
+            }
+        },
+        {
+            "content": "răng giả",
+            "type": "noun",
+            "example": {
+                "en": "My sister lost three pairs of dentures in the earthquakes.",
+                "vi": "California, chị tôi đã mất ba bộ răng giả trong những lần động đất."
+            }
+        }
+    ]
+}

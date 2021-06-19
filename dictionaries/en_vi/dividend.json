@@ -1,0 +1,63 @@
+{
+    "word": "dividend",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdivəˌdend/",
+            "/ˈdɪvəˌdɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪvɪdɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "số bị chia",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái bị chia",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cổ tức",
+            "type": "noun",
+            "example": {
+                "en": "What if the company does n't pay a dividend or its dividend pattern is irregular ?",
+                "vi": "Nếu công ty không trả cổ tức hoặc cổ tức trả không đều đặn thì sao ?"
+            }
+        },
+        {
+            "content": "tiền lãi cổ phần",
+            "type": "noun",
+            "example": {
+                "en": "A portion of the company’s profits may also be divided among the shareholders as dividends.",
+                "vi": "Một phần lợi nhuận của công ty cũng có thể được chia cho các cổ đông dưới hình thức tiền lãi cổ phần."
+            }
+        },
+        {
+            "content": "tiền lãi",
+            "type": "noun",
+            "example": {
+                "en": "but the investments that have occurred are now paying dividends.",
+                "vi": "nhưng sự đầu tư đang được trả bằng những đồng tiền lãi."
+            }
+        },
+        {
+            "content": "Cổ tức",
+            "type": "",
+            "example": {
+                "en": "Ordinary shares do not guarantee paying-off dividends .",
+                "vi": "Cổ phiếu thường thì không chắc chắn sẽ được trả cổ tức ."
+            }
+        }
+    ]
+}

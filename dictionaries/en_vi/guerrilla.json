@@ -1,0 +1,43 @@
+{
+    "word": "guerrilla",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəˈrilə/",
+            "/ɡəˈrɪlə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəˈrɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "du kích",
+            "type": "noun",
+            "example": {
+                "en": "They put it in the water supply of a guerrilla army base.",
+                "vi": "Chúng đầu độc nguồn nước của một căn cứ quân du kích."
+            }
+        },
+        {
+            "content": "chiến tranh du kích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân du kích",
+            "type": "",
+            "example": {
+                "en": "They put it in the water supply of a guerrilla army base.",
+                "vi": "Chúng đầu độc nguồn nước của một căn cứ quân du kích."
+            }
+        }
+    ]
+}

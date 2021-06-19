@@ -1,0 +1,545 @@
+{
+    "word": "head",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hed/",
+            "/hɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầu",
+            "type": "noun",
+            "example": {
+                "en": "No one ever really knows what's going through someone else's head.",
+                "vi": "Không ai thực sự biết điều gì đang diễn ra trong đầu của người khác."
+            }
+        },
+        {
+            "content": "頭",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái đầu",
+            "type": "noun",
+            "example": {
+                "en": "I chopped off the chicken's head.",
+                "vi": "Tôi chặt đứt cái đầu của con gà."
+            }
+        },
+        {
+            "content": "đứng đầu",
+            "type": "noun",
+            "example": {
+                "en": "Yes but it's also the head, the head of the conference.",
+                "vi": "Vâng, nhưng đó cũng là đánh vào người đứng đầu, người đứng đầu của các sự kiện."
+            }
+        },
+        {
+            "content": "trưởng",
+            "type": "adjective, noun",
+            "example": {
+                "en": "And I know the head physician there, he doesn't have a clue.",
+                "vi": "Tôi quen trưởng khoa ở đó, anh ấy chẳng biết gì."
+            }
+        },
+        {
+            "content": "dẫn đầu",
+            "type": "",
+            "example": {
+                "en": "Aryan alliance is supposed to be heading this march.",
+                "vi": "Liên Minh Aryan phải dẫn đầu đoàn mít tinh."
+            }
+        },
+        {
+            "content": "ghi ở đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đứng đầu",
+            "type": "noun",
+            "example": {
+                "en": "Yes but it's also the head, the head of the conference.",
+                "vi": "Vâng, nhưng đó cũng là đánh vào người đứng đầu, người đứng đầu của các sự kiện."
+            }
+        },
+        {
+            "content": "năng khiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu óc",
+            "type": "noun",
+            "example": {
+                "en": "It's about getting that music thing going through their heads and their thinking.",
+                "vi": "Mà là muốn âm nhạc truyền cảm hứng vào đầu óc chúng và suy nghĩ của chúng."
+            }
+        },
+        {
+            "content": "đề mục",
+            "type": "",
+            "example": {
+                "en": "(List students’ responses on the board under the appropriate heading.)",
+                "vi": "(Liệt kê những câu trả lời của học sinh lên trên bảng dưới đề mục thích hợp)"
+            }
+        },
+        {
+            "content": "chủ",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps it's prudent to appoint an interim head of the bank.",
+                "vi": "Có lẽ nên thận trọng trong việc chỉ định một người chủ tạm thời cho ngân hàng."
+            }
+        },
+        {
+            "content": "người",
+            "type": "noun",
+            "example": {
+                "en": "No one ever really knows what's going through someone else's head.",
+                "vi": "Không ai thực sự biết điều gì đang diễn ra trong đầu của người khác."
+            }
+        },
+        {
+            "content": "con",
+            "type": "pronoun noun",
+            "example": {
+                "en": "All told, we lost 30 to 40 head.",
+                "vi": "Tất cả đã báo cáo, mình mất từ 30 tới 40 con."
+            }
+        },
+        {
+            "content": "mũi",
+            "type": "noun",
+            "example": {
+                "en": "This monk, did he have an arrow on his head?",
+                "vi": "Thằng thầy tu đó có mũi tên trên đầu không?"
+            }
+        },
+        {
+            "content": "mục",
+            "type": "adjective noun",
+            "example": {
+                "en": "You've had a target on my head since the day we met.",
+                "vi": "Cô đã là mục tiêu trong đầu tôi từ ngày ta gặp nhau."
+            }
+        },
+        {
+            "content": "ñaàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chánh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chính",
+            "type": "adjective",
+            "example": {
+                "en": "I know exactly what's going on in your head, and you are wrong.",
+                "vi": "Tôi biết chính xác những gì đang ở trong đầu cậu, và cậu sai rồi."
+            }
+        },
+        {
+            "content": "mỗi người",
+            "type": "",
+            "example": {
+                "en": "Each tube will plant a nanite into someone's head.",
+                "vi": "Mỗi cổng sẽ đặt một robot nano vào não của mỗi người."
+            }
+        },
+        {
+            "content": "một đầu",
+            "type": "",
+            "example": {
+                "en": "5 A human body is made up of many different members but has just one head.",
+                "vi": "5 Thân thể người ta gồm nhiều phần nhưng chỉ có một đầu."
+            }
+        },
+        {
+            "content": "thủ cấp",
+            "type": "noun",
+            "example": {
+                "en": "I want his head, I need his head.",
+                "vi": "Ta muốn thủ cấp của hắn, ta cần nó"
+            }
+        },
+        {
+            "content": "tiến về phía",
+            "type": "",
+            "example": {
+                "en": "Track one is heading east, track two to the southern hemisphere.",
+                "vi": "Một cái đang tiến về phía đông bán cầu, một cái tiến về phía nam bán cầu."
+            }
+        },
+        {
+            "content": "đánh đầu",
+            "type": "",
+            "example": {
+                "en": "Roman soldiers “hit him on the head with a reed and spit upon him.”",
+                "vi": "Quân lính La Mã “lấy cây sậy đánh đầu Ngài, nhổ trên Ngài”."
+            }
+        },
+        {
+            "content": "đầu nguồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vượt",
+            "type": "",
+            "example": {
+                "en": "That goes over my head.",
+                "vi": "Điều ấy vượt qua sự hiểu biết của tôi."
+            }
+        },
+        {
+            "content": "bọt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loại",
+            "type": "verb noun",
+            "example": {
+                "en": "do not believe that mankind is headed for extinction.",
+                "vi": "tin rằng nhân loại sẽ không bị tận diệt."
+            }
+        },
+        {
+            "content": "chương mục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chặt ngọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ huy",
+            "type": "noun",
+            "example": {
+                "en": "Get the head man at home or in the office.",
+                "vi": "Gọi người chỉ huy ở nhà hay tại văn phòng."
+            }
+        },
+        {
+            "content": "chủ nhiệm",
+            "type": "noun",
+            "example": {
+                "en": "He's head of the department.",
+                "vi": "Ông ấy là chủ nhiệm khoa cơ đấy."
+            }
+        },
+        {
+            "content": "cơn khủng hoảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cột nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cột trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiệu trưởng",
+            "type": "noun",
+            "example": {
+                "en": "On one occasion, the headmistress shoved Pablo and hit him on the head.",
+                "vi": "Một lần, bà hiệu trưởng xô Pablo và đánh vào đầu em."
+            }
+        },
+        {
+            "content": "hướng về",
+            "type": "",
+            "example": {
+                "en": "Because half the herd broke off and they're headed towards home.",
+                "vi": "Vì nửa đàn tách ra và chúng đang hướng về nhà."
+            }
+        },
+        {
+            "content": "hớt ngọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết thành bắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết thành cụm đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chóp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đầu",
+            "type": "",
+            "example": {
+                "en": "Why does a family need a family head?",
+                "vi": "Tại sao gia đình cần có người làm đầu?"
+            }
+        },
+        {
+            "content": "lânh đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lúc nguy kịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mũi biển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mưng chín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt ngửa",
+            "type": "",
+            "example": {
+                "en": "so I'll flip a coin. If it comes up heads, you're going to actually lose a lot.",
+                "vi": "để tôi tung đồng xu. Nếu mặt ngửa, các bạn sẽ mất rất nhiều."
+            }
+        },
+        {
+            "content": "người chỉ huy",
+            "type": "",
+            "example": {
+                "en": "Get the head man at home or in the office.",
+                "vi": "Gọi người chỉ huy ở nhà hay tại văn phòng."
+            }
+        },
+        {
+            "content": "phần chính",
+            "type": "",
+            "example": {
+                "en": "(b) Who is the principal part of the ‘seed of the woman,’ and what is meant by his bruising the serpent’s head?",
+                "vi": "(b) Ai là thành phần chính của “dòng-dõi người nữ”, và việc ngài đạp đầu con rắn có nghĩa gì?"
+            }
+        },
+        {
+            "content": "phần trước",
+            "type": "",
+            "example": {
+                "en": "The front part of my head.",
+                "vi": "Phần trước của cái đầu."
+            }
+        },
+        {
+            "content": "phần đầu",
+            "type": "noun",
+            "example": {
+                "en": "So, I decided to cut off the head and the tail.",
+                "vi": "Thế nên tôi quyết định cắt bỏ phần đầu và đuôi."
+            }
+        },
+        {
+            "content": "thắng hơn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủ trưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiến về",
+            "type": "",
+            "example": {
+                "en": "Track one is heading east, track two to the southern hemisphere.",
+                "vi": "Một cái đang tiến về phía đông bán cầu, một cái tiến về phía nam bán cầu."
+            }
+        },
+        {
+            "content": "trí nhớ",
+            "type": "noun",
+            "example": {
+                "en": "Assuming his memory is coming back, Where's he headed?",
+                "vi": "Giả sử trí nhớ anh ta trở lại, anh ta đi đâu?"
+            }
+        },
+        {
+            "content": "tài năng",
+            "type": "noun",
+            "example": {
+                "en": "I'd like to name my station heads:",
+                "vi": "'Tôi muốn giới thiệu tên những con người tài năng của chúng ta:"
+            }
+        },
+        {
+            "content": "váng kem",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vị trí đứng đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi về",
+            "type": "",
+            "example": {
+                "en": "My older brothers headed north, and each found his own way west.",
+                "vi": "Các anh tôi đi về hướng bắc, và mỗi anh tìm đường của mình đi về phía tây."
+            }
+        },
+        {
+            "content": "đi đầu",
+            "type": "",
+            "example": {
+                "en": "Peter, bearing a large key, heads the procession.",
+                "vi": "Phi-e-rơ đi đầu, tay cầm chiếc chìa khóa lớn."
+            }
+        },
+        {
+            "content": "đoạn đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đóng đầy thùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đương đầu với",
+            "type": "",
+            "example": {
+                "en": "6 Some brothers saw the issue clearly and met it head-on.",
+                "vi": "6 Một số anh em đã hiểu rõ và sẵn sàng đương đầu với vấn đề."
+            }
+        },
+        {
+            "content": "đường hầm",
+            "type": "noun",
+            "example": {
+                "en": "I need you to go right and head down the tunnel.",
+                "vi": "Anh phải quẹo phải và đi xuống đường hầm."
+            }
+        },
+        {
+            "content": "đầu người",
+            "type": "",
+            "example": {
+                "en": "It's really hard, for me to understand what's in the other person's head.",
+                "vi": "Nó rất khó khăn, cho tao để hiểu cái gì trong đầu người khác."
+            }
+        },
+        {
+            "content": "đầu phần trên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để ở đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đối chọi với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đầu",
+            "type": "",
+            "example": {
+                "en": "No one ever really knows what's going through someone else's head.",
+                "vi": "Không ai thực sự biết điều gì đang diễn ra trong đầu của người khác."
+            }
+        },
+        {
+            "content": "thủ",
+            "type": "",
+            "example": {
+                "en": "I'm not sure it can be for a head of state.",
+                "vi": "Em không chắc là ta được làm thế với nguyên thủ quốc gia."
+            }
+        },
+        {
+            "content": "nguồn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lãnh đạo",
+            "type": "noun",
+            "example": {
+                "en": "Damián, I'm appointing you head of this project until it's culmination.",
+                "vi": "Damián, tôi chỉ định cậu lãnh đạo dự án này cho đến đỉnh điểm."
+            }
+        },
+        {
+            "content": "mũi đất",
+            "type": "",
+            "example": {
+                "en": "The striking entrance from the Pacific Ocean is through two precipitous headlands—North Head and South Head.",
+                "vi": "Lối vào cảng trông ngoạn mục, đổ vào từ Thái Bình Dương đi qua giữa hai mũi đất dựng đứng—Mũi Bắc và Mũi Nam."
+            }
+        },
+        {
+            "content": "phía trước",
+            "type": "",
+            "example": {
+                "en": "And one day snail heads back to the front of the house.",
+                "vi": "Rồi một ngày kia con ốc bò lên lại phía trước nhà."
+            }
+        }
+    ]
+}

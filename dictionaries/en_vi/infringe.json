@@ -1,0 +1,34 @@
+{
+    "word": "infringe",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfrinj/",
+            "/ɪnˈfrɪndʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfrɪn(d)ʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vi phạm",
+            "type": "",
+            "example": {
+                "en": "the burden of proof that you did not infringe on the patent",
+                "vi": "gánh nặng của việc chứng minh mình không vi phạm bằng sáng chế này"
+            }
+        },
+        {
+            "content": "lấn",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

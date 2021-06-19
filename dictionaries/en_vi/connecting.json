@@ -1,0 +1,29 @@
+{
+    "word": "connecting",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnektiNG/",
+            "/kəˈnɛktɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnɛktɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nối",
+            "type": "verb",
+            "example": {
+                "en": "I can't connect to the Internet.",
+                "vi": "Tôi không thể kết nối vào mạng."
+            }
+        }
+    ]
+}

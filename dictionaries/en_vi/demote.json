@@ -1,0 +1,52 @@
+{
+    "word": "demote",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈmōt/",
+            "/diˈmoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈməʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáng chức",
+            "type": "",
+            "example": {
+                "en": "Got demoted for not understanding the need for a warrant.",
+                "vi": "Bị giáng chức vì không hiểu sự cần thiết của một cái trát tòa."
+            }
+        },
+        {
+            "content": "giáng cấp",
+            "type": "",
+            "example": {
+                "en": "So they sent me here, demoted me.",
+                "vi": "Nên họ đưa tôi tới đây, giáng cấp tôi."
+            }
+        },
+        {
+            "content": "cho xuống lớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạ tầng công tác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dégrader",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

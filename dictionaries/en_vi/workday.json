@@ -1,0 +1,35 @@
+{
+    "word": "workday",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərkˌdā/",
+            "/ˈwərkˌdeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwəːkdeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày công",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngày làm việc",
+            "type": "noun",
+            "example": {
+                "en": "Before I knew it, the evening was gone and another workday had begun.",
+                "vi": "Chẳng bao lâu, thì buổi tối đã trôi qua và một ngày làm việc khác lại bắt đầu."
+            }
+        }
+    ]
+}

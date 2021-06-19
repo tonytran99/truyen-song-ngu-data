@@ -1,0 +1,55 @@
+{
+    "word": "delineate",
+    "type": [
+        "verb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlinēˌāt/",
+            "/dəˈlɪniˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈlɪnɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vẽ",
+            "type": "verb",
+            "example": {
+                "en": "The delineated zones of potential groundwater resources are verified by detailed hydrogeological field surveys and geophysical measurements.",
+                "vi": "Các đới này được kiểm chứng bằng khảo sát thực tế và công tác đo vẽ địa vật lý."
+            }
+        },
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hoạ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vạch",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "phác hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạch ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

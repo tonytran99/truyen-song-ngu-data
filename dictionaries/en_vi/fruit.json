@@ -1,0 +1,101 @@
+{
+    "word": "fruit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fro͞ot/",
+            "/frut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fruːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trái",
+            "type": "noun",
+            "example": {
+                "en": "This fruit has an unpleasant smell.",
+                "vi": "Loại trái cây này có mùi khó ngửi."
+            }
+        },
+        {
+            "content": "quả",
+            "type": "noun",
+            "example": {
+                "en": "The fruiting season for the cherry trees is from June to July.",
+                "vi": "Mùa anh đào ra quả là từ tháng 6 đến tháng 7."
+            }
+        },
+        {
+            "content": "trái cây",
+            "type": "noun",
+            "example": {
+                "en": "This fruit has an unpleasant smell.",
+                "vi": "Loại trái cây này có mùi khó ngửi."
+            }
+        },
+        {
+            "content": "hoa quả",
+            "type": "noun",
+            "example": {
+                "en": "They can now sell part of those fruits to the orangutan project.",
+                "vi": "Bây giờ họ có thể bán một phần hoa quả cho dự án đười ươi."
+            }
+        },
+        {
+            "content": "thành quả",
+            "type": "",
+            "example": {
+                "en": "So they're able to really enjoy the fruits of their labor because they fired the boss.",
+                "vi": "Họ có thể tận hưởng thành quả lao động của mình vì họ đã sa thải sếp."
+            }
+        },
+        {
+            "content": "con cái",
+            "type": "",
+            "example": {
+                "en": "Parents who teach their children from an early age often realize the good fruit of their labors.",
+                "vi": "Các bậc cha mẹ dạy dỗ con cái từ thuở nhỏ thường thấy công sức của họ đạt được kết quả tốt đẹp."
+            }
+        },
+        {
+            "content": "kết quả",
+            "type": "verb noun",
+            "example": {
+                "en": "The work of these faithful brothers bore much fruit.",
+                "vi": "Công việc của những anh chị trung thành này đã đem lại nhiều kết quả."
+            }
+        },
+        {
+            "content": "làm cho ra quả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lợi tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu hoạch",
+            "type": "",
+            "example": {
+                "en": "There would be no fruit to be harvested and sold this year.",
+                "vi": "Sẽ không có trái cây để thu hoạch và bán trong năm nay."
+            }
+        },
+        {
+            "content": "quả cây",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

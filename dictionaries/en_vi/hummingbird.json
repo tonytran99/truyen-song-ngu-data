@@ -1,0 +1,34 @@
+{
+    "word": "hummingbird",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəmiNGˌbərd/",
+            "/ˈhəmɪŋˌbərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌmɪŋbəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chim ruồi",
+            "type": "noun",
+            "example": {
+                "en": "A pair ofjade hummingbirds one with wings of emeralds, the other with wings of pearl.",
+                "vi": "Một cặp chim ruồi bằng ngọc bích một con cánh ngọc lục bảo, con kia cánh ngọc trai."
+            }
+        },
+        {
+            "content": "họ chim ruồi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

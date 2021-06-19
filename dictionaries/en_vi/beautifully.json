@@ -1,0 +1,42 @@
+{
+    "word": "beautifully",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbyo͞odiflē/",
+            "/ˈbjudɪfli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbjuːtɪf(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đẹp",
+            "type": "adjective",
+            "example": {
+                "en": "Of the three girls, Emi was the one who danced most beautifully.",
+                "vi": "Trong ba cô, Emi là người nhảy đẹp nhất."
+            }
+        },
+        {
+            "content": "tốt đẹp",
+            "type": "adjective",
+            "example": {
+                "en": "Given just a little time, Danny will adjust beautifully.",
+                "vi": "Cứ cho chúng tôi một ít thời gian, Danny sẽ thích nghi tốt đẹp."
+            }
+        },
+        {
+            "content": "đáng hài lòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

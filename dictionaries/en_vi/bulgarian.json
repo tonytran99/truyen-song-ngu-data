@@ -1,0 +1,38 @@
+{
+    "word": "bulgarian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbəlˈɡerēən/",
+            "/ˌbəlˈɡɛriən/",
+            "/ˌbo͝olˈɡerēən/",
+            "/ˌbʊlˈɡɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌlˈɡɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Bun-ga-ri",
+            "type": "adjective proper",
+            "example": {
+                "en": "Can't just be because I remind you of some sad Bulgarian clown.",
+                "vi": "Đâu thể vì tôi nhắc cô nhớ đến một tên hề Bun-ga-ri buồn thảm."
+            }
+        },
+        {
+            "content": "người bun-ga-ri",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

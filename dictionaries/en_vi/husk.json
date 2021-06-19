@@ -1,0 +1,83 @@
+{
+    "word": "husk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həsk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌsk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xay",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vỏ",
+            "type": "noun",
+            "example": {
+                "en": "He was so hungry that he wanted to eat the husks meant for the animals.",
+                "vi": "Anh ta đói đến nỗi muốn ăn vỏ đậu dành cho thú vật."
+            }
+        },
+        {
+            "content": "bóc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bóc vỏ",
+            "type": "",
+            "example": {
+                "en": "After harvesting , the seeds are run through a rice huller husker for milling to remove the outer grain husks .",
+                "vi": "Sau khi thu hoạch , gạo được qua quá trình bóc vỏ để tách lớp vỏ ngoài ."
+            }
+        },
+        {
+            "content": "bệnh ho khan",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cỏ khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lá bao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vỏ hạt",
+            "type": "noun",
+            "example": {
+                "en": "If you're in China, you might use a rice husk or a cottonseed hull.",
+                "vi": "Nếu bạn ở Trung Quốc, bạn sẽ dùng rơm khô hoặc là vỏ hạt cotton."
+            }
+        },
+        {
+            "content": "trấu",
+            "type": "noun",
+            "example": {
+                "en": "This process dislodged the grain from the stalks and the husks.",
+                "vi": "Làm thế, người ta có thể tách hạt lúa mì ra khỏi cọng và trấu."
+            }
+        },
+        {
+            "content": "xác",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

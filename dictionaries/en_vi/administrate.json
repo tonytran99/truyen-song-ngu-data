@@ -1,0 +1,50 @@
+{
+    "word": "administrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˈminəˌstrāt/",
+            "/ədˈmɪnəˌstreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˈmɪnɪstreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quản lý",
+            "type": "verb",
+            "example": {
+                "en": "Did you talk to the police about that scary administrator guy?",
+                "vi": "Anh có báo cảnh sát về cái gã quản lý đáng sợ đoa chưa?"
+            }
+        },
+        {
+            "content": "cai quản",
+            "type": "",
+            "example": {
+                "en": "for the elite administrators (Laughter) who kept track of accounts for the empires.",
+                "vi": "bởi những người cai quản ưu tú (Cười) trông coi sổ sách cho những đế chế."
+            }
+        },
+        {
+            "content": "cai trị",
+            "type": "",
+            "example": {
+                "en": "The palace had been enlarged over the course of time to make way for the growing needs of an increasingly powerful administration.",
+                "vi": "Theo thời gian, cung điện đã được xây dựng thêm để đáp ứng sự lớn mạnh của guồng máy cai trị."
+            }
+        },
+        {
+            "content": "trông nom",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

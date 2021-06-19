@@ -1,0 +1,29 @@
+{
+    "word": "gunshot",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡənˌSHät/",
+            "/ˈɡənˌʃɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌnʃɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát súng",
+            "type": "noun",
+            "example": {
+                "en": "Do you have an estimate on how far away the gunshot was?",
+                "vi": "Anh có ước tính phát súng cách bao xa không?"
+            }
+        }
+    ]
+}

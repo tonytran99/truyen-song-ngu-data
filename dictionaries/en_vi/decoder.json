@@ -1,0 +1,46 @@
+{
+    "word": "decoder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdēˈkōdər/",
+            "/ˌdiˈkoʊdər/",
+            "/diˈkōdər/",
+            "/dɪˈkoʊdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈkəʊdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ giải mã",
+            "type": "",
+            "example": {
+                "en": "So we've teamed up with the decoder of the human genome, Craig Venter,",
+                "vi": "chúng tôi hợp tác với tác giả bộ giải mã gien người, Craig Venter"
+            }
+        },
+        {
+            "content": "ma trận chuyển mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy đọc mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người giải mã",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

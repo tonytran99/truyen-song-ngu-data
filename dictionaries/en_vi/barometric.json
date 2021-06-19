@@ -1,0 +1,29 @@
+{
+    "word": "barometric",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈˌberəˈmetrik/",
+            "/ˈˌbɛrəˈmɛtrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/barəˈmɛtrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí áp",
+            "type": "",
+            "example": {
+                "en": "It changes with temperature and with barometric pressure.",
+                "vi": "Nó thay đổi theo nhiệt độ và khí áp."
+            }
+        }
+    ]
+}

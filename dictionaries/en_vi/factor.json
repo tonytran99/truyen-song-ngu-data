@@ -1,0 +1,90 @@
+{
+    "word": "factor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaktər/",
+            "/ˈfæktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thừa số",
+            "type": "noun",
+            "example": {
+                "en": "Eli's income went up by a factor of ten when he was taking those pills.",
+                "vi": "Nguồn thu của Eli tăng thừa số của 10 lần, khi cậu ấy dùng thuốc."
+            }
+        },
+        {
+            "content": "nhân tố",
+            "type": "",
+            "example": {
+                "en": "And you need the fourth factor, which perhaps is the most important factor.",
+                "vi": "Và bạn cần nhân tố thứ tư, mà có lẽ là nhân tố quan trọng nhất."
+            }
+        },
+        {
+            "content": "yếu tố",
+            "type": "noun",
+            "example": {
+                "en": "It's the absence of susceptibility factors and risk factors for these disorders.",
+                "vi": "Tưởng là sự vắng mặc của các yếu tố mẫn cảm và các yếu tố rủi ro."
+            }
+        },
+        {
+            "content": "nguyên nhân",
+            "type": "noun",
+            "example": {
+                "en": "What is another factor contributing to the demise of good manners?",
+                "vi": "Một nguyên nhân khác nào góp phần làm sự lịch sự mất đi nhiều?"
+            }
+        },
+        {
+            "content": "tác nhân",
+            "type": "noun",
+            "example": {
+                "en": "So there's this unbalance of good and bad factors, if you will.",
+                "vi": "Nói cách khác, có sự mất cân đối trong các tác nhân tốt và xấu."
+            }
+        },
+        {
+            "content": "hệ số",
+            "type": "",
+            "example": {
+                "en": "Scale image to screen size, if smaller, up to factor",
+                "vi": "Ảnh nhỏ hơn thì phóng to nó thành kích cỡ màn hình, đến hệ số"
+            }
+        },
+        {
+            "content": "người quản lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đại diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhana tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

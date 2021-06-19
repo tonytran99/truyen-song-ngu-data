@@ -1,0 +1,63 @@
+{
+    "word": "feud",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fyo͞od/",
+            "/fjud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fjuːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thái ấp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mối thù truyền kiếp",
+            "type": "",
+            "example": {
+                "en": "Lovecraft had a long feud with Thomas Wayne over deals and politics.",
+                "vi": "Lovecraft có mối thù truyền kiếp với Thomas Wayne vì các hợp đồng và chính trị."
+            }
+        },
+        {
+            "content": "hận thù",
+            "type": "",
+            "example": {
+                "en": "At the time, Neil’s family was caught up in a feud with another family.",
+                "vi": "Lúc đó, gia đình Neil đang có hận thù với một gia đình khác."
+            }
+        },
+        {
+            "content": "mối cừu hận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối hận thù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tư thù",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đất phong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

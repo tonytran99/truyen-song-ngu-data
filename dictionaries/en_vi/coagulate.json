@@ -1,0 +1,44 @@
+{
+    "word": "coagulate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōˈaɡyəˌlāt/",
+            "/koʊˈæɡjəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊˈaɡjʊleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đông lại",
+            "type": "",
+            "example": {
+                "en": "It comes from petroleum, and it is readily found in Mesopotamia, where it wells up out of the earth and coagulates.",
+                "vi": "Chất này được chưng cất từ dầu mỏ; nó cũng trào lên khỏi mặt đất và đông lại ở nhiều nơi trong vùng Lưỡng Hà."
+            }
+        },
+        {
+            "content": "đông",
+            "type": "verb",
+            "example": {
+                "en": "This blood contains a unique property that prevents coagulation completely.",
+                "vi": "Máu này chứa một đặc tính dị ngăn hoàn toàn quá trình đông máu."
+            }
+        },
+        {
+            "content": "làm đông lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

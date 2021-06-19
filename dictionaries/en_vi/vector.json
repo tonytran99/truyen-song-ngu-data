@@ -1,0 +1,86 @@
+{
+    "word": "vector",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvektər/",
+            "/ˈvɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vectơ",
+            "type": "noun",
+            "example": {
+                "en": "We're so used to working in one vector.",
+                "vi": "Ta chỉ quen làm việc trong một vectơ."
+            }
+        },
+        {
+            "content": "lái",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "basis . xectơ cơ sở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật chủ trung gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "véc tơ",
+            "type": "noun",
+            "example": {
+                "en": "And that's what I call the time vector.",
+                "vi": "Và tôi gọi nó là véc-tơ thời gian."
+            }
+        },
+        {
+            "content": "Vector",
+            "type": "",
+            "example": {
+                "en": "I need vector scripts ready to execute the second Fitz gets us on that network.",
+                "vi": "Tôi cần hệ thống vector sẵn sàng hoạt động ngay khi Fitz kết nối ta vào mạng lưới."
+            }
+        },
+        {
+            "content": "Vật trung gian truyền bệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hướng lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mảng một chiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đại lượng có hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đại lượng hữu hướng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

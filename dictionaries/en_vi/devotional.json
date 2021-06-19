@@ -1,0 +1,62 @@
+{
+    "word": "devotional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvōSH(ə)n(ə)l/",
+            "/dəˈvoʊʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvəʊʃənl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hết lòng",
+            "type": "adjective",
+            "example": {
+                "en": "Despite her devoted care, my brother died while they were there.",
+                "vi": "Mặc dù mẹ hết lòng chăm sóc, em tôi chết ở đó."
+            }
+        },
+        {
+            "content": "mộ đạo",
+            "type": "",
+            "example": {
+                "en": "Well, it's a gesture of devotion.",
+                "vi": "À, đó là hành động mộ đạo thôi."
+            }
+        },
+        {
+            "content": "sùng đạo",
+            "type": "",
+            "example": {
+                "en": "What if the penalty for this devotion of his was death?",
+                "vi": "Vậy thì lòng sùng đạo của hắn có thể giết được hắn chứ?"
+            }
+        },
+        {
+            "content": "tận tâm",
+            "type": "adjective",
+            "example": {
+                "en": "We need devotion in adherence to divinely spoken principles.",
+                "vi": "Chúng ta cần phải tận tâm trong việc tuân thủ các nguyên tắc đã được Chúa phán bảo."
+            }
+        },
+        {
+            "content": "tận tình",
+            "type": "adjective",
+            "example": {
+                "en": "We thank you for your commitment and your devoted service.",
+                "vi": "Chúng tôi cám ơn các anh em về sự cam kết và phục vụ tận tình của các anh em."
+            }
+        }
+    ]
+}

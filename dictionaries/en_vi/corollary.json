@@ -1,0 +1,45 @@
+{
+    "word": "corollary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəˌlerē/",
+            "/ˈkɔrəˌlɛri/",
+            "/ˈkärəˌlerē/",
+            "/ˈkɑrəˌlɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɒləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hệ luận",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hệ quả",
+            "type": "",
+            "example": {
+                "en": "well, there's some corollaries that flow from that.",
+                "vi": "à thì, có vài hệ quả từ điều đó."
+            }
+        },
+        {
+            "content": "kết quả tất yếu",
+            "type": "noun",
+            "example": {
+                "en": "And the corollary, of course, is that any further changes",
+                "vi": "Và tất nhiên, kết quả tất yếu là bất kỳ những thay đổi xa hơn"
+            }
+        }
+    ]
+}

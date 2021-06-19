@@ -1,0 +1,55 @@
+{
+    "word": "trousers",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrouzərz/",
+            "/ˈtraʊzərz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtraʊzəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quần",
+            "type": "noun",
+            "example": {
+                "en": "Who wants to see me take off Snivelly's trousers?",
+                "vi": "Có ai muốn thấy tôi lột quần Snivelly không?"
+            }
+        },
+        {
+            "content": "quần tây",
+            "type": "",
+            "example": {
+                "en": "The killer's not left us with much, just the shirt and the trousers.",
+                "vi": "Tên sát nhân không để lại nhiều cho chúng ta, chỉ áo sơ mi và quần tây."
+            }
+        },
+        {
+            "content": "quần dài",
+            "type": "plural",
+            "example": {}
+        },
+        {
+            "content": "Quần",
+            "type": "",
+            "example": {
+                "en": "Who wants to see me take off Snivelly's trousers?",
+                "vi": "Có ai muốn thấy tôi lột quần Snivelly không?"
+            }
+        },
+        {
+            "content": "quần lót dài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

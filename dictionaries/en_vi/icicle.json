@@ -1,0 +1,37 @@
+{
+    "word": "icicle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīˌsik(ə)l/",
+            "/ˈaɪˌsɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trụ băng",
+            "type": "noun",
+            "example": {
+                "en": "Just watch my back on these icicles,",
+                "vi": "Nhìn lưng tôi qua những trụ băng này"
+            }
+        },
+        {
+            "content": "cột băng",
+            "type": "noun",
+            "example": {
+                "en": "At 453 degrees below zero, that liquid helium would break it off like an icicle.",
+                "vi": "Tại - 453 độ, chất helium lỏng sẽ làm nó thành cột băng đấy."
+            }
+        }
+    ]
+}

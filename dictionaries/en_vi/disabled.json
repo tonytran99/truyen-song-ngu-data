@@ -1,0 +1,81 @@
+{
+    "word": "disabled",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisˈāb(ə)ld/",
+            "/ˌdɪsˈeɪb(ə)ld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈeɪbld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người tàn tật",
+            "type": "",
+            "example": {
+                "en": "And you know, disabled people are hugely educated.",
+                "vi": "Những người tàn tật nhận được nền giáo dục rất tốt."
+            }
+        },
+        {
+            "content": "què",
+            "type": "adjective",
+            "example": {
+                "en": "Because my legs haven't disabled me,",
+                "vi": "Bởi vì đôi chân không làm tôi què quặt."
+            }
+        },
+        {
+            "content": "vô hiệu hoá",
+            "type": "",
+            "example": {
+                "en": "Dr. Palmer is going to help me remotely disable it.",
+                "vi": "Palmer sẽ giúp tôi vô hiệu hoá nó từ xa."
+            }
+        },
+        {
+            "content": "vô hiệu lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị tàn tật",
+            "type": "",
+            "example": {
+                "en": "Some had physical disabilities, while others excelled physically.",
+                "vi": "Một số em bị tàn tật, còn những em khác thì rất khỏe mạnh."
+            }
+        },
+        {
+            "content": "tật nguyền",
+            "type": "adjective",
+            "example": {
+                "en": "Nevertheless, many people view blindness as the most dreaded disability.",
+                "vi": "Tuy nhiên, nhiều người coi sự mù lòa là một tật nguyền đáng khiếp sợ nhất."
+            }
+        },
+        {
+            "content": "mất hiệu lực, vô hiệu lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn tật",
+            "type": "adjective",
+            "example": {
+                "en": "So in this case, we're objectifying disabled people for the benefit of nondisabled people.",
+                "vi": "Trong trường hợp này, họ dùng người tàn tật cho lợi ích của nhóm người không tàn tật."
+            }
+        }
+    ]
+}

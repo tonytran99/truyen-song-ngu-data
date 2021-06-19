@@ -1,0 +1,72 @@
+{
+    "word": "canary",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnerē/",
+            "/kəˈnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnɛːri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chim bạch yến",
+            "type": "noun",
+            "example": {
+                "en": "This is where the canary is, Johnny.",
+                "vi": "Đây là nơi chú chim bạch yến ở."
+            }
+        },
+        {
+            "content": "chim tước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bạch yến",
+            "type": "noun",
+            "example": {
+                "en": "In doing this, what we've discovered is that humans are literal canaries in social exchanges.",
+                "vi": "Qua thử nghiệm, chúng tôi nhận thấy trong giao tiếp xã hội, con người như chim bạch yến."
+            }
+        },
+        {
+            "content": "chim hoàng yến",
+            "type": "noun",
+            "example": {
+                "en": "In coal mines, this canary was supposed to be close to the miners.",
+                "vi": "Trong các mỏ than, loài chim hoàng yến này khá thân thiết với các thợ mỏ."
+            }
+        },
+        {
+            "content": "rượu canary",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu vang canari",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vàng nhạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "doorstep",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrstep/",
+            "/ˈdɔrstɛp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːstɛp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngưỡng cửa",
+            "type": "",
+            "example": {
+                "en": "There was a single shoe lying on one of the doorsteps.",
+                "vi": "Trên một ngưỡng cửa có một chiếc giày."
+            }
+        },
+        {
+            "content": "bậc cửa",
+            "type": "noun",
+            "example": {
+                "en": "And he shows up on their porch, their doorstep,",
+                "vi": "Và anh ấy xuất hiện trước cổng, trên bậc cửa nhà họ,"
+            }
+        }
+    ]
+}

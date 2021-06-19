@@ -1,0 +1,48 @@
+{
+    "word": "fortnight",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrtˌnīt/",
+            "/ˈfɔrtˌnaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːtnʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai tuần",
+            "type": "",
+            "example": {
+                "en": "Surely she could spare you for another fortnight.",
+                "vi": "Chắc chắn bà có thể cho cô ở lại thêm hai tuần."
+            }
+        },
+        {
+            "content": "hai tuần lễ",
+            "type": "",
+            "example": {
+                "en": "Every second fortnight, he rode.",
+                "vi": "Cứ vào hai tuần lễ cuối, ông ấy cưỡi ngựa đi."
+            }
+        },
+        {
+            "content": "mười lăm ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trung tuần",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

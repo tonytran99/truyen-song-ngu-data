@@ -1,0 +1,47 @@
+{
+    "word": "italic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈtalik/",
+            "/ɪˈtælɪk/",
+            "/īˈtalik/",
+            "/aɪˈtælɪk/",
+            "/īˈtal-/",
+            "/ɪˌtælɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈtalɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghiêng",
+            "type": "adjective",
+            "example": {
+                "en": "I've shown you just a few things in italics here.",
+                "vi": "Tôi vừa trình bày với bạn một vài điều in nghiêng trên đây."
+            }
+        },
+        {
+            "content": "chữ ngả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "In nghiêng",
+            "type": "",
+            "example": {
+                "en": "I've shown you just a few things in italics here.",
+                "vi": "Tôi vừa trình bày với bạn một vài điều in nghiêng trên đây."
+            }
+        }
+    ]
+}

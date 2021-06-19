@@ -1,0 +1,65 @@
+{
+    "word": "articulation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ärˌtikyəˈlāSH(ə)n/",
+            "/ɑrˌtɪkjəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːˌtɪkjʊˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khớp",
+            "type": "noun",
+            "example": {
+                "en": "It's modeled after the articulated wings of a bat.",
+                "vi": "Nó được dựng theo các khớp cánh của con dơi."
+            }
+        },
+        {
+            "content": "cách đọc rõ ràng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khớp nối",
+            "type": "",
+            "example": {
+                "en": "constructed an articulated suit of aluminum armor",
+                "vi": "làm thành một bộ áo giáp nhôm có các khớp nối"
+            }
+        },
+        {
+            "content": "phụ âm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự nối bằng khớp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự phát âm rõ ràng",
+            "type": "noun",
+            "example": {
+                "en": "Women's ability to find the right word rapidly, basic articulation",
+                "vi": "Khả năng của phụ nữ để tìm từ ngữ phù hợp một cách nhanh chóng, sự phát âm rõ ràng cơ bản"
+            }
+        },
+        {
+            "content": "trục bản lề",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "empress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈemprəs/",
+            "/ˈɛmprəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛmprəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoàng hậu",
+            "type": "noun",
+            "example": {
+                "en": "My condolences, Empress Xie.",
+                "vi": "Lời chia buồn của thần, thưa hoàng hậu Xie."
+            }
+        },
+        {
+            "content": "hậu",
+            "type": "noun",
+            "example": {
+                "en": "However, he accepted the generous gifts offered by the empress and satisfied her request.",
+                "vi": "Tuy nhiên, ông đã nhận quà hậu hĩ của nữ hoàng và làm cho bà được như ý."
+            }
+        },
+        {
+            "content": "nữ hoàng",
+            "type": "noun",
+            "example": {
+                "en": "Speak and be recognized by your empress, mortal.",
+                "vi": "Hãy nói để được xác nhận bởi nữ hoàng của ngươi."
+            }
+        }
+    ]
+}

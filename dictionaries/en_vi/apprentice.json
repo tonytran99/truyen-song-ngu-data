@@ -1,0 +1,66 @@
+{
+    "word": "apprentice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpren(t)əs/",
+            "/əˈprɛn(t)əs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈprɛntɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người học việc",
+            "type": "noun",
+            "example": {
+                "en": "Being an apprentice, you know, you do that.",
+                "vi": "Bạn phải làm thế khi bạn là người học việc."
+            }
+        },
+        {
+            "content": "cho học nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho học việc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người học nghề",
+            "type": "",
+            "example": {
+                "en": "The work as an apprentice was very primitive.",
+                "vi": "Công việc của một người học nghề rất thô sơ."
+            }
+        },
+        {
+            "content": "người mới tập sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người mới vào nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ học việc",
+            "type": "noun",
+            "example": {
+                "en": "My father became an apprentice like every son before him.",
+                "vi": "Bố ta trở thành thợ học việc như những người con trai trước ông."
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "jerry",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "jerry-shop",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lính Đức",
+            "type": "",
+            "example": {
+                "en": "In the Metro, I sat next to a Jerry.",
+                "vi": "Tôi ngồi kế bên một tên lính Đức trong xe điện ngầm."
+            }
+        },
+        {
+            "content": "máy bay Đức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người Đức",
+            "type": "noun",
+            "example": {
+                "en": "This Jerry of yours, Stiglitz, not exactly the loquacious type, is he?",
+                "vi": "Tay người Đức của các anh, Stiglitz, có vẻ không phải là loại \" hay hót \" nhỉ?"
+            }
+        }
+    ]
+}

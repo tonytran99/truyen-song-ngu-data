@@ -1,0 +1,38 @@
+{
+    "word": "jugular",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjəɡyələr/",
+            "/ˈdʒəɡjələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʌɡjʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tĩnh mạch cảnh",
+            "type": "",
+            "example": {
+                "en": "When the giraffe lowers its head, valves in the jugular vein prevent blood from rushing back to the brain.",
+                "vi": "Khi hươu cúi đầu xuống, van trong tĩnh mạch cảnh cản không cho máu dồn về não."
+            }
+        },
+        {
+            "content": "cổ",
+            "type": "adjective pronoun noun",
+            "example": {
+                "en": "I think it's the jugular unit.",
+                "vi": "Tôi nghĩ đó là do bộ phận ở cổ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "word": "deed",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēd/",
+            "/did/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc làm",
+            "type": "noun",
+            "example": {
+                "en": "An evil deed is defined as one that is morally wrong.",
+                "vi": "Việc làm ác được định nghĩa là việc làm trái với đạo đức."
+            }
+        },
+        {
+            "content": "hành vi",
+            "type": "noun",
+            "example": {
+                "en": "It's a place where unspeakable deeds dwell in darkness.",
+                "vi": "Là nơi những hành vi vô ngôn ẩn trong bóng tối."
+            }
+        },
+        {
+            "content": "hành động",
+            "type": "noun",
+            "example": {
+                "en": "Well do I remember my most unique “deed” to sustain a prophet.",
+                "vi": "Tôi nhớ rõ “hành động” độc đáo nhất của tôi để tán trợ một vị tiên tri."
+            }
+        },
+        {
+            "content": "sự",
+            "type": "noun",
+            "example": {
+                "en": "I'm running on a platform of moral, mental, and social advancement through good deeds.",
+                "vi": "Cháu đang tiếp tục diễn thuyết về đạo đức, trí tuệ, và tiến bộ xã hội về sự giúp đỡ lẫn nhau."
+            }
+        },
+        {
+            "content": "chiến công",
+            "type": "",
+            "example": {
+                "en": "Remember the deeds you have performed, the labors you have accomplished!",
+                "vi": "Hãy nhớ những chiến công anh đã thực hiện, những nhiệm vụ anh đã hoàn thành!"
+            }
+        },
+        {
+            "content": "chứng thư",
+            "type": "",
+            "example": {
+                "en": "You can purchase, first and second trust deeds",
+                "vi": "Bạn có thể mua chứng thư tín thác đầu tiên và thứ nhì."
+            }
+        },
+        {
+            "content": "kỳ công",
+            "type": "",
+            "example": {
+                "en": "Someone forgot to write down all your great deeds.",
+                "vi": "Ai đó đã quên viết về kỳ công của cậu rồi."
+            }
+        },
+        {
+            "content": "thành tích lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "văn bản",
+            "type": "",
+            "example": {
+                "en": "Why are there two deeds here?",
+                "vi": "Sao lại có hai văn bản này ở đây?"
+            }
+        },
+        {
+            "content": "khế",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

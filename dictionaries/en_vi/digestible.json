@@ -1,0 +1,55 @@
+{
+    "word": "digestible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈjestəb(ə)l/",
+            "/dəˈdʒɛstəb(ə)l/",
+            "/dīˈjestəb(ə)l/",
+            "/daɪˈdʒɛstəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈdʒɛstɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiêu hoá được",
+            "type": "",
+            "example": {
+                "en": "The moss inside is half digested.",
+                "vi": "Số rêu bên trong đã tiêu hoá được phân nửa rồi."
+            }
+        },
+        {
+            "content": "có thể tiêu hóa được",
+            "type": "",
+            "example": {
+                "en": "and converts that into simple sugars that the tube worm can digest.",
+                "vi": "và chuyển hóa thành dạng đường để giun ống có thể tiêu hóa được"
+            }
+        },
+        {
+            "content": "dễ tiêu",
+            "type": "adjective",
+            "example": {
+                "en": "It is also a great digestive tonic .",
+                "vi": "Nó cũng là liều thuốc tốt giúp dễ tiêu hoá ."
+            }
+        },
+        {
+            "content": "tiêu hóa được",
+            "type": "adjective",
+            "example": {
+                "en": "Gene will never be able to digest them.",
+                "vi": "Gene sẽ không thể nào tiêu hóa được chúng."
+            }
+        }
+    ]
+}

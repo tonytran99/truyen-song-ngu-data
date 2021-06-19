@@ -1,0 +1,63 @@
+{
+    "word": "contingent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtinjənt/",
+            "/kənˈtɪndʒənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtɪndʒ(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "contingency",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất ngờ",
+            "type": "",
+            "example": {
+                "en": "And that must be the last of your contingencies.",
+                "vi": "Và đó sẽ là bất ngờ cuối cùng của mày."
+            }
+        },
+        {
+            "content": "còn tuỳ theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "còn tuỳ thuộc vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "This is a good example of the extreme contingency, the chance nature, of existence.",
+                "vi": "Đây là một ví dụ điển hình của sự ngẫu nhiên tột cùng, của đặc tính ngẫu nhiên của sự sống."
+            }
+        },
+        {
+            "content": "nhóm con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

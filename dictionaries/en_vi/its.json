@@ -1,0 +1,56 @@
+{
+    "word": "its",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/its/",
+            "/ɪts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của nó",
+            "type": "pronoun",
+            "example": {
+                "en": "This corporation is well known for its communication equipment.",
+                "vi": "Tập đoàn này nổi tiếng vì trang thiết bị thông tin của nó."
+            }
+        },
+        {
+            "content": "cái của điều đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của con vật đó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của cái đó",
+            "type": "",
+            "example": {
+                "en": "That was the beginning of it.",
+                "vi": "Đây là khởi đầu của cái đó."
+            }
+        },
+        {
+            "content": "của điều đó",
+            "type": "",
+            "example": {
+                "en": "I'm just glad that I could be a part of it, really.",
+                "vi": "Tôi vui là tôi có thể là một phần của điều đó, thật sự đấy."
+            }
+        }
+    ]
+}

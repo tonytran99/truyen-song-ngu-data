@@ -1,0 +1,50 @@
+{
+    "word": "deity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdēədē/",
+            "/ˈdiədi/",
+            "/ˈdāədē/",
+            "/ˈdeɪədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪɪti/",
+            "/ˈdiːɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thần",
+            "type": "noun",
+            "example": {
+                "en": "Your holy crusade is led by men, not some precious deity.",
+                "vi": "Cuộc Thập tự chinh của các ngươi được lãnh đạo bởi người chứ không phải thần thánh."
+            }
+        },
+        {
+            "content": "vị thần",
+            "type": "noun",
+            "example": {
+                "en": "These zones, or “houses of heaven,” were considered to be the abodes of specific deities.",
+                "vi": "Mỗi cung là chốn thiên thai hay nơi ở của một vị thần."
+            }
+        },
+        {
+            "content": "thần quyền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tính thần",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

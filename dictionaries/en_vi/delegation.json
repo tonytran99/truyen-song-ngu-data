@@ -1,0 +1,55 @@
+{
+    "word": "delegation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdeləˈɡāSH(ə)n/",
+            "/ˌdɛləˈɡeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛlɪˈɡeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phái đoàn",
+            "type": "noun",
+            "example": {
+                "en": "No delegation was allowed to visit the besieged region.",
+                "vi": "Không phái đoàn nào đã được phép đến vùng bị vây hãm."
+            }
+        },
+        {
+            "content": "đoàn đại biểu",
+            "type": "noun",
+            "example": {
+                "en": "He is dumping the urine on the Israeli delegation.",
+                "vi": "Ông ta đổ nước tiểu vào đoàn đại biểu lsrael."
+            }
+        },
+        {
+            "content": "sự cử đại biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự uỷ quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự uỷ thác",
+            "type": "",
+            "example": {
+                "en": "The delegation is at your discretion, Mr. President.",
+                "vi": "Sự uỷ thác thuộc toàn quyền của ngài, thưa Tổng thống."
+            }
+        }
+    ]
+}

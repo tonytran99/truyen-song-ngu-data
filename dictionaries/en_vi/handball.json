@@ -1,0 +1,44 @@
+{
+    "word": "handball",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)ˌbôl/",
+            "/ˈhæn(d)ˌbɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhan(d)bɔːl/",
+            "/han(d)ˈbɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "banh để liệng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "môn bóng ném",
+            "type": "noun",
+            "example": {
+                "en": "Arielle enjoyed watching women’s handball on television.",
+                "vi": "Em Arielle thích xem môn bóng ném nữ trên truyền hình."
+            }
+        },
+        {
+            "content": "Bóng ném",
+            "type": "",
+            "example": {
+                "en": "Arielle enjoyed watching women’s handball on television.",
+                "vi": "Em Arielle thích xem môn bóng ném nữ trên truyền hình."
+            }
+        }
+    ]
+}

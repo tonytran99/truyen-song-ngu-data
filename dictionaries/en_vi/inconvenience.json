@@ -1,0 +1,67 @@
+{
+    "word": "inconvenience",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkənˈvēnyəns/",
+            "/ˌɪnkənˈvinjəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkənˈviːnɪəns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bất tiện",
+            "type": "",
+            "example": {
+                "en": "I know it's a big inconvenience for everyone.",
+                "vi": "Tôi biết đó là 1 sự bất tiện lớn đối với mọi người."
+            }
+        },
+        {
+            "content": "quấy rầy",
+            "type": "verb",
+            "example": {
+                "en": "Sorry about the inconvenience, miss.",
+                "vi": "Xin lỗi vì đã quấy rầy, thưa cô."
+            }
+        },
+        {
+            "content": "bất tiện",
+            "type": "",
+            "example": {
+                "en": "I know we've been an inconvenience for you since we've been here.",
+                "vi": "Tôi biết là chúng ta sẽ khá là bất tiện khi lên đây."
+            }
+        },
+        {
+            "content": "làm phiền",
+            "type": "",
+            "example": {
+                "en": "I'm sorry to inconvenience you, but we have some decisions here.",
+                "vi": "Em xin lỗi vì đã làm phiền anh, nhưng chúng ta cần phải quyết định."
+            }
+        },
+        {
+            "content": "phiền lụy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phiền phức",
+            "type": "",
+            "example": {
+                "en": "It's more than just an inconvenience.",
+                "vi": "Đây không chỉ là sự phiền phức đâu."
+            }
+        }
+    ]
+}

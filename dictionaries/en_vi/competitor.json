@@ -1,0 +1,47 @@
+{
+    "word": "competitor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpedədər/",
+            "/kəmˈpɛdədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpɛtɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đối thủ",
+            "type": "noun",
+            "example": {
+                "en": "But they had a competitor, and not just any competitor.",
+                "vi": "Nhưng chúng có đối thủ, không phải đối thủ hạng xoàng."
+            }
+        },
+        {
+            "content": "người cạnh tranh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đấu thủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đối thủ cạnh tranh",
+            "type": "",
+            "example": {
+                "en": "Every one of our competitors, they raise their gas prices during the summer.",
+                "vi": "Các đối thủ cạnh tranh của ta tăng giá xăng suốt mùa hè."
+            }
+        }
+    ]
+}

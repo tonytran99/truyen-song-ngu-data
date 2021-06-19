@@ -1,0 +1,104 @@
+{
+    "word": "bath",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/baTH/",
+            "/bæθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɑːθ/",
+            "/baθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tắm",
+            "type": "verb",
+            "example": {
+                "en": "Mary went out into the bath wearing only a towel.",
+                "vi": "Mary bước ra khỏi nhà tắm chỉ với khăn tắm trên người."
+            }
+        },
+        {
+            "content": "bồn tắm",
+            "type": "noun",
+            "example": {
+                "en": "It's like the biggest bath you ever saw.",
+                "vi": "Nó giống một cái bồn tắm bự nhất."
+            }
+        },
+        {
+            "content": "tắm rửa",
+            "type": "",
+            "example": {
+                "en": "And when they really want it, they give it a bath first.",
+                "vi": "Và khi họ thật sự muốn, họ cho nó tắm rửa sạch sẽ."
+            }
+        },
+        {
+            "content": "buồng tắm",
+            "type": "noun",
+            "example": {
+                "en": "It has three beautiful bedrooms and no baths.",
+                "vi": "Có 3 phòng ngủ tiện nghi và không có buồng tắm."
+            }
+        },
+        {
+            "content": "phòng tắm",
+            "type": "",
+            "example": {
+                "en": "Once we take her out of her bath.",
+                "vi": "Một khi chúng tôi đưa cô ấy ra khỏi phòng tắm cô ấy."
+            }
+        },
+        {
+            "content": "rửa ráy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắm bồn",
+            "type": "",
+            "example": {
+                "en": "Stay home, get a movie, order takeout, have a bubble bath and go to bed.",
+                "vi": "Ở nhà, thuê một bộ phim, nghỉ ngơi một chút, tắm bồn rồi lên giường ngủ đi."
+            }
+        },
+        {
+            "content": "tắm gội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chậu tắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà tắm",
+            "type": "",
+            "example": {
+                "en": "Mary went out into the bath wearing only a towel.",
+                "vi": "Mary bước ra khỏi nhà tắm chỉ với khăn tắm trên người."
+            }
+        },
+        {
+            "content": "sự tắm rửa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

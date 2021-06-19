@@ -1,0 +1,29 @@
+{
+    "word": "landline",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)ˌlīn/",
+            "/ˈlæn(d)ˌlaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)lʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện thoại bàn",
+            "type": "noun",
+            "example": {
+                "en": "Landline's cut, cell signal's jammed.",
+                "vi": "Điện thoại bàn bị cắt, tín hiệu di động bị gây nhiễu,"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "lacking",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlakiNG/",
+            "/ˈlækɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlakɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuyết",
+            "type": "adjective",
+            "example": {
+                "en": "Is that because of your lack of depth perception?",
+                "vi": "Có phải vì khả năng thấu hiểu khuyết điểm không?"
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "adjective",
+            "example": {
+                "en": "Tom lacks the talent to be an actor.",
+                "vi": "Tom thiếu tài năng để trở thành một diễn viên."
+            }
+        },
+        {
+            "content": "thiếu thốn",
+            "type": "adjective",
+            "example": {
+                "en": "But I have no objection to your lack of religion or to your son's.",
+                "vi": "Tôi không phản đối gì về việc thiếu thốn tôn giáo của bà hay con trai bà."
+            }
+        }
+    ]
+}

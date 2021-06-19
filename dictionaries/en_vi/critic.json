@@ -1,0 +1,38 @@
+{
+    "word": "critic",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkridik/",
+            "/ˈkrɪdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɪtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà phê bình",
+            "type": "noun",
+            "example": {
+                "en": "But the two do not, as critics claim, contradict each other.",
+                "vi": "Nhưng hai sự tường thuật này không mâu thuẫn như những nhà phê bình khẳng định."
+            }
+        },
+        {
+            "content": "người chỉ trích",
+            "type": "noun",
+            "example": {
+                "en": "It becomes easy to become critical of them and make judgments.",
+                "vi": "Sẽ trở nên dễ dàng để trở thành người chỉ trích và phê phán họ."
+            }
+        }
+    ]
+}

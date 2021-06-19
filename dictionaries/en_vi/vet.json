@@ -1,0 +1,50 @@
+{
+    "word": "vet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vet/",
+            "/vɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của veteran",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiệu đính",
+            "type": "",
+            "example": {
+                "en": "globally verified, vetted and certified",
+                "vi": "tiêu chuẩn được chứng nhận toàn cầu, hiệu đính và xác nhận"
+            }
+        },
+        {
+            "content": "thầy thuốc thú y",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xem lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bác sĩ thú y",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

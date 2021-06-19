@@ -1,0 +1,38 @@
+{
+    "word": "diddle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdidl/",
+            "/ˈdɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪd(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa gạt",
+            "type": "",
+            "example": {
+                "en": "I mean, he's got a wonderful wife and he prefers to... to diddle this yo-yo.",
+                "vi": "Anh ấy có người vợ tuyệt vời mà lại thích lừa gạt cô nàng kia hơn."
+            }
+        },
+        {
+            "content": "lừa đảo",
+            "type": "",
+            "example": {
+                "en": "Diddling the therapist's daughter?",
+                "vi": "Lừa đảo con gái bác sĩ là sự thách thức sao?"
+            }
+        }
+    ]
+}

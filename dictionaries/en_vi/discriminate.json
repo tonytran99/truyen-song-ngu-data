@@ -1,0 +1,96 @@
+{
+    "word": "discriminate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskriməˌnāt/",
+            "/dəˈskrɪməˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrɪmɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kỳ thị",
+            "type": "verb",
+            "example": {
+                "en": "Unconscious bias is not the same as conscious discrimination.",
+                "vi": "Thành kiến vô thức không phải sự kỳ thị có ý thức."
+            }
+        },
+        {
+            "content": "phân biệt",
+            "type": "adjective",
+            "example": {
+                "en": "We still have to work hard to abolish discrimination.",
+                "vi": "Chúng ta vẫn cố gắng hết sức để thủ tiêu sự phân biệt."
+            }
+        },
+        {
+            "content": "biết phán đoán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biết phân biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biết suy xét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân biệt khác nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sáng suốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách bạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách bạch ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đối xử phân biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân biệt đối xử",
+            "type": "",
+            "example": {
+                "en": "I would still face discrimination, according to him.",
+                "vi": "Tôi vẫn phải đối mặt với sự phân biệt đối xử"
+            }
+        }
+    ]
+}

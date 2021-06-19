@@ -1,0 +1,40 @@
+{
+    "word": "daunting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôn(t)iNG/",
+            "/ˈdɔn(t)ɪŋ/",
+            "/ˈdän(t)iNG/",
+            "/ˈdɑn(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm nản chí",
+            "type": "",
+            "example": {
+                "en": "Again, a daunting task.",
+                "vi": "Lại là một nhiệm vụ làm nản chí."
+            }
+        },
+        {
+            "content": "làm thoái chí",
+            "type": "",
+            "example": {
+                "en": "For such ones, preaching the good news from house to house can be a daunting challenge.",
+                "vi": "Đối với những người như thế, rao giảng tin mừng từ nhà này sang nhà kia có thể là một thách đố làm thoái chí."
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "broom",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bro͞om/",
+            "/brum/",
+            "/bro͝om/",
+            "/brʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bruːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chổi",
+            "type": "noun",
+            "example": {
+                "en": "She sweeps the room with a broom.",
+                "vi": "Cô ấy quét phòng bằng cây chổi."
+            }
+        },
+        {
+            "content": "cây chổi",
+            "type": "",
+            "example": {
+                "en": "She sweeps the room with a broom.",
+                "vi": "Cô ấy quét phòng bằng cây chổi."
+            }
+        },
+        {
+            "content": "cái chổi",
+            "type": "noun",
+            "example": {
+                "en": "And this broom, here, cleans for you while you just sit and relax.",
+                "vi": "Và cái chổi này nữa, đây, dọn dẹp trong khi cậu chỉ ngồi và thư giãn."
+            }
+        },
+        {
+            "content": "cây đậu chổi",
+            "type": "",
+            "example": {
+                "en": "5 Then he lay down and fell asleep under the broom tree.",
+                "vi": "5 Ông nằm ngủ dưới cây đậu chổi."
+            }
+        },
+        {
+            "content": "Chổi",
+            "type": "",
+            "example": {
+                "en": "She sweeps the room with a broom.",
+                "vi": "Cô ấy quét phòng bằng cây chổi."
+            }
+        },
+        {
+            "content": "bàn chải",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đậu chổi",
+            "type": "",
+            "example": {
+                "en": "5 Then he lay down and fell asleep under the broom tree.",
+                "vi": "5 Ông nằm ngủ dưới cây đậu chổi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "binaural",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīˈnôrəl/",
+            "/baɪˈnɔrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈnɔːr(ə)l/",
+            "/bʌɪˈnɔːr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng hai tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hai tai",
+            "type": "",
+            "example": {
+                "en": "so that you can actually get binaural sound in a car.",
+                "vi": "để bạn có thể nghe cả hai tai trong xe hơi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "inspector",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈspektər/",
+            "/ɪnˈspɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈspɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người thanh tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh tra",
+            "type": "noun",
+            "example": {
+                "en": "I have a reputation to repoll them, inspector.",
+                "vi": "Tôi đủ danh tiếng để lo chuyện này, ông thanh tra ạ."
+            }
+        },
+        {
+            "content": "thanh tra cảnh sát",
+            "type": "",
+            "example": {
+                "en": "I always watch Inspector Chief with Dad.",
+                "vi": "Tôi luôn luôn xem Thanh tra cảnh sát trưởng với bố"
+            }
+        },
+        {
+            "content": "thanh tra viên",
+            "type": "noun",
+            "example": {
+                "en": "I'm a Senior Inspector of the Crime Wing",
+                "vi": "Thanh tra viên cao cấp của Crime Wing."
+            }
+        },
+        {
+            "content": "viên thanh tra",
+            "type": "",
+            "example": {
+                "en": "Because he's not the inspector.",
+                "vi": "Vì ông ta không phải viên thanh tra."
+            }
+        }
+    ]
+}

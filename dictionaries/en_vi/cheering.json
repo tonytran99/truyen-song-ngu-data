@@ -1,0 +1,57 @@
+{
+    "word": "cheering",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHēriNG/",
+            "/ˈtʃirɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cổ vũ",
+            "type": "",
+            "example": {
+                "en": "Now look at them, cheering that little pipsqueak.",
+                "vi": "Hãy nhìn chúng xem, đang cổ vũ một kẻ tầm thường."
+            }
+        },
+        {
+            "content": "khuyến khích",
+            "type": "",
+            "example": {
+                "en": "Heaven is cheering you on today, tomorrow, and forever.",
+                "vi": "Thiên thượng đang khuyến khích các anh chị em hôm nay, ngày mai, và mãi mãi."
+            }
+        },
+        {
+            "content": "làm phấn khởi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm vui vẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng hoan hô",
+            "type": "",
+            "example": {
+                "en": "There was a hush, followed by loud cheering.",
+                "vi": "Ban đầu có sự im lặng giây lát, sau đó là tiếng hoan hô lớn."
+            }
+        }
+    ]
+}

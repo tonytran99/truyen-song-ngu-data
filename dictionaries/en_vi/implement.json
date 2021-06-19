@@ -1,0 +1,90 @@
+{
+    "word": "implement",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈimpləmənt/",
+            "/ˈɪmpləmənt/",
+            "/ˈimpləˌment/",
+            "/ˈɪmpləˌmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmplɪm(ə)nt/",
+            "/ˈɪmplɪmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dụng cụ",
+            "type": "noun",
+            "example": {
+                "en": "I have spent, half a lifetime gathering the implements and skills to survive a werewolf.",
+                "vi": "Nửa cuộc đời Thu thập các dụng cụ và kỹ năng để tồn tại với một người sói."
+            }
+        },
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {
+                "en": "Some of them are partially implemented already, the ones at the top.",
+                "vi": "Một số trong đó đã được thực hiện, mấy cái ở phía trên."
+            }
+        },
+        {
+            "content": "công cụ",
+            "type": "",
+            "example": {
+                "en": "And in ancient times, did you know that this was actually used as a hunting implement?",
+                "vi": "Và trong thời xưa, cháu có biết nó được dùng như một công cụ đi săn?"
+            }
+        },
+        {
+            "content": "đồ dùng",
+            "type": "",
+            "example": {
+                "en": "The householder will keep such implements separate from clean utensils, such as those used for cooking.",
+                "vi": "Chủ nhà sẽ tách đồ dùng này khỏi những đồ dùng sạch, như dụng cụ dùng để nấu ăn."
+            }
+        },
+        {
+            "content": "bổ sung",
+            "type": "adjective verb noun",
+            "example": {}
+        },
+        {
+            "content": "chấp hành",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cung cấp dụng cụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phương tiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thi hành",
+            "type": "",
+            "example": {
+                "en": "Now, there are a few ground rules that I would like to implement.",
+                "vi": "Giờ, có vài luật lệ tôi muốn phải được thi hành."
+            }
+        },
+        {
+            "content": "thực hiện đầy đủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

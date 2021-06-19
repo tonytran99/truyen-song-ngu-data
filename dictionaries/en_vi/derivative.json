@@ -1,0 +1,74 @@
+{
+    "word": "derivative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈrivədiv/",
+            "/dəˈrɪvədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈrɪvətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đạo hàm",
+            "type": "",
+            "example": {
+                "en": "If this box is ticked, the first derivative will be plotted, too",
+                "vi": "Nếu đánh dấu ô này, đạo hàm bậc một cũng sẽ được vẽ"
+            }
+        },
+        {
+            "content": "phái sinh",
+            "type": "verb",
+            "example": {
+                "en": "And complex transactions called derivatives will be more tightly regulated .",
+                "vi": "Và những giao dịch phức tạp được gọi là gọi các công cụ phái sinh sẽ được kiểm soát chặt chẽ hơn ."
+            }
+        },
+        {
+            "content": "dẫn xuất",
+            "type": "",
+            "example": {
+                "en": "How much of this blood-derived medicine might be administered, and in what way?",
+                "vi": "Có thể phải dùng bao nhiêu thuốc dẫn xuất từ máu này, và bằng cách nào?"
+            }
+        },
+        {
+            "content": "bắt nguồn từ",
+            "type": "",
+            "example": {
+                "en": "The fields'circular shape derives from the pipes that irrigate them around a central pivot.",
+                "vi": "Những cánh đồng hình tròn bắt nguồn từ những đường ống tưới nước quanh một trục ở giữa."
+            }
+        },
+        {
+            "content": "chất dẫn xuất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ phát sinh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Chứng khoán phái sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo hàm và vi phân của hàm số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

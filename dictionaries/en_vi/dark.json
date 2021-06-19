@@ -1,0 +1,339 @@
+{
+    "word": "dark",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/därk/",
+            "/dɑrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɑːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tối",
+            "type": "adjective, noun",
+            "example": {
+                "en": "I reached the village before dark.",
+                "vi": "Tôi đã về đến ngôi làng trước khi trời tối."
+            }
+        },
+        {
+            "content": "đêm",
+            "type": "noun",
+            "example": {
+                "en": "It was after dark when we got to the village.",
+                "vi": "Đêm đã xuống khi chúng tôi tới làng."
+            }
+        },
+        {
+            "content": "bóng tối",
+            "type": "noun",
+            "example": {
+                "en": "When you deal with dark, dark gets in you.",
+                "vi": "Khi đương đầu với bóng tối, bóng tối sẽ len lỏi vào bên trong cậu."
+            }
+        },
+        {
+            "content": "mờ ám",
+            "type": "adjective",
+            "example": {
+                "en": "We don't need a man in a dark car doing things.",
+                "vi": "Chúng tôi không cần một người đàn ông trong một cái xe tối om làm trò mờ ám."
+            }
+        },
+        {
+            "content": "tối tăm",
+            "type": "noun",
+            "example": {
+                "en": "But she learned how to be active in her silent , dark environment .",
+                "vi": "Nhưng cô ấy cũng học cách chủ động trong môi trường tối tăm và lặng im ấy ."
+            }
+        },
+        {
+            "content": "sẫm",
+            "type": "adjective, noun",
+            "example": {
+                "en": "As the blackness of the night sky lightens to dark blue, we can hardly see anything.",
+                "vi": "Khi bầu trời tối đen sáng lên thành xanh sẫm, chúng ta khó thấy được vật gì."
+            }
+        },
+        {
+            "content": "mù mịt",
+            "type": "adjective",
+            "example": {
+                "en": "I saw him walking along the dark road.",
+                "vi": "Tôi thấy anh ta đang đi bộ dọc trên đường tối mù mịt."
+            }
+        },
+        {
+            "content": "mờ mịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đen tối",
+            "type": "adjective",
+            "example": {
+                "en": "You know, I knew that tomorrow was gonna be a dark day.",
+                "vi": "Tôi biết mai sẽ là ngày đen tối."
+            }
+        },
+        {
+            "content": "dốt nát",
+            "type": "noun, adjective",
+            "example": {}
+        },
+        {
+            "content": "ngu dốt",
+            "type": "noun, adjective",
+            "example": {}
+        },
+        {
+            "content": "ám muội",
+            "type": "",
+            "example": {
+                "en": "She had a Valyrian steel sword she called Dark Sister. Hmm.",
+                "vi": "Bà có 1 thanh kiếm từ thép Valyrian mà bà gọi là Ám Muội. = ) )"
+            }
+        },
+        {
+            "content": "đậm",
+            "type": "adjective",
+            "example": {
+                "en": "That dark brown poo in the toilet is dark brown because of what?",
+                "vi": "Phân màu nâu đậm trong nhà vệ sinh có nguyên nhân từ đâu?"
+            }
+        },
+        {
+            "content": "sậm",
+            "type": "",
+            "example": {
+                "en": "The crime scene says the killer probably had dark hair.",
+                "vi": "Hiện trường cho thấy hung thủ có lẽ tóc sậm."
+            }
+        },
+        {
+            "content": "màn đêm",
+            "type": "noun",
+            "example": {
+                "en": "The night was dark, except for the dying embers of the fire.",
+                "vi": "Bóng tối của màn đêm buông xuống, ngoại trừ đám tro sắp tàn."
+            }
+        },
+        {
+            "content": "mây đen",
+            "type": "noun",
+            "example": {
+                "en": "In time, dark clouds of opposition loomed on the horizon.",
+                "vi": "Một thời gian sau, áng mây đen chống đối lờ mờ hiện ra."
+            }
+        },
+        {
+            "content": "ngu muội",
+            "type": "adjective",
+            "example": {
+                "en": "Many are “in darkness mentally” and are “past all moral sense.”",
+                "vi": "Nhiều người ở trong “sự ngu-muội” và “mất cả sự cảm-biết”."
+            }
+        },
+        {
+            "content": "sự dốt nát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tối tăm",
+            "type": "noun",
+            "example": {
+                "en": "Why are the vast majority of mankind in spiritual darkness?",
+                "vi": "Tại sao đại đa số nhân loại ở trong sự tối tăm thiêng liêng?"
+            }
+        },
+        {
+            "content": "ảm đạm",
+            "type": "adjective",
+            "example": {
+                "en": "Anyone who gazes at the land will see distressing darkness;",
+                "vi": "Ai nhìn xứ sẽ thấy bóng tối ảm đạm;"
+            }
+        },
+        {
+            "content": "thẫm",
+            "type": "adjective",
+            "example": {
+                "en": "This species, when you cut the bark, you find a very dark red resin",
+                "vi": "Loài cây này, khi bạn cắt vỏ cây, bạn sẽ thấy một thứ nhựa màu đỏ thẫm"
+            }
+        },
+        {
+            "content": "sặm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bi quan",
+            "type": "",
+            "example": {
+                "en": "I have just as much of a dark side as the next person.",
+                "vi": "Tôi cũng có đầy đủ bi quan như bao nhiêu người khác."
+            }
+        },
+        {
+            "content": "buồn rầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "Tell him to look for dark pool algorithms.",
+                "vi": "Nói anh ta hãy tìm các thuật toán riêng bí mật."
+            }
+        },
+        {
+            "content": "cay độc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chán nản",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không minh bạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không rõ ràng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kín đáo",
+            "type": "",
+            "example": {
+                "en": "19 I did not speak in a concealed place,+ in a land of darkness;",
+                "vi": "19 Ta đã không phán trong nơi kín đáo,+ trong xứ tối tăm;"
+            }
+        },
+        {
+            "content": "mơ hồ",
+            "type": "",
+            "example": {
+                "en": "Somewhere dark and cold, filled with damp, ambiguous-shaped things you'd rather forget.",
+                "vi": "Nơi nào đó tối tăm và lạnh lẽo, điểm thêm sự ẩm ướt, những thứ mơ hồ mà ông thà quên còn hơn."
+            }
+        },
+        {
+            "content": "mịt mờ",
+            "type": "",
+            "example": {
+                "en": "And out of the gloom and darkness the eyes of the blind will see.",
+                "vi": "Mắt người mù sẽ thoát khỏi cảnh mịt mờ tối tăm và thấy được."
+            }
+        },
+        {
+            "content": "ngăm ngăm đen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nham hiểm",
+            "type": "",
+            "example": {
+                "en": "However, there was a dark plan behind this request.",
+                "vi": "Tuy nhiên, có một âm mưu nham hiểm đằng sau lời thỉnh cầu này."
+            }
+        },
+        {
+            "content": "sẩm tối",
+            "type": "noun",
+            "example": {
+                "en": "It's barely dark outside.",
+                "vi": "Mới sẩm tối thôi mà."
+            }
+        },
+        {
+            "content": "thẫm sẫm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối mò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u ám",
+            "type": "",
+            "example": {
+                "en": "There seems to be a little bit of darkness about you today, detective.",
+                "vi": "Có vẻ có một chút u ám ở anh trong hôm nay, thanh tra à."
+            }
+        },
+        {
+            "content": "u ẩn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đen huyền",
+            "type": "",
+            "example": {
+                "en": "I particularly took notice of the one daughter with gorgeous dark hair and large brown eyes.",
+                "vi": "Tôi đặc biệt lưu ý đến một người con gái với mái tóc đen huyền tuyệt đẹp và đôi mắt nâu to."
+            }
+        },
+        {
+            "content": "hắc",
+            "type": "noun",
+            "example": {
+                "en": "The Darkness has a plan for every one of God's creations.",
+                "vi": "Nữ Chúa hắc ámcó kế hoạch cho mọi tác phẩm của Chúa."
+            }
+        },
+        {
+            "content": "âm",
+            "type": "adjective noun",
+            "example": {
+                "en": "who said, \"To send light into the darkness of men's hearts,",
+                "vi": "\"Nhiệm vụ cao quý của âm nhạc"
+            }
+        },
+        {
+            "content": "陰",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối đen",
+            "type": "",
+            "example": {
+                "en": "Outside the car it was total darkness and silence.",
+                "vi": "Cảnh vật ở bên ngoài chiếc xe hoàn toàn tối đen và im lặng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "bubbly",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəb(ə)lē/",
+            "/ˈbəb(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌbli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có bong bóng",
+            "type": "",
+            "example": {
+                "en": "Anyone can see that there is a real estate bubble.",
+                "vi": "Ai cũng thấy là đang có bong bóng nhà đất mà."
+            }
+        },
+        {
+            "content": "nhiều bọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều tăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rượu sâm banh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sủi bọt",
+            "type": "",
+            "example": {
+                "en": "A stream of clear clean fresh water bubbles up right out of the rocks there.",
+                "vi": "Một dòng suối nước trong vắt sủi bọt chảy từ những tảng đá."
+            }
+        },
+        {
+            "content": "sủi tăm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

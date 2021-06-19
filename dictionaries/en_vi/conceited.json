@@ -1,0 +1,51 @@
+{
+    "word": "conceited",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsēdəd/",
+            "/kənˈsidəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsiːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiêu ngạo",
+            "type": "adjective",
+            "example": {
+                "en": "Ambition and conceit will not help you find true success.",
+                "vi": "Sự tham vọng và kiêu ngạo sẽ không giúp bạn tìm được thành công thật."
+            }
+        },
+        {
+            "content": "tự cao tự đại",
+            "type": "adjective",
+            "example": {
+                "en": "Of course, there is the other extreme —pride that leads to conceit or vanity.",
+                "vi": "Tất nhiên, lại có thái cực khác —ấy là sự tự hào sinh ra lòng tự phụ hay tự cao tự đại."
+            }
+        },
+        {
+            "content": "tự phụ",
+            "type": "adjective",
+            "example": {
+                "en": "Of course, there is the other extreme —pride that leads to conceit or vanity.",
+                "vi": "Tất nhiên, lại có thái cực khác —ấy là sự tự hào sinh ra lòng tự phụ hay tự cao tự đại."
+            }
+        },
+        {
+            "content": "tự đắc",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

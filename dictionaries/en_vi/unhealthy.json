@@ -1,0 +1,65 @@
+{
+    "word": "unhealthy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈhelTHē/",
+            "/ˌənˈhɛlθi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈhɛlθi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh hoạn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ốm yếu",
+            "type": "",
+            "example": {
+                "en": "We made the ocean unhappy; we made people very unhappy, and we made them unhealthy.",
+                "vi": "Ta đã làm đại dương buồn bã, làm cho con người bất hạnh, và chính mình trở nên ốm yếu."
+            }
+        },
+        {
+            "content": "hại sức khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lành mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "Running numbers without I knowin'about it is both illegal and unhealthy.",
+                "vi": "Bán số lậu sau lưng tôi vừa bất hợp pháp vừa không lành mạnh."
+            }
+        },
+        {
+            "content": "yếu đuối ốm đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không khỏe mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "So, if you hang out with unhealthy people, that's going to have a measurable impact over time.",
+                "vi": "Nên, nếu bạn chơi với những người không khỏe mạnh, bạn sẽ chịu ảnh hưởng về lâu dài."
+            }
+        },
+        {
+            "content": "nguy hiểm",
+            "type": "adjective noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "word": "discrete",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈskrēt/",
+            "/dɪˈskrit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskriːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rời rạc",
+            "type": "adjective",
+            "example": {
+                "en": "We have discrete data elements; we don't have a time function on them.",
+                "vi": "Chúng tôi có dữ liệu rời rạc, chúng tôi không có dữ liệu tính theo thời gian."
+            }
+        },
+        {
+            "content": "kín đáo",
+            "type": "adjective",
+            "example": {
+                "en": "Of course, their preaching work is done with discretion.",
+                "vi": "Dĩ nhiên, họ phải kín đáo khi rao giảng."
+            }
+        },
+        {
+            "content": "riêng biệt",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "riêng rẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừu tượng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "horned",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hôrnd/",
+            "/hɔrnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɔːnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có sừng",
+            "type": "",
+            "example": {
+                "en": "The rams of this breed are horned, and the ewes are not.",
+                "vi": "Cừu đực thuộc giống này có sừng còn cừu cái thì không."
+            }
+        },
+        {
+            "content": "bị cắm sừng",
+            "type": "",
+            "example": {
+                "en": "They will say you wear cuckold's horns.",
+                "vi": "Họ sẽ nói ông bị cắm sừng."
+            }
+        }
+    ]
+}

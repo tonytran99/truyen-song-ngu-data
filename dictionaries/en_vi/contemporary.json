@@ -1,0 +1,87 @@
+{
+    "word": "contemporary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtempəˌrerē/",
+            "/kənˈtɛmpəˌrɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtɛmp(ə)r(ər)i/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đương thời",
+            "type": "",
+            "example": {
+                "en": "His boldness was to have a significant influence on one of his contemporaries.",
+                "vi": "Sự dạn dĩ của ông có ảnh hưởng đáng kể đối với một người đương thời với ông."
+            }
+        },
+        {
+            "content": "đương đại",
+            "type": "adjective",
+            "example": {
+                "en": "But that feeling of puzzlement is structural to contemporary art.",
+                "vi": "Nhưng cảm xúc bối rối là chắc chắn có với nghệ thuật đương đại."
+            }
+        },
+        {
+            "content": "bạn đồng niên",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bạn đồng nghiệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng thời",
+            "type": "adjective",
+            "example": {
+                "en": "They were said to be contemporaries of some of the apostles.",
+                "vi": "Họ được cho là những người cùng thời với một số sứ đồ."
+            }
+        },
+        {
+            "content": "cùng tuổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiện đại",
+            "type": "adjective",
+            "example": {
+                "en": "And so we're bringing them back in a contemporary story for children.",
+                "vi": "Và thế là chũng ta mang họ trở về một cuốn sách thiếu nhi hiện đại."
+            }
+        },
+        {
+            "content": "người cùng thời",
+            "type": "",
+            "example": {
+                "en": "One possibility is that if he should die, none of his contemporaries would see him.",
+                "vi": "Có thể ý của Gióp là nếu ông chết, người cùng thời sẽ không thấy ông nữa."
+            }
+        },
+        {
+            "content": "người cùng tuổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuất bản cùng thời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

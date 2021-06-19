@@ -1,0 +1,86 @@
+{
+    "word": "gin",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jin/",
+            "/dʒɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rượu gin",
+            "type": "noun",
+            "example": {
+                "en": "A few groceries and a bottle of gin, the lot.",
+                "vi": "Vài thứ hàng tạp phẩm và một chai rượu gin là quá nhiều rồi."
+            }
+        },
+        {
+            "content": "gin",
+            "type": "noun",
+            "example": {
+                "en": "There's gin and tonic, and gin and vermouth, that's a martini.",
+                "vi": "Có gin pha tonic, và gin pha vermouth, cái đó là martini."
+            }
+        },
+        {
+            "content": "bẫy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cái tời",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cạm bẫy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy tỉa hột bông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trục nâng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỉa hột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bẫy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Gin",
+            "type": "",
+            "example": {
+                "en": "Three measures of Gordon's gin, one of vodka, half of...",
+                "vi": "3 phần Gordon's Gin, một vodka, một nửa.."
+            }
+        }
+    ]
+}

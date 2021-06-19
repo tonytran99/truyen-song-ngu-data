@@ -1,0 +1,40 @@
+{
+    "word": "encamp",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkamp/",
+            "/ɪnˈkæmp/",
+            "/enˈkamp/",
+            "/ɛnˈkæmp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkamp/",
+            "/ɛnˈkamp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắm trại",
+            "type": "",
+            "example": {
+                "en": "No, they are encamped at Brighton for the summer.",
+                "vi": "Không, họ cắm trại ở Brighton cả mùa hè."
+            }
+        },
+        {
+            "content": "đồn trú",
+            "type": "verb",
+            "example": {
+                "en": "They're encamped at Moat Cailin as we speak.",
+                "vi": "Giờ họ đang đồn trú tại Hào Cailin."
+            }
+        }
+    ]
+}

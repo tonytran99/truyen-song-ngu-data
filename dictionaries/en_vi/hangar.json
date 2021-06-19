@@ -1,0 +1,43 @@
+{
+    "word": "hangar",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaNGər/",
+            "/ˈhæŋər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaŋə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lán hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà chứa máy bay",
+            "type": "",
+            "example": {
+                "en": "We're in the main hangar across from the ship.",
+                "vi": "Chúng ta đang ở trong nhà chứa máy bay của con tàu."
+            }
+        },
+        {
+            "content": "nhà kho",
+            "type": "",
+            "example": {
+                "en": "And even if we wanted to, we're in a hangar surrounded by an entire armada of timeships.",
+                "vi": "Và cho dù có muốn, chúng ta đang ở một nhà kho bị bao vây bởi cả một hạm đội tàu thời gian."
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "word": "choose",
+    "type": [
+        "verb",
+        "noun",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHo͞oz/",
+            "/tʃuz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃuːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chọn",
+            "type": "verb",
+            "example": {
+                "en": "You have to choose your own path in life.",
+                "vi": "Bạn phải chọn đường đi cho chính mình."
+            }
+        },
+        {
+            "content": "lựa chọn",
+            "type": "verb",
+            "example": {
+                "en": "You have to choose between honor and death.",
+                "vi": "Bạn phải lựa chọn danh dự và cái chết."
+            }
+        },
+        {
+            "content": "kén chọn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lựa",
+            "type": "verb",
+            "example": {
+                "en": "You have to choose between honor and death.",
+                "vi": "Bạn phải lựa chọn danh dự và cái chết."
+            }
+        },
+        {
+            "content": "tuyển",
+            "type": "verb",
+            "example": {
+                "en": "In addition, if the interviewer is the employer, he may have much to lose if he chooses the wrong person for the job.",
+                "vi": "Ngoài ra, nếu người phỏng vấn là người chủ, họ sẽ bị thiệt hại nhiều nếu tuyển không đúng người."
+            }
+        },
+        {
+            "content": "kén",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thách muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "Rather, he chooses to let go of resentment.",
+                "vi": "Thay vì thế, người khoan dung quyết định bỏ đi sự oán giận."
+            }
+        },
+        {
+            "content": "tôi không thể quyết định chọn cái nào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

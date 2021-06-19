@@ -1,0 +1,53 @@
+{
+    "word": "wade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wād/",
+            "/weɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lội",
+            "type": "verb",
+            "example": {
+                "en": "We'd push through it like wading through molasses.",
+                "vi": "Chung tôi giống như lội qua mặt đường vậy."
+            }
+        },
+        {
+            "content": "lội qua",
+            "type": "",
+            "example": {
+                "en": "We'd push through it like wading through molasses.",
+                "vi": "Chung tôi giống như lội qua mặt đường vậy."
+            }
+        },
+        {
+            "content": "một cách khó nhọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lội qua",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

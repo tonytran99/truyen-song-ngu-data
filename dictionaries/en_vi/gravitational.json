@@ -1,0 +1,37 @@
+{
+    "word": "gravitational",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡravəˈtāSH(ə)nəl/",
+            "/ˌɡrævəˈteɪʃ(ə)nəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡravɪˈteɪʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hút",
+            "type": "verb",
+            "example": {
+                "en": "There's not enough power to resist the gravitational pull!",
+                "vi": "Không đủ năng lượng để chống lại lực hút này"
+            }
+        },
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Huge gravitational forces crack the surface open and closed at enormous speeds.",
+                "vi": "Lực hấp dẫn khổng lồ mở rồi đóng với tốc độ khắc nghiệt."
+            }
+        }
+    ]
+}

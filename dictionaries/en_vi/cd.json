@@ -1,0 +1,35 @@
+{
+    "word": "cd",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsēˈdē/",
+            "/ˌsiˈdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsiːˈdiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đựa compact",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cd",
+            "type": "",
+            "example": {
+                "en": "It's my CD, isn't it?",
+                "vi": "Đó là cái CD của tôi phải không?"
+            }
+        }
+    ]
+}

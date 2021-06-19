@@ -1,0 +1,60 @@
+{
+    "word": "depose",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈpōz/",
+            "/dəˈpoʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈpəʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phế truất",
+            "type": "verb",
+            "example": {
+                "en": "The French King, a cardinal with him, would see me deposed.",
+                "vi": "Vua nước Pháp, với 1 giáo chủ đi cùng, mong tôi bị phế truất."
+            }
+        },
+        {
+            "content": "phế",
+            "type": "verb",
+            "example": {
+                "en": "Show all the citizens of Meereen that you're better than those who would depose you.",
+                "vi": "Cho toàn thể người dân Meereen thấy rằng người tốt đẹp hơn những kẻ muốn truất phế người."
+            }
+        },
+        {
+            "content": "đặt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cung khai",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hạ bệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truất phế",
+            "type": "verb",
+            "example": {
+                "en": "Show all the citizens of Meereen that you're better than those who would depose you.",
+                "vi": "Cho toàn thể người dân Meereen thấy rằng người tốt đẹp hơn những kẻ muốn truất phế người."
+            }
+        }
+    ]
+}

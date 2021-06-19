@@ -1,0 +1,40 @@
+{
+    "word": "exiled",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɡˌzīld/",
+            "/ˈɛɡˌzaɪld/",
+            "/ˈekˌsīld/",
+            "/ˈɛkˌsaɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛksʌɪld/",
+            "/ˈɛɡzʌɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị đày",
+            "type": "adjective",
+            "example": {
+                "en": "We knew that many of our brothers had been exiled to barren islands.",
+                "vi": "Chúng tôi biết nhiều anh chị đã bị đày đến các đảo xa xôi."
+            }
+        },
+        {
+            "content": "lưu vong",
+            "type": "",
+            "example": {
+                "en": "Do you know what kept me standing through all those years in exile?",
+                "vi": "Ngài có biết điều gì khiến ta vẫn đứng đây qua những năm tháng lưu vong đó?"
+            }
+        }
+    ]
+}

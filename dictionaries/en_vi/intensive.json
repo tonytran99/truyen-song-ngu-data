@@ -1,0 +1,73 @@
+{
+    "word": "intensive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtensiv/",
+            "/ɪnˈtɛnsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛnsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "On the radar, you can see the snow is increasing in intensity.",
+                "vi": "Các bạn có thể thấy cường độ cơn bão đang tăng rất mạnh."
+            }
+        },
+        {
+            "content": "có cường độ lớn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mạnh mẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sâu sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngày càng tăng liều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhấn mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tăng liều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập trung",
+            "type": "",
+            "example": {
+                "en": "His face is intense; the brow is furrowed in concentration.",
+                "vi": "Nét mặt anh trông có vẻ dữ tợn, đôi lông mày nhíu lại tập trung."
+            }
+        },
+        {
+            "content": "tập trung sâu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

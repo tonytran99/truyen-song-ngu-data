@@ -1,0 +1,53 @@
+{
+    "word": "accidentally",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˌaksəˈden(t)(ə)lē/",
+            "/ˌæksəˈdɛn(t)(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aksɪˈdɛnt(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "It had to be somewhere students wouldn't find it accidentally.",
+                "vi": "Nó phải ở chỗ nào mà học sinh không thể ngẫu nhiên tìm được."
+            }
+        },
+        {
+            "content": "chẳng may",
+            "type": "adverb",
+            "example": {
+                "en": "Accidentally closed the car door on it.",
+                "vi": "Chẳng may sập cửa xe vào tay."
+            }
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {
+                "en": "Two fellows meet accidentally, like you and me.",
+                "vi": "Hai người tình cờ gặp nhau, như anh và tôi đây."
+            }
+        },
+        {
+            "content": "vô tình",
+            "type": "adverb",
+            "example": {
+                "en": "I just saw them and accidentally picked up the phone.",
+                "vi": "Con chỉ vô tình thấy họ và vô tình nhấc điện thoại lên."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "emanate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeməˌnāt/",
+            "/ˈɛməˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛməneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát ra",
+            "type": "",
+            "example": {
+                "en": "And suddenly, the disciples see this light emanating from Jesus'head.",
+                "vi": "Tự nhiên những người đệ tử thấy hào quang phát ra từ đầu của Jesus."
+            }
+        },
+        {
+            "content": "bắt nguồn",
+            "type": "",
+            "example": {
+                "en": "And from those single points emanated stories.",
+                "vi": "Và từ những điểm phát sóng này bắt nguồn những câu chuyện"
+            }
+        },
+        {
+            "content": "xông lên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

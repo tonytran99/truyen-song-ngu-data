@@ -1,0 +1,40 @@
+{
+    "word": "exploded",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ikˈsplōdəd/",
+            "/ɪkˈsploʊdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspləʊdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị tiêu tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị đập tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đã nổ",
+            "type": "",
+            "example": {
+                "en": "Mike, the last guy who wore that exploded.",
+                "vi": "Mike, người cuối cùng đeo thứ đó đã nổ tung"
+            }
+        }
+    ]
+}

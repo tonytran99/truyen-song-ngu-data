@@ -1,0 +1,217 @@
+{
+    "word": "young",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yəNG/",
+            "/jəŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jʌŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trẻ",
+            "type": "adjective",
+            "example": {
+                "en": "You remind me of myself at a young age.",
+                "vi": "Bạn làm tôi nhớ đến mình hồi trẻ."
+            }
+        },
+        {
+            "content": "trẻ tuổi",
+            "type": "adjective",
+            "example": {
+                "en": "He met a nice young man.",
+                "vi": "Anh ấy gặp được một người trẻ tuổi tốt bụng."
+            }
+        },
+        {
+            "content": "nhỏ",
+            "type": "adjective",
+            "example": {
+                "en": "Must have been scared of something when you were young.",
+                "vi": "Chắc hẳn lúc nhỏ cô phải sợ thứ gì đó chứ."
+            }
+        },
+        {
+            "content": "non",
+            "type": "adjective noun",
+            "example": {
+                "en": "It has some breeding adults and the young of several generations.",
+                "vi": "Nó có một số con sinh sản trưởng thành và những con non của một vài thế hệ."
+            }
+        },
+        {
+            "content": "con",
+            "type": "noun",
+            "example": {
+                "en": "Some time ago three young boys were discussing their fathers.",
+                "vi": "Cách đây một thời gian, có ba đứa con trai nhỏ đang nói chuyện về cha chúng."
+            }
+        },
+        {
+            "content": "non nớt",
+            "type": "",
+            "example": {
+                "en": "We didn't know what was happening in those young brains.",
+                "vi": "Chúng tôi không biết có những gì diễn ra trong những bộ não non nớt đó."
+            }
+        },
+        {
+            "content": "non trẻ",
+            "type": "",
+            "example": {
+                "en": "Tus, my death would weaken your young reign.",
+                "vi": "Tus, cái chết của chú có thể làm suy yếu vương triều non trẻ của cháu."
+            }
+        },
+        {
+            "content": "ấu",
+            "type": "adjective",
+            "example": {
+                "en": "Make time for your children when they need it—when they are young.",
+                "vi": "Khi con cái còn thơ ấu, hãy dành thì giờ cho chúng khi chúng cần."
+            }
+        },
+        {
+            "content": "thanh niên",
+            "type": "noun",
+            "example": {
+                "en": "Throughout the United State large numbers of young people enter college every year.",
+                "vi": "Hàng năm có một số lượng lớn thanh niên nhập học đại học trên khắp nước Mỹ."
+            }
+        },
+        {
+            "content": "tơ",
+            "type": "adjective",
+            "example": {
+                "en": "More than a young bull with horns and hooves.",
+                "vi": "Hơn cả bò tơ đủ sừng đủ móng."
+            }
+        },
+        {
+            "content": "son",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chim con",
+            "type": "",
+            "example": {
+                "en": "The young chicks are awkward and bear little resemblance to their magnificent parents.",
+                "vi": "Các chim con trông đều xấu xí và khác xa vẻ lộng lẫy của cha mẹ chúng."
+            }
+        },
+        {
+            "content": "chưa có kinh nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa già",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưa muộn",
+            "type": "",
+            "example": {
+                "en": "The night's still young.",
+                "vi": "Giờ vẫn chưa muộn"
+            }
+        },
+        {
+            "content": "chưa quá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "còn sớm",
+            "type": "",
+            "example": {
+                "en": "Ok, so the night's young, and there's a meth dealer working a corner on Fulton.",
+                "vi": "Được rồi, vẫn còn sớm, và có một tên buôn thuốc đang hoạt động ở góc Fulton."
+            }
+        },
+        {
+            "content": "còn ở lúc ban đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của thời niên thiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của thời thanh niên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của tuổi trẻ",
+            "type": "",
+            "example": {
+                "en": "Galloping around the cosmos is a game for the young, Doctor.",
+                "vi": "Bay trong vũ trụ là trò chơi của tuổi trẻ, Bác sĩ."
+            }
+        },
+        {
+            "content": "mới mẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "niên thiếu",
+            "type": "",
+            "example": {
+                "en": "I was in my teens, like you young women.",
+                "vi": "Tôi đang trong tuổi niên thiếu, giống như các em thiếu nữ đây."
+            }
+        },
+        {
+            "content": "thiếu niên",
+            "type": "noun",
+            "example": {
+                "en": "The majority of the victims are teenagers or young adults .",
+                "vi": "Phần lớn các nạn nhân là thanh thiếu niên hoặc thanh thiếu niên ."
+            }
+        },
+        {
+            "content": "thú con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế hệ trẻ",
+            "type": "",
+            "example": {
+                "en": "And this is what the young generation says.",
+                "vi": "Và đây là những gì mà thế hệ trẻ nói."
+            }
+        },
+        {
+            "content": "trẻ trung",
+            "type": "",
+            "example": {
+                "en": "Everyone wants to look young, feel young, and be young.",
+                "vi": "Mọi người đều muốn trông trẻ trung, cảm thấy trẻ trung và được trẻ mãi."
+            }
+        },
+        {
+            "content": "yểu",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

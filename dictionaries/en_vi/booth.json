@@ -1,0 +1,70 @@
+{
+    "word": "booth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͞oTH/",
+            "/buθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/buːð/",
+            "/buːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lều",
+            "type": "noun",
+            "example": {
+                "en": "I went from hut to hut among his people and invited them to the insaka (public booth).",
+                "vi": "Tôi đi từng lều và mời dân chúng đến phòng họp công cộng gọi là insaka."
+            }
+        },
+        {
+            "content": "buồng",
+            "type": "noun",
+            "example": {
+                "en": "Don't you think you would be more comfortable in the booth?",
+                "vi": "Cô không nghĩ là cô sẽ thoải mái hơn khi trong buồng cách ly à?"
+            }
+        },
+        {
+            "content": "quán",
+            "type": "noun",
+            "example": {
+                "en": "If you're sitting at the booth, you have to order something.",
+                "vi": "Nếu ngồi ở quán thì anh phải gọi một món gì đó."
+            }
+        },
+        {
+            "content": "phòng",
+            "type": "verb noun",
+            "example": {
+                "en": "You go into these booths, you interview your grandmother",
+                "vi": "Bạn đi vào những căn phòng đó, bạn phỏng vấn bà của mình"
+            }
+        },
+        {
+            "content": "rạp",
+            "type": "",
+            "example": {
+                "en": "The whole booth construction pretty much finished.",
+                "vi": "Việc dựng toàn bộ rạp xem như đã hoàn thành."
+            }
+        },
+        {
+            "content": "gian hàng",
+            "type": "",
+            "example": {
+                "en": "Employees volunteer time in the advice booth.",
+                "vi": "Các nhân viên tình nguyện trong các gian hàng tư vấn."
+            }
+        }
+    ]
+}

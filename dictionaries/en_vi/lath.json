@@ -1,0 +1,51 @@
+{
+    "word": "lath",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/laTH/",
+            "/læθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lɑːθ/",
+            "/laθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lati",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lát bằng lati",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh gỗ mỏng",
+            "type": "",
+            "example": {
+                "en": "The window through which Solomon looks out has a lattice—apparently a framework with laths and perhaps elaborate carvings.",
+                "vi": "Sa-lô-môn nhìn qua cửa sổ có song—có thể đây là khung cửa có những thanh gỗ mỏng có chạm khắc."
+            }
+        },
+        {
+            "content": "mè",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

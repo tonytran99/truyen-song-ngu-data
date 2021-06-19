@@ -1,0 +1,40 @@
+{
+    "word": "ginkgo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiNGkō/",
+            "/ˈɡɪŋkoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪŋkɡəʊ/",
+            "/ˈɡɪŋkəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạch quả",
+            "type": "noun",
+            "example": {
+                "en": "Drink some ginkgo and let the photos burn.",
+                "vi": "Hãy uống chút bạch quả và mặc cho mấy bức ảnh cháy rụi."
+            }
+        },
+        {
+            "content": "cây bạch quả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây lá quạt",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

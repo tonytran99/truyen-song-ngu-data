@@ -1,0 +1,90 @@
+{
+    "word": "except",
+    "type": [
+        "verb",
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsept/",
+            "/ɪkˈsɛpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsɛpt/",
+            "/ɛkˈsɛpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trừ",
+            "type": "verb, conjunction",
+            "example": {
+                "en": "Tom told Mary that everybody except John had already arrived.",
+                "vi": "Tom nói với Mary rằng mọi người đều đã đến ngoại trừ John."
+            }
+        },
+        {
+            "content": "ngoại trừ",
+            "type": "verb, adverb",
+            "example": {
+                "en": "Tom told Mary that everybody except John had already arrived.",
+                "vi": "Tom nói với Mary rằng mọi người đều đã đến ngoại trừ John."
+            }
+        },
+        {
+            "content": "phản đối",
+            "type": "verb",
+            "example": {
+                "en": "I overheard your last remark and take the gravest exception.",
+                "vi": "Cho dù ông là ai, tôi vừa nghe lỏm được câu vừa rồi, và tôi kịch liệt phản đối."
+            }
+        },
+        {
+            "content": "trừ ra",
+            "type": "",
+            "example": {
+                "en": "In case you're interested all of the elders, with the exception of Ataman have already come over to my side.",
+                "vi": "trừ ra Ataman... đều đứng về phía tôi."
+            }
+        },
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kể",
+            "type": "",
+            "example": {
+                "en": "except a few weeks here, a few weeks there.",
+                "vi": "không kể một vài tuần nay đây mai đó."
+            }
+        },
+        {
+            "content": "loại ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừ phi",
+            "type": "",
+            "example": {
+                "en": "Neither could prevail except at the expense of the other.",
+                "vi": "Không một người nào có thể thắng trừ phi người kia phải bị thua thiệt."
+            }
+        },
+        {
+            "content": "chống",
+            "type": "",
+            "example": {
+                "en": "From the million-pound security system at the bank to the PIN machine you took exception to.",
+                "vi": "Từ những hệ thống an ninh hàng triệu bảng trong ngân hàng cho đến cái máy PIN đã chống đối anh."
+            }
+        }
+    ]
+}

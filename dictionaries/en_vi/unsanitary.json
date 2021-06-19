@@ -1,0 +1,39 @@
+{
+    "word": "unsanitary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈsanəˌterē/",
+            "/ˌənˈsænəˌtɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈsanɪt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hại cho sức khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hợp vệ sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu vệ sinh",
+            "type": "",
+            "example": {
+                "en": "Health workers say , the operation is often carried out in unsanitary conditions .",
+                "vi": "Theo các nhân viên y tế , phẫu thuật thường được thực hiện trong những điều kiện thiếu vệ sinh ."
+            }
+        }
+    ]
+}

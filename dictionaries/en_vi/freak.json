@@ -1,0 +1,74 @@
+{
+    "word": "freak",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frēk/",
+            "/frik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/friːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quái",
+            "type": "",
+            "example": {
+                "en": "that was un-freaking-canny for me to assemble.",
+                "vi": "là sự lão luyện chưa đủ quái đản cho tôi thu thập."
+            }
+        },
+        {
+            "content": "làm có vệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lốm đốm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quái vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính hay thay đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính đồng bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều kỳ dị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người",
+            "type": "pronoun noun",
+            "example": {
+                "en": "With my luck they're all Eco-freaks.",
+                "vi": "Họ đều là những người hòa mình với thiên nhiên."
+            }
+        },
+        {
+            "content": "người hâm mộ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

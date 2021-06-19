@@ -1,0 +1,34 @@
+{
+    "word": "venous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēnəs/",
+            "/ˈvinəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tĩnh mạch",
+            "type": "noun",
+            "example": {
+                "en": "So have chase do a venous sampling in her brain.",
+                "vi": "Thế nên Chase đã lẫy mẫu tĩnh mạch trong não cô ta rồi."
+            }
+        },
+        {
+            "content": "venose",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

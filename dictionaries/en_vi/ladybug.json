@@ -1,0 +1,39 @@
+{
+    "word": "ladybug",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlādēˌbəɡ/",
+            "/ˈleɪdiˌbəɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪdɪbʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hiền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhu-nhược",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bọ rùa",
+            "type": "noun",
+            "example": {
+                "en": "If I'm not a ladybug or a piece of candy, I'm invisible after 15 minutes.",
+                "vi": "Sau đó thì nếu tôi không phải con bọ rùa hay viên kẹo thì cũng bị phế truất."
+            }
+        }
+    ]
+}

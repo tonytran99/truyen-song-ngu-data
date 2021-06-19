@@ -1,0 +1,52 @@
+{
+    "word": "floss",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flôs/",
+            "/flɔs/",
+            "/fläs/",
+            "/flɑs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɒs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sồi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chỉ nha khoa",
+            "type": "",
+            "example": {
+                "en": "The best way to prevent it is to brush and floss your teeth regularly .",
+                "vi": "Cách tốt nhất để ngăn chặn nó là chải răng và dùng chỉ nha khoa thường xuyên ."
+            }
+        },
+        {
+            "content": "quần áo sồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tơ sồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vải sồi",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

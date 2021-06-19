@@ -1,0 +1,34 @@
+{
+    "word": "botany",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbät(ə)nē/",
+            "/ˈbɑt(ə)ni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒt(ə)ni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực vật học",
+            "type": "noun",
+            "example": {
+                "en": "So, I did tropical ecology and plant botany.",
+                "vi": "Do đó, tôi đã nghiên cứu về thực vật học và sinh thái học nhiệt đới."
+            }
+        },
+        {
+            "content": "植物學",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

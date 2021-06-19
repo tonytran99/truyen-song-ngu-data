@@ -1,0 +1,33 @@
+{
+    "word": "gulf",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vịnh",
+            "type": "noun",
+            "example": {
+                "en": "I was in the gulf, and I was swimming around and saw a little octopus on the bottom.",
+                "vi": "Tôi bơi trong vịnh, và thấy một con bạch tuộc nhỏ dưới đáy."
+            }
+        },
+        {
+            "content": "灣",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

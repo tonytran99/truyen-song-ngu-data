@@ -1,0 +1,44 @@
+{
+    "word": "unrelated",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənrəˈlādəd/",
+            "/ˌənrəˈleɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnrɪˈleɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có liên quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kể lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không liên quan",
+            "type": "",
+            "example": {
+                "en": "You think she had two unrelated rare conditions in one week?",
+                "vi": "Anh nghĩ cô bé mắc hai bệnh hiếm không liên quan đến nhau trong một tuần?"
+            }
+        },
+        {
+            "content": "không thuật lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

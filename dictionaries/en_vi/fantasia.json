@@ -1,0 +1,50 @@
+{
+    "word": "fantasia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fanˈtāzēə/",
+            "/fænˈteɪziə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fanˈteɪzɪə/",
+            "/ˌfantəˈziːə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phăng-te-di",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phăng-tê-di",
+            "type": "noun adjective verb",
+            "example": {}
+        },
+        {
+            "content": "khúc phóng túng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Fantasia",
+            "type": "",
+            "example": {
+                "en": "(Music: \"Fantasia On Jesu, Mein Freunde\" by Johann S. Bach)",
+                "vi": "(Âm nhạc: \"Fantasia On Jesu, Mein Freunde\" bởi Johann S. Bach)"
+            }
+        }
+    ]
+}

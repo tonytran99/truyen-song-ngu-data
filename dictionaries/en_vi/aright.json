@@ -1,0 +1,30 @@
+{
+    "word": "aright",
+    "type": [
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrīt/",
+            "/əˈraɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "How can we ‘handle the word of the truth aright’?",
+                "vi": "Làm thế nào chúng ta có thể ‘giảng dạy lời chân thật một cách đúng đắn’?"
+            }
+        }
+    ]
+}

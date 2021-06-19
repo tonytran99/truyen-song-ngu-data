@@ -1,0 +1,55 @@
+{
+    "word": "closing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklōziNG/",
+            "/ˈkloʊzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkləʊzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đóng",
+            "type": "",
+            "example": {
+                "en": "and the closing of the gold window,",
+                "vi": "và sự đóng cửa của các tiệm vàng bạc,"
+            }
+        },
+        {
+            "content": "cuối cùng",
+            "type": "",
+            "example": {
+                "en": "So in closing, I want to thank all of you",
+                "vi": "Vì vậy, cuối cùng, tôi muốn cảm ơn tất cả các bạn"
+            }
+        },
+        {
+            "content": "kết thúc",
+            "type": "noun",
+            "example": {
+                "en": "We played some games together, and I gave the closing prayer.",
+                "vi": "Chúng tôi cùng chơi chung một vài trò chơi và tôi dâng lên lời cầu nguyện kết thúc."
+            }
+        },
+        {
+            "content": "sự kết thúc",
+            "type": "",
+            "example": {
+                "en": "Since the end is so close, what do you need to do?",
+                "vi": "Vì sự kết thúc gần đến, bạn cần làm gì?"
+            }
+        }
+    ]
+}

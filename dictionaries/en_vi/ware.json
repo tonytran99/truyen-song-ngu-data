@@ -1,0 +1,82 @@
+{
+    "word": "ware",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wer/",
+            "/wɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng hoá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồ",
+            "type": "verb noun",
+            "example": {
+                "en": "But what make their wares unique are their free-form designs and incised patterns.",
+                "vi": "Điều làm cho những món đồ của họ có tính đặc biệt là những kiểu tự do và những mẫu hình chạm trổ."
+            }
+        },
+        {
+            "content": "aware",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chú ý",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "coi chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật chế tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật dụng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồ dùng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hàng",
+            "type": "verb noun",
+            "example": {
+                "en": "We saw their wares and handicrafts and exchanged gifts with one another.",
+                "vi": "Chúng tôi thấy hàng hóa và đồ thủ công của họ và trao đổi quà với nhau."
+            }
+        },
+        {
+            "content": "hàng hóa",
+            "type": "",
+            "example": {
+                "en": "We saw their wares and handicrafts and exchanged gifts with one another.",
+                "vi": "Chúng tôi thấy hàng hóa và đồ thủ công của họ và trao đổi quà với nhau."
+            }
+        }
+    ]
+}

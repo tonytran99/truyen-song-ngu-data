@@ -1,0 +1,58 @@
+{
+    "word": "underneath",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈnēTH/",
+            "/ˌəndərˈniθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈniːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dưới",
+            "type": "adposition",
+            "example": {
+                "en": "There's a container underneath that's collecting that tissue.",
+                "vi": "Có một vật chứa nằm bên dưới để thu thập các mô này."
+            }
+        },
+        {
+            "content": "bên dưới",
+            "type": "",
+            "example": {
+                "en": "There's a container underneath that's collecting that tissue.",
+                "vi": "Có một vật chứa nằm bên dưới để thu thập các mô này."
+            }
+        },
+        {
+            "content": "ở dưới",
+            "type": "",
+            "example": {
+                "en": "Perhaps you can guess what the word underneath was.",
+                "vi": "Có lẽ quí vị đã đoán được từ gì ghi ở dưới."
+            }
+        },
+        {
+            "content": "mặt dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần dưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

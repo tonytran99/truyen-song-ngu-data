@@ -1,0 +1,74 @@
+{
+    "word": "everything",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevrēˌTHiNG/",
+            "/ˈɛvriˌθɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvrɪθɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tất cả",
+            "type": "pronoun",
+            "example": {
+                "en": "I want to buy my children everything I never had.",
+                "vi": "Mình muốn mua cho lũ trẻ tất cả những gì mình không có."
+            }
+        },
+        {
+            "content": "mọi thứ nào",
+            "type": "pronoun",
+            "example": {
+                "en": "Everything that can walk.",
+                "vi": "Mọi thứ nào đi được."
+            }
+        },
+        {
+            "content": "mọi vật",
+            "type": "pronoun",
+            "example": {
+                "en": "Rip makes his way back to his village only to discover that everything has changed.",
+                "vi": "Rip đi về ngôi làng của mình và khám phá rằng mọi vật đều đã thay đổi."
+            }
+        },
+        {
+            "content": "mọi cái",
+            "type": "",
+            "example": {
+                "en": "We were treating him for Wegener's when everything went wrong.",
+                "vi": "Ta chữa bệnh Wegener vì mọi cái khác đều sai cả."
+            }
+        },
+        {
+            "content": "mọi thứ",
+            "type": "",
+            "example": {
+                "en": "My sister takes care of everything she possesses.",
+                "vi": "Em gái tôi bảo quản rất tốt mọi thứ mà cô có."
+            }
+        },
+        {
+            "content": "tất cả mọi thứ",
+            "type": "pronoun",
+            "example": {
+                "en": "Just be careful with everything.",
+                "vi": "Chỉ cần cẩn thận với tất cả mọi thứ."
+            }
+        },
+        {
+            "content": "vạn sự",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

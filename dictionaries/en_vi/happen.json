@@ -1,0 +1,93 @@
+{
+    "word": "happen",
+    "type": [
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhapən/",
+            "/ˈhæpən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhap(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xảy ra",
+            "type": "verb",
+            "example": {
+                "en": "I need to know exactly what happened to Tom.",
+                "vi": "Tớ cần biết chuyện gì đã xảy ra với Tom."
+            }
+        },
+        {
+            "content": "xảy đến",
+            "type": "verb",
+            "example": {
+                "en": "There's no explanation for what happened to Tom.",
+                "vi": "Không có lời giải thích nào cho việc xảy đến với Tom."
+            }
+        },
+        {
+            "content": "tình cờ",
+            "type": "",
+            "example": {
+                "en": "We happen to know, there's a list of Catharina, the wife's clothes.",
+                "vi": "Chúng ta tình cờ biết được danh sách trang phục của người vợ Cathrina."
+            }
+        },
+        {
+            "content": "diễn biến",
+            "type": "",
+            "example": {
+                "en": "Anyone interested in what happened with the swelling?",
+                "vi": "Có ai thấy hứng thú với diễn biến của vết sưng không?"
+            }
+        },
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Often when things happen, it’s not by accident.",
+                "vi": "Thông thường khi những sự việc xảy ra, thì không phải là ngẫu nhiên đâu."
+            }
+        },
+        {
+            "content": "ngẫu nhiên gặp",
+            "type": "",
+            "example": {
+                "en": "Now, did Alma just happen upon Amulek?",
+                "vi": "Vậy thì, An Ma đã ngẫu nhiên gặp gỡ A Mu Léc chăng?"
+            }
+        },
+        {
+            "content": "ngẫu nhiên thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngẫu nhiên xảy ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình cờ gặp",
+            "type": "",
+            "example": {
+                "en": "We just happened to be at the same Italian cheese-tasting thing.",
+                "vi": "Chúng tôi chỉ tình cờ gặp nhau ở buổi thử món pho mát Ý."
+            }
+        },
+        {
+            "content": "tình cờ xảy ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

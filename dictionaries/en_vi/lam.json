@@ -1,0 +1,46 @@
+{
+    "word": "lam",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lam/",
+            "/læm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lam/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chạy trốn",
+            "type": "",
+            "example": {
+                "en": "Though I am surprised that you haven't gassed up a gulfstream and gone on the lam.",
+                "vi": "Dù tôi thấy bất ngờ là anh không nhảy ngay lên phi cơ mà chạy trốn cảnh sát."
+            }
+        },
+        {
+            "content": "lẩn trốn",
+            "type": "",
+            "example": {
+                "en": "I guess I'm sort of on the lam.",
+                "vi": "Có thể nói là tôi đang lẩn trốn."
+            }
+        },
+        {
+            "content": "trốn tránh",
+            "type": "",
+            "example": {
+                "en": "Are you telling me that you're on the lam with Lawrence Drake?",
+                "vi": "Anh đang trốn tránh với Lawrence Drake đó hả?"
+            }
+        }
+    ]
+}

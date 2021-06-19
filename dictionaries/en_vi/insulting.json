@@ -1,0 +1,57 @@
+{
+    "word": "insulting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsəltiNG/",
+            "/ɪnˈsəltɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsʌltɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm nhục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lăng mạ",
+            "type": "",
+            "example": {
+                "en": "After all you've done, the least I ask is that you don't insult me.",
+                "vi": "Tôi chỉ yêu cầu anh đừng lăng mạ tôi nữa mà thôi."
+            }
+        },
+        {
+            "content": "sỉ nhục",
+            "type": "",
+            "example": {
+                "en": "An insult to me is an insult to you.",
+                "vi": "Sỉ nhục em tức là sỉ nhục cả anh."
+            }
+        },
+        {
+            "content": "xúc phạm",
+            "type": "",
+            "example": {
+                "en": "He just insulted you, he insulted me, all of us.",
+                "vi": "Hắn xúc phạm tao, xúc phạm mày, tất cả chúng ta."
+            }
+        },
+        {
+            "content": "xấc xược",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

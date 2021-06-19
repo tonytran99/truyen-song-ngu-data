@@ -1,0 +1,124 @@
+{
+    "word": "before",
+    "type": [
+        "adverb",
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈfôr/",
+            "/bəˈfɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈfɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trước",
+            "type": "adposition, adverb",
+            "example": {
+                "en": "The airplane skimmed the ground before it crashed.",
+                "vi": "Chiếc máy bay đã bay sát mặt trước khi nó đâm sầm xuống."
+            }
+        },
+        {
+            "content": "đằng trước",
+            "type": "adposition, adverb",
+            "example": {
+                "en": "Zero is what comes before one.",
+                "vi": "\"Không\" là số đứng đằng trước \"một\"."
+            }
+        },
+        {
+            "content": "trước đây",
+            "type": "adverb",
+            "example": {
+                "en": "Has this ever happened to you before?",
+                "vi": "Việc này đã từng xảy ra với bạn trước đây chưa?"
+            }
+        },
+        {
+            "content": "trước khi",
+            "type": "adverb",
+            "example": {
+                "en": "The airplane skimmed the ground before it crashed.",
+                "vi": "Chiếc máy bay đã bay sát mặt trước khi nó đâm sầm xuống."
+            }
+        },
+        {
+            "content": "lúc trước",
+            "type": "adverb",
+            "example": {
+                "en": "Tom seems to speak French better than before.",
+                "vi": "Dường như Tom nói tiếng Pháp tốt hơn lúc trước."
+            }
+        },
+        {
+            "content": "hơn",
+            "type": "conjunction",
+            "example": {
+                "en": "Tom seems to speak French better than before.",
+                "vi": "Dường như Tom nói tiếng Pháp tốt hơn lúc trước."
+            }
+        },
+        {
+            "content": "khi trước",
+            "type": "",
+            "example": {
+                "en": "But before you do, just this once... you're gonna do something right.",
+                "vi": "Nhưng khi trước khi về hưu, chỉ có một lần này ông phải làm điều gì đó đúng."
+            }
+        },
+        {
+            "content": "ngày trước",
+            "type": "adverb",
+            "example": {
+                "en": "There's even a football match in Turin the day before the delivery.",
+                "vi": "Thậm chí còn có một trận bóng đá ở Turin vào ngày trước ngày giao tiền."
+            }
+        },
+        {
+            "content": "trước kia",
+            "type": "",
+            "example": {
+                "en": "You know, I've never lived with a guy before.",
+                "vi": "Các cậu biết đấy, tớ chưa từng sống với đàn ông trước kia mà."
+            }
+        },
+        {
+            "content": "trước mắt",
+            "type": "adposition",
+            "example": {
+                "en": "A prospect opened up before me, one that offered something worth living for.",
+                "vi": "Một viễn cảnh mới mở ra trước mắt tôi, cho tôi thấy ý nghĩa thật của đời sống."
+            }
+        },
+        {
+            "content": "trước mặt",
+            "type": "adposition",
+            "example": {
+                "en": "He will stand before kings; he will not stand before common men.”",
+                "vi": "Người sẽ đứng trước mặt các vua, chứ chẳng đứng trước mặt dân thường”."
+            }
+        },
+        {
+            "content": "đời còn dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sớm hơn",
+            "type": "",
+            "example": {
+                "en": "Ladies and gentlemen, I'd like to end before time.",
+                "vi": "Thưa quí ví và các bạn, tôi xin dừng sớm hơn dự định."
+            }
+        }
+    ]
+}

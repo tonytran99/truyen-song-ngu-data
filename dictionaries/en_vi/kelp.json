@@ -1,0 +1,34 @@
+{
+    "word": "kelp",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kelp/",
+            "/kɛlp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɛlp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tảo bẹ",
+            "type": "noun",
+            "example": {
+                "en": "low and behold, kelp forests emerged in shallow water.",
+                "vi": "thấp và có thể trông thấy, rừng tảo bẹ xuất hiện trong vùng nước nông."
+            }
+        },
+        {
+            "content": "tro tảo bẹ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

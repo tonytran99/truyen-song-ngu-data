@@ -1,0 +1,52 @@
+{
+    "word": "cockpit",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäkˌpit/",
+            "/ˈkɑkˌpɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒkpɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buồng lái",
+            "type": "",
+            "example": {
+                "en": "I spent many years in the cockpit of an airplane.",
+                "vi": "Trong nhiều năm, tôi ngồi trong buồng lái của chiếc máy bay."
+            }
+        },
+        {
+            "content": "bãi chọi gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ chọi gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trường chiến tranh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoang lái",
+            "type": "",
+            "example": {
+                "en": "They're dismantling the entire cockpit around the body.",
+                "vi": "Họ đang dỡ nốt khoang lái quanh xác chết."
+            }
+        }
+    ]
+}

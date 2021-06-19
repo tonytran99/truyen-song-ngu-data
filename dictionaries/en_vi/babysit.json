@@ -1,0 +1,45 @@
+{
+    "word": "babysit",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbābēˌsit/",
+            "/ˈbeɪbiˌsɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbeɪbɪsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giữ trẻ",
+            "type": "",
+            "example": {
+                "en": "For kids it feels like punishment, and for teachers it feels like babysitting.",
+                "vi": "Với lũ trẻ nó như sự trừng phạt, và với giáo viên nó như việc giữ trẻ."
+            }
+        },
+        {
+            "content": "trông em",
+            "type": "",
+            "example": {
+                "en": "Yeah, it could be Rachel asking if someone could babysit again.",
+                "vi": "Oh, yeah, có thể là Rachel nhờ ai đó bọn mình trông em bé."
+            }
+        },
+        {
+            "content": "trông trẻ",
+            "type": "",
+            "example": {
+                "en": "I just asked her to babysit, and now she says she's leaving.",
+                "vi": "Anh vừa nhờ trông trẻ thì mẹ bảo là sẽ đi."
+            }
+        }
+    ]
+}

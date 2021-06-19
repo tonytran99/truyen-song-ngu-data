@@ -1,0 +1,51 @@
+{
+    "word": "buffalo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəf(ə)ˌlō/",
+            "/ˈbəf(ə)ˌloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌfələʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trâu",
+            "type": "noun",
+            "example": {
+                "en": "I mention buffalo yoghurt and the guy says it smells.",
+                "vi": "Tôi nhắc đến sữa chua trâu mà hắn lại nói nó hôi."
+            }
+        },
+        {
+            "content": "con trâu",
+            "type": "",
+            "example": {
+                "en": "You know that buffalo wouldn't make me a vodka martini?",
+                "vi": "Anh biết là con trâu kia không cho em vodka martini?"
+            }
+        },
+        {
+            "content": "trâu rừng",
+            "type": "",
+            "example": {
+                "en": "Be going for buffalo soon.",
+                "vi": "Sắp tới lúc đi săn trâu rừng rồi."
+            }
+        },
+        {
+            "content": "xe tăng lội nước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

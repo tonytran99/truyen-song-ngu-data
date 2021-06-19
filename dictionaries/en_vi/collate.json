@@ -1,0 +1,46 @@
+{
+    "word": "collate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈlāt/",
+            "/kəˈleɪt/",
+            "/ˈkōˌlāt/",
+            "/ˈkoʊˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dò",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "so sánh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đối chiếu",
+            "type": "verb",
+            "example": {
+                "en": "and Okolloh would collate them. She would post them.",
+                "vi": "Cô ấy sẽ đối chiếu và sau đó post lên ."
+            }
+        },
+        {
+            "content": "khám",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

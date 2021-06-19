@@ -1,0 +1,112 @@
+{
+    "word": "hunt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "săn",
+            "type": "verb",
+            "example": {
+                "en": "It has developed special techniques for hunting amongst the cacti.",
+                "vi": "Nó đã phát triển những kỹ thuật chuyên biệt để săn mồi trong các khóm xương rồng."
+            }
+        },
+        {
+            "content": "săn bắn",
+            "type": "verb",
+            "example": {
+                "en": "I have a valid license to hunt that rhino.",
+                "vi": "Tôi có giấy phép hợp lệ để săn bắn con tê giác đó."
+            }
+        },
+        {
+            "content": "cuộc tìm kiếm",
+            "type": "",
+            "example": {
+                "en": "Seemed like the only way to get you in on the hunt.",
+                "vi": "Có vẻ như đó là cách duy nhất để kéo cậu vào cuộc tìm kiếm."
+            }
+        },
+        {
+            "content": "săn đuổi",
+            "type": "",
+            "example": {
+                "en": "These days, the hunt is on for people's shameful secrets.",
+                "vi": "Bây giờ, những bí mật xấu hổ ấy lại bị săn đuổi."
+            }
+        },
+        {
+            "content": "tìm kiếm",
+            "type": "",
+            "example": {
+                "en": "Seemed like the only way to get you in on the hunt.",
+                "vi": "Có vẻ như đó là cách duy nhất để kéo cậu vào cuộc tìm kiếm."
+            }
+        },
+        {
+            "content": "lùng",
+            "type": "",
+            "example": {
+                "en": "Why would he be hunting them two decades later?",
+                "vi": "Tại sao ông ta lại truy lùng sau hai thập kỷ?"
+            }
+        },
+        {
+            "content": "dùng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "rung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc lùng sục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc đi săn",
+            "type": "noun",
+            "example": {
+                "en": "Please tell me we're not on that hunt again.",
+                "vi": "Làm ơn nói với tôi không phải ta lại đang trong cuộc đi săn đó."
+            }
+        },
+        {
+            "content": "khu vực săn bắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi săn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đảo lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn người đi săn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

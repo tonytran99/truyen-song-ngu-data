@@ -1,0 +1,49 @@
+{
+    "word": "bombing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc ném bom",
+            "type": "noun",
+            "example": {
+                "en": "I expect fire bombing to commence... within 48 hours,",
+                "vi": "Tôi hy vọng việc ném bom sẽ bắt đầu trong vòng 48 tiếng nữa."
+            }
+        },
+        {
+            "content": "pháo kích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đánh bom",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vụ nổ bom",
+            "type": "noun",
+            "example": {
+                "en": "Detective Mims had a lead on a print discovered on the fake bomb.",
+                "vi": "Thanh tra Mims lần theo dấu vân tay phát hiện một vụ nổ bom giả."
+            }
+        },
+        {
+            "content": "vụ đánh bom",
+            "type": "noun",
+            "example": {
+                "en": "He's been linked to dozens of car bombings.",
+                "vi": "Hết vụ đánh bom này đến vụ đánh bom xe khác."
+            }
+        }
+    ]
+}

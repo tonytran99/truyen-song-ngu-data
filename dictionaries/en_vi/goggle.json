@@ -1,0 +1,45 @@
+{
+    "word": "goggle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡäɡəl/",
+            "/ˈɡɑɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɒɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giương mắt nhìn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lồi ra",
+            "type": "",
+            "example": {
+                "en": "Can we get someone out there with a goggle rig?",
+                "vi": "Chúng ta có thể cho người mang gương lồi ra đó không?"
+            }
+        },
+        {
+            "content": "trợn tròn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trợn tròn mắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

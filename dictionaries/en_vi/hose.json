@@ -1,0 +1,71 @@
+{
+    "word": "hose",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hōz/",
+            "/hoʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ống vòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống",
+            "type": "noun",
+            "example": {
+                "en": "I'm no expert, but it appears to be some sort of busted hose.",
+                "vi": "Tôi chẳng phải chuyên gia gì, nhưng có vẻ nó bị hỏng ống mềm."
+            }
+        },
+        {
+            "content": "bít tất dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lắp vòi",
+            "type": "",
+            "example": {
+                "en": "Get those hoses on.",
+                "vi": "Lắp vòi rồng vào."
+            }
+        },
+        {
+            "content": "lắp ống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tưới nước bằng vòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái cuốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ống mềm",
+            "type": "",
+            "example": {
+                "en": "I'm no expert, but it appears to be some sort of busted hose.",
+                "vi": "Tôi chẳng phải chuyên gia gì, nhưng có vẻ nó bị hỏng ống mềm."
+            }
+        }
+    ]
+}

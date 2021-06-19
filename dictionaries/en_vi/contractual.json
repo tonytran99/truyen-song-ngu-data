@@ -1,0 +1,44 @@
+{
+    "word": "contractual",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtrak(t)SH(o͞o)əl/",
+            "/kənˈtræk(t)ʃ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtraktʃʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng giao kèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bằng hợp đồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bằng khế ước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp đồng",
+            "type": "noun",
+            "example": {
+                "en": "rather than contractual ones.",
+                "vi": "chứ không phải hạn chế trên hợp đồng."
+            }
+        }
+    ]
+}

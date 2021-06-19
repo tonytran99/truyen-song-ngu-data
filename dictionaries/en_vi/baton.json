@@ -1,0 +1,71 @@
+{
+    "word": "baton",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈtän/",
+            "/bəˈtɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbat(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùi cui",
+            "type": "noun",
+            "example": {
+                "en": "Not even a police baton is needed to keep order.",
+                "vi": "Cũng không cần đến cây dùi cui của lính cảnh sát để giữ gìn trật tự."
+            }
+        },
+        {
+            "content": "gậy chỉ huy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đánh bằng dùi cui",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bằng gậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gậy",
+            "type": "noun",
+            "example": {
+                "en": "So in the relay race, since passing the baton is so important,",
+                "vi": "Và trong cuộc đua tiếp sức, do việc chuyền gậy là vô cùng quan trọng,"
+            }
+        },
+        {
+            "content": "ba toong",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "roi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Dùi cui",
+            "type": "",
+            "example": {
+                "en": "A telescoping baton to the back of the head.",
+                "vi": "Một phát dùi cui tự thu ngắn ngay phía sau đầu"
+            }
+        }
+    ]
+}

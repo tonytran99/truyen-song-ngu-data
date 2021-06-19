@@ -1,0 +1,50 @@
+{
+    "word": "wand",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wänd/",
+            "/wɑnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đũa thần",
+            "type": "",
+            "example": {
+                "en": "It gave her a great excuse to wear a sparkly dress and carry a wand.",
+                "vi": "Nó cho con bé một lý do tuyệt với để mặcđầm lấp lánh và cầm đũa thần."
+            }
+        },
+        {
+            "content": "gậy phép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gậy quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "que đánh nhịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyền trượng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

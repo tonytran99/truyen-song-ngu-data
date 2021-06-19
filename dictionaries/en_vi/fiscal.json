@@ -1,0 +1,53 @@
+{
+    "word": "fiscal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfisk(ə)l/",
+            "/ˈfɪsk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪsk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài chính",
+            "type": "",
+            "example": {
+                "en": "If I get fat, there goes my fiscal year.",
+                "vi": "Nếu em béo phì thì đi luôn tài chính của em."
+            }
+        },
+        {
+            "content": "biện lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thu nhập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viên chức tư pháp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài khóa",
+            "type": "",
+            "example": {
+                "en": "People say we should call it the fiscal slope,",
+                "vi": "Mọi người nói chúng ta nên gọi nó là dốc tài khóa,"
+            }
+        }
+    ]
+}

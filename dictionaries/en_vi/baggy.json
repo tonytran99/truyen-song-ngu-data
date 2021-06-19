@@ -1,0 +1,63 @@
+{
+    "word": "baggy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaɡē/",
+            "/ˈbæɡi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbaɡi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chùng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phì ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phồng ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rộng lùng thùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lùng thùng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thụng",
+            "type": "adjective",
+            "example": {
+                "en": "The borough that gave us baggy pants and funky fresh beats",
+                "vi": "Thành phố mà mang lại cho chúng ta quần thụng và những nhịp điệu tươi trẻ"
+            }
+        },
+        {
+            "content": "rộng thùng thình",
+            "type": "",
+            "example": {
+                "en": "There's nothing I like more than putting on some loose, baggy clothes, and just being able to relax.",
+                "vi": "Tôi chỉ muốn mặc loại đồ rộng thùng thình để cảm thấy được thoải mái."
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "intoxicating",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtäksəkādiNG/",
+            "/ɪnˈtɑksəkeɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɒksɪˌkeɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cất",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm say",
+            "type": "",
+            "example": {
+                "en": "The Pazzis proved the seduction of power is intoxicating.",
+                "vi": "Nhà Pazzi đã chứng minh sự quyến rủ của sức mạnh đang làm say."
+            }
+        },
+        {
+            "content": "làm say sưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say sưa",
+            "type": "",
+            "example": {
+                "en": "For example, the use of alcohol to the point of intoxication is common.",
+                "vi": "Thí dụ, uống rượu đến độ say sưa là điều thông thường."
+            }
+        }
+    ]
+}

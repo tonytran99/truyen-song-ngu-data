@@ -1,0 +1,41 @@
+{
+    "word": "fraught",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frôt/",
+            "/frɔt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầy",
+            "type": "adjective",
+            "example": {
+                "en": "But that's an approach that's fraught with political, legal and social dangers.",
+                "vi": "Nhưng như thế sẽ phát sinh đầy mối nguy về chính trị, pháp lý và xã hội."
+            }
+        },
+        {
+            "content": "trang bị đầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xếp đầy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

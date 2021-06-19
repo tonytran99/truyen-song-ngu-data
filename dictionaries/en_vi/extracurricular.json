@@ -1,0 +1,38 @@
+{
+    "word": "extracurricular",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekstrəkəˈrikyələr/",
+            "/ˌɛkstrəkəˈrɪkjələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛkstrəkəˈrɪkjʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngoại khóa",
+            "type": "adjective",
+            "example": {
+                "en": "She took part in many extracurricular activities and had the respect of her teachers and counselors.",
+                "vi": "Em tham gia nhiều hoạt động ngoại khóa và được thầy cô yêu quý."
+            }
+        },
+        {
+            "content": "ngoại khoá",
+            "type": "",
+            "example": {
+                "en": "Are classes or extracurricular activities limiting your time to study properly ?",
+                "vi": "Có phải các giờ học hoặc các hoạt động ngoại khoá đang thực sự làm cho bạn hạn chế thời gian học ?"
+            }
+        }
+    ]
+}

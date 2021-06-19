@@ -1,0 +1,46 @@
+{
+    "word": "applied",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈplīd/",
+            "/əˈplaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈplʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyên tâm",
+            "type": "",
+            "example": {
+                "en": "Listen and apply yourself.",
+                "vi": "Nghe và chuyên tâm vào."
+            }
+        },
+        {
+            "content": "được ứng dụng",
+            "type": "",
+            "example": {
+                "en": "But this applies, equally, to matters of trying to sell new technology.",
+                "vi": "Nhưng những điều này có thể được ứng dụng trong việc giao bán công nghệ mới"
+            }
+        },
+        {
+            "content": "ứng dụng",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Why not apply that to our looking at paintings?",
+                "vi": "Vậy tại sao lại không ứng dụng điều đó khi đi xem tranh?"
+            }
+        }
+    ]
+}

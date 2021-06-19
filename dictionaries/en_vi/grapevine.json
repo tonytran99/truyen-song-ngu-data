@@ -1,0 +1,53 @@
+{
+    "word": "grapevine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrāpˌvīn/",
+            "/ˈɡreɪpˌvaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪpvʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nho",
+            "type": "adjective noun",
+            "example": {
+                "en": "Much of Spain is clothed with wheat fields, grapevines, and olive trees.",
+                "vi": "Phần lớn Tây Ban Nha được bao phủ bởi những cánh đồng lúa mì, vườn nho và cây ô-liu."
+            }
+        },
+        {
+            "content": "cây",
+            "type": "noun",
+            "example": {
+                "en": "Grapevines needed constant care—pruning, irrigating, and harvesting—to maintain their fruitfulness.",
+                "vi": "Những cây nho luôn cần được chăm sóc bằng cách tỉa, tưới và thu hái để có trái tốt."
+            }
+        },
+        {
+            "content": "tin đồn",
+            "type": "",
+            "example": {
+                "en": "The grapevine says we met for dinner a week ago and haven't been seen since.",
+                "vi": "Có tin đồn chúng ta đã ăn tối với nhau tuần trước và biến mất kể từ đó."
+            }
+        },
+        {
+            "content": "cây nho",
+            "type": "",
+            "example": {
+                "en": "12 My brothers, a fig tree cannot produce olives, or a grapevine figs, can it?",
+                "vi": "12 Hỡi anh em của tôi, cây vả không thể sinh trái ô-liu, hoặc cây nho không thể sinh trái vả phải không?"
+            }
+        }
+    ]
+}

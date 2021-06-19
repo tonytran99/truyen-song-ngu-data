@@ -1,0 +1,50 @@
+{
+    "word": "venison",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvenəsən/",
+            "/ˈvɛnəsən/",
+            "/ˈvenəzən/",
+            "/ˈvɛnəzən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛnɪs(ə)n/",
+            "/ˈvɛnɪz(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thịt hươu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt nai",
+            "type": "",
+            "example": {
+                "en": "I hope venison is to your liking.",
+                "vi": "Hy vọng món thịt nai nay vừa miệng cô."
+            }
+        },
+        {
+            "content": "Thịt nai",
+            "type": "",
+            "example": {
+                "en": "I hope venison is to your liking.",
+                "vi": "Hy vọng món thịt nai nay vừa miệng cô."
+            }
+        },
+        {
+            "content": "thịt thú rừng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

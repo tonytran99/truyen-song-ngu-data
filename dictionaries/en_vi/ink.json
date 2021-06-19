@@ -1,0 +1,63 @@
+{
+    "word": "ink",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iNGk/",
+            "/ɪŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mực",
+            "type": "noun",
+            "example": {
+                "en": "Now if this thing's in invisible ink, how do we look at it?",
+                "vi": "Vậy nếu như có mực vô hình, làm cách nào để ta thấy nó?"
+            }
+        },
+        {
+            "content": "bôi mực vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước mực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh dấu mực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Mực Tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mực viết",
+            "type": "",
+            "example": {
+                "en": "The ink writing on the page is clearly visible.",
+                "vi": "Mực viết trên đó hoàn toàn rõ ràng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "hundred",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəndrəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌndrəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trăm",
+            "type": "numeral",
+            "example": {
+                "en": "This movement from rural to urban areas has been going on for over two hundred years.",
+                "vi": "Sự dịch chuyện từ nông thôn lên thành thị đã diễn ra suốt hơn hai trăm năm."
+            }
+        },
+        {
+            "content": "một trăm",
+            "type": "numeral",
+            "example": {
+                "en": "A hundred bucks says she has a wiener.",
+                "vi": "Cá một trăm con nai cô ta là điếm."
+            }
+        },
+        {
+            "content": "hàng trăm",
+            "type": "",
+            "example": {
+                "en": "I'd like to write hundreds of sentences on Tatoeba, but I have other things to do.",
+                "vi": "Tôi muốn viết hàng trăm câu trên Tatoeba nhưng tôi có nhiều việc khác phải làm."
+            }
+        },
+        {
+            "content": "một trăm tuổi",
+            "type": "",
+            "example": {
+                "en": "What if the rebellious sinner is a hundred years old?",
+                "vi": "Còn nếu một người cố ý phạm tội khi được một trăm tuổi thì sao?"
+            }
+        },
+        {
+            "content": "số một trăm",
+            "type": "",
+            "example": {
+                "en": "and discovered that only one in a hundred of them",
+                "vi": "và phát hiện chỉ có một trong số một trăm người"
+            }
+        },
+        {
+            "content": "bách",
+            "type": "noun verb numeral",
+            "example": {
+                "en": "I am Hundred Eyes.",
+                "vi": "Ta là Bách Nhãn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "word": "disloyal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisˈloi(ə)l/",
+            "/ˌdɪsˈlɔɪ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈlɔɪ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không trung thành",
+            "type": "adjective",
+            "example": {
+                "en": "We give no quarter to those that are disloyal.",
+                "vi": "Chúng ta không đưa một xu nào cho những kẻ không trung thành."
+            }
+        },
+        {
+            "content": "gian",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không chung thủy",
+            "type": "adjective",
+            "example": {
+                "en": "A family cannot be completely happy if even one of its members lacks natural affection or is disloyal.",
+                "vi": "Một gia đình không thể hoàn toàn hạnh phúc nếu chỉ một người trong nhà thiếu tình thương tự nhiên hoặc không chung thủy."
+            }
+        },
+        {
+            "content": "bạc tình",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất nghĩa",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất trung",
+            "type": "adjective",
+            "example": {
+                "en": "In every city and province, lists of the disloyal have been compiled.",
+                "vi": "Trong mọi thành phố và tỉnh, danh sách những kẻ bất trung đã tập hợp."
+            }
+        },
+        {
+            "content": "không chung thuỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trung nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trung thực",
+            "type": "",
+            "example": {
+                "en": "I feel disloyal divulging them here,",
+                "vi": "Tôi cảm thấy không trung thực khi tiết lộ chúng tại đây,"
+            }
+        },
+        {
+            "content": "phản bội",
+            "type": "verb",
+            "example": {
+                "en": "You beat the brush and root out everything disloyal from a Shanghai rooster to a Durham cow!",
+                "vi": "Nhổ tận gốc từng tên phản bội từ con gà trống Shanghai cho tới con bò cái Durham!"
+            }
+        }
+    ]
+}

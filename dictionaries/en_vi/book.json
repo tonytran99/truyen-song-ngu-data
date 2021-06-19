@@ -1,0 +1,211 @@
+{
+    "word": "book",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͝ok/",
+            "/bʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sách",
+            "type": "noun",
+            "example": {
+                "en": "That book is thick, but it's not very expensive.",
+                "vi": "Quyển sách đó dày, nhưng nó không đắt lắm."
+            }
+        },
+        {
+            "content": "sổ",
+            "type": "noun",
+            "example": {
+                "en": "It took me several days to balance the company books.",
+                "vi": "Tôi đã phải mất nhiều ngày để quyết toán sổ sách của công ty."
+            }
+        },
+        {
+            "content": "quyển",
+            "type": "noun",
+            "example": {
+                "en": "One book is thin, and the other is thick.",
+                "vi": "Một quyển thì mỏng, và quyển kia thì dày."
+            }
+        },
+        {
+            "content": "sổ sách kế toán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tập",
+            "type": "noun",
+            "example": {
+                "en": "They're looking for terrorists, not for book publishers.",
+                "vi": "Họ tìm lũ khủng bố, không phải tổng biên tập."
+            }
+        },
+        {
+            "content": "sách giáo khoa",
+            "type": "noun",
+            "example": {
+                "en": "Their school books are marked up by satanic symbols.",
+                "vi": "Những quyển sách giáo khoa đều được vẽ kí hiệu Satan."
+            }
+        },
+        {
+            "content": "đánh bài",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đánh cuộc",
+            "type": "noun",
+            "example": {
+                "en": "The World Book Encyclopedia defines gambling as “betting on the outcome of a game, event, or chance happening.”",
+                "vi": "Sách World Book Encyclopedia định nghĩa cờ bạc là “đánh cuộc về kết quả của một trận đấu, sự việc hay khả năng xảy ra”."
+            }
+        },
+        {
+            "content": "mua vé",
+            "type": "verb",
+            "example": {
+                "en": "John will have to see first about bookings.",
+                "vi": "John sẽ phải lo việc mua vé trước."
+            }
+        },
+        {
+            "content": "cuốn sách",
+            "type": "noun",
+            "example": {
+                "en": "I searched for a book with many pictures.",
+                "vi": "Tôi tìm một cuốn sách có nhiều hình ảnh."
+            }
+        },
+        {
+            "content": "quyển sách",
+            "type": "noun",
+            "example": {
+                "en": "Please return the book when you have finished reading it.",
+                "vi": "Vui lòng trả quyển sách nếu bạn đã đọc xong."
+            }
+        },
+        {
+            "content": "phòng",
+            "type": "verb",
+            "example": {
+                "en": "You ever think about writing a book on office politics?",
+                "vi": "Anh có bao giờ định viết một cuốn sách về chính trị ở văn phòng?"
+            }
+        },
+        {
+            "content": "trốn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đặt chỗ trước",
+            "type": "",
+            "example": {
+                "en": "Did you book a reservation?",
+                "vi": "Ông có đặt chỗ trước không?"
+            }
+        },
+        {
+            "content": "xuống",
+            "type": "verb",
+            "example": {
+                "en": "I could imagine them sitting with open books studying their lessons and doing their homework.",
+                "vi": "Tôi có thể tưởng tượng ra họ đang ngồi xuống mở sách ra học và làm bài tập."
+            }
+        },
+        {
+            "content": "cuốn",
+            "type": "verb",
+            "example": {
+                "en": "She saw some books lying on the piano.",
+                "vi": "Cô ấy thấy vài cuốn sách nằm trên cây đàn dương cầm."
+            }
+        },
+        {
+            "content": "phạt",
+            "type": "verb",
+            "example": {
+                "en": "Hey, Bremner, you should be in the bloody book for that!",
+                "vi": "Bremner, mày đáng bị phạt thẻ vì điều đó!"
+            }
+        },
+        {
+            "content": "vở",
+            "type": "noun",
+            "example": {
+                "en": "All I have is books.",
+                "vi": "Tất cả những gì tôi có là sách vở."
+            }
+        },
+        {
+            "content": "tâp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chạy trốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kinh thánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuê phòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đơn vị luận lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thư",
+            "type": "noun",
+            "example": {
+                "en": "In the ancient books, it's written that a warrior will draw a burning sword from the fire.",
+                "vi": "Cổ thư có viết một chiến binh sẽ rút thanh Hỏa Kiếm từ ngọn lửa."
+            }
+        },
+        {
+            "content": "chỗ",
+            "type": "noun",
+            "example": {
+                "en": "Better deliver them books, Morris, where they can be read.",
+                "vi": "Morris, anh nên phát mấy cuốn sách đó ở chỗ nào người ta đọc được."
+            }
+        },
+        {
+            "content": "đặt chỗ",
+            "type": "",
+            "example": {
+                "en": "Get your bookings in time. Thank you very much.",
+                "vi": "Hãy đặt chỗ ngồi sớm nhé. Các ơn các bạn nhiều."
+            }
+        }
+    ]
+}

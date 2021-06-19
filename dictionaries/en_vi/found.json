@@ -1,0 +1,111 @@
+{
+    "word": "found",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/found/",
+            "/faʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sáng lập",
+            "type": "verb",
+            "example": {
+                "en": "When I was very young, my father founded a company that specialized in factory automation.",
+                "vi": "Khi còn nhỏ, cha tôi sáng lập một công ty chuyên về tự động hóa nhà máy."
+            }
+        },
+        {
+            "content": "thành lập",
+            "type": "",
+            "example": {
+                "en": "Our school was founded in the 20th year of Meiji.",
+                "vi": "Trường chúng tôi được thành lập vào năm thứ 20 đời Minh Trị."
+            }
+        },
+        {
+            "content": "đúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dựa trên",
+            "type": "",
+            "example": {
+                "en": "This personal practice is founded on study, meditation, and prayer.",
+                "vi": "Cách thực hành cá nhân này được dựa trên việc học hỏi, suy ngẫm và cầu nguyện."
+            }
+        },
+        {
+            "content": "xây dựng",
+            "type": "verb",
+            "example": {
+                "en": "There are cities that were founded because they were just above the mosquito line.",
+                "vi": "Có nhiều thành phố được xây dựng bởi vì chúng nằm ngay trên đường ranh giới loài muỗi."
+            }
+        },
+        {
+            "content": "căn xứ vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây dựng",
+            "type": "verb",
+            "example": {
+                "en": "Knowing saving me would ruin every new thing you found here.",
+                "vi": "Biết rằng vì cứu tôi mà phá hủy cuộc đời mới anh gây dựng tại đây.."
+            }
+        },
+        {
+            "content": "khai sinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai sáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nấu chảy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáng nghiệp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm thấy",
+            "type": "",
+            "example": {
+                "en": "We found out a secret door behind the curtain.",
+                "vi": "Chúng tôi đã tìm thấy cánh cửa bí mật sau màn rèm."
+            }
+        },
+        {
+            "content": "đặt nền móng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "căn cứ vào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

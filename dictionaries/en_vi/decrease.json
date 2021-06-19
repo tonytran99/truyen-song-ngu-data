@@ -1,0 +1,126 @@
+{
+    "word": "decrease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈkrēs/",
+            "/dəˈkris/",
+            "/ˈdēˌkrēs/",
+            "/ˈdiˌkris/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈkriːs/",
+            "/ˈdiːkriːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giảm",
+            "type": "verb",
+            "example": {
+                "en": "Three, decrease per capita expenditure across a continuum.",
+                "vi": "Ba, giảm chi phí bình quân đầu người cho việc theo bệnh."
+            }
+        },
+        {
+            "content": "hạ",
+            "type": "verb",
+            "example": {
+                "en": "5 And the waters were steadily decreasing until the tenth month.",
+                "vi": "5 Nước cứ hạ dần cho đến tháng thứ mười."
+            }
+        },
+        {
+            "content": "sự giảm đi",
+            "type": "",
+            "example": {
+                "en": "That trend contrasts with the decrease in the number of partakers that we saw for many decades.",
+                "vi": "Xu hướng này tương phản với sự giảm đi mà chúng ta đã thấy trong nhiều thập kỷ trước."
+            }
+        },
+        {
+            "content": "bớt",
+            "type": "verb, noun",
+            "example": {
+                "en": "Can you decrease the number of possessions you have or are seeking to acquire?",
+                "vi": "Bạn có thể giảm bớt những thứ bạn có hay những thứ bạn muốn mua không?"
+            }
+        },
+        {
+            "content": "giảm thiểu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sụt",
+            "type": "verb, noun",
+            "example": {}
+        },
+        {
+            "content": "ngót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản án",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiếu chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm sút",
+            "type": "verb, noun",
+            "example": {
+                "en": "Some abilities, of course, decrease with age.",
+                "vi": "Một vài khả năng dĩ nhiên giảm sút khi về già."
+            }
+        },
+        {
+            "content": "suy giảm",
+            "type": "",
+            "example": {
+                "en": "Has the threat of nuclear war decreased since then?",
+                "vi": "Kể từ năm đó, nguy cơ chiến tranh hạt nhân có suy giảm không?"
+            }
+        },
+        {
+            "content": "sắc luật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắc lệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giảm sút",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giaûm ñi, bôùt ñi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm bớt",
+            "type": "",
+            "example": {
+                "en": "Can you decrease the number of possessions you have or are seeking to acquire?",
+                "vi": "Bạn có thể giảm bớt những thứ bạn có hay những thứ bạn muốn mua không?"
+            }
+        }
+    ]
+}

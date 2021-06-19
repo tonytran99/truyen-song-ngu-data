@@ -1,0 +1,69 @@
+{
+    "word": "warehouse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwerˌhous/",
+            "/ˈwɛrˌhaʊs/",
+            "/ˈwerˌhouz/",
+            "/ˈwɛrˌhaʊz/",
+            "/ˈwerhous/",
+            "/ˈwɛrhaʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːhaʊs/",
+            "/ˈwɛːhaʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kho",
+            "type": "noun",
+            "example": {
+                "en": "We'll put thousands of people on the warehouse floor, the stadium floor.",
+                "vi": "Chúng ta sẽ đặt hàng ngàn người vào nhà kho, sân vận động."
+            }
+        },
+        {
+            "content": "kho hàng",
+            "type": "",
+            "example": {
+                "en": "Looks like they're hiring security guards down at their warehouse.",
+                "vi": "Hình như họ đang tuyển bảo vệ cho kho hàng."
+            }
+        },
+        {
+            "content": "nhà kho",
+            "type": "",
+            "example": {
+                "en": "We'll put thousands of people on the warehouse floor, the stadium floor.",
+                "vi": "Chúng ta sẽ đặt hàng ngàn người vào nhà kho, sân vận động."
+            }
+        },
+        {
+            "content": "cất vào kho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cửa hàng",
+            "type": "noun",
+            "example": {
+                "en": "Just some low level dealers that set up shop in abandoned warehouses.",
+                "vi": "Chỉ là tên buôn hàng cấp thấp lập cửa hàng tại khu bỏ hoang thôi."
+            }
+        },
+        {
+            "content": "xếp vào kho",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

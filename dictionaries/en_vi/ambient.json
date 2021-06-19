@@ -1,0 +1,48 @@
+{
+    "word": "ambient",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈambēənt/",
+            "/ˈæmbiənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈambɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao quanh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chung quanh",
+            "type": "",
+            "example": {
+                "en": "Show specified diffuse and ambient light",
+                "vi": "Hiển thị ánh sáng chung quanh và khuếch tán đã xác định"
+            }
+        },
+        {
+            "content": "môi trường",
+            "type": "noun",
+            "example": {
+                "en": "Well, she's colder than the ambient temperature.",
+                "vi": "Cô ấy lạnh hơn nhiệt độ môi trường"
+            }
+        },
+        {
+            "content": "ở xung quanh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

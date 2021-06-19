@@ -1,0 +1,45 @@
+{
+    "word": "jagged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjaɡəd/",
+            "/ˈdʒæɡəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒaɡɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lởm chởm",
+            "type": "",
+            "example": {
+                "en": "I floated downstream, and it slammed into this jagged rock.",
+                "vi": "Tôi trôi theo dòng nước và đụng phải một tảng đá lởm chởm."
+            }
+        },
+        {
+            "content": "có mép lởm chởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có nhiều cạnh nhọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say bí tỉ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

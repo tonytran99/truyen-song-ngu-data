@@ -1,0 +1,39 @@
+{
+    "word": "auditor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôdədər/",
+            "/ˈɔdədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːdɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiểm toán viên",
+            "type": "noun",
+            "example": {
+                "en": "The auditors warmly commended me for my honesty.”",
+                "vi": "Những kiểm toán viên đã nhiệt thành khen ngợi tôi về tính lương thiện”."
+            }
+        },
+        {
+            "content": "người nghe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thính giả",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

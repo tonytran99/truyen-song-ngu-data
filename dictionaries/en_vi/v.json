@@ -1,0 +1,50 @@
+{
+    "word": "v",
+    "type": [
+        "Letter",
+        "noun",
+        "adjective",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vē/",
+            "/vi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/viː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "v",
+            "type": "",
+            "example": {
+                "en": "Stepan said that this girl ended up in the hands of the vory v zakone.",
+                "vi": "Stepan nói rằng cô gái này... tàn đời dưới bàn tay của Vory v zakone."
+            }
+        },
+        {
+            "content": "5",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình V",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "V",
+            "type": "Letter",
+            "example": {
+                "en": "You tell V to stay in thrupple, everything is fine.",
+                "vi": "Anh hãy bảo V ta tiếp tục là một bộ ba, mọi thứ lại ổn thôi."
+            }
+        }
+    ]
+}

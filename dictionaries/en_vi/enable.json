@@ -1,0 +1,55 @@
+{
+    "word": "enable",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/enˈāb(ə)l/",
+            "/ɛnˈeɪb(ə)l/",
+            "/inˈāb(ə)l/",
+            "/ɪnˈeɪb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈneɪb(ə)l/",
+            "/ɛˈneɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {
+                "en": "They enable their teachers to make innovations in pedagogy.",
+                "vi": "Họ cho phép giáo viên tạo những cải tiến trong sư phạm."
+            }
+        },
+        {
+            "content": "cho quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể",
+            "type": "verb",
+            "example": {
+                "en": "Now we can only see as far as these eyes enable us.",
+                "vi": "Giờ chúng tôi có thể nhìn thấy xa hơn những gì ánh mắt cho phép."
+            }
+        },
+        {
+            "content": "làm cho có thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có hiệu lực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

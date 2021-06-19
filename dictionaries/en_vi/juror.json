@@ -1,0 +1,60 @@
+{
+    "word": "juror",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjo͝orər/",
+            "/ˈdʒʊrər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʊərə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bồi thẩm",
+            "type": "noun",
+            "example": {
+                "en": "I saw you snapping picture of the jurors, and Harold's one of them.",
+                "vi": "Tôi thấy anh chụp ảnh thành viên bồi thẩm, và Harold lại nằm trong số đó."
+            }
+        },
+        {
+            "content": "hội thẩm",
+            "type": "noun",
+            "example": {
+                "en": "Also, the attorneys for each side have the prerogative to dismiss a few jurors.",
+                "vi": "Hơn nữa, luật sư cả hai bên có quyền loại một vài viên hội thẩm."
+            }
+        },
+        {
+            "content": "người đã tuyên thệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phụ thẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bồi thẩm viên",
+            "type": "noun",
+            "example": {
+                "en": "The jurors believed her.",
+                "vi": "Các bồi thẩm viên tin cô ấy."
+            }
+        },
+        {
+            "content": "thuế tòa án",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

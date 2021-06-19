@@ -1,0 +1,61 @@
+{
+    "word": "electronics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlekˈträniks/",
+            "/əˌlɛkˈtrɑnɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪlɛkˈtrɒnɪks/",
+            "/ɛlɛkˈtrɒnɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện tử học",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kỹ thuật điện tử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "môn điện tử",
+            "type": "",
+            "example": {
+                "en": "Just save my Electronics..",
+                "vi": "Hãy cho con qua môn Điện tử."
+            }
+        },
+        {
+            "content": "thiết bị điện tử",
+            "type": "noun",
+            "example": {
+                "en": "May have tried pawning off some electronics, some jewelry.",
+                "vi": "Có thể đã cố cầm cố thiết bị điện tử, trang sức."
+            }
+        },
+        {
+            "content": "đồ điện tử",
+            "type": "noun",
+            "example": {
+                "en": "Prices of consumer electronics go down, not up.",
+                "vi": "Giá đồ điện tử tiêu dùng giảm xuống, chứ không tăng."
+            }
+        },
+        {
+            "content": "Điện tử học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

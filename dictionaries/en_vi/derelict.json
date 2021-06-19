@@ -1,0 +1,63 @@
+{
+    "word": "derelict",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈderəˌlikt/",
+            "/ˈdɛrəˌlɪkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛrəlɪkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị bỏ rơi",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps the derelict should be given one more chance.",
+                "vi": "Có lẽ nên cho người bị bỏ rơi này thêm một cơ hội nữa."
+            }
+        },
+        {
+            "content": "chơ vơ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không ai nhìn nhận",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tàu vô chủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô chủ",
+            "type": "adjective",
+            "example": {
+                "en": "All right, which of you derelicts hitched a dead body outside my saloon?",
+                "vi": "Được rồi, kẻ vô chủ nào, để cái xác chết ngoài cửa quán rượu của tôi?"
+            }
+        },
+        {
+            "content": "vô thừa nhận",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vật vô chủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

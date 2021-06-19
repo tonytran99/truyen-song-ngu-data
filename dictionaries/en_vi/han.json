@@ -1,0 +1,58 @@
+{
+    "word": "han",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/han/",
+            "/hæn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/han/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người Hán",
+            "type": "proper",
+            "example": {
+                "en": "I didn't think the Hans had names like that.",
+                "vi": "Tôi không nghĩ người Hán có tên như thế."
+            }
+        },
+        {
+            "content": "漢族",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "漢朝",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "Hán triều",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "Hán tộc",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "nhà Hán",
+            "type": "proper",
+            "example": {
+                "en": "They are all Han's martyrs.",
+                "vi": "Họ là tất cả anh hùng nhà Hán."
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "ugly",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəɡlē/",
+            "/ˈəɡli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɡli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {
+                "en": "He hid his ugly face.",
+                "vi": "Anh ta giấu khuôn mặt xấu xí của mình."
+            }
+        },
+        {
+            "content": "xấu xí",
+            "type": "adjective",
+            "example": {
+                "en": "He hid his ugly face.",
+                "vi": "Anh ta giấu khuôn mặt xấu xí của mình."
+            }
+        },
+        {
+            "content": "醜",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đáng sợ",
+            "type": "adjective",
+            "example": {
+                "en": "Now to you who have been scarred by the ugly sin of abuse.",
+                "vi": "Giờ đây đối với các anh chị em đã bị tổn thương bởi tội lỗi lạm dụng ngược đãi đáng sợ."
+            }
+        },
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xấu xa",
+            "type": "",
+            "example": {
+                "en": "We don't talk about the ugliness we see.",
+                "vi": "Ta không nói về thứ xấu xa mà chúng ta thấy."
+            }
+        }
+    ]
+}

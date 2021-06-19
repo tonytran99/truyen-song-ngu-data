@@ -1,0 +1,351 @@
+{
+    "word": "just",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəst/",
+            "/dʒəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒʌst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "His rulings prove to be true, right, and just.",
+                "vi": "Sự phán quyết ngài luôn luôn đúng theo công bằng."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "adverb",
+            "example": {
+                "en": "It's nothing impressive. It's just a bit part in that play.",
+                "vi": "Nó không có gì ấn tượng. Nó chỉ là một phần nhỏ trong vở kịch."
+            }
+        },
+        {
+            "content": "chính",
+            "type": "adjective",
+            "example": {
+                "en": "That's just what we need.",
+                "vi": "Đó chính là cái mà chúng tôi cần."
+            }
+        },
+        {
+            "content": "đích đáng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "công bằng",
+            "type": "adjective",
+            "example": {
+                "en": "His rulings prove to be true, right, and just.",
+                "vi": "Sự phán quyết ngài luôn luôn đúng theo công bằng."
+            }
+        },
+        {
+            "content": "vừa mới",
+            "type": "adverb",
+            "example": {
+                "en": "I was just going to leave home.",
+                "vi": "Tôi vừa mới rời khỏi nhà."
+            }
+        },
+        {
+            "content": "vừa đủ",
+            "type": "",
+            "example": {
+                "en": "We have just enough to live.",
+                "vi": "Chúng tôi chỉ có vừa đủ sống."
+            }
+        },
+        {
+            "content": "xứng đáng",
+            "type": "adjective",
+            "example": {
+                "en": "I just don't think you're fit to be the first lady.",
+                "vi": "Mà anh chỉ thấy em không xứng đáng là đệ nhất phu nhân."
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "I just remember this unbelievable, just utter chaos.",
+                "vi": "Tôi chỉ nhớ mọi thứ hoàn toàn hỗn loạn."
+            }
+        },
+        {
+            "content": "hợp lẽ phải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một chút",
+            "type": "",
+            "example": {
+                "en": "Let's just sit here a while and listen.",
+                "vi": "Hãy ngồi đây một chút và lắng nghe."
+            }
+        },
+        {
+            "content": "một tí",
+            "type": "",
+            "example": {
+                "en": "I just feel a little dizzy.",
+                "vi": "Tôi chỉ thấy hơi chóng mặt một tí."
+            }
+        },
+        {
+            "content": "thích đáng",
+            "type": "adjective",
+            "example": {
+                "en": "I humble myself before the Seven and accept whatever punishment the gods deem just.",
+                "vi": "Tôi xin quỳ trước chư thần và chấp nhận mọi hình phạt mà thần cho là thích đáng."
+            }
+        },
+        {
+            "content": "thật đúng là",
+            "type": "",
+            "example": {
+                "en": "that's just viscerally wrong.",
+                "vi": "thật đúng là không thể chấp nhận được."
+            }
+        },
+        {
+            "content": "thử xem",
+            "type": "",
+            "example": {
+                "en": "You want to take a guess who just escaped from jail?",
+                "vi": "Anh có muốn đoán thử xem ai vừa trốn khỏi nhà tù không?"
+            }
+        },
+        {
+            "content": "vừa kịp",
+            "type": "",
+            "example": {
+                "en": "The doctor says you came just in time.",
+                "vi": "Bác sỹ nói rằng cậu tới vừa kịp lúc."
+            }
+        },
+        {
+            "content": "vừa đúng",
+            "type": "",
+            "example": {
+                "en": "And boarded to the plane just before midnight.",
+                "vi": "Chúng tôi lên máy bay vừa đúng nửa đêm."
+            }
+        },
+        {
+            "content": "đúng đắn",
+            "type": "",
+            "example": {
+                "en": "I must make decisions every day that I hope are just.",
+                "vi": "Ngày nào, tôi cũng phải đưa ra những quyết định mà tôi hi vọng là đúng đắn."
+            }
+        },
+        {
+            "content": "vừa",
+            "type": "adjective conjunction verb adverb",
+            "example": {
+                "en": "We just had Tom's room painted last week.",
+                "vi": "Chúng tôi vừa sơn phòng của Tom vào tuần trước."
+            }
+        },
+        {
+            "content": "mới",
+            "type": "adjective",
+            "example": {
+                "en": "I just bought a 40 inch flat screen television.",
+                "vi": "Tôi mới mua một cái ti vi màn hình phẳng bốn mươi in."
+            }
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "It would be just exactly like the book.",
+                "vi": "Nó sẽ đúng chính xác như trong cuốn sách."
+            }
+        },
+        {
+            "content": "chỉ cần",
+            "type": "",
+            "example": {
+                "en": "Maybe I just need some time alone.",
+                "vi": "Có lẽ tôi chỉ cần ở một mình một lúc."
+            }
+        },
+        {
+            "content": "chỉ việc",
+            "type": "",
+            "example": {
+                "en": "So just let me worry about making it, and you just worry about eating it.",
+                "vi": "Cứ để tớ lo về việc làm nó, cậu chỉ việc lo ăn thôi."
+            }
+        },
+        {
+            "content": "chỉ vừa",
+            "type": "",
+            "example": {
+                "en": "I just convinced the landlord to work with us to pay the back rent.",
+                "vi": "Mẹ chỉ vừa mới thuyết phục được chủ nhà để chúng ta trả tiền thuê nhà sau."
+            }
+        },
+        {
+            "content": "khá là",
+            "type": "",
+            "example": {
+                "en": "You seem pretty mellow for a guy whose best bro just got killed.",
+                "vi": "Có vẻ như cậu khá là thần tượng người anh em vừa mới bị giết của cậu."
+            }
+        },
+        {
+            "content": "ngay khi",
+            "type": "adverb",
+            "example": {
+                "en": "You'd just have information come to you as you needed it.",
+                "vi": "Bạn sẽ có thông tin đến với mình ngay khi cần."
+            }
+        },
+        {
+            "content": "thật là",
+            "type": "",
+            "example": {
+                "en": "I loved you so much, in fact, that it was just shy of enough.",
+                "vi": "Sự thật là em đã yêu anh rất nhiều điều đó thật ngượng ngùng."
+            }
+        },
+        {
+            "content": "định",
+            "type": "verb",
+            "example": {
+                "en": "Are you just going to stand there all day?",
+                "vi": "Cậu định đứng đó cả ngày hay sao?"
+            }
+        },
+        {
+            "content": "phải",
+            "type": "verb",
+            "example": {
+                "en": "Aircraft mechanics don’t just fix airplanes that are broken.",
+                "vi": "Những người thợ máy sửa máy bay không phải chỉ sửa máy bay bị hư hỏng mà thôi."
+            }
+        },
+        {
+            "content": "joust",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âu",
+            "type": "adverb",
+            "example": {
+                "en": "which is just as much European as African?",
+                "vi": "mà trong đó phần Châu Âu cũng nhiều chả kém phần châu Phi."
+            }
+        },
+        {
+            "content": "chính nghĩa",
+            "type": "noun",
+            "example": {
+                "en": "I-I wanna lead a righteous and just life.",
+                "vi": "Tôi muốn sống ngay thẳng và chính nghĩa."
+            }
+        },
+        {
+            "content": "chính đáng",
+            "type": "adjective",
+            "example": {
+                "en": "How just and fitting it is that such a dramatic change takes place!",
+                "vi": "Sự thay đổi ấy thật công bằng và chính đáng biết bao!"
+            }
+        },
+        {
+            "content": "chẳng qua",
+            "type": "",
+            "example": {
+                "en": "He just doesn't want to see you and have to be reminded of it every day.",
+                "vi": "Ông ấy chẳng qua không muốn thấy mặt cậu để bị nhớ lại chuyện đấy suốt ngày."
+            }
+        },
+        {
+            "content": "có căn cứ",
+            "type": "",
+            "example": {
+                "en": "We just got to first base.",
+                "vi": "Chúng tôi chỉ mới có căn cứ đầu tiên."
+            }
+        },
+        {
+            "content": "có lý",
+            "type": "verb",
+            "example": {
+                "en": "I just said I had good reason to doubt it.",
+                "vi": "Tôi chỉ nói mình có lý do hợp lý để nghi ngờ điều đó."
+            }
+        },
+        {
+            "content": "thích",
+            "type": "verb noun",
+            "example": {
+                "en": "He is not just interested, he's crazy about it.",
+                "vi": "Anh ta không những thích thú mà còn phát điên về nó."
+            }
+        },
+        {
+            "content": "tài",
+            "type": "adjective noun",
+            "example": {
+                "en": "I can't just sell you government property, Yuri.",
+                "vi": "Tôi không thể bán tài sản quốc gia cho anh được, Yuri à."
+            }
+        },
+        {
+            "content": "chỉ thôi",
+            "type": "adverb",
+            "example": {
+                "en": "Just give her the napkin.",
+                "vi": "Dùng cử chỉ thôi."
+            }
+        },
+        {
+            "content": "hợp lý",
+            "type": "",
+            "example": {
+                "en": "And we can do this just by reasonably accelerating existing trends.",
+                "vi": "Và nay, ta có thể làm điều này chỉ với khuynh hướng gia tăng hợp lý."
+            }
+        },
+        {
+            "content": "thật sự",
+            "type": "",
+            "example": {
+                "en": "But I mean, seriously, it was just a list.",
+                "vi": "Nhưng ý tớ là, thật sự, nó chỉ là một cái danh sách."
+            }
+        },
+        {
+            "content": "đúng lúc",
+            "type": "",
+            "example": {
+                "en": "I made it to the store just as they were getting ready to lock up .",
+                "vi": "Tôi chạy tới cửa hiệu đúng lúc họ đang chuẩn bị khoá cửa ."
+            }
+        }
+    ]
+}

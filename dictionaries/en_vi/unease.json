@@ -1,0 +1,38 @@
+{
+    "word": "unease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈēz/",
+            "/ˌənˈiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈiːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó chịu",
+            "type": "",
+            "example": {
+                "en": "And dysphoria refers to a feeling of agitation or unease.",
+                "vi": "có nghĩa là cảm giác khó chịu trước kì kinh nguyệt."
+            }
+        },
+        {
+            "content": "lo lắng",
+            "type": "",
+            "example": {
+                "en": "My experience in the room was terrifying, a fragmented loop of unease and despair.",
+                "vi": "Những điều mà tôi trải qua trong căn phòng 1408 thật kinh khủng, tràn ngập nỗi lo lắng cũng như sự tuyệt vọng."
+            }
+        }
+    ]
+}

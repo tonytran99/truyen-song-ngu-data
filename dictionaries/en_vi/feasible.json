@@ -1,0 +1,54 @@
+{
+    "word": "feasible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēzəb(ə)l/",
+            "/ˈfizəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːzɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghe xuôi tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể làm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể tin được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khả thi",
+            "type": "adjective",
+            "example": {
+                "en": "Well first of all I have to determine if the project is feasible.",
+                "vi": "Trước hết tôi phải chắc chắn coi kế hoạch này có khả thi hay không."
+            }
+        },
+        {
+            "content": "tiện lợi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

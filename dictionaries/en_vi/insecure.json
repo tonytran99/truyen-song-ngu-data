@@ -1,0 +1,51 @@
+{
+    "word": "insecure",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinsəˈkyo͝or/",
+            "/ˌɪnsəˈkjʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnsɪˈkjʊə/",
+            "/ˌɪnsɪˈkjɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không an toàn",
+            "type": "",
+            "example": {
+                "en": "He feels insecure and needs parental help and reassurance.",
+                "vi": "Em cảm thấy không an toàn và cần cha mẹ giúp và trấn an."
+            }
+        },
+        {
+            "content": "bấp bênh",
+            "type": "",
+            "example": {
+                "en": "It's a good thing ours is bigger, because we're also really insecure.",
+                "vi": "Thật là tốt khi não chúng ta lớn hơn, bởi vì chúng ta cũng rất bấp bênh."
+            }
+        },
+        {
+            "content": "bất ổn",
+            "type": "adjective",
+            "example": {
+                "en": "We entered an age of disaster, horror, and hatred, with insecurity everywhere.”",
+                "vi": "Chúng ta đã bước vào thời đại của tai họa, kinh hoàng, thù hận, và tình trạng bất ổn khắp nơi”."
+            }
+        },
+        {
+            "content": "không vững chắc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

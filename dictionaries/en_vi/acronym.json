@@ -1,0 +1,52 @@
+{
+    "word": "acronym",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakrəˌnim/",
+            "/ˈækrəˌnɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakrənɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "từ viết tắt",
+            "type": "",
+            "example": {
+                "en": "You may think that's a sneeze, but it's not a sneeze, it's an acronym.",
+                "vi": "Nghe có vẻ giống tiếng hắt hơi, nhưng nó không phải là tiếng hắt hơi, nó là từ viết tắt."
+            }
+        },
+        {
+            "content": "từ",
+            "type": "noun",
+            "example": {
+                "en": "A big mouthful — you can see why we use the acronym CRISPR.",
+                "vi": "Thật líu lưỡi — đó là tại sao chúng tôi sử dụng từ viết tắt CRISPR."
+            }
+        },
+        {
+            "content": "ngữ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tên gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Từ viết tắt từ chữ đầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

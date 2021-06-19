@@ -1,0 +1,58 @@
+{
+    "word": "dungeon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdənjən/",
+            "/ˈdəndʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌn(d)ʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngục tối",
+            "type": "",
+            "example": {
+                "en": "Why haven't you thrown me in a dungeon?",
+                "vi": "Vậy sao ngài chưa ném ta vào ngục tối."
+            }
+        },
+        {
+            "content": "donjon",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hầm tối",
+            "type": "",
+            "example": {
+                "en": "Before you're thrown into the dungeon, you see many numbered hallways leading outside.",
+                "vi": "Trước khi các bạn bị ném vào hầm tối, bạn để ý thấy rất nhiều hành lang được đánh số, dẫn ra bên ngoài."
+            }
+        },
+        {
+            "content": "giam vào hầm tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hầm tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhốt vào ngục tối",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

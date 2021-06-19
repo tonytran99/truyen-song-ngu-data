@@ -1,0 +1,81 @@
+{
+    "word": "deputy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdepyədē/",
+            "/ˈdɛpjədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛpjʊti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phó",
+            "type": "noun",
+            "example": {
+                "en": "Mm-hmm. Charlotte painted a picture to my deputy of a girl of some privilege.",
+                "vi": "Charlotte tỏ vẻ với cấp phó của tôi là nhà cô bé có điều kiện."
+            }
+        },
+        {
+            "content": "nghị sĩ",
+            "type": "noun",
+            "example": {
+                "en": "but you are allowed to bribe a deputy.",
+                "vi": "nhưng bạn được phép hối lộ nghị sĩ."
+            }
+        },
+        {
+            "content": "cấp phó",
+            "type": "",
+            "example": {
+                "en": "Mm-hmm. Charlotte painted a picture to my deputy of a girl of some privilege.",
+                "vi": "Charlotte tỏ vẻ với cấp phó của tôi là nhà cô bé có điều kiện."
+            }
+        },
+        {
+            "content": "người được ủy quyền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thay mặt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thay quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người được uỷ quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đại biểu",
+            "type": "noun",
+            "example": {
+                "en": "Your dad must know something from the other deputies.",
+                "vi": "Bố cậu hẳn là biết được gì đó từ các đại biểu khác."
+            }
+        },
+        {
+            "content": "đại diện",
+            "type": "",
+            "example": {
+                "en": "Or you can resign, and your deputy can make this call.",
+                "vi": "Hoặc là bà có thể từ chức, người đại diện của bà sẽ thực hiện cuộc gọi đó."
+            }
+        }
+    ]
+}

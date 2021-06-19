@@ -1,0 +1,46 @@
+{
+    "word": "concentrated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänsənˌtrādəd/",
+            "/ˈkɑnsənˌtreɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnsntreɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cô đặc",
+            "type": "adjective",
+            "example": {
+                "en": "But we're also left with a concentrated salt solution, or brine.",
+                "vi": "Nhưng quá trình này cũng để lại dung dịch muối cô đặc hay còn gọi là nước muối."
+            }
+        },
+        {
+            "content": "tập trung",
+            "type": "adjective",
+            "example": {
+                "en": "Tom concentrated on his work.",
+                "vi": "Tom tập trung vào công việc."
+            }
+        },
+        {
+            "content": "đậm đặc",
+            "type": "",
+            "example": {
+                "en": "This container holds concentrated sulfuric acid.",
+                "vi": "Cái thùng này chứa acid sulfuric đậm đặc."
+            }
+        }
+    ]
+}

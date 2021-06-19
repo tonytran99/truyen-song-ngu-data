@@ -1,0 +1,112 @@
+{
+    "word": "growl",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡroul/",
+            "/ɡraʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡraʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "càu nhàu",
+            "type": "verb",
+            "example": {
+                "en": "If we were to murmur, or growl, those listening might feel the same way.",
+                "vi": "Nếu chúng ta lằm bằm, hay càu nhàu, người nghe cũng có thể cảm thấy như vậy."
+            }
+        },
+        {
+            "content": "gầm gừ",
+            "type": "",
+            "example": {
+                "en": "He closes his eyes, and he can hear it growling.",
+                "vi": "Thằng bé nhắm mắt, và nghe thấy nó gầm gừ."
+            }
+        },
+        {
+            "content": "lẩm bẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gầm",
+            "type": "",
+            "example": {
+                "en": "He closes his eyes, and he can hear it growling.",
+                "vi": "Thằng bé nhắm mắt, và nghe thấy nó gầm gừ."
+            }
+        },
+        {
+            "content": "rống",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "rền",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bàu nhàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cằn nhằn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làu bàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng càu nhàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng gầm",
+            "type": "noun",
+            "example": {
+                "en": "Like the growling of the sea.",
+                "vi": "Như tiếng gầm của biển."
+            }
+        },
+        {
+            "content": "tiếng gầm gừ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiếng làu bàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng lẩm bẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gừ",
+            "type": "",
+            "example": {
+                "en": "He closes his eyes, and he can hear it growling.",
+                "vi": "Thằng bé nhắm mắt, và nghe thấy nó gầm gừ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "word": "food",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fo͞od/",
+            "/fud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fuːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {
+                "en": "How do you find food in outer space?",
+                "vi": "Làm sao để tìm được thức ăn khi đang ở ngoài không gian?"
+            }
+        },
+        {
+            "content": "đồ ăn",
+            "type": "noun",
+            "example": {
+                "en": "Nothing makes me happier than eating good food.",
+                "vi": "Không có gì sướng bằng được ăn đồ ăn ngon."
+            }
+        },
+        {
+            "content": "thực phẩm",
+            "type": "noun",
+            "example": {
+                "en": "Tom only eats organic food.",
+                "vi": "Tom chỉ ăn thực phẩm hữu cơ."
+            }
+        },
+        {
+            "content": "lương thực",
+            "type": "noun",
+            "example": {
+                "en": "And when you think about food, the underpinning of food in both cases is potentially problematic agriculture.",
+                "vi": "Và khi nghĩ về lương thực thực phẩm, thì nguồn gốc của nó là ở nền nông nghiệp."
+            }
+        },
+        {
+            "content": "cơm nước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dinh dưỡng",
+            "type": "noun",
+            "example": {
+                "en": "Half the people who developed the food pyramid",
+                "vi": "Một nửa trong số những người phát triển tháp dinh dưỡng"
+            }
+        },
+        {
+            "content": "món ăn",
+            "type": "",
+            "example": {
+                "en": "We hope you can make good food with it.",
+                "vi": "Bọn ta hy vọng con sẽ làm ra những món ăn tuyệt hảo với nó."
+            }
+        },
+        {
+            "content": "lương",
+            "type": "noun",
+            "example": {
+                "en": "Go regional and go to urban food systems.",
+                "vi": "Tiến đến phân hóa vùng và hệ thống lương thực thành thị."
+            }
+        }
+    ]
+}

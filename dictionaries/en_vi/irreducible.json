@@ -1,0 +1,40 @@
+{
+    "word": "irreducible",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌi(r)rəˈd(y)o͞osəb(ə)l/",
+            "/ˌɪ(r)rəˈd(j)usəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪrɪˈdjuːsɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tối giản",
+            "type": "",
+            "example": {
+                "en": "Which means that it is irreducibly difficult",
+                "vi": "nghĩa là rất khó để tối giản hóa nó"
+            }
+        },
+        {
+            "content": "không rút gọn được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể giảm bớt",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

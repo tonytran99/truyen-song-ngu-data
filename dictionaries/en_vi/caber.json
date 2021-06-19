@@ -1,0 +1,36 @@
+{
+    "word": "caber",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkābər/",
+            "/ˈkeɪbər/",
+            "/ˈkäbər/",
+            "/ˈkɑbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeɪbə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lao",
+            "type": "verb noun",
+            "example": {
+                "en": "I bet he wishes he was tossing cabers.",
+                "vi": "Con cá là anh ta ước gì mình đang ném lao."
+            }
+        }
+    ]
+}

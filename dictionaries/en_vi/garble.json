@@ -1,0 +1,50 @@
+{
+    "word": "garble",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärbəl/",
+            "/ˈɡɑrbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chọn ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt xén",
+            "type": "",
+            "example": {
+                "en": "It came across all channels, but it's garbled.",
+                "vi": "Nó xuất hiện ở tất cả các kênh, nhưng bị cắt xén."
+            }
+        },
+        {
+            "content": "lựa ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô tình bóp méo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô tình xuyên tạc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

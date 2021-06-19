@@ -1,0 +1,75 @@
+{
+    "word": "goodbye",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡo͝odˈbī/",
+            "/ɡʊdˈbaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʊdˈbʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tạm biệt",
+            "type": "interjection",
+            "example": {
+                "en": "Goodbye. See you tomorrow.",
+                "vi": "Tạm biệt. Mai gặp lại."
+            }
+        },
+        {
+            "content": "lời chào tạm biệt",
+            "type": "noun",
+            "example": {
+                "en": "You're gonna have to let them say goodbye.",
+                "vi": "Anh phải cho chúng nói lời chào tạm biệt."
+            }
+        },
+        {
+            "content": "chào",
+            "type": "interjection",
+            "example": {
+                "en": "I don't know why you thought you had to come say goodbye.",
+                "vi": "Chỉ không hiểu sao anh nghĩ là cần phải tới chào tạm biệt."
+            }
+        },
+        {
+            "content": "chào tạm biệt",
+            "type": "",
+            "example": {
+                "en": "I don't know why you thought you had to come say goodbye.",
+                "vi": "Chỉ không hiểu sao anh nghĩ là cần phải tới chào tạm biệt."
+            }
+        },
+        {
+            "content": "lời chào từ biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xin chào",
+            "type": "interjection",
+            "example": {
+                "en": "It all comes down to \" hello \" and \" goodbye . \"",
+                "vi": "Tất cả xuất phát từ những tiếng \" xin chào \" và \" tạm biệt . \""
+            }
+        },
+        {
+            "content": "vĩnh biệt",
+            "type": "",
+            "example": {
+                "en": "I never even got the chance to say goodbye to my own mother.",
+                "vi": "Tao còn không có cơ hội nói câu vĩnh biệt với mẹ ruột mình."
+            }
+        }
+    ]
+}

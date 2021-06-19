@@ -1,0 +1,43 @@
+{
+    "word": "concentrate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänsənˌtrāt/",
+            "/ˈkɑnsənˌtreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒns(ə)ntreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tập trung",
+            "type": "verb",
+            "example": {
+                "en": "Tom concentrated on his work.",
+                "vi": "Tom tập trung vào công việc."
+            }
+        },
+        {
+            "content": "chụm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cô đặc",
+            "type": "",
+            "example": {
+                "en": "But we're also left with a concentrated salt solution, or brine.",
+                "vi": "Nhưng quá trình này cũng để lại dung dịch muối cô đặc hay còn gọi là nước muối."
+            }
+        }
+    ]
+}

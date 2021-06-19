@@ -1,0 +1,59 @@
+{
+    "word": "waterproof",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərˌpro͞of/",
+            "/ˈwɔdərˌpruf/",
+            "/ˈwädərˌpro͞of/",
+            "/ˈwɑdərˌpruf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːtəpruːf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thấm nước",
+            "type": "adjective",
+            "example": {
+                "en": "It is the sebum which keeps skin waterproof and moist .",
+                "vi": "Tuyến nhờn này giữ da không thấm nước và ẩm ."
+            }
+        },
+        {
+            "content": "áo mưa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chống thấm",
+            "type": "",
+            "example": {
+                "en": "Once applied, the liquid bitumen dried and hardened to form a waterproof coating.",
+                "vi": "Sau đó, hắc ín khô đi và trở nên cứng, tạo thành một lớp phủ chống thấm cho tàu."
+            }
+        },
+        {
+            "content": "chống nước",
+            "type": "adjective",
+            "example": {
+                "en": "Their downy coats aren't fully waterproof yet and they cluster together for warmth.",
+                "vi": "Lớp lông mềm mại của chúng vẫn chưa hoàn toàn chống nước được và chúng tụm lại cùng nhau để giữ ấm."
+            }
+        },
+        {
+            "content": "vải không thấm nước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

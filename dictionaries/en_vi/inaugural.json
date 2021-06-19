@@ -1,0 +1,51 @@
+{
+    "word": "inaugural",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈôɡ(y)ərəl/",
+            "/ɪnˈɔɡ(j)ərəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnɔːɡjʊr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mở đầu",
+            "type": "",
+            "example": {
+                "en": "It was the modern-day inauguration of the work of traveling overseers.",
+                "vi": "Đó là việc mở đầu thánh chức của giám thị lưu động trong thời hiện đại."
+            }
+        },
+        {
+            "content": "khai trương",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lễ khánh thành",
+            "type": "",
+            "example": {
+                "en": "What can you tell us about how much I do not know inauguration of the amphitheater?",
+                "vi": "Ngài thấy lễ khánh thành đấu trường mới thế nào?"
+            }
+        },
+        {
+            "content": "lễ nhậm chức",
+            "type": "",
+            "example": {
+                "en": "But you get the picture. And then it goes to the inauguration.",
+                "vi": "Nhưng bạn hiểu đó. Sau đó sẽ là lễ nhậm chức."
+            }
+        }
+    ]
+}

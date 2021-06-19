@@ -1,0 +1,40 @@
+{
+    "word": "cockfight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäkˌfīt/",
+            "/ˈkɑkˌfaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒkfʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chọi gà",
+            "type": "noun",
+            "example": {
+                "en": "I thought cockfights were illegal in Brazil.",
+                "vi": "Tôi cứ tưởng chọi gà ở Braxin là bất hợp pháp cơ đấy."
+            }
+        },
+        {
+            "content": "Đá gà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đá gà",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

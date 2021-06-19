@@ -1,0 +1,55 @@
+{
+    "word": "impotence",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈimpədəns/",
+            "/ˈɪmpədəns/",
+            "/ˈimpətns/",
+            "/ˈɪmpətns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmpət(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bất lực",
+            "type": "noun",
+            "example": {
+                "en": "Women that he blamed for his impotence.",
+                "vi": "Người phụ nữ mà hắn đổ lỗi cho sự bất lực của mình."
+            }
+        },
+        {
+            "content": "bất lực",
+            "type": "",
+            "example": {
+                "en": "Women that he blamed for his impotence.",
+                "vi": "Người phụ nữ mà hắn đổ lỗi cho sự bất lực của mình."
+            }
+        },
+        {
+            "content": "bệnh liệt dương",
+            "type": "noun",
+            "example": {
+                "en": "I specialize in teenage impotency.",
+                "vi": "Chuyên môn về bệnh liệt dương ở thời kỳ teen."
+            }
+        },
+        {
+            "content": "Liệt dương",
+            "type": "",
+            "example": {
+                "en": "It's a steroid-induced impotence.",
+                "vi": "Liệt dương do steroid gây ra."
+            }
+        }
+    ]
+}

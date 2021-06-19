@@ -1,0 +1,47 @@
+{
+    "word": "dearth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dərTH/",
+            "/dərθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nạn đói kém sự khan hiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khan hiếm",
+            "type": "noun",
+            "example": {
+                "en": "First of all, there's a real dearth of data in the debate.",
+                "vi": "Trước hết, đó là một sự khan hiếm thực tế về dữ liệu trong các cuộc tranh luận."
+            }
+        },
+        {
+            "content": "sự thiếu",
+            "type": "noun",
+            "example": {
+                "en": "So dearth of data in the debate is one reason.",
+                "vi": "Vì vậy, sự thiếu hụt dữ liệu trong các cuộc tranh luận là một lý do."
+            }
+        },
+        {
+            "content": "sự đói kém",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

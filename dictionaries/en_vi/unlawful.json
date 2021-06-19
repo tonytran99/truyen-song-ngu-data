@@ -1,0 +1,59 @@
+{
+    "word": "unlawful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈlôfəl/",
+            "/ˌənˈlɔfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈlɔːfʊl/",
+            "/ʌnˈlɔːf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phi pháp",
+            "type": "adjective",
+            "example": {
+                "en": "Thus they were unlawful.",
+                "vi": "Vì thế các thực hành ấy là phi pháp."
+            }
+        },
+        {
+            "content": "bất chính",
+            "type": "",
+            "example": {
+                "en": "Unlawful sexual relations (1-30)",
+                "vi": "Mối quan hệ tình dục bất chính (1-30)"
+            }
+        },
+        {
+            "content": "bất hợp pháp",
+            "type": "adjective",
+            "example": {
+                "en": "The unlawful sexual association of men and women.",
+                "vi": "Sự liên hệ tình dục bất hợp pháp giữa người nam và người nữ."
+            }
+        },
+        {
+            "content": "không hợp pháp",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trái pháp luật",
+            "type": "",
+            "example": {
+                "en": "While the government's action is tragic, it wasn't unlawful.",
+                "vi": "Dù hành động của chính phủ là một bi kịch, nhưng không hề trái pháp luật."
+            }
+        }
+    ]
+}

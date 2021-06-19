@@ -1,0 +1,71 @@
+{
+    "word": "animated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanəˌmādəd/",
+            "/ˈænəˌmeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanɪmeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "náo nhiệt",
+            "type": "adjective",
+            "example": {
+                "en": "Some animals specialize in making as much noise as possible while searching for food.",
+                "vi": "Một số loài vật chuyên môn đi kiếm ăn một cách ầm ĩ, náo nhiệt."
+            }
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {
+                "en": "We can imagine the animated discussion that ensued.",
+                "vi": "Chúng ta có thể tưởng tượng cuộc bàn cãi sôi nổi diễn ra sau đó."
+            }
+        },
+        {
+            "content": "chuyển động được",
+            "type": "",
+            "example": {
+                "en": "All you have is animations that are played back at more or less the appropriate times.",
+                "vi": "Tất cả bạn có chỉ là chuyển động được lặp lại. vào thời điểm thích hợp không ít thì nhiều."
+            }
+        },
+        {
+            "content": "nhộn nhịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phấn khởi lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được cổ vũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầy sinh khí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầy sức sống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

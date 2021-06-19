@@ -1,0 +1,43 @@
+{
+    "word": "creative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krēˈādiv/",
+            "/kriˈeɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriːˈeɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sáng tạo",
+            "type": "adjective",
+            "example": {
+                "en": "I tripped on the reality of this ecology of creativity just last week.",
+                "vi": "Tôi đã bước vào thực tế của hệ sinh thái sáng tạo này vào tuần trước."
+            }
+        },
+        {
+            "content": "thuộc sự sáng tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạo ra",
+            "type": "",
+            "example": {
+                "en": "this creative process of trying to come up with something from nothing.",
+                "vi": "quá trình sáng tạo này để tạo ra cái gì đó từ hư không"
+            }
+        }
+    ]
+}

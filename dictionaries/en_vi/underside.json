@@ -1,0 +1,42 @@
+{
+    "word": "underside",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌsīd/",
+            "/ˈəndərˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndəsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cạnh dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt dưới",
+            "type": "",
+            "example": {
+                "en": "They've measured disturbing changes on the underside of this ice sheet.",
+                "vi": "Người ta đo được những thay đổi đáng ngại ở mặt dưới dải băng này."
+            }
+        },
+        {
+            "content": "phía dưới",
+            "type": "",
+            "example": {
+                "en": "Cover the underside of thatched ceilings with insect-proof cloth.",
+                "vi": "Lót thêm lớp vải chống côn trùng ở phía dưới trần nhà bằng tranh."
+            }
+        }
+    ]
+}

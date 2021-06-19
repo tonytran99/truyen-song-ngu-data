@@ -1,0 +1,38 @@
+{
+    "word": "communist",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämyənəst/",
+            "/ˈkɑmjənəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmjʊnɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cộng sản",
+            "type": "noun",
+            "example": {
+                "en": "Only untraceable weapons this side of communist California.",
+                "vi": "Họ sẽ không tìm được tung tích của loại súng này phía bên này của cộng sản California."
+            }
+        },
+        {
+            "content": "người cộng sản",
+            "type": "noun",
+            "example": {
+                "en": "You mean the girl who saved you from the communists?",
+                "vi": "Ông muốn nói cô gái đã cứu ông khỏi tay những người cộng sản?"
+            }
+        }
+    ]
+}

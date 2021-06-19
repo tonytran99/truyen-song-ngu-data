@@ -1,0 +1,30 @@
+{
+    "word": "counting",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)iNG/",
+            "/ˈkaʊn(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đếm",
+            "type": "verb",
+            "example": {
+                "en": "I count the sparkle of constellations to foretell the future of my love.",
+                "vi": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình."
+            }
+        }
+    ]
+}

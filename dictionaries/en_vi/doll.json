@@ -1,0 +1,56 @@
+{
+    "word": "doll",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/däl/",
+            "/dɑl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɒl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "búp bê",
+            "type": "noun",
+            "example": {
+                "en": "One servant girl gave their son , Gene , a present of a doll .",
+                "vi": "Một người hầu gái đã cho con trai họ , Gene , một con búp bê ."
+            }
+        },
+        {
+            "content": "diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con búp bê",
+            "type": "",
+            "example": {
+                "en": "One servant girl gave their son , Gene , a present of a doll .",
+                "vi": "Một người hầu gái đã cho con trai họ , Gene , một con búp bê ."
+            }
+        },
+        {
+            "content": "mặc quần áo đẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Búp bê",
+            "type": "",
+            "example": {
+                "en": "My favorite is this ugly girl doll who I call Clementine.",
+                "vi": "Búp bê em thích nhất là con xấu nhất mà em đặt tên là Clementine."
+            }
+        }
+    ]
+}

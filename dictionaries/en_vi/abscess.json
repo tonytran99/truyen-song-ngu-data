@@ -1,0 +1,57 @@
+{
+    "word": "abscess",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabˌses/",
+            "/ˈæbˌsɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈabsɪs/",
+            "/ˈabsɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Áp-xe",
+            "type": "noun",
+            "example": {
+                "en": "Pleural abscess upper right quadrant.",
+                "vi": "Áp xe màng phổi góc phải phía trên."
+            }
+        },
+        {
+            "content": "áp xe",
+            "type": "",
+            "example": {
+                "en": "The infection could be limited to a brain abscess.",
+                "vi": "Nhiễm trùng có thể chỉ là một áp xe não."
+            }
+        },
+        {
+            "content": "áp-xe",
+            "type": "noun",
+            "example": {
+                "en": "The infection could be limited to a brain abscess.",
+                "vi": "Nhiễm trùng có thể chỉ là một áp xe não."
+            }
+        },
+        {
+            "content": "nhọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ung",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

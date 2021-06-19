@@ -1,0 +1,39 @@
+{
+    "word": "ion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīən/",
+            "/ˈaɪən/",
+            "/ˈīˌän/",
+            "/ˈaɪˌɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ion",
+            "type": "noun",
+            "example": {
+                "en": "And these are individual potassium ions that are flowing through that pore.",
+                "vi": "Chúng là nhưng ion kali đơn chảy theo những khe này"
+            }
+        },
+        {
+            "content": "Ion",
+            "type": "",
+            "example": {
+                "en": "Just bombarded your cellular structure with enough ions to destabilize your matrix.",
+                "vi": "Chỉ cần phá cấu trúc tế bào của các ngươi với đủ mức Ion sẽ gây bất ổn ma trận."
+            }
+        }
+    ]
+}

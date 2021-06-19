@@ -1,0 +1,42 @@
+{
+    "word": "cuttlefish",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkədlˌfiSH/",
+            "/ˈkədlˌfɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌt(ə)lfɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mực",
+            "type": "adjective noun",
+            "example": {
+                "en": "Did the ability of cuttlefish to change color come about by evolution?",
+                "vi": "Khả năng đổi màu của mực nang là do tiến hóa?"
+            }
+        },
+        {
+            "content": "con mực",
+            "type": "noun",
+            "example": {
+                "en": "Cuttlefish. I love cuttlefish.",
+                "vi": "Mực nang. Tôi yêu mực nang. Đây là một con mực nang Châu Úc lớn."
+            }
+        },
+        {
+            "content": "cá mực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

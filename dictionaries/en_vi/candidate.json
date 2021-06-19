@@ -1,0 +1,60 @@
+{
+    "word": "candidate",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkandiˌdāt/",
+            "/ˈkændɪˌdeɪt/",
+            "/ˈkandidət/",
+            "/ˈkændɪdət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkandɪdeɪt/",
+            "/ˈkandɪdət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ứng cử viên",
+            "type": "noun",
+            "example": {
+                "en": "I entered Tom's name on the list of candidates.",
+                "vi": "Tôi điền tên Tom vào danh sách các ứng cử viên."
+            }
+        },
+        {
+            "content": "thí sinh",
+            "type": "noun",
+            "example": {
+                "en": "We can narrow the testing down to 40 likely candidates.",
+                "vi": "Chúng ta có thể thu hẹp xét nghiệm xuống 40 thí sinh đủ điều kiện."
+            }
+        },
+        {
+            "content": "người ứng cử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dự thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dự tuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sĩ tử",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

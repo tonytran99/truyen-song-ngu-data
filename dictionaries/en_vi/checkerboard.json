@@ -1,0 +1,29 @@
+{
+    "word": "checkerboard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHekərˌbôrd/",
+            "/ˈtʃɛkərˌbɔrd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn cờ",
+            "type": "noun",
+            "example": {
+                "en": "So, these tiles would make a complicated, self-assembling checkerboard.",
+                "vi": "Vậy nên, những viên gạch này làm nên một bàn cờ tự ráp phức tạp."
+            }
+        },
+        {
+            "content": "bàn cờ đam",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

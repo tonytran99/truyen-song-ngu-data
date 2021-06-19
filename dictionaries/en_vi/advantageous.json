@@ -1,0 +1,39 @@
+{
+    "word": "advantageous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/advənˈtājəs/",
+            "/ædvənˈteɪdʒəs/",
+            "/advanˈtājəs/",
+            "/ædvænˈteɪdʒəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/advənˈteɪdʒəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có lợi",
+            "type": "adjective",
+            "example": {
+                "en": "These and other factors were to our advantage that night.",
+                "vi": "Các yếu tố khác nhau đã có lợi cho chúng tôi trong đêm đó."
+            }
+        },
+        {
+            "content": "thuận lợi",
+            "type": "adjective",
+            "example": {
+                "en": "And, in fact, some advantages to owning your own media company.",
+                "vi": "Và, thực ra, vài thuận lợi khi mà sở hữu hãng phim của chính mình."
+            }
+        }
+    ]
+}

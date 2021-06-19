@@ -1,0 +1,43 @@
+{
+    "word": "gymnastic",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jimˈnastik/",
+            "/dʒɪmˈnæstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪmˈnastɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thể dục",
+            "type": "noun",
+            "example": {
+                "en": "And now, gentlemen, we'll go outside for a little gymnastics.",
+                "vi": "Và bây giờ, quý vị, chúng ta sẽ ra ngoài thể dục thể thao một chút."
+            }
+        },
+        {
+            "content": "sự rèn luyện",
+            "type": "",
+            "example": {
+                "en": "And they go through these amazing mental gymnastics to accomplish this.",
+                "vi": "và họ còn vận dụng những sự rèn luyện tinh thần kì lạ để thực hiện mục đích đó."
+            }
+        },
+        {
+            "content": "sự tập luyện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

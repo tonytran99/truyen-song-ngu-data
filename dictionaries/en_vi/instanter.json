@@ -1,0 +1,45 @@
+{
+    "word": "instanter",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈstan(t)ər/",
+            "/ɪnˈstæn(t)ər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈstantə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngay",
+            "type": "adjective",
+            "example": {
+                "en": "You get an instant kill on the red.",
+                "vi": "Các ngươi sẽ bị giết ngay ở vùng đỏ."
+            }
+        },
+        {
+            "content": "lập tức",
+            "type": "",
+            "example": {
+                "en": "It's about seismic events that occur in an instant.",
+                "vi": "Nói về các sự kện địa chấn xảy ra ngay lập tức."
+            }
+        },
+        {
+            "content": "tức thời",
+            "type": "",
+            "example": {
+                "en": "Many in today’s world are looking for instant gratification and instant knowledge on the Internet.",
+                "vi": "Nhiều người trong thế gian ngày nay đang tìm kiếm sự thỏa mãn và sự hiểu biết tức thời trên Internet."
+            }
+        }
+    ]
+}

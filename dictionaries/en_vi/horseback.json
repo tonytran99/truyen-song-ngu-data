@@ -1,0 +1,35 @@
+{
+    "word": "horseback",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôrsˌbak/",
+            "/ˈhɔrsˌbæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːsbak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cưỡi ngựa",
+            "type": "",
+            "example": {
+                "en": "Do I go horseback riding in the park?",
+                "vi": "Tớ có bao giờ cưỡi ngựa ở công viên ko?"
+            }
+        },
+        {
+            "content": "ngồi trên lưng ngựa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

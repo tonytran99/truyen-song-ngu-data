@@ -1,0 +1,52 @@
+{
+    "word": "grievance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrēvəns/",
+            "/ˈɡrivəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡriːv(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời kêu ca",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lời phàn nàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời than phiền",
+            "type": "noun",
+            "example": {
+                "en": "solely as a product of legitimate grievances.",
+                "vi": "độc nhất như một sản phẩm của lời than phiền hợp pháp???"
+            }
+        },
+        {
+            "content": "lời trách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối bất bình",
+            "type": "noun",
+            "example": {
+                "en": "You must set aside your petty grievances with the Dwarves.",
+                "vi": "Ngài phải bỏ một bên mối bất bình của ngài với người Dwarves."
+            }
+        }
+    ]
+}

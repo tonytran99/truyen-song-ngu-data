@@ -1,0 +1,32 @@
+{
+    "word": "chicago",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHiˈkäɡō/",
+            "/ʃɪˈkɑɡoʊ/",
+            "/SHiˈkôɡō/",
+            "/ʃɪˈkɔɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʃɪˈkɑːɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chicago",
+            "type": "",
+            "example": {
+                "en": "There are about 3 million people in chicago",
+                "vi": "Có khoảng 3 triệu người ở Chicago."
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "fickle",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfik(ə)l/",
+            "/ˈfɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hay thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "The world is a complex place, further complicated by man's fickle nature.",
+                "vi": "Thế giới là một nơi phức tạp, Phức tạp hơn nữa bởi bản chất hay thay đổi của con người."
+            }
+        },
+        {
+            "content": "không kiên định",
+            "type": "adjective",
+            "example": {
+                "en": "But Let’ s forget Cusimano and the fickle Lt. Cadei",
+                "vi": "Nhưng chúng ta hãy quên Cusimano và anh trung uý không kiên định Cadei kia đi"
+            }
+        }
+    ]
+}

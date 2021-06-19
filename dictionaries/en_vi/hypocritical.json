@@ -1,0 +1,39 @@
+{
+    "word": "hypocritical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhipəˈkridək(ə)l/",
+            "/ˌhɪpəˈkrɪdək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhɪpəˈkrɪtɪkl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả nhân giả nghĩa",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "giả đạo đức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo đức giả",
+            "type": "adjective",
+            "example": {
+                "en": "You think I have a hypocritical attitude to hypocrisy?",
+                "vi": "Cậu nghĩ tôi đạo đức giả với bọn đạo đức giả?"
+            }
+        }
+    ]
+}

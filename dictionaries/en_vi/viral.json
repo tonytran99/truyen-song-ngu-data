@@ -1,0 +1,38 @@
+{
+    "word": "viral",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvīrəl/",
+            "/ˈvaɪrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvʌɪr(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "virus",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to the lab to test for viral infections.",
+                "vi": "Tôi đi đến phòng thí nghiệm để kiểm tra virus gây nhiễm trùng đây."
+            }
+        },
+        {
+            "content": "virut",
+            "type": "",
+            "example": {
+                "en": "The Red Queen responded to the threat Of the viral outbreak in an extreme way..",
+                "vi": "Nữ Hoàng Đỏ dùng mọi thủ đoạn ngăn chặn không cho virut bùng phát ra ngoài theo một cách cực đoan."
+            }
+        }
+    ]
+}

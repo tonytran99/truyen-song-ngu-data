@@ -1,0 +1,37 @@
+{
+    "word": "floe",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flō/",
+            "/floʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tảng băng",
+            "type": "",
+            "example": {
+                "en": "Somehow, the seal manages to reach a tiny ice floe.",
+                "vi": "Bằng cách nào đó, con hải cẩu níu được một tảng băng nhỏ."
+            }
+        },
+        {
+            "content": "tảng băng nổi",
+            "type": "noun",
+            "example": {
+                "en": "The ice floe is breaking up.",
+                "vi": "Tảng băng nổi đang vỡ dần ra."
+            }
+        }
+    ]
+}

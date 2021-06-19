@@ -1,0 +1,46 @@
+{
+    "word": "astonished",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstänəSHt/",
+            "/əˈstɑnəʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstɒnɪʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngạc nhiên",
+            "type": "adjective",
+            "example": {
+                "en": "Not that anyone admiring you should be astonishing.",
+                "vi": "Không ai ngưỡng mộ em lại lấy làm ngạc nhiên."
+            }
+        },
+        {
+            "content": "kinh ngạc",
+            "type": "",
+            "example": {
+                "en": "It can be beautiful. It can reveal quite astonishing things.",
+                "vi": "Nó có thể là tuyệt vời. Nó có thể mang lại những điều đáng kinh ngạc."
+            }
+        },
+        {
+            "content": "sững sờ",
+            "type": "adjective",
+            "example": {
+                "en": "To the astonishment of Elder Asay, Peter Mourik immediately walked into the room and took his place at the podium.",
+                "vi": "Trước vẻ mặt sững sờ của Anh Cả Asay, Peter Mourik lập tức bước vào phòng và đến chỗ của anh tại bục giảng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "warfare",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôrˌfer/",
+            "/ˈwɔrˌfɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːfɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến tranh",
+            "type": "noun",
+            "example": {
+                "en": "Shove ahead out there and don't stick to that everlasting trench warfare!",
+                "vi": "Xông lên phía trước và đừng thèm dây dưa chiến tranh với người Pháp!"
+            }
+        },
+        {
+            "content": "cuộc chiến tranh",
+            "type": "",
+            "example": {
+                "en": "But for the Vietnamese people the legacy of American warfare continues .",
+                "vi": "Nhưng với người Việt Nam tàn dư của cuộc chiến tranh Mỹ vẫn còn tồn tại ."
+            }
+        },
+        {
+            "content": "lửa binh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

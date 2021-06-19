@@ -1,0 +1,50 @@
+{
+    "word": "converted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvərdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvəːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người cải đạo",
+            "type": "",
+            "example": {
+                "en": "They told of the early missionaries and the early converts.",
+                "vi": "Họ kể về những người truyền giáo và những người cải đạo đầu tiên."
+            }
+        },
+        {
+            "content": "người theo đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo đạo",
+            "type": "",
+            "example": {
+                "en": "Dutch citizen, islamic convert.",
+                "vi": "Công dân Hà Lan, theo đạo Hồi."
+            }
+        },
+        {
+            "content": "đã cải đạo",
+            "type": "",
+            "example": {
+                "en": "A man is converted after visiting teachers serve his family.",
+                "vi": "Một người đàn ông đã cải đạo sau khi các giảng viên thăm viếng phục vụ gia đình của người đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "economic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekəˈnämik/",
+            "/ˌɛkəˈnɑmɪk/",
+            "/ˌēkəˈnämik/",
+            "/ˌikəˈnɑmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiːkəˈnɒmɪk/",
+            "/ɛkəˈnɒmɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh tế",
+            "type": "adjective",
+            "example": {
+                "en": "Small cars are very economical because of their low fuel consumption.",
+                "vi": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng."
+            }
+        },
+        {
+            "content": "có lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mang lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tùng tiệm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thuộc về kinh tế",
+            "type": "",
+            "example": {
+                "en": "That was, in fact, economic.",
+                "vi": "Nó, thực chất, là thuộc về kinh tế."
+            }
+        },
+        {
+            "content": "rẻ",
+            "type": "adjective",
+            "example": {
+                "en": "The Cypress Room's already our most economical.",
+                "vi": "Phòng The Cypress đã là phòng rẻ nhất của chúng tôi rồi."
+            }
+        }
+    ]
+}

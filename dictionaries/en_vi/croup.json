@@ -1,0 +1,40 @@
+{
+    "word": "croup",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kro͞op/",
+            "/krup/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kruːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh điptêri",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh quản",
+            "type": "",
+            "example": {
+                "en": "A seal-like barking cough could be croup .",
+                "vi": "Tiếng ho khan như hải cẩu sủa có thể là viêm thanh quản cấp ."
+            }
+        }
+    ]
+}

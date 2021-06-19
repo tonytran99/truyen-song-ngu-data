@@ -1,0 +1,48 @@
+{
+    "word": "eaten",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nấu cơm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn",
+            "type": "verb",
+            "example": {
+                "en": "I'm afraid I've eaten too much.",
+                "vi": "Có vẻ như tôi đã ăn quá nhiều."
+            }
+        },
+        {
+            "content": "ăn cơm",
+            "type": "",
+            "example": {
+                "en": "I haven't eaten in three days.",
+                "vi": "Đã 3 ngày rồi tôi không có ăn cơm."
+            }
+        },
+        {
+            "content": "ăn mòn",
+            "type": "",
+            "example": {
+                "en": "Live with the cheating, and whatever man you think you are is eaten away, day by day.",
+                "vi": "Sống với sự lừa dối, và dù anh nghĩ mình là đàn ông kiểu gì thì cũng bị ăn mòn từng ngày."
+            }
+        },
+        {
+            "content": "ăn thủng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

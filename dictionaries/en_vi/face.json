@@ -1,0 +1,370 @@
+{
+    "word": "face",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fās/",
+            "/feɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/feɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "We asked him to face the press but he refused to.",
+                "vi": "Tôi đã nói nó đối mặt với báo chí nhưng nó từ chối."
+            }
+        },
+        {
+            "content": "đương đầu",
+            "type": "verb",
+            "example": {
+                "en": "When we are faced with a temptation, we will not be uncertain about the course we should pursue.",
+                "vi": "Nhờ thế, khi đương đầu với cám dỗ, chúng ta biết chắc mình nên chọn đường lối nào."
+            }
+        },
+        {
+            "content": "đối phó",
+            "type": "verb",
+            "example": {
+                "en": "They would face temptations and pressures to do wrong.",
+                "vi": "Họ sẽ phải đối phó sự cám dỗ và áp lực làm điều quấy."
+            }
+        },
+        {
+            "content": "bề mặt",
+            "type": "",
+            "example": {
+                "en": "I'm gonna scrub this virus from the face of the earth.",
+                "vi": "Anh sẽ dội sạch bọn virus ra khỏi bề mặt của trái đất."
+            }
+        },
+        {
+            "content": "bộ mặt",
+            "type": "noun",
+            "example": {
+                "en": "But if you leave here with that face, you will return quickly.",
+                "vi": "Nếu ông ra ngoài với cái bộ mặt đó, thì ông sẽ sớm quay lại đây thôi."
+            }
+        },
+        {
+            "content": "sĩ diện",
+            "type": "noun",
+            "example": {
+                "en": "It's a major loss of face for the police.",
+                "vi": "Việc này đă làm cảnh sát mất hết sĩ diện."
+            }
+        },
+        {
+            "content": "thể diện",
+            "type": "noun",
+            "example": {
+                "en": "There still might be a way to save face.",
+                "vi": "Nhưng vẫn còn cách dể giữ thể diện."
+            }
+        },
+        {
+            "content": "diện",
+            "type": "",
+            "example": {
+                "en": "If I figure this right we're facing the sun.",
+                "vi": "Nếu tôi tính đúng thì ta đang đối diện mặt trời."
+            }
+        },
+        {
+            "content": "quay",
+            "type": "verb",
+            "example": {
+                "en": "But if you leave here with that face, you will return quickly.",
+                "vi": "Nếu ông ra ngoài với cái bộ mặt đó, thì ông sẽ sớm quay lại đây thôi."
+            }
+        },
+        {
+            "content": "hồ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bọc",
+            "type": "verb noun",
+            "example": {
+                "en": "The vault door is stainless steel-faced.",
+                "vi": "Cửa hầm bọc thép không rỉ."
+            }
+        },
+        {
+            "content": "day",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "mặt mày",
+            "type": "noun",
+            "example": {
+                "en": "Maybe it's time I lit up that face once and for all.",
+                "vi": "Có lẽ giờ đã đến lúc tao xé toạc cái mặt mày rồi nhỉ."
+            }
+        },
+        {
+            "content": "mặt mũi",
+            "type": "noun",
+            "example": {
+                "en": "If others see you, how could I face them?",
+                "vi": "Nếu có người khác trông thấy cô, mặt mũi tôi để xó nào đây?"
+            }
+        },
+        {
+            "content": "tráng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "phủ",
+            "type": "noun",
+            "example": {
+                "en": "In some cases, disbelief appears to be a deliberate refusal to face the truth.",
+                "vi": "Trong một số trường hợp, việc không tin Đức Chúa Trời hình như là cố tình phủ nhận sự thật."
+            }
+        },
+        {
+            "content": "bên",
+            "type": "noun",
+            "example": {
+                "en": "Face, your point of entry is under the hotel.",
+                "vi": "Face, nhiệm vụ của anh là đột nhập vào bên dưới của khách sạn."
+            }
+        },
+        {
+            "content": "bề ngoài",
+            "type": "",
+            "example": {
+                "en": "You take things for their face value, and believe what you think is true.",
+                "vi": "Bà chỉ xem xét sự việc bề ngoài... và tin những gì bà nghĩ là thật."
+            }
+        },
+        {
+            "content": "chạm mặt",
+            "type": "",
+            "example": {
+                "en": "I 'd round the corner and come face-to-face with the brilliance of Christmas .",
+                "vi": "Tôi sẽ vòng qua góc và chạm mặt với nét đẹp huyền diệu của lễ Giáng sinh ."
+            }
+        },
+        {
+            "content": "chạm trán",
+            "type": "verb",
+            "example": {
+                "en": "I faced it myself, sire.",
+                "vi": "Tôi cũng đã chạm trán nó, thưa ngài."
+            }
+        },
+        {
+            "content": "diện mạo",
+            "type": "noun",
+            "example": {
+                "en": "You are only 200,000 years old, but you have changed the face of the world.",
+                "vi": "Chỉ 200.000 năm tuổi, nhưng bạn đã thay đổi diện mạo của thế giới này."
+            }
+        },
+        {
+            "content": "dung mạo",
+            "type": "",
+            "example": {
+                "en": "She can change her face, but she can't change her aura.",
+                "vi": "Cô ta có thể thay đổi dung mạo, nhưng không thể thay đổi mùi hương của mình."
+            }
+        },
+        {
+            "content": "gương mặt",
+            "type": "",
+            "example": {
+                "en": "Or a jazz poster with a happy face and a more aggressive face.",
+                "vi": "Hay một poster với gương mặt hạnh phúc và gương mặt hung hãn."
+            }
+        },
+        {
+            "content": "hướng về",
+            "type": "",
+            "example": {
+                "en": "I turned to the face in the mirror .",
+                "vi": "Tôi hướng về khuôn mặt trong gương ."
+            }
+        },
+        {
+            "content": "khuôn mặt",
+            "type": "noun",
+            "example": {
+                "en": "He hid his ugly face.",
+                "vi": "Anh ta giấu khuôn mặt xấu xí của mình."
+            }
+        },
+        {
+            "content": "mã ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt phía trước",
+            "type": "",
+            "example": {
+                "en": "Separate. Face the front. Separate. Face the front.",
+                "vi": "Tách ra, quay mặt phí trước, Tách ra,quay mặt phía trước."
+            }
+        },
+        {
+            "content": "mặt trước",
+            "type": "",
+            "example": {
+                "en": "We have got a face to put together here while it's still ingrained in her subcranium.",
+                "vi": "Chúng ta phải tạo cho xong cái mặt trước khi cô ấy quên mất nó."
+            }
+        },
+        {
+            "content": "nhìn về",
+            "type": "",
+            "example": {
+                "en": "I asked people to draw a sheep facing to the left.",
+                "vi": "Tôi hỏi mọi người vẽ mặt con cừu nhìn về phía bên trái"
+            }
+        },
+        {
+            "content": "quay về",
+            "type": "",
+            "example": {
+                "en": "Always fish with the sun in your face.",
+                "vi": "Lúc nào cũng phải quay về phía mặt trời mà câu cá."
+            }
+        },
+        {
+            "content": "ra lệnh quay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắc mặt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "viền màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẻ mặt",
+            "type": "",
+            "example": {
+                "en": "You should have seen your brother's face when Hayley walked in.",
+                "vi": "Anh nên nhìn vẻ mặt của anh trai anh lúc Hayley bước vào."
+            }
+        },
+        {
+            "content": "đối diện",
+            "type": "",
+            "example": {
+                "en": "If I figure this right we're facing the sun.",
+                "vi": "Nếu tôi tính đúng thì ta đang đối diện mặt trời."
+            }
+        },
+        {
+            "content": "đứng trước mặt",
+            "type": "",
+            "example": {
+                "en": "while standing in front and putting your hand out with the palm facing flat toward the dog.",
+                "vi": "trong khi đứng trước mặt nó và giơ tay ra với lòng bàn tay dơ thẳng hướng về phía nó."
+            }
+        },
+        {
+            "content": "ở trước mặt",
+            "type": "",
+            "example": {
+                "en": "Remove the first of three drives facing you.",
+                "vi": "Lấy cái ổ cứng đầu tiên trong 3 cái ở trước mặt anh."
+            }
+        },
+        {
+            "content": "Mặt",
+            "type": "",
+            "example": {
+                "en": "We asked him to face the press but he refused to.",
+                "vi": "Tôi đã nói nó đối mặt với báo chí nhưng nó từ chối."
+            }
+        },
+        {
+            "content": "mất",
+            "type": "noun",
+            "example": {
+                "en": "Thirty minutes of face time with other survivors.",
+                "vi": "Chỉ mất 30 phút thôi"
+            }
+        },
+        {
+            "content": "maët",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỏ",
+            "type": "noun",
+            "example": {
+                "en": "Clean your face, you look like a coal miner",
+                "vi": "Em đi rửa mặt đi, trông cứ như là thợ mỏ ấy"
+            }
+        },
+        {
+            "content": "cách nhìn",
+            "type": "",
+            "example": {
+                "en": "To whom will he turn when it's time to learn to look darkness in the face?",
+                "vi": "Nó sẽ phải nhờ cậy ai khi tới lúc học cách nhìn vào những điều u tối?"
+            }
+        },
+        {
+            "content": "cái nhìn",
+            "type": "",
+            "example": {
+                "en": "Then you could cherish the look of surprise on my face.",
+                "vi": "Thì ngươi có thể yêu thích cái nhìn kinh ngạc trên mặt ta đấy."
+            }
+        },
+        {
+            "content": "khoảng nhìn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuông mặt",
+            "type": "",
+            "example": {
+                "en": "What's important, the face or the voice?",
+                "vi": "Cái gì quan trọng, khuông mặt hay chất giọng?"
+            }
+        },
+        {
+            "content": "quang cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thị giác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

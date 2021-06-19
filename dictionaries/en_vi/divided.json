@@ -1,0 +1,35 @@
+{
+    "word": "divided",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈvīdəd/",
+            "/dɪˈvaɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvʌɪdɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "số bị chia",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chia",
+            "type": "",
+            "example": {
+                "en": "From this standpoint history can be divided into two main epochs.",
+                "vi": "Từ lập trường này, lịch sử có thể được chia ra thành hai niên đại chính."
+            }
+        }
+    ]
+}

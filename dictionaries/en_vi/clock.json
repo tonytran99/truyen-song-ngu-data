@@ -1,0 +1,69 @@
+{
+    "word": "clock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kläk/",
+            "/klɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng hồ",
+            "type": "noun",
+            "example": {
+                "en": "That clock is one minute fast.",
+                "vi": "Cái đồng hồ đó chạy nhanh hơn một phút."
+            }
+        },
+        {
+            "content": "cái đồng hồ",
+            "type": "noun",
+            "example": {
+                "en": "That clock is one minute fast.",
+                "vi": "Cái đồng hồ đó chạy nhanh hơn một phút."
+            }
+        },
+        {
+            "content": "ghi giờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhịp/xung đồng hồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuông",
+            "type": "noun",
+            "example": {
+                "en": "Clock is ticking, Doctor.",
+                "vi": "Chuông bảo động đang reo kìa, bác sĩ."
+            }
+        },
+        {
+            "content": "Đồng hồ",
+            "type": "",
+            "example": {
+                "en": "That clock is one minute fast.",
+                "vi": "Cái đồng hồ đó chạy nhanh hơn một phút."
+            }
+        }
+    ]
+}

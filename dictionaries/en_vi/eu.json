@@ -1,0 +1,35 @@
+{
+    "word": "eu",
+    "type": [
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌēˈyo͞o/",
+            "/ˌiˈju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiːˈjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Liên minh châu Âu",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "liên minh châu Âu",
+            "type": "noun",
+            "example": {
+                "en": "Meanwhile Spain is threatening to seek compensation from the EU for lost vegetables sales .",
+                "vi": "Đồng thời Tây Ban Nha cũng đe doạ đòi Liên Minh Châu Âu bồi thường vì mất bán rau màu ."
+            }
+        }
+    ]
+}

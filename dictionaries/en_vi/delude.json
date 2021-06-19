@@ -1,0 +1,45 @@
+{
+    "word": "delude",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlo͞od/",
+            "/dəˈlud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈl(j)uːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa",
+            "type": "verb",
+            "example": {
+                "en": "Your followers are deluded enough to trust you.",
+                "vi": "Những kẻ theo ngươi đủ khả năng bị đánh lừa để tin ngươi."
+            }
+        },
+        {
+            "content": "lừa dối",
+            "type": "",
+            "example": {
+                "en": "His own deluded heart has led him astray.",
+                "vi": "Chính tấm lòng bị lừa dối dẫn người lạc lối."
+            }
+        },
+        {
+            "content": "đánh lừa",
+            "type": "",
+            "example": {
+                "en": "Your followers are deluded enough to trust you.",
+                "vi": "Những kẻ theo ngươi đủ khả năng bị đánh lừa để tin ngươi."
+            }
+        }
+    ]
+}

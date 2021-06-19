@@ -1,0 +1,56 @@
+{
+    "word": "amiss",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmis/",
+            "/əˈmɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "Now then, what seems to be amiss?",
+                "vi": "Bây giờ sao, có chuyện gì sai?"
+            }
+        },
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bậy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hợp thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đúng lúc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

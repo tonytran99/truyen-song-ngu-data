@@ -1,0 +1,83 @@
+{
+    "word": "gape",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡāp/",
+            "/ɡeɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡeɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngáp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hệch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "toét",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cái ngáp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "há hốc",
+            "type": "verb",
+            "example": {
+                "en": "Says the man who was just gaping at my research.",
+                "vi": "Kẻ vừa mới há hốc mồm trước những nghiên cứu của tôi nói đấy sao."
+            }
+        },
+        {
+            "content": "há to miệng ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hếch mồm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khao khát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự há rộng miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tha thiết muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "há hốc miệng",
+            "type": "",
+            "example": {
+                "en": "Then the cross was raised that all might see and gape and curse and deride.",
+                "vi": "Rồi thập tự giá được dựng lên để tất cả đều có thể nhìn thấy, há hốc miệng ra nhìn, chửi rủa và chế nhạo."
+            }
+        }
+    ]
+}

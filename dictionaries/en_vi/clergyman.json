@@ -1,0 +1,45 @@
+{
+    "word": "clergyman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklərjēmən/",
+            "/ˈklərdʒimən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkləːdʒɪmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mục sư",
+            "type": "noun",
+            "example": {
+                "en": "But the clergyman did not want to get involved.",
+                "vi": "Nhưng ông mục sư không muốn dính líu vào việc này."
+            }
+        },
+        {
+            "content": "giáo sĩ",
+            "type": "noun",
+            "example": {
+                "en": "As a young missionary, I had a most interesting discussion with a clergyman.",
+                "vi": "Khi còn là một người truyền giáo trẻ tuổi, tôi đã có một cuộc thảo luận thú vị nhất với một giáo sĩ."
+            }
+        },
+        {
+            "content": "tu sĩ",
+            "type": "noun",
+            "example": {
+                "en": "A copy was given to every politician, clergyman, and businessman.",
+                "vi": "Mỗi chính khách, tu sĩ và doanh nhân đều được biếu một cuốn."
+            }
+        }
+    ]
+}

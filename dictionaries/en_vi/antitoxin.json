@@ -1,0 +1,34 @@
+{
+    "word": "antitoxin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)ēˈtäksən/",
+            "/ˌæn(t)iˈtɑksən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/antɪˈtɒksɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất kháng độc tố",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "kháng độc tố",
+            "type": "adjective",
+            "example": {
+                "en": "You are going to have to administer the antitoxin in sequence.",
+                "vi": "Con sẽ phải tiêm kháng độc tố từng ít một."
+            }
+        }
+    ]
+}

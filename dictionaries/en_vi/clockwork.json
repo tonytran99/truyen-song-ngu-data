@@ -1,0 +1,37 @@
+{
+    "word": "clockwork",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkläkˌwərk/",
+            "/ˈklɑkˌwərk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɒkwəːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ máy đồng hồ",
+            "type": "",
+            "example": {
+                "en": "Yeah, we're just like clockwork.",
+                "vi": "Phải, chúng ta như một bộ máy đồng hồ."
+            }
+        },
+        {
+            "content": "đều đặn",
+            "type": "",
+            "example": {
+                "en": "Every month, one after the other, like clockwork.",
+                "vi": "Mỗi tháng, người này tiếp nối người kia, một cách đều đặn."
+            }
+        }
+    ]
+}

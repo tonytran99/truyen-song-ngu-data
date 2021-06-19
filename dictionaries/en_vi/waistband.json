@@ -1,0 +1,47 @@
+{
+    "word": "waistband",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwās(t)ˌband/",
+            "/ˈweɪs(t)ˌbænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪs(t)band/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dây lưng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dây nịt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cạp quần",
+            "type": "",
+            "example": {
+                "en": "Right hip inside your waistband.",
+                "vi": "Bên hông phải phía trong cạp quần kia kìa."
+            }
+        },
+        {
+            "content": "thắt lưng",
+            "type": "noun",
+            "example": {
+                "en": "No one wears trousers with a waistband quite that high in this day and age.",
+                "vi": "Chẳng ai lại mặc quần với thắt lưng cao như vậy ở thời đại này."
+            }
+        }
+    ]
+}

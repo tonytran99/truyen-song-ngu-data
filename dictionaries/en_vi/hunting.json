@@ -1,0 +1,66 @@
+{
+    "word": "hunting",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhən(t)iNG/",
+            "/ˈhən(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đi săn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "săn bắt",
+            "type": "",
+            "example": {
+                "en": "It was hunted to death for its feathers.",
+                "vi": "Bị săn bắt đến tuyệt chủng vì bộ lông của chúng."
+            }
+        },
+        {
+            "content": "sự lùng săn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lùng sục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tìm kiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Săn",
+            "type": "",
+            "example": {
+                "en": "It has developed special techniques for hunting amongst the cacti.",
+                "vi": "Nó đã phát triển những kỹ thuật chuyên biệt để săn mồi trong các khóm xương rồng."
+            }
+        },
+        {
+            "content": "săn",
+            "type": "adjective verb",
+            "example": {
+                "en": "It has developed special techniques for hunting amongst the cacti.",
+                "vi": "Nó đã phát triển những kỹ thuật chuyên biệt để săn mồi trong các khóm xương rồng."
+            }
+        }
+    ]
+}

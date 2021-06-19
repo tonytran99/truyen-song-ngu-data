@@ -1,0 +1,64 @@
+{
+    "word": "eldest",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeldəst/",
+            "/ˈɛldəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛldɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cả",
+            "type": "adjective",
+            "example": {
+                "en": "I'm going to our eldest brother's grave tomorrow with Mom.",
+                "vi": "Ngày mai em cùng với mẹ đi thăm mộ anh cả."
+            }
+        },
+        {
+            "content": "trưởng",
+            "type": "adjective",
+            "example": {
+                "en": "Jaime is your eldest son, heir to your lands and titles.",
+                "vi": "Jaime là con trưởng của cha, người kế thừa đất đai và tước vị."
+            }
+        },
+        {
+            "content": "lớn tuổi nhất",
+            "type": "",
+            "example": {
+                "en": "The eldest will move in to ensure the prey is dead.",
+                "vi": "Người lớn tuổi nhất sẽ di chuyển để đảm bảo con mồi đã bị giết."
+            }
+        },
+        {
+            "content": "nhiều tuổi nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu lòng",
+            "type": "",
+            "example": {
+                "en": "They killed my eldest at the Somme.",
+                "vi": "Chúng đã giết đứa đầu lòng của tôi tại trận Somme."
+            }
+        },
+        {
+            "content": "eldest",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

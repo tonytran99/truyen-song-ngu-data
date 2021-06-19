@@ -1,0 +1,40 @@
+{
+    "word": "curative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͝orədiv/",
+            "/ˈkjʊrədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkjʊərətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "chữa bệnh",
+            "type": "",
+            "example": {
+                "en": "Payment isn't an issue, provided your curative is effective.",
+                "vi": "Tiền bạc không phải vấn đề. Cứ chữa bệnh theo cách hiệu quả."
+            }
+        },
+        {
+            "content": "trị bệnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

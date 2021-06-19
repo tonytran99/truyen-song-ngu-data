@@ -1,0 +1,112 @@
+{
+    "word": "frog",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frôɡ/",
+            "/frɔɡ/",
+            "/fräɡ/",
+            "/frɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ếch",
+            "type": "noun",
+            "example": {
+                "en": "I'll bewitch him into a frog!",
+                "vi": "Tao sẽ biến nó thành ếch."
+            }
+        },
+        {
+            "content": "nhái",
+            "type": "noun",
+            "example": {
+                "en": "How do you think the fish, the frog and the snake endured it?",
+                "vi": "Con nghĩ con cá, con nhái và con rắn đã phải chịu đựng ra sao?"
+            }
+        },
+        {
+            "content": "con ếch",
+            "type": "noun",
+            "example": {
+                "en": "You raise the temperature bit by bit, the frog doesn't notice?",
+                "vi": "Nếu em tăng nhiệt độ từ từ, con ếch sẽ chẳng buồn để ý."
+            }
+        },
+        {
+            "content": "con ngoé",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con nhái",
+            "type": "noun",
+            "example": {
+                "en": "How do you think the fish, the frog and the snake endured it?",
+                "vi": "Con nghĩ con cá, con nhái và con rắn đã phải chịu đựng ra sao?"
+            }
+        },
+        {
+            "content": "ngoé",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Ếch",
+            "type": "",
+            "example": {
+                "en": "I'll bewitch him into a frog!",
+                "vi": "Tao sẽ biến nó thành ếch."
+            }
+        },
+        {
+            "content": "gà đồng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khuy khuyết thùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quai đeo kiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quai đeo lưỡi lê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường ghi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ếch nhái",
+            "type": "",
+            "example": {
+                "en": "When the frogs died the Egyptians piled them up in great heaps, and the land stank with them.",
+                "vi": "Khi ếch nhái chết dân Ê-díp-tô chất thây chúng thành từng đống lớn, và cả xứ hôi thối vì chúng."
+            }
+        },
+        {
+            "content": "bộ không đuôi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

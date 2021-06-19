@@ -1,0 +1,43 @@
+{
+    "word": "e",
+    "type": [
+        "Letter",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ē/",
+            "/i/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "e",
+            "type": "verb noun",
+            "example": {
+                "en": "How did he get access to their e-mail accounts?",
+                "vi": "Làm sao hắn truy cập được tài khoản e-mail của họ?"
+            }
+        },
+        {
+            "content": "thuốc nhỏ tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Số e",
+            "type": "",
+            "example": {
+                "en": "He said that the e-mails were faked.",
+                "vi": "Anh ấy nói rằng số e-mail đó là giả."
+            }
+        }
+    ]
+}

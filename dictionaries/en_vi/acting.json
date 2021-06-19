@@ -1,0 +1,70 @@
+{
+    "word": "acting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktiNG/",
+            "/ˈæktɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaktɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyền",
+            "type": "adjective",
+            "example": {
+                "en": "The acting president needs to be briefed on a highly classified matter.",
+                "vi": "Tổng thống tạm quyền cần được báo cáo những vấn đề tối mật."
+            }
+        },
+        {
+            "content": "hành động",
+            "type": "noun",
+            "example": {
+                "en": "Quit acting like a child.",
+                "vi": "Thôi hành động như là một đứa trẻ đi."
+            }
+        },
+        {
+            "content": "sự thủ vai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đóng kịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thay quyền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diễn xuất",
+            "type": "",
+            "example": {
+                "en": "My interest in acting, especially bad acting, goes a long way.",
+                "vi": "Sở thích diễn xuất của tôi, đặc biệt là diễn xuất tồi, rất thành công."
+            }
+        },
+        {
+            "content": "đóng kịch",
+            "type": "",
+            "example": {
+                "en": "I think you do a little acting yourself.",
+                "vi": "Tôi nghĩ anh cũng đang đóng kịch một chút."
+            }
+        }
+    ]
+}

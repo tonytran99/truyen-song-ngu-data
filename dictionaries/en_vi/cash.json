@@ -1,0 +1,69 @@
+{
+    "word": "cash",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaSH/",
+            "/kæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiền mặt",
+            "type": "noun",
+            "example": {
+                "en": "We're just a little short on cash right now.",
+                "vi": "Chúng cháu chỉ có được một ít tiền mặt lúc này."
+            }
+        },
+        {
+            "content": "tiền",
+            "type": "noun",
+            "example": {
+                "en": "I just noticed that she had cash in her hand.",
+                "vi": "Tôi chỉ để ý rằng tay cô ta cầm tiền."
+            }
+        },
+        {
+            "content": "lĩnh tiền mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trả tiền mặt",
+            "type": "",
+            "example": {
+                "en": "I don't have one, but I can pay cash.",
+                "vi": "Tôi không có nhưng tôi có thể trả tiền mặt."
+            }
+        },
+        {
+            "content": "hiện kim",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngân",
+            "type": "noun",
+            "example": {
+                "en": "For airline personnel, we cash personal checks up to $ 100.",
+                "vi": "Với nhân viên hàng không, chúng tôi nhận ngân phiếu cá nhân tối đa là 100 $."
+            }
+        },
+        {
+            "content": "tieàn maët",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

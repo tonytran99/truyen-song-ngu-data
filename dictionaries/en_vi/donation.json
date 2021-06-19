@@ -1,0 +1,82 @@
+{
+    "word": "donation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dōˈnāSH(ə)n/",
+            "/doʊˈneɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/də(ʊ)ˈneɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tặng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tặng",
+            "type": "verb",
+            "example": {
+                "en": "You think maybe her corneas were donated too?",
+                "vi": "Có thể mắt của cô ấy cũng được dùng để hiến tặng?"
+            }
+        },
+        {
+            "content": "sự quyên góp",
+            "type": "noun",
+            "example": {
+                "en": "Why could the Corinthians have confidence in Paul’s supervision of donations?",
+                "vi": "Tại sao tín đồ ở thành Cô-rinh-tô có thể tin cậy việc Phao-lô giám sát những sự quyên góp?"
+            }
+        },
+        {
+            "content": "vật hiến tặng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự biếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cho",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự quyên cúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ biếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ quyên cúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ tặng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

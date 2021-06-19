@@ -1,0 +1,500 @@
+{
+    "word": "well",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wel/",
+            "/wɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tốt",
+            "type": "adverb",
+            "example": {
+                "en": "It takes time to speak a foreign language well.",
+                "vi": "Cần phải có thời gian để nói tốt một ngoại ngữ."
+            }
+        },
+        {
+            "content": "giếng",
+            "type": "noun",
+            "example": {
+                "en": "There was little water in the well.",
+                "vi": "Có một ít nước trong giếng."
+            }
+        },
+        {
+            "content": "hay",
+            "type": "adverb, adjective",
+            "example": {
+                "en": "The story ends well.",
+                "vi": "Câu truyện có một cái kết hay."
+            }
+        },
+        {
+            "content": "khỏe",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to say that the boss has been very well lately.",
+                "vi": "Tôi mừng khi thấy gần đây sếp rất khỏe mạnh."
+            }
+        },
+        {
+            "content": "cũng",
+            "type": "adverb",
+            "example": {
+                "en": "You may as well come with me.",
+                "vi": "Cậu cũng có thể đi với tôi."
+            }
+        },
+        {
+            "content": "giỏi",
+            "type": "adjective, adverb",
+            "example": {
+                "en": "Tom wished that he could play tennis as well as Mary.",
+                "vi": "Tom ước rằng mình có thể chơi tennis giỏi như Mary."
+            }
+        },
+        {
+            "content": "khá",
+            "type": "adjective adverb",
+            "example": {
+                "en": "We're well ahead of schedule.",
+                "vi": "Chúng ta ở trước hạn khá xa."
+            }
+        },
+        {
+            "content": "mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to say that the boss has been very well lately.",
+                "vi": "Tôi mừng khi thấy gần đây sếp rất khỏe mạnh."
+            }
+        },
+        {
+            "content": "thế nào",
+            "type": "",
+            "example": {
+                "en": "Well, let's see how well \" cute and cuddly \" handles this next bit.",
+                "vi": "Vậy để coi dễ cưng và dễ nựng xử lý chuyện này thế nào."
+            }
+        },
+        {
+            "content": "rõ",
+            "type": "",
+            "example": {
+                "en": "I know Tom very well.",
+                "vi": "Tôi biết Tom rất rõ."
+            }
+        },
+        {
+            "content": "nên",
+            "type": "verb noun",
+            "example": {
+                "en": "Yes, well, you mustn't take me as a model of behaviour.",
+                "vi": "Phải, nhưng con không nên lấy cha làm gương."
+            }
+        },
+        {
+            "content": "thôi",
+            "type": "verb noun",
+            "example": {
+                "en": "If you are calm as well as witty, she will respond.",
+                "vi": "Nếu anh bình tĩnh và thêm chút dí dỏm cô ta sẽ đáp lại thôi."
+            }
+        },
+        {
+            "content": "vậy",
+            "type": "adverb",
+            "example": {
+                "en": "But you're a doodlist as well, I see.",
+                "vi": "Nhưng anh là một nghệ sĩ khá tốt, tôi thấy vậy."
+            }
+        },
+        {
+            "content": "đấy",
+            "type": "",
+            "example": {
+                "en": "You know, I figured out your little secret, wells.",
+                "vi": "Anh biết đấy, tôi đã phát hiện ra bí mật nhỏ của anh rồi, Wells ạ."
+            }
+        },
+        {
+            "content": "khoẻ",
+            "type": "adjective",
+            "example": {
+                "en": "She hasn't been well for a long time.",
+                "vi": "Từ lâu bà đã không được khoẻ rồi."
+            }
+        },
+        {
+            "content": "sao",
+            "type": "noun adverb",
+            "example": {
+                "en": "Oh, you think ending well means disappearing for a few days?",
+                "vi": "Anh nghĩ kết thúc êm đẹp là biến mất nhiều ngày như vậy sao?"
+            }
+        },
+        {
+            "content": "lồng cầu thang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phải",
+            "type": "adverb",
+            "example": {
+                "en": "It takes time to speak a foreign language well.",
+                "vi": "Cần phải có thời gian để nói tốt một ngoại ngữ."
+            }
+        },
+        {
+            "content": "được",
+            "type": "adverb",
+            "example": {
+                "en": "Because we expect an apology from him, as well as you.",
+                "vi": "Vì chúng tôi muốn nhận được lời xin lỗi từ anh ta, và cả anh nữa."
+            }
+        },
+        {
+            "content": "kỹ",
+            "type": "",
+            "example": {
+                "en": "I have made special arrangements for the visiting lords, as well.",
+                "vi": "Con đã chuẩn bị rất kỹ càng để chào đón Ngài ấy."
+            }
+        },
+        {
+            "content": "nhiều",
+            "type": "",
+            "example": {
+                "en": "Yet another lesson from that experience has served me well.",
+                "vi": "Tuy nhiên một bài học khác từ kinh nghiệm đó đã giúp ích cho tôi rất nhiều."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "As a private citizen, well, it looks like the sun is shining where it shouldn't be.",
+                "vi": "Là một công dân, nó có vẻ giống như mặt trời đang tỏa nắng không đúng chỗ."
+            }
+        },
+        {
+            "content": "ừ",
+            "type": "",
+            "example": {
+                "en": "Oh, well, that depends.",
+                "vi": "Ồ, ừ, còn tùy."
+            }
+        },
+        {
+            "content": "cần",
+            "type": "verb",
+            "example": {
+                "en": "I hope I won't have to threaten you as well.",
+                "vi": "Tôi hi vọng tôi không cần phải dọa cả anh nữa."
+            }
+        },
+        {
+            "content": "may",
+            "type": "verb",
+            "example": {
+                "en": "It is well you say it in my tent, thou old tulip.",
+                "vi": "Cũng may là anh nói điều đó trong lều của tôi, đồ bông hoa tàn héo."
+            }
+        },
+        {
+            "content": "phi",
+            "type": "noun Prefix conjunction verb",
+            "example": {
+                "en": "Yeah, well, you're not the one who almost had his hands frozen off.",
+                "vi": "Phi, chú mày đâu phi ngưi duy nht có tay sut đông cng đâu."
+            }
+        },
+        {
+            "content": "hầm",
+            "type": "verb",
+            "example": {
+                "en": "Hey, get out of the mine. Things aren't going so well.",
+                "vi": "\"Này, ra khỏi hầm mỏ đi. Tình hình nguy hiểm lắm.\""
+            }
+        },
+        {
+            "content": "lò",
+            "type": "noun",
+            "example": {
+                "en": "Well, tried a new butcher.",
+                "vi": "Lấy thịt ở lò mổ khác."
+            }
+        },
+        {
+            "content": "chậc",
+            "type": "interjection",
+            "example": {
+                "en": "Now, you might be thinking, \"Well, she's just said",
+                "vi": "Giờ có lẽ bạn đang nghĩ \"Chậc, bà ta vừa nói về"
+            }
+        },
+        {
+            "content": "nà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lọ",
+            "type": "",
+            "example": {
+                "en": "Well, I'm sorry to hear that, Twinderella.",
+                "vi": "Tôi biết, cho xin lỗi nha, lọ lem."
+            }
+        },
+        {
+            "content": "quái",
+            "type": "",
+            "example": {
+                "en": "Well, you're acquainted with my infernal devices.",
+                "vi": "Chà, các ngươi có nghe qua mấy thiết bị quỷ quái của ta chưa."
+            }
+        },
+        {
+            "content": "buồng máy bm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bằng an",
+            "type": "adjective, adverb",
+            "example": {}
+        },
+        {
+            "content": "chính đáng",
+            "type": "",
+            "example": {
+                "en": "Yeah, well, with bloody good reason, I'm sure!",
+                "vi": "Phải, oh, với lý do rất chính đáng, anh chắc luôn!"
+            }
+        },
+        {
+            "content": "chỗ phi công ngồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp lý",
+            "type": "adverb",
+            "example": {
+                "en": "Doesn't it make sense for you to nominate someone you know so well?",
+                "vi": "Ngài đề cử một người mà ngài biết rất rõ chẳng phải là hợp lý lắm sao?"
+            }
+        },
+        {
+            "content": "hợp thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khang cường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoang cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khỏe khoắn",
+            "type": "",
+            "example": {
+                "en": "as an inherently strong, powerful and athletic person well into the future.",
+                "vi": "tự coi mình là người vốn khỏe khoắn, mạnh mẽ và thể thao."
+            }
+        },
+        {
+            "content": "kiện khang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lạ quá",
+            "type": "",
+            "example": {
+                "en": "Well, that is a right odd-looking wound there.",
+                "vi": "Đó là một vết thương lạ quá."
+            }
+        },
+        {
+            "content": "may mắn",
+            "type": "adjective",
+            "example": {
+                "en": "Well, you are very lucky that this investigation is so well funded, I'll tell you that.",
+                "vi": "Cô rất may mắn bởi vì cuộc điều tra này rất quan trọng đó."
+            }
+        },
+        {
+            "content": "mạnh giỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạnh khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguồn nước",
+            "type": "",
+            "example": {
+                "en": "But this pond comes from the same water as the well does.",
+                "vi": "Nhưng cái đầm này có nguồn nước sạch"
+            }
+        },
+        {
+            "content": "nào nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong lưu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rồi sao",
+            "type": "",
+            "example": {
+                "en": "Or has the oracle robbed you of your desire as well?",
+                "vi": "Lời tiên tri cũng lấy đi sự ham muốn của anh rồi sao?"
+            }
+        },
+        {
+            "content": "sung túc",
+            "type": "",
+            "example": {
+                "en": "The basic concept of the group of words related to this verb seems to be prosperity and well-being.",
+                "vi": "Những từ liên quan đến động từ này dường như có khái niệm cơ bản là thịnh vượng, sung túc."
+            }
+        },
+        {
+            "content": "suối nước",
+            "type": "noun",
+            "example": {
+                "en": "and a hot spring that, well, looked like this, close to boiling.",
+                "vi": "và suối nước nóng đó, à, trông như vậy, gần như đang sôi sục."
+            }
+        },
+        {
+            "content": "sâu sắc",
+            "type": "",
+            "example": {
+                "en": "Uh, well, it's something that's gonna affect you profoundly.",
+                "vi": "Thì là điều sẽ ảnh hưởng tới mọi người sâu sắc."
+            }
+        },
+        {
+            "content": "thôi nào",
+            "type": "",
+            "example": {
+                "en": "Well, come on, you don't want to mess around for a little while?",
+                "vi": "Chà, thôi nào, cậu không muốn vui vẻ một lát sao?"
+            }
+        },
+        {
+            "content": "thôi thế là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thôi được",
+            "type": "",
+            "example": {
+                "en": "Um, all right, well, maybe I'll see you out there.",
+                "vi": "Um, thôi được có lẽ chị sẽ gặp em ở đó."
+            }
+        },
+        {
+            "content": "thế đấy",
+            "type": "",
+            "example": {
+                "en": "Yeah, well, Kady sure seems to think that it is.",
+                "vi": "Nhưng Kady lại nghĩ như thế đấy."
+            }
+        },
+        {
+            "content": "tốt lành",
+            "type": "",
+            "example": {
+                "en": "You serve willingly and well and accomplish great good.",
+                "vi": "Các anh chị em sẵn lòng phục vụ đắc lực và thực hiện nhiều điều tốt lành."
+            }
+        },
+        {
+            "content": "vậy thì",
+            "type": "",
+            "example": {
+                "en": "Well, we might as well do it properly.",
+                "vi": "vậy thì chúng ta phải làm đúng cách."
+            }
+        },
+        {
+            "content": "điều hay",
+            "type": "",
+            "example": {
+                "en": "Well, the really cool thing is that most CEOs are.",
+                "vi": "Vâng, điều hay ho là đa số các Giám đốc điều hành có quan tâm"
+            }
+        },
+        {
+            "content": "điều lành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều thiện",
+            "type": "",
+            "example": {
+                "en": "“Wherefore, be not weary in well-doing, for ye are laying the foundation of a great work.",
+                "vi": "“Vậy nên, chớ mệt mỏi khi làm điều thiện, vì các ngươi đang đặt nền móng cho một công việc lớn lao."
+            }
+        },
+        {
+            "content": "điều tốt",
+            "type": "",
+            "example": {
+                "en": "Yeah, well, it seems like the right thing to do.",
+                "vi": "Uh, nhưng nó là điều tốt nhất có thể làm."
+            }
+        },
+        {
+            "content": "đúng lúc",
+            "type": "",
+            "example": {
+                "en": "Bloody blooming right it's jolly well high time.",
+                "vi": "Hết sức cực kì đúng lúc ấy chứ!"
+            }
+        },
+        {
+            "content": "khỏe mạnh",
+            "type": "adjective",
+            "example": {
+                "en": "I'm glad to say that the boss has been very well lately.",
+                "vi": "Tôi mừng khi thấy gần đây sếp rất khỏe mạnh."
+            }
+        }
+    ]
+}

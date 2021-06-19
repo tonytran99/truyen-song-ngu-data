@@ -1,0 +1,34 @@
+{
+    "word": "amigo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmēɡō/",
+            "/əˈmiɡoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmiːɡəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bạn",
+            "type": "noun",
+            "example": {
+                "en": "It's just great to get the 3 amigos back together again.",
+                "vi": "Thật tuyệt vời khi 3 người bạn lại trở lại bên nhau"
+            }
+        },
+        {
+            "content": "số nhiều amigos",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

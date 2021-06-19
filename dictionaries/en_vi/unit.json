@@ -1,0 +1,77 @@
+{
+    "word": "unit",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞onət/",
+            "/ˈjunət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːnɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đơn vị",
+            "type": "noun",
+            "example": {
+                "en": "Why does Enterprise require the presence of carbon units?",
+                "vi": "Tại sao con tầu Enterprise đòi hỏi sự hiện diện của các đơn vị nền tảng carbon?"
+            }
+        },
+        {
+            "content": "một",
+            "type": "numeral",
+            "example": {
+                "en": "Throughout the United State large numbers of young people enter college every year.",
+                "vi": "Hàng năm có một số lượng lớn thanh niên nhập học đại học trên khắp nước Mỹ."
+            }
+        },
+        {
+            "content": "quắn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nguyên vị",
+            "type": "noun",
+            "example": {
+                "en": "All other units, hold positions.",
+                "vi": "Các đơn vị khác, giữ nguyên vị trí."
+            }
+        },
+        {
+            "content": "pho",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đơn nguyên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "một cái",
+            "type": "",
+            "example": {
+                "en": "A well was drilled, and bathrooms and a heating unit were installed.",
+                "vi": "Anh em đào một cái giếng, và lắp đặt những phòng tắm và một máy sưởi."
+            }
+        },
+        {
+            "content": "thể",
+            "type": "verb noun",
+            "example": {
+                "en": "Water and air are inseparable, united in life and for our life on Earth.",
+                "vi": "Nước và không khí không thể tách rời, chúng nương tựa nhau vì sự sống chúng ta."
+            }
+        }
+    ]
+}

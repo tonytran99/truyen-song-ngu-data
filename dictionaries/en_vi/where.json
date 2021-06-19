@@ -1,0 +1,134 @@
+{
+    "word": "where",
+    "type": [
+        "noun",
+        "adverb",
+        "conjunction",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wer/",
+            "/(h)wɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đâu",
+            "type": "adverb",
+            "example": {
+                "en": "I don't know where to go or what to do.",
+                "vi": "Tôi không biết nên đi đâu hay làm gì."
+            }
+        },
+        {
+            "content": "ở đâu",
+            "type": "adverb, noun",
+            "example": {
+                "en": "Can you tell me where Main Street is?",
+                "vi": "Bạn có thể cho tôi biết đường lớn ở đâu không?"
+            }
+        },
+        {
+            "content": "mà",
+            "type": "conjunction",
+            "example": {
+                "en": "There are also nightclubs where you dance flamenco.",
+                "vi": "Cũng có những hộp đêm mà bạn có thể nhảy flamenco."
+            }
+        },
+        {
+            "content": "ni",
+            "type": "",
+            "example": {
+                "en": "My mission is in Afghanistan, where my unit is.",
+                "vi": "Nhiệm vụ của tôi là ở Áp-ga-ni-tăng, nơi đội của tôi đóng quân."
+            }
+        },
+        {
+            "content": "như thế nào",
+            "type": "",
+            "example": {
+                "en": "Just show me where I have to go.",
+                "vi": "Hãy chỉ cho tôi phải dùng như thế nào."
+            }
+        },
+        {
+            "content": "ni chốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ra làm sao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ đâu",
+            "type": "",
+            "example": {
+                "en": "Where do the airport buses leave from?",
+                "vi": "Xe buýt sân bay khởi hành từ đâu?"
+            }
+        },
+        {
+            "content": "địa điểm",
+            "type": "noun",
+            "example": {
+                "en": "I can tell you where to find your son.",
+                "vi": "Tôi có thể cho cô biết địa điểm để tìm con trai cô."
+            }
+        },
+        {
+            "content": "ở chỗ nào",
+            "type": "",
+            "example": {
+                "en": "I don't know where to start with her.",
+                "vi": "Tôi cũng không biết phải bắt đầu với cô ấy ở chỗ nào nữa."
+            }
+        },
+        {
+            "content": "ở mặt nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở ni nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở nơi nào",
+            "type": "",
+            "example": {
+                "en": "I do not remember ever being where it was so dark.",
+                "vi": "Tôi không nhớ là đã từng ở nơi nào trời tối đến như thế."
+            }
+        },
+        {
+            "content": "ở phía nào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở̛ đâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu",
+            "type": "conjunction",
+            "example": {
+                "en": "If you can take them out, that's where we start.",
+                "vi": "Nếu các người có thể hạ chúng, đó là lúc chúng ta có thể bắt đầu."
+            }
+        }
+    ]
+}

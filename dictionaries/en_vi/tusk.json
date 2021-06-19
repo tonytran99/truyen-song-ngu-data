@@ -1,0 +1,68 @@
+{
+    "word": "tusk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/təsk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʌsk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngà",
+            "type": "noun",
+            "example": {
+                "en": "Tens of thousands of elephants are killed every year for their ivory tusks.",
+                "vi": "Hàng chục ngàn con voi bị giết mỗi năm để lấy ngà."
+            }
+        },
+        {
+            "content": "nanh",
+            "type": "noun",
+            "example": {
+                "en": "No-one knows exactly what the narwhal's tusk is for.",
+                "vi": "Không ai biết chính xác những cái nanh dài của lũ kì lân để làm gì."
+            }
+        },
+        {
+            "content": "răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "răng nanh",
+            "type": "noun",
+            "example": {
+                "en": "It was tall, bigger than a wolf, with teeth like tusks.",
+                "vi": "có cả hàm răng nanh nhọn hoắt nữa."
+            }
+        },
+        {
+            "content": "xé bằng răng nanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đâm bằng ngà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ngà",
+            "type": "proper",
+            "example": {
+                "en": "The elephant just decayed and they just got the tusks.",
+                "vi": "Con voi chỉ mới phân hủy và chúng chỉ mới lấy đi cặp ngà."
+            }
+        }
+    ]
+}

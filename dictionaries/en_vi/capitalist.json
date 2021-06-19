@@ -1,0 +1,51 @@
+{
+    "word": "capitalist",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapədləst/",
+            "/ˈkæpədləst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapɪt(ə)lɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà tư bản",
+            "type": "noun",
+            "example": {
+                "en": "One of the principal capitalist exploiters of the West, sir.",
+                "vi": "Một trong những nhà tư bản đặc trưng khai phá miền Tây, thưa ngài."
+            }
+        },
+        {
+            "content": "tư bản",
+            "type": "noun",
+            "example": {
+                "en": "One of the principal capitalist exploiters of the West, sir.",
+                "vi": "Một trong những nhà tư bản đặc trưng khai phá miền Tây, thưa ngài."
+            }
+        },
+        {
+            "content": "tư bản chủ nghĩa",
+            "type": "adjective noun",
+            "example": {
+                "en": "They were quaking in their capitalist boots!",
+                "vi": "Họ run rẩy trong đôi giày tư bản chủ nghĩa."
+            }
+        },
+        {
+            "content": "tư sản",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

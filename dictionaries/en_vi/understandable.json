@@ -1,0 +1,37 @@
+{
+    "word": "understandable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈstandəb(ə)l/",
+            "/ˌəndərˈstændəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈstandəbl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể hiểu được",
+            "type": "",
+            "example": {
+                "en": "You seem to understand things that shouldn't be possible for you to understand.",
+                "vi": "Cô có vẻ hiểu nhiều chuyện mà cô không nên có thể hiểu được."
+            }
+        },
+        {
+            "content": "dễ hiểu",
+            "type": "",
+            "example": {
+                "en": "Tom's attitude is quite simple to understand.",
+                "vi": "Thái độ của Tom cũng là dễ hiểu."
+            }
+        }
+    ]
+}

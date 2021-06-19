@@ -1,0 +1,35 @@
+{
+    "word": "hypochondriac",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhīpəˈkändrēˌak/",
+            "/ˌhaɪpəˈkɑndriˌæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪpə(ʊ)ˈkɒndrɪak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng nghi bệnh",
+            "type": "",
+            "example": {
+                "en": "I, being a hypochondriac, didn't breathe for two hours.",
+                "vi": "Tôi bị chứng nghi bệnh, không thể thở trong hai giờ"
+            }
+        },
+        {
+            "content": "mắc chứng nghi bệnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

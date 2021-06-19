@@ -1,0 +1,54 @@
+{
+    "word": "kerosene",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerəˌsēn/",
+            "/ˈkɛrəˌsin/",
+            "/ˌkerəˈsēn/",
+            "/ˌkɛrəˈsin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛrəsiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dầu hỏa",
+            "type": "noun",
+            "example": {
+                "en": "Our kitchen was the hallway, and its only appliance was a kerosene stove.",
+                "vi": "Nhà bếp chính là hành lang, và dụng cụ chỉ là một cái bếp dầu hỏa."
+            }
+        },
+        {
+            "content": "dầu lửa",
+            "type": "noun",
+            "example": {
+                "en": "Somebody better not be stealing the kerosene up there.",
+                "vi": "Tốt hơn là đừng có thằng nào tới đây ăn cắp dầu lửa nhé."
+            }
+        },
+        {
+            "content": "kêrôsin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu mỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

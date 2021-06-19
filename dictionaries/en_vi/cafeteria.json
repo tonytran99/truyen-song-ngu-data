@@ -1,0 +1,66 @@
+{
+    "word": "cafeteria",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkafəˈtirēə/",
+            "/ˌkæfəˈtɪriə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kafɪˈtɪərɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà ăn",
+            "type": "noun",
+            "example": {
+                "en": "They also may be growing them. And we serve them in the cafeterias.",
+                "vi": "Chúng cũng có thể trồng cây. Và chúng tôi phục vụ trong nhà ăn."
+            }
+        },
+        {
+            "content": "quán ăn tự phục vụ",
+            "type": "noun",
+            "example": {
+                "en": "But my argument is, \"What's wrong with cafeterias?\"",
+                "vi": "Nhưng phản biện của tôi là, \"Có điểm gì sai ở những quán ăn tự phục vụ?\""
+            }
+        },
+        {
+            "content": "quán cà phê",
+            "type": "noun",
+            "example": {
+                "en": "Can you believe the cafeteria ran out of food?",
+                "vi": "Cậu có thể tin rằng quán cà phê xả ra đồ ăn không?"
+            }
+        },
+        {
+            "content": "căn tin",
+            "type": "",
+            "example": {
+                "en": "And you ate the food in the cafeteria and drank the coffee they gave you?",
+                "vi": "Và anh ăn ở căn tin và uống cafe họ đưa cho?"
+            }
+        },
+        {
+            "content": "căng tin",
+            "type": "",
+            "example": {
+                "en": "The day after you insulted me in the cafeteria, my compliment bag was empty.",
+                "vi": "Sau ngày mà cậu xúc phạm tôi ở căng tin, túi lời khen của tôi trống rỗng."
+            }
+        },
+        {
+            "content": "tiệm cà phê",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

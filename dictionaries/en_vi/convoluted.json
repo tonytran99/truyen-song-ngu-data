@@ -1,0 +1,37 @@
+{
+    "word": "convoluted",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänvəˌlo͞odəd/",
+            "/ˈkɑnvəˌludəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒnvəˈl(j)uːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quấn",
+            "type": "verb",
+            "example": {
+                "en": "Generates the convolution of one vector with another",
+                "vi": "Tạo ra sự quấn lại của véc-tơ này với véc-tơ khác. Name"
+            }
+        },
+        {
+            "content": "xoắn",
+            "type": "",
+            "example": {
+                "en": "That was much less convoluted than what you just said.",
+                "vi": "Đỡ bị xoắn như mấy lí do cô vừa nêu rồi nhé."
+            }
+        }
+    ]
+}

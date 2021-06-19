@@ -1,0 +1,60 @@
+{
+    "word": "accentuate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əkˈsen(t)SHəˌwāt/",
+            "/əkˈsɛn(t)ʃəˌweɪt/",
+            "/akˈsen(t)SHəˌwāt/",
+            "/ækˈsɛn(t)ʃəˌweɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əkˈsɛntʃʊeɪt/",
+            "/əkˈsɛntjʊeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm nổi bật",
+            "type": "",
+            "example": {
+                "en": "Even with your figure, it'll accentuate all the wrong places.",
+                "vi": "Kể cả là với dáng vóc của con, nó sẽ làm nổi bật những chỗ không cần nổi."
+            }
+        },
+        {
+            "content": "nhấn mạnh",
+            "type": "",
+            "example": {
+                "en": "aid tends to accentuate ethnic tensions",
+                "vi": "cái mà viện trợ nhắm tới là nhấn mạnh xung đột sắc tộc"
+            }
+        },
+        {
+            "content": "nhấn trọng âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nêu bật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh dấu trọng âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặt trọng âm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

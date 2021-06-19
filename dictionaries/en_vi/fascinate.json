@@ -1,0 +1,50 @@
+{
+    "word": "fascinate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasəˌnāt/",
+            "/ˈfæsəˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mê hoặc",
+            "type": "",
+            "example": {
+                "en": "I'm fascinated by how people got to be there.",
+                "vi": "Tôi bị mê hoặc bởi cách họ khám phá điều đó."
+            }
+        },
+        {
+            "content": "làm mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyến rũ",
+            "type": "",
+            "example": {
+                "en": "I'm fascinated by the concept of going to a place like Venice",
+                "vi": "Tôi bị quyến rũ bởi ý tưởng mình sẽ đến chơi một nơi như Venice"
+            }
+        },
+        {
+            "content": "thôi miên",
+            "type": "",
+            "example": {
+                "en": "I'm fascinated with the idea",
+                "vi": "Tôi bị thôi miên bởi ý tưởng về"
+            }
+        }
+    ]
+}

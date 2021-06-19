@@ -1,0 +1,48 @@
+{
+    "word": "unprofessional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənprəˈfeSH(ə)n(ə)l/",
+            "/ˌənprəˈfɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnprəˈfɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chuyên nghiệp",
+            "type": "adjective",
+            "example": {
+                "en": "I mean, it was rather unprofessional on her part.",
+                "vi": "Cô ta có vẻ không chuyên nghiệp."
+            }
+        },
+        {
+            "content": "không phải nhà nghề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghiệp dư",
+            "type": "",
+            "example": {
+                "en": "It's unprofessional to be talking about this in front of the patient.",
+                "vi": "Thật nghiệp dư khi nói về chuyện này trước mặt bệnh nhân."
+            }
+        },
+        {
+            "content": "tài tử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

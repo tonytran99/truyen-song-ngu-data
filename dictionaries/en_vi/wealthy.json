@@ -1,0 +1,56 @@
+{
+    "word": "wealthy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwelTHē/",
+            "/ˈwɛlθi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛlθi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giàu",
+            "type": "adjective",
+            "example": {
+                "en": "There is a maniac out there, hunting the wealthy.",
+                "vi": "Một thằng khùng ngoài đó luôn nhắm vào những người giàu có."
+            }
+        },
+        {
+            "content": "giàu có",
+            "type": "adjective",
+            "example": {
+                "en": "Just that he was a very wealthy Hungarian who married two rich women.",
+                "vi": "Chỉ là chàng ấy là một người Hungarian giàu có người đã cưới hai đời vợ giàu có."
+            }
+        },
+        {
+            "content": "có của",
+            "type": "",
+            "example": {
+                "en": "but you had to be pretty wealthy.",
+                "vi": "dù gì thì bạn cũng phải có tiền có của dữ lắm."
+            }
+        },
+        {
+            "content": "nhiều tiền",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phong phú",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

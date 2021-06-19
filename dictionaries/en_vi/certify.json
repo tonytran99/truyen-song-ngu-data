@@ -1,0 +1,57 @@
+{
+    "word": "certify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərdəˌfī/",
+            "/ˈsərdəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːtɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng nhận",
+            "type": "verb",
+            "example": {
+                "en": "To me that is a certified agile miracle.",
+                "vi": "Với tôi, đó là giấy chứng nhận phép lạ của Agile."
+            }
+        },
+        {
+            "content": "chứng thực",
+            "type": "",
+            "example": {
+                "en": "With two certified appraisals?",
+                "vi": "Với hai bản giám định đã được chứng thực?"
+            }
+        },
+        {
+            "content": "cấp giấy chứng nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận thức luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thị thực",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

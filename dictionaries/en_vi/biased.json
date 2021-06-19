@@ -1,0 +1,48 @@
+{
+    "word": "biased",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbīəst/",
+            "/ˈbaɪəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌɪəst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên vị",
+            "type": "adjective",
+            "example": {
+                "en": "I tried to be as kind as I could without being biased.",
+                "vi": "Tôi đã cố gắng viết mà không thiên vị cho cậu."
+            }
+        },
+        {
+            "content": "chệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đối xứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiên lệch",
+            "type": "adjective",
+            "example": {
+                "en": "I have a very biased view on that subject.",
+                "vi": "Tôi có một cái nhìn rất thiên lệch trong việc này."
+            }
+        }
+    ]
+}

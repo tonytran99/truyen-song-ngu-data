@@ -1,0 +1,83 @@
+{
+    "word": "fantasy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfan(t)əsē/",
+            "/ˈfæn(t)əsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfantəsi/",
+            "/ˈfantəzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình ảnh tưởng tượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "fantasia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khả năng tưởng tượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "So, first, I need to have a different fantasy.",
+                "vi": "Nên trước tiên, tớ cần có một sự tưởng tượng khác."
+            }
+        },
+        {
+            "content": "ý nghĩ kỳ quặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảo",
+            "type": "noun",
+            "example": {
+                "en": "Every kill he's acting out a fantasy of revenge.",
+                "vi": "Mỗi lần giết hắn thể hiện ảo tưởng trả thù."
+            }
+        },
+        {
+            "content": "ảo giác",
+            "type": "noun",
+            "example": {
+                "en": "photography had been used to create a fantasy.",
+                "vi": "nhiếp ảnh được dùng để tạo nên ảo giác."
+            }
+        },
+        {
+            "content": "Kỳ ảo",
+            "type": "",
+            "example": {
+                "en": "So... according to this fantasy, who's my real father?",
+                "vi": "Vậy theo câu chuyện kỳ ảo này, thì ai là cha của tôi?"
+            }
+        },
+        {
+            "content": "kỳ ảo",
+            "type": "",
+            "example": {
+                "en": "So... according to this fantasy, who's my real father?",
+                "vi": "Vậy theo câu chuyện kỳ ảo này, thì ai là cha của tôi?"
+            }
+        }
+    ]
+}

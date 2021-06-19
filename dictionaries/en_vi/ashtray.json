@@ -1,0 +1,50 @@
+{
+    "word": "ashtray",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaSHˌtrā/",
+            "/ˈæʃˌtreɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaʃtreɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gạt tàn",
+            "type": "noun",
+            "example": {
+                "en": "I broke your ashtray.",
+                "vi": "Tôi đã làm vỡ đồ gạt tàn của bạn rồi."
+            }
+        },
+        {
+            "content": "gạt tàn thuốc",
+            "type": "",
+            "example": {
+                "en": "I clenched my teeth and ground that cigarette into the ashtray beside me.",
+                "vi": "Tôi nghiến răng và dụi điếu thuốc trong cái gạt tàn thuốc cạnh tôi."
+            }
+        },
+        {
+            "content": "cái gạt tàn",
+            "type": "",
+            "example": {
+                "en": "When I smoke, you follow me with an ashtray.",
+                "vi": "Anh đi theo tôi khắp nơi với cái gạt tàn."
+            }
+        },
+        {
+            "content": "cái gạt tàn thuốc lá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

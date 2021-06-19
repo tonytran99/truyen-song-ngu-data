@@ -1,0 +1,42 @@
+{
+    "word": "lab",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lab/",
+            "/læb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lab/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng thí nghiệm",
+            "type": "noun",
+            "example": {
+                "en": "Straight from the lab used by the security services.",
+                "vi": "Trực tiếp từ phòng thí nghiệm được sử dụng bởi các dịch vụ an ninh."
+            }
+        },
+        {
+            "content": "phòng lab",
+            "type": "noun",
+            "example": {
+                "en": "So to test it in the lab, we did the following experiment.",
+                "vi": "Vậy để kiểm tra trong phòng lab, chúng tôi đã làm thí nghiệm sau."
+            }
+        },
+        {
+            "content": "phòng pha chế",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

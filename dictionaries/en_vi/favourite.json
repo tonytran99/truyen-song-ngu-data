@@ -1,0 +1,72 @@
+{
+    "word": "favourite",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪv(ə)rɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người được ưa chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quý phi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sùng thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sủng thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tâm đắc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vật được ưa thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ái thiếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được mến chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được ưa thích",
+            "type": "",
+            "example": {
+                "en": "The newcomer has become a new favourite.",
+                "vi": "con mới đến thành kẻ được ưa thích"
+            }
+        },
+        {
+            "content": "ưa thích",
+            "type": "verb",
+            "example": {
+                "en": "Their favourite food is raw fish from the frozen rivers.",
+                "vi": "Thức ăn ưa thích của họ là cá tươi từ dòng sông đóng băng."
+            }
+        }
+    ]
+}

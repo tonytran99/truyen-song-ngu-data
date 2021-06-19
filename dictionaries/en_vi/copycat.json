@@ -1,0 +1,41 @@
+{
+    "word": "copycat",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäpēˌkat/",
+            "/ˈkɑpiˌkæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒpɪkat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "a dua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt chước",
+            "type": "",
+            "example": {
+                "en": "What didn't your copycat do to the girl in the field?",
+                "vi": "Kẻ bắt chước của anh đã không làm gì cô gái trên cánh đồng?"
+            }
+        },
+        {
+            "content": "người hay bắt chứơc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "disgustful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskəstfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈɡʌstfʊl/",
+            "/dɪsˈɡʌstf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {
+                "en": "I know a lot of what I've said today disgusts you.",
+                "vi": "Tôi biết rất nhiều tôi nói với anh hôm nay khiến anh ghê tởm."
+            }
+        },
+        {
+            "content": "kinh tởm",
+            "type": "",
+            "example": {
+                "en": "Only one man was exempt from my disgust.",
+                "vi": "Chỉ có một người không làm tôi kinh tởm."
+            }
+        },
+        {
+            "content": "làm ghê tởm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh tởm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

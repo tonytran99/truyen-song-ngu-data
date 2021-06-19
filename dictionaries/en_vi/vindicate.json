@@ -1,0 +1,42 @@
+{
+    "word": "vindicate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvindəˌkāt/",
+            "/ˈvɪndəˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪndɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biện bạch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bào chữa",
+            "type": "",
+            "example": {
+                "en": "With every pull of the trigger, there was some sense of justification, some sense of vindication.",
+                "vi": "Với mỗi pha siết cò, đem đến một chút sự bào chữa, một chút sự xác minh."
+            }
+        },
+        {
+            "content": "chứng minh",
+            "type": "",
+            "example": {
+                "en": "“Wisdom is vindicated by its results.”—Luke 7:35, footnotes.",
+                "vi": "“Sự khôn ngoan được chứng minh bằng kết quả của nó”.—Lu-ca 7:35."
+            }
+        }
+    ]
+}

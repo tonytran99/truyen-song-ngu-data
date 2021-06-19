@@ -1,0 +1,70 @@
+{
+    "word": "chum",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHəm/",
+            "/tʃəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃʌm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạn thân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bạn vàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bồ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cánh hẩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thân với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ở chung phòng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thân mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân thiết với",
+            "type": "",
+            "example": {
+                "en": "You sure seem to be chums with the head of ISIL, friend.",
+                "vi": "Anh có vẻ rất thân thiết với thủ lĩnh của ISIL, anh bạn ạ."
+            }
+        },
+        {
+            "content": "ở chung phòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

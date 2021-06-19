@@ -1,0 +1,51 @@
+{
+    "word": "enunciation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ēˌnənsēˈāSHən/",
+            "/iˌnənsiˈeɪʃən/",
+            "/əˌnənsēˈāSHən/",
+            "/əˌnənsiˈeɪʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnʌnsɪˈeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự phát biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đề",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự nói ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phát âm",
+            "type": "",
+            "example": {
+                "en": "A note of caution: To cultivate your enunciation, you may practice speaking and reading in an overly precise manner.",
+                "vi": "Đôi lời nhắc nhở: Để rèn luyện sự phát âm rõ ràng, bạn có thể tập nói và đọc chính xác hơn mức cần thiết."
+            }
+        },
+        {
+            "content": "sự đề ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

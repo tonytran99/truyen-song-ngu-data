@@ -1,0 +1,76 @@
+{
+    "word": "disconnect",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdiskəˈnekt/",
+            "/ˌdɪskəˈnɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪskəˈnɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngắt",
+            "type": "",
+            "example": {
+                "en": "All live feed communications have ceased or been disconnected.",
+                "vi": "Mọi thiết bị liên lạc trực tuyến đều đã ngắt hoặc ngừng hoạt động."
+            }
+        },
+        {
+            "content": "cắt",
+            "type": "verb noun",
+            "example": {
+                "en": "I suddenly felt very disconnected",
+                "vi": "tôi đột nhiên cảm thấy bị cắt đứt"
+            }
+        },
+        {
+            "content": "cắt rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân chia",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phân cách ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân hoạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo rời ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngắt kết nối",
+            "type": "",
+            "example": {
+                "en": "He found the cell and he would have disconnected.",
+                "vi": "Hắn đã tìm thấy di động và hắn đã ngắt kết nối."
+            }
+        }
+    ]
+}

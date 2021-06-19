@@ -1,0 +1,37 @@
+{
+    "word": "grenade",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈnād/",
+            "/ɡrəˈneɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrəˈneɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lựu đạn",
+            "type": "noun",
+            "example": {
+                "en": "I think we should be able to hit him from grenade range.",
+                "vi": "Chúng ta có thể hạ hắn trong tam lựu đạn."
+            }
+        },
+        {
+            "content": "Lựu đạn",
+            "type": "",
+            "example": {
+                "en": "I think we should be able to hit him from grenade range.",
+                "vi": "Chúng ta có thể hạ hắn trong tam lựu đạn."
+            }
+        }
+    ]
+}

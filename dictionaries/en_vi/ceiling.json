@@ -1,0 +1,61 @@
+{
+    "word": "ceiling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsēliNG/",
+            "/ˈsilɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsiːlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trần",
+            "type": "noun",
+            "example": {
+                "en": "In Japan the ceilings are quite low for foreigners.",
+                "vi": "Đối với người nước ngoài thì ở Nhật trần nhà khá thấp."
+            }
+        },
+        {
+            "content": "trần nhà",
+            "type": "noun",
+            "example": {
+                "en": "In Japan the ceilings are quite low for foreigners.",
+                "vi": "Đối với người nước ngoài thì ở Nhật trần nhà khá thấp."
+            }
+        },
+        {
+            "content": "bậc lương cao nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giá cao nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ cao tối đa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trần bay",
+            "type": "",
+            "example": {
+                "en": "You'll be flying a ceiling of 250 feet when you bail out.",
+                "vi": "Anh phải bay ở trần bay 250 bộ khi anh nhảy dù."
+            }
+        }
+    ]
+}

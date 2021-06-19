@@ -1,0 +1,47 @@
+{
+    "word": "corrosive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrōsiv/",
+            "/kəˈroʊsɪv/",
+            "/kəˈrōziv/",
+            "/kəˈroʊzɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrəʊsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất gặm mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gặm mòn",
+            "type": "",
+            "example": {
+                "en": "Sin is spiritually corrosive.",
+                "vi": "Tội lỗi gặm mòn phần thuộc linh."
+            }
+        },
+        {
+            "content": "phá huỷ dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn da",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

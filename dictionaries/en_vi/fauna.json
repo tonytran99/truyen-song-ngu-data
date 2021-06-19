@@ -1,0 +1,49 @@
+{
+    "word": "fauna",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfônə/",
+            "/ˈfɔnə/",
+            "/ˈfänə/",
+            "/ˈfɑnə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động vật chí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hệ động vật",
+            "type": "noun",
+            "example": {
+                "en": "presented by the local fauna,",
+                "vi": "do sự hiện diện của hệ động vật bản địa,"
+            }
+        },
+        {
+            "content": "danh sách động vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hệ động vật",
+            "type": "",
+            "example": {
+                "en": "presented by the local fauna,",
+                "vi": "do sự hiện diện của hệ động vật bản địa,"
+            }
+        }
+    ]
+}

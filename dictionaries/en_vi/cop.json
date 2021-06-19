@@ -1,0 +1,90 @@
+{
+    "word": "cop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käp/",
+            "/kɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cớm",
+            "type": "noun",
+            "example": {
+                "en": "I'm going up, introducing myself to every cop in the pueblo?",
+                "vi": "Tôi hiên ngang đi tự giới thiệu mình với mọi tên cớm trong đồn sao?"
+            }
+        },
+        {
+            "content": "cảnh sát",
+            "type": "noun",
+            "example": {
+                "en": "We're getting out of here. The cops are coming.",
+                "vi": "Mau rời khỏi đây. Cảnh sát tới bây giờ."
+            }
+        },
+        {
+            "content": "suốt",
+            "type": "noun",
+            "example": {
+                "en": "I have been a cop for almost as long as you've been alive.",
+                "vi": "Chú đã làm cảnh sát trong suốt... quãng thời gian cháu sống trên đời đấy."
+            }
+        },
+        {
+            "content": "bắt được",
+            "type": "",
+            "example": {
+                "en": "They will be caught if the cops are looking for them, so you tell them to, would you?",
+                "vi": "Nếu cảnh sát mà lùng thì sẽ bắt được họ thôi, nên nói với họ đi, được không?"
+            }
+        },
+        {
+            "content": "con chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mật thám",
+            "type": "",
+            "example": {
+                "en": "Were you the ones who called the cops?",
+                "vi": "Cậu biết ai được gọi là mật thám không?"
+            }
+        },
+        {
+            "content": "suốt chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bắt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tóm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tóm được",
+            "type": "",
+            "example": {
+                "en": "Everybody wants a piece of a cop killer.",
+                "vi": "Thằng nào cũng muốn tóm được kẻ sát cớm."
+            }
+        }
+    ]
+}

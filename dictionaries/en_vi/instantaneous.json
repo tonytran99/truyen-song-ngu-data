@@ -1,0 +1,42 @@
+{
+    "word": "instantaneous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinstənˈtānēəs/",
+            "/ˌɪnstənˈteɪniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnst(ə)nˈteɪnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tức thời",
+            "type": "adjective",
+            "example": {
+                "en": "Arousal states for clients 1 and 6 were instantaneous.",
+                "vi": "Sự hứng tình biểu thị ở khách hàng 1 và 6 xảy ra ngay tức thời."
+            }
+        },
+        {
+            "content": "xảy ra ngay lập tức",
+            "type": "adjective",
+            "example": {
+                "en": "Forgiveness is not always instantaneous as it was with the Amish.",
+                "vi": "Sự tha thứ không phải luôn luôn xảy ra ngay lập tức như trong trường hợp của người Amish."
+            }
+        },
+        {
+            "content": "được làm ngay",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

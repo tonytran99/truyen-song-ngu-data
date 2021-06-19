@@ -1,0 +1,52 @@
+{
+    "word": "unauthorized",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈôTHəˌrīzd/",
+            "/ˌənˈɔθəˌraɪzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈɔːθərʌɪzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trái phép",
+            "type": "",
+            "example": {
+                "en": "The leak said it was unauthorized domestic surveillance.",
+                "vi": "Người bắn tin nói đó là giám sát nội địa trái phép."
+            }
+        },
+        {
+            "content": "không chính đáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được phép",
+            "type": "",
+            "example": {
+                "en": "We've two unauthorized personnel in the tower.",
+                "vi": "Có 2 người không được phép vào Đài kiểm soát."
+            }
+        },
+        {
+            "content": "lạm dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoâng ñöôïc pheùp, traùi pheùp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

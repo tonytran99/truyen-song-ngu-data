@@ -1,0 +1,73 @@
+{
+    "word": "dew",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/d(y)o͞o/",
+            "/d(j)u/",
+            "/ˌdē ˌē ˈdəbəlyo͞o/",
+            "/ˌdi ˌi ˈdəbəlju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sương",
+            "type": "noun",
+            "example": {
+                "en": "The plants of the good land were now dependent on the dew.",
+                "vi": "Cây cối ở xứ sở tốt tươi này giờ đây chỉ trông chờ vào sương móc."
+            }
+        },
+        {
+            "content": "làm ướt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ướt sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rơi xuống như sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sương xuống",
+            "type": "",
+            "example": {
+                "en": "Before the dew comes, it should have been taken in.",
+                "vi": "Trước khi sương xuống, phải đem nó vô trong."
+            }
+        },
+        {
+            "content": "sự tươi mát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọng lại như sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Sương",
+            "type": "",
+            "example": {
+                "en": "And dew will stay all night on my branches.",
+                "vi": "Sương sẽ đọng cả đêm trên các nhánh mình."
+            }
+        }
+    ]
+}

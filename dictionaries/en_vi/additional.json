@@ -1,0 +1,59 @@
+{
+    "word": "additional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdiSH(ə)n(ə)l/",
+            "/əˈdɪʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdɪʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thêm",
+            "type": "adjective",
+            "example": {
+                "en": "If you give only part of the answer, that will allow others the opportunity to give additional comments.",
+                "vi": "Nếu bạn chỉ trả lời một phần câu hỏi, người khác sẽ có cơ hội bình luận thêm."
+            }
+        },
+        {
+            "content": "bổ sung",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "You'd be a welcome addition to the community, a smart and beautiful woman.",
+                "vi": "Cô sẽ là bổ sung cho cộng đồng này, một người phụ nữ thông minh xinh đẹp."
+            }
+        },
+        {
+            "content": "phụ vào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thêm vào",
+            "type": "noun",
+            "example": {
+                "en": "Scholars acknowledge that those two verses were likely later additions.",
+                "vi": "Các học giả công nhận rằng hai câu đó có lẽ đã được thêm vào sau này."
+            }
+        },
+        {
+            "content": "tăng thêm",
+            "type": "adjective",
+            "example": {
+                "en": "Reading it in your mother tongue would no doubt bring you additional joy.",
+                "vi": "Đọc bằng tiếng mẹ đẻ chắc hẳn làm bạn tăng thêm niềm vui."
+            }
+        }
+    ]
+}

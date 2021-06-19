@@ -1,0 +1,39 @@
+{
+    "word": "freighter",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrādər/",
+            "/ˈfreɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfreɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy bay chuyên chở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người chất hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàu chuyên chở",
+            "type": "",
+            "example": {
+                "en": "He was a navigator on a spice freighter.",
+                "vi": "Ông ấy là 1 thuỷ thủ trên các tàu chuyên chở."
+            }
+        }
+    ]
+}

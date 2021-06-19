@@ -1,0 +1,50 @@
+{
+    "word": "corps",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kôr/",
+            "/kɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quân đoàn",
+            "type": "",
+            "example": {
+                "en": "Yes, but I served in the army's engineer corps.",
+                "vi": "Vâng, nhưng tôi từng phục vụ trong quân đoàn kỹ sư quân đội."
+            }
+        },
+        {
+            "content": "binh đoàn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đoàn",
+            "type": "noun",
+            "example": {
+                "en": "Madam Chancellor, members of the diplomatic corps honoured guests.",
+                "vi": "Thưa bà Thống soái, thưa các thành viên ngoại giao đoàn, thưa các vị khách danh dự,"
+            }
+        },
+        {
+            "content": "Quân đoàn",
+            "type": "",
+            "example": {
+                "en": "Maj. Schroeder, 11th army corps.",
+                "vi": "Tôi là Thiếu tá Schroeder, Quân đoàn 11."
+            }
+        }
+    ]
+}

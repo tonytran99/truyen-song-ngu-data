@@ -1,0 +1,63 @@
+{
+    "word": "creak",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krēk/",
+            "/krik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cọt kẹt",
+            "type": "",
+            "example": {
+                "en": "Every plank, every rail, every spar, all at once, began to creak.",
+                "vi": "Mọi tấm ván ở khắp nơi, mọi cột trụ đột nhiên bắt đầu cọt kẹt."
+            }
+        },
+        {
+            "content": "cót két",
+            "type": "",
+            "example": {
+                "en": "A stair creaked , and a squeaky mouse scurried noisily through the wall .",
+                "vi": "Cầu thang cót két , và một con chuột vụt chạy qua bức tường kêu chít chít ."
+            }
+        },
+        {
+            "content": "kẽo kẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng cót két",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng cọt kẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng kẽo kẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ót ét",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

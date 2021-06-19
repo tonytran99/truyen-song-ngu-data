@@ -1,0 +1,69 @@
+{
+    "word": "vendor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvendər/",
+            "/ˈvɛndər/",
+            "/ˈvenˌdôr/",
+            "/ˈvɛnˌdɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛndə/",
+            "/ˈvɛndɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngưởi bán hàng rong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vender",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vending_machine",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bán hàng rong",
+            "type": "noun",
+            "example": {
+                "en": "Street vendors vie for the attention of passing tourists.",
+                "vi": "Những người bán hàng rong đua nhau mời mọc du khách qua lại."
+            }
+        },
+        {
+            "content": "người bán nhà đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà cung cấp",
+            "type": "",
+            "example": {
+                "en": "Samsung , Acer , and a few other vendors have signed on to build Chromebooks .",
+                "vi": "Samsung , Acer và một vài nhà cung cấp khác đã ký kết để xây dựng Chromebook ."
+            }
+        },
+        {
+            "content": "người bán rong",
+            "type": "",
+            "example": {
+                "en": "Soon, I might even grow accustomed to the storm of car horns and vendors.",
+                "vi": "Tôi nhanh chóng làm quen với cơn bão còi xe và người bán rong."
+            }
+        }
+    ]
+}

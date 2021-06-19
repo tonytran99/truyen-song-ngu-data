@@ -1,0 +1,49 @@
+{
+    "word": "cooker",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈko͝okər/",
+            "/ˈkʊkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʊkə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bếp",
+            "type": "noun",
+            "example": {
+                "en": "They're very good cookers.",
+                "vi": "Đó là loại bếp ga tốt."
+            }
+        },
+        {
+            "content": "lò",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người giả mạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người khai gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nồi nấu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

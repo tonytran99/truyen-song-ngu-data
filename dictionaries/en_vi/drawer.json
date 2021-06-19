@@ -1,0 +1,63 @@
+{
+    "word": "drawer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrôr/",
+            "/ˈdrɔr/",
+            "/ˈdrôər/",
+            "/ˈdrɔər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɔː/",
+            "/ˈdrɔː(r)ə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngăn kéo",
+            "type": "noun",
+            "example": {
+                "en": "But you don't make good policy by hiding things in a drawer.",
+                "vi": "Nhưng bạn không làm chính sách tốt bằng cách ẩn những điều trong một ngăn kéo."
+            }
+        },
+        {
+            "content": "ngăn",
+            "type": "noun",
+            "example": {
+                "en": "Tom has a drawer full of USB cables.",
+                "vi": "Tom có một ngăn tủ đầy cáp USB."
+            }
+        },
+        {
+            "content": "người kéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lính",
+            "type": "",
+            "example": {
+                "en": "I quickly picked up the booklets and put them in a drawer that the soldiers had already searched.",
+                "vi": "Tôi mau mắn lấy các quyển sách đó để vào ngăn kéo mà người lính đã lục xong."
+            }
+        },
+        {
+            "content": "người nhổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người vẽ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

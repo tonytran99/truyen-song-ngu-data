@@ -1,0 +1,57 @@
+{
+    "word": "detach",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtaCH/",
+            "/dəˈtætʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtatʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {
+                "en": "The shower of floaters and the light flashes are usually due to some detachment of the retina.",
+                "vi": "Hàng loạt đốm và lóe sáng xảy ra thường là do nơi võng mạc bị tách ra."
+            }
+        },
+        {
+            "content": "phái",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gỡ ra",
+            "type": "",
+            "example": {
+                "en": "The stinger detaches itself from the tongue and injects the eggs.",
+                "vi": "Cái vòi tự gỡ ra khỏi lưỡi và cấy trứng."
+            }
+        },
+        {
+            "content": "lấy riêng ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gỡ bỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

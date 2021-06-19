@@ -1,0 +1,48 @@
+{
+    "word": "adrenal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdrēnl/",
+            "/əˈdrinl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdriːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thượng thận",
+            "type": "",
+            "example": {
+                "en": "What are the odds he's got no adrenal glands?",
+                "vi": "Tỉ lệ thế nào về việc ông ta mất tuyến thượng thận?"
+            }
+        },
+        {
+            "content": "trên thận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyến thượng thận",
+            "type": "",
+            "example": {
+                "en": "What are the odds he's got no adrenal glands?",
+                "vi": "Tỉ lệ thế nào về việc ông ta mất tuyến thượng thận?"
+            }
+        },
+        {
+            "content": "tuyến trên thận",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

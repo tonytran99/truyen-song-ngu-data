@@ -1,0 +1,105 @@
+{
+    "word": "verify",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈverəˌfī/",
+            "/ˈvɛrəˌfaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛrɪfʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thẩm tra",
+            "type": "",
+            "example": {
+                "en": "Experts will have to verify it, of course.",
+                "vi": "Tất nhiên là phải để các chuyên gia thẩm tra đã."
+            }
+        },
+        {
+            "content": "xác minh",
+            "type": "",
+            "example": {
+                "en": "We viewed them as enemy until we could verify who it was.",
+                "vi": "Chúng tôi coi họ là kẻ thù cho đến khi có thể xác minh họ là ai."
+            }
+        },
+        {
+            "content": "kiểm chứng",
+            "type": "",
+            "example": {
+                "en": "Knowledge of outside temperature can be verified by scientific proof.",
+                "vi": "Sự hiểu biết về nhiệt độ bên ngoài có thể được kiểm chứng bởi bằng chứng khoa học."
+            }
+        },
+        {
+            "content": "kiểm lại",
+            "type": "",
+            "example": {
+                "en": "The bishop verifies that the requirements have been completed.",
+                "vi": "Vị giám trợ kiểm lại để chắc rằng những điều đòi hỏi đã được hoàn tất."
+            }
+        },
+        {
+            "content": "kiểm tra",
+            "type": "verb noun",
+            "example": {
+                "en": "Now we'll just need to verify that the feed's reaching the central command center.",
+                "vi": "Bây giờ chúng ta chỉ cần kiểm tra lại tín hiệu truyền tới trung tâm điều hành."
+            }
+        },
+        {
+            "content": "thử lại",
+            "type": "",
+            "example": {
+                "en": "Because I need some kind of proof, some kind of verifiable, empirical data.",
+                "vi": "Nguyên nhân Tôi cần cách thức oph nào đó không thấm, loại dữ liệu thử lại được, thực nghiệm nào đó"
+            }
+        },
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chứng",
+            "type": "",
+            "example": {
+                "en": "There will be a lot of people in the restaurant to verify that.",
+                "vi": "Có rất nhiều người ở nhà hàng để làm chứng."
+            }
+        },
+        {
+            "content": "nghiệm",
+            "type": "verb",
+            "example": {
+                "en": "To verify his skills",
+                "vi": "Chính là do thủ tục và lấy kinh nghiệm"
+            }
+        },
+        {
+            "content": "giám sát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giám thị",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kiểm nghiệm, kiểm chứng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

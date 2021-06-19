@@ -1,0 +1,55 @@
+{
+    "word": "usable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞ozəb(ə)l/",
+            "/ˈjuzəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːzəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dùng được",
+            "type": "adjective",
+            "example": {
+                "en": "It is no longer usable for anything except to be thrown outside+ to be trampled on by men.",
+                "vi": "Nó chẳng dùng được vào việc gì nữa, ngoại trừ quăng ra ngoài+ cho người ta giẫm lên."
+            }
+        },
+        {
+            "content": "khả dụng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có thể dùng được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể sử dụng được",
+            "type": "",
+            "example": {
+                "en": "And that will turn it into actually usable water.",
+                "vi": "Và điều này sẽ biến nó thành nước có thể sử dụng được."
+            }
+        },
+        {
+            "content": "sử dụng được",
+            "type": "",
+            "example": {
+                "en": "And that will turn it into actually usable water.",
+                "vi": "Và điều này sẽ biến nó thành nước có thể sử dụng được."
+            }
+        }
+    ]
+}

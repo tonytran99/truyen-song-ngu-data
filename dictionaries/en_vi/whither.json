@@ -1,0 +1,55 @@
+{
+    "word": "whither",
+    "type": [
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)wiT͟Hər/",
+            "/ˈ(h)wɪðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đâu",
+            "type": "adverb",
+            "example": {
+                "en": "And whither were you riding now, signior?",
+                "vi": "và ngài đang đi đâu đấy, lãnh chúa?"
+            }
+        },
+        {
+            "content": "đến đâu",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "nơi mà",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "ni mà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ni đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tới đâu",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

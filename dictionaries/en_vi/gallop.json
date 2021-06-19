@@ -1,0 +1,79 @@
+{
+    "word": "gallop",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaləp/",
+            "/ˈɡæləp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaləp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước đại",
+            "type": "",
+            "example": {
+                "en": "The father now gallops, with terror half wild,",
+                "vi": "Người cha giờ phi nước đại, với khủng bố nửa hoang dã,"
+            }
+        },
+        {
+            "content": "phi nước đại",
+            "type": "",
+            "example": {
+                "en": "The father now gallops, with terror half wild,",
+                "vi": "Người cha giờ phi nước đại, với khủng bố nửa hoang dã,"
+            }
+        },
+        {
+            "content": "nhanh",
+            "type": "adjective adverb",
+            "example": {
+                "en": "At a full gallop, it's two days to the capital.",
+                "vi": "Phi ngựa nhanh hết sức thì hay ngày cũng mới tới được kinh thành."
+            }
+        },
+        {
+            "content": "phi",
+            "type": "verb",
+            "example": {
+                "en": "Let us celebrate our new friendship by a gallop over the moors.",
+                "vi": "Vậy chúng ta hãy ăn mừng tình bạn mới này bằng một cuộc phi ngựa trên đồng hoang."
+            }
+        },
+        {
+            "content": "chạy nhanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói nhanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước phi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiến triển nhanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc nhanh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "word": "hiss",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/his/",
+            "/hɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuỵt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "huýt gió",
+            "type": "",
+            "example": {
+                "en": "When it hits the water, you can hear it hiss.",
+                "vi": "Khi nó chạm mặt nước, con có thể nghe nó huýt gió."
+            }
+        },
+        {
+            "content": "huýt sáo chê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu xì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói rít lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng huýt gió",
+            "type": "noun",
+            "example": {
+                "en": "a hiss and a sound.",
+                "vi": "bằng tiếng huýt gió và âm thanh."
+            }
+        },
+        {
+            "content": "tiếng nói rít lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng rít",
+            "type": "noun",
+            "example": {
+                "en": "And, believe it or not, there were hisses in the audience.",
+                "vi": "Và tin hay không tùy bạn, có tiếng rít dưới khán đài."
+            }
+        },
+        {
+            "content": "tiếng xuỵt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng xì",
+            "type": "",
+            "example": {
+                "en": "And then there's the faint, relatively short-wavelength radio hiss that fills the entire Universe.",
+                "vi": "Và sau đó là tiếng xì xào rất nhỏ từ bước sóng radio tương đối ngắn tràn ngập trong Vũ trụ."
+            }
+        }
+    ]
+}

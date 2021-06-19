@@ -1,0 +1,48 @@
+{
+    "word": "carol",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerəl/",
+            "/ˈkɛrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkar(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài hát mừng",
+            "type": "",
+            "example": {
+                "en": "Originally, it wasn’t a Christmas carol at all.",
+                "vi": "Ban đầu, đó không phải là một bài hát mừng Giáng Sinh."
+            }
+        },
+        {
+            "content": "hát mừng",
+            "type": "",
+            "example": {
+                "en": "Mama said we could stay up till midnight and sing Christmas carols.",
+                "vi": "Mẹ nói chúng con có thể thức đến nửa đêm và hát mừng giáng sinh ạ."
+            }
+        },
+        {
+            "content": "hót ríu rít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng hót ríu rít",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

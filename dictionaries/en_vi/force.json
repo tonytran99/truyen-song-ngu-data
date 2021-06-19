@@ -1,0 +1,374 @@
+{
+    "word": "force",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrs/",
+            "/fɔrs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lực",
+            "type": "noun",
+            "example": {
+                "en": "He said military force would not be needed.",
+                "vi": "Anh ta nói lực lượng quân đội sẽ là không cần thiết."
+            }
+        },
+        {
+            "content": "ép",
+            "type": "verb",
+            "example": {
+                "en": "Sami forced Layla to be a drug mule.",
+                "vi": "Sami ép Layla làm đồng phạm buôn thuốc cấm."
+            }
+        },
+        {
+            "content": "sức",
+            "type": "noun",
+            "example": {
+                "en": "I hear he's a force to be reckoned with.",
+                "vi": "Tôi nghe được anh ta là một sức mạnh cần được tính tới đó."
+            }
+        },
+        {
+            "content": "sức mạnh",
+            "type": "noun",
+            "example": {
+                "en": "I hear he's a force to be reckoned with.",
+                "vi": "Tôi nghe được anh ta là một sức mạnh cần được tính tới đó."
+            }
+        },
+        {
+            "content": "buộc",
+            "type": "verb",
+            "example": {
+                "en": "He was forced to resign as prime minister.",
+                "vi": "Ông ta bị buộc phải từ chức thủ tướng."
+            }
+        },
+        {
+            "content": "bắt",
+            "type": "verb",
+            "example": {
+                "en": "The police forced a confession from her.",
+                "vi": "Cảnh sát đã bắt cô ta thú tội."
+            }
+        },
+        {
+            "content": "gượng",
+            "type": "adjective",
+            "example": {
+                "en": "Did that evil stare seem forced or natural?",
+                "vi": "Cái nhìn đáng sợ đó gượng gạo hay là tự nhiên?"
+            }
+        },
+        {
+            "content": "bắt buộc",
+            "type": "",
+            "example": {
+                "en": "He was forced to return to Washington.",
+                "vi": "Anh ấy bị bắt buộc phải quay về Washington."
+            }
+        },
+        {
+            "content": "cưỡng ép",
+            "type": "",
+            "example": {
+                "en": "It's rumored that he's practicing polygamy and forced marriages.",
+                "vi": "Có tin đồn ông ta thực hiện chế độ đa thê và cưỡng ép hôn nhân."
+            }
+        },
+        {
+            "content": "cưỡng",
+            "type": "verb",
+            "example": {
+                "en": "Let's just wait until we're ready instead of being forced into it.",
+                "vi": "Hãy đợi đến khi chúng ta sẵn sàng thay vì phải miễn cưỡng."
+            }
+        },
+        {
+            "content": "bạo lực",
+            "type": "noun",
+            "example": {
+                "en": "They realized that using force against force doesn't work.",
+                "vi": "Họ nhận ra rằng dùng bạo lực chống lại bạo lực không hề hiệu quả."
+            }
+        },
+        {
+            "content": "bức",
+            "type": "verb",
+            "example": {
+                "en": "So you're applying a force on a drill towards the wall.",
+                "vi": "Vậy bạn đang tác dụng một lực khi khoan tới bức tường."
+            }
+        },
+        {
+            "content": "cái sức mạnh",
+            "type": "noun",
+            "example": {
+                "en": "the most formidable force in the world for large-scale agricultural endeavors.",
+                "vi": "cái sức mạnh vô địch trên thế giới cho các kế hoạch tầm lớn sản xuất nông nghiệp."
+            }
+        },
+        {
+            "content": "nguồn lực",
+            "type": "noun",
+            "example": {
+                "en": "There's two great forces that are both volitional but inevitable.",
+                "vi": "Có hai nguồn lực lớn đều tự nguyện nhưng không thể tránh khỏi."
+            }
+        },
+        {
+            "content": "phá",
+            "type": "verb",
+            "example": {
+                "en": "Open this door or we will force it!",
+                "vi": "Mở cửa ra nếu không chúng tôi sẽ phá cửa!"
+            }
+        },
+        {
+            "content": "chiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt ép",
+            "type": "verb",
+            "example": {
+                "en": "Why must you all force me up and unearth me to sorrows?",
+                "vi": "Tại sao các người cứ bắt ép và đào bới những đau buồn của ta?"
+            }
+        },
+        {
+            "content": "bức bách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bức hiếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cưỡng bức",
+            "type": "verb",
+            "example": {
+                "en": "When he found me naked, he forced me.",
+                "vi": "Khi ổng tìm thấy mẹ trần truồng, ổng đã cưỡng bức mẹ."
+            }
+        },
+        {
+            "content": "cưỡng đoạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiếp tróc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiệu lực",
+            "type": "",
+            "example": {
+                "en": "Good citizens of Cheesebridge, the curfew is in force.",
+                "vi": "Hỡi những lương dân của Cheesebridge, lệnh giới nghiêm chính thức có hiệu lực."
+            }
+        },
+        {
+            "content": "hơi sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm chín sớm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nở sớm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năng lượng",
+            "type": "noun",
+            "example": {
+                "en": "When Rogue touches someone, she takes their energy, their life force.",
+                "vi": "Khi Rogue chạm vào ai đó, cô ta lấy năng lượng của họ, năng lượng sống của họ."
+            }
+        },
+        {
+            "content": "quyền lực",
+            "type": "noun",
+            "example": {
+                "en": "His spirit is more powerful than any force that man possesses.",
+                "vi": "Thánh linh Ngài mạnh hơn bất cứ quyền lực nào của con người."
+            }
+        },
+        {
+            "content": "quân lực;",
+            "type": "",
+            "example": {
+                "en": "Robb will have sent a force to retake Winterfell by now.",
+                "vi": "Ngay lúc này Robb đã cử quân lực tới đoạt lại Winterfell."
+            }
+        },
+        {
+            "content": "quân đội",
+            "type": "noun",
+            "example": {
+                "en": "He said military force would not be needed.",
+                "vi": "Anh ta nói lực lượng quân đội sẽ là không cần thiết."
+            }
+        },
+        {
+            "content": "sức lực",
+            "type": "noun",
+            "example": {
+                "en": "This involves one’s whole heart, mind, soul, and vital force.",
+                "vi": "Điều này bao hàm sự hết lòng, hết trí, hết tâm hồn và hết sức lực."
+            }
+        },
+        {
+            "content": "sức thuyết phục",
+            "type": "",
+            "example": {
+                "en": "There he felt a compelling force urging him to disembark.",
+                "vi": "Nơi đó ông đã cảm thấy có một sức thuyết phục ông là phải lên bờ."
+            }
+        },
+        {
+            "content": "sự bắt buộc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự sinh động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thác nước",
+            "type": "",
+            "example": {
+                "en": "The waterfalls are straining to hold back the force that is building up above them.",
+                "vi": "Thác nước như đang căng mình để giữ lực đang lớn dần lên phía trên nó."
+            }
+        },
+        {
+            "content": "thúc ép",
+            "type": "verb",
+            "example": {
+                "en": "Pressure forcing a solvent through a membrane like when a water balloon gets too big and then explodes.",
+                "vi": "Sức ép thúc ép sự hoà tan xuyên qua lớp màng như khi những quả bong bóng nước bị thổi quá to và vỡ tung."
+            }
+        },
+        {
+            "content": "thúc đẩy",
+            "type": "",
+            "example": {
+                "en": "The fear became the driving force behind what I did.",
+                "vi": "Nỗi sợ đã trở thành một lực thúc đẩy mọi việc tôi làm."
+            }
+        },
+        {
+            "content": "tác dụng",
+            "type": "noun",
+            "example": {
+                "en": "So you're applying a force on a drill towards the wall.",
+                "vi": "Vậy bạn đang tác dụng một lực khi khoan tới bức tường."
+            }
+        },
+        {
+            "content": "vũ lực",
+            "type": "noun",
+            "example": {
+                "en": "This mission was based on the threat of force.",
+                "vi": "Chiến dịch này dựa vào sự đe dọa sử dụng vũ lực."
+            }
+        },
+        {
+            "content": "ép buộc",
+            "type": "",
+            "example": {
+                "en": "I don't generally give interviews, but I was forced to.",
+                "vi": "Bình thường, tôi không trả lời phỏng vấn, nhưng tôi đã bị ép buộc."
+            }
+        },
+        {
+            "content": "ép uổng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ý nghĩa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đẩy tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ảnh hưởng",
+            "type": "verb noun",
+            "example": {
+                "en": "There are both seen and unseen forces that influence our choices.",
+                "vi": "Có các lực lượng hữu hình lẫn vô hình ảnh hưởng đến những điều chúng ta lựa chọn."
+            }
+        },
+        {
+            "content": "ấn tượng sâu sắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bách",
+            "type": "noun verb numeral",
+            "example": {
+                "en": "They should not force their families and others to obey them.",
+                "vi": "Họ không nên cưỡng bách gia đình mình và những người khác phải tuân theo họ."
+            }
+        },
+        {
+            "content": "thế",
+            "type": "conjunction verb noun",
+            "example": {
+                "en": "Don' t exaggerate.Those girls were forced on us",
+                "vi": "Em đừng có cường điệu như thế chứ, họ chỉ đến vì công việc thôi"
+            }
+        },
+        {
+            "content": "lực lượng",
+            "type": "noun",
+            "example": {
+                "en": "He said military force would not be needed.",
+                "vi": "Anh ta nói lực lượng quân đội sẽ là không cần thiết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "consumer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈso͞omər/",
+            "/kənˈsumər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsjuːmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người tiêu dùng",
+            "type": "noun",
+            "example": {
+                "en": "Banks, consumers, we're moving money around in circles.",
+                "vi": "Ngân hàng, người tiêu dùng, chúng ta cho tiền chạy vòng quanh."
+            }
+        },
+        {
+            "content": "người tiêu thụ",
+            "type": "",
+            "example": {
+                "en": "Its inhabitants are among the biggest water consumers in the world.",
+                "vi": "Cư dân thành phố là những người tiêu thụ nhiều nước nhất thế giới."
+            }
+        },
+        {
+            "content": "khách hàng",
+            "type": "noun",
+            "example": {
+                "en": "Walmart didn't have organic food until the consumer demand was there.",
+                "vi": "Và cũng chỉ đến khi khách hàng đòi hỏi thì Walmart mới bày bán thực phẩm hữu cơ."
+            }
+        },
+        {
+            "content": "người thuê bao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người tiêu dùng",
+            "type": "",
+            "example": {
+                "en": "Banks, consumers, we're moving money around in circles.",
+                "vi": "Ngân hàng, người tiêu dùng, chúng ta cho tiền chạy vòng quanh."
+            }
+        }
+    ]
+}

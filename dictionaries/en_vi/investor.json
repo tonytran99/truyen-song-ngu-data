@@ -1,0 +1,53 @@
+{
+    "word": "investor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/inˈvestər/",
+            "/ɪnˈvɛstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầu tư",
+            "type": "",
+            "example": {
+                "en": "And my investor agreed that we should make a move before the price went up.",
+                "vi": "Và nhà đầu tư của tôi đồng ý rằng chúng tôi nên ra tay trước khi giá lên."
+            }
+        },
+        {
+            "content": "nhà đầu tư",
+            "type": "noun",
+            "example": {
+                "en": "And my investor agreed that we should make a move before the price went up.",
+                "vi": "Và nhà đầu tư của tôi đồng ý rằng chúng tôi nên ra tay trước khi giá lên."
+            }
+        },
+        {
+            "content": "người đầu tư",
+            "type": "",
+            "example": {
+                "en": "Your investors, whom I represent, are deeply concerned.",
+                "vi": "Những người đầu tư cho ông mà tôi đại diện, đang rất quan tâm về vấn đề này."
+            }
+        },
+        {
+            "content": "Nhà đầu tư",
+            "type": "",
+            "example": {
+                "en": "And this data can be used by investors.",
+                "vi": "Nhà đầu tư có thể sử dụng nó."
+            }
+        }
+    ]
+}

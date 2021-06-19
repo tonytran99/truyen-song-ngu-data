@@ -1,0 +1,42 @@
+{
+    "word": "di",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈˌdē ˈī/",
+            "/ˈˌdi ˈaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hai",
+            "type": "numeral adjective",
+            "example": {
+                "en": "If Gordon dies, it's a weight we'll both have to carry.",
+                "vi": "Nếu Gordon chết, đó là một gánh nặng cả hai ta phải gánh vác."
+            }
+        },
+        {
+            "content": "song",
+            "type": "conjunction noun Prefix",
+            "example": {}
+        },
+        {
+            "content": "đôi",
+            "type": "noun adverb",
+            "example": {
+                "en": "But after my sister died, my view changed.",
+                "vi": "Nhưng khi em gái sinh đôi của tôi qua đời, quan điểm của tôi đã thay đổi."
+            }
+        }
+    ]
+}

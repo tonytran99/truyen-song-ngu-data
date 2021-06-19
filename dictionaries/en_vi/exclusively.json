@@ -1,0 +1,47 @@
+{
+    "word": "exclusively",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsklo͞osəvlē/",
+            "/ɪkˈsklusəvli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskluːsɪvli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dành riêng",
+            "type": "",
+            "example": {
+                "en": "Don't you know this is an exclusive club?",
+                "vi": "Cậu không biết đây là câu lạc bộ dành riêng sao?"
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "Being that I kept exclusively to such company, it's not so unusual.",
+                "vi": "Thế nên việc chỉ chơi thân với một nhóm thế này cũng không có gì kỳ lạ."
+            }
+        },
+        {
+            "content": "chỉ thôi",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "không tính",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

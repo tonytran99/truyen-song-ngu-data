@@ -1,0 +1,47 @@
+{
+    "word": "halve",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hav/",
+            "/hæv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɑːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chia đôi",
+            "type": "",
+            "example": {
+                "en": "could we halve the catch and double the price for the fishermen",
+                "vi": "liệu chúng ta có thể chia đôi mẻ cá và nhân đôi lợi nhuận cho ngư dân"
+            }
+        },
+        {
+            "content": "giảm một nửa",
+            "type": "",
+            "example": {
+                "en": "Yields increase, and you halve the input costs.",
+                "vi": "Sản lượng tăng, và bạn giảm một nửa chi phí đầu vào."
+            }
+        },
+        {
+            "content": "chia đều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khớp ngoạm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

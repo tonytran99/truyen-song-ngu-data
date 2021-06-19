@@ -1,0 +1,48 @@
+{
+    "word": "cigarette",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsiɡəˌret/",
+            "/ˈsɪɡəˌrɛt/",
+            "/ˌsiɡəˈret/",
+            "/ˌsɪɡəˈrɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪɡəˈrɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc lá",
+            "type": "noun",
+            "example": {
+                "en": "Bidis deliver several times more tar, nicotine, and carbon monoxide than do regular cigarettes.",
+                "vi": "Thuốc này có nhiều nhựa thuốc lá, nicotine và cacbon monoxit hơn gấp mấy lần thuốc lá thường."
+            }
+        },
+        {
+            "content": "điếu thuốc lá",
+            "type": "noun",
+            "example": {
+                "en": "The third week, he threw away his last cigarette.",
+                "vi": "Tuần lễ thứ ba, cậu đã vứt bỏ điếu thuốc lá cuối cùng."
+            }
+        },
+        {
+            "content": "Thuốc lá",
+            "type": "",
+            "example": {
+                "en": "Bidis deliver several times more tar, nicotine, and carbon monoxide than do regular cigarettes.",
+                "vi": "Thuốc này có nhiều nhựa thuốc lá, nicotine và cacbon monoxit hơn gấp mấy lần thuốc lá thường."
+            }
+        }
+    ]
+}

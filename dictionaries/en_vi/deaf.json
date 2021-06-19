@@ -1,0 +1,49 @@
+{
+    "word": "deaf",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/def/",
+            "/dɛf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɛf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điếc",
+            "type": "adjective",
+            "example": {
+                "en": "Beethoven was deaf in his late years.",
+                "vi": "Beethoven trở thành điếc vào những năm cuối đời."
+            }
+        },
+        {
+            "content": "làm ngơ",
+            "type": "",
+            "example": {
+                "en": "They are deaf to your arguments.",
+                "vi": "Bọn họ làm ngơ trước sự tranh luận của bạn."
+            }
+        },
+        {
+            "content": "làm thinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ñieác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

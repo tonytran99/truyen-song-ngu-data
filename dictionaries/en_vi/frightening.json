@@ -1,0 +1,56 @@
+{
+    "word": "frightening",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrīt(ə)niNG/",
+            "/ˈfraɪt(ə)nɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrʌɪt(ə)nɪŋ/",
+            "/ˈfrʌɪtnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hãi hùng",
+            "type": "",
+            "example": {
+                "en": "These shapes gave me frightening dreams.",
+                "vi": "Những hình thù này cho tôi những giấc mơ hãi hùng."
+            }
+        },
+        {
+            "content": "khủng khiếp",
+            "type": "",
+            "example": {
+                "en": "The world can at times be a frightening place in which to live.",
+                "vi": "Thế gian đôi khi có thể là một nơi khủng khiếp để sống."
+            }
+        },
+        {
+            "content": "kinh khủng",
+            "type": "",
+            "example": {
+                "en": "I know it's very frightening -- try to remain calm.",
+                "vi": "Một trải nghiệm kinh khủng, nên tôi cố giữ bình tĩnh."
+            }
+        },
+        {
+            "content": "đáng sợ",
+            "type": "adjective",
+            "example": {
+                "en": "Yes, she is a bit frightening, isn't she?",
+                "vi": "Phải, trông hơi đáng sợ một chút, phải không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "wording",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərdiNG/",
+            "/ˈwərdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwəːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời",
+            "type": "noun",
+            "example": {
+                "en": "He left the room without saying a word.",
+                "vi": "Anh ta đã rời khỏi phòng mà không nói lời nào."
+            }
+        },
+        {
+            "content": "từ",
+            "type": "conjunction verb noun",
+            "example": {
+                "en": "He looked up the word in his dictionary.",
+                "vi": "Anh ta tìm từ đó trong từ điển."
+            }
+        },
+        {
+            "content": "cách diễn đạt",
+            "type": "",
+            "example": {
+                "en": "Sometimes, though, you can shrink your fears simply by putting them into words.",
+                "vi": "Thế nhưng, đôi khi bạn có thể chế ngự nỗi sợ bằng cách diễn đạt nó thành lời."
+            }
+        },
+        {
+            "content": "cách diễn tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách viết",
+            "type": "",
+            "example": {
+                "en": "Around here that's just another word for \" treasure. \"",
+                "vi": "Ở đây thì từ đó chỉ là một cách viết khác của \" kho báu. \""
+            }
+        },
+        {
+            "content": "sự viết ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

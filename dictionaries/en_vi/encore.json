@@ -1,0 +1,77 @@
+{
+    "word": "encore",
+    "type": [
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈänkôr/",
+            "/ˈɑnkɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɒŋkɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lại",
+            "type": "verb adverb",
+            "example": {
+                "en": "So, are we gonna be seeing an encore presentation tonight, or what?",
+                "vi": "Ồ, vậy là đêm nay chúng ta sẽ được chứng kiến một màn diễn lại hay sao?"
+            }
+        },
+        {
+            "content": "nữa",
+            "type": "adverb",
+            "example": {
+                "en": "but perhaps there's time for one encore.",
+                "vi": "nhưng có lẽ còn thời gian cho một bản nữa."
+            }
+        },
+        {
+            "content": "bài hát lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hát lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hát lại!",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "múa lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "múa lại!",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nữa!",
+            "type": "",
+            "example": {
+                "en": "but perhaps there's time for one encore.",
+                "vi": "nhưng có lẽ còn thời gian cho một bản nữa."
+            }
+        },
+        {
+            "content": "điệu múa lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "dictation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dikˈtāSH(ə)n/",
+            "/dɪkˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪkˈteɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự đọc chính tả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dictate",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bái chính tả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chính tả",
+            "type": "noun",
+            "example": {
+                "en": "I don't do dictations.",
+                "vi": "Anh đâu có đọc chính tả."
+            }
+        },
+        {
+            "content": "sự ra lệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sai khiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đọc cho viết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ám tả",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "histogram",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhistəˌɡram/",
+            "/ˈhɪstəˌɡræm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪstəɡram/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu đồ",
+            "type": "",
+            "example": {
+                "en": "Select the minimal intensity value of the histogram selection here",
+                "vi": "Ở đây hãy chọn giá trị cường độ tối thiểu của vùng chọn biểu đồ tần xuất"
+            }
+        },
+        {
+            "content": "biểu đồ tần số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

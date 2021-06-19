@@ -1,0 +1,89 @@
+{
+    "word": "counterfeit",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkoun(t)ərˌfit/",
+            "/ˈkaʊn(t)ərˌfɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊntəfɪt/",
+            "/ˈkaʊntəfiːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giả",
+            "type": "adjective verb",
+            "example": {
+                "en": "Costly nard was often adulterated and even counterfeited.",
+                "vi": "Vì dầu cam tùng đắt tiền nên người ta thường làm dầu giả hoặc pha loãng."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "",
+            "example": {
+                "en": "Or maybe it's that it feels like all our heroes are counterfeit.",
+                "vi": "Hoặc có thể đó là cảm giác tất cả anh hùng của chúng ta đều là giả mạo."
+            }
+        },
+        {
+            "content": "giả vờ",
+            "type": "",
+            "example": {
+                "en": "that the counterfeit customer was not our customer.",
+                "vi": "rằng khách hàng giả vờ là không phải khách hàng của chúng tôi."
+            }
+        },
+        {
+            "content": "giả đò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống như đúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả",
+            "type": "verb",
+            "example": {
+                "en": "The ingenious thing about this counterfeit is the use of rare ancient paper for tracing",
+                "vi": "Nó cao minh ở chỗ dùng giấy hồ để làm giả."
+            }
+        },
+        {
+            "content": "ngụy tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật giả mạo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồ giả",
+            "type": "",
+            "example": {
+                "en": "Remember, counterfeits are not the same as opposites.",
+                "vi": "Hãy nhớ rằng, đồ giả thì không giống với đồ trái ngược."
+            }
+        }
+    ]
+}

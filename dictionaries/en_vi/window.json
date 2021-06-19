@@ -1,0 +1,67 @@
+{
+    "word": "window",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwindō/",
+            "/ˈwɪndoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪndəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cửa sổ",
+            "type": "noun",
+            "example": {
+                "en": "She opened the window to let in fresh air.",
+                "vi": "Cô mở cửa sổ để không khí trong lành ùa vào."
+            }
+        },
+        {
+            "content": "cửa kính",
+            "type": "",
+            "example": {
+                "en": "He cut in through the window, went in, and then sent up the gear with the bag.",
+                "vi": "Cậu ấy cắt cửa kính, lẻn vào, và đưa tôi cái túi cùng dụng cụ."
+            }
+        },
+        {
+            "content": "tủ kính bày hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "song",
+            "type": "conjunction noun Prefix",
+            "example": {
+                "en": "Gosh, the bars on the windows seemed so much thicker back then.",
+                "vi": "Gosh, hồi đó những song sắt có vẻ dày hơn nhiều"
+            }
+        },
+        {
+            "content": "Cửa sổ",
+            "type": "",
+            "example": {
+                "en": "She opened the window to let in fresh air.",
+                "vi": "Cô mở cửa sổ để không khí trong lành ùa vào."
+            }
+        },
+        {
+            "content": "khoảng thời gian",
+            "type": "",
+            "example": {
+                "en": "There's going to be a window of time when they're gone.",
+                "vi": "Sẽ có một khoảng thời gian khi họ đi."
+            }
+        }
+    ]
+}

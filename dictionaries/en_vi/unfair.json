@@ -1,0 +1,97 @@
+{
+    "word": "unfair",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈfer/",
+            "/ˌənˈfɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈfɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất công",
+            "type": "adjective",
+            "example": {
+                "en": "That's an unfair offer, and you know what an unfair offer is.",
+                "vi": "Rõ ràng đây là cuộc chia chác bất công."
+            }
+        },
+        {
+            "content": "không công bằng",
+            "type": "adjective",
+            "example": {
+                "en": "Don't you think it's a little bit unfair?",
+                "vi": "Anh không nghĩ thế là không công bằng à?"
+            }
+        },
+        {
+            "content": "thiên vị",
+            "type": "adjective",
+            "example": {
+                "en": "It would give us an unfair advantage against battling",
+                "vi": "Điều này có thể cho chúng ta một lợi thế có phần thiên vị"
+            }
+        },
+        {
+            "content": "thiên lệch",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất bằng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "gian lận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gian tà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ngay thẳng",
+            "type": "",
+            "example": {
+                "en": "Injustice involves being unfair, prejudiced, bad, inflicting undeserved harm on others.",
+                "vi": "Không công bình hay bất công là không ngay thẳng, thành kiến, xấu xa, gây tổn hại cho người khác."
+            }
+        },
+        {
+            "content": "không đúng đắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá mức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thái quá",
+            "type": "",
+            "example": {
+                "en": "is being used in wildly unfair ways. Right?",
+                "vi": "đang được sử dụng mọt cách thái quá. Đúng không ạ?"
+            }
+        }
+    ]
+}

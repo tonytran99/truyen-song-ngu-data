@@ -1,0 +1,54 @@
+{
+    "word": "lack",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lak/",
+            "/læk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "Tom lacks the talent to be an actor.",
+                "vi": "Tom thiếu tài năng để trở thành một diễn viên."
+            }
+        },
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "So you are saying I lack common sense, aren't you?",
+                "vi": "Thế nên ý của anh là tôi không có thường thức còn gì."
+            }
+        },
+        {
+            "content": "sự thiếu",
+            "type": "",
+            "example": {
+                "en": "There's a lack of structure of some sort.",
+                "vi": "Có sự thiếu sót về mặt ngữ pháp ở một vài chỗ."
+            }
+        },
+        {
+            "content": "thiếu hụt",
+            "type": "noun",
+            "example": {
+                "en": "Like many of us, the disciples saw only what was lacking.",
+                "vi": "Giống như nhiều người trong chúng ta, các môn đồ chỉ thấy điều thiếu hụt."
+            }
+        }
+    ]
+}

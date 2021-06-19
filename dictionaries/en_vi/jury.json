@@ -1,0 +1,63 @@
+{
+    "word": "jury",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjo͝orē/",
+            "/ˈdʒʊri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒʊəri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ban giám khảo",
+            "type": "",
+            "example": {
+                "en": "I fear a jury will see it the same way.",
+                "vi": "Anh sợ rằng ban giám khảo sẽ nhận ra chuyên này theo cùng một cách."
+            }
+        },
+        {
+            "content": "ban bồi thẩm",
+            "type": "",
+            "example": {
+                "en": "Text: You can say a jury is corrupt.",
+                "vi": "Chữ: Bạn có thể nói rằng một ban bồi thẩm bị hối lộ."
+            }
+        },
+        {
+            "content": "ban hội thẩm",
+            "type": "",
+            "example": {
+                "en": "You've been subpoenaed to appear before a federal grand jury, as well.",
+                "vi": "Cô cũng được triệu tập trình diện trước ban hội thẩm liên bang."
+            }
+        },
+        {
+            "content": "Bồi thẩm đoàn",
+            "type": "",
+            "example": {
+                "en": "And to a jury, sarcasm plays as obstructive.",
+                "vi": "Bồi thẩm đoàn sẽ gây trở ngại bằng cách chơi chữ."
+            }
+        },
+        {
+            "content": "bồi thẩm đoàn",
+            "type": "noun",
+            "example": {
+                "en": "The news was talking about a grand jury, but they didn't say when.",
+                "vi": "Họ vẫn đang đưa tin về bồi thẩm đoàn, nhưng chả nói là khi nào."
+            }
+        }
+    ]
+}

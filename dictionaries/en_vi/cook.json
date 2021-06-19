@@ -1,0 +1,144 @@
+{
+    "word": "cook",
+    "type": [
+        ""
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͝ok/",
+            "/kʊk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʊk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nấu",
+            "type": "verb",
+            "example": {
+                "en": "When it comes to cooking, no one can equal Mary.",
+                "vi": "Khi nói đến nấu ăn, không ai có thể sánh bằng Mary."
+            }
+        },
+        {
+            "content": "nấu ăn",
+            "type": "verb",
+            "example": {
+                "en": "When it comes to cooking, no one can equal Mary.",
+                "vi": "Khi nói đến nấu ăn, không ai có thể sánh bằng Mary."
+            }
+        },
+        {
+            "content": "nấu chín",
+            "type": "",
+            "example": {
+                "en": "If you ask me, it's not food until you cook it.",
+                "vi": "Theo ý tớ thì chưa nấu chín thì chưa phải đồ ăn."
+            }
+        },
+        {
+            "content": "cấp dưỡng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đầu bếp",
+            "type": "noun",
+            "example": {
+                "en": "A cook who loves cooking will never do that.",
+                "vi": "Một người đầu bếp yêu nấu ăn đến vậy sẽ ko bao giờ làm thế."
+            }
+        },
+        {
+            "content": "chín",
+            "type": "numeral adjective",
+            "example": {
+                "en": "If you ask me, it's not food until you cook it.",
+                "vi": "Theo ý tớ thì chưa nấu chín thì chưa phải đồ ăn."
+            }
+        },
+        {
+            "content": "anh nuôi",
+            "type": "noun",
+            "example": {
+                "en": "There's a couple of thousand cooks, mechanics and doctors here.",
+                "vi": "Có đến vài ngàn anh nuôi, thợ máy và bác sĩ ở đây."
+            }
+        },
+        {
+            "content": "làm bếp",
+            "type": "",
+            "example": {
+                "en": "I worked as a cook in the Drama prison",
+                "vi": "Tôi làm bếp trong nhà tù ở Drama"
+            }
+        },
+        {
+            "content": "làm kiệt sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mệt phờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làm bếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nấu ăn",
+            "type": "",
+            "example": {
+                "en": "Coat says he's a cook.",
+                "vi": "Huy hiệu cho thấy anh ta là một người nấu ăn."
+            }
+        },
+        {
+            "content": "nhà nấu bếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nấu nhừ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nấu nướng",
+            "type": "verb",
+            "example": {
+                "en": "Salt is necessary for a cook.",
+                "vi": "Muối là nguyên liệu nhất thiết phải có để nấu nướng."
+            }
+        },
+        {
+            "content": "sôi",
+            "type": "verb",
+            "example": {
+                "en": "The band really cooks.",
+                "vi": "Ban nhạc rất sôi động."
+            }
+        },
+        {
+            "content": "giả mạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đầu bếp",
+            "type": "",
+            "example": {
+                "en": "The cook has a terrible habit of forgetting to wash his hands.",
+                "vi": "Đầu bếp có thói quen kinh khủng, là hay quên rửa tay."
+            }
+        }
+    ]
+}

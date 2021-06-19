@@ -1,0 +1,53 @@
+{
+    "word": "comrade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämˌrad/",
+            "/ˈkɑmˌræd/",
+            "/ˈkämrəd/",
+            "/ˈkɑmrəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmreɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng chí",
+            "type": "noun",
+            "example": {
+                "en": "Give the peace to your comrades who cannot move.",
+                "vi": "Những đồng chí nào không thể dứng dậy được."
+            }
+        },
+        {
+            "content": "bạn",
+            "type": "noun",
+            "example": {
+                "en": "I hired your guardian's comrade to find out what you knew.",
+                "vi": "Tôi thuê bạn đồng môn của quản gia của cậu để tìm hiểu cậu biết được những gì."
+            }
+        },
+        {
+            "content": "同志",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Đồng chí",
+            "type": "",
+            "example": {
+                "en": "There's some bags to carry, comrades.",
+                "vi": "Còn phải lấy mấy túi đồ, các Đồng chí."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "heroically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈrōəklē/",
+            "/həˈroʊəkli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈrəʊɪkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh hùng",
+            "type": "adjective noun",
+            "example": {
+                "en": "Oh, and that sounds heroic to you, doesn't it?",
+                "vi": "Với em điều đó có vẻ anh hùng quá nhỉ?"
+            }
+        },
+        {
+            "content": "oanh liệt",
+            "type": "",
+            "example": {
+                "en": "It was a heroic journey.",
+                "vi": "Đó là một chuyến đi oanh liệt."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "gangster",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaNGstər/",
+            "/ˈɡæŋstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaŋstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "găngxtơ",
+            "type": "",
+            "example": {
+                "en": "You know, they're gangsters, sure, but they're thoughtful too.",
+                "vi": "Anh biết không, họ là găngxtơ, hẳn vậy nhưng cũng rất biết nghĩ đấy."
+            }
+        },
+        {
+            "content": "côn đồ",
+            "type": "noun",
+            "example": {
+                "en": "Are you still a gangster, Joey, or did I change you?",
+                "vi": "Anh vẫn là côn đồ chứ Joey hay tôi đã thay đổi được anh?"
+            }
+        },
+        {
+            "content": "kẻ cướp",
+            "type": "",
+            "example": {
+                "en": "The Hutts are gangsters.",
+                "vi": "Người Hutts là lũ kẻ cướp."
+            }
+        },
+        {
+            "content": "tên cớp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

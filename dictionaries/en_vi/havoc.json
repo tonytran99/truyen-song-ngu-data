@@ -1,0 +1,39 @@
+{
+    "word": "havoc",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhavək/",
+            "/ˈhævək/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhavək/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tàn phá",
+            "type": "",
+            "example": {
+                "en": "There is nothing unusual about him apart from his ability to cause havoc.",
+                "vi": "Không có gì không bình thường cả, ngoài khả năng gây ra sự tàn phá của hắn ta."
+            }
+        },
+        {
+            "content": "tàn phá",
+            "type": "",
+            "example": {
+                "en": "When you let them lose, who knows what havoc they might reek?",
+                "vi": "Khi ta thả chúng ra, ai biết được chúng sẽ tàn phá những gì?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "hearse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe tang",
+            "type": "noun",
+            "example": {
+                "en": "The crazy old guy still drives the hearse.",
+                "vi": "Cái ông già thường hay lái xe tang nói thế."
+            }
+        },
+        {
+            "content": "nhà táng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Xe tang",
+            "type": "",
+            "example": {
+                "en": "His car does look like a hearse.",
+                "vi": "Xe của ông ta chỉ là giống xe tang thôi."
+            }
+        }
+    ]
+}

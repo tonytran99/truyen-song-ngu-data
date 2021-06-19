@@ -1,0 +1,46 @@
+{
+    "word": "hacienda",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhäsēˈendə/",
+            "/ˌhɑsiˈɛndə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhasɪˈɛndə/",
+            "/aˈθjenda/",
+            "/aˈsjenda/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ấp",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "trại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xưởng máy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồn điền",
+            "type": "",
+            "example": {
+                "en": "But yesterday, the federales were at his hacienda, and in the confusion, Juan was shot dead.",
+                "vi": "Nhưng hôm qua, đặc vụ FBI đã ập tới đồn điền của hắn, và trong cơn hỗn loạn, Juan đã bị bắn chết."
+            }
+        }
+    ]
+}

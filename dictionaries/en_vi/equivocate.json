@@ -1,0 +1,44 @@
+{
+    "word": "equivocate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkwivəˌkāt/",
+            "/əˈkwɪvəˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈkwɪvəkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu thị nước đôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mập mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói lập lờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói nước đôi",
+            "type": "",
+            "example": {
+                "en": "First they denied, and then they equivocated...",
+                "vi": "Đầu tiên thì họ phủ nhận, rồi thì họ nói nước đôi..."
+            }
+        }
+    ]
+}

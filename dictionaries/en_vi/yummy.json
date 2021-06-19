@@ -1,0 +1,51 @@
+{
+    "word": "yummy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyəmē/",
+            "/ˈjəmi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʌmi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngon",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Hmm... The smells coming from your kitchen are yummy!",
+                "vi": "Cái mùi từ nhà bếp thật là thơm ngon.."
+            }
+        },
+        {
+            "content": "thơm ngon",
+            "type": "",
+            "example": {
+                "en": "Hmm... The smells coming from your kitchen are yummy!",
+                "vi": "Cái mùi từ nhà bếp thật là thơm ngon.."
+            }
+        },
+        {
+            "content": "ăn ngon miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngon tuyệt",
+            "type": "",
+            "example": {
+                "en": "The one who sends us those metal buckets of yummy popcorn for Christmas.",
+                "vi": "Là người đã gửi cho chúng ta những túi bắp rang bơ khổng lồ ngon tuyệt hồi Giáng sinh đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "comprise",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprīz/",
+            "/kəmˈpraɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈprʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao gồm",
+            "type": "verb",
+            "example": {
+                "en": "The stars are well likened to an army, which may comprise vast numbers of individual soldiers.",
+                "vi": "Các ngôi sao được ví như một đội quân có thể bao gồm vô số binh lính."
+            }
+        },
+        {
+            "content": "gồm có",
+            "type": "",
+            "example": {
+                "en": "We've learned that the bio weapon is actually comprised of two components.",
+                "vi": "Chúng tôi đã tìm hiểu được vũ khí sinh học thực sự gồm có 2 thành phần."
+            }
+        },
+        {
+            "content": "gồm",
+            "type": "verb",
+            "example": {
+                "en": "And a social movement is comprised, in my view,",
+                "vi": "Và một phong trào xã hội bao gồm, theo ý tôi,"
+            }
+        }
+    ]
+}

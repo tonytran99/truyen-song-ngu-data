@@ -1,0 +1,75 @@
+{
+    "word": "consist",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsist/",
+            "/kənˈsɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsɪst/",
+            "/ˈkɒnsɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gồm",
+            "type": "verb",
+            "example": {
+                "en": "Beer consists of 90% water.",
+                "vi": "Bia bao gồm 90% nước."
+            }
+        },
+        {
+            "content": "gồm có",
+            "type": "",
+            "example": {
+                "en": "Ordinances consist of acts that have spiritual meanings.",
+                "vi": "Các giáo lễ gồm có những hành động mà có những ý nghĩa thuộc linh."
+            }
+        },
+        {
+            "content": "đoàn xe ray",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao gồm",
+            "type": "",
+            "example": {
+                "en": "Beer consists of 90% water.",
+                "vi": "Bia bao gồm 90% nước."
+            }
+        },
+        {
+            "content": "cốt tại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cốt ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {
+                "en": "You can't do science without making it logically consistent.",
+                "vi": "Bạn không thể làm khoa học mà không làm cho mọi thứ phù hợp về mặt logic."
+            }
+        },
+        {
+            "content": "ở chỗ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

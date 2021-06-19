@@ -1,0 +1,68 @@
+{
+    "word": "jug",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəɡ/",
+            "/dʒəɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒʌɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái bình",
+            "type": "",
+            "example": {
+                "en": "Today I'm going to use a jug just to show you all.",
+                "vi": "Hôm nay tôi sẽ dùng một cái bình để chỉ cho các bạn xem."
+            }
+        },
+        {
+            "content": "bình",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Three jugs of beer and a créme de menthe.",
+                "vi": "Ba bình bia và một kem bạc hà."
+            }
+        },
+        {
+            "content": "hót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng hót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong nồi đất",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

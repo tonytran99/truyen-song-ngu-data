@@ -1,0 +1,45 @@
+{
+    "word": "ironic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/īˈränik/",
+            "/aɪˈrɑnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪˈrɒnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỉa mai",
+            "type": "adjective",
+            "example": {
+                "en": "And I hate to be so ironic and sarcastic about it but it's the truth.",
+                "vi": "Tôi ghét nói mỉa mai, châm biếm nhưng đó là sự thật."
+            }
+        },
+        {
+            "content": "mỉa",
+            "type": "",
+            "example": {
+                "en": "Kind of ironic now that I think about it.",
+                "vi": "Bây giờ tao mới nghĩ điều đó khá mỉa mai đấy."
+            }
+        },
+        {
+            "content": "châm biếm",
+            "type": "adjective",
+            "example": {
+                "en": "Brakebills teaches us to be arch and ironic about magic.",
+                "vi": "Brakebills dạy cho chúng ta phép thuật một cách linh động và châm biếm."
+            }
+        }
+    ]
+}

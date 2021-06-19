@@ -1,0 +1,53 @@
+{
+    "word": "harvester",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärvəstər/",
+            "/ˈhɑrvəstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːvɪstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy gặt",
+            "type": "noun",
+            "example": {
+                "en": "I'm enthralled by combine harvesters.",
+                "vi": "Tôi bị mê hoặc bởi máy gặt lúa."
+            }
+        },
+        {
+            "content": "người gặt",
+            "type": "noun",
+            "example": {
+                "en": "What important requirement must be met by those who want to be harvest workers?",
+                "vi": "Những ai muốn trở thành người gặt hái phải đáp ứng điều kiện quan trọng nào?"
+            }
+        },
+        {
+            "content": "người thu hoạch",
+            "type": "",
+            "example": {
+                "en": "There is a need for the harvesters to work hard.",
+                "vi": "Những người thu hoạch cần làm việc chăm chỉ."
+            }
+        },
+        {
+            "content": "thợ gặt",
+            "type": "",
+            "example": {
+                "en": "Therefore, beg the Master of the harvest to send out workers into his harvest.",
+                "vi": "Vì vậy, hãy nài xin Chủ mùa gặt sai thợ gặt đến thu hoạch vụ mùa."
+            }
+        }
+    ]
+}

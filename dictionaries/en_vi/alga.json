@@ -1,0 +1,37 @@
+{
+    "word": "alga",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalɡə/",
+            "/ˈælɡə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tảo",
+            "type": "noun",
+            "example": {
+                "en": "Is there a way to produce algae inexpensively?",
+                "vi": "Có cách nào để sản xuất tảo rẻ hơn?"
+            }
+        },
+        {
+            "content": "rong",
+            "type": "noun",
+            "example": {
+                "en": "It's actually due to the presence of a tiny algae.",
+                "vi": "Đó là do sự hiện diện của một loại rong nhỏ."
+            }
+        }
+    ]
+}

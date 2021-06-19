@@ -1,0 +1,81 @@
+{
+    "word": "fishing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiSHiNG/",
+            "/ˈfɪʃɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪʃɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "câu cá",
+            "type": "",
+            "example": {
+                "en": "We go fishing together once in a while.",
+                "vi": "Thỉnh thoảng chúng tôi đi câu cá với nhau."
+            }
+        },
+        {
+            "content": "cá",
+            "type": "verb noun",
+            "example": {
+                "en": "We go fishing together once in a while.",
+                "vi": "Thỉnh thoảng chúng tôi đi câu cá với nhau."
+            }
+        },
+        {
+            "content": "nghề cá",
+            "type": "",
+            "example": {
+                "en": "A boy in Ghana rescued from fishing slavery, about 400 dollars.",
+                "vi": "Một cậu bé ở Ghana được cứu khỏi việc làm nô lệ cho nghề cá, tốn khoảng 400USD."
+            }
+        },
+        {
+            "content": "sự câu cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đánh cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ngư nghiệp",
+            "type": "",
+            "example": {
+                "en": "The fishing industry plays a vital role in the economy of Senegal.",
+                "vi": "Ngư nghiệp đóng một vai trò quan trọng trong nền kinh tế Senegal."
+            }
+        },
+        {
+            "content": "câu",
+            "type": "noun",
+            "example": {
+                "en": "We go fishing together once in a while.",
+                "vi": "Thỉnh thoảng chúng tôi đi câu cá với nhau."
+            }
+        },
+        {
+            "content": "nghề đánh cá",
+            "type": "",
+            "example": {
+                "en": "Still, he tore himself away and returned to his fishing business.",
+                "vi": "Dù vậy, sau đó ông vẫn phải quay về với nghề đánh cá."
+            }
+        }
+    ]
+}

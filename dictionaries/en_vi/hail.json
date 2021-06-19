@@ -1,0 +1,161 @@
+{
+    "word": "hail",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hāl/",
+            "/heɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/heɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mưa đá",
+            "type": "noun",
+            "example": {
+                "en": "It's what's produces thunder and lightning and hail.",
+                "vi": "Là loại mây tạo ra sấm, sét và mưa đá."
+            }
+        },
+        {
+            "content": "gọi",
+            "type": "verb",
+            "example": {
+                "en": "We're hailing them on every frequency and mode in the book, sir.",
+                "vi": "Chúng tôi đã gọi họ trên mọi tần số và chế độ theo quy định, thưa ngài."
+            }
+        },
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {
+                "en": "All hail the great Beowulf, come to save our pathetic Danish skins, eh?",
+                "vi": "Tất cả hoan hô Beowulf vĩ đại, tới đây để cứu thần dân Đan Mạch khốn khổ"
+            }
+        },
+        {
+            "content": "hoan nghênh",
+            "type": "interjection",
+            "example": {
+                "en": "These “miracle” grains were hailed as the solution to world hunger.",
+                "vi": "Hạt thóc “mầu nhiệm” này được hoan nghênh là giải pháp cho nạn đói của thế giới."
+            }
+        },
+        {
+            "content": "chào",
+            "type": "interjection verb",
+            "example": {
+                "en": "I don't know if anybody might hail from northeastern Pennsylvania,",
+                "vi": "Không biết từ miền đông bắc Pennsylvania có ai chào mừng tôi không."
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "He hails from England, O Sublime One.",
+                "vi": "Cậu ấy tới từ nước Anh, thưa vua O."
+            }
+        },
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hàng loạt",
+            "type": "",
+            "example": {
+                "en": "It served to protect him from the blows of weapons and the hails of arrows.",
+                "vi": "Nó bảo vệ người lính khỏi những đòn tấn công và hàng loạt mũi tên."
+            }
+        },
+        {
+            "content": "réo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "loạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giáng xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời gọi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời réo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tràng dồn dập",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trút xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận tới tấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ dồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ dồn xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Mưa đá",
+            "type": "",
+            "example": {
+                "en": "The hail will sweep away the refuge of lies,",
+                "vi": "Mưa đá sẽ quét sạch nơi trú náu là lời nói dối,"
+            }
+        },
+        {
+            "content": "trận mưa đá",
+            "type": "",
+            "example": {
+                "en": "That night, a hail storm smashed his car.",
+                "vi": "Tối hôm đó, một trận mưa đá đã làm nát xe của bố."
+            }
+        }
+    ]
+}

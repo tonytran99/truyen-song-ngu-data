@@ -1,0 +1,65 @@
+{
+    "word": "journalist",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərn(ə)ləst/",
+            "/ˈdʒərn(ə)ləst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːn(ə)lɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà báo",
+            "type": "noun",
+            "example": {
+                "en": "I want to be a journalist.",
+                "vi": "Tôi muốn là một nhà báo."
+            }
+        },
+        {
+            "content": "ký giả",
+            "type": "noun",
+            "example": {
+                "en": "There's an American journalist here I'd like you to meet.",
+                "vi": "Có một ký giả người Mỹ ở đây tôi muốn giới thiệu với anh."
+            }
+        },
+        {
+            "content": "記者",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ký giả báo chí",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bỉnh bút",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rồi đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phóng viên",
+            "type": "",
+            "example": {
+                "en": "One frustrated journalist could not take this anymore.",
+                "vi": "Một phóng viên không thể chịu đựng được."
+            }
+        }
+    ]
+}

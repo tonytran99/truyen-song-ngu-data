@@ -1,0 +1,53 @@
+{
+    "word": "virtually",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərCH(o͞o)əlē/",
+            "/ˈvərtʃ(u)əli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtʃʊəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hầu như",
+            "type": "adverb",
+            "example": {
+                "en": "The animal had virtually no control over the legs.",
+                "vi": "Con chuột hầu như không có quyền kiểm soát đôi chân của nó."
+            }
+        },
+        {
+            "content": "thực sự",
+            "type": "adverb",
+            "example": {
+                "en": "So, to them, the railroad worm in stealth mode is virtually invisible.",
+                "vi": "Nên, đối với chúng, thực sự không thấy sâu đường xe lửa đang rón rén tới."
+            }
+        },
+        {
+            "content": "gần như",
+            "type": "adverb",
+            "example": {
+                "en": "Terrorist chatter across all hot zones virtually nonexistent right now.",
+                "vi": "Bàn tán về khủng bố ở khắp các vùng nóng lúc này gần như không tồn tại nữa."
+            }
+        },
+        {
+            "content": "thực tế",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "And, Elliot, we are on the verge of taking down this virtual reality.",
+                "vi": "Và, Elliot, chúng ta sắp sửa hạ bệ thực tế ảo."
+            }
+        }
+    ]
+}

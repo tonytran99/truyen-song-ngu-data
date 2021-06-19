@@ -1,0 +1,42 @@
+{
+    "word": "consulting",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəltiNG/",
+            "/kənˈsəltɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsʌltɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cố vấn",
+            "type": "",
+            "example": {
+                "en": "He's a consultant at a security firm downtown.",
+                "vi": "Anh ấy là cố vấn tại một công ty an ninh trong trung tâm."
+            }
+        },
+        {
+            "content": "tư vấn",
+            "type": "",
+            "example": {
+                "en": "He was employed as a security consultant at a Vinci casino, which recently burned down.",
+                "vi": "Hắn ta được thuê làm tư vấn an ninh tại sòng bài vừa bị hỏa hoạn tại Vinci."
+            }
+        },
+        {
+            "content": "để hỏi ý kiến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "enhance",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhans/",
+            "/ɪnˈhæns/",
+            "/enˈhans/",
+            "/ɛnˈhæns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈhɑːns/",
+            "/ɛnˈhɑːns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nâng cao",
+            "type": "",
+            "example": {
+                "en": "Her moral strength thus enhanced her physical beauty.",
+                "vi": "Do đó, phẩm hạnh đã nâng cao vẻ đẹp bề ngoài của nàng."
+            }
+        },
+        {
+            "content": "tăng",
+            "type": "verb noun",
+            "example": {
+                "en": "Explain how salt enhances the flavor of food.",
+                "vi": "Giải thích cách thức muối làm tăng hương vị của thức ăn."
+            }
+        },
+        {
+            "content": "làm nổi bật",
+            "type": "",
+            "example": {
+                "en": "I was very curious about this idea of enhancing the ordinary,",
+                "vi": "Tôi rất tò mò về ý tưởng làm nổi bật điều bình thường,"
+            }
+        },
+        {
+            "content": "làm tăng",
+            "type": "",
+            "example": {
+                "en": "Explain how salt enhances the flavor of food.",
+                "vi": "Giải thích cách thức muối làm tăng hương vị của thức ăn."
+            }
+        },
+        {
+            "content": "đề cao",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

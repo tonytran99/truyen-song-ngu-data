@@ -1,0 +1,29 @@
+{
+    "word": "ageing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪdʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự hoá già",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lão hóa",
+            "type": "",
+            "example": {
+                "en": "Your cells age at half the rate of a normal human.",
+                "vi": "Tốc độ lão hóa ở tế bào của cậu chỉ bằng một nửa người thường."
+            }
+        }
+    ]
+}

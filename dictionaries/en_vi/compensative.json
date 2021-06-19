@@ -1,0 +1,48 @@
+{
+    "word": "compensative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpensədiv/",
+            "/kəmˈpɛnsədɪv/",
+            "/ˈkämp(ə)nˌsādiv/",
+            "/ˈkɑmp(ə)nˌseɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpɛnsətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bù",
+            "type": "",
+            "example": {
+                "en": "Because the death of a child is compensated by one more child.",
+                "vi": "Bởi vì một đứa trẻ mất đi được bù đắp bởi một đứa trẻ nữa."
+            }
+        },
+        {
+            "content": "bồi thường",
+            "type": "",
+            "example": {
+                "en": "If you use the tractor, I want compensation!",
+                "vi": "Nếu anh đụng vào máy kéo, thì tôi muốn bồi thường đấy!"
+            }
+        },
+        {
+            "content": "đền bù",
+            "type": "",
+            "example": {
+                "en": "I'm sure they were compensated for it as well.",
+                "vi": "Tôi chắc là họ đã được đền bù thích đáng."
+            }
+        }
+    ]
+}

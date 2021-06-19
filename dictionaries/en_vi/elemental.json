@@ -1,0 +1,53 @@
+{
+    "word": "elemental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeləˈmen(t)l/",
+            "/ˌɛləˈmɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛlɪˈmɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơ bản",
+            "type": "adjective",
+            "example": {
+                "en": "Both of these fundamental elements—looking and obeying—are essential to being quick to observe.",
+                "vi": "Cả hai yếu tố cơ bản—nhìn và tuân theo—đều rất cần thiết để quan sát nhanh nhạy."
+            }
+        },
+        {
+            "content": "cốt yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên tố",
+            "type": "noun",
+            "example": {
+                "en": "Supernova explosions blew these heavy elements back into space.",
+                "vi": "Những vụ nổ siêu tân tinh thổi tung những nguyên tố nặng đó vào không gian."
+            }
+        },
+        {
+            "content": "sức mạnh thiên nhiên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

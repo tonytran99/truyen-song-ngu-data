@@ -1,0 +1,60 @@
+{
+    "word": "urinate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͝orəˌnāt/",
+            "/ˈjʊrəˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʊərɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đi tiểu",
+            "type": "",
+            "example": {
+                "en": "I believe he just urinated in the pitcher.",
+                "vi": "Tôi tin rằng ông ta vừa đi tiểu trong cái bình đó."
+            }
+        },
+        {
+            "content": "tiểu",
+            "type": "adjective verb",
+            "example": {
+                "en": "We've ruled out every possible cause for brown urine.",
+                "vi": "Chúng tôi đã loại trừ mọi khả năng gây nên nước tiểu nâu rồi."
+            }
+        },
+        {
+            "content": "đái",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tiểu tiện",
+            "type": "verb",
+            "example": {
+                "en": "Uncontrollable urination and blacking out are good predictors of what?",
+                "vi": "Không kiểm soát được tiểu tiện và mất trí nhớ là dấu hiệu của gì?"
+            }
+        },
+        {
+            "content": "đi giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi đái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "feline",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēˌlīn/",
+            "/ˈfiˌlaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːlʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "felid",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giả dối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống mèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nham hiểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "như mèo",
+            "type": "",
+            "example": {
+                "en": "This girl with a feline look",
+                "vi": "♪ Cái cô gái có cái nhìn như mèo"
+            }
+        },
+        {
+            "content": "thâm hiểm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

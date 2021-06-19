@@ -1,0 +1,30 @@
+{
+    "word": "vienna",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vēˈenə/",
+            "/viˈɛnə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɪˈɛnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "viên",
+            "type": "verb noun",
+            "example": {
+                "en": "He spent the afternoon in Vienna with his father.",
+                "vi": "Ông ấy dành buổi chiều ở Viên với cha mình."
+            }
+        }
+    ]
+}

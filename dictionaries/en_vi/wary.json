@@ -1,0 +1,45 @@
+{
+    "word": "wary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwerē/",
+            "/ˈwɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh giác",
+            "type": "",
+            "example": {
+                "en": "You are a younger man but you must learn to be wary of a man like me.",
+                "vi": "Anh là một chàng trai trẻ nhưng anh phải học cách cảnh giác với người như tôi."
+            }
+        },
+        {
+            "content": "cẩn thận",
+            "type": "",
+            "example": {
+                "en": "Be wary of such flattering attention.",
+                "vi": "Hãy cẩn thận về sự tán tỉnh như thế."
+            }
+        },
+        {
+            "content": "thận trọng",
+            "type": "",
+            "example": {
+                "en": "Be wary headed in, rodent.",
+                "vi": "Hãy thận trọng khi vào, loài gặm nhấm."
+            }
+        }
+    ]
+}

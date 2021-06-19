@@ -1,0 +1,63 @@
+{
+    "word": "goods",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡo͝odz/",
+            "/ɡʊdz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʊdz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng hoá",
+            "type": "noun",
+            "example": {
+                "en": "And the domestic market is slow , with the price of goods falling .",
+                "vi": "Và thị trường trong nước hoạt động chậm chạp , giá hàng hoá đang sụt giảm ."
+            }
+        },
+        {
+            "content": "hàng",
+            "type": "noun",
+            "example": {
+                "en": "All the goods for sale are set out on the tables.",
+                "vi": "Tất cả các mặt hàng để bán đã được bày trên bàn."
+            }
+        },
+        {
+            "content": "hàng hóa",
+            "type": "noun plural",
+            "example": {
+                "en": "Palm oil is used to manufacture a wide range of consumer and industrial goods.",
+                "vi": "Dầu cọ được dùng để chế phẩm nhiều hàng hóa tiêu dùng cho cá nhân hay công nghiệp."
+            }
+        },
+        {
+            "content": "của cải",
+            "type": "",
+            "example": {
+                "en": "Others have never had many of this world’s goods.",
+                "vi": "Và cũng có người chưa bao giờ có của cải."
+            }
+        },
+        {
+            "content": "một món khá xinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động sản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

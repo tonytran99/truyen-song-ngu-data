@@ -1,0 +1,42 @@
+{
+    "word": "villager",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviləjər/",
+            "/ˈvɪlədʒər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪlɪdʒə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân làng",
+            "type": "",
+            "example": {
+                "en": "It was the hungry bears that the villagers were afraid of.",
+                "vi": "Nó chính là con gấu đói mà dân làng sợ hãi."
+            }
+        },
+        {
+            "content": "dân nông thôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làng",
+            "type": "",
+            "example": {
+                "en": "We gave him a bride from the village.",
+                "vi": "Anh ta cưới người làng chúng tôi mà."
+            }
+        }
+    ]
+}

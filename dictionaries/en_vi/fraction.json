@@ -1,0 +1,80 @@
+{
+    "word": "fraction",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrakSH(ə)n/",
+            "/ˈfrækʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrakʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân số",
+            "type": "noun",
+            "example": {
+                "en": "Then we went on to the dreaded fractions.",
+                "vi": "Rồi tiếp đến với phần giải phân số đáng sợ."
+            }
+        },
+        {
+            "content": "phần",
+            "type": "noun",
+            "example": {
+                "en": "Data collection takes a fraction of the time.",
+                "vi": "Thu thập dữ liệu tốn một phần nhỏ thời gian."
+            }
+        },
+        {
+            "content": "miếng nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một phần",
+            "type": "",
+            "example": {
+                "en": "Data collection takes a fraction of the time.",
+                "vi": "Thu thập dữ liệu tốn một phần nhỏ thời gian."
+            }
+        },
+        {
+            "content": "phần nhỏ",
+            "type": "",
+            "example": {
+                "en": "Data collection takes a fraction of the time.",
+                "vi": "Thu thập dữ liệu tốn một phần nhỏ thời gian."
+            }
+        },
+        {
+            "content": "sự chia bánh thánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phân số",
+            "type": "",
+            "example": {
+                "en": "of the best person in the world teaching fractions.",
+                "vi": "của người giỏi nhất thế giới dạy phân số."
+            }
+        },
+        {
+            "content": "một chút",
+            "type": "",
+            "example": {
+                "en": "If you traveled to the Dead Sea, the force would increase by a tiny fraction of a percent.",
+                "vi": "Nếu đi đến Biển Chết, lực này sẽ tăng lên một chút xíu - một phần trăm."
+            }
+        }
+    ]
+}

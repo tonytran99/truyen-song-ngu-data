@@ -1,0 +1,45 @@
+{
+    "word": "fortress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrtrəs/",
+            "/ˈfɔrtrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːtrɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pháo đài",
+            "type": "noun",
+            "example": {
+                "en": "He built a fortress and an army of the possessed in the mountains outside of Boulder.",
+                "vi": "Hắn xây một pháo đài và một đội quân trên những ngọn núi bên ngoài Boulder."
+            }
+        },
+        {
+            "content": "bảo vệ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "là pháo đài của",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Công sự",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

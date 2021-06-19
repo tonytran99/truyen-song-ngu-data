@@ -1,0 +1,45 @@
+{
+    "word": "estimated",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈestəˌmādəd/",
+            "/ˈɛstəˌmeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛstɪmeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được ước lượng",
+            "type": "",
+            "example": {
+                "en": "it's estimated it'll be worth over 80 billion dollars.",
+                "vi": "ngành này được ước lượng là sẽ có giá trị đến 80 tỷ đô-la."
+            }
+        },
+        {
+            "content": "ước lượng",
+            "type": "adjective",
+            "example": {
+                "en": "I want to know how much you estimate the business is worth?",
+                "vi": "Tôi muốn biết ông ước lượng cái xưởng đáng giá bao nhiêu."
+            }
+        },
+        {
+            "content": "ước tính",
+            "type": "adjective",
+            "example": {
+                "en": "It will cost thirty thousand yen at the lowest estimate.",
+                "vi": "Cái đó sẽ tốn ba mươi nghì yen theo ước tính thấp nhất."
+            }
+        }
+    ]
+}

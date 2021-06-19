@@ -1,0 +1,71 @@
+{
+    "word": "kangaroo",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkaNGɡəˈro͞o/",
+            "/ˌkæŋɡəˈru/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkaŋɡəˈruː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "canguru",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kangaroo",
+            "type": "noun",
+            "example": {
+                "en": "A marsupial is a mammal with a pouch like a kangaroo.",
+                "vi": "Thú có túi là động vật có vú với chiếc túi giống như loài kangaroo."
+            }
+        },
+        {
+            "content": "chuột túi",
+            "type": "noun",
+            "example": {
+                "en": "If you're not a kangaroo, what are you?",
+                "vi": "Nếu không phải chuột túi thì là gì?"
+            }
+        },
+        {
+            "content": "con canguru",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảy những bước dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe bọc sắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi săn canguru",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Kangaroo",
+            "type": "",
+            "example": {
+                "en": "If the British government wants to hand me over to this kangaroo court, then sod them!",
+                "vi": "Chính phủ Anh muốn bắt anh giao cho toà án Kangaroo."
+            }
+        }
+    ]
+}

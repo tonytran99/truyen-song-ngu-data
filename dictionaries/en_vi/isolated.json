@@ -1,0 +1,75 @@
+{
+    "word": "isolated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsəˌlādəd/",
+            "/ˈaɪsəˌleɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsəleɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cô lập",
+            "type": "adjective",
+            "example": {
+                "en": "We take it back to Geneva for taxonomy and isolation.",
+                "vi": "Chúng tôi sẽ mang nó trở lại Geneva để kiểm tra, cô lập nó."
+            }
+        },
+        {
+            "content": "cách",
+            "type": "verb noun",
+            "example": {
+                "en": "Ted Kaczynksi carried out a campaign of isolation and murder.",
+                "vi": "Ted Kaczynksi đã thực hiện chiến dịch cách ly và giết người."
+            }
+        },
+        {
+            "content": "cách ly",
+            "type": "",
+            "example": {
+                "en": "Ted Kaczynksi carried out a campaign of isolation and murder.",
+                "vi": "Ted Kaczynksi đã thực hiện chiến dịch cách ly và giết người."
+            }
+        },
+        {
+            "content": "cách điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {
+                "en": "Technicians isolate and use many plasma proteins.",
+                "vi": "Các nhà kỹ thuật tách ra và dùng nhiều chất protein chiết ra từ huyết tương."
+            }
+        },
+        {
+            "content": "bị cô lập",
+            "type": "adjective",
+            "example": {
+                "en": "I feel isolated, and exposed at the same time.",
+                "vi": "Tôi thấy mình vừa bị cô lập vừa bị vạch trần cùng lúc."
+            }
+        },
+        {
+            "content": "biệt lập",
+            "type": "adjective",
+            "example": {
+                "en": "The Essenes were mystics who apparently lived in a few isolated communities.",
+                "vi": "Essene là những người thần bí, hình như sống tại một vài cộng đồng biệt lập."
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "experimental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˌsperəˈmen(t)l/",
+            "/ɪkˌspɛrəˈmɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˌspɛrɪˈmɛnt(ə)l/",
+            "/ɛkˌspɛrɪˈmɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dựa trên thí nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thực nghiệm",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "An experimental surgery that some people claim helps mood disorders.",
+                "vi": "Một loại phẫu thuật thực nghiệm mà người rối loạn cảm xúc thường yêu cầu."
+            }
+        },
+        {
+            "content": "để thí nghiệm",
+            "type": "",
+            "example": {
+                "en": "If you seek a cure, you'll need a subject for experimentation.",
+                "vi": "Nếu ông đang tìm một phương thuốc, ông sẽ cần một vật thể để thí nghiệm."
+            }
+        }
+    ]
+}

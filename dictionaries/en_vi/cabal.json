@@ -1,0 +1,47 @@
+{
+    "word": "cabal",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈbäl/",
+            "/kəˈbɑl/",
+            "/kəˈbal/",
+            "/kəˈbæl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈbal/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "âm mưu",
+            "type": "noun",
+            "example": {
+                "en": "No longer will their vainglorious cabal of merchants dictate how all Florence shall live.",
+                "vi": "Sẽ không còn âm mưu khoe khoang ra lệnh cho Florence sống như thế nào."
+            }
+        },
+        {
+            "content": "bè đảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mưu đồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phe đảng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

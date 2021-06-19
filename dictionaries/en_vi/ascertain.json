@@ -1,0 +1,62 @@
+{
+    "word": "ascertain",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌasərˈtān/",
+            "/ˌæsərˈteɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌasəˈteɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết chắc",
+            "type": "",
+            "example": {
+                "en": "There's no way to ascertain what's inside the station.",
+                "vi": "Không cách nào biết chắc chắn có gì trong Trạm."
+            }
+        },
+        {
+            "content": "chứng minh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sáng tỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết lập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm hiểu chắc chắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác định",
+            "type": "adjective verb",
+            "example": {
+                "en": "The vision of that which has already been proven or can be ascertained.",
+                "vi": "Loại tưởng tượng về cái đã được chứng thực hoặc có thể xác định được."
+            }
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

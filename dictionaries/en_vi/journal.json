@@ -1,0 +1,80 @@
+{
+    "word": "journal",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjərnl/",
+            "/ˈdʒərnl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒəːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhật ký",
+            "type": "noun",
+            "example": {
+                "en": "After two weeks record your experience in your journal.",
+                "vi": "Sau hai tuần, hãy ghi lại kinh nghiệm của em vào nhật ký."
+            }
+        },
+        {
+            "content": "tạp chí",
+            "type": "noun",
+            "example": {
+                "en": "So we submit it to a public access journal, and it says this.",
+                "vi": "Như vậy chúng tôi gửi nó đến một tạp chí phổ thông, và tạp chí đó nói vầy."
+            }
+        },
+        {
+            "content": "ngõng trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báo hằng ngày",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cổ trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báo",
+            "type": "noun verb",
+            "example": {
+                "en": "There's just no room for truth in journalism.",
+                "vi": "Thật là ko còn một sự thật nào trong làng báo chí cả."
+            }
+        },
+        {
+            "content": "ngõng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tập san",
+            "type": "",
+            "example": {
+                "en": "It was published Friday in the British medical journal Lancet .",
+                "vi": "Nghiên cứu này được công bố hôm thứ Sáu trong tập san y khoa Lancet của Anh ."
+            }
+        },
+        {
+            "content": "sổ ký sự",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

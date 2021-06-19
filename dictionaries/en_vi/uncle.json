@@ -1,0 +1,84 @@
+{
+    "word": "uncle",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəNGk(ə)l/",
+            "/ˈəŋk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌŋk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chú",
+            "type": "noun",
+            "example": {
+                "en": "It would be nice if my uncles were very rich.",
+                "vi": "Sẽ rất tuyệt nếu các chú tôi đều rất giàu."
+            }
+        },
+        {
+            "content": "bác",
+            "type": "noun",
+            "example": {
+                "en": "My junior and most of my senior year until I met your uncle.",
+                "vi": "Cả tuổi trẻ của ta và năm cuối cho đến khi ta gặp bác cháu."
+            }
+        },
+        {
+            "content": "cậu",
+            "type": "noun",
+            "example": {
+                "en": "Edward inherited his uncle's estate.",
+                "vi": "Edward thừa kế đất đai của chú cậu ấy."
+            }
+        },
+        {
+            "content": "dượng",
+            "type": "noun",
+            "example": {
+                "en": "Miss, are you truly going to marry your uncle?",
+                "vi": "Tiểu thư thật sự phải lấy dượng mình sao?"
+            }
+        },
+        {
+            "content": "bẩn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bẩn thỉu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "dâm ô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tinh khiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ô trọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chú/bác/cậu/dượng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

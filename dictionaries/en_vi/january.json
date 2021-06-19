@@ -1,0 +1,48 @@
+{
+    "word": "january",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjanyəˌwerē/",
+            "/ˈdʒænjəˌwɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒanjʊ(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "THÁNG 1",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thaùng gieâng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháng giêng",
+            "type": "proper",
+            "example": {
+                "en": "Quick, like the tongue of a snake, or slower than the molasses in January.",
+                "vi": "Nhanh, như lưỡi rắn, hay chậm như rã mật mía tháng Giêng."
+            }
+        },
+        {
+            "content": "tháng một",
+            "type": "proper",
+            "example": {
+                "en": "I don't recommend sitting on a gargoyle in the middle of January, naked.",
+                "vi": "Tôi không khuyên bạn ngồi lên một cái máng xối giữa tháng một, không mặc quần áo."
+            }
+        }
+    ]
+}

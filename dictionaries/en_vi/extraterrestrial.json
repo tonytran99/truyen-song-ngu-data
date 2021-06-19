@@ -1,0 +1,51 @@
+{
+    "word": "extraterrestrial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekstrətəˈrestrēəl/",
+            "/ˌɛkstrətəˈrɛstriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛkstrətəˈrɛstrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngoài trái đất",
+            "type": "",
+            "example": {
+                "en": "Is there perhaps an extraterrestrial plan for the human species?",
+                "vi": "Có thể có một kế hoạch ngoài trái đất cho loài người?"
+            }
+        },
+        {
+            "content": "ngoài hành tinh",
+            "type": "",
+            "example": {
+                "en": "Dr. Berube was conducting human experiments with extraterrestrial viruses.",
+                "vi": "Bác sĩ Berube đã thực hiện thí nghiệm những loại virut ngoài hành tinh trên con người."
+            }
+        },
+        {
+            "content": "ngoài Trái Đất",
+            "type": "",
+            "example": {
+                "en": "Is there perhaps an extraterrestrial plan for the human species?",
+                "vi": "Có thể có một kế hoạch ngoài trái đất cho loài người?"
+            }
+        },
+        {
+            "content": "ngoài quyển khí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

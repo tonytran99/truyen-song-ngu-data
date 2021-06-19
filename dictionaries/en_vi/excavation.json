@@ -1,0 +1,47 @@
+{
+    "word": "excavation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekskəˈvāSH(ə)n/",
+            "/ˌɛkskəˈveɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛkskəˈveɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự khai quật",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hố đào",
+            "type": "",
+            "example": {
+                "en": "15 He excavates a pit and digs it deep,",
+                "vi": "15 Hắn đào hố, đào thật sâu,"
+            }
+        },
+        {
+            "content": "khai quật",
+            "type": "",
+            "example": {
+                "en": "This street is from the Minoan level of the excavation.",
+                "vi": "Con đường này là ở mức kỷ Minoan của cuộc khai quật."
+            }
+        },
+        {
+            "content": "sự đào",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

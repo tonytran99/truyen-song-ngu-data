@@ -1,0 +1,176 @@
+{
+    "word": "but",
+    "type": [
+        "verb",
+        "noun",
+        "adverb",
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌt/",
+            "/bət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhưng",
+            "type": "conjunction",
+            "example": {
+                "en": "That book is thick, but it's not very expensive.",
+                "vi": "Quyển sách đó dày, nhưng nó không đắt lắm."
+            }
+        },
+        {
+            "content": "nhưng mà",
+            "type": "conjunction",
+            "example": {
+                "en": "I found a solution, but I found it so fast that it can't be the right solution.",
+                "vi": "Tôi đã tìm ra cách, nhưng mà tìm ra nhanh thế này thì chắc hẳn đó không phải là cách hay rồi."
+            }
+        },
+        {
+            "content": "mà",
+            "type": "conjunction",
+            "example": {
+                "en": "I meant to call her, but I forgot to.",
+                "vi": "Tôi định gọi cho cô ấy mà lại quên mất."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "She couldn't help but cry.",
+                "vi": "Nó chẳng biết phải làm gì, chỉ biết khóc thôi."
+            }
+        },
+        {
+            "content": "trừ",
+            "type": "verb",
+            "example": {
+                "en": "\"What toppings do you want on the pizza?\" \"Anything but anchovies.\"",
+                "vi": "\"Bạn muốn làm lớp mặt của pizza bằng gì?\" \"Bất cứ thứ gì trừ cá trồng.\""
+            }
+        },
+        {
+            "content": "song",
+            "type": "conjunction",
+            "example": {
+                "en": "I'd like to help you dear, but there's nothing I can do.",
+                "vi": "Ta rất muốn giúp cháu, song ta chẳng thể làm được gì."
+            }
+        },
+        {
+            "content": "chỉ là",
+            "type": "",
+            "example": {
+                "en": "It may seem like a minor thing to you, but for a lot of people this is really difficult to do.",
+                "vi": "Nó chỉ là việc nhỏ đối với bạn, nhưng đối với nhiều người khác việc đó rất khó thực hiện."
+            }
+        },
+        {
+            "content": "chỉ mới",
+            "type": "",
+            "example": {
+                "en": "No offense, Frank, but you just got here.",
+                "vi": "Không có ý gì đâu, Frank, nhưng anh chỉ mới đến đây thôi."
+            }
+        },
+        {
+            "content": "cái \"nhưng mà\"",
+            "type": "",
+            "example": {
+                "en": "I'd come down and give you a hug but I lost my pants.",
+                "vi": "Tôi sẽ xuống và ôm anh một cái nhưng mà tôi làm mất quần rồi."
+            }
+        },
+        {
+            "content": "mà lại không",
+            "type": "",
+            "example": {
+                "en": "All this fancy technology but they can't afford heat.",
+                "vi": "Họ đầu tư thiết bị đắt tiền mà lại không thể chi trả cho máy sưởi."
+            }
+        },
+        {
+            "content": "ngoài ra",
+            "type": "",
+            "example": {
+                "en": "The last couple days are missing, but... other than that, I feel fine.",
+                "vi": "Anh chỉ không nhớ được vài ngày qua, ngoài ra... anh cảm thấy ổn."
+            }
+        },
+        {
+            "content": "nói trái lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nếu không",
+            "type": "",
+            "example": {
+                "en": "But without your weapon you are nothing but a lonely hermit.",
+                "vi": "Nhưng nếu không có nó mi cũng chỉ như một đứa vô danh tiểu tốt mà thôi."
+            }
+        },
+        {
+            "content": "phản đối",
+            "type": "verb noun",
+            "example": {
+                "en": "Excuse me, monsieur, but I am opposed to that.",
+                "vi": "Xin lỗi, anh bạn, nhưng tôi phản đối chuyện đó."
+            }
+        },
+        {
+            "content": "thế nhưng",
+            "type": "",
+            "example": {
+                "en": "He has one of those cars, but he got it from a neighbor.",
+                "vi": "Nó có một cái xe như thế, nhưng là quà của bà hàng xóm cơ."
+            }
+        },
+        {
+            "content": "trừ ra",
+            "type": "",
+            "example": {
+                "en": "But the Savior taught that those who do so will be cut off from His covenant people.19",
+                "vi": "Nhưng Đấng Cứu Rỗi đã dạy rằng những người làm như vậy sẽ bị khai trừ ra khỏi dân giao ước của Ngài.19"
+            }
+        },
+        {
+            "content": "tuy nhiên",
+            "type": "adverb",
+            "example": {
+                "en": "It is an influence that is often subtle but yet has tremendous consequences.",
+                "vi": "Đó là ảnh huởng mà thường thường là khó thấy tuy nhiên có những kết quả quan trọng."
+            }
+        },
+        {
+            "content": "vậy mà",
+            "type": "adverb",
+            "example": {
+                "en": "Not only that but he wants to talk about your show.",
+                "vi": "Không chỉ vậy mà ổng còn muốn hỏi anh đã sẵn sàng cho một cuộc triển lãm chưa."
+            }
+        },
+        {
+            "content": "điều phản đối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều trái lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

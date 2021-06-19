@@ -1,0 +1,35 @@
+{
+    "word": "wight",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wīt/",
+            "/waɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ",
+            "type": "noun",
+            "example": {
+                "en": "The first wight I ever saw was brought into Castle Black from beyond the Wall.",
+                "vi": "Kẻ đầu tiên tôi nhìn thấy được đưa vào Hắc Lâu từ bên ngoài bức tường."
+            }
+        },
+        {
+            "content": "người",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

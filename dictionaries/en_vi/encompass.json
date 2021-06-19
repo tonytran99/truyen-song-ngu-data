@@ -1,0 +1,58 @@
+{
+    "word": "encompass",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkəmpəs/",
+            "/ɪnˈkəmpəs/",
+            "/enˈkəmpəs/",
+            "/ɛnˈkəmpəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkʌmpəs/",
+            "/ɛnˈkʌmpəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao quanh",
+            "type": "verb",
+            "example": {
+                "en": "Chi is an energy that encompasses us all.",
+                "vi": "Khí là năng lượng bao quanh tất cả chúng ta."
+            }
+        },
+        {
+            "content": "bao gồm chứa đựng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoàn thiện",
+            "type": "",
+            "example": {
+                "en": "the perimeter around Atlanta, which encompasses now —",
+                "vi": "đường vành đai bao quanh Atlanta, mà bây giờ hoàn thiện rồi —"
+            }
+        },
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vây quanh",
+            "type": "",
+            "example": {
+                "en": "encompassing family, friends and colleagues —",
+                "vi": "vây quanh bên gia đình, bạn bè và đồng nghiệp —"
+            }
+        }
+    ]
+}

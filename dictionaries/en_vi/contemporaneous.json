@@ -1,0 +1,43 @@
+{
+    "word": "contemporaneous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˌtempəˈrānēəs/",
+            "/kənˌtɛmpəˈreɪniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˌtɛmpəˈreɪnɪəs/",
+            "/kɒnˌtɛmpəˈreɪnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cùng thời",
+            "type": "adjective",
+            "example": {
+                "en": "Even contemporaneous records from ancient times often contradict one another.",
+                "vi": "Ngay cả những ghi chép cổ đại cùng thời cũng thường mâu thuẫn với nhau."
+            }
+        },
+        {
+            "content": "đương thời",
+            "type": "adjective",
+            "example": {
+                "en": "In the second or larger fulfillment, “this generation” would logically also be the contemporaneous people.",
+                "vi": "Trong lần ứng nghiệm thứ hai hoặc lớn hơn, nói rằng “thế hệ này” gồm những người đương thời cũng là điều hợp lý."
+            }
+        },
+        {
+            "content": "đồng thời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

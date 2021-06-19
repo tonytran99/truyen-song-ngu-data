@@ -1,0 +1,52 @@
+{
+    "word": "convalesce",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkänvəˈles/",
+            "/ˌkɑnvəˈlɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒnvəˈlɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dưỡng bệnh",
+            "type": "",
+            "example": {
+                "en": "I have a friend convalescing in this room.",
+                "vi": "Tôi có người bạn đang dưỡng bệnh trong phòng này."
+            }
+        },
+        {
+            "content": "hồi phục",
+            "type": "",
+            "example": {
+                "en": "I'm convalescing in Kure.",
+                "vi": "Anh hồi phục ở Kure rồi."
+            }
+        },
+        {
+            "content": "an dưỡng",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "dưỡng bịnh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lại sức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

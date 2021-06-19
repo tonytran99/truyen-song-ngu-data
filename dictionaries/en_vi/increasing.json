@@ -1,0 +1,39 @@
+{
+    "word": "increasing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iNGˈkrēsēNG/",
+            "/ɪŋˈkrisiŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkriːsɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngày càng tăng",
+            "type": "",
+            "example": {
+                "en": "The demand keeps increasing and the merchandise keeps on coming.",
+                "vi": "Nhu cầu ngày càng tăng và hàng về tới tấp."
+            }
+        },
+        {
+            "content": "tăng dần",
+            "type": "",
+            "example": {
+                "en": "The stakes rise as the risk of injury or even death increases.",
+                "vi": "Nguy cơ bị thương, hoặc thậm chí thiệt mạng, tăng dần lên."
+            }
+        }
+    ]
+}

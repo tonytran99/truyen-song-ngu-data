@@ -1,0 +1,51 @@
+{
+    "word": "hut",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "túp lều",
+            "type": "",
+            "example": {
+                "en": "And you barely might be able to make out this hut here.",
+                "vi": "Và bạn có thể chỉ thấy được sơ sơ túp lều ở đây."
+            }
+        },
+        {
+            "content": "cho ở lều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lều",
+            "type": "noun",
+            "example": {
+                "en": "I stopped for a while at Parkin's hut.",
+                "vi": "Em đã dừng lại một chút ở lều của Parkin."
+            }
+        },
+        {
+            "content": "Túp lều",
+            "type": "",
+            "example": {
+                "en": "This hut for making charcoal.",
+                "vi": "Túp lều này là để làm than củi."
+            }
+        }
+    ]
+}

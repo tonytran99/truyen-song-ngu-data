@@ -1,0 +1,59 @@
+{
+    "word": "curator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkyo͝orˌādər/",
+            "/ˈkjʊrˌeɪdər/",
+            "/kyo͝oˈrādər/",
+            "/kjʊˈreɪdər/",
+            "/ˈkyo͝orədər/",
+            "/ˈkjʊrədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kjʊ(ə)ˈreɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người phụ trách",
+            "type": "noun",
+            "example": {
+                "en": "I need to have confidence in my curators, Beth...",
+                "vi": "Tôi cần phải có lòng tin đối với người phụ trách chương trình, Beth à..."
+            }
+        },
+        {
+            "content": "người quản lý",
+            "type": "",
+            "example": {
+                "en": "We have an appointment with the curator tomorrow afternoon.",
+                "vi": "Bọn con có một cuộn hẹn với người quản lý vào chiều mai."
+            }
+        },
+        {
+            "content": "người trông nom",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giám tuyển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người phụ trách bảo tàng",
+            "type": "",
+            "example": {
+                "en": "Curators had noticed that one word throughout had been scratched out and overwritten.",
+                "vi": "Người phụ trách bảo tàng đã nhắc rằng có một chữ trong đó đã bị gạch đi và ghi đè lên."
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "convinced",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvinst/",
+            "/kənˈvɪnst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈvɪnst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị thuyết phục",
+            "type": "adjective",
+            "example": {
+                "en": "And then you'll be even more convinced you can't succeed.",
+                "vi": "Và sau đó bạn sẽ bị thuyết phục hơn bạn không thể thành công."
+            }
+        },
+        {
+            "content": "tin chắc",
+            "type": "",
+            "example": {
+                "en": "I am still convinced they're going to attack us.",
+                "vi": "Tôi vẫn tin chắc là họ sắp tấn công chúng ta."
+            }
+        },
+        {
+            "content": "yên trí",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

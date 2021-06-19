@@ -1,0 +1,59 @@
+{
+    "word": "grandfather",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)ˌfäT͟Hər/",
+            "/ˈɡræn(d)ˌfɑðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)fɑːðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ông",
+            "type": "noun",
+            "example": {
+                "en": "My grandfather is very hard to please.",
+                "vi": "Ông tôi rất khó chiều."
+            }
+        },
+        {
+            "content": "ôông",
+            "type": "pronoun noun",
+            "example": {}
+        },
+        {
+            "content": "ông ngoại",
+            "type": "noun",
+            "example": {
+                "en": "We must search for shelter before your grandfather comes.",
+                "vi": "Chúng ta phải tìm nơi ẩn náu trước khi ông ngoại ngươi đến."
+            }
+        },
+        {
+            "content": "ông nội",
+            "type": "noun",
+            "example": {
+                "en": "The grandfather and father then baptized each other and many of the grandchildren.",
+                "vi": "Sau đó, ông nội và người cha làm phép báp têm cho nhau và cho rất nhiều cháu."
+            }
+        },
+        {
+            "content": "ông bà",
+            "type": "",
+            "example": {
+                "en": "They live in their grandfather's house in California.",
+                "vi": "Mấy đứa nhỏ đang sống với ông bà chúng trong một căn nhà... có hồ bơi ở California."
+            }
+        }
+    ]
+}

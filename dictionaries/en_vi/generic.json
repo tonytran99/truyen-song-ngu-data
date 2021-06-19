@@ -1,0 +1,48 @@
+{
+    "word": "generic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəˈnerik/",
+            "/dʒəˈnɛrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪˈnɛrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chung",
+            "type": "adjective",
+            "example": {
+                "en": "Youth is, in general, the perfect time to make personal plans.",
+                "vi": "Nói chung, tuổi trẻ là thời gian lý tưởng để lập kế hoạch cá nhân."
+            }
+        },
+        {
+            "content": "cùng giống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cùng loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống loài",
+            "type": "",
+            "example": {
+                "en": "Generic: Simulate a generic black and white film",
+                "vi": "Giống loài: Mô phỏng mảnh thuốc đen trắng giống loài"
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "favorite",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfāv(ə)rət/",
+            "/ˈfeɪv(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người được ưa chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quý phi",
+            "type": "",
+            "example": {
+                "en": "You'll become his favorite mother of his children",
+                "vi": "Cô sẽ trở thành quý phi của ổng, mẹ của các con ổng."
+            }
+        },
+        {
+            "content": "sủng thần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật được ưa thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ái thiếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được mến chuộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được ưa thích",
+            "type": "",
+            "example": {
+                "en": "For the Jin family of Georgia, USA, family history is a favorite home evening activity.",
+                "vi": "Đối với gia đình Jin ở Georgia, Hoa Kỳ, lịch sử gia đình là một sinh hoạt buổi họp tối được ưa thích."
+            }
+        },
+        {
+            "content": "ưa chuộng",
+            "type": "",
+            "example": {
+                "en": "At the first blows of sword on shield, the frenzied crowd yells encouragement to their favorite.",
+                "vi": "Ngay khi đường gươm đầu tiên chém vào khiên, đám đông điên cuồng đã la hét để cổ vũ đấu thủ họ ưa chuộng."
+            }
+        },
+        {
+            "content": "ưa thích nhất",
+            "type": "noun",
+            "example": {
+                "en": "The device Timothy is strapped to is my personal favorite.",
+                "vi": "Cái thiết bị Timothy bị trói vào là thứ ưa thích nhất của cá nhân tôi."
+            }
+        }
+    ]
+}

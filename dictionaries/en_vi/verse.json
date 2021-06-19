@@ -1,0 +1,100 @@
+{
+    "word": "verse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vərs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thơ",
+            "type": "noun",
+            "example": {
+                "en": "My poor fellow, are there any particular verses you'd like to hear?",
+                "vi": "Người bạn khốn khổ, anh muốn nghe một khổ thơ đặc biệt nào không?"
+            }
+        },
+        {
+            "content": "câu thơ",
+            "type": "",
+            "example": {
+                "en": "But it's interesting to me. I love to write historical verse.",
+                "vi": "Nhưng đó là thú vị với tôi. Tôi thích viết câu thơ historical."
+            }
+        },
+        {
+            "content": "đoạn thơ",
+            "type": "",
+            "example": {
+                "en": "Or take the infamous verse about killing the unbelievers.",
+                "vi": "Hoặc lấy ví dụ đoạn thơ nổi tiếng về cuộc tàn sát những người ngoại đạo."
+            }
+        },
+        {
+            "content": "câu",
+            "type": "noun",
+            "example": {
+                "en": "You may want to write part of these definitions next to the verses.",
+                "vi": "Các em có thể muốn viết một phần các định nghĩa này bên cạnh các câu thánh thư."
+            }
+        },
+        {
+            "content": "cú",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bài thơ",
+            "type": "noun",
+            "example": {
+                "en": "A poet set to verse the sorrow of opportunities forever lost.",
+                "vi": "Một thi sĩ đã làm bài thơ thương tiếc cho cơ hội đã đánh mất vĩnh viễn."
+            }
+        },
+        {
+            "content": "diễn tả bằng thơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vần thơ",
+            "type": "noun",
+            "example": {
+                "en": "I am as accomplished with sword and musket as I am in verse.",
+                "vi": "Cháu đang là một chiến binh và súng đạn là những vần thơ"
+            }
+        },
+        {
+            "content": "tiết",
+            "type": "verb noun",
+            "example": {
+                "en": "Megan: There’s another detail in this verse that I would like to draw to your attention.",
+                "vi": "Mai: Chị có thể để ý đến một chi tiết khác trong câu này."
+            }
+        },
+        {
+            "content": "thi",
+            "type": "noun",
+            "example": {
+                "en": "I'm well-versed in the classics.",
+                "vi": "Tôi rất rành về cổ thi, bác sĩ."
+            }
+        }
+    ]
+}

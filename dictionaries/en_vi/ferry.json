@@ -1,0 +1,90 @@
+{
+    "word": "ferry",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈferē/",
+            "/ˈfɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phà",
+            "type": "noun",
+            "example": {
+                "en": "The smell of gasoline could Thi bring back memories of the first ferry crossing.",
+                "vi": "Mùi dầu máy có thể đem lại ký ức về chuyến đi phà lần đầu tiên của bạn."
+            }
+        },
+        {
+            "content": "chở",
+            "type": "verb",
+            "example": {
+                "en": "It could have been stolen to drive the bomb to the ferry.",
+                "vi": "Có thể là đã bị đánh cắp dùng để chở bom lên phà."
+            }
+        },
+        {
+            "content": "bến phà",
+            "type": "noun",
+            "example": {
+                "en": "So, you dragged me to a ferry stop, why?",
+                "vi": "Anh dẫn em đến một bến phà, chi vậy?"
+            }
+        },
+        {
+            "content": "đò",
+            "type": "noun",
+            "example": {
+                "en": "Up ahead is the Yellow River ferry crossing.",
+                "vi": "Đến phía trước chính là Hoàng Hà đò khẩu."
+            }
+        },
+        {
+            "content": "chuyên chở",
+            "type": "",
+            "example": {
+                "en": "Brick clay had to be dug and straw ferried to the brickyard.",
+                "vi": "Phải đào bùn và chuyên chở rơm đến chỗ làm gạch."
+            }
+        },
+        {
+            "content": "qua sông bằng phà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyền chở phà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ra sân bay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đò ngang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phà",
+            "type": "",
+            "example": {
+                "en": "The smell of gasoline could Thi bring back memories of the first ferry crossing.",
+                "vi": "Mùi dầu máy có thể đem lại ký ức về chuyến đi phà lần đầu tiên của bạn."
+            }
+        }
+    ]
+}

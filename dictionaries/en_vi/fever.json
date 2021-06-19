@@ -1,0 +1,103 @@
+{
+    "word": "fever",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfēvər/",
+            "/ˈfivər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiːvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơn sốt",
+            "type": "noun",
+            "example": {
+                "en": "Before long, however, the biochemist broke out in a fever.",
+                "vi": "Tuy nhiên, không lâu sau đó thì nhà sinh hóa học này lên cơn sốt."
+            }
+        },
+        {
+            "content": "sốt",
+            "type": "noun",
+            "example": {
+                "en": "You do not have a fever.",
+                "vi": "Bạn không có bị sốt."
+            }
+        },
+        {
+            "content": "nhiệt",
+            "type": "adjective noun",
+            "example": {
+                "en": "How did you know that honeysuckle works on fevers?",
+                "vi": "Sao người biết nó có tác dụng hạ nhiệt?"
+            }
+        },
+        {
+            "content": "ban",
+            "type": "noun",
+            "example": {
+                "en": "Early symptoms are likely to be fever often followed by a sore throat .",
+                "vi": "Các triệu chứng ban đầu có thể là sốt thường kèm theo đau họng ."
+            }
+        },
+        {
+            "content": "bệnh sốt",
+            "type": "",
+            "example": {
+                "en": "Can one contract the marsh fever in these mountainous regions?",
+                "vi": "Người ta có thể mắc bệnh sốt rét ở vùng núi không?"
+            }
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "'Cause he had buck fever.",
+                "vi": "Vì chú ấy đã bị kích thích quá."
+            }
+        },
+        {
+            "content": "làm bồn chồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phát sốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xúc động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bồn chồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xúc động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Sốt",
+            "type": "",
+            "example": {
+                "en": "You do not have a fever.",
+                "vi": "Bạn không có bị sốt."
+            }
+        }
+    ]
+}

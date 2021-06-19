@@ -1,0 +1,35 @@
+{
+    "word": "unicycle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞onəˌsīk(ə)l/",
+            "/ˈjunəˌsaɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːnɪsʌɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe đạp một bánh",
+            "type": "noun",
+            "example": {
+                "en": "Riding a unicycle is one thing I'm not very good at.",
+                "vi": "Đi xe đạp một bánh là một trò mà tôi không thông thạo lắm."
+            }
+        },
+        {
+            "content": "Xe đạp một bánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

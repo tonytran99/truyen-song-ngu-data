@@ -1,0 +1,42 @@
+{
+    "word": "goldsmith",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡōl(d)smiTH/",
+            "/ˈɡoʊl(d)smɪθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəʊl(d)smɪθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ bạc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thợ vàng",
+            "type": "",
+            "example": {
+                "en": "A wooden frame is fashioned by a carpenter, who then encourages the goldsmith to plate it with metal, perhaps gold.",
+                "vi": "Một người thợ mộc đẽo hình gỗ rồi động viên thợ vàng mạ nó bằng kim loại, có thể là vàng."
+            }
+        },
+        {
+            "content": "thợ kim hoàn",
+            "type": "noun",
+            "example": {
+                "en": "Perhaps she enjoyed going to the market in Shushan, where goldsmiths, silversmiths, and other merchants displayed their wares.",
+                "vi": "Có lẽ Ê-xơ-tê thích đi đến chợ ở Su-sơ, là nơi những thợ kim hoàn và nhà buôn trưng bày hàng hóa."
+            }
+        }
+    ]
+}

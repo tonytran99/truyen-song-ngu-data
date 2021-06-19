@@ -1,0 +1,41 @@
+{
+    "word": "crushing",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrəSHiNG/",
+            "/ˈkrəʃɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrʌʃɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liểng xiểng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm liểng xiểng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tan nát",
+            "type": "",
+            "example": {
+                "en": "it is the crushing psychological remoteness",
+                "vi": "nó chính là sự cách biệt làm tan nát tâm lý"
+            }
+        }
+    ]
+}

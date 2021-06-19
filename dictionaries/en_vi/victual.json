@@ -1,0 +1,50 @@
+{
+    "word": "victual",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvidl/",
+            "/ˈvɪdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lương thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mua thức ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {
+                "en": "Victuals, coin, clothing or your life.",
+                "vi": "Thức ăn, tiền, trang phục hoặc là cái mạng cô."
+            }
+        },
+        {
+            "content": "thực phẩm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ăn uống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

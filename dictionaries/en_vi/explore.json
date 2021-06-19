@@ -1,0 +1,62 @@
+{
+    "word": "explore",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsplôr/",
+            "/ɪkˈsplɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsplɔː/",
+            "/ɛkˈsplɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thám hiểm",
+            "type": "verb",
+            "example": {
+                "en": "Early explorers used the stars for navigation.",
+                "vi": "Các nhà thám hiểm trước đây sử dụng các ngôi sao để định hướng."
+            }
+        },
+        {
+            "content": "探險",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khảo sát tỉ mỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thăm dò",
+            "type": "",
+            "example": {
+                "en": "About a year ago, we started exploring these outer sections.",
+                "vi": "Khoảng một năm trước, bọn tôi bắt đầu thăm dò các khu vực bên ngoài."
+            }
+        },
+        {
+            "content": "nghiên cứu",
+            "type": "verb",
+            "example": {
+                "en": "How could he know we're exploring a major push in that field?",
+                "vi": "Sao anh ta biết chúng ta đang nghiên cứu lãnh vực đó?"
+            }
+        },
+        {
+            "content": "thông dò",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

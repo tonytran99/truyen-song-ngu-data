@@ -1,0 +1,57 @@
+{
+    "word": "cursory",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərs(ə)rē/",
+            "/ˈkərs(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːs(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vội",
+            "type": "adjective",
+            "example": {
+                "en": "Forgive me for the cursory nature of my greeting.",
+                "vi": "Xin thứ lỗi cho sự đón tiếp vội vàng của tôi."
+            }
+        },
+        {
+            "content": "nhanh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lướt qua",
+            "type": "adjective",
+            "example": {
+                "en": "It does not eye you with a cursory glance",
+                "vi": "Nó không nhìn lướt qua bạn"
+            }
+        },
+        {
+            "content": "phiên phiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơ lược",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sơ sài",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

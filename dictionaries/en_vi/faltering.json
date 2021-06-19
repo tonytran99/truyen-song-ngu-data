@@ -1,0 +1,60 @@
+{
+    "word": "faltering",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôltəriNG/",
+            "/ˈfɔltərɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːltərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngập ngừng",
+            "type": "noun",
+            "example": {
+                "en": "“‘But I cannot go without asking Grandmother,’ faltered Rupert.",
+                "vi": "“Rupert ngập ngừng trả lời: ‘Nhưng tôi không thể đi mà không xin phép Bà Nội.’"
+            }
+        },
+        {
+            "content": "ấp úng",
+            "type": "noun",
+            "example": {
+                "en": "\" It is foolish and wicked , \" he faltered .",
+                "vi": "\" Việc này hết sức dại dột và điên rồ \" ông ấp úng ."
+            }
+        },
+        {
+            "content": "loạng choạng",
+            "type": "",
+            "example": {
+                "en": "Death comes to the aged as they walk on faltering feet.",
+                "vi": "Cái chết đến với người già khi họ bước đi loạng choạng."
+            }
+        },
+        {
+            "content": "nao núng",
+            "type": "",
+            "example": {
+                "en": "He must have been nervous, but he never faltered.",
+                "vi": "Anh ta rất căng thẳng, nhưng không hề nao núng."
+            }
+        },
+        {
+            "content": "sút kém",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

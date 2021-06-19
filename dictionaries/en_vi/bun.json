@@ -1,0 +1,54 @@
+{
+    "word": "bun",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh sữa nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh bao nhân nho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "búi tóc nhỏ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chú sóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chú thỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh bao",
+            "type": "",
+            "example": {
+                "en": "I was thinking maybe I could also sell the bean buns.",
+                "vi": "Con đang nghĩ liệu con có thể... bán thêm bánh bao nhân đậu."
+            }
+        }
+    ]
+}

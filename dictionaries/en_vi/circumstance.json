@@ -1,0 +1,83 @@
+{
+    "word": "circumstance",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərkəmˌstans/",
+            "/ˈsərkəmˌstæns/",
+            "/ˈsərkəmstəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːkəmst(ə)ns/",
+            "/ˈsəːkəmstans/",
+            "/ˈsəːkəmstɑːns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trường hợp",
+            "type": "noun",
+            "example": {
+                "en": "The reason this was allowed had to do with special circumstances.",
+                "vi": "Lý do việc kết hôn đó được phép vì những trường hợp đặc biệt."
+            }
+        },
+        {
+            "content": "tình huống",
+            "type": "noun",
+            "example": {
+                "en": "Due to unforeseen circumstances, tonight's meeting has been cancelled until further notice.",
+                "vi": "Vì những tình huống đột ngột, buổi hội nghị tối nay sẽ bị hủy bỏ cho đến khi có thông báo tiếp theo."
+            }
+        },
+        {
+            "content": "chi tiết",
+            "type": "",
+            "example": {
+                "en": "Give me straight answers, and I'll be kind enough to omit the circumstances of our interview.",
+                "vi": "Hãy cho tôi câu trả lời thẳng thắn, và tôi sẽ rộng lượng bỏ qua mọi chi tiết trong cuộc phỏng vấn của chúng ta."
+            }
+        },
+        {
+            "content": "hoàn cảnh",
+            "type": "noun",
+            "example": {
+                "en": "If your present circumstances do not permit it, perhaps an adjustment can be made.",
+                "vi": "Nếu hoàn cảnh hiện tại chưa cho phép, bạn có thể điều chỉnh hoàn cảnh của mình."
+            }
+        },
+        {
+            "content": "nghi lễ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nghi thức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự kiện",
+            "type": "noun",
+            "example": {
+                "en": "His circumstances were changed by events beyond his control.",
+                "vi": "Hoàn cảnh của ông đã thay đổi qua những sự kiện ngoài tầm kiểm soát."
+            }
+        },
+        {
+            "content": "sự việc",
+            "type": "noun",
+            "example": {
+                "en": "And I have some questions about the circumstances surrounding his death.",
+                "vi": "Và tôi có vài câu hỏi về những sự việc xoay quanh cái chết của hắn ta."
+            }
+        }
+    ]
+}

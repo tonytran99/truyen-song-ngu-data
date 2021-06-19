@@ -1,0 +1,40 @@
+{
+    "word": "critique",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriˈtēk/",
+            "/krɪˈtik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krɪˈtiːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài phê bình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghệ thuật phê bình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phê bình",
+            "type": "",
+            "example": {
+                "en": "What was very surprising to me was Tom's critique,",
+                "vi": "Điều rất bất ngờ với tôi là phê bình của Tom,"
+            }
+        }
+    ]
+}

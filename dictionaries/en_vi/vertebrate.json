@@ -1,0 +1,36 @@
+{
+    "word": "vertebrate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərdəbrət/",
+            "/ˈvərdəˌbrāt/",
+            "/ˈvərdəˌbreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːtɪbrət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có xương sống",
+            "type": "",
+            "example": {
+                "en": "The vertebrates came out of the sea, and here we are.",
+                "vi": "Động vật có xương sống ra ngoài biển khơi, và rồi có chúng ta ở đây."
+            }
+        },
+        {
+            "content": "động vật có xương sống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

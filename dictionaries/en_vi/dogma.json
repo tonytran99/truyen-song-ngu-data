@@ -1,0 +1,45 @@
+{
+    "word": "dogma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôɡmə/",
+            "/ˈdɔɡmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒɡmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo điều",
+            "type": "noun",
+            "example": {
+                "en": "Because we will throw away these political dogmas.",
+                "vi": "Vì chúng ta sẽ gạt bỏ đi những giáo điều chính trị này."
+            }
+        },
+        {
+            "content": "giáo lý",
+            "type": "noun",
+            "example": {
+                "en": "Certain dogmas are accepted, whereas others are cast aside.",
+                "vi": "Trong khi một số giáo lý được chấp nhận, cũng có những số khác bị khước từ."
+            }
+        },
+        {
+            "content": "tín điều",
+            "type": "",
+            "example": {
+                "en": "That was the dogma.",
+                "vi": "Đó đã thành 1 tín điều."
+            }
+        }
+    ]
+}

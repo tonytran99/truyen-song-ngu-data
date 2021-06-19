@@ -1,0 +1,91 @@
+{
+    "word": "each",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēCH/",
+            "/itʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỗi",
+            "type": "pronoun",
+            "example": {
+                "en": "Each child has an individual way of thinking.",
+                "vi": "Mỗi đứa trẻ có một cách suy nghĩ khác nhau."
+            }
+        },
+        {
+            "content": "mỗi một",
+            "type": "",
+            "example": {
+                "en": "But you also can't forget that each individual move",
+                "vi": "Nhưng bạn cũng không được quên là mỗi một bước di chuyển"
+            }
+        },
+        {
+            "content": "từng",
+            "type": "pronoun",
+            "example": {
+                "en": "Tom and I were meant for each other.",
+                "vi": "Tôi và Tom đã từng là thứ gì đó của nhau."
+            }
+        },
+        {
+            "content": "mỗi người",
+            "type": "",
+            "example": {
+                "en": "Read one sentence each.",
+                "vi": "Mỗi người đọc một đoạn."
+            }
+        },
+        {
+            "content": "các",
+            "type": "determiner",
+            "example": {
+                "en": "They'd collected information with photos. They'd manually build each building.",
+                "vi": "Họ sẽ thu thập thông tin từ những tấm ảnh, và xây các công trình bằng tay."
+            }
+        },
+        {
+            "content": "hàng",
+            "type": "verb noun",
+            "example": {
+                "en": "The pressures we feel each day are tremendous.",
+                "vi": "Chúng ta cảm thấy áp lực đè nặng trên chúng ta hàng ngày."
+            }
+        },
+        {
+            "content": "mỗi cái",
+            "type": "",
+            "example": {
+                "en": "One by one, take out a pair of shoes from each box.",
+                "vi": "Lần lượt lấy từng đôi giày một ra khỏi mỗi cái hộp."
+            }
+        },
+        {
+            "content": "mỗi vật",
+            "type": "",
+            "example": {
+                "en": "Each one has four faces—that of a bull, a lion, an eagle, and a man.",
+                "vi": "Mỗi vật sống có bốn gương mặt—mặt bò đực, mặt sư tử, mặt chim ưng và mặt người."
+            }
+        },
+        {
+            "content": "hang",
+            "type": "determiner",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "innate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnāt/",
+            "/ɪˈneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈneɪt/",
+            "/ˈɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bẩm sinh",
+            "type": "adjective",
+            "example": {
+                "en": "Was it a product of his innate gifts?",
+                "vi": "Có phải là do tài năng bẩm sinh của ông?"
+            }
+        },
+        {
+            "content": "phú bẩm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sẵn có",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

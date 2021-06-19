@@ -1,0 +1,48 @@
+{
+    "word": "extenuate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈstenyəˌwāt/",
+            "/ɪkˈstɛnjəˌweɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstɛnjʊeɪt/",
+            "/ɛkˈstɛnjʊeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giảm nhẹ",
+            "type": "",
+            "example": {
+                "en": "Is it possible that there are extenuating circumstances",
+                "vi": "Liệu rằng có lý khi các trường hợp giảm nhẹ"
+            }
+        },
+        {
+            "content": "giảm nhẹ tội",
+            "type": "",
+            "example": {
+                "en": "The court grants the motion to excuse juror number eight from service due to extenuating personal circumstances.",
+                "vi": "Tòa chấp nhận xin phép rời đi của bồi thẩm số 8 xét theo những hoàn cảnh làm giảm nhẹ tội."
+            }
+        },
+        {
+            "content": "làm suy nhược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm yếu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

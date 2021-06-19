@@ -1,0 +1,111 @@
+{
+    "word": "utter",
+    "type": [
+        "adjective",
+        "verb",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nói",
+            "type": "verb",
+            "example": {
+                "en": "And we would plot the relative length of the utterances.",
+                "vi": "Và chúng tôi ghi nhận độ dài của câu nói."
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "adjective",
+            "example": {
+                "en": "For me, the worst was the feeling of utter powerlessness.",
+                "vi": "Với tôi, cảm xúc đáng sợ nhất là cảm thấy bất lực hoàn toàn."
+            }
+        },
+        {
+            "content": "phát ra",
+            "type": "",
+            "example": {
+                "en": "However, the literal serpent did not have vocal cords that could utter speech, did it?",
+                "vi": "Tuy nhiên, con rắn thật sự không có các dây thanh âm để phát ra tiếng nói, phải không?"
+            }
+        },
+        {
+            "content": "thốt ra",
+            "type": "",
+            "example": {
+                "en": "At Delphi, for example, the answers provided were uttered in unintelligible sounds.",
+                "vi": "Thí dụ, tại Delphi câu trả lời được thốt ra bằng những âm thanh khó hiểu."
+            }
+        },
+        {
+            "content": "thốt",
+            "type": "verb",
+            "example": {
+                "en": "I think that's the first time those words have been uttered in joy.",
+                "vi": "Tôi nghĩ đây là lần đầu tiên những từ đó được thốt ra trong hân hoan."
+            }
+        },
+        {
+            "content": "cực kỳ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cực độ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bày tỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho lưu hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói ra",
+            "type": "",
+            "example": {
+                "en": "I never thought I'd utter these words, but I think we need a Nazi.",
+                "vi": "Tôi ko bao giờ muốn nói ra lời này, nhưng ta cần bọn phát xít."
+            }
+        },
+        {
+            "content": "phát biểu",
+            "type": "",
+            "example": {
+                "en": "What surprising statement did King Agrippa utter?",
+                "vi": "Vua Ạc-ríp-ba phát biểu lời đáng ngạc nhiên nào?"
+            }
+        },
+        {
+            "content": "phát hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyệt đối",
+            "type": "",
+            "example": {
+                "en": "Not to utter resignation, but to affirm herself.",
+                "vi": "Không phải để cam chịu tuyệt đối, mà là để quả quyết bản thân."
+            }
+        }
+    ]
+}

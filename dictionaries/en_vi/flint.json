@@ -1,0 +1,54 @@
+{
+    "word": "flint",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flint/",
+            "/flɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đá lửa",
+            "type": "noun",
+            "example": {
+                "en": "Like a diamond, harder than flint, I have made your forehead.",
+                "vi": "Ta làm cho trán ngươi cứng như kim-cương, cứng hơn đá lửa."
+            }
+        },
+        {
+            "content": "viên đá lửa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "keo cú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rán sành ra mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đá lửa",
+            "type": "",
+            "example": {
+                "en": "Like a diamond, harder than flint, I have made your forehead.",
+                "vi": "Ta làm cho trán ngươi cứng như kim-cương, cứng hơn đá lửa."
+            }
+        }
+    ]
+}

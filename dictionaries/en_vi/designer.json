@@ -1,0 +1,48 @@
+{
+    "word": "designer",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzīnər/",
+            "/dəˈzaɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzʌɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà thiết kế",
+            "type": "noun",
+            "example": {
+                "en": "No. Designers aspire to be really great designers.",
+                "vi": "Không. Những nhà thiết kế khao khát trở thành những nhà thiết kế vĩ đại."
+            }
+        },
+        {
+            "content": "người phác hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thiết kế",
+            "type": "",
+            "example": {
+                "en": "Not if you designed the place, it isn't.",
+                "vi": "Nếu anh là người thiết kế ra nó thì ko có gì là ko thể."
+            }
+        },
+        {
+            "content": "người vẽ kiểu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

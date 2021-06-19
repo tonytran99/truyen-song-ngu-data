@@ -1,0 +1,37 @@
+{
+    "word": "foundry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfoundrē/",
+            "/ˈfaʊndri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaʊndri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò đúc",
+            "type": "noun",
+            "example": {
+                "en": "Here was a secondary facility... in case the foundry was compromised.",
+                "vi": "Đây là cơ sở thứ hai trong trường hợp cái lò đúc bị chiếm."
+            }
+        },
+        {
+            "content": "xưởng đúc",
+            "type": "noun",
+            "example": {
+                "en": "Diggle, the foundry's been compromised and we need to get Roy out of there.",
+                "vi": "Diggle, xưởng đúc đã bị xâm nhập chúng ta cần phải đưa Roy ra khỏi đó."
+            }
+        }
+    ]
+}

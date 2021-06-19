@@ -1,0 +1,71 @@
+{
+    "word": "evaporate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈvapəˌrāt/",
+            "/əˈvæpəˌreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈvapəreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bay hơi",
+            "type": "verb",
+            "example": {
+                "en": "When you evaporate seawater, the first thing to crystallize out",
+                "vi": "Khi bạn làm nước biển bay hơi, thứ đầu tiên kết tinh"
+            }
+        },
+        {
+            "content": "làm bay hơi",
+            "type": "",
+            "example": {
+                "en": "which will actually zap the rock, evaporate some of it,",
+                "vi": "sẽ phá tảng đá, làm bay hơi một phần,"
+            }
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "biến mất",
+            "type": "",
+            "example": {
+                "en": "You have very poor evaporating skills.",
+                "vi": "Anh đâu có thể biến mất như tôi."
+            }
+        },
+        {
+            "content": "bốc hơi",
+            "type": "verb",
+            "example": {
+                "en": "As it evaporates into the air, it takes heat with it.",
+                "vi": "Khi nó bốc hơi vào không khí, nó mang theo nhiệt."
+            }
+        },
+        {
+            "content": "làm khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tan biến",
+            "type": "",
+            "example": {
+                "en": "Should that myth evaporate, so goes his worth.",
+                "vi": "Chuyện thần thoại đó nên tan biến đi, giá trị của hắn cũng vậy"
+            }
+        }
+    ]
+}

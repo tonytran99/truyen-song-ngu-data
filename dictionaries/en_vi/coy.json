@@ -1,0 +1,69 @@
+{
+    "word": "coy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/koi/",
+            "/kɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "e lệ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rụt rè",
+            "type": "adjective",
+            "example": {
+                "en": "You're being very coy about your aspirations, Alex.",
+                "vi": "Anh có vẻ quá rụt rè với khát vọng của mình rồi, Alex."
+            }
+        },
+        {
+            "content": "bẽn lẽn",
+            "type": "adjective",
+            "example": {
+                "en": "At first, he's a little coy.",
+                "vi": "Chàng hơi bẽn lẽn."
+            }
+        },
+        {
+            "content": "cách biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hẻo lánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm duyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm dáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xấu hổ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

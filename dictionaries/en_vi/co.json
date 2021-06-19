@@ -1,0 +1,33 @@
+{
+    "word": "co",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kō/",
+            "/koʊ/",
+            "/ˌsēˈō/",
+            "/ˌsiˈoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊ/",
+            "/siːˈəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công ty",
+            "type": "noun",
+            "example": {
+                "en": "Double-entry accounting was first documented by a company named Giovanni Farolfi Co about 1300 .",
+                "vi": "Hệ thống kế toán kép lần đầu tiên do một công ty có tên là Giovanni Farolfi Co sử dụng khoảng năm 1300 ."
+            }
+        }
+    ]
+}

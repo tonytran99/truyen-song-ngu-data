@@ -1,0 +1,106 @@
+{
+    "word": "expert",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekˌspərt/",
+            "/ˈɛkˌspərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛkspəːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyên gia",
+            "type": "noun",
+            "example": {
+                "en": "Medical doctors, they're experts on the population, but you are the expert on yourself.",
+                "vi": "Bác sỹ, họ là chuyên gia của cả cộng đồng nhưng bạn là chuyên gia của chính bạn."
+            }
+        },
+        {
+            "content": "chuyên viên",
+            "type": "noun",
+            "example": {
+                "en": "Dutch forensic experts are helping to identify the bodies .",
+                "vi": "Các chuyên viên pháp y người Hà Lan cũng giúp đỡ để nhận dạng các thi thể ."
+            }
+        },
+        {
+            "content": "lão luyện",
+            "type": "adjective, noun",
+            "example": {
+                "en": "Anti-establishment radical, gun fanatic, weapons expert.",
+                "vi": "Hệ thống cực đoan, những người mê súng, vũ khí lão luyện."
+            }
+        },
+        {
+            "content": "thành thạo",
+            "type": "adjective",
+            "example": {
+                "en": "Reports are vague, but it seems like the killer is an expert with knives.",
+                "vi": "Những bản báo cáo khá mơ hồ, tuy nhiên có vẻ như sát nhân dùng dao khá thành thạo."
+            }
+        },
+        {
+            "content": "về mặt chuyên môn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyên môn",
+            "type": "",
+            "example": {
+                "en": "And in my expert opinion she is extremely dangerous.",
+                "vi": "Mà theo ý kiến chuyên môn của tôi, cô ta cực kỳ nguy hiểm."
+            }
+        },
+        {
+            "content": "của nhà chuyên môn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giám định viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà chuyên môn",
+            "type": "noun",
+            "example": {
+                "en": "Several experts have been lined up to testify against the Bailey's structural integrity.",
+                "vi": "Vài nhà chuyên môn đã lên tiếng làm chứng phê bình cấu trúc của Tòa Đại Hình."
+            }
+        },
+        {
+            "content": "thông thạo",
+            "type": "",
+            "example": {
+                "en": "For his part, Paul is known, not as a Law expert, but as a missionary, “an apostle to the nations.”—Romans 11:13.",
+                "vi": "Về phần Phao-lô, dù là một người thông thạo Luật Pháp nhưng ông nổi tiếng là giáo sĩ, một “sứ-đồ cho dân ngoại”.—Rô-ma 11:13."
+            }
+        },
+        {
+            "content": "viên giám định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chuyên gia",
+            "type": "",
+            "example": {
+                "en": "The reason for that is that everybody's an expert on consciousness.",
+                "vi": "Lý do là vì mọi người ai ai cũng đều là một chuyên gia về nhận thức."
+            }
+        }
+    ]
+}

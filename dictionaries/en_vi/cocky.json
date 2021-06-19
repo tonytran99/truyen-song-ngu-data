@@ -1,0 +1,54 @@
+{
+    "word": "cocky",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäkē/",
+            "/ˈkɑki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tự mãn",
+            "type": "adjective",
+            "example": {
+                "en": "So, you're not defensive, but you're not cocky.",
+                "vi": "Vậy ông không phòng thủ, nhưng ông không tự mãn."
+            }
+        },
+        {
+            "content": "tự phụ",
+            "type": "",
+            "example": {
+                "en": "Gene tells me you're confident, bordering on cocky.",
+                "vi": "Gene đã nói với tôi anh là một kẻ liều lĩnh, gần như tự phụ."
+            }
+        },
+        {
+            "content": "vênh váo",
+            "type": "adjective",
+            "example": {
+                "en": "They don't like cocky pencil pushers like Hanks any more than we do.",
+                "vi": "Họ không thích một kẻ trục lợi vênh váo như Hanks hơn chúng ta nhiều."
+            }
+        },
+        {
+            "content": "kiêu ngạo",
+            "type": "",
+            "example": {
+                "en": "I mean, confidence is kind of like being cocky, but in a good way.",
+                "vi": "Tự tin là một kiểu dạng kiêu ngạo, nhưng theo hướng tốt."
+            }
+        }
+    ]
+}

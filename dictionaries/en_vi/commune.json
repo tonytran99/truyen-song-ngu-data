@@ -1,0 +1,72 @@
+{
+    "word": "commune",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämyo͞on/",
+            "/ˈkɑmjun/",
+            "/kəˈmyo͞on/",
+            "/kəˈmjun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmjuːn/",
+            "/kəˈmjuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công xã",
+            "type": "noun",
+            "example": {
+                "en": "Let's say I believe in the communal spirit.",
+                "vi": "Cứ coi như tôi tin vào tinh thần công xã."
+            }
+        },
+        {
+            "content": "xã",
+            "type": "noun",
+            "example": {
+                "en": "What kind of community have I come to?",
+                "vi": "Tôi đang tới một xã hội nào đây?"
+            }
+        },
+        {
+            "content": "cảm thông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gần gụi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện thân mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thân thiết",
+            "type": "",
+            "example": {
+                "en": "Why is good communication essential to close relationships in the congregation?",
+                "vi": "Tại sao nói chuyện cởi mở là thiết yếu để có quan hệ thân thiết trong hội thánh?"
+            }
+        },
+        {
+            "content": "đàm luận",
+            "type": "",
+            "example": {
+                "en": "between the communicative and discursive space of the Mall",
+                "vi": "giữa không gian mang tính kết nối và đàm luận của khu thương mại"
+            }
+        }
+    ]
+}

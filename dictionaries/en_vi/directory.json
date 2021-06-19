@@ -1,0 +1,100 @@
+{
+    "word": "directory",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈrektərē/",
+            "/dɪˈrɛktəri/",
+            "/dīˈrektərē/",
+            "/daɪˈrɛktəri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈrɛkt(ə)ri/",
+            "/dʌɪˈrɛkt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thư mục",
+            "type": "noun",
+            "example": {
+                "en": "You do not have write permissions in that directory",
+                "vi": "Bạn không có quyền ghi trong thư mục đó"
+            }
+        },
+        {
+            "content": "danh bạ",
+            "type": "",
+            "example": {
+                "en": "No sparks in any of the phone directories.",
+                "vi": "Không có Sparks trong danh bạ điện thoại."
+            }
+        },
+        {
+            "content": "ban giám đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ bảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ dẫn",
+            "type": "",
+            "example": {
+                "en": "urban food production, creating local food directories, and so on.",
+                "vi": "sản phẩm lương thực đô thị, lập ra những chỉ dẫn về lương thực địa phương v.v..."
+            }
+        },
+        {
+            "content": "danh mục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "huấn thị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hướng dẫn",
+            "type": "",
+            "example": {
+                "en": "First of all, I was going through your stuff and I saw that you have not even unwrapped your college directory.",
+                "vi": "Đầu tiên, kiểm tra một lượt đồ của con và thấy rằng con chẳng thèm mở quyển hướng dẫn đại học."
+            }
+        },
+        {
+            "content": "mục lục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách chỉ dẫn",
+            "type": "",
+            "example": {
+                "en": "I need a directory.",
+                "vi": "Tôi cần một cuốn sách chỉ dẫn."
+            }
+        },
+        {
+            "content": "sách hướng dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số hộ khẩu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

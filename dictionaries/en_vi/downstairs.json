@@ -1,0 +1,77 @@
+{
+    "word": "downstairs",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dounˈsterz/",
+            "/daʊnˈstɛrz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊnˈstɛːz/",
+            "/ˈdaʊnstɛːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở dưới nhà",
+            "type": "",
+            "example": {
+                "en": "Didn't you have it when we were downstairs?",
+                "vi": "Không phải cậu dùng nó khi bọn mình ở dưới nhà hay sao?"
+            }
+        },
+        {
+            "content": "ở tầng dưới",
+            "type": "adjective",
+            "example": {
+                "en": "The thing is, I have the most terrifying man downstairs.",
+                "vi": "Có một con người kinh khủng nhất ở tầng dưới."
+            }
+        },
+        {
+            "content": "tầng trệt",
+            "type": "",
+            "example": {
+                "en": "It so happens those trades are processed in the servers downstairs.",
+                "vi": "Điều đó xảy ra, với những giao dịch được xử lý qua các máy chủ dưới tầng trệt."
+            }
+        },
+        {
+            "content": "xuống cầu thang",
+            "type": "",
+            "example": {
+                "en": "I walked downstairs and drove to the office .",
+                "vi": "Tôi xuống cầu thang và lái xe đến thẳng công ty ."
+            }
+        },
+        {
+            "content": "xuống gác",
+            "type": "",
+            "example": {
+                "en": "You are wanted urgently downstairs.",
+                "vi": "Có người muốn ông xuống gác ngay."
+            }
+        },
+        {
+            "content": "ở dưới nhàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở nhà dưới",
+            "type": "adjective",
+            "example": {
+                "en": "Bug pajamas are all the way downstairs.",
+                "vi": "Mấy cái đồ ngủ con bọ ở nhà dưới hết rồi."
+            }
+        }
+    ]
+}

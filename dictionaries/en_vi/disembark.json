@@ -1,0 +1,53 @@
+{
+    "word": "disembark",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisimˈbärk/",
+            "/ˌdɪsɪmˈbɑrk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsɪmˈbɑːk/",
+            "/dɪsɛmˈbɑːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuống xe",
+            "type": "",
+            "example": {
+                "en": "As a precaution, we disembarked quietly in the freight yard just outside the station.",
+                "vi": "Để chắc chắn, chúng tôi xuống xe thận trọng ở chỗ lên hàng bên ngoài trạm xe lửa."
+            }
+        },
+        {
+            "content": "lên bờ",
+            "type": "",
+            "example": {
+                "en": "There he felt a compelling force urging him to disembark.",
+                "vi": "Nơi đó ông đã cảm thấy có một sức thuyết phục ông là phải lên bờ."
+            }
+        },
+        {
+            "content": "cho lên bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho xuống xe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lên bộ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

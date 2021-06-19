@@ -1,0 +1,40 @@
+{
+    "word": "ecological",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekəˈläjik(ə)l/",
+            "/ˌɛkəˈlɑdʒɪk(ə)l/",
+            "/ˌēkəˈläjik(ə)l/",
+            "/ˌikəˈlɑdʒɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːkəˈlɒdʒɪk(ə)l/",
+            "/ɛkəˈlɒdʒɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh thái",
+            "type": "",
+            "example": {
+                "en": "We used a measure of ecological diversity to get this.",
+                "vi": "Chúng ta đã dùng thước đo về sự đa dạng sinh thái để hiểu về nó."
+            }
+        },
+        {
+            "content": "sinh thái học",
+            "type": "noun",
+            "example": {
+                "en": "We want to employ him as an ecological expert.",
+                "vi": "Chúng tôi sẽ thuê anh ta như một chuyên gia về sinh thái học."
+            }
+        }
+    ]
+}

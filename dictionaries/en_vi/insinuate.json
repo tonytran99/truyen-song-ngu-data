@@ -1,0 +1,78 @@
+{
+    "word": "insinuate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsinyo͞oˌāt/",
+            "/ɪnˈsɪnjuˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɪnjʊeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nói bóng gió",
+            "type": "",
+            "example": {
+                "en": "Your honor, I'm not sure what Ms. Keating is insinuating here...",
+                "vi": "Thưa quý tòa, tôi không chắc những gì cô Keating đang nói bóng gió ở đây..."
+            }
+        },
+        {
+            "content": "lách",
+            "type": "noun",
+            "example": {
+                "en": "I insinuated my way in with you easily enough.",
+                "vi": "Tôi đã luồn lách được với ông cơ mà."
+            }
+        },
+        {
+            "content": "luồn",
+            "type": "verb",
+            "example": {
+                "en": "I insinuated my way in with you easily enough.",
+                "vi": "Tôi đã luồn lách được với ông cơ mà."
+            }
+        },
+        {
+            "content": "nói ngầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói xa gần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói ám chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ám chỉ",
+            "type": "verb",
+            "example": {
+                "en": "I don't, and I'm offended by the insinuation.",
+                "vi": "Anh không hề, anh thấy mình bị xúc phạm vì mấy câu ám chỉ của em."
+            }
+        },
+        {
+            "content": "ám thị",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

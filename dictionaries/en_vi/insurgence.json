@@ -1,0 +1,42 @@
+{
+    "word": "insurgence",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsərj(ə)ns/",
+            "/ɪnˈsərdʒ(ə)ns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsəːdʒ(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự khởi nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nổi dậy",
+            "type": "",
+            "example": {
+                "en": "Let's not neglect the insurgency just to the south,",
+                "vi": "Chúng ta không nên thờ ơ với sự nổi dậy về phía nam."
+            }
+        },
+        {
+            "content": "sự nổi loạn",
+            "type": "",
+            "example": {
+                "en": "But I know that we should be looking at the structure of the insurgency",
+                "vi": "Nhưng tôi biết rằng chúng ta bây giờ nên nghiên cứu cấu trúc của sự nổi loạn này"
+            }
+        }
+    ]
+}

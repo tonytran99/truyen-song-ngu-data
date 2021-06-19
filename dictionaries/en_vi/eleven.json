@@ -1,0 +1,41 @@
+{
+    "word": "eleven",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlevən/",
+            "/əˈlɛvən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛv(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mười một",
+            "type": "",
+            "example": {
+                "en": "A billion dollar investment, eleven years of RD, and what do we have?",
+                "vi": "Hàng tỷ đô-la đầu tư, mười một năm nghiên cứu và phát triển, và giờ ta có gì?"
+            }
+        },
+        {
+            "content": "số mười một",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đội mười một người",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

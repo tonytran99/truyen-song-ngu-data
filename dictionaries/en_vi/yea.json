@@ -1,0 +1,42 @@
+{
+    "word": "yea",
+    "type": [
+        "noun",
+        "adverb",
+        "conjunction",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yā/",
+            "/jeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vâng",
+            "type": "adverb",
+            "example": {
+                "en": "Yea, he cometh to us like the seed to the grave...",
+                "vi": "Vâng, người đã tới với chúng ta như hạt giống ngũ cốc."
+            }
+        },
+        {
+            "content": "yes",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ờ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

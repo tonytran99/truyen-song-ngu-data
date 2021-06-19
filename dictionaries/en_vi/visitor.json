@@ -1,0 +1,63 @@
+{
+    "word": "visitor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvizidər/",
+            "/ˈvɪzɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪzɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "We weren't expecting visitors.",
+                "vi": "Lúc đó chúng tôi không đợi khách nào cả."
+            }
+        },
+        {
+            "content": "người kiểm tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thanh tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đến thăm",
+            "type": "",
+            "example": {
+                "en": "I was shower with gifts and flowers and visitors.",
+                "vi": "Tôi tắm trong quà tặng và hoa và người đến thăm."
+            }
+        },
+        {
+            "content": "khách du lịch",
+            "type": "",
+            "example": {
+                "en": "And Yad Vashem needs to deal with three million visitors a year at this point.",
+                "vi": "Yad Vashem cần phải đối mặt với 3 triệu khách du lịch mỗi năm thời điểm đó."
+            }
+        },
+        {
+            "content": "khách đến thăm",
+            "type": "",
+            "example": {
+                "en": "I must be up to date for our visitors.",
+                "vi": "Ta phải được cập nhật về khách đến thăm."
+            }
+        }
+    ]
+}

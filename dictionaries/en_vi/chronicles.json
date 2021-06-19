@@ -1,0 +1,30 @@
+{
+    "word": "chronicles",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkränəkəlz/",
+            "/ˈkrɑnəkəlz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɒnɪk(ə)lz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biên niên sử",
+            "type": "noun plural",
+            "example": {
+                "en": "We're all uncomfortable with the idea of a chronicle of our family.",
+                "vi": "Chúng tôi không thoải mái với ý tưởng có cuốn biên niên sử gia đình."
+            }
+        }
+    ]
+}

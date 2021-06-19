@@ -1,0 +1,50 @@
+{
+    "word": "fabled",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfābəld/",
+            "/ˈfeɪbəld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfeɪbəld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bịa đặt",
+            "type": "",
+            "example": {
+                "en": "These are not fables.",
+                "vi": "Đây không phải là những lời bịa đặt."
+            }
+        },
+        {
+            "content": "hoang đường",
+            "type": "",
+            "example": {
+                "en": "I testify to you that the Resurrection is not a fable.",
+                "vi": "Tôi làm chứng với các anh chị em rằng Sự Phục Sinh không phải là một truyện hoang đường."
+            }
+        },
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "truyền thuyết",
+            "type": "noun",
+            "example": {
+                "en": "The swords the fables speak could destroy anything, alive or dead.",
+                "vi": "Thanh gươm trong truyền thuyết đó có thể tiêu diệt mọi thứ, cả sống và chết."
+            }
+        }
+    ]
+}

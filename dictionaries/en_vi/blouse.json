@@ -1,0 +1,60 @@
+{
+    "word": "blouse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blous/",
+            "/blaʊs/",
+            "/blouz/",
+            "/blaʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblaʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "áo cánh",
+            "type": "",
+            "example": {
+                "en": "I put on my little brown blouse, the one you like.",
+                "vi": "Em đã mặc cái áo cánh nhỏ màu nâu, cái mà anh thích đó."
+            }
+        },
+        {
+            "content": "áo bờ-lu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo choàng",
+            "type": "",
+            "example": {
+                "en": "To the naked eye they look like a piece of your blouse,",
+                "vi": "bằng mắt thường , chúng trông giống 1 mảnh áo choàng"
+            }
+        },
+        {
+            "content": "áo kiểu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sơ mi nữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạt trên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

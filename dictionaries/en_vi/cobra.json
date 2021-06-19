@@ -1,0 +1,43 @@
+{
+    "word": "cobra",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōbrə/",
+            "/ˈkoʊbrə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊbrə/",
+            "/ˈkɒbrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rắn mang bành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rắn hổ mang",
+            "type": "noun",
+            "example": {
+                "en": "The skin of snakes, including cobras, is slimy and always cold.",
+                "vi": "Da rắn, kể cả rắn hổ mang, thì nhớp nháp và luôn luôn lạnh."
+            }
+        },
+        {
+            "content": "Rắn hổ mang",
+            "type": "",
+            "example": {
+                "en": "The cruel poison of cobras.",
+                "vi": "Chất độc chết người của rắn hổ mang."
+            }
+        }
+    ]
+}

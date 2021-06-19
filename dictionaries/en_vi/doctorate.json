@@ -1,0 +1,30 @@
+{
+    "word": "doctorate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdäkt(ə)rət/",
+            "/ˈdɑkt(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒkt(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "học vị tiến sĩ",
+            "type": "noun",
+            "example": {
+                "en": "Pope earned his doctorate in philosophy from Seattle Pacific.",
+                "vi": "Pope kiếm được học vị tiến sĩ triết học ở Seattle Pacific."
+            }
+        }
+    ]
+}

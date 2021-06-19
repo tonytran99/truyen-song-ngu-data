@@ -1,0 +1,39 @@
+{
+    "word": "inhalation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinhəˈlāSH(ə)n/",
+            "/ˌɪnhəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnhəˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự hít vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc xông",
+            "type": "",
+            "example": {
+                "en": "To cope with her illness, Silvia takes 36 pills every day, uses inhalers, and receives physical therapy.",
+                "vi": "Để trị bệnh, mỗi ngày Silvia phải uống 36 viên thuốc, xông thuốc vào mũi và tập vật lý trị liệu."
+            }
+        }
+    ]
+}

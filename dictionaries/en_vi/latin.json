@@ -1,0 +1,31 @@
+{
+    "word": "latin",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlatn/",
+            "/ˈlætn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlatɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "latinh",
+            "type": "",
+            "example": {
+                "en": "The deaf guy's daughter, our new Latin teacher.",
+                "vi": "Con gái quý ngài điếc, thầy dạy tiếng Latinh."
+            }
+        }
+    ]
+}

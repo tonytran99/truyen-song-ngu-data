@@ -1,0 +1,58 @@
+{
+    "word": "turkey",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərkē/",
+            "/ˈtərki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gà tây",
+            "type": "noun",
+            "example": {
+                "en": "Just the turkey things, right on the counter next to the fridge, I think.",
+                "vi": "Món gà tây, ở trên kệ bếp gần tủ lạnh, cháu nghĩ thế."
+            }
+        },
+        {
+            "content": "Thổ Nhĩ Kỳ",
+            "type": "proper",
+            "example": {
+                "en": "A number of countries have come forth and offered loans, most recently Turkey.",
+                "vi": "Một số nước đã đi trước và đưa ra mức giá, gần đây nhất là Thổ Nhĩ Kỳ."
+            }
+        },
+        {
+            "content": "họ gà tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt gà tây",
+            "type": "",
+            "example": {
+                "en": "There was rolled up turkey cold cuts, rolled up ham cold cuts, rolled up roast beef cold cuts and little cubes of cheese.",
+                "vi": "Có thịt gà tây nguội cuộn thịt nguội, bò quay và những thỏi phô mai nhỏ."
+            }
+        },
+        {
+            "content": "thổ nhĩ kỳ",
+            "type": "",
+            "example": {
+                "en": "Westward, it came to include Egypt and what is now Turkey.",
+                "vi": "Lãnh thổ phía tây gồm cả Ai Cập và một nước khác nay là Thổ Nhĩ Kỳ."
+            }
+        }
+    ]
+}

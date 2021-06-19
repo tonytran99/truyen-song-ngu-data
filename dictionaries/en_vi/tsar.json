@@ -1,0 +1,58 @@
+{
+    "word": "tsar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/zär/",
+            "/zɑr/",
+            "/(t)sär/",
+            "/(t)sɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/zɑː/",
+            "/tsɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Nga hoàng",
+            "type": "noun",
+            "example": {
+                "en": "A daughter of the last Tsar of Russia.",
+                "vi": "Con gái của vị Nga hoàng cuối cùng."
+            }
+        },
+        {
+            "content": "sa hoàng",
+            "type": "noun",
+            "example": {
+                "en": "So that's how the tsar told his messenger to put it.",
+                "vi": "Đó là cái mà Sa hoàng dạy cho anh nói."
+            }
+        },
+        {
+            "content": "vua Nga",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Sa hoàng",
+            "type": "",
+            "example": {
+                "en": "So that's how the tsar told his messenger to put it.",
+                "vi": "Đó là cái mà Sa hoàng dạy cho anh nói."
+            }
+        },
+        {
+            "content": "xa hoàng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

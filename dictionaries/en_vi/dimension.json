@@ -1,0 +1,82 @@
+{
+    "word": "dimension",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmen(t)SH(ə)n/",
+            "/dəˈmɛn(t)ʃ(ə)n/",
+            "/dīˈmen(t)SH(ə)n/",
+            "/daɪˈmɛn(t)ʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmɛnʃ(ə)n/",
+            "/dʌɪˈmɛnʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiều",
+            "type": "noun",
+            "example": {
+                "en": "Indeed, the face of the environmentalist has changed, because of the justice dimension.",
+                "vi": "Thật vậy, vai trò của các nhà môi trường đã thay đổi, bởi vì chiều hướng công lý."
+            }
+        },
+        {
+            "content": "kích thước",
+            "type": "noun",
+            "example": {
+                "en": "Note that the outer and the inner gates are identical in overall dimensions.",
+                "vi": "Hãy lưu ý rằng các cổng ngoài và cổng trong đều có cùng kích thước."
+            }
+        },
+        {
+            "content": "cỡ",
+            "type": "",
+            "example": {
+                "en": "Naturally, with a story of these dimensions.",
+                "vi": "Tự nhiên thôi, với một câu chuyện tầm cỡ như vậy."
+            }
+        },
+        {
+            "content": "bề",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khổ",
+            "type": "adjective noun",
+            "example": {
+                "en": "As you can see, comfort is a priority for a man of my dimensions.",
+                "vi": "Anh thấy đấy, sự thoải mái là việc ưu tiên hàng đầu cho người qá khổ như tôi."
+            }
+        },
+        {
+            "content": "quy mô",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thứ nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đo kích thước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định kích thước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

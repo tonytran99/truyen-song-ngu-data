@@ -1,0 +1,46 @@
+{
+    "word": "gasp",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡasp/",
+            "/ɡæsp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɑːsp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thở hổn hển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thở hổn hển",
+            "type": "",
+            "example": {
+                "en": "I can remember sobbing, tears racing down my face as I gasped for air.",
+                "vi": "Tôi có thể nhớ đã thổn thức, lệ chảy dài xuống má trong khi tôi thở hổn hển."
+            }
+        },
+        {
+            "content": "giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suyễn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

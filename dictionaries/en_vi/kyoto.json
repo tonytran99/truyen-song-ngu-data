@@ -1,0 +1,43 @@
+{
+    "word": "kyoto",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kēˈ(y)ōdō/",
+            "/kiˈ(j)oʊdoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪˈəʊtəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Kyoto",
+            "type": "",
+            "example": {
+                "en": "When did you visit Kyoto last?",
+                "vi": "Bạn thăm Kyoto lần cuối cùng khi nào?"
+            }
+        },
+        {
+            "content": "Kyōto",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thành phố Kyoto",
+            "type": "",
+            "example": {
+                "en": "The base I was sent to was situated at the foot of Hiei-zan near the city of Kyoto.",
+                "vi": "Căn cứ tôi được phái đến nằm tại chân Núi Hiei-zan gần thành phố Kyoto."
+            }
+        }
+    ]
+}

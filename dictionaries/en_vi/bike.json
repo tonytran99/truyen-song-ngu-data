@@ -1,0 +1,67 @@
+{
+    "word": "bike",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīk/",
+            "/baɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe đạp",
+            "type": "noun",
+            "example": {
+                "en": "We went biking in the woods yesterday.",
+                "vi": "Hôm qua chúng tôi đi xe đạp trong rừng."
+            }
+        },
+        {
+            "content": "của bicycle xe đạp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi xe đạp",
+            "type": "",
+            "example": {
+                "en": "We went biking in the woods yesterday.",
+                "vi": "Hôm qua chúng tôi đi xe đạp trong rừng."
+            }
+        },
+        {
+            "content": "xe gắn máy",
+            "type": "",
+            "example": {
+                "en": "To his dismay, his dismount knocked the first bike down.",
+                "vi": "Nó hoảng sợ khi thấy rằng cái nhảy của nó xuống khỏi xe đã làm đổ chiếc xe gắn máy đầu tiên."
+            }
+        },
+        {
+            "content": "xe máy",
+            "type": "noun",
+            "example": {
+                "en": "Isn't the guy on the bike a friend of yours?",
+                "vi": "Người trên chiếc xe máy không phải là bạn của ngươi sao?"
+            }
+        },
+        {
+            "content": "đạp xe",
+            "type": "",
+            "example": {
+                "en": "He rides a bike and does everything a young man can do.",
+                "vi": "Anh đạp xe đạp và làm tất cả mọi thứ mà một thanh niên có thể làm."
+            }
+        }
+    ]
+}

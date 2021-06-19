@@ -1,0 +1,46 @@
+{
+    "word": "hash",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haSH/",
+            "/hæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/haʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "món thịt băm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "băm",
+            "type": "",
+            "example": {
+                "en": "A hash of the certificate used to identify it quickly",
+                "vi": "Băm của chứng minh, được dùng để nhận diện nó nhanh chóng"
+            }
+        },
+        {
+            "content": "mớ linh tinh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mớ lộn xộn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

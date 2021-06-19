@@ -1,0 +1,42 @@
+{
+    "word": "w",
+    "type": [
+        "Letter",
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəbəlˌyo͞o/",
+            "/ˈdəbəlˌju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌb(ə)ljuː/",
+            "/ˈdʌb(ə)lˌjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "oát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chữ cái W",
+            "type": "",
+            "example": {
+                "en": "I put Helen 's hand under the cool water and formed the word w-a-t-e-r in her other hand .",
+                "vi": "Tôi đặt tay Helen dưới dòng nước lạnh và viết các chữ cái w-a-t-e-r trong tay kia của cô bé ."
+            }
+        },
+        {
+            "content": "phía tây",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

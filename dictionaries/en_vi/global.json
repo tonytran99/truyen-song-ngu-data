@@ -1,0 +1,87 @@
+{
+    "word": "global",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlōbəl/",
+            "/ˈɡloʊbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡləʊb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "toàn cầu",
+            "type": "adjective",
+            "example": {
+                "en": "A global downturn requires a global response .",
+                "vi": "Thời kỳ suy thoái toàn cầu đòi hỏi phản ứng toàn cầu ."
+            }
+        },
+        {
+            "content": "toàn bộ",
+            "type": "adjective",
+            "example": {
+                "en": "Let's now zoom back out to the entire global conversation",
+                "vi": "Giờ hãy phóng rộng ra toàn bộ cuộc nói chuyện trên toàn cầu"
+            }
+        },
+        {
+            "content": "chung",
+            "type": "adjective",
+            "example": {
+                "en": "and we have this global digital fireplace, don't we,",
+                "vi": "và chúng ta cùng chung sống trên hành tinh này, phải không,"
+            }
+        },
+        {
+            "content": "quả đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc biến số chung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc toàn cầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc tổng quát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn cục",
+            "type": "",
+            "example": {
+                "en": "Use setting from global policy",
+                "vi": "Dùng thiết lập từ chính sách toàn cục"
+            }
+        },
+        {
+            "content": "toàn thể",
+            "type": "adjective",
+            "example": {
+                "en": "about how unwilling the global community is to unite —",
+                "vi": "rằng toàn thể thế giới này không mong muốn sự thống nhất."
+            }
+        },
+        {
+            "content": "xét toàn diện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

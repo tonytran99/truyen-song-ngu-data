@@ -1,0 +1,56 @@
+{
+    "word": "healing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhēliNG/",
+            "/ˈhilɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhiːlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữa bệnh",
+            "type": "",
+            "example": {
+                "en": "They can poison you, heal you, make you fall in love.",
+                "vi": "Chúng có thể đầu độc ta, có thể chữa bệnh cho ta, khiến ta yêu."
+            }
+        },
+        {
+            "content": "đang lành lại",
+            "type": "",
+            "example": {
+                "en": "You guys are breaking down walls, you're healing.",
+                "vi": "Hai người đã phá được bức tường, vết thương đang lành lại."
+            }
+        },
+        {
+            "content": "đang lên da non",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để chữa bệnh",
+            "type": "",
+            "example": {
+                "en": "These plans are not only for healing but for prevention.",
+                "vi": "Những chương trình này không chỉ để chữa bệnh nhưng để phòng ngừa."
+            }
+        },
+        {
+            "content": "để chữa vết thương",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

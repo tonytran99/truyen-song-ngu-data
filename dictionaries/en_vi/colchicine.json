@@ -1,0 +1,37 @@
+{
+    "word": "colchicine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkälCHəˌsēn/",
+            "/ˈkɑltʃəˌsin/",
+            "/ˈkälkəˌsēn/",
+            "/ˈkɑlkəˌsin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒltʃɪsiːn/",
+            "/ˈkɒlkɪsiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "conchixium",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Colchicine",
+            "type": "",
+            "example": {
+                "en": "I'm gonna give you a cocktail of insulin for seizure and colchicine to kill your white count.",
+                "vi": "Tôi sẽ tiêm một hỗn hợp của Insulin gây co giật và Colchicine để giết tế bào bạch cầu."
+            }
+        }
+    ]
+}

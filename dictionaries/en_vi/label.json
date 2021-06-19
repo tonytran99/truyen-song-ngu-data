@@ -1,0 +1,109 @@
+{
+    "word": "label",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlābəl/",
+            "/ˈleɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhãn",
+            "type": "noun",
+            "example": {
+                "en": "Please stick this label to your baggage.",
+                "vi": "Vui lòng dán nhãn vào hành lý của bạn."
+            }
+        },
+        {
+            "content": "chiêu bài",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "danh hiệu",
+            "type": "noun",
+            "example": {
+                "en": "As we saw in Chapter 1, that name is no mere title or label.",
+                "vi": "Như chúng ta đã học trong Chương 1, danh ấy không chỉ là tước vị hoặc danh hiệu."
+            }
+        },
+        {
+            "content": "dán nhãn",
+            "type": "",
+            "example": {
+                "en": "Please stick this label to your baggage.",
+                "vi": "Vui lòng dán nhãn vào hành lý của bạn."
+            }
+        },
+        {
+            "content": "ghi nhãn",
+            "type": "",
+            "example": {
+                "en": "You label them. You do some high-tech things here and there,",
+                "vi": "Rồi ghi nhãn. Đôi khi bạn dùng phương pháp high-tech."
+            }
+        },
+        {
+            "content": "gán cho là",
+            "type": "",
+            "example": {
+                "en": "and those labeled as criminally insane.",
+                "vi": "và những người bị gán cho là \"tội phạm tâm thần\"."
+            }
+        },
+        {
+            "content": "liệt vào loại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mác",
+            "type": "noun",
+            "example": {
+                "en": "Does one of these labels, in other words, tend to stick more in the mind?",
+                "vi": "Nói cách khác, kiểu gắn mác này có xu hướng mắc kẹt trong tâm trí ta không?"
+            }
+        },
+        {
+            "content": "mái hắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhãn hiệu",
+            "type": "noun",
+            "example": {
+                "en": "Carefully searching the ingredient label, he found what he was looking for.",
+                "vi": "Cẩn thận đọc thành phần thuốc trên nhãn hiệu, ông đã thấy tên chất mà mình muốn tìm."
+            }
+        },
+        {
+            "content": "nhãn mác",
+            "type": "",
+            "example": {
+                "en": "Read labels , understand warranties and contracts .",
+                "vi": "Hãy xem các nhãn mác , hiểu rõ các cam kết và bảo hành ."
+            }
+        },
+        {
+            "content": "đánh nhãn",
+            "type": "",
+            "example": {
+                "en": "It's not like it's gonna be labeled \" Cure for Vincent. \"",
+                "vi": "Nó sẽ không giống như việc đánh nhãn \" Thuốc giải cho Vincent."
+            }
+        }
+    ]
+}

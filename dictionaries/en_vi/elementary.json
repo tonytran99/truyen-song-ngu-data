@@ -1,0 +1,76 @@
+{
+    "word": "elementary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeləˈment(ə)rē/",
+            "/ˌɛləˈmɛnt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛlɪˈmɛnt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơ bản",
+            "type": "adjective",
+            "example": {
+                "en": "So to explain that — if you've got an elementary particle",
+                "vi": "Có thể giải thích rằng — nếu bạn có một hạt cơ bản"
+            }
+        },
+        {
+            "content": "sơ đẳng",
+            "type": "adjective",
+            "example": {
+                "en": "A reminder of such an elementary truth may hardly seem necessary.",
+                "vi": "Nhắc nhở một điều sơ đẳng đến thế có vẻ như không cần mấy."
+            }
+        },
+        {
+            "content": "cơ sở",
+            "type": "noun",
+            "example": {
+                "en": "a TEDx associate's degree in elementary statistics",
+                "vi": "bằng thống kê cơ sở của hiệp hội TEDx"
+            }
+        },
+        {
+            "content": "không phân tách được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơ",
+            "type": "noun",
+            "example": {
+                "en": "I used to work in this field of elementary particles.",
+                "vi": "Tôi đã từng làm trong lĩnh vực hạt sơ cấp."
+            }
+        },
+        {
+            "content": "sơ yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiểu học",
+            "type": "noun",
+            "example": {
+                "en": "You know what my dream was during elementary school?",
+                "vi": "Cậu biết giấc mơ khi còn tiểu học của mình là gì không?"
+            }
+        },
+        {
+            "content": "yếu lược",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

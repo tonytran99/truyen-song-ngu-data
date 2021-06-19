@@ -1,0 +1,50 @@
+{
+    "word": "inactive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈaktiv/",
+            "/ɪnˈæktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈaktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hoạt động",
+            "type": "",
+            "example": {
+                "en": "A state of rest in which a person is inactive and unconscious.",
+                "vi": "Trạng thái nghỉ ngơi mà trong đó con người không hoạt động và không ý thức được."
+            }
+        },
+        {
+            "content": "thiếu hoạt động",
+            "type": "",
+            "example": {
+                "en": "Happily, we can control two risk factors—diet and physical inactivity.",
+                "vi": "Mừng thay, chúng ta có thể kiểm soát được hai yếu tố nguy hiểm là cách ăn uống và thiếu hoạt động."
+            }
+        },
+        {
+            "content": "thụ động",
+            "type": "",
+            "example": {
+                "en": "inactivity that comes from the fact that we live",
+                "vi": "sự thụ động bắt nguồn từ sự thật rằng chúng ta sống"
+            }
+        }
+    ]
+}

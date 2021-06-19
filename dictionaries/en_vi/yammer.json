@@ -1,0 +1,35 @@
+{
+    "word": "yammer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyamər/",
+            "/ˈjæmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjamə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rên rỉ",
+            "type": "",
+            "example": {
+                "en": "And she's been yammering about you all night.",
+                "vi": "Và cô ấy cứ rên rỉ về cậu cả buổi tối."
+            }
+        },
+        {
+            "content": "rền rỉ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

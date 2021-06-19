@@ -1,0 +1,50 @@
+{
+    "word": "winner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwinər/",
+            "/ˈwɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chiến thắng",
+            "type": "noun",
+            "example": {
+                "en": "Don't you guys wanna know what it feels like to be winners?",
+                "vi": "Các em không muốn biết cảm giác là người chiến thắng thế nào?"
+            }
+        },
+        {
+            "content": "người thắng",
+            "type": "",
+            "example": {
+                "en": "Let's decide the winner by lot.",
+                "vi": "Chúng ta hãy bỏ phiếu để quyết định người thắng cuộc."
+            }
+        },
+        {
+            "content": "người được cuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thắng cuộc",
+            "type": "",
+            "example": {
+                "en": "Let's decide the winner by lot.",
+                "vi": "Chúng ta hãy bỏ phiếu để quyết định người thắng cuộc."
+            }
+        }
+    ]
+}

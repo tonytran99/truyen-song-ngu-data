@@ -1,0 +1,88 @@
+{
+    "word": "welfare",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwelˌfer/",
+            "/ˈwɛlˌfɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛlfɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phúc lợi",
+            "type": "",
+            "example": {
+                "en": "Give it to your welfare officer and get in line.",
+                "vi": "Sau đó nộp cho quan phúc lợi đợi kỳ đến nhận"
+            }
+        },
+        {
+            "content": "hạnh phúc",
+            "type": "adjective noun",
+            "example": {
+                "en": "I desire the eternal welfare and happiness of other people.",
+                "vi": "Tôi mong muốn sự an lạc và hạnh phúc vĩnh cửu của người khác."
+            }
+        },
+        {
+            "content": "sự bo vệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chăm sóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "an sinh",
+            "type": "noun",
+            "example": {
+                "en": "This was the beginning of the modern-day welfare program.",
+                "vi": "Đây là khởi đầu của chương trình an sinh hiện đại ngày nay."
+            }
+        },
+        {
+            "content": "phúc lợi xã hội",
+            "type": "noun",
+            "example": {
+                "en": "They work for longer hours with less income, less social welfare.",
+                "vi": "Họ làm việc nhiều giờ hơn với ít thu nhập hơn, ít phúc lợi xã hội hơn."
+            }
+        },
+        {
+            "content": "sự thịnh vượng",
+            "type": "noun",
+            "example": {
+                "en": "“WE WANT people of every country to enjoy prosperity, welfare and happiness.",
+                "vi": "“CHÚNG TÔI muốn dân mỗi nước vui hưởng sự thịnh vượng, no ấm và hạnh phúc."
+            }
+        },
+        {
+            "content": "tiền trợ cấp",
+            "type": "noun",
+            "example": {
+                "en": "That should supplement your welfare.",
+                "vi": "Bù vào tiền trợ cấp của cô."
+            }
+        },
+        {
+            "content": "thịnh vượng",
+            "type": "",
+            "example": {
+                "en": "The Hebrew word sha·lohmʹ, which is usually translated “peace,” implies health, prosperity, and welfare.",
+                "vi": "Chữ Hê-bơ-rơ sha·lohmʹ, thường được dịch là “hòa bình” bao hàm sức khỏe, thịnh vượng và no ấm."
+            }
+        }
+    ]
+}

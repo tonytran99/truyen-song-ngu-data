@@ -1,0 +1,29 @@
+{
+    "word": "distilled",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstild/",
+            "/dəˈstɪld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstɪld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "được chưng cất",
+            "type": "noun",
+            "example": {
+                "en": "This isn't schnapps, it's aquavit, distilled from potato mash.",
+                "vi": "Không phải rượu khoai tây, là aqua vida, nhưng được chưng cất từ khoai tây nghiền."
+            }
+        }
+    ]
+}

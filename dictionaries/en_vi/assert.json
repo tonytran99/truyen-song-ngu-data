@@ -1,0 +1,79 @@
+{
+    "word": "assert",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsəːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khẳng định",
+            "type": "verb",
+            "example": {
+                "en": "I asserted my need for independence to the people around me.",
+                "vi": "Tôi khẳng định sự độc lập của tôi với mọi người xung quanh."
+            }
+        },
+        {
+            "content": "quả quyết",
+            "type": "verb",
+            "example": {
+                "en": "One tradition asserts that he died a martyr’s death.",
+                "vi": "Có một truyền thuyết quả quyết cho rằng ông đã tử vì đạo."
+            }
+        },
+        {
+            "content": "cương quyết",
+            "type": "",
+            "example": {
+                "en": "I followed your advice and asserted myself to mother.",
+                "vi": "Cháu đã làm theo lời khuyên của bác và hành động một cách cương quyết với mẹ cháu."
+            }
+        },
+        {
+            "content": "đòi",
+            "type": "verb",
+            "example": {
+                "en": "They can enter your body . . . , even asserting a degree of control over you.",
+                "vi": "Chúng có thể nhập vào thân thể bạn... ngay cả đòi quyền kiểm soát bạn ở một mức độ nào đó."
+            }
+        },
+        {
+            "content": "bảo vệ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giữ vững",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết đoán",
+            "type": "",
+            "example": {
+                "en": "In desperate times fortune must give way to more assertive hands.",
+                "vi": "Vào lúc tuyệt vọng may mắn tìm đường đến đôi bàn tay quyết đoán hơn."
+            }
+        },
+        {
+            "content": "xác nhận",
+            "type": "",
+            "example": {
+                "en": "Yet what it asserts about reality",
+                "vi": "Tuy nhiên, điều mà nó xác nhận trong thực tế,"
+            }
+        }
+    ]
+}

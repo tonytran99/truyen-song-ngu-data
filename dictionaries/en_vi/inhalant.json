@@ -1,0 +1,40 @@
+{
+    "word": "inhalant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈhālənt/",
+            "/ɪnˈheɪlənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈheɪl(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xông",
+            "type": "verb",
+            "example": {
+                "en": "He was engaged in some clinical trials... in something called nanomolecular inhalation therapy",
+                "vi": "Ông ấy đang được thử nghiệm phương pháp điều trị theo phương pháp nào đó gọi là liệu pháp xông phân tử"
+            }
+        },
+        {
+            "content": "cái để xông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng để xông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

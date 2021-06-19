@@ -1,0 +1,55 @@
+{
+    "word": "kitten",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkitn/",
+            "/ˈkɪtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mèo con",
+            "type": "",
+            "example": {
+                "en": "The teacher told me about a youngster who brought a kitten to class.",
+                "vi": "Người giáo viên nói cho tôi biết về một đứa bé mang con mèo con đến lớp học."
+            }
+        },
+        {
+            "content": "miu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cô gái õng ẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô gái đỏng đảnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "miu con",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

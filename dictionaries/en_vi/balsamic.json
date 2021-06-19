@@ -1,0 +1,54 @@
+{
+    "word": "balsamic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bôlˈsamik/",
+            "/bɔlˈsæmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɔːlˈsamɪk/",
+            "/bɒlˈsamɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thơm",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "It is made of aromatic resins and gums, such as frankincense and balsam.",
+                "vi": "Hương đến từ nhựa và chất gôm có mùi thơm, như hương trầm và nhựa thơm."
+            }
+        },
+        {
+            "content": "an ủi",
+            "type": "",
+            "example": {
+                "en": "It's a sweet balsam.",
+                "vi": "Đó là một niềm an ủi dịu dàng."
+            }
+        },
+        {
+            "content": "có chất nhựa thơm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm dịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thơm ngát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

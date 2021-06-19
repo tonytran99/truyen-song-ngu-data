@@ -1,0 +1,53 @@
+{
+    "word": "cocoon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈko͞on/",
+            "/kəˈkun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈkuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kén",
+            "type": "noun",
+            "example": {
+                "en": "I'm gonna watch some butterflies come out of their cocoons. Whoa!",
+                "vi": "Tôi sẽ đi nhìn mấy con bướm chuẩn bị chui ra khỏi kén."
+            }
+        },
+        {
+            "content": "繭",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái kén",
+            "type": "noun",
+            "example": {
+                "en": "But for now, they lie protected within their icy cocoons.",
+                "vi": "Nhưng bây giờ, chúng nằm an toàn trong cái kén băng của mình."
+            }
+        },
+        {
+            "content": "làm kén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng sống tách rời được che chở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

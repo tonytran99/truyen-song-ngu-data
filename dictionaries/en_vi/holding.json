@@ -1,0 +1,77 @@
+{
+    "word": "holding",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōldiNG/",
+            "/ˈhoʊldɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊldɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giữ",
+            "type": "verb",
+            "example": {
+                "en": "It was all I could do to hold onto this amazing creature.",
+                "vi": "Tôi chỉ có thể cố giữ chặt thứ sinh vật kỳ lạ đó."
+            }
+        },
+        {
+            "content": "cách cầm",
+            "type": "",
+            "example": {
+                "en": "When did your eager little fingers learn to hold dice?",
+                "vi": "Chừng nào những ngón tay tham lam của cô biết cách cầm súc sắc?"
+            }
+        },
+        {
+            "content": "cách nắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cổ phần",
+            "type": "",
+            "example": {
+                "en": "I can't move on Prohaszka's holdings until the glare is off.",
+                "vi": "Tôi không thể chiếm lấy cổ phần của Prohaszka cho đến khi không bị soi xét nữa."
+            }
+        },
+        {
+            "content": "ruộng đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cầm",
+            "type": "",
+            "example": {
+                "en": "even though I'm actually holding the stick quite tightly.",
+                "vi": "ngay cả khi tôi đang thực sự cầm chắc chiếc que trống."
+            }
+        },
+        {
+            "content": "sự nắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tài sản",
+            "type": "",
+            "example": {
+                "en": "See, they've been hiding accounts all over through Rand holdings.",
+                "vi": "Họ đã giấu những tài khoản ở khắp nơi thông qua các tài sản của Rand."
+            }
+        }
+    ]
+}

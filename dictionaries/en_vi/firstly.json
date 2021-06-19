@@ -1,0 +1,60 @@
+{
+    "word": "firstly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərstlē/",
+            "/ˈfərstli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːs(t)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thứ nhất",
+            "type": "adjective",
+            "example": {
+                "en": "You are here, firstly, because you have nothing better to do.",
+                "vi": "Các anh đến đây, thứ nhất, là vì các anh là đám vô công rồi nghề."
+            }
+        },
+        {
+            "content": "trước nhất",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "thoạt tiên",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "đầu tiên là",
+            "type": "",
+            "example": {
+                "en": "Firstly, that it is the duty of a clergyman to set the example of matrimony in his parish.",
+                "vi": "Đầu tiên, là do bổn phận của một người mục sư để làm mẫu cho một cuộc hôn nhân trong sứ đạo của anh ta."
+            }
+        },
+        {
+            "content": "trước tiên",
+            "type": "",
+            "example": {
+                "en": "are, firstly, we have a restaurant inside a productive greenhouse,",
+                "vi": "trước tiên, là một nhà hàng nằm trong một nhà kính sản suất,"
+            }
+        },
+        {
+            "content": "đồng âm prémices",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

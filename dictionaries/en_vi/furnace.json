@@ -1,0 +1,63 @@
+{
+    "word": "furnace",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːnɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò",
+            "type": "noun",
+            "example": {
+                "en": "You're driving me crazy with the tongs and the furnace.",
+                "vi": "Anh làm tôi phát điên lên với mấy cái kẹp trong lò."
+            }
+        },
+        {
+            "content": "lò sưởi",
+            "type": "",
+            "example": {
+                "en": "if you have a building that doesn't need to be heated with a furnace,",
+                "vi": "Nếu bạn có một toàn nhà mà không cần làm ấm bằng lò sưởi,"
+            }
+        },
+        {
+            "content": "lò luyện",
+            "type": "noun",
+            "example": {
+                "en": "We want you out of the factory so we can get the furnaces working again.",
+                "vi": "Tụi tao chỉ muốn những lò luyện kim hoạt động trở lại thôi!"
+            }
+        },
+        {
+            "content": "lò luyện kim",
+            "type": "",
+            "example": {
+                "en": "We want you out of the factory so we can get the furnaces working again.",
+                "vi": "Tụi tao chỉ muốn những lò luyện kim hoạt động trở lại thôi!"
+            }
+        },
+        {
+            "content": "nung trong lò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi nóng quá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "comet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämət/",
+            "/ˈkɑmət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sao chổi",
+            "type": "noun",
+            "example": {
+                "en": "With this image of the comet, I would like to leave you.",
+                "vi": "Với hình ảnh của sao chổi, tôi xin chào tạm biệt."
+            }
+        },
+        {
+            "content": "Cá vàng sao chổi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

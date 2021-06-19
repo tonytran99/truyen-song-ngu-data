@@ -1,0 +1,50 @@
+{
+    "word": "caulk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kôk/",
+            "/kɔk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trét",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hàn",
+            "type": "",
+            "example": {
+                "en": "This whole tub needs to be re-caulked.",
+                "vi": "Nếu thế thì cái bồn này cần phải hàn lại."
+            }
+        },
+        {
+            "content": "ken",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bít",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

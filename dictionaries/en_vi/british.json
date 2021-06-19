@@ -1,0 +1,36 @@
+{
+    "word": "british",
+    "type": [
+        "adjective",
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbridiSH/",
+            "/ˈbrɪdɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɪtɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Anh",
+            "type": "adjective proper",
+            "example": {
+                "en": "The British finally retreated.",
+                "vi": "Người Anh cuối cùng cũng rút lui."
+            }
+        },
+        {
+            "content": "thuộc về nước anh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "usual",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞oZH(o͞o)əl/",
+            "/ˈjuʒ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːʒʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình thường",
+            "type": "adjective",
+            "example": {
+                "en": "Well, he told me to look for anything unusual, And it's all usual.",
+                "vi": "Anh ấy nói tìm cái gì đó bất thường, và tất cả bình thường."
+            }
+        },
+        {
+            "content": "thông thường",
+            "type": "adjective",
+            "example": {
+                "en": "Usually when Tom and Mary go out for dinner together, they split the bill.",
+                "vi": "Thông thường khi Tom và Mary ra ngoài ăn tối cùng nhau, họ cùng trả tiền hoá đơn."
+            }
+        },
+        {
+            "content": "thường",
+            "type": "adjective",
+            "example": {
+                "en": "Tom looks more friendly today than he usually does.",
+                "vi": "Hôm nay Tom trông thân thiện hơn hẳn thường ngày."
+            }
+        },
+        {
+            "content": "dùng quen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thông dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thường dùng",
+            "type": "",
+            "example": {
+                "en": "Propofol is usually administered intravenously , often during surgery .",
+                "vi": "Propofol dùng để đưa vào tĩnh mạch và thường dùng trong phẫu thuật ."
+            }
+        },
+        {
+            "content": "thường lệ",
+            "type": "adjective",
+            "example": {
+                "en": "I did it to myself again, as usual.",
+                "vi": "Em lại làm thế với bản thân như thường lệ."
+            }
+        }
+    ]
+}

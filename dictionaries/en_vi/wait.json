@@ -1,0 +1,145 @@
+{
+    "word": "wait",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wāt/",
+            "/weɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đợi",
+            "type": "verb",
+            "example": {
+                "en": "I've been waiting for her for an hour.",
+                "vi": "Cho đến giờ tôi đã đợi cô ta một tiếng đồng hồ."
+            }
+        },
+        {
+            "content": "chờ",
+            "type": "verb",
+            "example": {
+                "en": "She was made to wait for over an hour.",
+                "vi": "Chị ấy bị bắt chờ hơn một tiếng đồng hồ."
+            }
+        },
+        {
+            "content": "chờ đợi",
+            "type": "",
+            "example": {
+                "en": "The only thing we can do is wait.",
+                "vi": "Tôi chỉ còn chờ đợi được thôi."
+            }
+        },
+        {
+            "content": "chỗ mai phục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ rình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoãn lại",
+            "type": "",
+            "example": {
+                "en": "Wait, does the robot fight mean that game night is canceled?",
+                "vi": "Chờ đã, vậy là đánh nhau với robot thì phải hoãn lại trò chơi đêm khuya nhỉ?"
+            }
+        },
+        {
+            "content": "hầu bàn",
+            "type": "",
+            "example": {
+                "en": "The waiter could scarcely wait for the man’s reaction.",
+                "vi": "Người hầu bàn nôn nóng chờ đợi phản ứng của người khách hàng."
+            }
+        },
+        {
+            "content": "lùi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chờ đợi",
+            "type": "",
+            "example": {
+                "en": "Sorry about the wait, but it is mega-jammed in here.",
+                "vi": "Xin lỗi về sự chờ đợi, và đây là mega Jammed của quý khách."
+            }
+        },
+        {
+            "content": "sự mai phục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo hầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời gian chờ đợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hầu",
+            "type": "noun",
+            "example": {
+                "en": "The waiter could scarcely wait for the man’s reaction.",
+                "vi": "Người hầu bàn nôn nóng chờ đợi phản ứng của người khách hàng."
+            }
+        },
+        {
+            "content": "chờ mong",
+            "type": "",
+            "example": {
+                "en": "Ladies and gentlemen, distinguished guests the moment you've all been waiting for.",
+                "vi": "Kính thưa quý vị, các quý quan khách... thời khắc quý vị đều chờ mong."
+            }
+        },
+        {
+            "content": "mong chờ",
+            "type": "",
+            "example": {
+                "en": "Ah, we have been waiting and waiting for your arrival!",
+                "vi": "Chúng tôi mong chờ ngài từng ngày để quay trở lại!"
+            }
+        },
+        {
+            "content": "mong mỏi",
+            "type": "",
+            "example": {
+                "en": "Sydney. I had been waiting my whole life to get to Sydney.",
+                "vi": "Sydney. Cả cuộc đời tôi luôn mong mỏi được đến Sydney."
+            }
+        },
+        {
+            "content": "phục vụ",
+            "type": "noun",
+            "example": {
+                "en": "I need to get back to waiting tables, where the real money is.",
+                "vi": "Tôi cần quay lại làm phục vụ bàn, nơi cá kiếm nhất."
+            }
+        }
+    ]
+}

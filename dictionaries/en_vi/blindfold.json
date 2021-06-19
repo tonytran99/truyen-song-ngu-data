@@ -1,0 +1,63 @@
+{
+    "word": "blindfold",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblīn(d)fōld/",
+            "/ˈblaɪn(d)foʊld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblʌɪn(d)fəʊld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bịt mắt",
+            "type": "",
+            "example": {
+                "en": "My father found that blindfold you forced into my hands.",
+                "vi": "Cha ta tìm thấy cái khăn bịt mắt mà ngươi đưa cho ta."
+            }
+        },
+        {
+            "content": "bị bịt mắt",
+            "type": "",
+            "example": {
+                "en": "I can't make out anything through the blindfold, but I know that voice.",
+                "vi": "Tôi chẳng thể thấy gì vì cô ấy bị bịt mắt."
+            }
+        },
+        {
+            "content": "làm mù quáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mù quáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dải băng bịt mắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vải bịt mắt",
+            "type": "",
+            "example": {
+                "en": "A blindfold likely means one of two things.",
+                "vi": "Vải bịt mắt có khả năng tượng trưng cho 1 trong 2 điều."
+            }
+        }
+    ]
+}

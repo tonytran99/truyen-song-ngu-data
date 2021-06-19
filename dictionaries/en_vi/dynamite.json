@@ -1,0 +1,71 @@
+{
+    "word": "dynamite",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīnəˌmīt/",
+            "/ˈdaɪnəˌmaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪnəmʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mìn",
+            "type": "noun",
+            "example": {
+                "en": "Come on, let's get this dynamite somewhere safe.",
+                "vi": "Thôi, hãy đem số mìn này tới một chỗ nào an toàn."
+            }
+        },
+        {
+            "content": "đinamit",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất nổ",
+            "type": "noun",
+            "example": {
+                "en": "Even 30 years ago, pathologists and blood-bank personnel were advised: “Blood is dynamite!",
+                "vi": "Ba mươi năm trước đây các nhà bệnh lý học và nhân viên ngân hàng máu cũng đã được khuyên rằng: “Máu là chất nổ!"
+            }
+        },
+        {
+            "content": "dynamit",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc nổ",
+            "type": "noun",
+            "example": {
+                "en": "A little dynamite for you black fellas to play with.",
+                "vi": "Có ít thuốc nổ cho bọn mày chơi này!"
+            }
+        },
+        {
+            "content": "bốc lôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá bằng đinamit",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phá huỷ hoàn toàn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

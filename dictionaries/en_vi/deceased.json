@@ -1,0 +1,75 @@
+{
+    "word": "deceased",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsēst/",
+            "/dəˈsist/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsiːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đã chết",
+            "type": "adjective",
+            "example": {
+                "en": "Billions of the deceased and those yet to be born have their eyes on us.",
+                "vi": "Hàng tỷ người đã chết và những người chưa sinh ra đều trông chờ chúng ta."
+            }
+        },
+        {
+            "content": "đã qua đời",
+            "type": "adjective",
+            "example": {
+                "en": "What about the deceased who have not been baptized?",
+                "vi": "Còn những người đã qua đời mà chưa được báp têm thì sao?"
+            }
+        },
+        {
+            "content": "chết",
+            "type": "noun",
+            "example": {
+                "en": "A live human body and a deceased human body have the same number of particles.",
+                "vi": "Một cơ thể sống và một cơ thể chết cũng chỉ có từng đấy hạt."
+            }
+        },
+        {
+            "content": "quá cố",
+            "type": "adjective",
+            "example": {
+                "en": "You honor the deceased by driving their truck.",
+                "vi": "Người ta tôn trọng người quá cố bằng cách lái xe tải của họ."
+            }
+        },
+        {
+            "content": "đã mất",
+            "type": "noun",
+            "example": {
+                "en": "No other sets were found, other than the housekeeper's and the deceased's.",
+                "vi": "Không tìm thấy nhân vật nào khác ngoài ông bác sĩ và người đã mất."
+            }
+        },
+        {
+            "content": "qua đời",
+            "type": "noun",
+            "example": {
+                "en": "What about the deceased who have not been baptized?",
+                "vi": "Còn những người đã qua đời mà chưa được báp têm thì sao?"
+            }
+        },
+        {
+            "content": "ñaõ cheát, ñaõ qua ñôøi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

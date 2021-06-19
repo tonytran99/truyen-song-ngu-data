@@ -1,0 +1,42 @@
+{
+    "word": "indelicate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdeləkət/",
+            "/ɪnˈdɛləkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdɛlɪkət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khiếm nhã",
+            "type": "noun",
+            "example": {
+                "en": "May I ask an indelicate question?",
+                "vi": "Cho phép tôi hỏi một câu hơi khiếm nhã."
+            }
+        },
+        {
+            "content": "thiếu tế nhị",
+            "type": "",
+            "example": {
+                "en": "As indelicate as they may be.",
+                "vi": "Dù cho có thể chúng rất thiếu tế nhị."
+            }
+        },
+        {
+            "content": "thô lỗ",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

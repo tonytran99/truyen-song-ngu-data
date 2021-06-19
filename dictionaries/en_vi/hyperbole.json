@@ -1,0 +1,44 @@
+{
+    "word": "hyperbole",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hīˈpərbəlē/",
+            "/haɪˈpərbəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪˈpəːbəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời ngoa dụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói cường điệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói ngoa dụ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phép ngoa dụ",
+            "type": "",
+            "example": {
+                "en": "So the hyperbole is not actually surprising.",
+                "vi": "Vậy nên phép ngoa dụ kia không có gì ngạc nhiên."
+            }
+        }
+    ]
+}

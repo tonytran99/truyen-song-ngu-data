@@ -1,0 +1,67 @@
+{
+    "word": "civilian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈvilyən/",
+            "/səˈvɪljən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈvɪlj(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thường dân",
+            "type": "adjective",
+            "example": {
+                "en": "In this era, wars have killed more civilians than ever before.",
+                "vi": "Trong kỷ nguyên này, chiến tranh đã giết nhiều thường dân hơn bao giờ hết."
+            }
+        },
+        {
+            "content": "dân sự",
+            "type": "noun, adjective",
+            "example": {
+                "en": "You and Martin are hereby appointed civilian scouts.",
+                "vi": "Ethan, anh và Martin được lệnh làm trinh sát dân sự."
+            }
+        },
+        {
+            "content": "dân thường",
+            "type": "",
+            "example": {
+                "en": "We've been in a collision with a civilian vehicle.",
+                "vi": "Chúng tôi va phải xe của dân thường."
+            }
+        },
+        {
+            "content": "lương dân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dân",
+            "type": "adjective",
+            "example": {
+                "en": "All civilians are asked to please shelter in place.",
+                "vi": "Toàn bộ người dân được yêu cầu hãy ở trong nơi trú ẩn an toàn."
+            }
+        },
+        {
+            "content": "người thường",
+            "type": "",
+            "example": {
+                "en": "That figure does not include the millions of civilian casualties.",
+                "vi": "Con số đó không bao gồm hằng triệu sinh mạng của những người thường dân."
+            }
+        }
+    ]
+}

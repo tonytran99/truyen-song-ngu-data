@@ -1,0 +1,64 @@
+{
+    "word": "calling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôliNG/",
+            "/ˈkɔlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghề nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Not to mention a little thing called professional courtesy.",
+                "vi": "Chưa kể còn 1 thứ gọi là xã giao nghề nghiệp nữa chứ."
+            }
+        },
+        {
+            "content": "giờ đến thăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuynh hướng",
+            "type": "",
+            "example": {
+                "en": "It's a trend piece, about something called edging.",
+                "vi": "Nó là một dnagj khuynh hướng, về cái được gọi là góc cạnh."
+            }
+        },
+        {
+            "content": "sự gọi",
+            "type": "",
+            "example": {
+                "en": "How many times have you really called her?",
+                "vi": "Anh đã bao nhiêu lần thật sự gọi cho cô ấy?"
+            }
+        },
+        {
+            "content": "sự đến thăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xu hướng",
+            "type": "",
+            "example": {
+                "en": "their calls tend to be",
+                "vi": "tiếng gọi của chúng có xu hướng"
+            }
+        }
+    ]
+}

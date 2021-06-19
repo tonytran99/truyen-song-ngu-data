@@ -1,0 +1,55 @@
+{
+    "word": "dingy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdinjē/",
+            "/ˈdɪndʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪn(d)ʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xỉn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bẩn thỉu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cáu bẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dơ dáy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tối màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xám xịt",
+            "type": "",
+            "example": {
+                "en": "She just called your aura dingy.",
+                "vi": "Nó vừa gọi khí của em là xám xịt."
+            }
+        }
+    ]
+}

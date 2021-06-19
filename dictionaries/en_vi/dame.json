@@ -1,0 +1,42 @@
+{
+    "word": "dame",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dām/",
+            "/deɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/deɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phu nhân",
+            "type": "noun",
+            "example": {
+                "en": "Remember your place, Dame Vaako.",
+                "vi": "Hãy nhớ chỗ của mình đó Phu nhân Vaako."
+            }
+        },
+        {
+            "content": "bà",
+            "type": "abbreviation",
+            "example": {
+                "en": "Just some of Irving's dames.",
+                "vi": "Chỉ là mấy quý bà của Irving thôi."
+            }
+        },
+        {
+            "content": "người phụ nữ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

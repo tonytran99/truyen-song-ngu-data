@@ -1,0 +1,42 @@
+{
+    "word": "chef",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/SHef/",
+            "/ʃɛf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʃɛf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầu bếp",
+            "type": "noun",
+            "example": {
+                "en": "My wife's a chef, and I'm in advertising.",
+                "vi": "Vợ tôi là một đầu bếp, và tôi làm trong ngành quảng cáo."
+            }
+        },
+        {
+            "content": "bếp trưởng",
+            "type": "",
+            "example": {
+                "en": "You're the most talented chef I've ever worked for.",
+                "vi": "Cô là bếp trưởng tài năng nhất mà tôi từng làm việc cùng."
+            }
+        },
+        {
+            "content": "tù trưởng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

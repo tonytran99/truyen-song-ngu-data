@@ -1,0 +1,48 @@
+{
+    "word": "bedroom",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbedˌro͞om/",
+            "/ˈbɛdˌrum/",
+            "/ˈbedˌro͝om/",
+            "/ˈbɛdˌrʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɛdruːm/",
+            "/ˈbɛdrʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng ngủ",
+            "type": "noun",
+            "example": {
+                "en": "There's another bedroom upstairs, if you'll be needing two bedrooms.",
+                "vi": "Có một phòng ngủ khác ở trên lầu, nếu các anh cần hai phòng ngủ."
+            }
+        },
+        {
+            "content": "buồng ngủ",
+            "type": "noun",
+            "example": {
+                "en": "She might be climbing through his bedroom window right now.",
+                "vi": "Giờ cô ta có thể đang trèo qua cửa sổ buồng ngủ ông ấy đấy."
+            }
+        },
+        {
+            "content": "Phòng ngủ",
+            "type": "",
+            "example": {
+                "en": "Spacious master bedroom, plus huge balcony",
+                "vi": "Phòng ngủ rộng rãi cùng với ban công lớn"
+            }
+        }
+    ]
+}

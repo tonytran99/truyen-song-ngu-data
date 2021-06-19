@@ -1,0 +1,35 @@
+{
+    "word": "counsellor",
+    "type": [
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊns(ə)lə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cố vấn",
+            "type": "noun",
+            "example": {
+                "en": "As ship's counsellor, I recommend you get some sleep.",
+                "vi": "Với tư cách là cố vấn của tầu, em đề nghị anh đi ngủ."
+            }
+        },
+        {
+            "content": "luật sư",
+            "type": "noun",
+            "example": {
+                "en": "Thanks for the coffee, counsellor.",
+                "vi": "Cảm ơn vì cốc cafe, Luật sư."
+            }
+        },
+        {
+            "content": "người khuyên bảo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

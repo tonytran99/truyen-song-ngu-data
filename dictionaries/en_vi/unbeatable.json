@@ -1,0 +1,43 @@
+{
+    "word": "unbeatable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈbēdəb(ə)l/",
+            "/ˌənˈbidəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈbiːtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất bại",
+            "type": "",
+            "example": {
+                "en": "And Chinese teams are not unbeatable.",
+                "vi": "Và các đội Trung Quốc không phải là bất bại."
+            }
+        },
+        {
+            "content": "không thể thắng nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể vượt qua",
+            "type": "",
+            "example": {
+                "en": "You seem to be unbeatable, Mr. Bond.",
+                "vi": "Dường như không thể vượt qua được anh, Mr.Bond."
+            }
+        }
+    ]
+}

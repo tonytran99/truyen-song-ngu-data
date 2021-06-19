@@ -1,0 +1,44 @@
+{
+    "word": "trillion",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrilyən/",
+            "/ˈtrɪljən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɪljən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tỷ",
+            "type": "Cardinal number",
+            "example": {
+                "en": "They got all these fancy names for trillions of dollars of credit.",
+                "vi": "Họ đặt nhiều cái tên mĩ miều cho các khoản tín dụng nhiều tỷ đô la:"
+            }
+        },
+        {
+            "content": "10 18",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một ngàn tỷ",
+            "type": "",
+            "example": {
+                "en": "can save close to a trillion dollars.",
+                "vi": "có thể tiết kiệm được một ngàn tỷ đô la."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "verb",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vərb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəːb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động từ",
+            "type": "noun",
+            "example": {
+                "en": "Almost any word in English can be verbed.",
+                "vi": "Hầu như bất cứ từ nào trong tiếng Anh cũng có thể được động từ hóa."
+            }
+        },
+        {
+            "content": "動詞",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bình phương",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "Động từ",
+            "type": "",
+            "example": {
+                "en": "The verb is the chassis of the sentence.",
+                "vi": "Động từ là phần khung cho cả câu."
+            }
+        }
+    ]
+}

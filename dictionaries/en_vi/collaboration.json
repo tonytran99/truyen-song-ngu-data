@@ -1,0 +1,45 @@
+{
+    "word": "collaboration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˌlabəˈrāSH(ə)n/",
+            "/kəˌlæbəˈreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəlabəˈreɪʃn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cộng tác",
+            "type": "noun",
+            "example": {
+                "en": "They invest in professional development and collaboration and many other things.",
+                "vi": "Họ đầu tư để nâng cao chuyên môn và sự cộng tác và nhiều việc khác nữa."
+            }
+        },
+        {
+            "content": "hợp tác",
+            "type": "",
+            "example": {
+                "en": "A colleague of mine is studying collaborative learning theory.",
+                "vi": "Một đồng nghiệp của bố đang nghiên cứu về học thuyết học cách hợp tác."
+            }
+        },
+        {
+            "content": "sự hợp tác",
+            "type": "noun",
+            "example": {
+                "en": "Today, I'd like to show you something which came out of these collaborations.",
+                "vi": "Hôm nay, tôi muốn cho các bạn thấy sự hợp tác đó đã đem đến cái gì."
+            }
+        }
+    ]
+}

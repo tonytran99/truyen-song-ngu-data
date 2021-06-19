@@ -1,0 +1,48 @@
+{
+    "word": "grateful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrātfəl/",
+            "/ˈɡreɪtfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪtfʊl/",
+            "/ˈɡreɪtf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết ơn",
+            "type": "adjective",
+            "example": {
+                "en": "I can't tell you how grateful I am.",
+                "vi": "Tôi biết ơn không sao kể hết."
+            }
+        },
+        {
+            "content": "dễ chịu",
+            "type": "adjective",
+            "example": {
+                "en": "Sa is grateful he does n't have to face that scene every day .",
+                "vi": "Sa cảm thấy dễ chịu vì ông không phải đối mặt với cảnh tượng này mỗi ngày ."
+            }
+        },
+        {
+            "content": "khoan khoái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tri ân",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

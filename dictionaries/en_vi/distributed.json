@@ -1,0 +1,63 @@
+{
+    "word": "distributed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstribyo͞odəd/",
+            "/dəˈstrɪbjudəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstrɪbjʊtɪd/",
+            "/ˈdɪstrɪbjuːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân bổ",
+            "type": "adjective",
+            "example": {
+                "en": "The water cycle distributes fresh, clean water around the planet.",
+                "vi": "Chu trình của nước phân bổ nước sạch, tinh khiết khắp hành tinh chúng ta."
+            }
+        },
+        {
+            "content": "phân phát",
+            "type": "adjective",
+            "example": {
+                "en": "The Watchtower magazine is the most widely translated and distributed journal in the world.",
+                "vi": "Tháp Canh là tạp chí được dịch và phân phát rộng rãi nhất trên thế giới."
+            }
+        },
+        {
+            "content": "phân phối",
+            "type": "adjective",
+            "example": {
+                "en": "Distribution plant can't distribute if it's not getting deliveries.",
+                "vi": "Không thể phân phối nếu không nhận được hàng."
+            }
+        },
+        {
+            "content": "được phân bố",
+            "type": "",
+            "example": {
+                "en": "And you think of the Internet as this kind of distributed system.",
+                "vi": "Và bạn nghĩ về Internet như một hệ thống được phân bố."
+            }
+        },
+        {
+            "content": "được phân phối",
+            "type": "",
+            "example": {
+                "en": "I mean, I used the manufacturer's serial number and tracked down where it's distributed to.",
+                "vi": "Tôi đã lần theo số seri của nhà sản xuất để tìm nơi nó được phân phối."
+            }
+        }
+    ]
+}

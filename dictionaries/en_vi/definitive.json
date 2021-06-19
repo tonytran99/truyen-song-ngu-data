@@ -1,0 +1,38 @@
+{
+    "word": "definitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfinədiv/",
+            "/dəˈfɪnədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɪnɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuối cùng",
+            "type": "adjective",
+            "example": {
+                "en": "Well, look, I mean the tide is definitely turning.",
+                "vi": "Vâng, cuối cùng thì tình hình đã thay đổi."
+            }
+        },
+        {
+            "content": "dứt khoát",
+            "type": "adjective",
+            "example": {
+                "en": "I didn't want to say anything until it was definite.",
+                "vi": "Anh đã không muốn nói bất cứ gì cho tới khi có quyết định dứt khoát."
+            }
+        }
+    ]
+}

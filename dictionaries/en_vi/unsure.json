@@ -1,0 +1,60 @@
+{
+    "word": "unsure",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈSHo͝or/",
+            "/ˌənˈʃʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈʃʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chắc chắn",
+            "type": "adjective",
+            "example": {
+                "en": "You're not used to being unsure, are you?",
+                "vi": "Hoặc anh không quen với việc không chắc chắn, phải không?"
+            }
+        },
+        {
+            "content": "không thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không xác thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu tự tin",
+            "type": "",
+            "example": {
+                "en": "We may feel unsure, awkward, or even perhaps a bit embarrassed.",
+                "vi": "Chúng ta có thể cảm thấy thiếu tự tin, lúng túng hoặc có lẽ một chút ngượng ngịu."
+            }
+        },
+        {
+            "content": "bấp bênh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không chắc",
+            "type": "",
+            "example": {
+                "en": "But Moses was unsure, so he sent his spies into that land to survey it.",
+                "vi": "Nhưng Moses không chắc ăn, ông cho người đi trước tới vùng đất đó để do thám."
+            }
+        }
+    ]
+}

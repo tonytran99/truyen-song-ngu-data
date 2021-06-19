@@ -1,0 +1,68 @@
+{
+    "word": "kindergarten",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkindərˌɡärtn/",
+            "/ˈkɪndərˌɡɑrtn/",
+            "/ˈkindərˌɡärdn/",
+            "/ˈkɪndərˌɡɑrdn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪndəˌɡɑːt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà trẻ",
+            "type": "noun",
+            "example": {
+                "en": "You know, I was in y'all kindergarten, right?",
+                "vi": "Cậu biết đấy, tớ ở trong nhà trẻ hồi bé, phải chứ?"
+            }
+        },
+        {
+            "content": "vườn trẻ",
+            "type": "noun",
+            "example": {
+                "en": "Ever since I was in kindergarten.",
+                "vi": "Kể từ khi tôi còn ở trong vườn trẻ."
+            }
+        },
+        {
+            "content": "mẫu giáo",
+            "type": "noun",
+            "example": {
+                "en": "Seikichi and I have known each other ever since we went to kindergarten together.",
+                "vi": "Tôi quen anh Seikichi từ khi chúng tôi học chung lớp mẫu giáo."
+            }
+        },
+        {
+            "content": "trường mẫu giáo",
+            "type": "noun",
+            "example": {
+                "en": "This is a kindergarten we designed in 2007.",
+                "vi": "Đây là trường mẫu giáo chúng tôi xây vào năm 2007."
+            }
+        },
+        {
+            "content": "lớp mẫu giáo",
+            "type": "",
+            "example": {
+                "en": "Her other child was in her first week of kindergarten.",
+                "vi": "Đứa con kia của nó mới nhập học lớp mẫu giáo được một tuần."
+            }
+        },
+        {
+            "content": "ấu trĩ viên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

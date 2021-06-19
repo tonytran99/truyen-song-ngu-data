@@ -1,0 +1,37 @@
+{
+    "word": "barbarically",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bärˈberək(ə)lē/",
+            "/bɑrˈbɛrək(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɑːˈbarɪkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dã man",
+            "type": "adjective adverb",
+            "example": {
+                "en": "You think they'd allow you to continue your barbaric practice?",
+                "vi": "Mày nghĩ rằng họ sẽ cho phép mày tiếp tục những thí nghiệm dã man đó?"
+            }
+        },
+        {
+            "content": "man rợ",
+            "type": "",
+            "example": {
+                "en": "What's this barbaric rumor I hear about sterilization?",
+                "vi": "Thế còn tin đồn man rợ mà mà tôi nghe về việc triệt sản?"
+            }
+        }
+    ]
+}

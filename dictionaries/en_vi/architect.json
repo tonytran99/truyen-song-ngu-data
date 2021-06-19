@@ -1,0 +1,64 @@
+{
+    "word": "architect",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärkəˌtekt/",
+            "/ˈɑrkəˌtɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːkɪtɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiến trúc sư",
+            "type": "noun",
+            "example": {
+                "en": "So this leads to a new role for the architect.",
+                "vi": "Vì vậy, nó dẫn đến vai trò mới cho các kiến trúc sư."
+            }
+        },
+        {
+            "content": "người làm ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người sáng tạo",
+            "type": "",
+            "example": {
+                "en": "In fact, the architect of our national accounting system,",
+                "vi": "Thật sự, người sáng tạo ra hệ thống sổ sách kế toán quốc gia,"
+            }
+        },
+        {
+            "content": "người xây dựng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Kiến trúc sư",
+            "type": "",
+            "example": {
+                "en": "Known for their bite, the fire ants have evolved into remarkable architects.",
+                "vi": "Kiến lửa, nổi tiếng với vết cắn của chúng đã tiến hóa thành những kiến trúc sư bậc thầy."
+            }
+        },
+        {
+            "content": "nhà kiến trúc",
+            "type": "",
+            "example": {
+                "en": "architects stopped using fractions,",
+                "vi": "các nhà kiến trúc không dùng phân số nữa,"
+            }
+        }
+    ]
+}

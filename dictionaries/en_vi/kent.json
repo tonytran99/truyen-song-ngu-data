@@ -1,0 +1,57 @@
+{
+    "word": "kent",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kent/",
+            "/kɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhìn ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận ra",
+            "type": "",
+            "example": {
+                "en": "Why don't you think that people recognize him as Clark Kent?",
+                "vi": "Sao cô nghĩ người ta không nhận ra anh ta là Clark Kent?"
+            }
+        },
+        {
+            "content": "phạm vi hiểu biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầm mắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kent",
+            "type": "",
+            "example": {
+                "en": "The last time I saw Kent, he was very well.",
+                "vi": "Lần cuối cùng tôi gặp Kent, anh ta vẫn còn rất khỏe."
+            }
+        }
+    ]
+}

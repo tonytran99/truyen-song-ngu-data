@@ -1,0 +1,46 @@
+{
+    "word": "equivalent",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkwiv(ə)lənt/",
+            "/əˈkwɪv(ə)lənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈkwɪv(ə)l(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tương đương",
+            "type": "adjective, noun",
+            "example": {
+                "en": "So what is the transformational equivalent like that in medicine?",
+                "vi": "Vậy sự thay đổi tương đương trong y học thì như thế nào?"
+            }
+        },
+        {
+            "content": "đương lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ tương đương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật tương đương",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "eating",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "sự ăn",
+            "type": "",
+            "example": {
+                "en": "You guys are actually eating stuff in here?",
+                "vi": "Các cậu thực sự ăn uống trong đây à?"
+            }
+        },
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {
+                "en": "I can't eat or drink very hot things.",
+                "vi": "Tôi không thể ăn hay uống những thức ăn rất nóng."
+            }
+        },
+        {
+            "content": "Ăn",
+            "type": "",
+            "example": {
+                "en": "I don't care where we eat dinner. It's entirely up to you.",
+                "vi": "Ăn tối ở đâu cũng được, tùy bạn thôi."
+            }
+        },
+        {
+            "content": "ăn",
+            "type": "verb",
+            "example": {
+                "en": "I don't feel like eating animal proteins today.",
+                "vi": "Hôm nay tôi không muốn ăn đạm động vật."
+            }
+        }
+    ]
+}

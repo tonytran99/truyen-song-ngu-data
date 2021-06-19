@@ -1,0 +1,261 @@
+{
+    "word": "for",
+    "type": [
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôr/",
+            "/fɔr/",
+            "/fər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔː/",
+            "/fə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho",
+            "type": "adposition",
+            "example": {
+                "en": "Maybe it will be exactly the same for him.",
+                "vi": "Có lẽ cũng vậy cho anh ấy luôn."
+            }
+        },
+        {
+            "content": "tại vì",
+            "type": "conjunction, adposition",
+            "example": {
+                "en": "He always believed you were meant for greater things.",
+                "vi": "Cha con luôn tin rằng con tồn tại vì những điều vĩ đại hơn."
+            }
+        },
+        {
+            "content": "vì",
+            "type": "conjunction",
+            "example": {
+                "en": "Sorry to let you wait for so long.",
+                "vi": "Xĩn lỗi vì đã để bạn phải chờ lâu."
+            }
+        },
+        {
+            "content": "để",
+            "type": "conjunction verb",
+            "example": {
+                "en": "All the goods for sale are set out on the tables.",
+                "vi": "Tất cả các mặt hàng để bán đã được bày trên bàn."
+            }
+        },
+        {
+            "content": "bởi vì",
+            "type": "conjunction",
+            "example": {
+                "en": "I waited for you because I wanted so much for you to be alive.",
+                "vi": "Em đã đợi anh bởi vì em luôn muốn anh còn sống."
+            }
+        },
+        {
+            "content": "trong",
+            "type": "adjective adposition",
+            "example": {
+                "en": "I will have been staying in this hotel for one month next Sunday.",
+                "vi": "Tôi sẽ ở lại khách sạn này trong một tháng kể từ ngày thứ hai tới."
+            }
+        },
+        {
+            "content": "chuẩn bị cho",
+            "type": "",
+            "example": {
+                "en": "If you wish for peace, prepare for war.",
+                "vi": "Nếu bạn muốn hòa bình, hãy chuẩn bị cho chiến tranh."
+            }
+        },
+        {
+            "content": "dành cho",
+            "type": "",
+            "example": {
+                "en": "The ultimate question for me is whether I like business.",
+                "vi": "Câu hỏi cuối dành cho tôi là tôi có thích kinh doanh không."
+            }
+        },
+        {
+            "content": "giùm",
+            "type": "adposition",
+            "example": {
+                "en": "It is here that the holy spirit can intercede for us.",
+                "vi": "Chính tại điểm này mà thánh linh có thể can thiệp giùm chúng ta."
+            }
+        },
+        {
+            "content": "hộ",
+            "type": "adposition",
+            "example": {
+                "en": "Fadil was running an errand for his mother.",
+                "vi": "Fadil chạy đi lấy đồ hộ mẹ."
+            }
+        },
+        {
+            "content": "khoảng cách",
+            "type": "noun",
+            "example": {
+                "en": "Those windows up there let us see for miles in every direction.",
+                "vi": "Cửa sổ kia cho phép chúng tôi quan sát từ khoảng cách xa ở mọi hướng."
+            }
+        },
+        {
+            "content": "thái độ",
+            "type": "noun",
+            "example": {
+                "en": "I am grateful for the blessing of repentance and for my changed heart.",
+                "vi": "Tôi biết ơn về phước lành của sự hối cải và về thái độ thay đổi của tôi."
+            }
+        },
+        {
+            "content": "đến",
+            "type": "verb adposition",
+            "example": {
+                "en": "I've been waiting for her for an hour.",
+                "vi": "Cho đến giờ tôi đã đợi cô ta một tiếng đồng hồ."
+            }
+        },
+        {
+            "content": "mặc dù",
+            "type": "",
+            "example": {
+                "en": "And although that was great for the music business at the time, it wasn't much good for anything else.",
+                "vi": "Và lúc đó, mặc dù có lợi cho ngành công nghiệp âm nhạc, nó lại không tốt cho những mặt khác."
+            }
+        },
+        {
+            "content": "về phía",
+            "type": "adposition",
+            "example": {
+                "en": "For whoever is not against us is for us.",
+                "vi": "Ai không chống lại chúng ta là đứng về phía chúng ta."
+            }
+        },
+        {
+            "content": "đối với",
+            "type": "",
+            "example": {
+                "en": "Books such as these are too difficult for him.",
+                "vi": "Những quyển sách như vậy quá khó đối với nó."
+            }
+        },
+        {
+            "content": "so với",
+            "type": "",
+            "example": {
+                "en": "This hotel is relatively expensive for this town.",
+                "vi": "Khách sạn này có giá cả khá đắt so với một thị trấn như thế này."
+            }
+        },
+        {
+            "content": "thay cho",
+            "type": "",
+            "example": {
+                "en": "Working for a gangster like Linderman, pulling triggers for him.",
+                "vi": "Làm việc cho gã như Linderman, kéo cò súng thay cho hắn."
+            }
+        },
+        {
+            "content": "theo tỷ lệ",
+            "type": "",
+            "example": {
+                "en": "and make a better mixing for the closed photobioreactors.",
+                "vi": "và pha trộn theo tỷ lệ để tạo lò phản ứng quang sinh học khép kín."
+            }
+        },
+        {
+            "content": "thế cho",
+            "type": "",
+            "example": {
+                "en": "And I will be for as long as it takes for him to get his offering.",
+                "vi": "Và tôi sẽ như thế, Cho đến khi nào hắn tự dâng hắn ra."
+            }
+        },
+        {
+            "content": "về phe",
+            "type": "",
+            "example": {
+                "en": "Leaving it for the winning side, that's just good business.",
+                "vi": "Cứ để nó về phe chiến thắng. Chuyện bình thường mà."
+            }
+        },
+        {
+            "content": "về phần",
+            "type": "",
+            "example": {
+                "en": "But as for us, we cannot stop speaking about the things we have seen and heard.”",
+                "vi": "Vì, về phần chúng tôi, không có thể chẳng nói về những điều mình đã thấy và nghe”."
+            }
+        },
+        {
+            "content": "với mục đích là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi đến",
+            "type": "",
+            "example": {
+                "en": "Why are they coming for, finally, for philanthropy?",
+                "vi": "Tại sao cuối cùng, họ lại đi đến việc làm từ thiện?"
+            }
+        },
+        {
+            "content": "đại diện cho",
+            "type": "",
+            "example": {
+                "en": "I'm always looking for people willing to come represent the precinct.",
+                "vi": "Tôi luôn muốn đi cùng ai đó để đại diện cho cảnh sát thành phố."
+            }
+        },
+        {
+            "content": "để lấy",
+            "type": "",
+            "example": {
+                "en": "Tens of thousands of elephants are killed every year for their ivory tusks.",
+                "vi": "Hàng chục ngàn con voi bị giết mỗi năm để lấy ngà."
+            }
+        },
+        {
+            "content": "để được",
+            "type": "",
+            "example": {
+                "en": "I look to him for help.",
+                "vi": "Tôi tìm đến ông ấy để được giúp đỡ."
+            }
+        },
+        {
+            "content": "ủng hộ",
+            "type": "",
+            "example": {
+                "en": "I wanna thank you for going to bat for me last week.",
+                "vi": "Cám ơn cậu vì đã ủng hộ tôi hồi tuần trước."
+            }
+        },
+        {
+            "content": "cấp",
+            "type": "verb noun",
+            "example": {
+                "en": "Handbags and leather accessories for the discerning lady.",
+                "vi": "Tôi xử lý và cung cấp thông tin cần thiết.."
+            }
+        },
+        {
+            "content": "như là",
+            "type": "",
+            "example": {
+                "en": "People reuse it for a slab for their home.",
+                "vi": "Người ta sử dụng nó như là tấm ván cho nhà của họ."
+            }
+        }
+    ]
+}

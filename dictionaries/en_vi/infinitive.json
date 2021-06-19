@@ -1,0 +1,40 @@
+{
+    "word": "infinitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfinədiv/",
+            "/ɪnˈfɪnədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɪnɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lối vô định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên thể",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vô định",
+            "type": "",
+            "example": {
+                "en": "It is finite; harmony is infinite.",
+                "vi": "Nó cố định, còn đồng điệu thì vô định."
+            }
+        }
+    ]
+}

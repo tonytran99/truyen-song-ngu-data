@@ -1,0 +1,52 @@
+{
+    "word": "disadvantageous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisadvənˈtājəs/",
+            "/ˌdɪsædvənˈteɪdʒəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɪsadv(ə)nˈteɪdʒəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất lợi",
+            "type": "adjective",
+            "example": {
+                "en": "Each ring we retrieve will strengthen me, but I will still be at a disadvantage.",
+                "vi": "Mỗi chiếc nhẫn ta tìm lại đều sẽ giúp em mạnh lên. Nhưng em vẫn bị bất lợi."
+            }
+        },
+        {
+            "content": "hại cho thanh danh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hại cho uy tín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiệt thòi",
+            "type": "",
+            "example": {
+                "en": "Would that not have been to your disadvantage?",
+                "vi": "Làm thế không thiệt thòi cho bạn sao?"
+            }
+        },
+        {
+            "content": "thói quen",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

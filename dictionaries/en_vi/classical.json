@@ -1,0 +1,48 @@
+{
+    "word": "classical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasək(ə)l/",
+            "/ˈklæsək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklasɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cổ điển",
+            "type": "noun, adjective",
+            "example": {
+                "en": "Now, if we look at the bottom left corner here, this is your classic car.",
+                "vi": "Bây giờ, nếu chúng ta nhìn góc trái dưới ở đây, đây là xe cổ điển của bạn."
+            }
+        },
+        {
+            "content": "kinh điển",
+            "type": "",
+            "example": {
+                "en": "Fine bone china — this is a real classic.",
+                "vi": "Xương nghiền mịn trong đồ sứ — cái này thật là kinh điển đấy."
+            }
+        },
+        {
+            "content": "hạng ưu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hoa mỹ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

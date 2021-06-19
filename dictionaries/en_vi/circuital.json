@@ -1,0 +1,29 @@
+{
+    "word": "circuital",
+    "type": [
+        "adjective"
+    ],
+    "meanings": [
+        {
+            "content": "mạch",
+            "type": "noun",
+            "example": {
+                "en": "With this system a protection circuit has been built in.",
+                "vi": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong."
+            }
+        },
+        {
+            "content": "chu tuyến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơ đồ",
+            "type": "",
+            "example": {
+                "en": "And for them, this looked like a circuit diagram.",
+                "vi": "Với McCulloch và Pitts, trông nó như một sơ đồ mạch điện."
+            }
+        }
+    ]
+}

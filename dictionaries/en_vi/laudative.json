@@ -1,0 +1,36 @@
+{
+    "word": "laudative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlɔːdətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khen",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ca ngợi",
+            "type": "verb",
+            "example": {
+                "en": "The things that you've been lauded for all your life, those are suddenly fatal flaws.",
+                "vi": "Những điều mà anh được ca ngợi trong suốt cuộc đời, đều là đòn chí mạng cả."
+            }
+        },
+        {
+            "content": "tán dương",
+            "type": "",
+            "example": {
+                "en": "I'm an internationally lauded poet.",
+                "vi": "Tôi là nhà thơ được quốc tế tán dương."
+            }
+        }
+    ]
+}

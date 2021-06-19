@@ -1,0 +1,75 @@
+{
+    "word": "hotel",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hōˈtel/",
+            "/hoʊˈtɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həʊˈtɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách sạn",
+            "type": "noun",
+            "example": {
+                "en": "I will have been staying in this hotel for one month next Sunday.",
+                "vi": "Tôi sẽ ở lại khách sạn này trong một tháng kể từ ngày thứ hai tới."
+            }
+        },
+        {
+            "content": "lữ quán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "客棧",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "旅館",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hách sạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lữ điếm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhà hàng",
+            "type": "noun",
+            "example": {
+                "en": "He and his wife is taking a meal at a five-star hotel.",
+                "vi": "Ông ta và vợ đang ăn tối ở một nhà hàng 5 sao."
+            }
+        },
+        {
+            "content": "quán trọ",
+            "type": "noun",
+            "example": {
+                "en": "Not the hotel, not the inn, not even the prison would invite him in.",
+                "vi": "Không có khách sạn, không có quán trọ, thậm chí nhà tù cũng không mời anh ta vào."
+            }
+        },
+        {
+            "content": "ô ten",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "word": "addle",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadl/",
+            "/ˈædl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈad(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thối",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ung",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "quẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối",
+            "type": "",
+            "example": {
+                "en": "In your addled brain, you blame me for what happened to her.",
+                "vi": "Đầu óc anh rối bời, anh đổ lỗi chuyện xảy ra với cô ấy cho tôi."
+            }
+        },
+        {
+            "content": "hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm lẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm quẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rối óc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rối trí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

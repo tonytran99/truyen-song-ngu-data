@@ -1,0 +1,45 @@
+{
+    "word": "blare",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bler/",
+            "/blɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm om sòm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi kèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng kèn",
+            "type": "",
+            "example": {
+                "en": "Radios blare, horns honk, and people shout.",
+                "vi": "Tiếng máy phát thanh, tiếng kèn xe và tiếng người ta la om sòm."
+            }
+        },
+        {
+            "content": "tiếng om sòm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

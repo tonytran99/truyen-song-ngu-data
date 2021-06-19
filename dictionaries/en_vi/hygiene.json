@@ -1,0 +1,37 @@
+{
+    "word": "hygiene",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīˌjēn/",
+            "/ˈhaɪˌdʒin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪdʒiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vệ sinh",
+            "type": "noun",
+            "example": {
+                "en": "And does she need to give more attention to bodily hygiene, including oral hygiene?",
+                "vi": "Có cần chú ý hơn đến vệ sinh thân thể, kể cả vệ sinh răng miệng không?"
+            }
+        },
+        {
+            "content": "Vệ sinh",
+            "type": "",
+            "example": {
+                "en": "Good personal hygiene won't stab me in my sleep.",
+                "vi": "Vệ sinh cá nhân tốt, không đâm tớ trong lúc ngủ."
+            }
+        }
+    ]
+}

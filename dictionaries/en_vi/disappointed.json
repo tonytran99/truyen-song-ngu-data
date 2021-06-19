@@ -1,0 +1,51 @@
+{
+    "word": "disappointed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈpoin(t)əd/",
+            "/ˌdɪsəˈpɔɪn(t)əd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈpɔɪntɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất vọng",
+            "type": "adjective",
+            "example": {
+                "en": "I was greatly disappointed at hearing the news.",
+                "vi": "Tôi đã cực kỳ thất vọng khi nghe tin."
+            }
+        },
+        {
+            "content": "buồn nản",
+            "type": "adjective",
+            "example": {
+                "en": "Despondent thoughts and disappointed hopes",
+                "vi": "Chúa biết hay chăng buồn nản, đau thương,"
+            }
+        },
+        {
+            "content": "bất đắc chí",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chán nản",
+            "type": "",
+            "example": {
+                "en": "Disillusioned and disappointed with life, I replied that there was no hope.",
+                "vi": "Tôi cảm thấy chán nản và cuộc đời mình thật đen tối."
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "word": "yours",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yôrz/",
+            "/jɔrz/",
+            "/yo͝orz/",
+            "/jʊrz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɔːz/",
+            "/jʊəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của bạn",
+            "type": "pronoun",
+            "example": {
+                "en": "I'd never borrow anything of yours without asking first.",
+                "vi": "Tôi chưa bao giờ mượn bất kì thứ gì của bạn mà không hỏi trước cả."
+            }
+        },
+        {
+            "content": "cái của anh",
+            "type": "",
+            "example": {
+                "en": "You know, my agency exists because yours imploded.",
+                "vi": "Anh biết đó, cơ quan tôi tồn tại vì cái của anh đã sụp đổ."
+            }
+        },
+        {
+            "content": "cái của chúng mày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của chị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của các anh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của các chị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của các ngài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái của mày",
+            "type": "",
+            "example": {
+                "en": "I'll show you mine if you show me yours.",
+                "vi": "Tao sẽ cho mày thấy của tao nếu mày cho tao thấy cái của mày."
+            }
+        },
+        {
+            "content": "cái của ngài",
+            "type": "",
+            "example": {
+                "en": "He looks on your heart.5 And He loves you6 because you are His child.",
+                "vi": "Ngài nhìn vào tấm lòng của các em.5 Và Ngài yêu thương các em6 vì các em là con cái của Ngài."
+            }
+        },
+        {
+            "content": "cái",
+            "type": "adjective Prefix",
+            "example": {
+                "en": "How did you stain your dress?",
+                "vi": "Thế nào mà mày đã làm ố cái áo?"
+            }
+        },
+        {
+            "content": "của ngài",
+            "type": "",
+            "example": {
+                "en": "Your strength is immense and your courage unique.",
+                "vi": "Sức mạnh của ngài thì bao la và lòng quả cảm của ngài là độc nhất."
+            }
+        }
+    ]
+}

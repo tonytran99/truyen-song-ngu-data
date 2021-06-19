@@ -1,0 +1,41 @@
+{
+    "word": "bollocks",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbäləks/",
+            "/ˈbɑləks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒləks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyện vô lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tinh hoàn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vớ vẩn",
+            "type": "",
+            "example": {
+                "en": "You're just trying to get out of a bollocking!",
+                "vi": "Chị cứ nói vớ va vớ vẩn thôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "irritated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirəˌtādəd/",
+            "/ˈɪrəˌteɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪrɪteɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị chọc tức",
+            "type": "adjective",
+            "example": {
+                "en": "and it seems to keep getting irritated.",
+                "vi": "và dường như cứ bị chọc tức."
+            }
+        },
+        {
+            "content": "bị kích thích",
+            "type": "",
+            "example": {
+                "en": "The throbbing nature of the pain apparently corresponds to blood going through irritated vessels.",
+                "vi": "Những cơn đau theo từng nhịp dường như xuất hiện mỗi khi máu lưu thông qua các mạch máu bị kích thích."
+            }
+        },
+        {
+            "content": "bị làm cáu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bực bội",
+            "type": "adjective",
+            "example": {
+                "en": "He may even appear to be irritated or angry.",
+                "vi": "Chủ nhà có thể trông bực bội hay giận dữ."
+            }
+        },
+        {
+            "content": "cáu",
+            "type": "",
+            "example": {
+                "en": "We disagree about things, and we can even irritate each other.",
+                "vi": "Chúng tôi bất đồng ý kiến về những sự việc, ngay cả còn làm cho nhau phát cáu."
+            }
+        },
+        {
+            "content": "tức tối",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

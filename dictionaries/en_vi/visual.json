@@ -1,0 +1,47 @@
+{
+    "word": "visual",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviZH(o͞o)əl/",
+            "/ˈvɪʒ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪʒ(j)ʊəl/",
+            "/ˈvɪzjʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thị giác",
+            "type": "",
+            "example": {
+                "en": "The body needs vitamin A for the visual and immune systems to work properly .",
+                "vi": "Cơ thể cần vitamin A giúp hệ miễn dịch và thị giác hoạt động tốt ."
+            }
+        },
+        {
+            "content": "hình ảnh",
+            "type": "noun",
+            "example": {
+                "en": "And here, you can actually see how visualization is being used.",
+                "vi": "Và đây, bạn có thể thấy cách thức hình ảnh thể hiện."
+            }
+        },
+        {
+            "content": "trực quan",
+            "type": "adjective",
+            "example": {
+                "en": "Can we see it more visually? Yes, we can.",
+                "vi": "Chúng ta có thể nhìn thấy nó trực quan hơn không? Có, có thể."
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "indicative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdikədiv/",
+            "/ɪnˈdɪkədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdɪkətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu thị",
+            "type": "",
+            "example": {
+                "en": "Not indicators of effort or intention, but real achievement.",
+                "vi": "Không phải sự biểu thị về nỗ lực hay ý định mà là kết quả thực sự."
+            }
+        },
+        {
+            "content": "chỉ",
+            "type": "pronoun verb noun adverb",
+            "example": {
+                "en": "Weapon locations are marked on the map, indicated here on the tablet.",
+                "vi": "Các vị trí vũ khí được đánh dấu trên bản đồ, được chỉ định trên màn hình này."
+            }
+        },
+        {
+            "content": "biểu lộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lối trình bày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngụ ý",
+            "type": "",
+            "example": {
+                "en": "but it did seem to indicate that we were coming back.",
+                "vi": "nhưng quả thật nó ngụ ý rằng chúng ta đang quay về thời cũ."
+            }
+        },
+        {
+            "content": "ra ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỏ ra",
+            "type": "",
+            "example": {
+                "en": "Did she give you any indication at all where she was headed?",
+                "vi": "Cô ta có tỏ ra là cô ta sẽ đi đâu không?"
+            }
+        }
+    ]
+}

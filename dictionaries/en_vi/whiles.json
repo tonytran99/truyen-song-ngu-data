@@ -1,0 +1,32 @@
+{
+    "word": "whiles",
+    "type": [
+        "adverb",
+        "conjunction",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wīlz/",
+            "/(h)waɪlz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌɪlz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "while",
+            "type": "",
+            "example": {
+                "en": "And you learn while loops by repeating that sequence",
+                "vi": "và bạn học vòng lặp while bằng cách lặp lại trình tự đó"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "divest",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvest/",
+            "/dəˈvɛst/",
+            "/dīˈvest/",
+            "/daɪˈvɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈvɛst/",
+            "/dɪˈvɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tước đoạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cởi quần áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gạt bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lột quần áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừ bỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tước bỏ",
+            "type": "",
+            "example": {
+                "en": "It seems Conrad is seeking to divest you of your stock in the company.",
+                "vi": "Có vẻ Conrad đang tìm cách để tước bỏ cổ phần của bà trong công ty."
+            }
+        },
+        {
+            "content": "thoái vốn",
+            "type": "",
+            "example": {
+                "en": "to your governor where divestment legislation is pending.",
+                "vi": "đến nơi mà luật thoái vốn đang chờ để thông qua."
+            }
+        },
+        {
+            "content": "cởi",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

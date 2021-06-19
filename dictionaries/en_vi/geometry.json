@@ -1,0 +1,53 @@
+{
+    "word": "geometry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jēˈämətrē/",
+            "/dʒiˈɑmətri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪˈɒmɪtri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình học",
+            "type": "noun",
+            "example": {
+                "en": "The study of geometry and physics was especially difficult .",
+                "vi": "Môn hình học và vật lý đặc biệt rất khó khăn ."
+            }
+        },
+        {
+            "content": "hình",
+            "type": "noun",
+            "example": {
+                "en": "The study of geometry and physics was especially difficult .",
+                "vi": "Môn hình học và vật lý đặc biệt rất khó khăn ."
+            }
+        },
+        {
+            "content": "dạng hình",
+            "type": "",
+            "example": {
+                "en": "sets the client geometry of the main widget-see man X for the argument format",
+                "vi": "đặt dạng hình ứng dụng khách của ô điều khiển chính- xem « man X » để tìm dạng thức đối số"
+            }
+        },
+        {
+            "content": "sách hình học",
+            "type": "",
+            "example": {
+                "en": "Forgot my geometry book.",
+                "vi": "Tớ để quên sách hình học."
+            }
+        }
+    ]
+}

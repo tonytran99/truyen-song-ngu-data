@@ -1,0 +1,38 @@
+{
+    "word": "aa",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈäˌä/",
+            "/ˈɑˌɑ/",
+            "/ˌāˈā/",
+            "/ˌeɪˈeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːɑː/",
+            "/eɪˈeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Hội cai rượu",
+            "type": "",
+            "example": {
+                "en": "But I like everything about aa.",
+                "vi": "Nhưng tôi thích mọi thứ trong Hội cai rượu."
+            }
+        },
+        {
+            "content": "Hội ô tô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "drumhead",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrəmˌhed/",
+            "/ˈdrəmˌhɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌmhɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "da trống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màng nhĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt trống",
+            "type": "",
+            "example": {
+                "en": "The drumhead of the djembe is made from goatskin and is attached to a metal ring and placed on top of the drum.",
+                "vi": "Mặt trống djembe được làm bằng da dê gắn vào một vòng kim loại được đặt ở đầu trống."
+            }
+        },
+        {
+            "content": "đai trục cuốn dây",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

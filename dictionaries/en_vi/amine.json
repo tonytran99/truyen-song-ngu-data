@@ -1,0 +1,39 @@
+{
+    "word": "amine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmēn/",
+            "/əˈmin/",
+            "/ˈaˌmēn/",
+            "/ˈæˌmin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪmiːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Amin",
+            "type": "",
+            "example": {
+                "en": "I think that's the Amin they need to see.",
+                "vi": "Tôi nghĩ đó là Amin mà họ cần thấy."
+            }
+        },
+        {
+            "content": "amin",
+            "type": "",
+            "example": {
+                "en": "We're going to make phenylacetone in a tube furnace, then we're gonna use reductive amination to yield methamphetamine, 4 pounds.",
+                "vi": "Chúng ta sẽ tạo ra phenyllacetone trong ống đun sôi, sau đó ta sẽ dùng amin khử để điều chế đá, 4 pao."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "centigrade",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsen(t)əˌɡrād/",
+            "/ˈsɛn(t)əˌɡreɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɛntɪɡreɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bách phân",
+            "type": "adjective, noun",
+            "example": {
+                "en": "about a degree Centigrade in the last century,",
+                "vi": "khoảng một độ bách phân trong thế kỷ qua,"
+            }
+        },
+        {
+            "content": "chia trăm độ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "gods",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "hàng hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thần linh",
+            "type": "noun",
+            "example": {
+                "en": "It is spun on the looms of the gods.",
+                "vi": "Nó được kéo sợi trên khung cửi của thần linh."
+            }
+        },
+        {
+            "content": "thần thánh",
+            "type": "noun",
+            "example": {
+                "en": "At first, I thought you and the others were gods.",
+                "vi": "Lúc đầu, tôi cứ tưởng các anh và những người khác là thần thánh."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "defuse",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈfyo͞oz/",
+            "/diˈfjuz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːˈfjuːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm lắng dịu",
+            "type": "",
+            "example": {
+                "en": "Three Steps to Defusing an Argument",
+                "vi": "Ba bước làm lắng dịu cuộc tranh cãi"
+            }
+        },
+        {
+            "content": "tháo ngòi nổ",
+            "type": "",
+            "example": {
+                "en": "This task is as important as defusing mines.",
+                "vi": "Nhiệm vụ này cũng quan trọng cũng như tháo ngòi nổ."
+            }
+        },
+        {
+            "content": "xoa dịu",
+            "type": "",
+            "example": {
+                "en": "I think we have to defuse the situation.",
+                "vi": "Cần phải xoa dịu tình hình."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "desirable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈzīrəb(ə)l/",
+            "/dəˈzaɪrəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈzʌɪərəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng khát khao",
+            "type": "",
+            "example": {
+                "en": "There are so many things you may consider desirable.",
+                "vi": "Có rất nhiều điều mà các em có thể thấy đáng khát khao."
+            }
+        },
+        {
+            "content": "mong muốn",
+            "type": "",
+            "example": {
+                "en": "But a wife's desires do not always mirror those of her husband.",
+                "vi": "Nhưng mong muốn của người vợ không phải lúc nào cũng phản ánh mong muốn của chồng."
+            }
+        },
+        {
+            "content": "đáng ao ước",
+            "type": "",
+            "example": {
+                "en": "All other desirable things cannot compare to it.",
+                "vi": "Mọi thứ đáng ao ước cũng không thể sánh bằng."
+            }
+        },
+        {
+            "content": "đáng thèm muốn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

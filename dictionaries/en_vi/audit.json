@@ -1,0 +1,61 @@
+{
+    "word": "audit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈôdət/",
+            "/ˈɔdət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɔːdɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thử",
+            "type": "verb",
+            "example": {
+                "en": "I just got a call about an audition.",
+                "vi": "Có người báo với tôi về một cuộc thử vai."
+            }
+        },
+        {
+            "content": "kiểm nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiểm toán",
+            "type": "",
+            "example": {
+                "en": "Professional auditing standards govern the performance of audit work.",
+                "vi": "Các tiêu chuẩn kiểm toán chuyên nghiệp quản trị sự thực hiện công việc kiểm toán."
+            }
+        },
+        {
+            "content": "kiểm tra",
+            "type": "noun",
+            "example": {
+                "en": "How about we start with a full audit of your books?",
+                "vi": "Có lẽ chúng ta nên bắt đầu với việc kiểm tra sổ sách của ông?"
+            }
+        },
+        {
+            "content": "sự kiểm tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kiểm toán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

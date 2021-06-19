@@ -1,0 +1,43 @@
+{
+    "word": "jointed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjoin(t)əd/",
+            "/ˈdʒɔɪn(t)əd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɔɪntɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỗ nối",
+            "type": "adjective",
+            "example": {
+                "en": "Joints occur where two bones meet .",
+                "vi": "Khớp là chỗ nối , là chỗ tiếp xúc giữa hai xương ."
+            }
+        },
+        {
+            "content": "có khớp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mối nối",
+            "type": "adjective",
+            "example": {
+                "en": "We had so many motors aligning the joints and those kinds of things.",
+                "vi": "Chúng tôi có quá nhiều động cơ điện, các mối nối và nhiều thứ khác nữa."
+            }
+        }
+    ]
+}

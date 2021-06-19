@@ -1,0 +1,48 @@
+{
+    "word": "diuretic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdīyəˈredik/",
+            "/ˌdaɪjəˈrɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdʌɪjʊ(ə)ˈrɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lợi niệu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lợi tiểu",
+            "type": "adjective",
+            "example": {
+                "en": "He must take stimulants and diuretics to improve his lung efficiency.",
+                "vi": "Nó cần dùng chất kích thích và thuốc lợi tiểu để tăng hoạt động của phổi"
+            }
+        },
+        {
+            "content": "thuốc lợi niệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc lợi tiểu",
+            "type": "",
+            "example": {
+                "en": "He must take stimulants and diuretics to improve his lung efficiency.",
+                "vi": "Nó cần dùng chất kích thích và thuốc lợi tiểu để tăng hoạt động của phổi"
+            }
+        }
+    ]
+}

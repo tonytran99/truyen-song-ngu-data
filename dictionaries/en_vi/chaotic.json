@@ -1,0 +1,50 @@
+{
+    "word": "chaotic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kāˈädik/",
+            "/keɪˈɑdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪˈɒtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hỗn loạn",
+            "type": "adjective",
+            "example": {
+                "en": "Before you go any further, let me remind you things were very chaotic back then.",
+                "vi": "Trước khi ông nói thêm, tôi xin nhắc là thời đó rất hỗn loạn."
+            }
+        },
+        {
+            "content": "hỗn độn",
+            "type": "adjective",
+            "example": {
+                "en": "The world out there is chaotic and bleak.",
+                "vi": "Thế giới bên ngoài thật hỗn độn và lạnh lẽo."
+            }
+        },
+        {
+            "content": "lộn xộn",
+            "type": "",
+            "example": {
+                "en": "Survivors describe a chaotic and terrifying scene .",
+                "vi": "Những người sống sót mô tả cảnh tượng lúc đó rất khủng khiếp và lộn xộn ."
+            }
+        },
+        {
+            "content": "hỗn nguyên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "freckle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrek(ə)l/",
+            "/ˈfrɛk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tàn nhang",
+            "type": "",
+            "example": {
+                "en": "Boy with freckles, fat Asian with hair extensions, evil monkey.",
+                "vi": "Chàng trai với tàn nhang Gã châu á mập tóc dài, con khỉ độc ác."
+            }
+        },
+        {
+            "content": "có tàn nhang",
+            "type": "",
+            "example": {
+                "en": "Freckle guy in Admin is really into Photoshop.",
+                "vi": "Gã có tàn nhang làm admin thực sự đã dùng Photoshop."
+            }
+        }
+    ]
+}

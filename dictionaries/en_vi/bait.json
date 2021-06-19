@@ -1,0 +1,73 @@
+{
+    "word": "bait",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bāt/",
+            "/beɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/beɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mồi",
+            "type": "noun",
+            "example": {
+                "en": "A lone fisherman might use a line with baited bronze hooks.",
+                "vi": "Người đánh cá một mình có thể dùng dây câu có lưỡi đồng gắn mồi."
+            }
+        },
+        {
+            "content": "bả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trêu chọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bate",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho chó trêu chọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc mồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhử mồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quấy nhiễu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thả mồi",
+            "type": "",
+            "example": {
+                "en": "When I said bait the hook, I did not mean with me.",
+                "vi": "Khi tôi nói: \" hãy thả mồi \" không có nghĩ rằng tôi là con mồi đó."
+            }
+        }
+    ]
+}

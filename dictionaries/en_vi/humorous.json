@@ -1,0 +1,50 @@
+{
+    "word": "humorous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)yo͞omərəs/",
+            "/ˈ(h)jumərəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhjuːm(ə)rəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hài hước",
+            "type": "adjective",
+            "example": {
+                "en": "He seems to be bankrupt of humor.",
+                "vi": "Hình như anh ấy chẳng có tí khiếu hài hước nào."
+            }
+        },
+        {
+            "content": "khôi hài",
+            "type": "adjective",
+            "example": {
+                "en": "I see you haven't lost your delicate sense of humor, Valentin, huh?",
+                "vi": "Tao thấy rõ mày không hề mất tính khôi hài, Valentin hả?"
+            }
+        },
+        {
+            "content": "hóm hỉnh",
+            "type": "",
+            "example": {
+                "en": "You actually do have a sense of humor.",
+                "vi": "Cậu cũng thực sự hóm hỉnh đấy chứ."
+            }
+        },
+        {
+            "content": "tiếu lâm",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

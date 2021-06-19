@@ -1,0 +1,62 @@
+{
+    "word": "combatant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈbatnt/",
+            "/kəmˈbætnt/",
+            "/ˈkämbədənt/",
+            "/ˈkɑmbədənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmbət(ə)nt/",
+            "/ˈkʌmbət(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến binh",
+            "type": "noun",
+            "example": {
+                "en": "I'm bringing with me the next generation of finely tuned combat soldiers.",
+                "vi": "Ta sẽ mang theo thế hệ chiến binh hoàn thiện tiếp theo."
+            }
+        },
+        {
+            "content": "chiến sĩ",
+            "type": "noun",
+            "example": {
+                "en": "Superman acted like some... rogue combatant to rescue her, and people died.",
+                "vi": "Superman hành động như... chiến sĩ cách mạng để giải cứu cô ấy và nhiều người đã chết."
+            }
+        },
+        {
+            "content": "chiến đấu",
+            "type": "adjective",
+            "example": {
+                "en": "What help do we have to combat sin’s grip on us?",
+                "vi": "Chúng ta có sự giúp đỡ nào để chiến đấu với tội lỗi bám chặt vào chúng ta?"
+            }
+        },
+        {
+            "content": "người chiến đấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tham chiến",
+            "type": "adjective",
+            "example": {
+                "en": "Anything to get out of combat duty tomorrow.",
+                "vi": "Làm mọi cách để ngày mai khỏi tham chiến."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "hospitalize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäspədəˌlīz/",
+            "/ˈhɑspədəˌlaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒspɪt(ə)lʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhập viện",
+            "type": "",
+            "example": {
+                "en": "The day after admitting him, the hospital discharged him.",
+                "vi": "Ngay ngày sau khi nhập viện, bệnh viện cho ông ra viện."
+            }
+        },
+        {
+            "content": "nằm bệnh viện",
+            "type": "",
+            "example": {
+                "en": "Hon, he's gonna keep hurting you till he puts you in the hospital.",
+                "vi": "Anh ta sẽ tiếp tục đánh em cho đến khi em nằm bệnh viện."
+            }
+        },
+        {
+            "content": "nằm viện",
+            "type": "",
+            "example": {
+                "en": "Who's been in the hospital for the last three weeks.",
+                "vi": "Anh ta nằm viện ba tháng nay rồi."
+            }
+        },
+        {
+            "content": "đưa vào bệnh viện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

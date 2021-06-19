@@ -1,0 +1,64 @@
+{
+    "word": "clause",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klôz/",
+            "/klɔz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɔːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điều khoản",
+            "type": "noun",
+            "example": {
+                "en": "Repentance is the escape clause in it all.",
+                "vi": "Sự hối cải là điều khoản khắc phục sự phạm giới và cái chết."
+            }
+        },
+        {
+            "content": "điều",
+            "type": "noun",
+            "example": {
+                "en": "Repentance is the escape clause in it all.",
+                "vi": "Sự hối cải là điều khoản khắc phục sự phạm giới và cái chết."
+            }
+        },
+        {
+            "content": "mệnh đề",
+            "type": "noun",
+            "example": {
+                "en": "Observe that, in each case, the question builds on the clause that immediately precedes it.",
+                "vi": "Hãy lưu ý rằng trong mỗi trường hợp, câu hỏi giải thích thêm chi tiết mệnh đề ngay trước đó."
+            }
+        },
+        {
+            "content": "điều mục",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khoản",
+            "type": "",
+            "example": {
+                "en": "Repentance is the escape clause in it all.",
+                "vi": "Sự hối cải là điều khoản khắc phục sự phạm giới và cái chết."
+            }
+        },
+        {
+            "content": "phó lệnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

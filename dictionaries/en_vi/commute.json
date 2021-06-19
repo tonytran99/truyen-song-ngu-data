@@ -1,0 +1,81 @@
+{
+    "word": "commute",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmyo͞ot/",
+            "/kəˈmjut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmjuːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giao hoán",
+            "type": "verb",
+            "example": {
+                "en": "And don't forget about the commutative principle.",
+                "vi": "Và đừng quên tính chất giao hoán:"
+            }
+        },
+        {
+            "content": "đi lại đều đặn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm án",
+            "type": "",
+            "example": {
+                "en": "Do you think bribes, or the influence of friends might get your sentence commuted?",
+                "vi": "Anh có nghĩ là hối lộ, hay ảnh hưởng của bạn bè có thể làm giảm án cho anh được không?"
+            }
+        },
+        {
+            "content": "chuyển mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cải tội danh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao hoán chuyển mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thay thế",
+            "type": "",
+            "example": {
+                "en": "The only thing I can do for you is to commute your death sentence to deportation.",
+                "vi": "Điều duy nhất tôi có thể làm cho cô là thay thế bản án tử hình thành lưu đày."
+            }
+        },
+        {
+            "content": "thay đổi nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đảo mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổi nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

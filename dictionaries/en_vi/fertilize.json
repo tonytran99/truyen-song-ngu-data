@@ -1,0 +1,65 @@
+{
+    "word": "fertilize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərdlˌīz/",
+            "/ˈfərdlˌaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːtɪlʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thụ tinh",
+            "type": "",
+            "example": {
+                "en": "So I'll just give you one example, and that is in vitro fertilization.",
+                "vi": "Tôi chỉ đưa ra một ví dụ, đó là thụ tinh ống nghiệm."
+            }
+        },
+        {
+            "content": "bón",
+            "type": "verb",
+            "example": {
+                "en": "It uses lots of pesticides, lots of fertilizer, lots of water.",
+                "vi": "Nó sử dụng nhiều thuốc trừ sâu, rất nhiều phân bón, rất nhiều nước."
+            }
+        },
+        {
+            "content": "làm cho màu mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho tốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thụ thai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho phì nhiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thụ phấn",
+            "type": "",
+            "example": {
+                "en": "Bees are designed to extract nectar and to take one flower’s pollen to another plant for fertilization.",
+                "vi": "Con ong được thiết kế để hút mật hoa, mang phấn hoa đến cây khác để thụ phấn."
+            }
+        }
+    ]
+}

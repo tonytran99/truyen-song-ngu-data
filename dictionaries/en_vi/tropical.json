@@ -1,0 +1,48 @@
+{
+    "word": "tropical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈträpək(ə)l/",
+            "/ˈtrɑpək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrɒpɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhiệt đới",
+            "type": "",
+            "example": {
+                "en": "This species is common to tropical and subtropical areas around the world.",
+                "vi": "Loài này sinh sống trong những vùng nhiệt đới và cận nhiệt đới trên thế giới."
+            }
+        },
+        {
+            "content": "cây ở vùng nhiệt đới",
+            "type": "",
+            "example": {
+                "en": "Unlike many other trees of the tropics, every year it loses its leaves and looks dead.",
+                "vi": "Không như nhiều cây ở vùng nhiệt đới, mỗi năm cây này rụng hết lá giống như đã chết."
+            }
+        },
+        {
+            "content": "nồng cháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nồng nhiệt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

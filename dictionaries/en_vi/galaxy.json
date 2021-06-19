@@ -1,0 +1,47 @@
+{
+    "word": "galaxy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaləksē/",
+            "/ˈɡæləksi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡaləksi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên hà",
+            "type": "noun",
+            "example": {
+                "en": "And some galaxies are many times the size of ours.",
+                "vi": "Và một số thiên hà lớn gấp bội lần thiên hà chúng ta."
+            }
+        },
+        {
+            "content": "nhóm tinh hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhóm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngân hà",
+            "type": "",
+            "example": {
+                "en": "Can't even find our home galaxy from out here.",
+                "vi": "Nhìn từ đây, thậm chí chúng ta còn không thể tìm thấy ngân hà của chúng ta."
+            }
+        }
+    ]
+}

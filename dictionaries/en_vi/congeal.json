@@ -1,0 +1,47 @@
+{
+    "word": "congeal",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈjēl/",
+            "/kənˈdʒil/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʒiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm đông lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đông",
+            "type": "verb",
+            "example": {
+                "en": "The surging waters congealed in the heart of the sea.",
+                "vi": "Sóng nước dâng trào đông cứng giữa lòng biển."
+            }
+        },
+        {
+            "content": "đóng băng",
+            "type": "",
+            "example": {
+                "en": "6 “In that day there will be no precious light+—things will be congealed.",
+                "vi": "6 Ngày ấy sẽ không có ánh sáng quý giá,+ mọi thứ sẽ đóng băng."
+            }
+        },
+        {
+            "content": "đông lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

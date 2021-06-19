@@ -1,0 +1,51 @@
+{
+    "word": "utterance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈədərəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌt(ə)r(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời",
+            "type": "noun",
+            "example": {
+                "en": "How dare you utter such things in front of me?",
+                "vi": "Làm sao con có thể nói những lời như thế trước mặt cha được?"
+            }
+        },
+        {
+            "content": "cách nói",
+            "type": "",
+            "example": {
+                "en": "all those strange utterances that people type into the input field",
+                "vi": "tất cả các cách nói và diễn đạt mà người khác sẽ gõ vào trong mục tìm kiếm"
+            }
+        },
+        {
+            "content": "lời phát biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bày tỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phát biểu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

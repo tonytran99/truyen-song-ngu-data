@@ -1,0 +1,40 @@
+{
+    "word": "boots",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͞ots/",
+            "/buts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/buːts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khởi động",
+            "type": "noun",
+            "example": {
+                "en": "Pull yourself up by your own bootstraps , even if you do n't have boots .",
+                "vi": "Tự mình cố gắng vươn lên - cho dù bạn không có khởi động ."
+            }
+        },
+        {
+            "content": "người khuân hành lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đánh giày",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

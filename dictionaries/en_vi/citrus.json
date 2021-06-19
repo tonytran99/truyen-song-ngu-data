@@ -1,0 +1,43 @@
+{
+    "word": "citrus",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsitrəs/",
+            "/ˈsɪtrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪtrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống cam quít",
+            "type": "",
+            "example": {
+                "en": "Citrus trees grow in the wild; coconut trees and banana plants are abundant.",
+                "vi": "Cây thuộc giống cam quít mọc hoang, dừa và chuối cũng đầy dẫy."
+            }
+        },
+        {
+            "content": "cam quýt",
+            "type": "noun",
+            "example": {
+                "en": "The bergamot is an evergreen citrus.",
+                "vi": "Bergamot là cây thường xanh thuộc họ cam quýt."
+            }
+        },
+        {
+            "content": "chi cam chanh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

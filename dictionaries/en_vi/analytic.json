@@ -1,0 +1,37 @@
+{
+    "word": "analytic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌanəˈlidik/",
+            "/ˌænəˈlɪdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/anəˈlɪtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải tích",
+            "type": "",
+            "example": {
+                "en": "We don't have a single person, in this entire building, that can handle Analytic Geometry?",
+                "vi": "Trong cả tòa nhà này không có người nào... biết hình học giải tích sao?"
+            }
+        },
+        {
+            "content": "phân tích",
+            "type": "",
+            "example": {
+                "en": "When one of your own is killed, agents lose their analytical skills.",
+                "vi": "Khi người của các vị bị giết, các đặc vụ mất đi những kỹ năng phân tích."
+            }
+        }
+    ]
+}

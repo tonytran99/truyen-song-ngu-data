@@ -1,0 +1,37 @@
+{
+    "word": "clipboard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklipbôrd/",
+            "/ˈklɪpbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɪpbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bìa kẹp hồ sơ",
+            "type": "",
+            "example": {
+                "en": "The young doctor took his clipboard, approached the man, and said, “How can I help you?”",
+                "vi": "Vị bác sĩ trẻ lấy bìa kẹp hồ sơ bệnh lý, đến gần ông lão, và nói: “Tôi có thể giúp gì cho ông đây?”"
+            }
+        },
+        {
+            "content": "bảng tạm",
+            "type": "",
+            "example": {
+                "en": "Move the selected text or item(s) to the clipboard",
+                "vi": "Di chuyển văn bản hoặc mục đã chọn tới bảng tạm"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "impolite",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌimpəˈlīt/",
+            "/ˌɪmpəˈlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmpəˈlʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất nhã",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô lễ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xấc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khiếm nhã",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thất lễ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô phép",
+            "type": "adjective",
+            "example": {
+                "en": "It's impolite to rush to heaven, passing by the others.",
+                "vi": "Thật vô phép khi vội vã tới thiên đường, vượt qua những người khác."
+            }
+        },
+        {
+            "content": "bất lịch sự",
+            "type": "adjective",
+            "example": {
+                "en": "You gonna invite me in, or do I go down and tell Janni's guys you're impolite?",
+                "vi": "Anh có muốn mời tôi vô không hay để tôi xuống nói với người của Janni rằng anh bất lịch sự?"
+            }
+        },
+        {
+            "content": "đánh dấu trọng âm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

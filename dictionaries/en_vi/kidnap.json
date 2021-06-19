@@ -1,0 +1,30 @@
+{
+    "word": "kidnap",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkidˌnap/",
+            "/ˈkɪdˌnæp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪdnap/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bắt cóc",
+            "type": "verb, noun",
+            "example": {
+                "en": "The journalist was kidnapped by terrorists.",
+                "vi": "Nhà báo bị bắt cóc bởi khủng bố."
+            }
+        }
+    ]
+}

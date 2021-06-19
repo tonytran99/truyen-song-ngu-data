@@ -1,0 +1,29 @@
+{
+    "word": "averagely",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈav(ə)rəjlē/",
+            "/ˈæv(ə)rədʒli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈavərɪdʒli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trung bình",
+            "type": "noun",
+            "example": {
+                "en": "Tom is shorter than average.",
+                "vi": "Tom thấp hơn mức trung bình."
+            }
+        }
+    ]
+}

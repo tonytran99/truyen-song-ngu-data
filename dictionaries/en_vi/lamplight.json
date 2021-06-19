@@ -1,0 +1,44 @@
+{
+    "word": "lamplight",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlampˌlīt/",
+            "/ˈlæmpˌlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlamplʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bóng đèn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ánh sáng nhân tạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ánh sáng đèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ánh đèn",
+            "type": "noun",
+            "example": {
+                "en": "Many refreshed themselves by reading and studying God’s Word by evening lamplight.",
+                "vi": "Nhiều người tự thấy thoải mái khi đọc và học Lời Đức Chúa Trời dưới ánh đèn đêm."
+            }
+        }
+    ]
+}

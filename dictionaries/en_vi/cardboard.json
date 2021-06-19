@@ -1,0 +1,77 @@
+{
+    "word": "cardboard",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärdbôrd/",
+            "/ˈkɑrdbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːdbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "các tông",
+            "type": "noun",
+            "example": {
+                "en": "Glue this page to heavy paper or cardboard.",
+                "vi": "Dán keo trang này lên giấy cứng hoặc bìa các tông."
+            }
+        },
+        {
+            "content": "giấy bồi",
+            "type": "noun",
+            "example": {
+                "en": "separated by cardboard soaked in brine.",
+                "vi": "bị cách ly bởi giấy bồi có tẩm nước biển"
+            }
+        },
+        {
+            "content": "bìa cưng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bìa cứng",
+            "type": "noun",
+            "example": {
+                "en": "I even built a rocket out of cardboard boxes.",
+                "vi": "Tôi thậm chí chế tạo một cái tên lửa từ những thùng giấy bìa cứng."
+            }
+        },
+        {
+            "content": "cạt tông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giấy các-tông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Giấy bìa cứng",
+            "type": "",
+            "example": {
+                "en": "I even built a rocket out of cardboard boxes.",
+                "vi": "Tôi thậm chí chế tạo một cái tên lửa từ những thùng giấy bìa cứng."
+            }
+        },
+        {
+            "content": "bìa các tông",
+            "type": "",
+            "example": {
+                "en": "Glue this page to heavy paper or cardboard.",
+                "vi": "Dán keo trang này lên giấy cứng hoặc bìa các tông."
+            }
+        }
+    ]
+}

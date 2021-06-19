@@ -1,0 +1,50 @@
+{
+    "word": "influenza",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinfləˈwenzə/",
+            "/ˌɪnfləˈwɛnzə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnflʊˈɛnzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cúm",
+            "type": "noun",
+            "example": {
+                "en": "Type A is the most common cause of influenza.",
+                "vi": "Loại A thường gây ra bệnh cúm nhất."
+            }
+        },
+        {
+            "content": "bệnh cúm",
+            "type": "noun",
+            "example": {
+                "en": "Type A is the most common cause of influenza.",
+                "vi": "Loại A thường gây ra bệnh cúm nhất."
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "Cúm",
+            "type": "",
+            "example": {
+                "en": "Type A is the most common cause of influenza.",
+                "vi": "Loại A thường gây ra bệnh cúm nhất."
+            }
+        }
+    ]
+}

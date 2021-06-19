@@ -1,0 +1,45 @@
+{
+    "word": "fictional",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfikSH(ə)n(ə)l/",
+            "/ˈfɪkʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪkʃənl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hư cấu",
+            "type": "adjective",
+            "example": {
+                "en": "The characters they copied were fictional, but the liquor Allen and his friends drank was real.",
+                "vi": "Các nhân vật đó đều là hư cấu, nhưng rượu mà Danh cùng bạn mình uống là thật."
+            }
+        },
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "Well, we all create fictions to deal with our pain.",
+                "vi": "Chúng ta thường hay tưởng tượng tùm lum để đối phó với nỗi đau."
+            }
+        },
+        {
+            "content": "viễn tưởng",
+            "type": "adjective",
+            "example": {
+                "en": "Though, by definition, science fiction is not science.",
+                "vi": "Theo định nghĩa, thì khoa học viễn tưởng không phải là khoa học."
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "copyright",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkäpēˌrīt/",
+            "/ˈkɑpiˌraɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒpɪrʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bản quyền",
+            "type": "noun",
+            "example": {
+                "en": "All the material on our websites is copyrighted.",
+                "vi": "Tất cả tài liệu trên trang web của chúng ta đều có bản quyền."
+            }
+        },
+        {
+            "content": "quyền tác giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "版權",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giữ quyền tác giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tác quyền",
+            "type": "",
+            "example": {
+                "en": "& Save default credit and copyright identity as tags",
+                "vi": "& Lưu sự giống hệt công trạng và tác quyền dạng thẻ"
+            }
+        },
+        {
+            "content": "Quyền tác giả",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

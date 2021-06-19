@@ -1,0 +1,35 @@
+{
+    "word": "achilles",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkilēz/",
+            "/əˈkɪliz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkɪliːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "A-sin",
+            "type": "proper",
+            "example": {}
+        },
+        {
+            "content": "achilles",
+            "type": "",
+            "example": {
+                "en": "So Achilles can never reach the tortoise and never pass him.",
+                "vi": "Nên Achilles không bao giờ tới được chỗ con rùa và vượt qua nó."
+            }
+        }
+    ]
+}

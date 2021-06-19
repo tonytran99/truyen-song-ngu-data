@@ -1,0 +1,86 @@
+{
+    "word": "upper",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trên",
+            "type": "adjective, adverb",
+            "example": {
+                "en": "Well guess what, they're known to freeze their upper bodies when they're lying.",
+                "vi": "Và đoán xem, nửa trên cơ thể của họ lạnh đi khi nói dối."
+            }
+        },
+        {
+            "content": "cao",
+            "type": "adjective",
+            "example": {
+                "en": "And what about the upper leg, the higher inside thigh area?",
+                "vi": "Còn chân thì sao, cao hơn chút về phía thân ấy?"
+            }
+        },
+        {
+            "content": "thượng",
+            "type": "",
+            "example": {
+                "en": "So, from that mythology, the upper city and lower city come.",
+                "vi": "Vậy, từ truyền thuyết đó, thượng lưu và hạ lưu bắt đầu."
+            }
+        },
+        {
+            "content": "ghệt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "muộn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bên trên",
+            "type": "adposition",
+            "example": {
+                "en": "Same cheap trick in the upper left-hand corner.",
+                "vi": "tương tự như vậy theo góc bên trên tay trái"
+            }
+        },
+        {
+            "content": "khoác ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mũ giày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cao hơn",
+            "type": "",
+            "example": {
+                "en": "And what about the upper leg, the higher inside thigh area?",
+                "vi": "Còn chân thì sao, cao hơn chút về phía thân ấy?"
+            }
+        }
+    ]
+}

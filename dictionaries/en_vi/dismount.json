@@ -1,0 +1,65 @@
+{
+    "word": "dismount",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈmount/",
+            "/dɪsˈmaʊnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsˈmaʊnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuống",
+            "type": "verb",
+            "example": {
+                "en": "Arnaut has dismounted, and he's with his sister.",
+                "vi": "Arnaut đã xuống ngựa và đang đi cùng em gái."
+            }
+        },
+        {
+            "content": "cho xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dỡ xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạ mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuân xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ngã ngựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháo dỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngã",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "cypher",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "chữ số",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "số không",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mã",
+            "type": "noun",
+            "example": {
+                "en": "So we need the cypher?",
+                "vi": "Vậy là chúng ta cần đoạn mã sao?"
+            }
+        },
+        {
+            "content": "mã D’Alembert",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toán tử Alembect",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

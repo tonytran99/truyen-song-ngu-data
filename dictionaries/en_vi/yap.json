@@ -1,0 +1,81 @@
+{
+    "word": "yap",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yap/",
+            "/jæp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jap/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sủa ăng ẳng",
+            "type": "",
+            "example": {
+                "en": "First one I saw, I let out a yap you could've heard in Arkansas.",
+                "vi": "Lần đầu thấy nó, tôi đã sủa ăng ẳng như một con chó."
+            }
+        },
+        {
+            "content": "cuộc nói chuyện phiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "càu nhàu",
+            "type": "",
+            "example": {
+                "en": "Especially since Sir Lancelot is out there yapping all day long.",
+                "vi": "Đặc biệt là từ lúc tên Hiệp sĩ Lancelot kia cứ càu nhàu suốt cả ngày."
+            }
+        },
+        {
+            "content": "cãi lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện phiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự càu nhàu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự cãi lại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ẳng ẳng",
+            "type": "verb, noun",
+            "example": {}
+        },
+        {
+            "content": "ẳng",
+            "type": "interjection",
+            "example": {
+                "en": "First one I saw, I let out a yap you could've heard in Arkansas.",
+                "vi": "Lần đầu thấy nó, tôi đã sủa ăng ẳng như một con chó."
+            }
+        },
+        {
+            "content": "gâu",
+            "type": "interjection",
+            "example": {}
+        }
+    ]
+}

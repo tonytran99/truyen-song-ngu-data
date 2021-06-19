@@ -1,0 +1,78 @@
+{
+    "word": "adult",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈdəlt/",
+            "/ˈadˌəlt/",
+            "/ˈædˌəlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadʌlt/",
+            "/əˈdʌlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người lớn",
+            "type": "noun",
+            "example": {
+                "en": "This child talks like an adult.",
+                "vi": "Đứa trẻ này miệng lưỡi như người lớn."
+            }
+        },
+        {
+            "content": "trưởng thành",
+            "type": "",
+            "example": {
+                "en": "I have contemplated this account all my adult life.",
+                "vi": "Tôi suy ngẫm câu chuyện này suốt cả quãng đời trưởng thành của mình."
+            }
+        },
+        {
+            "content": "cho người lớn",
+            "type": "",
+            "example": {
+                "en": "He just had to be careful he was only sending his stuff to adults.",
+                "vi": "Hắn chỉ cần cẩn thận chỉ gởi những thứ đó cho người lớn."
+            }
+        },
+        {
+            "content": "người đã trưởng thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người lớn",
+            "type": "",
+            "example": {
+                "en": "This child talks like an adult.",
+                "vi": "Đứa trẻ này miệng lưỡi như người lớn."
+            }
+        },
+        {
+            "content": "chín chắn",
+            "type": "",
+            "example": {
+                "en": "I don't punish people for making adult decisions.",
+                "vi": "Tôi không trừng phạt người ta vì họ đưa ra những quyết định chín chắn."
+            }
+        },
+        {
+            "content": "người trưởng thành",
+            "type": "",
+            "example": {
+                "en": "Only a small number of other adults bite their nails .",
+                "vi": "Chỉ một số ít người trưởng thành không cắn móng tay ."
+            }
+        }
+    ]
+}

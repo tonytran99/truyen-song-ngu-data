@@ -1,0 +1,93 @@
+{
+    "word": "interrupt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)əˈrəpt/",
+            "/ˌɪn(t)əˈrəpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈrʌpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngắt",
+            "type": "verb",
+            "example": {
+                "en": "We apologize for interrupting with the following announcement.",
+                "vi": "Chúng tôi xin lỗi phải tạm thời ngắt chương trình với thông báo sau đây."
+            }
+        },
+        {
+            "content": "ngắt lời",
+            "type": "",
+            "example": {
+                "en": "Ask for his opinion, and listen carefully without needlessly interrupting.",
+                "vi": "Hỏi quan điểm của chủ nhà và chăm chú lắng nghe, tránh ngắt lời nếu không cần thiết."
+            }
+        },
+        {
+            "content": "ngưng",
+            "type": "",
+            "example": {
+                "en": "Is it rude for you to interrupt a conversation just to check a text message?",
+                "vi": "Có phải là bất lịch sự không nếu ngưng cuộc nói chuyện để đọc tin nhắn?"
+            }
+        },
+        {
+            "content": "chắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm gián đoạn",
+            "type": "",
+            "example": {
+                "en": "Sorry to interrupt, but we have a situation.",
+                "vi": "Xin lỗi làm gián đoạn, nhưng chúng ta có một tình huống."
+            }
+        },
+        {
+            "content": "làm đứt quãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "án ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngừng",
+            "type": "",
+            "example": {
+                "en": "Our full day of preaching was interrupted only by a quick midday break for sandwiches.",
+                "vi": "Chúng tôi rao giảng suốt ngày, chỉ ngừng một chút để ăn trưa."
+            }
+        },
+        {
+            "content": "cản",
+            "type": "",
+            "example": {
+                "en": "You interrupted my meal.",
+                "vi": "Anh đang cản trở bữa trưa của tôi đó."
+            }
+        },
+        {
+            "content": "chặn",
+            "type": "verb",
+            "example": {
+                "en": "I'm gonna interrupt and demand they stop harassing.",
+                "vi": "Tôi sẽ chặn và yêu cầu họ ngừng quấy rối."
+            }
+        }
+    ]
+}

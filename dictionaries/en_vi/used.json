@@ -1,0 +1,67 @@
+{
+    "word": "used",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞ozd/",
+            "/juzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cũ",
+            "type": "adjective",
+            "example": {
+                "en": "I see wheelchairs bought and sold like used cars.",
+                "vi": "Tôi nhìn thấy xe lăn được mua bán giống như xe cũ vậy."
+            }
+        },
+        {
+            "content": "dùng rồi",
+            "type": "",
+            "example": {
+                "en": "We do have used whips, but these are not that expensive.",
+                "vi": "Chúng tôi có roi dùng rồi, nhưng những thứ này không đắt."
+            }
+        },
+        {
+            "content": "quen",
+            "type": "",
+            "example": {
+                "en": "It may take a few weeks to get used to working the night shift.",
+                "vi": "Chắc phải tốn vài tuần để quen làm việc ca đêm."
+            }
+        },
+        {
+            "content": "thường dùng",
+            "type": "",
+            "example": {
+                "en": "They used to use shock therapy to help the mentally ill.",
+                "vi": "Người ta thường dùng liệu pháp sốc để trị bệnh tâm thần."
+            }
+        },
+        {
+            "content": "đ dùng rồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang dùng",
+            "type": "",
+            "example": {
+                "en": "Those people out there are using us as spare parts.",
+                "vi": "Những người ở ngoài kia đang dùng chúng ta như bộ phận dự phòng."
+            }
+        }
+    ]
+}

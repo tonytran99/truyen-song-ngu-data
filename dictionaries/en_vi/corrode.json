@@ -1,0 +1,44 @@
+{
+    "word": "corrode",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrōd/",
+            "/kəˈroʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gặm mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn mòn",
+            "type": "verb",
+            "example": {
+                "en": "These caustic emotions are like rust that slowly corrodes the body of a car.",
+                "vi": "Những cảm xúc chua cay này không khác gì rỉ sét dần dần ăn mòn thân một chiếc xe hơi."
+            }
+        },
+        {
+            "content": "mòn dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ruỗng ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

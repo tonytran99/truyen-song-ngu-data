@@ -1,0 +1,65 @@
+{
+    "word": "encode",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkōd/",
+            "/ɪnˈkoʊd/",
+            "/enˈkōd/",
+            "/ɛnˈkoʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkəʊd/",
+            "/ɛnˈkəʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lập mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biên mã",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ghi mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi thành mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mã hóa",
+            "type": "verb",
+            "example": {
+                "en": "My guess is that it's an encoded message.",
+                "vi": "Tôi đoán đó là một tin nhắn đã mã hóa."
+            }
+        },
+        {
+            "content": "mã hoá",
+            "type": "verb",
+            "example": {
+                "en": "Each sequence encodes a number that determines the intensity of that particular color.",
+                "vi": "Mỗi dãy nhị phân mã hoá một con số xác định độ đậm nét của màu đó."
+            }
+        },
+        {
+            "content": "chuyển mã",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

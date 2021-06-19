@@ -1,0 +1,82 @@
+{
+    "word": "health",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/helTH/",
+            "/hɛlθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛlθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sức khỏe",
+            "type": "noun",
+            "example": {
+                "en": "It goes without saying that health is more important than wealth.",
+                "vi": "Chẳng cần phải nói cũng hiểu sức khỏe quan trọng hơn tiền bạc."
+            }
+        },
+        {
+            "content": "sức khoẻ",
+            "type": "noun",
+            "example": {
+                "en": "The Canadian health care system is paid for by tax revenue.",
+                "vi": "Hệ thống chăm sóc sức khoẻ của Canada được trả bằng nguồn thu từ thuế."
+            }
+        },
+        {
+            "content": "sự lành mạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể chất",
+            "type": "",
+            "example": {
+                "en": "Adding another dimension, people vary in temperament and general health.",
+                "vi": "Một yếu tố khác là mỗi người có tính cách và thể chất khác nhau."
+            }
+        },
+        {
+            "content": "tình trạng sức khỏe",
+            "type": "",
+            "example": {
+                "en": "Where there are health problems, these require attention.",
+                "vi": "Cần lưu ý đến tình trạng sức khỏe khó khăn."
+            }
+        },
+        {
+            "content": "y tế",
+            "type": "",
+            "example": {
+                "en": "Why is osteoporosis an important public health issue ?",
+                "vi": "Tại sao bệnh loãng xương là một vấn đề quan trọng của ngành y tế cộng đồng ?"
+            }
+        },
+        {
+            "content": "Sức khỏe",
+            "type": "",
+            "example": {
+                "en": "It goes without saying that health is more important than wealth.",
+                "vi": "Chẳng cần phải nói cũng hiểu sức khỏe quan trọng hơn tiền bạc."
+            }
+        },
+        {
+            "content": "lành mạnh",
+            "type": "",
+            "example": {
+                "en": "He said that poetry was no more a vocation than good health.",
+                "vi": "Anh nói thi ca không phải là một nghề nghiệp mà chỉ làm lành mạnh con người."
+            }
+        }
+    ]
+}

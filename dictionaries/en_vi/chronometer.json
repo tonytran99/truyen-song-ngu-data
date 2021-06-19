@@ -1,0 +1,39 @@
+{
+    "word": "chronometer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəˈnämədər/",
+            "/krəˈnɑmədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəˈnɒmɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "crônômet",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy nhịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng hồ bấm giờ",
+            "type": "noun",
+            "example": {
+                "en": "A sextant, an accurate chronometer and a celestial almanac.",
+                "vi": "kính lục phân, đồng hồ bấm giờ và niên giám."
+            }
+        }
+    ]
+}

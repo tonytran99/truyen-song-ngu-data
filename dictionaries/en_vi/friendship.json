@@ -1,0 +1,58 @@
+{
+    "word": "friendship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfren(d)SHip/",
+            "/ˈfrɛn(d)ʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛn(d)ʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tình bạn",
+            "type": "noun",
+            "example": {
+                "en": "Nothing is more important than friendship.",
+                "vi": "Không có gì quan trọng hơn tình bạn."
+            }
+        },
+        {
+            "content": "tình hữu nghị",
+            "type": "",
+            "example": {
+                "en": "How did she feel about the future friendship of nations?",
+                "vi": "Cô ấy nghĩ sao về tình hữu nghị giữa các quốc gia trong tương lai?"
+            }
+        },
+        {
+            "content": "bạn bè",
+            "type": "noun",
+            "example": {
+                "en": "Memories of who she was, her friendships, her mom.",
+                "vi": "Kí ức về bản thân, bạn bè, mẹ của cậu ấy."
+            }
+        },
+        {
+            "content": "giao hữu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tình bạn",
+            "type": "",
+            "example": {
+                "en": "Nothing is more important than friendship.",
+                "vi": "Không có gì quan trọng hơn tình bạn."
+            }
+        }
+    ]
+}

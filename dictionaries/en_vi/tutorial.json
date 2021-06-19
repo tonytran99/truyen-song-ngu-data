@@ -1,0 +1,45 @@
+{
+    "word": "tutorial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/t(y)o͞oˈtôrēəl/",
+            "/t(j)uˈtɔriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tjuːˈtɔːrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hướng dẫn",
+            "type": "",
+            "example": {
+                "en": "Let me know if you need a quick tutorial.",
+                "vi": "Ông cần hướng dẫn nhanh thì cứ cho tôi biết."
+            }
+        },
+        {
+            "content": "sự giám hộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thầy dạy kèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trợ lý học tập",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

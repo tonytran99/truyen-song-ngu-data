@@ -1,0 +1,50 @@
+{
+    "word": "laptop",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlapˌtäp/",
+            "/ˈlæpˌtɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlaptɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy tính xách tay",
+            "type": "noun",
+            "example": {
+                "en": "And no one knows anything about the laptop.",
+                "vi": "Và không ai biết gì về máy tính xách tay."
+            }
+        },
+        {
+            "content": "laptop",
+            "type": "noun",
+            "example": {
+                "en": "Fitz and I grabbed that laptop before they got there.",
+                "vi": "Fitz và tôi đã lấy laptop trước khi họ có nó."
+            }
+        },
+        {
+            "content": "Máy tính xách tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy xách tay",
+            "type": "",
+            "example": {
+                "en": "10,000 laptops and put it into the size of a refrigerator.",
+                "vi": "kết nối 10 ngàn máy xách tay lại thành một khối với kích thước chỉ như một cái tủ lạnh."
+            }
+        }
+    ]
+}

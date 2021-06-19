@@ -1,0 +1,54 @@
+{
+    "word": "highlight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīˌlīt/",
+            "/ˈhaɪˌlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪlʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm nổi bật",
+            "type": "",
+            "example": {
+                "en": "Emphasize words and expressions that highlight your line of reasoning.",
+                "vi": "Nhấn mạnh những từ và nhóm từ làm nổi bật cách lập luận."
+            }
+        },
+        {
+            "content": "nêu bật",
+            "type": "",
+            "example": {
+                "en": "One essential thing is highlighted in the first verse of the last chapter of that letter.",
+                "vi": "Một điều thiết yếu được nêu bật ở câu đầu tiên trong chương cuối của lá thư này."
+            }
+        },
+        {
+            "content": "tô sáng",
+            "type": "",
+            "example": {
+                "en": "This will remove the highlighted language from the list",
+                "vi": "Việc này sẽ gỡ bỏ ngôn ngữ đã tô sáng ra danh sách"
+            }
+        },
+        {
+            "content": "điểm nổi bật nhất",
+            "type": "",
+            "example": {
+                "en": "He then reviews some of its highlights with two or three capable publishers.",
+                "vi": "Rồi anh ôn lại vài điểm nổi bật nhất của sách với hai hoặc ba người công bố có khả năng."
+            }
+        }
+    ]
+}

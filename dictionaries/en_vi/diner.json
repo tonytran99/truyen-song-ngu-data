@@ -1,0 +1,44 @@
+{
+    "word": "diner",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīnər/",
+            "/ˈdaɪnər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người dự tiệc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quán ăn rẻ tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người dự bữa ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toa ăn",
+            "type": "",
+            "example": {
+                "en": "Are there any seats in the diner?",
+                "vi": "Toa ăn còn chỗ trống không?"
+            }
+        }
+    ]
+}

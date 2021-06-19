@@ -1,0 +1,69 @@
+{
+    "word": "eighth",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ā(t)TH/",
+            "/eɪ(t)θ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪtθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thứ tám",
+            "type": "adjective, noun",
+            "example": {
+                "en": "Before my eighth birthday, I sought to know more about baptism.",
+                "vi": "Trước ngày sinh nhật thứ tám của tôi, tôi đã tìm cách biết thêm về phép báp têm."
+            }
+        },
+        {
+            "content": "một phần tám",
+            "type": "",
+            "example": {
+                "en": "Usually one-eighth of an iceberg is above the waterline.",
+                "vi": "Thường thường một phần tám của tảng băng sơn trồi lên khỏi mặt nước."
+            }
+        },
+        {
+            "content": "ngày mồng tám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thứ tám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quận tám",
+            "type": "",
+            "example": {
+                "en": "There's a detective at the eighth precinct.",
+                "vi": "Có một thám tử ở quận tám"
+            }
+        },
+        {
+            "content": "vật thứ tám",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớp tám",
+            "type": "",
+            "example": {
+                "en": "I'm an eighth grader.",
+                "vi": "Tôi đang học lớp tám."
+            }
+        }
+    ]
+}

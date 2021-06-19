@@ -1,0 +1,80 @@
+{
+    "word": "data",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdadə/",
+            "/ˈdædə/",
+            "/ˈdādə/",
+            "/ˈdeɪdə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dữ liệu",
+            "type": "noun plural",
+            "example": {
+                "en": "We could talk about government data, enterprise data is really important,",
+                "vi": "Ta có thể nói về dữ liệu chính phủ, dữ liệu doanh nghiệp rất quan trọng,"
+            }
+        },
+        {
+            "content": "số liệu",
+            "type": "noun",
+            "example": {
+                "en": "We have the data to know what makes a great counselor.",
+                "vi": "Chúng ta cần số liệu dể biết ai là cố vấn giỏi."
+            }
+        },
+        {
+            "content": "dữ kiện",
+            "type": "noun plural",
+            "example": {
+                "en": "Instead they're processing the data structure of thought.",
+                "vi": "Thay vào đó, là dữ kiện suy nghĩ."
+            }
+        },
+        {
+            "content": "các dữ kiện",
+            "type": "noun",
+            "example": {
+                "en": "Not stories in words, but stories in data and words.",
+                "vi": "Không đơn thuần chỉ bằng ngôn từ mà còn bằng các dữ kiện nữa."
+            }
+        },
+        {
+            "content": "số nhiều của datum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khởi thuỷ ]",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "luận chứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đa ta",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đữ liệu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

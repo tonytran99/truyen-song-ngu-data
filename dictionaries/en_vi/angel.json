@@ -1,0 +1,74 @@
+{
+    "word": "angel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈānjəl/",
+            "/ˈeɪndʒəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɪndʒ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiên thần",
+            "type": "noun",
+            "example": {
+                "en": "Her words were like those of an angel.",
+                "vi": "Lời cô ta nói cứ như lời của một thiên thần."
+            }
+        },
+        {
+            "content": "thiên sứ",
+            "type": "noun",
+            "example": {
+                "en": "Michael, or Adam, is the archangel or chief angel.",
+                "vi": "Mi Chen, hay A Đam, là thiên sứ thượng đẳng hay thiên sứ trưởng."
+            }
+        },
+        {
+            "content": "người phúc hậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hiền lành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đáng yêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền cổ bằng vàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "angel",
+            "type": "",
+            "example": {
+                "en": "Will you stay in San angel if I marry you?",
+                "vi": "Anh sẽ ở lại thị trấn San angel nếu tôi cưới anh chứ?"
+            }
+        },
+        {
+            "content": "Thiên sứ",
+            "type": "",
+            "example": {
+                "en": "The archangel, Michael, is the chief angel in terms of power and authority.",
+                "vi": "Thiên sứ trưởng Mi-ca-ên là thiên sứ đứng đầu về sức mạnh và quyền lực."
+            }
+        }
+    ]
+}

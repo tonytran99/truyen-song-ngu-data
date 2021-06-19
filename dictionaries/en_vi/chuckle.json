@@ -1,0 +1,60 @@
+{
+    "word": "chuckle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHək(ə)l/",
+            "/ˈtʃək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃʌk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cười khúc khích",
+            "type": "",
+            "example": {
+                "en": "and just had a big smile and chuckled to myself.\"",
+                "vi": "và đơn giản nở một nụ cười và cười khúc khích với bản thân mình.\""
+            }
+        },
+        {
+            "content": "hí hí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoái trá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu cục cục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nụ cười thầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng cười khúc khích",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiếng cục cục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

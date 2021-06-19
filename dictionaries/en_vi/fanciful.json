@@ -1,0 +1,63 @@
+{
+    "word": "fanciful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfansəfəl/",
+            "/ˈfænsəfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfansɪfʊl/",
+            "/ˈfansɪf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tưởng tượng",
+            "type": "verb",
+            "example": {
+                "en": "So, it's kind of like very fancy eyeglasses for your telescope.",
+                "vi": "Như thế, nó là một loại kính mắt tưởng tượng cho kính viễn vọng của bạn."
+            }
+        },
+        {
+            "content": "huyền ảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kỳ cục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kỳ khôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thích kỳ lạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng bóng",
+            "type": "",
+            "example": {
+                "en": "It may look like a plane with a fancy paint job,",
+                "vi": "Nó giống như một cái máy bay với màu sắc đồng bóng"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "word": "graze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrāz/",
+            "/ɡreɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡreɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sượt qua",
+            "type": "",
+            "example": {
+                "en": "Bullet grazed my cheek, but I haven't fallen.",
+                "vi": "Viên đạn đã sượt qua má tôi nhưng tôi vẫn chưa gục ngã."
+            }
+        },
+        {
+            "content": "chăn",
+            "type": "verb",
+            "example": {
+                "en": "The grass fades to a beautiful blond colour that offers excellent grazing for the animals.",
+                "vi": "Cỏ úa tạo nên một vùng màu vàng tốt cho chăn thả gia súc."
+            }
+        },
+        {
+            "content": "lướt",
+            "type": "verb",
+            "example": {
+                "en": "The tornado just narrowly grazed the school...",
+                "vi": "Cơn lốc xoáy đã lướt sát qua trường học..."
+            }
+        },
+        {
+            "content": "phớt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chăn thả",
+            "type": "",
+            "example": {
+                "en": "The grass fades to a beautiful blond colour that offers excellent grazing for the animals.",
+                "vi": "Cỏ úa tạo nên một vùng màu vàng tốt cho chăn thả gia súc."
+            }
+        },
+        {
+            "content": "chỗ da bị sầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ da bị xước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sầy da",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xước da",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lướt qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sạt qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gặm cỏ",
+            "type": "",
+            "example": {
+                "en": "Could the burro have a grazing problem?Then he' d be more relatable",
+                "vi": "Con lừa đó có biết gặm cỏ không Biết thì mới đúng"
+            }
+        },
+        {
+            "content": "trầy da",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

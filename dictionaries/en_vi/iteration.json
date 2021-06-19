@@ -1,0 +1,45 @@
+{
+    "word": "iteration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌidəˈrāSH(ə)n/",
+            "/ˌɪdəˈreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪtəˈreɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự lặp lại",
+            "type": "",
+            "example": {
+                "en": "All of these are rapid iterations on a theme.",
+                "vi": "Tất cả là sự lặp lại nhanh chóng trên một chủ đề."
+            }
+        },
+        {
+            "content": "lần lặp",
+            "type": "",
+            "example": {
+                "en": "and with each iteration, the model becomes clearer",
+                "vi": "sau mỗi lần lặp lại, mô hình trở nên rõ ràng hơn,"
+            }
+        },
+        {
+            "content": "sự lặp",
+            "type": "noun",
+            "example": {
+                "en": "All of these are rapid iterations on a theme.",
+                "vi": "Tất cả là sự lặp lại nhanh chóng trên một chủ đề."
+            }
+        }
+    ]
+}

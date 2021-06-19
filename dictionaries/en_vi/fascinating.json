@@ -1,0 +1,59 @@
+{
+    "word": "fascinating",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasəˌnādiNG/",
+            "/ˈfæsəˌneɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfasɪneɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyến rũ",
+            "type": "noun",
+            "example": {
+                "en": "I'm fascinated by the concept of going to a place like Venice",
+                "vi": "Tôi bị quyến rũ bởi ý tưởng mình sẽ đến chơi một nơi như Venice"
+            }
+        },
+        {
+            "content": "hấp dẫn",
+            "type": "noun",
+            "example": {
+                "en": "I found that fascinating.",
+                "vi": "Tôi thấy điều đó thật hấp dẫn."
+            }
+        },
+        {
+            "content": "làm mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm say mê",
+            "type": "",
+            "example": {
+                "en": "This religion advocates compassion and tolerance, and it has fascinated many by its complicated philosophy.",
+                "vi": "Tôn giáo này chủ trương lòng nhân từ và khoan dung đã làm say mê nhiều người bởi triết lý phức tạp."
+            }
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "noun",
+            "example": {
+                "en": "These six examples are just some of the Internet activities that fascinate young people today.",
+                "vi": "Trên đây mới chỉ là sáu dịch vụ lôi cuốn giới trẻ thời nay."
+            }
+        }
+    ]
+}

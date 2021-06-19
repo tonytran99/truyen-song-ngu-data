@@ -1,0 +1,98 @@
+{
+    "word": "united",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞oˈnīdəd/",
+            "/juˈnaɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːˈnʌɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thống nhất",
+            "type": "adjective",
+            "example": {
+                "en": "Well, it's difficult trying to unite a community that has a history of mutual loathing.",
+                "vi": "Chà, kể ra cũng khó mà thống nhất một cộng đồng xưa nay luôn thù địch nhau."
+            }
+        },
+        {
+            "content": "đoàn kết",
+            "type": "",
+            "example": {
+                "en": "The whole family's gotta put up a united front for Ig.",
+                "vi": "Cả gia đình cần phải đoàn kết lại vì Ig."
+            }
+        },
+        {
+            "content": "hoà hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hợp",
+            "type": "adjective verb",
+            "example": {
+                "en": "Friendship unites the human family, dispelling hatred and misunderstanding.",
+                "vi": "Tình bạn kết hợp gia đình nhân loại, xua tan lòng căm ghét và sự hiểu lầm."
+            }
+        },
+        {
+            "content": "liên liên kết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "êm ấm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ấm cúng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hòa hợp",
+            "type": "",
+            "example": {
+                "en": "What a close and united couple!",
+                "vi": "Quả là một cặp vợ chồng thân thiết và hòa hợp!"
+            }
+        },
+        {
+            "content": "hợp nhất",
+            "type": "",
+            "example": {
+                "en": "What worldview is shaped through the English language that unites them?",
+                "vi": "Thế giới quan nào thông qua ngôn ngữ tiếng Anh đã hợp nhất họ?"
+            }
+        },
+        {
+            "content": "liên kết",
+            "type": "",
+            "example": {
+                "en": "We study our history because it unites faithful women.",
+                "vi": "Chúng ta nghiên cứu lịch sử của mình vì lịch sử liên kết các phụ nữ trung tín."
+            }
+        },
+        {
+            "content": "liên minh",
+            "type": "noun",
+            "example": {
+                "en": "Two great kingdoms united against Cersei.",
+                "vi": "Hai vương quốc lớn liên minh chống lại Cersei."
+            }
+        }
+    ]
+}

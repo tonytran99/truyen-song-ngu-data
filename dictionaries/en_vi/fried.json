@@ -1,0 +1,51 @@
+{
+    "word": "fried",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frīd/",
+            "/fraɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/frʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiên",
+            "type": "adjective",
+            "example": {
+                "en": "Want fries with that?",
+                "vi": "Muốn chiên với cái gì?"
+            }
+        },
+        {
+            "content": "rán",
+            "type": "verb",
+            "example": {
+                "en": "All I cared about in my last trimester was fried chicken and my doughnut pillow.",
+                "vi": "Những gì mình bận tâm là ba tháng qua chỉ toàn gà rán và bánh gối chiên."
+            }
+        },
+        {
+            "content": "xào",
+            "type": "verb",
+            "example": {
+                "en": "I'd like a pan-fried noodle.",
+                "vi": "Tôi muốn ăn mì xào."
+            }
+        },
+        {
+            "content": "đã chiên",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

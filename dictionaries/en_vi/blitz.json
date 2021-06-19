@@ -1,0 +1,40 @@
+{
+    "word": "blitz",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blits/",
+            "/blɪts/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɪts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiến tranh chớp nhoáng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "oanh tạc dữ dội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh chớp nhoáng",
+            "type": "",
+            "example": {
+                "en": "No, it was a blitz attack.",
+                "vi": "Không, đó là đánh chớp nhoáng."
+            }
+        }
+    ]
+}

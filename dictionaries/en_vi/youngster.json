@@ -1,0 +1,49 @@
+{
+    "word": "youngster",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyəNG(k)stər/",
+            "/ˈjəŋ(k)stər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjʌŋstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người thanh niên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiếu nhi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đứa bé con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứa con trai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứa trẻ",
+            "type": "noun",
+            "example": {
+                "en": "When people organize a search party to locate a lost child, only one member of the group may actually find the youngster.",
+                "vi": "Khi một nhóm người được tổ chức để tìm kiếm đứa trẻ bị thất lạc, có lẽ chỉ một người tìm ra em ấy."
+            }
+        }
+    ]
+}

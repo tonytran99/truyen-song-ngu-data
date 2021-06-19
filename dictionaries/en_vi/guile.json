@@ -1,0 +1,35 @@
+{
+    "word": "guile",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡīl/",
+            "/ɡaɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡʌɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mưu mẹo",
+            "type": "",
+            "example": {
+                "en": "Well, clergy have always been noted for their guile.",
+                "vi": "Giới tu sĩ luôn được chú ý vì mưu mẹo của họ."
+            }
+        },
+        {
+            "content": "sự lừa đảo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

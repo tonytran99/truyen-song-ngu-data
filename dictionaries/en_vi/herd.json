@@ -1,0 +1,123 @@
+{
+    "word": "herd",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đàn",
+            "type": "noun",
+            "example": {
+                "en": "On this day we sighted a small herd.",
+                "vi": "Nhưng vào một ngày nọ khi tụi anh trông thấy một đàn bò."
+            }
+        },
+        {
+            "content": "bầy",
+            "type": "noun",
+            "example": {
+                "en": "Gentlemen, are we just a herd of animals?",
+                "vi": "Các cậu à, chúng ta chẳng nhẽ chỉ là một bầy thú?"
+            }
+        },
+        {
+            "content": "chăn",
+            "type": "verb",
+            "example": {
+                "en": "for herding them, and that's why we value them so much.",
+                "vi": "để chăn giữ chúng, đó là lý do vì sao chúng tôi rất coi trọng chúng"
+            }
+        },
+        {
+            "content": "bầy gia súc",
+            "type": "noun",
+            "example": {
+                "en": "Tuesday afternoon we encountered a large herd of cattle moving slowly down the road.",
+                "vi": "Vào chiều thứ ba, chúng tôi gặp một bầy gia súc đông đảo đang chầm chậm đi dọc theo đường."
+            }
+        },
+        {
+            "content": "bầy đàn",
+            "type": "noun",
+            "example": {
+                "en": "Nothing wrong with thinning the herd once in a while.",
+                "vi": "Không gì sai hơn việc sống thành bầy đàn mong manh trong một thời kỳ."
+            }
+        },
+        {
+            "content": "dồn",
+            "type": "",
+            "example": {
+                "en": "We saw some workers being herded in a few hours ago.",
+                "vi": "Chúng tôi thấy vài công nhân bị dồn vào đó vài giờ trước."
+            }
+        },
+        {
+            "content": "bọn",
+            "type": "noun",
+            "example": {
+                "en": "It ain't our fault you got a herd of kids on the way.",
+                "vi": "Cô có cả đống con có phải lỗi của bọn tôi đâu?"
+            }
+        },
+        {
+            "content": "bè lũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chăn dắt",
+            "type": "",
+            "example": {
+                "en": "You herd them yourself?",
+                "vi": "Chú tự mình chăn dắt chúng?"
+            }
+        },
+        {
+            "content": "chắn giữ vật nuôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấu kết với nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dồn lại thành bầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sống thành bầy",
+            "type": "",
+            "example": {
+                "en": "Nothing wrong with thinning the herd once in a while.",
+                "vi": "Không gì sai hơn việc sống thành bầy đàn mong manh trong một thời kỳ."
+            }
+        },
+        {
+            "content": "đi thành bầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn đúm với nhau",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

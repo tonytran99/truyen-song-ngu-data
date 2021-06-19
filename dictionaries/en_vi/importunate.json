@@ -1,0 +1,50 @@
+{
+    "word": "importunate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈpôrCHənət/",
+            "/ɪmˈpɔrtʃənət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpɔːtjʊnət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhũng nhiễu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nài nỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quấy rầy",
+            "type": "verb",
+            "example": {
+                "en": "I will make no promise of the kind, and I beg you not to importune me any further on the subject.",
+                "vi": "Tôi sẽ không hứa hẹn gì về việc này, và tôi xin bà đừng quấy rầy tôi thêm nữa về việc này."
+            }
+        },
+        {
+            "content": "thúc bách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đòi dai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "dogfight",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôɡˌfīt/",
+            "/ˈdɔɡˌfaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒɡfʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc không chiến",
+            "type": "noun",
+            "example": {
+                "en": "We were in the worst dogfight ever.",
+                "vi": "Chúng tôi chạm trán một cuộc không chiến tồi tệ vô cùng."
+            }
+        }
+    ]
+}

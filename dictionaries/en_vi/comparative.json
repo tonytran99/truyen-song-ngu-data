@@ -1,0 +1,48 @@
+{
+    "word": "comparative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈperədiv/",
+            "/kəmˈpɛrədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈparətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấp so sánh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "so sánh",
+            "type": "adjective",
+            "example": {
+                "en": "How does the eye compare to man-made instruments?",
+                "vi": "Khi so sánh con mắt với những máy móc nhân tạo, chúng ta thấy gì?"
+            }
+        },
+        {
+            "content": "tương đối",
+            "type": "adjective",
+            "example": {
+                "en": "Yet, those things are comparatively simple to make.",
+                "vi": "Tuy nhiên, những vật đó tương đối dễ làm ra."
+            }
+        },
+        {
+            "content": "từ ở cấp so sánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

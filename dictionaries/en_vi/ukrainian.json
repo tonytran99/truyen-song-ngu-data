@@ -1,0 +1,36 @@
+{
+    "word": "ukrainian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞oˈkrānēən/",
+            "/juˈkreɪniən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːˈkreɪnɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "U-kren",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "u-crai-na",
+            "type": "",
+            "example": {
+                "en": "If it isn't the Ukrainian sidekick.",
+                "vi": "Không phải là anh bạn bâu xâu U-crai-na đây à."
+            }
+        }
+    ]
+}

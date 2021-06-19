@@ -1,0 +1,61 @@
+{
+    "word": "visa",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvēzə/",
+            "/ˈvizə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈviːzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thị thực",
+            "type": "noun",
+            "example": {
+                "en": "I would like a tourist visa.",
+                "vi": "Tôi muốn có một thị thực du lịch."
+            }
+        },
+        {
+            "content": "視實",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giấy xuất cảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiếu khán",
+            "type": "noun",
+            "example": {
+                "en": "No passport, no ticket, no visa.",
+                "vi": "Không thông hành, không vé, không chiếu khán."
+            }
+        },
+        {
+            "content": "dấu thị thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thị thực",
+            "type": "",
+            "example": {
+                "en": "I would like a tourist visa.",
+                "vi": "Tôi muốn có một thị thực du lịch."
+            }
+        }
+    ]
+}

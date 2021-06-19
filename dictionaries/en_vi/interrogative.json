@@ -1,0 +1,50 @@
+{
+    "word": "interrogative",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)əˈräɡədiv/",
+            "/ˌɪn(t)əˈrɑɡədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈrɒɡətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghi vấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "câu hỏi",
+            "type": "noun",
+            "example": {
+                "en": "which are the interrogation that is expected.",
+                "vi": "dùng các câu hỏi có thể đoán trước được."
+            }
+        },
+        {
+            "content": "hỏi vặn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "từ nghi vấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đưa ra câu hỏi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

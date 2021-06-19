@@ -1,0 +1,81 @@
+{
+    "word": "fallow",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfalō/",
+            "/ˈfæloʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaləʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hưu canh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không trồng trọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được rèn luyện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được trau dồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất bỏ hoang",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đất bỏ hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất hoang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ hoang",
+            "type": "",
+            "example": {
+                "en": "And most of those seeds will fall on fallow planets.",
+                "vi": "Và hầu hết các hạt giống này sẽ rơi vào những hành tinh bị bỏ hoang."
+            }
+        },
+        {
+            "content": "đất bỏ hóa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

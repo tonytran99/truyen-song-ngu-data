@@ -1,0 +1,37 @@
+{
+    "word": "impatiently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/imˈpāSHəntlē/",
+            "/ɪmˈpeɪʃəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpeɪʃ(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nóng vội",
+            "type": "adverb",
+            "example": {
+                "en": "Mousing with Willa is not a sport for the impatient .",
+                "vi": "Săn chuột với Willa không phải là một môn thể thao nóng vội ."
+            }
+        },
+        {
+            "content": "nôn nóng",
+            "type": "adverb",
+            "example": {
+                "en": "You become more and more impatient to return.",
+                "vi": "Bạn càng ngày càng nôn nóng muốn quay lại."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "vigilant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvijələnt/",
+            "/ˈvɪdʒələnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪdʒɪl(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh giác",
+            "type": "adjective",
+            "example": {
+                "en": "Nevertheless, I had to be vigilant, as many of my workmates wanted to cause trouble for me.",
+                "vi": "Tuy nhiên, tôi cần phải cảnh giác vì nhiều bạn đồng nghiệp muốn gây trở ngại cho tôi."
+            }
+        },
+        {
+            "content": "cẩn mật",
+            "type": "",
+            "example": {
+                "en": "To be vigilant, to guard.",
+                "vi": "Cẩn mật, canh gác."
+            }
+        },
+        {
+            "content": "thận trọng",
+            "type": "adjective",
+            "example": {
+                "en": "I trust you'll be more vigilant in the future.",
+                "vi": "Ta tin anh sẽ thận trọng hơn trong tương lai."
+            }
+        },
+        {
+            "content": "tỉnh táo",
+            "type": "adjective",
+            "example": {
+                "en": "This article discusses how being vigilant with a view to prayers can help us to stay awake.",
+                "vi": "Bài này thảo luận làm thế nào tỉnh thức trong việc cầu nguyện có thể giúp chúng ta tỉnh táo."
+            }
+        }
+    ]
+}

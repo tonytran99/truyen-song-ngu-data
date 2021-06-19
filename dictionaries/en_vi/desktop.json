@@ -1,0 +1,62 @@
+{
+    "word": "desktop",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeskˌtäp/",
+            "/ˈdɛskˌtɑp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛsktɒp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn giấy",
+            "type": "",
+            "example": {
+                "en": "This is a typewriter, a staple of every desktop for decades.",
+                "vi": "Đây là một cái máy đánh chữ một sản phẩm chủ lực trên mọi bàn giấy trong nhiều thập kỷ."
+            }
+        },
+        {
+            "content": "mặt bàn",
+            "type": "",
+            "example": {
+                "en": "Drag it across the desktop.",
+                "vi": "Kéo nó trên mặt bàn."
+            }
+        },
+        {
+            "content": "màn hình desktop",
+            "type": "",
+            "example": {
+                "en": "Well, fortunately, we have a very helpful metaphor: the desktop interface on your computer.",
+                "vi": "May thay, chúng ta có một phép ẩn dụ rất hữu ích: đó là màn hình desktop của bạn."
+            }
+        },
+        {
+            "content": "Bàn làm việc",
+            "type": "",
+            "example": {
+                "en": "perhaps on someone's desktop.",
+                "vi": "có thể là trên bàn làm việc của ai đó."
+            }
+        },
+        {
+            "content": "hình nền",
+            "type": "",
+            "example": {
+                "en": "Desktop switcher that lays the desktops out in a grid",
+                "vi": "Bộ chuyển đổi màn hình nền có sắp đặt các màn hình nền theo lướiName"
+            }
+        }
+    ]
+}

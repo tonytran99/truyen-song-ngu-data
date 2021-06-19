@@ -1,0 +1,39 @@
+{
+    "word": "alpaca",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alˈpakə/",
+            "/ælˈpækə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/alˈpakə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lông len anpaca",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vải anpaca",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Alpaca",
+            "type": "",
+            "example": {
+                "en": "Jerry's taking me to an alpaca farm.",
+                "vi": "Jerry sẽ đưa tôi đến thăm trang trại Alpaca."
+            }
+        }
+    ]
+}

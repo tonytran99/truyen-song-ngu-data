@@ -1,0 +1,107 @@
+{
+    "word": "advise",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˈvīz/",
+            "/ədˈvaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ədˈvʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuyên",
+            "type": "verb",
+            "example": {
+                "en": "Will you please advise him to work harder?",
+                "vi": "Bạn sẽ vui lòng khuyên anh ấy làm việc chăm chỉ hơn không?"
+            }
+        },
+        {
+            "content": "khuyên bảo",
+            "type": "",
+            "example": {
+                "en": "It advises us on the proper use of wealth.",
+                "vi": "Sách khuyên bảo chúng ta về cách sử dụng của cải một cách thích hợp."
+            }
+        },
+        {
+            "content": "răn bảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "báo cho biết",
+            "type": "",
+            "example": {
+                "en": "Should there be any contrary votes, we ask that we be so advised.",
+                "vi": "Nếu có bất cứ sự biểu quyết trái ngược nào thì chúng tôi yêu cầu được thông báo cho biết."
+            }
+        },
+        {
+            "content": "khuyến cáo",
+            "type": "",
+            "example": {
+                "en": "And I highly advise you to wear this vest, sir.",
+                "vi": "Tôi cực kỳ khuyến cáo anh nên mặc cái áo này, thưa ngài."
+            }
+        },
+        {
+            "content": "dặn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chỉ bảo",
+            "type": "",
+            "example": {
+                "en": "The committee stands ready... to advise, counsel, and extend a helping hand to the newcomer at all times.",
+                "vi": "Ủy ban luôn sẵn sàng... cố vấn, chỉ bảo, và giúp đỡ những người mới tới ở mọi lúc."
+            }
+        },
+        {
+            "content": "chỉ vẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dặn bảo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hỏi ý kiến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuyến dụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời khuyên",
+            "type": "noun",
+            "example": {
+                "en": "Do you still advise what you advised upon the road?",
+                "vi": "Anh vẫn giữ những lời khuyên lúc trên đường sao?"
+            }
+        },
+        {
+            "content": "thông báo",
+            "type": "",
+            "example": {
+                "en": "Contact the administrator of the server to advise them of the problem",
+                "vi": "Hãy liên lạc với nhà quản trị của máy phục vụ này, để thông báo lỗi này"
+            }
+        }
+    ]
+}

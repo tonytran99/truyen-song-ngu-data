@@ -1,0 +1,40 @@
+{
+    "word": "dehydrate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēˈhīˌdrāt/",
+            "/diˈhaɪˌdreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːhʌɪˈdreɪt/",
+            "/diːˈhʌɪdreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "loại nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sao tẩm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khử nước",
+            "type": "",
+            "example": {
+                "en": "I put my food waste into this dehydrating, desiccating macerator —",
+                "vi": "Tôi cho các chất thải thực phẩm vào máy ngâm, khử nước, sấy khô"
+            }
+        }
+    ]
+}

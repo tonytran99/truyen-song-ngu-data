@@ -1,0 +1,101 @@
+{
+    "word": "venture",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈven(t)SHər/",
+            "/ˈvɛn(t)ʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛntʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liều",
+            "type": "verb",
+            "example": {
+                "en": "Now, I'm a venture capitalist. I make bets.",
+                "vi": "Bây giờ, tôi là một nhà tư bản đầu tư liều lĩnh. Tôi đặt cược."
+            }
+        },
+        {
+            "content": "mạo hiểm",
+            "type": "adjective",
+            "example": {
+                "en": "I believe that a basic income would work like venture capital for the people.",
+                "vi": "Tôi tin thu nhập cơ bản sẽ hoạt động như một dạng đầu tư mạo hiểm."
+            }
+        },
+        {
+            "content": "việc mạo hiểm",
+            "type": "",
+            "example": {
+                "en": "With my new venture, Marilyn Monrobot, I would like to use art to create tech.",
+                "vi": "Với việc mạo hiểm mới, Marilyn Monrobot, Tôi sử dụng nghệ thuật để tạo ra công nghệ."
+            }
+        },
+        {
+            "content": "đánh bạo",
+            "type": "",
+            "example": {
+                "en": "I'd venture that's what's always been in you since birth.",
+                "vi": "Tôi đánh bạo đoán rằng từ lúc sinh ra anh đã như thế rồi."
+            }
+        },
+        {
+            "content": "công việc kinh doanh",
+            "type": "noun",
+            "example": {
+                "en": "A contract in itself does not ensure a successful venture.",
+                "vi": "Tờ hợp đồng tự nó không bảo đảm là công việc kinh doanh sẽ thành công."
+            }
+        },
+        {
+            "content": "dám",
+            "type": "",
+            "example": {
+                "en": "The getae won't venture that far.",
+                "vi": "Bọn phỉ sẽ không dám đi xa đến thế."
+            }
+        },
+        {
+            "content": "dám nói",
+            "type": "",
+            "example": {
+                "en": "I'd venture many souls have come and gone.",
+                "vi": "Anh dám nói nhiều người đã đến và đã chết."
+            }
+        },
+        {
+            "content": "người mạo hiểm",
+            "type": "",
+            "example": {
+                "en": "Those venturing into the countryside will need “arrows and the bow” for protection against wild animals lurking in the thickets.",
+                "vi": "Những người mạo hiểm về miền quê sẽ cần đến “cung tên” để bảo vệ khỏi thú hoang ẩn núp trong bụi cây rậm rạp."
+            }
+        },
+        {
+            "content": "người phiêu lưu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đầu cơ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "việc liều lĩnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

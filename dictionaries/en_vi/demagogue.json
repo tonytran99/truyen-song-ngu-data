@@ -1,0 +1,40 @@
+{
+    "word": "demagogue",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeməˌɡäɡ/",
+            "/ˈdɛməˌɡɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛməɡɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người mị dân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nịnh dân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ mị dân",
+            "type": "noun",
+            "example": {
+                "en": "and electing vulgar demagogues.",
+                "vi": "rồi đưa những kẻ mị dân lên làm lãnh đạo."
+            }
+        }
+    ]
+}

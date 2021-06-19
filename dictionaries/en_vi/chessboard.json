@@ -1,0 +1,34 @@
+{
+    "word": "chessboard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHesbôrd/",
+            "/ˈtʃɛsbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛsbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn cờ",
+            "type": "noun",
+            "example": {
+                "en": "The creators want to sweep their chessboard clean.",
+                "vi": "Những kẻ sáng chế muốn hất sạch bàn cờ của họ."
+            }
+        },
+        {
+            "content": "bàn cờ vũ trường",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

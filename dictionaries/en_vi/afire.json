@@ -1,0 +1,39 @@
+{
+    "word": "afire",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈfī(ə)r/",
+            "/əˈfaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈfʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cháy",
+            "type": "verb noun",
+            "example": {
+                "en": "Something in the wind sets my lungs afire.",
+                "vi": "Gió ở đây như đốt cháy phổi của tôi vậy."
+            }
+        },
+        {
+            "content": "bừng bừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rực cháy",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

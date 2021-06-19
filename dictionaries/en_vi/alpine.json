@@ -1,0 +1,51 @@
+{
+    "word": "alpine",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalˌpīn/",
+            "/ˈælˌpaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈalpʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "núi cao",
+            "type": "",
+            "example": {
+                "en": "In the world of the arctic and alpine environments, where the ice is, it's real and it's present.",
+                "vi": "Trong những vùng cực và núi cao, nơi băng hiện diện, điều này là thật và nó đang tồn tại."
+            }
+        },
+        {
+            "content": "dãy An-pơ",
+            "type": "",
+            "example": {
+                "en": "are like the bells of Alpine cattle.",
+                "vi": "giống như những cái chuông gia súc trên dãy An-pơ"
+            }
+        },
+        {
+            "content": "ở dãy An-pơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở núi cao",
+            "type": "",
+            "example": {
+                "en": "and I'm involved with an alpine biodiversity",
+                "vi": "và tôi đang tham gia dự án đa dạng sinh học ở núi cao"
+            }
+        }
+    ]
+}

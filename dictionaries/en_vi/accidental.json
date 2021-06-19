@@ -1,0 +1,105 @@
+{
+    "word": "accidental",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌaksəˈden(t)l/",
+            "/ˌæksəˈdɛn(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/aksɪˈdɛnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngẫu nhiên",
+            "type": "adjective",
+            "example": {
+                "en": "It had to be somewhere students wouldn't find it accidentally.",
+                "vi": "Nó phải ở chỗ nào mà học sinh không thể ngẫu nhiên tìm được."
+            }
+        },
+        {
+            "content": "tình cờ",
+            "type": "adjective",
+            "example": {
+                "en": "Two fellows meet accidentally, like you and me.",
+                "vi": "Hai người tình cờ gặp nhau, như anh và tôi đây."
+            }
+        },
+        {
+            "content": "phụ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bất ngờ",
+            "type": "",
+            "example": {
+                "en": "The pathogen didn't accidentally deploy when you were landing.",
+                "vi": "Mầm bệnh không bị bất ngờ thả ra khi anh đang hạ cánh."
+            }
+        },
+        {
+            "content": "cái không chủ yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái phụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chủ yếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ngờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lỡ",
+            "type": "adjective",
+            "example": {
+                "en": "It seems we may have accidentally given your tux away.",
+                "vi": "Có vẻ như chúng tôi đã lỡ đưa nhầm bộ tuxedo của cậu rồi."
+            }
+        },
+        {
+            "content": "phụ thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rũi ro",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô tình",
+            "type": "adjective",
+            "example": {
+                "en": "I just saw them and accidentally picked up the phone.",
+                "vi": "Con chỉ vô tình thấy họ và vô tình nhấc điện thoại lên."
+            }
+        },
+        {
+            "content": "tai nạn",
+            "type": "noun",
+            "example": {
+                "en": "One of his school friends recently lost a young cousin to accidental death.",
+                "vi": "Một trong những người bạn học của nó mới vừa mất người em họ vì tai nạn."
+            }
+        }
+    ]
+}

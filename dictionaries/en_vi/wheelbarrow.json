@@ -1,0 +1,43 @@
+{
+    "word": "wheelbarrow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)wēlˌberō/",
+            "/ˈ(h)wilˌbɛroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwiːlbarəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xe cút kít",
+            "type": "noun",
+            "example": {
+                "en": "I'll see if the old man's got a wheelbarrow.",
+                "vi": "Anh sẽ xem Buddy có xe cút kít không."
+            }
+        },
+        {
+            "content": "xe đẩy",
+            "type": "",
+            "example": {
+                "en": "Pop wheels me in the wheelbarrow, but he doesn't know how to drive!",
+                "vi": "Bố dấu con trong chiếc xe đẩy, nhưng bố đẩy dở lắm!"
+            }
+        },
+        {
+            "content": "Xe rùa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

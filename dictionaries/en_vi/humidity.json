@@ -1,0 +1,65 @@
+{
+    "word": "humidity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)yo͞oˈmidədē/",
+            "/(h)juˈmɪdədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hjʊˈmɪdɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "độ ẩm",
+            "type": "noun",
+            "example": {
+                "en": "We have environments where humidity is guaranteed throughout the year.",
+                "vi": "Chúng ta có những môi trường, nơi độ ẩm được đảm bảo trong suốt cả năm."
+            }
+        },
+        {
+            "content": "tình trạng ẩm ướt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ẩm ướt",
+            "type": "",
+            "example": {
+                "en": "Without compulsory means, the humidity is able to “flow unto”26 the one glass while the other receives nothing.",
+                "vi": "Không có sự bắt buộc thì sự ẩm ướt có thể “chan hòa”26 một cái ly còn cái kia thì không có gì."
+            }
+        },
+        {
+            "content": "ẩm độ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ẩm ướt",
+            "type": "noun",
+            "example": {
+                "en": "Later that day , we braved the hot , humid city .",
+                "vi": "Sau đó , chúng tôi bất chấp cái nóng nực và ẩm ướt này của thành phố ."
+            }
+        },
+        {
+            "content": "thấp độ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Độ ẩm tuyệt đối",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

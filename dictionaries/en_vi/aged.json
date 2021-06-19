@@ -1,0 +1,79 @@
+{
+    "word": "aged",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ājd/",
+            "/eɪdʒd/",
+            "/ˈājəd/",
+            "/ˈeɪdʒəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪdʒd/",
+            "/ˈeɪdʒɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuổi",
+            "type": "noun",
+            "example": {
+                "en": "If you could go back to any age, what age would you choose?",
+                "vi": "Nếu có thể quay về một độ tuổi tùy ý, bạn sẽ chọn tuổi nào?"
+            }
+        },
+        {
+            "content": "già",
+            "type": "adjective",
+            "example": {
+                "en": "All I've ever done is live to a ripe old age.",
+                "vi": "Tất cả những gì tôi từng làm là sống đến tuổi già đã chín muồi."
+            }
+        },
+        {
+            "content": "già nua",
+            "type": "",
+            "example": {
+                "en": "People age quickly, and die quickly.",
+                "vi": "Bởi vì con người dễ dàng già nua, và dễ dàng chết đi."
+            }
+        },
+        {
+            "content": "già đi",
+            "type": "",
+            "example": {
+                "en": "As the day passes , the spirit ages , becoming noticeably older .",
+                "vi": "Khi thời gian trôi qua , bóng ma trờ nên già đi thấy rõ ."
+            }
+        },
+        {
+            "content": "làm cho già đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có tuổi",
+            "type": "",
+            "example": {
+                "en": "As we age, though, our hearing progressively diminishes.",
+                "vi": "Thế nhưng khi có tuổi, thính giác chúng ta yếu dần."
+            }
+        },
+        {
+            "content": "lão",
+            "type": "adjective",
+            "example": {
+                "en": "Your cells age at half the rate of a normal human.",
+                "vi": "Tốc độ lão hóa ở tế bào của cậu chỉ bằng một nửa người thường."
+            }
+        }
+    ]
+}

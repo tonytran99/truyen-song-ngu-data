@@ -1,0 +1,40 @@
+{
+    "word": "batty",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadē/",
+            "/ˈbædi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbati/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gàn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên dại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên",
+            "type": "adjective",
+            "example": {
+                "en": "A lost city and a batty dame.",
+                "vi": "Một thành phố mất tích và một con mụ điên."
+            }
+        }
+    ]
+}

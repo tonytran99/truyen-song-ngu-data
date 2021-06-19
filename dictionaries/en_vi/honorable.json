@@ -1,0 +1,36 @@
+{
+    "word": "honorable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈänərəb(ə)l/",
+            "/ˈɑnərəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính",
+            "type": "adjective",
+            "example": {
+                "en": "It doesn't pass the balancing test, your honor.",
+                "vi": "Nó không vượt qua các phân tích chính đáng, thưa quan tòa."
+            }
+        },
+        {
+            "content": "honourable",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "danh dự",
+            "type": "noun",
+            "example": {
+                "en": "You have to choose between honor and death.",
+                "vi": "Bạn phải lựa chọn danh dự và cái chết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "word": "turtle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtərdl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtəːt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rùa",
+            "type": "noun",
+            "example": {
+                "en": "Turtles don't have teeth.",
+                "vi": "Những con rùa không có răng."
+            }
+        },
+        {
+            "content": "ba ba",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bắt rùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "câu rùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt rùa",
+            "type": "",
+            "example": {
+                "en": "Four and a half years'scrimplin'on turtle-meat and coconuts...",
+                "vi": "Bốn năm rưỡi ăn thịt rùa và cơm dừa..."
+            }
+        },
+        {
+            "content": "turtle-dove",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con rùa",
+            "type": "noun",
+            "example": {
+                "en": "Turtles don't have teeth.",
+                "vi": "Những con rùa không có răng."
+            }
+        },
+        {
+            "content": "bộ rùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rùa cạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

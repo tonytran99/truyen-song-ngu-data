@@ -1,0 +1,48 @@
+{
+    "word": "homage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈ(h)ämij/",
+            "/ˈ(h)ɑmɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒmɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tôn kính",
+            "type": "",
+            "example": {
+                "en": "which was also an homage to French filmmaker Chris Marker.",
+                "vi": "cũng là một sự tôn kính tới nhà làm phim người Pháp Chris Marker."
+            }
+        },
+        {
+            "content": "lòng kính trọng",
+            "type": "",
+            "example": {
+                "en": "When I built you, I gave you one as an homage of a kind.",
+                "vi": "Khi tạo ra anh, tôi đã cho anh một câu chuyện để tỏ lòng kính trọng điều đó."
+            }
+        },
+        {
+            "content": "sự thần phục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tỏ lòng kính trọng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

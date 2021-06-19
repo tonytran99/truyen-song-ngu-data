@@ -1,0 +1,47 @@
+{
+    "word": "verifiable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈverəfīəbl/",
+            "/ˈvɛrəfaɪəbl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛrɪfʌɪəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể xác minh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thử lại được",
+            "type": "",
+            "example": {
+                "en": "Because I need some kind of proof, some kind of verifiable, empirical data.",
+                "vi": "Nguyên nhân Tôi cần cách thức oph nào đó không thấm, loại dữ liệu thử lại được, thực nghiệm nào đó"
+            }
+        },
+        {
+            "content": "có thể thẩm tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác minh",
+            "type": "",
+            "example": {
+                "en": "We viewed them as enemy until we could verify who it was.",
+                "vi": "Chúng tôi coi họ là kẻ thù cho đến khi có thể xác minh họ là ai."
+            }
+        }
+    ]
+}

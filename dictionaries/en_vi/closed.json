@@ -1,0 +1,75 @@
+{
+    "word": "closed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klōzd/",
+            "/kloʊzd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kləʊzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khép kín",
+            "type": "",
+            "example": {
+                "en": "So it will remain a closed system, fully autonomous?",
+                "vi": "Vậy nó sẽ mãi là một hệ thống khép kín, hoàn toàn tự trị?"
+            }
+        },
+        {
+            "content": "đóng",
+            "type": "verb",
+            "example": {
+                "en": "I had no sooner closed the door than somebody started knocking on it.",
+                "vi": "Tôi vừa đóng cửa thì có người gõ cửa."
+            }
+        },
+        {
+            "content": "bảo thủ",
+            "type": "",
+            "example": {
+                "en": "\"whereas closed individuals prefer conservative, traditional, right-wing views.\"",
+                "vi": "\"trong khi những người khép kín có thiên hướng bảo thủ, truyền thống, quan điểm cánh hữu.\""
+            }
+        },
+        {
+            "content": "khép",
+            "type": "",
+            "example": {
+                "en": "Tom noticed the door was half closed.",
+                "vi": "Tom để ý thấy cánh cửa chỉ khép hờ."
+            }
+        },
+        {
+            "content": "không cởi mở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kín",
+            "type": "",
+            "example": {
+                "en": "Do you know what a closed adoption is?",
+                "vi": "Cô có biết con nuôi kín là thế nào không?"
+            }
+        },
+        {
+            "content": "đóng kín",
+            "type": "",
+            "example": {
+                "en": "Not if people believe the president is being chosen behind closed doors.",
+                "vi": "Họ không tin vào điều đó nếu Tổng thống được bầu sau một cánh cửa đóng kín."
+            }
+        }
+    ]
+}

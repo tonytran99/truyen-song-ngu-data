@@ -1,0 +1,103 @@
+{
+    "word": "confident",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänfədənt/",
+            "/ˈkɑnfədənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnfɪd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tự tin",
+            "type": "noun",
+            "example": {
+                "en": "Mary was one of the most confident and successful girls in her class.",
+                "vi": "Mary là một trong những học viên tự tin và thành công nhất trong lớp."
+            }
+        },
+        {
+            "content": "liều",
+            "type": "",
+            "example": {
+                "en": "Gene tells me you're confident, bordering on cocky.",
+                "vi": "Gene đã nói với tôi anh là một kẻ liều lĩnh, gần như tự phụ."
+            }
+        },
+        {
+            "content": "chắc chắn",
+            "type": "adjective adverb",
+            "example": {
+                "en": "He's confident they're gonna find the guys that did this.",
+                "vi": "Anh ấy chắc chắn là họ sẽ tìm được thủ phạm gây ra chuyện này."
+            }
+        },
+        {
+            "content": "liều lĩnh",
+            "type": "",
+            "example": {
+                "en": "Gene tells me you're confident, bordering on cocky.",
+                "vi": "Gene đã nói với tôi anh là một kẻ liều lĩnh, gần như tự phụ."
+            }
+        },
+        {
+            "content": "láo xược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt dạn mày dày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tri kỷ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tâm phúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tin chắc",
+            "type": "",
+            "example": {
+                "en": "Can we be confident that our efforts to make such improvements will meet with success?",
+                "vi": "Chúng ta có thể tin chắc nỗ lực cải thiện chính mình như thế sẽ thành công không?"
+            }
+        },
+        {
+            "content": "tin cậy",
+            "type": "",
+            "example": {
+                "en": "Have you any friends you can confide in here?",
+                "vi": "Em có người bạn nào tin cậy ở đây không?"
+            }
+        },
+        {
+            "content": "tin tưởng",
+            "type": "verb",
+            "example": {
+                "en": "People have confidence in doctors, they have confidence in diagnoses, confidence in medicine.",
+                "vi": "Mọi người tin tưởng vào bác sĩ tin tưởng vào chuẩn đoán, vào điều trị."
+            }
+        },
+        {
+            "content": "trơ tráo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

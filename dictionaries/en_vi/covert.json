@@ -1,0 +1,74 @@
+{
+    "word": "covert",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōvərt/",
+            "/ˈkoʊvərt/",
+            "/kōˈvərt/",
+            "/koʊˈvərt/",
+            "/ˈkəvər(t)/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌvət/",
+            "/ˈkəʊvəːt/",
+            "/ˈkʌvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bụi rậm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "che đậy",
+            "type": "",
+            "example": {
+                "en": "His job was to implement the covert missions and see to it that no names were leaked.",
+                "vi": "Nhiệm vụ của ông ta còn phải che đậy các nhiệm vụ và không để lộ tên của bất cứ ai liên quan."
+            }
+        },
+        {
+            "content": "giấu giếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hang ổ",
+            "type": "",
+            "example": {
+                "en": "Now, since I just saved your life, how about letting me see your covert lair?",
+                "vi": "Này, tớ vừa cứu mạng cậu đấy. Cho tớ đến xem hang ổ bí mật của cậu nhé?"
+            }
+        },
+        {
+            "content": "lùm cây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụng trộm",
+            "type": "",
+            "example": {
+                "en": "Well, that's the trouble with a covert business, Michael.",
+                "vi": "À, có chút rắc rối với một vụ làm ăn vụng trộm, Michael."
+            }
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "Now, since I just saved your life, how about letting me see your covert lair?",
+                "vi": "Này, tớ vừa cứu mạng cậu đấy. Cho tớ đến xem hang ổ bí mật của cậu nhé?"
+            }
+        }
+    ]
+}

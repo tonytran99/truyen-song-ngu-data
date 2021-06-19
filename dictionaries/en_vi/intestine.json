@@ -1,0 +1,61 @@
+{
+    "word": "intestine",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtestən/",
+            "/ɪnˈtɛstən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛstɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ruột",
+            "type": "noun",
+            "example": {
+                "en": "This passes from the intestines into the bloodstream and then into the lungs, after which it is exhaled.",
+                "vi": "Khí này từ ruột non đi vào máu rồi vào phổi, sau đó được thở ra."
+            }
+        },
+        {
+            "content": "tràng",
+            "type": "",
+            "example": {
+                "en": "It's very difficult to work in the intestine.",
+                "vi": "Nó rất khó để tái hiện lại trong đại tràng."
+            }
+        },
+        {
+            "content": "ruoät",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lòng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nội bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ruột",
+            "type": "",
+            "example": {
+                "en": "His intestines are rotting.",
+                "vi": "Ruột anh ta bắt đầu bị thối rữa."
+            }
+        }
+    ]
+}

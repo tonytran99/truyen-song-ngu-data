@@ -1,0 +1,39 @@
+{
+    "word": "dosage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdōsij/",
+            "/ˈdoʊsɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəʊsɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liều lượng",
+            "type": "noun",
+            "example": {
+                "en": "I think I need to have my dosage checked.",
+                "vi": "Tôi nghĩ tôi cần kiểm tra lại liều lượng thuốc."
+            }
+        },
+        {
+            "content": "sự cho liều lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dosage form",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

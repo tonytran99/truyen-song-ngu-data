@@ -1,0 +1,370 @@
+{
+    "word": "walk",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wôk/",
+            "/wɔk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɔːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {
+                "en": "John and Mary always walk hand in hand.",
+                "vi": "John và Mary luôn đi bên nhau tay trong tay."
+            }
+        },
+        {
+            "content": "đi bộ",
+            "type": "verb",
+            "example": {
+                "en": "I had hardly walked a mile when it began to thunder.",
+                "vi": "Tôi mới chỉ đi bộ một kilomet rưỡi thì bắt đầu có sấm."
+            }
+        },
+        {
+            "content": "đi dạo",
+            "type": "verb",
+            "example": {
+                "en": "I don't feel like going to the movies. Let's take a walk instead.",
+                "vi": "Tôi không có hứng đi xem phim, hay là chúng ta đi dạo đi."
+            }
+        },
+        {
+            "content": "dạo",
+            "type": "verb",
+            "example": {
+                "en": "I don't feel like going to the movies. Let's take a walk instead.",
+                "vi": "Tôi không có hứng đi xem phim, hay là chúng ta đi dạo đi."
+            }
+        },
+        {
+            "content": "dáng đi",
+            "type": "noun",
+            "example": {
+                "en": "And the floor that you walk on, can it affect the way that you walk?",
+                "vi": "Và sàn nhà mà bạn bước lên, có thể ảnh hưởng dáng đi của bạn?"
+            }
+        },
+        {
+            "content": "bước",
+            "type": "noun",
+            "example": {
+                "en": "Tom and Mary walked out of the room, leaving John alone.",
+                "vi": "Tom và Mary bước ra khỏi phòng, để lại John một mình."
+            }
+        },
+        {
+            "content": "đi lang thang",
+            "type": "",
+            "example": {
+                "en": "Look, Jewel, I can't spend my life walking around following you wherever you're going.",
+                "vi": "tôi không thể đi lang thang theo cô... suốt cả đời được."
+            }
+        },
+        {
+            "content": "đường",
+            "type": "noun",
+            "example": {
+                "en": "And before you know it, you'll be walking down the aisle.",
+                "vi": "Những điều cô nên biết, trước khi bước vào lễ đường."
+            }
+        },
+        {
+            "content": "cuộc dạo chơi",
+            "type": "noun",
+            "example": {
+                "en": "Many a man has regained his spiritual balance after a long walk.",
+                "vi": "Có nhiều người đã khôi phục được sự cân-bằng về tâm-linh sau một cuộc dạo chơi lâu dài."
+            }
+        },
+        {
+            "content": "cuộc đi bộ",
+            "type": "noun",
+            "example": {
+                "en": "That is an odd thing to go for a walk.",
+                "vi": "Thứ đó thì thật lạ cho một cuộc đi bộ."
+            }
+        },
+        {
+            "content": "cuộc đi dạo",
+            "type": "noun",
+            "example": {
+                "en": "It was a very creepy walk through the mall.",
+                "vi": "Nó là một cuộc đi dạo ghê rợn trong TTTM."
+            }
+        },
+        {
+            "content": "cách bước đi",
+            "type": "noun",
+            "example": {
+                "en": "And it really was a place where I learned to walk.",
+                "vi": "Và đó thật sự là nơi tôi đã học cách bước đi."
+            }
+        },
+        {
+            "content": "cách đi bộ",
+            "type": "noun",
+            "example": {
+                "en": "between the walking of the real animal and the Pleurobot.",
+                "vi": "giữa cách đi bộ của một động vật thật và pleurobot."
+            }
+        },
+        {
+            "content": "kiểu đi bộ",
+            "type": "noun",
+            "example": {
+                "en": "your calm walking type, he is about 6'1 \".",
+                "vi": "Kiểu đi bộ bình tĩnh, hắn cao khoảng 6'1 \"."
+            }
+        },
+        {
+            "content": "lối đi bộ",
+            "type": "noun",
+            "example": {
+                "en": "Remember Slughorn usually eats early takes a walk, and then returns to his office.",
+                "vi": "Nhớ rằng, giáo sư Slughorn thường đi dạo sớm, trên lối đi bộ,"
+            }
+        },
+        {
+            "content": "sống",
+            "type": "verb noun",
+            "example": {
+                "en": "Why is Victor dead and you're still walking round?",
+                "vi": "Tại sao Victor bị giết còn ông thì còn sống?"
+            }
+        },
+        {
+            "content": "du",
+            "type": "verb",
+            "example": {
+                "en": "And how long do you intend to walk the earth?",
+                "vi": "Và anh định chu du thiên hạ trong bao lâu?"
+            }
+        },
+        {
+            "content": "ngành",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bãi rào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bắt đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ hành",
+            "type": "verb",
+            "example": {
+                "en": "Along the main highways, travelers would find inns spaced a day’s walking distance apart.",
+                "vi": "Dọc theo các đường chính, khách bộ hành có thể tìm được những nhà trọ nằm cách nhau khoảng một ngày đi bộ."
+            }
+        },
+        {
+            "content": "cuộc đi bộ thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách bước",
+            "type": "",
+            "example": {
+                "en": "And it really was a place where I learned to walk.",
+                "vi": "Và đó thật sự là nơi tôi đã học cách bước đi."
+            }
+        },
+        {
+            "content": "cách đi",
+            "type": "",
+            "example": {
+                "en": "Gonna celebrate by walking to the store for some wipes.",
+                "vi": "Chúng ta sẽ ăn mừng bằng cách đi đến cửa hàng và mua vài cái khăn."
+            }
+        },
+        {
+            "content": "cùng đi với",
+            "type": "",
+            "example": {
+                "en": "or your babysitter to walk along with you.",
+                "vi": "hay người trông trẻ cùng đi với mình."
+            }
+        },
+        {
+            "content": "cư xử",
+            "type": "verb",
+            "example": {
+                "en": "Ever since you walked in, you've acted like a self-appointed public avenger.",
+                "vi": "Từ lúc anh bước vào, anh cư xử như một kẻ hận đời vậy."
+            }
+        },
+        {
+            "content": "di động",
+            "type": "adjective noun",
+            "example": {
+                "en": "He doesn't need a walking hospital bed to keep his insides together.",
+                "vi": "Anh ta không cần một cái giường bệnh viện di động để giữ nội tạng ở đúng chỗ."
+            }
+        },
+        {
+            "content": "dẫn đi",
+            "type": "",
+            "example": {
+                "en": "And what directions they were: “Walk down the cobblestone road across from the Ministry building.",
+                "vi": "Và những chỉ dẫn đi đường thật là lạ: “Đi bộ xuống con đường lát đá cuội đối diện với tòa nhà Giáo Vụ."
+            }
+        },
+        {
+            "content": "dắt đi",
+            "type": "",
+            "example": {
+                "en": "The dog is signaling he wants to go for a walk.",
+                "vi": "Con chó vẫy đuôi ra hiệu muốn được dắt đi dạo."
+            }
+        },
+        {
+            "content": "hiện ra",
+            "type": "",
+            "example": {
+                "en": "But one night, foxes found that they too could walk to the island.",
+                "vi": "Nhưng một đêm nọ, loài cáo phát hiện ra chúng cũng có thể đi tới đảo."
+            }
+        },
+        {
+            "content": "lĩnh vực hoạt động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghề nghiệp",
+            "type": "noun",
+            "example": {
+                "en": "Many of his colleagues wondered how he could walk away from the profession.",
+                "vi": "Nhiều đồng nghiệp của ông đã muốn biết làm thế nào ông có thể rời bỏ nghề nghiệp của mình."
+            }
+        },
+        {
+            "content": "quãng đường",
+            "type": "",
+            "example": {
+                "en": "It was the longest walk of my life.",
+                "vi": "Nó là quãng đường dài nhất trong đời cha."
+            }
+        },
+        {
+            "content": "sân nuôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bước",
+            "type": "noun",
+            "example": {
+                "en": "Peter then takes the man by the right hand, and at once he jumps up and begins walking.",
+                "vi": "Rồi Phi-e-rơ nắm tay phải người đỡ dậy, và người liền nhảy, đứng lên và khởi sự bước đi."
+            }
+        },
+        {
+            "content": "sự dạo chơi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đi bộ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tầng lớp xã hội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập cho đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng đi thường lệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuất hiện",
+            "type": "",
+            "example": {
+                "en": "Why are there men in Hazmat suits walking around like extra-terrestrials?",
+                "vi": "Sao lại có người của chúng ta xuất hiện ở đây vậy?"
+            }
+        },
+        {
+            "content": "ăn ở",
+            "type": "",
+            "example": {
+                "en": "Paul urged his brothers not to “go on walking just as the nations also walk.”",
+                "vi": "Phao-lô khuyến giục anh em “chớ nên ăn-ở như người ngoại-đạo nữa”."
+            }
+        },
+        {
+            "content": "đi tản bộ",
+            "type": "",
+            "example": {
+                "en": "Choose to think about something else or take a walk.",
+                "vi": "Chọn suy nghĩ về một điều gì khác hoặc đi tản bộ."
+            }
+        },
+        {
+            "content": "đường đi",
+            "type": "noun",
+            "example": {
+                "en": "We always walk by the post office on the way to work.",
+                "vi": "Chúng tôi luôn đi bộ ngang qua bưu điện trên đường đi làm"
+            }
+        },
+        {
+            "content": "đường đi dạo chơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ",
+            "type": "noun",
+            "example": {
+                "en": "I had hardly walked a mile when it began to thunder.",
+                "vi": "Tôi mới chỉ đi bộ một kilomet rưỡi thì bắt đầu có sấm."
+            }
+        },
+        {
+            "content": "đạp",
+            "type": "verb",
+            "example": {
+                "en": "Are you suggesting we let them walk all over us?",
+                "vi": "Phải chăng ông đề nghị chúng tôi để bọn kia chà đạp?"
+            }
+        },
+        {
+            "content": "hàng",
+            "type": "verb noun",
+            "example": {
+                "en": "Mrs. Wong is walking through footbridge to the United Chinese Bank.",
+                "vi": "bà Vương đang trên cầu vượt đến ngân hàng United Chinese."
+            }
+        }
+    ]
+}

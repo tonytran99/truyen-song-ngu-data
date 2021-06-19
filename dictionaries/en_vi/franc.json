@@ -1,0 +1,71 @@
+{
+    "word": "franc",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fraNGk/",
+            "/fræŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fraŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phật lăng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồng frăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Franc",
+            "type": "",
+            "example": {
+                "en": "Do I have 10 francs?",
+                "vi": "Có ai trả 10 Franc không ạ?"
+            }
+        },
+        {
+            "content": "franc",
+            "type": "",
+            "example": {
+                "en": "Ten rotten francs your mother sends me What is that going to buy?",
+                "vi": "10 franc thối mẹ mày gửi cho ta thì làm được gì chứ?"
+            }
+        },
+        {
+            "content": "Frăng",
+            "type": "",
+            "example": {
+                "en": "He bought two apples and sold them for two francs.",
+                "vi": "Ông dùng một frăng mua 2 quả táo, và bán được hai frăng"
+            }
+        },
+        {
+            "content": "Thụy Sỹ",
+            "type": "adjective proper",
+            "example": {
+                "en": "And probably most of the people wouldn't even know the value of a Swiss franc, okay?",
+                "vi": "và có lẽ hầu hết mọi người thậm chí còn không biết đến giá trị của tiền Thụy Sỹ, đúng không?"
+            }
+        },
+        {
+            "content": "Bỉ",
+            "type": "adjective proper",
+            "example": {
+                "en": "It included coastal regions of northern France, Belgium, and Holland.",
+                "vi": "Nó bao gồm phần đất mà hiện nay là duyên hải nước Bỉ, Hà Lan và miền bắc nước Pháp."
+            }
+        }
+    ]
+}

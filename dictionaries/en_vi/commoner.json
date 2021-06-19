@@ -1,0 +1,56 @@
+{
+    "word": "commoner",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämənər/",
+            "/ˈkɑmənər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmənə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bình dân",
+            "type": "noun",
+            "example": {
+                "en": "The problem with us common types... is that we're light-fingered.",
+                "vi": "Vấn đề với bọn bình dân chúng tôi là chúng tôi biết ăn cắp vặt."
+            }
+        },
+        {
+            "content": "người bình dân",
+            "type": "",
+            "example": {
+                "en": "“But I never took something from the common man.",
+                "vi": "Nhưng tôi không bao giờ ăn cắp cái gì của người bình dân."
+            }
+        },
+        {
+            "content": "người bình thường",
+            "type": "noun",
+            "example": {
+                "en": "Don't treat me as common people.",
+                "vi": "Đừng coi tôi như người \"bình thường\"!"
+            }
+        },
+        {
+            "content": "chân trắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hạ nghị sĩ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "inasmuch",
+    "type": [
+        "adverb",
+        "conjunction"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinəzˈməCH/",
+            "/ˌɪnəzˈmətʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnəzˈmʌtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vì",
+            "type": "conjunction",
+            "example": {
+                "en": "I mean, inasmuch as I like to collect strays.",
+                "vi": "Ý tao là vì tao thích gom trẻ lạc."
+            }
+        },
+        {
+            "content": "bởi vì",
+            "type": "conjunction",
+            "example": {}
+        },
+        {
+            "content": "đến mức mà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đến trình độ mà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

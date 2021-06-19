@@ -1,0 +1,53 @@
+{
+    "word": "carefully",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerfəlē/",
+            "/ˈkɛrfəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛəf(ə)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chu đáo",
+            "type": "",
+            "example": {
+                "en": "A preaching campaign on that island was carefully organized by the brothers from Samos.",
+                "vi": "Anh em trên đảo Samos đã chu đáo tổ chức một đợt cổ động rao giảng."
+            }
+        },
+        {
+            "content": "cẩn thận",
+            "type": "",
+            "example": {
+                "en": "Whether you drive fast or slow, drive carefully.",
+                "vi": "Không cần biết bạn chạy nhanh hay chậm, chỉ cần chạy cẩn thận."
+            }
+        },
+        {
+            "content": "kỹ lưỡng",
+            "type": "adverb",
+            "example": {
+                "en": "In one hand, she holds a pair of scales, indicating that evidence will be weighed carefully.",
+                "vi": "Một tay bà cầm bộ cân, có ý nghĩa chứng cớ sẽ được cân nhắc kỹ lưỡng."
+            }
+        },
+        {
+            "content": "một cách cẩn thận",
+            "type": "adverb",
+            "example": {
+                "en": "Tom studied the document carefully.",
+                "vi": "Tom nghiên cứu tài liệu một cách cẩn thận."
+            }
+        }
+    ]
+}

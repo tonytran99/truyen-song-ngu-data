@@ -1,0 +1,46 @@
+{
+    "word": "canton",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanˌtän/",
+            "/ˈkænˌtɑn/",
+            "/ˈkant(ə)n/",
+            "/ˈkænt(ə)n/",
+            "/kanˈtän/",
+            "/kænˈtɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkantɒn/",
+            "/kanˈtɒn/",
+            "/ˈkant(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tổng",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "Console, there's a fight on Canton Rd...",
+                "vi": "Thông báo với tổng đài, có người đánh nhau"
+            }
+        },
+        {
+            "content": "bang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chia thành tổng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

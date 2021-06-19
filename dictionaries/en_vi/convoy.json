@@ -1,0 +1,78 @@
+{
+    "word": "convoy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌvoi/",
+            "/ˈkɑnˌvɔɪ/",
+            "/kənˈvoi/",
+            "/kənˈvɔɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnvɔɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoàn hộ tống",
+            "type": "noun",
+            "example": {
+                "en": "You're gonna go after those guys that hit my convoy, huh?",
+                "vi": "Các cậu sẽ đuổi theo bọn đã hạ đoàn hộ tống của tôi chứ hả?"
+            }
+        },
+        {
+            "content": "hộ tống",
+            "type": "",
+            "example": {
+                "en": "You're gonna go after those guys that hit my convoy, huh?",
+                "vi": "Các cậu sẽ đuổi theo bọn đã hạ đoàn hộ tống của tôi chứ hả?"
+            }
+        },
+        {
+            "content": "hộ vệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hộ tống",
+            "type": "",
+            "example": {
+                "en": "And Minister Ahmad will wait with the convoy by the horses.",
+                "vi": "Và Thượng thư bộ công Ahmad sẽ đợi ở ngoài trong sự hộ tống"
+            }
+        },
+        {
+            "content": "sự hộ vệ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "áp tải",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đoàn hộ vệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn đuợc hộ tống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoàn được hộ tống",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

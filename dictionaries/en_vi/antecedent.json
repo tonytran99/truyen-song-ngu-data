@@ -1,0 +1,80 @@
+{
+    "word": "antecedent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)əˈsēdnt/",
+            "/ˌæn(t)əˈsidnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌantɪˈsiːd(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiền kiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền đề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mệnh đề đứng trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền lệ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiền nghiệm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền ngữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật đứng trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật ở trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "về phía trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứng trước",
+            "type": "",
+            "example": {
+                "en": "\"Their\" is plural and \"everyone,\" its antecedent, is singular.",
+                "vi": "\"Their\" là số nhiều và \"everyone\", từ đứng trước nó, là số ít."
+            }
+        },
+        {
+            "content": "ở trước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

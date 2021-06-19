@@ -1,0 +1,39 @@
+{
+    "word": "eyepiece",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīˌpēs/",
+            "/ˈaɪˌpis/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪpiːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thị kính",
+            "type": "noun",
+            "example": {
+                "en": "Astronomers no longer peered through the eyepiece of the new giant.",
+                "vi": "Các nhà thiên văn không còn nhìn trực tiếp qua thị kính nữa."
+            }
+        },
+        {
+            "content": "kính mắt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kính nhìn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

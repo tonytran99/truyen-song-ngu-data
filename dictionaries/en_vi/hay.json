@@ -1,0 +1,78 @@
+{
+    "word": "hay",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hā/",
+            "/heɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/heɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cỏ khô",
+            "type": "noun",
+            "example": {
+                "en": "He was then placed in a barn and filled with hay .",
+                "vi": "Nó được đặt trong chuồng bò , và phủ lên trên bằng một lớp cỏ khô ."
+            }
+        },
+        {
+            "content": "cắt cỏ cho thú vật",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cho ăn cỏ khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắt cỏ cho thú vật to cut grass for animals",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dỡ cỏ phơi khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phơi khô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trồng cỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Rơm",
+            "type": "",
+            "example": {
+                "en": "And basically we took hay and crab apples",
+                "vi": "Và căn bản chúng tôi dùng rơm và táo dại"
+            }
+        },
+        {
+            "content": "",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

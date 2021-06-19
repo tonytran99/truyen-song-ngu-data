@@ -1,0 +1,62 @@
+{
+    "word": "correlation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkôrəˈlāSH(ə)n/",
+            "/ˌkɔrəˈleɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒrəˈleɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tương quan",
+            "type": "",
+            "example": {
+                "en": "And they can do it because they don't link causation and correlation.",
+                "vi": "Họ có thể vì họ không liên kết kết quả với sự tương quan."
+            }
+        },
+        {
+            "content": "phép đối xạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đs",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỷ lệ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể tương liên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương quan",
+            "type": "",
+            "example": {
+                "en": "Try to tell me if there's a correlation between the cowboy and the taxi driver.",
+                "vi": "Hãy cho ta biết nếu có sự tương quan giữa cao bồi và người lái xe taxi."
+            }
+        },
+        {
+            "content": "Hệ số tương quan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

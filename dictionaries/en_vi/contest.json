@@ -1,0 +1,114 @@
+{
+    "word": "contest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌtest/",
+            "/ˈkɑnˌtɛst/",
+            "/kənˈtest/",
+            "/kənˈtɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒntɛst/",
+            "/kənˈtɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuộc thi",
+            "type": "noun",
+            "example": {
+                "en": "The games were more than simple athletic contests.",
+                "vi": "Các cuộc thi đấu không chỉ là những màn tranh giải điền kinh đơn giản."
+            }
+        },
+        {
+            "content": "tranh",
+            "type": "verb noun",
+            "example": {
+                "en": "And breaches of the games’ rules were heavily penalized by barring the violators from the contests.",
+                "vi": "Ngoài ra, ai vi phạm luật lệ cuộc thi sẽ bị phạt nặng, cấm không được tranh giải."
+            }
+        },
+        {
+            "content": "cuộc chiến đấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc tranh cãi",
+            "type": "",
+            "example": {
+                "en": "The long contest between predator and prey has produced mimicry of astounding accuracy.",
+                "vi": "Cuộc tranh cãi kéo dài giữa thú săn mồi và con mồi đã sản sinh ra sự bắt chước chính xác đến không ngờ."
+            }
+        },
+        {
+            "content": "cuộc tranh luận",
+            "type": "",
+            "example": {
+                "en": "A victor in a thousand contests,",
+                "vi": "Người thắng cả ngàn cuộc tranh luận,"
+            }
+        },
+        {
+            "content": "cuộc đấu tranh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh cãi",
+            "type": "",
+            "example": {
+                "en": "group selection, evolutionary psychology are contested, to be sure.",
+                "vi": "chọn lọc giống loài, tâm lí học tiến hóa được tranh cãi rất nhiều."
+            }
+        },
+        {
+            "content": "tranh cử",
+            "type": "",
+            "example": {
+                "en": "In Kenya, contested presidential elections in 2007 —",
+                "vi": "Ở Kenya, cuộc tranh cử Tổng Thống năm 2007"
+            }
+        },
+        {
+            "content": "tranh giành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh luận",
+            "type": "",
+            "example": {
+                "en": "Debating truth is one thing, contesting it another.",
+                "vi": "Tranh luận sự thật là một việc, biện bác nó lại là một việc khác."
+            }
+        },
+        {
+            "content": "tranh đoạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận giao tranh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trận đấu",
+            "type": "noun",
+            "example": {
+                "en": "What's the prize to winning this stupid contest?",
+                "vi": "Phần thưởng cho trận đấu ngớ ngẩn này là gì?"
+            }
+        }
+    ]
+}

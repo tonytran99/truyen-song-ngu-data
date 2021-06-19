@@ -1,0 +1,53 @@
+{
+    "word": "chosen",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHōzən/",
+            "/ˈtʃoʊzən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃəʊzn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chọn",
+            "type": "verb",
+            "example": {
+                "en": "It's no surprise that they've chosen a weapon to be a compound bow.",
+                "vi": "Không ngạc nhiên khi họ chọn vũ khí là cung trợ lực."
+            }
+        },
+        {
+            "content": "kén chọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lựa chọn",
+            "type": "",
+            "example": {
+                "en": "All your favorites, all your chosen, they are suffering!",
+                "vi": "Những thứ anh yêu thích, những kẻ anh lựa chọn, chúng đang gánh chịu!"
+            }
+        },
+        {
+            "content": "thách muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trúng tuyển",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

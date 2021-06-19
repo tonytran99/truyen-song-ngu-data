@@ -1,0 +1,40 @@
+{
+    "word": "decease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsēs/",
+            "/dəˈsis/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsiːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {
+                "en": "A live human body and a deceased human body have the same number of particles.",
+                "vi": "Một cơ thể sống và một cơ thể chết cũng chỉ có từng đấy hạt."
+            }
+        },
+        {
+            "content": "sự chết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự qua đời",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

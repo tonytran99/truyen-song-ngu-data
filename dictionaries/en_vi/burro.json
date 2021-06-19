@@ -1,0 +1,39 @@
+{
+    "word": "burro",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərō/",
+            "/ˈbəroʊ/",
+            "/ˈbo͝orō/",
+            "/ˈbʊroʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊrəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lừa",
+            "type": "noun",
+            "example": {
+                "en": "Could the burro have a grazing problem?Then he' d be more relatable",
+                "vi": "Con lừa đó có biết gặm cỏ không Biết thì mới đúng"
+            }
+        },
+        {
+            "content": "lừa thồ",
+            "type": "",
+            "example": {
+                "en": "Your mule for that burro?",
+                "vi": "Con la của Sơ đổi con lừa thồ đó?"
+            }
+        }
+    ]
+}

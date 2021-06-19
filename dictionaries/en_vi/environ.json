@@ -1,0 +1,48 @@
+{
+    "word": "environ",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈvīrən/",
+            "/ənˈvaɪrən/",
+            "/ənˈvī(ə)rn/",
+            "/ənˈvaɪ(ə)rn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvʌɪrən/",
+            "/ɛnˈvʌɪrən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao quanh",
+            "type": "verb",
+            "example": {
+                "en": "Like the wall surrounding a factory, the membrane of a cell shields the contents from a potentially hostile environment.",
+                "vi": "Như bức tường bao quanh nhà máy, màng tế bào bảo vệ môi trường bên trong khỏi những mối nguy hiểm tiềm tàng bên ngoài."
+            }
+        },
+        {
+            "content": "bao vây",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vây quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng quanh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

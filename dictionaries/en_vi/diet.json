@@ -1,0 +1,103 @@
+{
+    "word": "diet",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdīət/",
+            "/ˈdaɪət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiêng ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhịn ăn",
+            "type": "",
+            "example": {
+                "en": "Is there any pills for diet?",
+                "vi": "Có thuốc gì để nhịn ăn không?"
+            }
+        },
+        {
+            "content": "chế độ ăn kiêng",
+            "type": "",
+            "example": {
+                "en": "Now, of course, I'm sure you've heard about the alphabet diet.",
+                "vi": "Bây giờ, tôi chắc là các bạn đã nghe về chế độ ăn kiêng alphabet."
+            }
+        },
+        {
+            "content": "chế độ ăn uống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn kiêng",
+            "type": "",
+            "example": {
+                "en": "I have been on a diet for two weeks.",
+                "vi": "Tôi đã ăn kiêng hai tuần nay rồi."
+            }
+        },
+        {
+            "content": "bắt ăn kiêng",
+            "type": "",
+            "example": {
+                "en": "His old lady's got him on a diet.",
+                "vi": "Bà vợ già của anh ta đang bắt ăn kiêng."
+            }
+        },
+        {
+            "content": "cuộc họp một ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội nghị quốc tế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghị viên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kiêng ăn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự ăn kiêng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đồ ăn thường ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bữa ăn",
+            "type": "",
+            "example": {
+                "en": "I try to eat a rich and varied diet with just the occasional big blowout.",
+                "vi": "Thỉnh thoảng, tôi cố ăn một bữa ăn đa dạng và giàu dinh dưỡng."
+            }
+        }
+    ]
+}

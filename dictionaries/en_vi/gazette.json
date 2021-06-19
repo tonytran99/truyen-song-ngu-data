@@ -1,0 +1,55 @@
+{
+    "word": "gazette",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəˈzet/",
+            "/ɡəˈzɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəˈzɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báo",
+            "type": "noun verb",
+            "example": {
+                "en": "\" I should read Foxy's column. \" But they don't get the Gazette.",
+                "vi": "\" Tôi nên đọc chuyên mục của Foxy, \" nhưng ko được đăng báo hàng ngày"
+            }
+        },
+        {
+            "content": "công báo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "báo hằng ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhật báo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đăng trong công báo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tờ báo",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

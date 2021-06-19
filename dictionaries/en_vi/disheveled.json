@@ -1,0 +1,42 @@
+{
+    "word": "disheveled",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈSHevəld/",
+            "/dəˈʃɛvəld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bơ phờ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "luộm thuộm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lôi thôi",
+            "type": "adjective",
+            "example": {
+                "en": "So when the conventioners arrive in the area where the convention is to be held, their appearance is often somewhat disheveled.",
+                "vi": "Vì thế khi tới địa điểm đại hội, ngoại diện của họ thường lôi thôi."
+            }
+        },
+        {
+            "content": "nhếch nhác",
+            "type": "adjective",
+            "example": {
+                "en": "this character into this dizzying disarray of dishevelment.",
+                "vi": "nhân vật rơi vào tình trạng nhếch nhác do chóng mặt quay mòng mòng."
+            }
+        }
+    ]
+}

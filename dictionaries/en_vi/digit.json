@@ -1,0 +1,98 @@
+{
+    "word": "digit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdijit/",
+            "/ˈdɪdʒɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪdʒɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngón tay",
+            "type": "noun",
+            "example": {
+                "en": "As you can see, I use my finger to interact with my digital body.",
+                "vi": "Như bạn thấy, tôi dùng ngón tay mình để tương tác với cơ thể kĩ thuật số đây."
+            }
+        },
+        {
+            "content": "chữ số",
+            "type": "noun",
+            "example": {
+                "en": "She was a digit, a nanobyte in a stream of data.",
+                "vi": "Cô ấy là một chữ số, một nanobyte trong dòng chảy dữ liệu."
+            }
+        },
+        {
+            "content": "ngón",
+            "type": "",
+            "example": {
+                "en": "Because you need ten extra digits.",
+                "vi": "Cô cần thêm 10 ngón tay nữa để giúp đỡ."
+            }
+        },
+        {
+            "content": "con số",
+            "type": "noun",
+            "example": {
+                "en": "At the time, we had two-digit inflation every month.",
+                "vi": "Vào lúc đó, chúng tôi có tỷ lệ lạm phát tới mức hai con số mỗi tháng."
+            }
+        },
+        {
+            "content": "số",
+            "type": "noun",
+            "example": {
+                "en": "Look, the world has changed from analog to digital.",
+                "vi": "Nhìn xem, thế giới đã thay đổi từ tỷ biến sang số hóa."
+            }
+        },
+        {
+            "content": "ngón chân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiện số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hàng số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ký số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số tự",
+            "type": "",
+            "example": {
+                "en": "For television, the Conference Center provides a digital, high-definition signal.",
+                "vi": "Trung Tâm Đại Hội cung ứng tín hiệu bằng số tự có độ nét cao."
+            }
+        },
+        {
+            "content": "Ngón",
+            "type": "",
+            "example": {
+                "en": "I use my finger to interact with my digital body.",
+                "vi": "tôi dùng ngón tay mình để tương tác với cơ thể kĩ thuật số đây."
+            }
+        }
+    ]
+}

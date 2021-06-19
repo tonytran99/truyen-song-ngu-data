@@ -1,0 +1,52 @@
+{
+    "word": "wounded",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwo͞ondəd/",
+            "/ˈwundəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwuːndɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị thương",
+            "type": "adjective",
+            "example": {
+                "en": "And then whined about it like a wounded dog.",
+                "vi": "Rồi rên rỉ về chuyện đó như một con chó bị thương."
+            }
+        },
+        {
+            "content": "bị tổn thương",
+            "type": "",
+            "example": {
+                "en": "There's something wounded about her, if you ask me.",
+                "vi": "Nếu em muốn biết thì anh thấy cô ấy cũng bị tổn thương đâu đó."
+            }
+        },
+        {
+            "content": "bị xúc phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thương binh",
+            "type": "",
+            "example": {
+                "en": "I found your son's name on a list of wounded.",
+                "vi": "Tôi thấy tên con trai anh trong danh sách thương binh."
+            }
+        }
+    ]
+}

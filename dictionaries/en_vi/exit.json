@@ -1,0 +1,153 @@
+{
+    "word": "exit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeɡzət/",
+            "/ˈɛɡzət/",
+            "/ˈeksət/",
+            "/ˈɛksət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛksɪt/",
+            "/ˈɛɡzɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lối ra",
+            "type": "noun",
+            "example": {
+                "en": "The blind man felt his way toward the exit.",
+                "vi": "Người đàn ông mù lần mò về phía lối ra."
+            }
+        },
+        {
+            "content": "cửa ra",
+            "type": "noun",
+            "example": {
+                "en": "We'll send the containment module down to the South exit.",
+                "vi": "Chúng tôi sẽ cho một buồng ngăn chặn xuống cửa ra phía Nam."
+            }
+        },
+        {
+            "content": "lối thoát",
+            "type": "noun",
+            "example": {
+                "en": "Excuse me, where's the exit?",
+                "vi": "Xin lỗi, lối thoát hiểm nằm ở đâu?"
+            }
+        },
+        {
+            "content": "sự đi khỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thoát",
+            "type": "",
+            "example": {
+                "en": "Excuse me, where's the exit?",
+                "vi": "Xin lỗi, lối thoát hiểm nằm ở đâu?"
+            }
+        },
+        {
+            "content": "vào",
+            "type": "verb adposition",
+            "example": {
+                "en": "Block all exits, cut off their supplies.",
+                "vi": "Chặn mọi lối ra vào, cắt nguồn tiếp tế."
+            }
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {
+                "en": "Checking exits, numbers of men, weapons inventory.",
+                "vi": "Kiểm tra số người chết, số lượng người, kho vũ khí"
+            }
+        },
+        {
+            "content": "ngõ ra",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biến mất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lìa trần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ra khỏi",
+            "type": "",
+            "example": {
+                "en": "All personnel are subject to search upon exiting the Pentagon.",
+                "vi": "Mọi nhân viên đều không tránh khỏi khám sét khi ra khỏi Lầu năm góc."
+            }
+        },
+        {
+            "content": "sự chết",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự lìa trần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đi ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thoát ra",
+            "type": "",
+            "example": {
+                "en": "You wouldn't put yourself in here without an exit strategy.",
+                "vi": "Ngươi sẽ không chui vào đây mà không có một đường thoát ra."
+            }
+        },
+        {
+            "content": "đi vào",
+            "type": "verb",
+            "example": {
+                "en": "A nice, red Mercedes enters a parking and a classic grey mercedes exits and dissappears.",
+                "vi": "Một chiếc Mercedes đỏ đi vào bãi xe... một chiếc Mercedes màu xám cổ điển đi ra và biến mất."
+            }
+        },
+        {
+            "content": "ra",
+            "type": "noun verb",
+            "example": {
+                "en": "The blind man felt his way toward the exit.",
+                "vi": "Người đàn ông mù lần mò về phía lối ra."
+            }
+        },
+        {
+            "content": "rời khỏi",
+            "type": "verb",
+            "example": {
+                "en": "Tire treads indicate that he exited by the south side of the building.",
+                "vi": "Theo dấu vết để lại thì hắn rời khỏi tòa nhà từ cửa nam."
+            }
+        }
+    ]
+}

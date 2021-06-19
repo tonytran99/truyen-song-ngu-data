@@ -1,0 +1,36 @@
+{
+    "word": "computerization",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/kəmˌpyo͞odərəˈzāSHən/",
+            "/kəmˌpjudərəˈzeɪʃən/",
+            "/kəmˌpyo͞odəˌrīˈzāSHən/",
+            "/kəmˌpjudəˌraɪˈzeɪʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmpjuːtərʌɪˈzeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện toán hóa",
+            "type": "noun",
+            "example": {
+                "en": "Now this is a ten-inch valve - computerized.",
+                "vi": "Bây giờ là chiếc van kích thước 10 in. - điện toán hóa."
+            }
+        },
+        {
+            "content": "dùng máy điện toán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

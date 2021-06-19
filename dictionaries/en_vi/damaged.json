@@ -1,0 +1,38 @@
+{
+    "word": "damaged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "bị hư hại",
+            "type": "",
+            "example": {
+                "en": "The Society’s offices were quite damaged from the bombing.",
+                "vi": "Các văn phòng của Hội bị hư hại nhiều vì bom."
+            }
+        },
+        {
+            "content": "bị tổn hại",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps his chi is more damaged than we thought.",
+                "vi": "Có lẽ khí của cậu ấy bị tổn hại nhiều hơn ta nghĩ."
+            }
+        },
+        {
+            "content": "hư hại",
+            "type": "adjective",
+            "example": {
+                "en": "It's very easy to do more damage to those damaged photos.",
+                "vi": "Rất dễ gây thêm hư hại cho những hình ảnh đã hư hại này."
+            }
+        },
+        {
+            "content": "suy suyển",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

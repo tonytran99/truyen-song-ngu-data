@@ -1,0 +1,40 @@
+{
+    "word": "genitive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjenədiv/",
+            "/ˈdʒɛnədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɛnɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh cách",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cách",
+            "type": "verb noun",
+            "example": {
+                "en": "Genital transformation is, to me, a little scary, because it involves a revolution...",
+                "vi": "Biến đổi bộ phận sinh dục thì, với tôi, hơi đáng sợ, vì chuyện đó liên quan đến một cuộc cách mạng..."
+            }
+        },
+        {
+            "content": "sở hữu",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

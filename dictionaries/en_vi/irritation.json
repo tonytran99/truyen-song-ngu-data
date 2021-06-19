@@ -1,0 +1,47 @@
+{
+    "word": "irritation",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌirəˈtāSH(ə)n/",
+            "/ˌɪrəˈteɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪrɪˈteɪʃn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "Colds and other viruses may also irritate the lining of the nose .",
+                "vi": "Bệnh cảm lạnh và nhiều loại vi-rút khác cũng có thể làm kích thích niêm mạc mũi ."
+            }
+        },
+        {
+            "content": "sự chọc tức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kích thích",
+            "type": "",
+            "example": {
+                "en": "Taste and odor irritation delayed perception.",
+                "vi": "Sự kích thích tri giác làm giảm quá trình nhận thức."
+            }
+        },
+        {
+            "content": "sự làm phát cáu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

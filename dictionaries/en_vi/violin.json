@@ -1,0 +1,51 @@
+{
+    "word": "violin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvīəˈlin/",
+            "/ˌvaɪəˈlɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vʌɪəˈlɪn/",
+            "/ˈvʌɪəlɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vĩ cầm",
+            "type": "noun",
+            "example": {
+                "en": "He made the trombone sound like a violin!",
+                "vi": "Anh đã làm kèn trombon nghe giống như tiếng vĩ cầm!"
+            }
+        },
+        {
+            "content": "người chơi viôlông",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn viôlông",
+            "type": "",
+            "example": {
+                "en": "Flowing water acts like a theremin or a violin.",
+                "vi": "Dòng nước chảy đóng vai trò như một cây đàn viôlông"
+            }
+        },
+        {
+            "content": "Vĩ cầm",
+            "type": "",
+            "example": {
+                "en": "Is our little red violin,'The Red Violin'?",
+                "vi": "Có phải cây đàn màu đỏ là cây Vĩ Cầm Đỏ?"
+            }
+        }
+    ]
+}

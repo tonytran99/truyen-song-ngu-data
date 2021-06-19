@@ -1,0 +1,106 @@
+{
+    "word": "complement",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämpləmənt/",
+            "/ˈkɑmpləmənt/",
+            "/ˈkämpləˌment/",
+            "/ˈkɑmpləˌmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmplɪm(ə)nt/",
+            "/ˈkɒmplɪmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bổ ngữ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phần bù",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phần bổ sung",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đủ",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "bổ túc",
+            "type": "noun",
+            "example": {
+                "en": "She was a suitable counterpart, a satisfying complement for the man.",
+                "vi": "Người nữ là người bổ túc thích hợp cho người nam."
+            }
+        },
+        {
+            "content": "phần phụ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bù cho đầy đủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bổ khuyết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bổ sung",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "The rational and the irrational complement each other.",
+                "vi": "Có lý trí hay không có lý trí bổ sung cho nhau."
+            }
+        },
+        {
+            "content": "bổ thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng làm phần bù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quân số đầy đủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể bù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phần bù",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

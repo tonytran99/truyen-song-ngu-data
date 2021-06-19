@@ -1,0 +1,60 @@
+{
+    "word": "developer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈveləpər/",
+            "/dəˈvɛləpər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvɛləpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà phát triển",
+            "type": "",
+            "example": {
+                "en": "Calhoun's got a lot of security for a real-estate developer.",
+                "vi": "Vâng, Calhoun có rất nhiều an ninh cho một nhà phát triển bất động sản."
+            }
+        },
+        {
+            "content": "người rửa ảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc rửa ảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lập trình viên",
+            "type": "noun",
+            "example": {
+                "en": "The last thing they want to do is put more friction in front of developers . \"",
+                "vi": "Điều họ không muốn làm nhất là gây thêm căng thẳng cho lập trình viên \" ."
+            }
+        },
+        {
+            "content": "người phát triển",
+            "type": "",
+            "example": {
+                "en": "We talked to people who have developed drugs.",
+                "vi": "Chúng tôi nói chuyện với những người phát triển thuốc."
+            }
+        },
+        {
+            "content": "thuốc hiện hình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

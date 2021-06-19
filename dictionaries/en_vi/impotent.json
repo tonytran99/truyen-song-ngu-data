@@ -1,0 +1,48 @@
+{
+    "word": "impotent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈimpətnt/",
+            "/ˈɪmpətnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmpət(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất lực",
+            "type": "adjective",
+            "example": {
+                "en": "Women that he blamed for his impotence.",
+                "vi": "Người phụ nữ mà hắn đổ lỗi cho sự bất lực của mình."
+            }
+        },
+        {
+            "content": "liệt dương",
+            "type": "adjective",
+            "example": {
+                "en": "I specialize in teenage impotency.",
+                "vi": "Chuyên môn về bệnh liệt dương ở thời kỳ teen."
+            }
+        },
+        {
+            "content": "lọm khọm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "yếu đuối",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

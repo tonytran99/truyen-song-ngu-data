@@ -1,0 +1,124 @@
+{
+    "word": "underground",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌɡround/",
+            "/ˈəndərˌɡraʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈɡraʊnd/",
+            "/ˈʌndəɡraʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngầm",
+            "type": "adjective, noun",
+            "example": {
+                "en": "After this, I no longer work for the underground.",
+                "vi": "Bởi vậy tôi không thích hợp cho hoạt động ngầm."
+            }
+        },
+        {
+            "content": "xe điện ngầm",
+            "type": "noun",
+            "example": {
+                "en": "Paris’ central underground station, Châtelet-Les-Halles, is said to be the world’s largest and busiest.",
+                "vi": "Ga xe điện ngầm trung tâm Paris, Châtelet-Les-Halles, được cho là ga rộng lớn nhất và nhộn nhịp nhất thế giới."
+            }
+        },
+        {
+            "content": "bí mật",
+            "type": "adjective noun",
+            "example": {
+                "en": "Finding a good location for underground printing was also difficult.",
+                "vi": "Tìm được địa điểm để bí mật in ấn cũng là vấn đề."
+            }
+        },
+        {
+            "content": "kín",
+            "type": "",
+            "example": {
+                "en": "During the persecution, our brothers carried on the preaching work underground.",
+                "vi": "Trong thời gian bị ngược đãi, anh em chúng ta vẫn rao giảng cách kín đáo."
+            }
+        },
+        {
+            "content": "chìm dưới đất",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "dưới lòng đất",
+            "type": "noun",
+            "example": {
+                "en": "Evaporation at the surface draws up underground moisture.",
+                "vi": "Sự bốc hơi trên bề mặt hút hơi ẩm từ dưới lòng đất lên."
+            }
+        },
+        {
+            "content": "dưới đất",
+            "type": "",
+            "example": {
+                "en": "Ladies and gentlemen, welcome to my underground lair.",
+                "vi": "Mọi người, chào mừng đến hang ổ dưới đất của ta."
+            }
+        },
+        {
+            "content": "nằm dưới lòng đất",
+            "type": "noun",
+            "example": {
+                "en": "The answer is underground. And it's very ingenious.",
+                "vi": "Câu trả lời nằm dưới lòng đất, và rất là mưu trí."
+            }
+        },
+        {
+            "content": "ở dưới mặt đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mêtrô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoảng dưới mặt đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong trào bí mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chống đối ngầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàu điện ngầm",
+            "type": "",
+            "example": {
+                "en": "Underground garages, tunnels, et cetera.",
+                "vi": "Bãi đỗ xe, đường hầm tàu điện ngầm, vân vân..."
+            }
+        },
+        {
+            "content": "metro",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

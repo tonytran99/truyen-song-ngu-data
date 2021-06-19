@@ -1,0 +1,35 @@
+{
+    "word": "euclid",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyo͞oklid/",
+            "/ˈjuklɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjuːklɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà toán học O-clit",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "euclid",
+            "type": "",
+            "example": {
+                "en": "The ancient Greek mathematician Euclid is known as the father of geometry .",
+                "vi": "Nhà toán học Hy Lạp cổ đại Euclid được coi là ông tổ hình học ."
+            }
+        }
+    ]
+}

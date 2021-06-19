@@ -1,0 +1,103 @@
+{
+    "word": "across",
+    "type": [
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkrôs/",
+            "/əˈkrɔs/",
+            "/əˈkräs/",
+            "/əˈkrɑs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkrɒs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngang",
+            "type": "adjective",
+            "example": {
+                "en": "Your son dragged me halfway across this wretched city.",
+                "vi": "Con trai cô đã kéo tôi chạy băng ngang cả thành phố tồi tệ này."
+            }
+        },
+        {
+            "content": "qua",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "The only access to the farmhouse is across the fields.",
+                "vi": "Lối duy nhất dẫn vào trang trại là băng qua các cánh đồng."
+            }
+        },
+        {
+            "content": "bên kia",
+            "type": "adposition",
+            "example": {
+                "en": "Tom teaches history at the high school across the street.",
+                "vi": "Tom dạy lịch sử ở trường trung học phía bên kia đường."
+            }
+        },
+        {
+            "content": "ngang qua",
+            "type": "adposition",
+            "example": {
+                "en": "You came across me so many times and yet you never saw me.",
+                "vi": "Anh đã đi ngang qua tôi rất nhiều lần nhưng anh không bao giờ biết tôi."
+            }
+        },
+        {
+            "content": "phía bên kia",
+            "type": "adposition",
+            "example": {
+                "en": "Tom teaches history at the high school across the street.",
+                "vi": "Tom dạy lịch sử ở trường trung học phía bên kia đường."
+            }
+        },
+        {
+            "content": "bắt chéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chéo chữ thập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chéo nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trả thù ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trừng phạt ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh lừa ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở bên kia",
+            "type": "",
+            "example": {
+                "en": "My wife was across the street and motioned to Cooper to cross.",
+                "vi": "Vợ tôi đang ở bên kia đường và ra hiệu cho Cooper băng qua đường."
+            }
+        }
+    ]
+}

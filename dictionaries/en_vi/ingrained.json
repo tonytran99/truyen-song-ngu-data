@@ -1,0 +1,35 @@
+{
+    "word": "ingrained",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈɡrānd/",
+            "/ɪnˈɡreɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɡreɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thâm căn cố đế",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ăn sâu",
+            "type": "adjective",
+            "example": {
+                "en": "However, her ingrained bad habits made progress difficult.",
+                "vi": "Tuy nhiên, chị có những tính xấu đã quá ăn sâu làm chị khó tiến bộ."
+            }
+        }
+    ]
+}

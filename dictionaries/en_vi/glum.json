@@ -1,0 +1,56 @@
+{
+    "word": "glum",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡləm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡlʌm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rầu rĩ",
+            "type": "",
+            "example": {
+                "en": "Don't be so glum.",
+                "vi": "Đừng có rầu rĩ quá như thế."
+            }
+        },
+        {
+            "content": "ủ rũ",
+            "type": "",
+            "example": {
+                "en": "Don't be so glum.",
+                "vi": "Đừng ủ rũ thế."
+            }
+        },
+        {
+            "content": "buồn bã",
+            "type": "",
+            "example": {
+                "en": "Don't Look so glum, Lieutenant.",
+                "vi": "Đừng nhìn buồn bã vậy, tướng quân."
+            }
+        },
+        {
+            "content": "cau có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhăn nhó",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

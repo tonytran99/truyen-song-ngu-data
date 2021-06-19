@@ -1,0 +1,70 @@
+{
+    "word": "versus",
+    "type": [
+        "conjunction",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərsəs/",
+            "/ˈvərsəz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəːsəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chống lại",
+            "type": "",
+            "example": {
+                "en": "In the struggle of man versus disease, will the microbes gain the upper hand?",
+                "vi": "Trong cuộc chiến của con người chống lại dịch bệnh, phải chăng vi trùng sẽ thắng?"
+            }
+        },
+        {
+            "content": "đấu với",
+            "type": "",
+            "example": {
+                "en": "So that's kind of a caoníma versus the héxiè, that's very good.",
+                "vi": "Như vậy chúng ta có thảo nê mã đấu với hà giải, nghe rất ngay."
+            }
+        },
+        {
+            "content": "chống",
+            "type": "",
+            "example": {
+                "en": "In the struggle of man versus disease, will the microbes gain the upper hand?",
+                "vi": "Trong cuộc chiến của con người chống lại dịch bệnh, phải chăng vi trùng sẽ thắng?"
+            }
+        },
+        {
+            "content": "và",
+            "type": "adjective conjunction verb",
+            "example": {
+                "en": "Harry, I was thinking some more about this reality versus fiction.",
+                "vi": "Harry, tôi đang nghĩ về vài thứ khác nhau giữa thực tế và phim ảnh."
+            }
+        },
+        {
+            "content": "đối",
+            "type": "verb",
+            "example": {
+                "en": "This is age versus cost of health care.",
+                "vi": "Đây là độ tuối đối lập với chi phí chăm sóc sức khỏe"
+            }
+        },
+        {
+            "content": "đối đầu",
+            "type": "",
+            "example": {
+                "en": "But when it comes down to you and me versus him, I'm sorry.",
+                "vi": "Nhưng khi sự thể thành ra mày và thầy đối đầu hắn, thầy rất tiếc."
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "yell",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yel/",
+            "/jɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "la hét",
+            "type": "",
+            "example": {
+                "en": "I thought we'd just run down there yelling and thumping our chests, try and scare them to death.",
+                "vi": "Không phải cứ chạy ra đó la hét và vỗ ngực làm chúng sợ chết khiếp?"
+            }
+        },
+        {
+            "content": "kêu la",
+            "type": "",
+            "example": {
+                "en": "One of them yelled for help and drowned.",
+                "vi": "Một con kêu la cầu cứu và bị chết đuối."
+            }
+        },
+        {
+            "content": "sự kêu la",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rú",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhí nhéo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự la hét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thét lác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng la hét",
+            "type": "",
+            "example": {
+                "en": "Sometimes, all you could hear were the flat, hard, packing sounds over the yelling.",
+                "vi": "Thỉnh thoảng, những gì bạn nghe được chỉ là, âm thanh đều đều nặng nề ngoài tiếng la hét."
+            }
+        },
+        {
+            "content": "tiếng thét lác;",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

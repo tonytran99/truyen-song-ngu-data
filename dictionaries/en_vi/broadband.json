@@ -1,0 +1,43 @@
+{
+    "word": "broadband",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrôdˌband/",
+            "/ˈbrɔdˌbænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɔːdband/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "băng rộng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "băng thông rộng",
+            "type": "",
+            "example": {
+                "en": "Well, what is a megabyte or megabit? And what is broadband?",
+                "vi": "megabyte hay megabit là cái gì? Và băng thông rộng là gì?"
+            }
+        },
+        {
+            "content": "dải sóng rộng",
+            "type": "",
+            "example": {
+                "en": "A device which creates a cardiac arrest for broadband circuitry.",
+                "vi": "Là một cái máy, tạo ra kích thích trong mạch điện dải sóng rộng."
+            }
+        }
+    ]
+}

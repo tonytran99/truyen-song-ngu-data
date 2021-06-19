@@ -1,0 +1,102 @@
+{
+    "word": "ever",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈevər/",
+            "/ˈɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao giờ",
+            "type": "adverb",
+            "example": {
+                "en": "Have you ever worked with them?",
+                "vi": "Cậu làm việc với họ bao giờ chưa?"
+            }
+        },
+        {
+            "content": "từng",
+            "type": "adverb",
+            "example": {
+                "en": "Tom is the best employee we've ever had.",
+                "vi": "Tom là nhân viên tốt nhất mà chúng ta chưa từng có."
+            }
+        },
+        {
+            "content": "luôn luôn",
+            "type": "adverb",
+            "example": {
+                "en": "We must be ever vigilant to avoid his enticements.",
+                "vi": "Chúng ta phải luôn luôn cảnh giác để tránh những cám dỗ của mình."
+            }
+        },
+        {
+            "content": "mãi mãi",
+            "type": "adverb",
+            "example": {
+                "en": "The snake that eats its own tail forever and ever.",
+                "vi": "Con rắn cắn chính đuôi của nó mãi mãi và mãi mãi."
+            }
+        },
+        {
+            "content": "nhỉ",
+            "type": "",
+            "example": {
+                "en": "Hey, how come none of us ever learned to play guitar?",
+                "vi": "Sao mà không ai trong nhà mình biết chơi guitar nhỉ?"
+            }
+        },
+        {
+            "content": "hàng",
+            "type": "adverb",
+            "example": {
+                "en": "I couldn't care less if clients ever called.",
+                "vi": "Nếu như khách hàng có gọi đến chắc tôi cũng không lo được."
+            }
+        },
+        {
+            "content": "thôi",
+            "type": "verb",
+            "example": {
+                "en": "AII you ever do is cause people trouble!",
+                "vi": "Lão chỉ giỏi mỗi trò ăn bám người ta thôi!"
+            }
+        },
+        {
+            "content": "từ trước đến giờ",
+            "type": "adverb",
+            "example": {
+                "en": "They think this is the funniest thing they've ever seen before.",
+                "vi": "Họ nghĩ đây là việc buồn cười nhất từ trước đến giờ."
+            }
+        },
+        {
+            "content": "luôn",
+            "type": "adverb",
+            "example": {
+                "en": "She walked away, and he's been wanting her back ever since.",
+                "vi": "Cô ta đã bỏ đi và hắn luôn muốn cô ta trở về từ khi đó."
+            }
+        },
+        {
+            "content": "liên tục",
+            "type": "",
+            "example": {
+                "en": "So ever since then, I just keep finding myself looking at men.",
+                "vi": "Vậy nên từ lúc đó, tôi liên tục nhận ra mình đang nhìn vào những người đàn ông."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "glutton",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlətn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡlʌt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ tham ăn",
+            "type": "noun",
+            "example": {
+                "en": "Glutton, hedonist former celestial body, recent addition to the human race.",
+                "vi": "Kẻ tham ăn, kẻ ham khoái lạc trước kia là người trên thiên đàng, giờ được thêm vào loài người."
+            }
+        },
+        {
+            "content": "chồn gulô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ham việc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ham đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người háu ăn",
+            "type": "noun",
+            "example": {
+                "en": "A person may be of normal size or may even be thin and yet be a glutton.",
+                "vi": "Một người có thể cân nặng bình thường hoặc ngay cả gầy nữa, nhưng lại là một người háu ăn."
+            }
+        }
+    ]
+}

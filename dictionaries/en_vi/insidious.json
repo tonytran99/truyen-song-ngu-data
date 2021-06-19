@@ -1,0 +1,52 @@
+{
+    "word": "insidious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsidēəs/",
+            "/ɪnˈsɪdiəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɪdɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "láu cá",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nham hiểm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "quỷ quyệt",
+            "type": "",
+            "example": {
+                "en": "But it is an insidious verb.",
+                "vi": "Nhưng \" nên \" là một động từ quỷ quyệt."
+            }
+        },
+        {
+            "content": "xảo quyệt",
+            "type": "adjective",
+            "example": {
+                "en": "What an insidious thing is this culture amidst which we live.",
+                "vi": "Chúng ta đang sống ở giữa tập tục này là điều rất xảo quyệt."
+            }
+        },
+        {
+            "content": "xảo trá",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

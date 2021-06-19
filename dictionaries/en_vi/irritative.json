@@ -1,0 +1,42 @@
+{
+    "word": "irritative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirəˌtādiv/",
+            "/ˈɪrəˌteɪdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪrɪtətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chọc tức",
+            "type": "",
+            "example": {
+                "en": "You didn't ask his secretary, you said that just to irritate him.",
+                "vi": "Anh không hề hỏi thư ký anh ta, anh nói vậy chỉ để chọc tức anh ta."
+            }
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "It's probably a mild skin irritation.",
+                "vi": "Có lẽ là kích thích da nhẹ thôi."
+            }
+        },
+        {
+            "content": "làm phát cáu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

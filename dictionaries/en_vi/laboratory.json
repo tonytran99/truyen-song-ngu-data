@@ -1,0 +1,56 @@
+{
+    "word": "laboratory",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlabrəˌtôrē/",
+            "/ˈlæbrəˌtɔri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ləˈbɒrəˌt(ə)ri/",
+            "/ˈlab(ə)rəˌt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng thí nghiệm",
+            "type": "noun",
+            "example": {
+                "en": "I couldn't take it to a laboratory and experiment with it.",
+                "vi": "Tôi không thể mang điều đó đến phòng thí nghiệm và mổ xẻ nó."
+            }
+        },
+        {
+            "content": "phòng thí nghiệm vi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phòng pha chế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phòng thí nghiệm",
+            "type": "",
+            "example": {
+                "en": "The largest particle physics laboratory on this planet.",
+                "vi": "Phòng thí nghiệm vật lý hạt lớn nhất trên hành tinh này."
+            }
+        },
+        {
+            "content": "phòng xét nghiệm",
+            "type": "",
+            "example": {
+                "en": "The two experiments were done under controlled laboratory conditions .",
+                "vi": "Hai thí nghiệm đã được thực hiện ở điều kiện được kiểm soát trong phòng xét nghiệm ."
+            }
+        }
+    ]
+}

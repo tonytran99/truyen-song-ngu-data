@@ -1,0 +1,47 @@
+{
+    "word": "headmaster",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhedˈmastər/",
+            "/ˌhɛdˈmæstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛdˈmɑːstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiệu trưởng",
+            "type": "noun",
+            "example": {
+                "en": "Thank you, headmaster, for those kind words of welcome.",
+                "vi": "Cám ơn ông, thưa ông hiệu trưởng, vì những lời chào đón tử tế."
+            }
+        },
+        {
+            "content": "校長",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thầy hiệu trưởng",
+            "type": "noun",
+            "example": {
+                "en": "I'm here just to show my face to the headmaster.",
+                "vi": "Tôi đến chỉ để xuất hiện trước thầy hiệu trưởng."
+            }
+        },
+        {
+            "content": "đốc",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

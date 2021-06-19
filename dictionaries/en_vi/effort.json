@@ -1,0 +1,79 @@
+{
+    "word": "effort",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈefərt/",
+            "/ˈɛfərt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛfət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nỗ lực",
+            "type": "noun",
+            "example": {
+                "en": "All participants made that great effort in the Olympics.",
+                "vi": "Tất cả các vận động viên đều nỗ lực tuyệt vời trong kỳ Thế vận hội."
+            }
+        },
+        {
+            "content": "努力",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cố gắng",
+            "type": "noun",
+            "example": {
+                "en": "A heroic effort is a collective effort, number one.",
+                "vi": "Sự cố gắng anh hùng là sự cố gắng tập thể, đó là điều thứ nhất."
+            }
+        },
+        {
+            "content": "công sức",
+            "type": "noun",
+            "example": {
+                "en": "Willingness to sacrifice the time and effort .",
+                "vi": "Sẵn sàng đầu tư thời gian và công sức ."
+            }
+        },
+        {
+            "content": "kết quả đạt được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cố thử làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ra tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ráng sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nỗ lực",
+            "type": "",
+            "example": {
+                "en": "Look at where she allocates her efforts, her energy, her attention.",
+                "vi": "Xem cô ấy phân bổ sự nỗ lực, sức lực, sự tập trung của cô ấy vào đâu."
+            }
+        }
+    ]
+}

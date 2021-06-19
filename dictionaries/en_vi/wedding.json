@@ -1,0 +1,67 @@
+{
+    "word": "wedding",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwediNG/",
+            "/ˈwɛdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đám cưới",
+            "type": "noun",
+            "example": {
+                "en": "So our wedding wasn't good?",
+                "vi": "Vậy là đám cưới của chúng tôi không tốt?"
+            }
+        },
+        {
+            "content": "lễ cưới",
+            "type": "",
+            "example": {
+                "en": "But this is your wedding we're talking about, Noc.",
+                "vi": "Nhưng giờ chúng ta đang nói về lễ cưới của cậu đó, Noc."
+            }
+        },
+        {
+            "content": "cưới",
+            "type": "verb",
+            "example": {
+                "en": "So our wedding wasn't good?",
+                "vi": "Vậy là đám cưới của chúng tôi không tốt?"
+            }
+        },
+        {
+            "content": "hỉ sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiệc cưới",
+            "type": "",
+            "example": {
+                "en": "You'll stay here and keep the wedding on track.",
+                "vi": "Anh ở lại đây để lo liệu tiệc cưới."
+            }
+        },
+        {
+            "content": "Lễ cưới",
+            "type": "",
+            "example": {
+                "en": "This wedding cannot take place until he is properly prepared.",
+                "vi": "Lễ cưới này chưa thể được cử hành cho đến khi nào hắn ta sẵn sàng."
+            }
+        }
+    ]
+}

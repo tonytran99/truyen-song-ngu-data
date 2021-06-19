@@ -1,0 +1,46 @@
+{
+    "word": "cavern",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkavərn/",
+            "/ˈkævərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkav(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động",
+            "type": "noun",
+            "example": {
+                "en": "They stay underground in caverns where it's dark.",
+                "vi": "Chúng ở dưới lòng đất, trong những hang động tối tăm."
+            }
+        },
+        {
+            "content": "hang",
+            "type": "noun",
+            "example": {
+                "en": "They stay underground in caverns where it's dark.",
+                "vi": "Chúng ở dưới lòng đất, trong những hang động tối tăm."
+            }
+        },
+        {
+            "content": "hang lớn",
+            "type": "noun",
+            "example": {
+                "en": "I am in a large men-made cavern adjoining the antechamber.",
+                "vi": "Tôi đang trong một cái hang lớn cạnh tiền sảnh."
+            }
+        }
+    ]
+}

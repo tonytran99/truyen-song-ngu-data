@@ -1,0 +1,577 @@
+{
+    "word": "do",
+    "type": [
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/do͞o/",
+            "/du/",
+            "/dō/",
+            "/doʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/duː/",
+            "/dəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {
+                "en": "All you have to do is follow his advice.",
+                "vi": "Mọi thứ bạn phải làm là thực hiện theo lời khuyên của anh ấy."
+            }
+        },
+        {
+            "content": "thực hiện",
+            "type": "verb",
+            "example": {
+                "en": "All you have to do is follow his advice.",
+                "vi": "Mọi thứ bạn phải làm là thực hiện theo lời khuyên của anh ấy."
+            }
+        },
+        {
+            "content": "được",
+            "type": "verb",
+            "example": {
+                "en": "What good does this useless rubbish do us?",
+                "vi": "Mớ rác vô dụng đó giúp gì được chúng ta?"
+            }
+        },
+        {
+            "content": "có",
+            "type": "verb",
+            "example": {
+                "en": "Where do I get the bus?",
+                "vi": "Tôi có thể đón xe buýt ở đâu?"
+            }
+        },
+        {
+            "content": "không",
+            "type": "verb",
+            "example": {
+                "en": "You don't have to tell me what to do. I already know.",
+                "vi": "Tôi biết rồi, không cần bạn chỉ đâu."
+            }
+        },
+        {
+            "content": "đóng vai",
+            "type": "",
+            "example": {
+                "en": "You know, I never knew it would be so much fun out here doing this real hero stuff.",
+                "vi": "Anh chưa bao giờ biết thật là vui không thể tả khi đóng vai anh hùng ngoài đời."
+            }
+        },
+        {
+            "content": "xong",
+            "type": "adjective verb",
+            "example": {
+                "en": "To do these documents is gonna take me months.",
+                "vi": "Làm xong đống bản vẽ đó phải mất hàng tháng."
+            }
+        },
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {
+                "en": "What do you think Tom's shoe size is?",
+                "vi": "Cậu nghĩ Tom đi giày cỡ bao nhiêu?"
+            }
+        },
+        {
+            "content": "giải",
+            "type": "verb noun",
+            "example": {
+                "en": "Why do they think I can free their people?",
+                "vi": "Tại sao họ lại tin là tôi sẽ giải phóng họ chứ?"
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb noun",
+            "example": {
+                "en": "In Africa, we've been doing that for years,",
+                "vi": "Chúng tôi đã sử dụng dịch vụ đó nhiều năm rồi,"
+            }
+        },
+        {
+            "content": "hoàn thành",
+            "type": "verb",
+            "example": {
+                "en": "We are all of us going to do what we were too inept to do the last time.",
+                "vi": "Chúng ta sẽ hoàn thành cái việc lười nhác và vớ vẩn này."
+            }
+        },
+        {
+            "content": "hành động",
+            "type": "verb noun",
+            "example": {
+                "en": "And what, if anything, do men have to do with it?",
+                "vi": "Và liệu có gì đó mà đàn ông phải hành động không?"
+            }
+        },
+        {
+            "content": "sắp xếp",
+            "type": "verb",
+            "example": {
+                "en": "If we do not arrange our affairs, others will do so.",
+                "vi": "Nếu chúng ta không lo sắp xếp trước công việc của mình, thì người khác sẽ làm."
+            }
+        },
+        {
+            "content": "hết",
+            "type": "verb",
+            "example": {
+                "en": "And do all the drivers wear a Rolex?",
+                "vi": "Tài xế nào cũng đeo Rolex như anh hết à?"
+            }
+        },
+        {
+            "content": "qua",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "But you'd speak well of one, which you're clearly omitting to do.",
+                "vi": "Nhưng ông đã nói tốt một đồng nghiệp, điều rõ ràng ông đang bỏ qua."
+            }
+        },
+        {
+            "content": "học",
+            "type": "Suffix verb",
+            "example": {
+                "en": "I think you could do with a lesson yourself.",
+                "vi": "Tôi nghĩ chính anh cũng cần học một bài."
+            }
+        },
+        {
+            "content": "bày tỏ",
+            "type": "",
+            "example": {
+                "en": "Do you express appreciation for what others do for you?",
+                "vi": "Bạn có bày tỏ lòng biết ơn về những điều người khác làm cho bạn?"
+            }
+        },
+        {
+            "content": "chăm lo",
+            "type": "",
+            "example": {
+                "en": "I had to do right by my baby Jane.",
+                "vi": "Tôi phải chăm lo con gái Jane của tôi."
+            }
+        },
+        {
+            "content": "hợp",
+            "type": "adjective verb",
+            "example": {
+                "en": "And what makes you think those beads do?",
+                "vi": "Thế điều gì khiến chị nghĩ mấy cái hạt kia thì hợp chứ?"
+            }
+        },
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {
+                "en": "You can't do science without making it logically consistent.",
+                "vi": "Bạn không thể làm khoa học mà không làm cho mọi thứ phù hợp về mặt logic."
+            }
+        },
+        {
+            "content": "trả lời ngắn",
+            "type": "",
+            "example": {
+                "en": "If you do choose to reply, you might keep it brief and be discreet.",
+                "vi": "Nếu quyết định đáp lại, bạn có thể chọn câu trả lời ngắn gọn và khôn khéo."
+            }
+        },
+        {
+            "content": "đối xử công bằng",
+            "type": "",
+            "example": {
+                "en": "The lowly and the poor often do not receive justice, whereas the powerful and the rich often are favored.",
+                "vi": "Người nghèo và thấp hèn thường không được đối xử công bằng, trong khi người giàu và có chức quyền thì thường được thiên vị."
+            }
+        },
+        {
+            "content": "phần",
+            "type": "noun",
+            "example": {
+                "en": "Sheryl's providing decorations, and Fiona's doing the music.",
+                "vi": "Sheryl phụ trách trang trí, và Fiona sẽ lo phần âm nhạc."
+            }
+        },
+        {
+            "content": "nấu",
+            "type": "verb",
+            "example": {
+                "en": "It became Chris Berquist's job to do the melting down.",
+                "vi": "Chris Berquist đảm nhiệm việc nấu chảy"
+            }
+        },
+        {
+            "content": "quay",
+            "type": "verb",
+            "example": {
+                "en": "So why do you wanna tape it now?",
+                "vi": "Vậy tại sao giờ cậu lại muốn quay nó?"
+            }
+        },
+        {
+            "content": "đãi",
+            "type": "",
+            "example": {
+                "en": "Why do we as Jehovah’s Witnesses count it a privilege to be persecuted like the prophets of old?",
+                "vi": "Là Nhân Chứng Giê-hô-va, tại sao chúng ta xem việc bị ngược đãi như các tiên tri thời xưa là một đặc ân?"
+            }
+        },
+        {
+            "content": "dọn",
+            "type": "",
+            "example": {
+                "en": "Why do you think I'm prepping my new ride?",
+                "vi": "Thử nghĩ xem, tại sao tôi đang dọn dẹp xe này?"
+            }
+        },
+        {
+            "content": "bịp",
+            "type": "",
+            "example": {
+                "en": "How do we know that this isn't some trick?",
+                "vi": "Sao chúng ta biết đây không phải là trò bịp?"
+            }
+        },
+        {
+            "content": "ổn",
+            "type": "",
+            "example": {
+                "en": "We're doing well now, and you will next.",
+                "vi": "Giờ chúng tôi vẫn ổn, và sau này các anh cũng vậy."
+            }
+        },
+        {
+            "content": "đô",
+            "type": "",
+            "example": {
+                "en": "So you think this guy set up his boss and made millions doing it?",
+                "vi": "Anh nghĩ gã này gài bẫy sếp mình và kiếm lời hàng triệu đô?"
+            }
+        },
+        {
+            "content": "rán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chầu",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "nướng",
+            "type": "",
+            "example": {
+                "en": "It says, \" Dos Bros Tacos. \"",
+                "vi": "Nó ghi là, \" Bánh nướng Taco \""
+            }
+        },
+        {
+            "content": "an toàn",
+            "type": "adjective noun",
+            "example": {
+                "en": "Tom said that he doesn't think it's safe for you to do that.",
+                "vi": "Tom nói rằng anh ấy không nghĩ nó an toàn để bạn làm điều đó."
+            }
+        },
+        {
+            "content": "bữa chén",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bữa nhậu nhẹt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho ăn",
+            "type": "",
+            "example": {
+                "en": "Do they feed you enough where you are?",
+                "vi": "Chỗ con làm họ có cho ăn đủ không?"
+            }
+        },
+        {
+            "content": "chu toàn",
+            "type": "",
+            "example": {
+                "en": "How can you do justice to all of them?",
+                "vi": "Làm thế nào bạn có thể chu toàn?"
+            }
+        },
+        {
+            "content": "chấm dứt",
+            "type": "",
+            "example": {
+                "en": "How do you feel now that this national nightmare is over?",
+                "vi": "Bà có cảm giác nào khi ác mộng quốc gia này đã chấm dứt?"
+            }
+        },
+        {
+            "content": "có phải (là) ... không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của ditto",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây cho",
+            "type": "",
+            "example": {
+                "en": "Why do anything but cause me more pain?",
+                "vi": "Sao phải làm gì đó khác ngoài việc gây cho ta thêm đau khổ chứ?"
+            }
+        },
+        {
+            "content": "hoạt động",
+            "type": "adjective noun",
+            "example": {
+                "en": "They do not understand how mobile phones work.",
+                "vi": "Họ không hiểu điện thoại di động hoạt động ra sao."
+            }
+        },
+        {
+            "content": "làm cho",
+            "type": "verb",
+            "example": {
+                "en": "Just tell me what you want me to do and I'll do it.",
+                "vi": "Muốn tôi làm gì thì anh cứ nói, tôi sẽ làm cho."
+            }
+        },
+        {
+            "content": "làm kiệt sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm mệt lử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ra bộ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ra vẻ",
+            "type": "",
+            "example": {
+                "en": "Do they think I 'm putting on airs ?",
+                "vi": "Họ có nghĩ rằng tôi làm ra vẻ ta đây ?"
+            }
+        },
+        {
+            "content": "làm xong",
+            "type": "",
+            "example": {
+                "en": "Are you gonna steal it if I do?",
+                "vi": "Nếu tôi làm xong cậu sẽ ăn trộm hả?"
+            }
+        },
+        {
+            "content": "làm ăn",
+            "type": "verb",
+            "example": {
+                "en": "I do hope we can do business together.",
+                "vi": "Tôi hy vọng chúng ta có thể làm ăn với nhau."
+            }
+        },
+        {
+            "content": "làm ăn xoay sở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "not translated",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sửa soạn",
+            "type": "",
+            "example": {
+                "en": "You sure do come prepared, Mr. Gummer.",
+                "vi": "Ông đã sửa soạn tươm tất, ông Gummer."
+            }
+        },
+        {
+            "content": "sự thành công",
+            "type": "",
+            "example": {
+                "en": "Why do you value your failures more than your successes?",
+                "vi": "Tại sao anh luôn thích sự thất bại hơn sự thành công như vậy?"
+            }
+        },
+        {
+            "content": "sự tiến bộ",
+            "type": "",
+            "example": {
+                "en": "Please do not become discouraged with your progress.",
+                "vi": "Xin đừng trở nên chán nản với sự tiến bộ của mình."
+            }
+        },
+        {
+            "content": "thu dọn",
+            "type": "",
+            "example": {
+                "en": "Green's got me doing mop-up.",
+                "vi": "Green giao nhiệm vụ thu dọn chiến dịch cho em."
+            }
+        },
+        {
+            "content": "thu xếp ngăn nắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thấm thía",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thấy sức khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thấy trong người",
+            "type": "",
+            "example": {
+                "en": "How do you feel?",
+                "vi": "Ông thấy trong người thế nào?"
+            }
+        },
+        {
+            "content": "trò lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trò lừa đảo",
+            "type": "",
+            "example": {
+                "en": "I'm gonna call this guy, and when he tells me this is a scam, you know what I'm gonna do?",
+                "vi": "Tôi sẽ gọi tay này, và khi hắn nói đây là trò lừa đảo, anh biết tôi sẽ làm gì không?"
+            }
+        },
+        {
+            "content": "tạo nên",
+            "type": "",
+            "example": {
+                "en": "What do you think doing this is gonna change?",
+                "vi": "Mày nghĩ làm thế này sẽ tạo nên thay đổi ư?"
+            }
+        },
+        {
+            "content": "xử sự",
+            "type": "",
+            "example": {
+                "en": "Diggle, we don't always know why people do what they do.",
+                "vi": "Diggle, không phải lúc nào ta cũng biết nguyên nhân người ta xử sự."
+            }
+        },
+        {
+            "content": "ăn gian",
+            "type": "",
+            "example": {
+                "en": "I do not cheat.",
+                "vi": "Ta không có ăn gian."
+            }
+        },
+        {
+            "content": "đi tham quan",
+            "type": "",
+            "example": {
+                "en": "Perhaps we can do some sightseeing?",
+                "vi": "Chúng ta đi tham quan một chút nhé?"
+            }
+        },
+        {
+            "content": "đi thăm",
+            "type": "",
+            "example": {
+                "en": "How many more grades do we have to visit?",
+                "vi": "Ta còn phải đi thăm bao nhiêu lớp nữa?"
+            }
+        },
+        {
+            "content": "có phải ... không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giao cấu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gây ra",
+            "type": "",
+            "example": {
+                "en": "One can't learn to do anything without making mistakes.",
+                "vi": "Một người không thể học làm bất kỳ thứ gì mà không gây ra lỗi lầm cả."
+            }
+        },
+        {
+            "content": "làm nên",
+            "type": "",
+            "example": {
+                "en": "Dogs are not our whole life, but they do make some lives whole.",
+                "vi": "Chó không phải đời ta, nhưng chúng lại làm nên cả cuộc đời ai đó."
+            }
+        },
+        {
+            "content": "làm tình",
+            "type": "verb",
+            "example": {
+                "en": "So, Sebastian, do you do any volunteer work?",
+                "vi": "Vậy, Sebastian, anh có làm tình nguyện không?"
+            }
+        },
+        {
+            "content": "nghiên cứu",
+            "type": "verb",
+            "example": {
+                "en": "One is, how do you do science autonomy underground?",
+                "vi": "Một là, làm thế nào bạn tiến hành nghiên cứu khoa học độc lập dưới mặt đất?"
+            }
+        },
+        {
+            "content": "thông tục giao cấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạo ra",
+            "type": "",
+            "example": {
+                "en": "He is never made to do the thing's, that I can do.",
+                "vi": "Nó không bao giờ được tạo ra để làm những chuyện mà ta có thể làm."
+            }
+        }
+    ]
+}

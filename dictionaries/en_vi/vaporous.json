@@ -1,0 +1,57 @@
+{
+    "word": "vaporous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvāp(ə)rəs/",
+            "/ˈveɪp(ə)rəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈveɪpərəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống hơi nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hơi nước",
+            "type": "",
+            "example": {
+                "en": "A cloud is a mass of vapor in the sky.",
+                "vi": "Mây là do hơi nước trong không trung tích tụ thành."
+            }
+        },
+        {
+            "content": "hư ảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mờ ảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều hơi nước",
+            "type": "adjective",
+            "example": {
+                "en": "There's so much extra energy in the atmosphere, there's so much extra water vapor.",
+                "vi": "Có rất nhiều năng lượng thừa trong khí quyển, có rất nhiều hơi nước thừa."
+            }
+        },
+        {
+            "content": "đầy hơi nước",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

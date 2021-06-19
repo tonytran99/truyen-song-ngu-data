@@ -1,0 +1,49 @@
+{
+    "word": "burglary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbərɡlərē/",
+            "/ˈbərɡləri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəːɡləri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ăn trộm bẻ khoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn trộm đào ngạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn trộm đêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ăn trộm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trộm cắp",
+            "type": "",
+            "example": {
+                "en": "Are these burglaries that turned into homicides or homicides that turned into burglaries?",
+                "vi": "Trộm cắp hóa thành giết người, hay giết người hóa thành trộm cắp?"
+            }
+        }
+    ]
+}

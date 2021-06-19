@@ -1,0 +1,147 @@
+{
+    "word": "void",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/void/",
+            "/vɔɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɔɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuyết",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không có hiệu lực",
+            "type": "",
+            "example": {
+                "en": "The Geneva Convention is void here",
+                "vi": "Hiệp ước Geneva không có hiệu lực tại nơi này"
+            }
+        },
+        {
+            "content": "trống rỗng",
+            "type": "",
+            "example": {
+                "en": "But beautiful scenery did not fill the void.",
+                "vi": "Nhưng cảnh đẹp không khỏa lấp được nỗi trống rỗng."
+            }
+        },
+        {
+            "content": "trống",
+            "type": "adjective noun",
+            "example": {
+                "en": "Lorenzo's absence, however temporary, has created a void.",
+                "vi": "Sự vắng mặt của Lorenzo tạm thời tạo ra một khoảng trống."
+            }
+        },
+        {
+            "content": "bài tiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bỏ không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ trống",
+            "type": "",
+            "example": {
+                "en": "However, their tragic death has left a void in my heart that has yet to be filled.”",
+                "vi": "Tuy nhiên, sự ra đi của họ để lại một chỗ trống không sao lấp đầy trong lòng tôi”."
+            }
+        },
+        {
+            "content": "giếng trời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hủy bỏ",
+            "type": "verb",
+            "example": {
+                "en": "The hackers may have accessed his car and voided the smart key.",
+                "vi": "Bọn hacker có thể đã hack xe anh ta và hủy bỏ chìa khóa thông minh."
+            }
+        },
+        {
+            "content": "khoảng không",
+            "type": "noun",
+            "example": {
+                "en": "I just want to send this cosmic question into the void.",
+                "vi": "Tôi chỉ muốn gửi câu hỏi lớn này đến khoảng không vô tận."
+            }
+        },
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "We feel a terrible void without your father.",
+                "vi": "Chúng ta cảm thấy một khoảng trống khi không có cha ngươi."
+            }
+        },
+        {
+            "content": "không có giá trị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có người thuê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có người ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà bỏ không",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nỗi thương tiếc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô dụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô hiệu lực",
+            "type": "",
+            "example": {
+                "en": "Pope Innocent X was vehemently against the treaty, declaring it null and void.",
+                "vi": "Giáo Hoàng Innocent X kịch liệt chống đối hiệp ước, tuyên bố nó vô hiệu lực."
+            }
+        },
+        {
+            "content": "vô ích",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không giá trị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

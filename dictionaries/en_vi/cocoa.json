@@ -1,0 +1,63 @@
+{
+    "word": "cocoa",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōkō/",
+            "/ˈkoʊkoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊkəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ca cao",
+            "type": "noun",
+            "example": {
+                "en": "Mashed Lima beans, cocoa powder, a little sweetener.",
+                "vi": "Món đậu nghiền, bột ca cao, một chút đường."
+            }
+        },
+        {
+            "content": "nước cacao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cacao",
+            "type": "",
+            "example": {
+                "en": "I can't have cocoa right now because I'm work...",
+                "vi": "Bây giờ con không uống cacao được vì con đang..."
+            }
+        },
+        {
+            "content": "bột cacao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cây dừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "màu cacao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quả dừa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

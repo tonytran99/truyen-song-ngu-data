@@ -1,0 +1,89 @@
+{
+    "word": "built",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bilt/",
+            "/bɪlt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪlt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dựng nên",
+            "type": "",
+            "example": {
+                "en": "People tell me that I should preserve what my father has built.",
+                "vi": "Mọi người nói tôi phải gìn giữ những gì bố đã gây dựng nên."
+            }
+        },
+        {
+            "content": "khổ người tầm vóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kiểu kiến trúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nên",
+            "type": "",
+            "example": {
+                "en": "a robot they built that can crawl through the human body.",
+                "vi": "Họ làm nên con robot mà có thể đi vòng vòng cơ thể con người."
+            }
+        },
+        {
+            "content": "lập nên",
+            "type": "",
+            "example": {
+                "en": "For my thesis I actually built one of these out of paper.",
+                "vi": "Thực ra tôi đã lập nên một trong những thiết bị này trên giấy."
+            }
+        },
+        {
+            "content": "sự xây dựng",
+            "type": "",
+            "example": {
+                "en": "They actually built three prototypes for us by hand.",
+                "vi": "Họ đã thực sự xây dựng 3 nguyên mẫu cho chúng tôi bằng tay."
+            }
+        },
+        {
+            "content": "xây",
+            "type": "",
+            "example": {
+                "en": "I built a new house in view of the mountain.",
+                "vi": "Tôi đã xây một căn nhà với tầm nhìn hườn ra núi."
+            }
+        },
+        {
+            "content": "xây cất",
+            "type": "",
+            "example": {
+                "en": "Some people built homes out of logs or sod.",
+                "vi": "Một số người xây cất nhà bằng các khúc gỗ hoặc cỏ."
+            }
+        },
+        {
+            "content": "xây dựng",
+            "type": "verb",
+            "example": {
+                "en": "A railway bridge is already being built over the river.",
+                "vi": "Một chiếc cầu đường sắt đang được xây dựng trên sông."
+            }
+        }
+    ]
+}

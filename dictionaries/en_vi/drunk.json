@@ -1,0 +1,91 @@
+{
+    "word": "drunk",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drəNGk/",
+            "/drəŋk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drʌŋk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "say",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "say rượu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "người say rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say xỉn",
+            "type": "adjective",
+            "example": {
+                "en": "But I'm fairly certain it wasn't about bailing out a piss-drunk electrician who nearly burned his house down.",
+                "vi": "Nhưng tôi khá chắc là không phải bảo lãnh cho một tên thợ điện say xỉn suýt nữa tự đốt trụi nhà mình."
+            }
+        },
+        {
+            "content": "chầu say bí tỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuồng lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mê mẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say khướt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say mèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "say sưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tội say rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "uống say",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụ say rượu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

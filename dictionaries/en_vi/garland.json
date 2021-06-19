@@ -1,0 +1,55 @@
+{
+    "word": "garland",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärlənd/",
+            "/ˈɡɑrlənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːlənd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vòng hoa",
+            "type": "noun",
+            "example": {
+                "en": "If I were you, I'd take the garland off in a neighborhood like this...",
+                "vi": "Nếu tôi là anh, ở trong khu phố này tôi sẽ cất cái vòng hoa kia đi."
+            }
+        },
+        {
+            "content": "dùng làm vòng hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải thưởng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự chiếu thẳng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giật giải đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đội vòng hoa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

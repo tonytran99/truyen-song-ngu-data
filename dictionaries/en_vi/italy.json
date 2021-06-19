@@ -1,0 +1,30 @@
+{
+    "word": "italy",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈidəlē/",
+            "/ˈɪdəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪtəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ý",
+            "type": "noun",
+            "example": {
+                "en": "He was born in a small town in Italy.",
+                "vi": "Anh ấy được sinh ra trong một thị trấn nhỏ ở Ý."
+            }
+        }
+    ]
+}

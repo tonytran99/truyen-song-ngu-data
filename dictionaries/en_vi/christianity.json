@@ -1,0 +1,53 @@
+{
+    "word": "christianity",
+    "type": [
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkrisCHēˈanədē/",
+            "/ˌkrɪstʃiˈænədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krɪstɪˈanɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo lý Cơ-đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự theo đạo Cơ-đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính chất Cơ-đốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đạo Cơ-đốc",
+            "type": "",
+            "example": {
+                "en": "Barack Obama is a Christian.",
+                "vi": "Barack Obama là một người theo đạo Cơ-đốc."
+            }
+        },
+        {
+            "content": "kitô giáo",
+            "type": "",
+            "example": {
+                "en": "You might not believe this, but I'm a Christian.",
+                "vi": "Con sẽ không tin điều này đâu Ta là một tín đồ Kitô giáo."
+            }
+        }
+    ]
+}

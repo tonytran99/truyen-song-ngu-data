@@ -1,0 +1,29 @@
+{
+    "word": "ultrasonic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəltrəˈsänik/",
+            "/ˌəltrəˈsɑnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌltrəˈsɒnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "siêu âm",
+            "type": "adjective",
+            "example": {
+                "en": "Some animals, like bats, dolphins and dogs can hear within the ultrasonic frequency.",
+                "vi": "Một số loài động vật, như dơi, cá heo và chó có thể nghe được siêu âm."
+            }
+        }
+    ]
+}

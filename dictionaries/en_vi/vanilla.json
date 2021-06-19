@@ -1,0 +1,48 @@
+{
+    "word": "vanilla",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈnilə/",
+            "/vəˈnɪlə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈnɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vani",
+            "type": "noun",
+            "example": {
+                "en": "I put in too much vanilla, but they're delicious.",
+                "vi": "Tôi bỏ nhiều vani quá, nhưng nó rất ngon."
+            }
+        },
+        {
+            "content": "quả vani",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "va ni",
+            "type": "noun",
+            "example": {
+                "en": "The gum resin that seeps from old branches and has a vanilla scent was used to make perfume.",
+                "vi": "Nhựa từ các nhánh già thì có hương va-ni và được dùng làm dầu thơm."
+            }
+        },
+        {
+            "content": "cây vani",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

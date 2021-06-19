@@ -1,0 +1,65 @@
+{
+    "word": "engraver",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈɡrāvər/",
+            "/ɪnˈɡreɪvər/",
+            "/enˈɡrāvər/",
+            "/ɛnˈɡreɪvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɡreɪvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dao khắc",
+            "type": "",
+            "example": {
+                "en": "When the lacquer is dry, the craftsman engraves a design onto the surface of the article with a steel stylus.",
+                "vi": "Khi sơn mài khô, người thợ khắc mẫu hình trên mặt bằng một dao khắc."
+            }
+        },
+        {
+            "content": "máy khắc",
+            "type": "noun",
+            "example": {
+                "en": "But the first modern tattooing machine was modeled after Thomas Edison's engraving machine and ran on electricity.",
+                "vi": "Nhưng chiếc máy xăm hiện đại đầu tiên được mô phỏng theo chiếc máy khắc của Thomas Edison và chạy bằng điện."
+            }
+        },
+        {
+            "content": "người thợ chạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thợ khắc",
+            "type": "",
+            "example": {
+                "en": "When the lacquer is dry, the craftsman engraves a design onto the surface of the article with a steel stylus.",
+                "vi": "Khi sơn mài khô, người thợ khắc mẫu hình trên mặt bằng một dao khắc."
+            }
+        },
+        {
+            "content": "thợ chạm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thợ khắc",
+            "type": "noun",
+            "example": {
+                "en": "Generally, neither die engravers nor the people in general could read Hebrew.",
+                "vi": "Nói chung, cả thợ khắc lẫn dân chúng đều không đọc được tiếng Hê-bơ-rơ."
+            }
+        }
+    ]
+}

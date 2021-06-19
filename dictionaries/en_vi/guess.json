@@ -1,0 +1,137 @@
+{
+    "word": "guess",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡes/",
+            "/ɡɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoán",
+            "type": "verb",
+            "example": {
+                "en": "I guess you'll need some help.",
+                "vi": "Tôi đoán là bạn sẽ cần giúp đỡ."
+            }
+        },
+        {
+            "content": "phỏng đoán",
+            "type": "verb",
+            "example": {
+                "en": "Three guesses as to who the police suspect in those cases.",
+                "vi": "3 phỏng đoán của cảnh sát cho rằng nghi phạm dính tới vụ án."
+            }
+        },
+        {
+            "content": "nghĩ",
+            "type": "verb",
+            "example": {
+                "en": "I guess I should tell him what's going on.",
+                "vi": "Tôi nghĩ là tôi nên cho ông ấy biết chuyện gì đang diễn ra."
+            }
+        },
+        {
+            "content": "chắc rằng",
+            "type": "",
+            "example": {
+                "en": "But I guess I have a while before you're old enough to understand these tapes.",
+                "vi": "Nhưng mẹ chắc rằng có một thời gian để con lớn và hiểu nhứng cái băng này Đổ đầy cho cô ấy."
+            }
+        },
+        {
+            "content": "nghĩ ra",
+            "type": "",
+            "example": {
+                "en": "I never guessed I'd lose to a gust of wind",
+                "vi": "Không nghĩ ra là ta lại thua vì một trận gió."
+            }
+        },
+        {
+            "content": "sự suy đoán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đoán ra",
+            "type": "",
+            "example": {
+                "en": "It's not hard to guess the common denominator, is it?",
+                "vi": "Không khó để đoán ra ai đã thuê chúng, đúng không?"
+            }
+        },
+        {
+            "content": "ước đoán",
+            "type": "",
+            "example": {
+                "en": "It's an educated guess.",
+                "vi": "Ước đoán có cơ sở đấy."
+            }
+        },
+        {
+            "content": "giả định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói mò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suy đoán",
+            "type": "",
+            "example": {
+                "en": "Fortunately, we don't have to wave our hands and guess;",
+                "vi": "May mắn thay, chúng ta không phải mò mẫm và suy đoán;"
+            }
+        },
+        {
+            "content": "sự đoán",
+            "type": "noun",
+            "example": {
+                "en": "The word “probably” shows that it is a guess.",
+                "vi": "Chữ “có lẽ” chỉ rằng đây chỉ là một sự đoán tính."
+            }
+        },
+        {
+            "content": "sự ước chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ước chừng",
+            "type": "",
+            "example": {
+                "en": "We had to guess your sizes.",
+                "vi": "Chúng tôi đã ước chừng cỡ quần áo của anh."
+            }
+        },
+        {
+            "content": "lượng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giả dụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

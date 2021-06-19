@@ -1,0 +1,41 @@
+{
+    "word": "controversial",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkäntrəˈvərSHəl/",
+            "/ˌkɑntrəˈvərʃəl/",
+            "/ˌkäntrəˈvərsēəl/",
+            "/ˌkɑntrəˈvərsiəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒntrəˈvəːʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ưa tranh cãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gây tranh cãi",
+            "type": "",
+            "example": {
+                "en": "And most controversially, it means the tar sands.",
+                "vi": "Và gây tranh cãi nhất, là những bãi cát hắc ín."
+            }
+        },
+        {
+            "content": "thích tranh luận",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

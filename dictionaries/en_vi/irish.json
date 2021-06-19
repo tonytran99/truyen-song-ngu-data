@@ -1,0 +1,36 @@
+{
+    "word": "irish",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīriSH/",
+            "/ˈaɪrɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪrɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Ai-len",
+            "type": "adjective proper",
+            "example": {
+                "en": "I tell you my old man was Irish?",
+                "vi": "Tao đã nói cha tao là người Ai len chưa?"
+            }
+        },
+        {
+            "content": "tiếng nói của người ái nhĩ lan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

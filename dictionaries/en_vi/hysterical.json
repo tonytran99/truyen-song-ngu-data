@@ -1,0 +1,52 @@
+{
+    "word": "hysterical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈsterək(ə)l/",
+            "/həˈstɛrək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈstɛrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuồng loạn",
+            "type": "adjective",
+            "example": {
+                "en": "We do not need that particular hysterical phone call at this moment.",
+                "vi": "Lúc này chúng ta không cần cuộc điện thoại cuồng loạn đó đâu."
+            }
+        },
+        {
+            "content": "ictêri",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc ictêri",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quá kích động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên loạn",
+            "type": "",
+            "example": {
+                "en": "She was laughing hysterically.",
+                "vi": "Cô ấy đã cười một cách điên loạn."
+            }
+        }
+    ]
+}

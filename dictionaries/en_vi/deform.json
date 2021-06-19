@@ -1,0 +1,50 @@
+{
+    "word": "deform",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfôrm/",
+            "/dəˈfɔrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɔːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm biến dạng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biến dạng",
+            "type": "verb",
+            "example": {
+                "en": "The sickness has left her deformed and hideous.",
+                "vi": "Căn bệnh đã làm chị ấy biến dạng và xấu xí."
+            }
+        },
+        {
+            "content": "làm cho méo mó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm xấu đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đổi dạng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

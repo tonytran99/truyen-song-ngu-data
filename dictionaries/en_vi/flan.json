@@ -1,0 +1,36 @@
+{
+    "word": "flan",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flan/",
+            "/flæn/",
+            "/flän/",
+            "/flɑn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flan/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh flăng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh flan",
+            "type": "",
+            "example": {
+                "en": "I think everyone would feel better if we had some flan.",
+                "vi": "Tớ nghĩ rằng mọi người sẽ thấy tốt hơn nếu chúng ta đã có một ít bánh flan."
+            }
+        }
+    ]
+}

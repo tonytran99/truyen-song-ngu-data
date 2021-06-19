@@ -1,0 +1,52 @@
+{
+    "word": "forceps",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrsəps/",
+            "/ˈfɔrsəps/",
+            "/ˈfôrˌseps/",
+            "/ˈfɔrˌsɛps/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːsɛps/",
+            "/ˈfɔːsɪps/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ phận hình kẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái cặp thai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái kẹp",
+            "type": "noun",
+            "example": {
+                "en": "Inadvertently, the doctor had broken Loida’s collarbone with his forceps.",
+                "vi": "Bác sĩ đã vô ý làm gẫy xương đòn của Loida bằng cái kẹp thai."
+            }
+        },
+        {
+            "content": "cặp thai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dụng cụ giữ chặt đầu thai nhi trong trường hợp khó sinh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

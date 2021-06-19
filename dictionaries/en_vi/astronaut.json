@@ -1,0 +1,52 @@
+{
+    "word": "astronaut",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈastrəˌnôt/",
+            "/ˈæstrəˌnɔt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈastrənɔːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà du hành vũ trụ",
+            "type": "noun",
+            "example": {
+                "en": "Why didn't astronauts use a pencil in space?",
+                "vi": "Tại sao các nhà du hành vũ trụ không dùng bút chì trong không gian?"
+            }
+        },
+        {
+            "content": "phi hành gia",
+            "type": "noun",
+            "example": {
+                "en": "All I ever want to be was an astronaut.",
+                "vi": "Tôi từng mơ ước làm phi hành gia."
+            }
+        },
+        {
+            "content": "phi công vũ trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nhà du hành vũ trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

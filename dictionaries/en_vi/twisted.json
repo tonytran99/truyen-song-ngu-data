@@ -1,0 +1,58 @@
+{
+    "word": "twisted",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwistəd/",
+            "/ˈtwɪstəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtwɪstɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cong queo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "queo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "quăn queo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "quẹo cọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trẹo",
+            "type": "adjective",
+            "example": {
+                "en": "I just twisted it a little.",
+                "vi": "Hơi trẹo chút thôi."
+            }
+        },
+        {
+            "content": "méo mó",
+            "type": "",
+            "example": {
+                "en": "Her tangled hair clung to her face, which was twisted into a frightful expression.",
+                "vi": "Mái tóc rối của cô bết trên gương mặt đã biến dạng méo mó một cách kinh hoàng."
+            }
+        }
+    ]
+}

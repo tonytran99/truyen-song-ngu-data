@@ -1,0 +1,50 @@
+{
+    "word": "crayfish",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrāˌfiSH/",
+            "/ˈkreɪˌfɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkreɪfɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tôm đồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tôm",
+            "type": "noun",
+            "example": {
+                "en": "How do we show how much we care about crayfish anxiety?",
+                "vi": "Chúng ta thể hiện ta quan tâm thế nào đến chứng lo âu của loài tôm?"
+            }
+        },
+        {
+            "content": "tôm càng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tôm hùm đất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tôm sông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

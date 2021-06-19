@@ -1,0 +1,39 @@
+{
+    "word": "kitty",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkidē/",
+            "/ˈkɪdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhuây khót vốn chung",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vốn góp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mèo con",
+            "type": "noun",
+            "example": {
+                "en": "Nobody wants to come up here and play with the larger kitty that they so annoyingly asked for!",
+                "vi": "Có ai tình nguyện lên đây \" chơi \" với mèo con không?"
+            }
+        }
+    ]
+}

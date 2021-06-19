@@ -1,0 +1,95 @@
+{
+    "word": "dish",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diSH/",
+            "/dɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đĩa",
+            "type": "noun",
+            "example": {
+                "en": "We got three houseguests and a sink full of dishes.",
+                "vi": "Chúng ta còn ba vị khách và cả đống đĩa đầy."
+            }
+        },
+        {
+            "content": "món",
+            "type": "noun",
+            "example": {
+                "en": "It's a dish from a long time ago.",
+                "vi": "Là món ăn cả vài chục năm đó."
+            }
+        },
+        {
+            "content": "món ăn",
+            "type": "noun",
+            "example": {
+                "en": "It's a dish from a long time ago.",
+                "vi": "Là món ăn cả vài chục năm đó."
+            }
+        },
+        {
+            "content": "chén",
+            "type": "noun",
+            "example": {
+                "en": "I'll wash my dishes right away from now until the day I die.",
+                "vi": "Anh sẽ rửa chén bát ngay lập tức từ giờ đến khi chết."
+            }
+        },
+        {
+            "content": "dĩa",
+            "type": "noun",
+            "example": {
+                "en": "Watch a hundred thousand people die, just like bugs in a dish.",
+                "vi": "Nhìn hàng trăm ngàn người phải chết, cứ giống như lũ sâu bọ trong dĩa."
+            }
+        },
+        {
+            "content": "tách",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "sắp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "móm ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình đĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bại được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chảo",
+            "type": "noun",
+            "example": {
+                "en": "And the dish at the top, what's it for?",
+                "vi": "Và cái chảo trên cùng, nó để làm gì?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "greek",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrēk/",
+            "/ɡrik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡriːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Hy-lạp",
+            "type": "",
+            "example": {
+                "en": "The Greeks also eat fish often.",
+                "vi": "Người Hy Lạp cũng hay ăn cá."
+            }
+        },
+        {
+            "content": "kẻ bịp bợm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ lừa đảo",
+            "type": "",
+            "example": {
+                "en": "Right out of a Greek tragedy.",
+                "vi": "Kết cục của kẻ lừa đảo là bi kịch."
+            }
+        },
+        {
+            "content": "quân bạc bịp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

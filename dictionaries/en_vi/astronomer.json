@@ -1,0 +1,37 @@
+{
+    "word": "astronomer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstränəmər/",
+            "/əˈstrɑnəmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈstrɒnəmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà thiên văn học",
+            "type": "noun",
+            "example": {
+                "en": "But when astronomers thought they found it I had to see for myself.",
+                "vi": "Nhưng những nhà thiên văn học nghĩ rằng họ đã thấy nó tôi phải tự mình nhìn thấy."
+            }
+        },
+        {
+            "content": "nhà thiên văn",
+            "type": "",
+            "example": {
+                "en": "But when astronomers thought they found it I had to see for myself.",
+                "vi": "Nhưng những nhà thiên văn học nghĩ rằng họ đã thấy nó tôi phải tự mình nhìn thấy."
+            }
+        }
+    ]
+}

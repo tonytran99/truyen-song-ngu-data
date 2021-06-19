@@ -1,0 +1,42 @@
+{
+    "word": "trio",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtrēō/",
+            "/ˈtrioʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtriːəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ ba",
+            "type": "noun",
+            "example": {
+                "en": "I was about 17 when I met the trio, and I shadowed them for four years.",
+                "vi": "Khi gặp bộ ba, tôi chỉ mới 17 tuổi, và theo đuôi họ suốt bốn năm."
+            }
+        },
+        {
+            "content": "ba",
+            "type": "adjective noun numeral",
+            "example": {
+                "en": "Yeah, but now they're a trio.",
+                "vi": "Phải, nhưng bây giờ họ là một bộ ba."
+            }
+        },
+        {
+            "content": "phần triô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

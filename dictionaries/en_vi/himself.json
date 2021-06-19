@@ -1,0 +1,69 @@
+{
+    "word": "himself",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/himˈself/",
+            "/hɪmˈsɛlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪmˈsɛlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính anh ta",
+            "type": "",
+            "example": {
+                "en": "I can't even challenge their admission into evidence because he wrote them to himself.",
+                "vi": "Và em còn không dám đưa nó vào bằng chứng vì anh ta viết cho chính anh ta."
+            }
+        },
+        {
+            "content": "chính nó",
+            "type": "",
+            "example": {
+                "en": "You guys are paid to protect him from everybody, including himself.",
+                "vi": "Bọn mày được trả tiền để bảo vệ nó khỏi mọi kẻ khác, kể cả chính nó."
+            }
+        },
+        {
+            "content": "chính ông ta",
+            "type": "",
+            "example": {
+                "en": "He says he signed the warrant himself.",
+                "vi": "Ông ta bảo rằng chính ông ta đã ký cái trát đó."
+            }
+        },
+        {
+            "content": "tự mình",
+            "type": "",
+            "example": {
+                "en": "But, in that first report, Kuznets himself delivered a warning.",
+                "vi": "Nhưng, trong báo cáo đầu tiên đó Kuznets đã tự mình gửi đến một cảnh báo."
+            }
+        },
+        {
+            "content": "tự nó",
+            "type": "",
+            "example": {
+                "en": "Eventually he himself chose to cut his hair.",
+                "vi": "Cuối cùng, tự nó đã chọn cắt tóc mình."
+            }
+        },
+        {
+            "content": "chính hắn",
+            "type": "",
+            "example": {
+                "en": "As in Wells was using it to power himself.",
+                "vi": "Kiểu như Wells dùng nó để nạp năng lượng cho chính hắn ta."
+            }
+        }
+    ]
+}

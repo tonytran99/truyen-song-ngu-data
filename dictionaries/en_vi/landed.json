@@ -1,0 +1,46 @@
+{
+    "word": "landed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlandəd/",
+            "/ˈlændəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlandɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có đất",
+            "type": "",
+            "example": {
+                "en": "If the birds do not return, there is land.",
+                "vi": "Nếu lũ chim không quay lại, nghĩa là có đất liền."
+            }
+        },
+        {
+            "content": "đại địa chủ",
+            "type": "tính từ",
+            "example": {
+                "en": "Otto von Bismarck (1815-1898) was a Junker or Prussian landed nobility.",
+                "vi": "Otto von Bismarck (1815-1898) là một Junker hoặc quý tộc đại địa chủ Phổ."
+            }
+        },
+        {
+            "content": "đất đai",
+            "type": "",
+            "example": {
+                "en": "Her father was the keeper of the lands of the king of Prussia.",
+                "vi": "Cha của bà là người quản lý đất đai cho vua nước Prussia."
+            }
+        }
+    ]
+}

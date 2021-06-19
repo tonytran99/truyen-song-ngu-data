@@ -1,0 +1,48 @@
+{
+    "word": "gargle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärɡəl/",
+            "/ˈɡɑrɡəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːɡ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuốc súc miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "súc",
+            "type": "",
+            "example": {
+                "en": "Have a gargle with this.",
+                "vi": "Súc miệng với cái này đi."
+            }
+        },
+        {
+            "content": "thuốc súc họng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "súc miệng",
+            "type": "",
+            "example": {
+                "en": "Have a gargle with this.",
+                "vi": "Súc miệng với cái này đi."
+            }
+        }
+    ]
+}

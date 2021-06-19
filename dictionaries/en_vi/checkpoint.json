@@ -1,0 +1,54 @@
+{
+    "word": "checkpoint",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHekˌpoint/",
+            "/ˈtʃɛkˌpɔɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛkpɔɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điểm kiểm tra",
+            "type": "",
+            "example": {
+                "en": "Drive across the last checkpoint and you're home free.",
+                "vi": "Băng qua điểm kiểm tra cuối thì các anh sẽ được tự do."
+            }
+        },
+        {
+            "content": "điểm đánh dấu",
+            "type": "",
+            "example": {
+                "en": "And this is Checkpoint 3...",
+                "vi": "Còn đây là điểm đánh dấu thứ 3."
+            }
+        },
+        {
+            "content": "trạm kiểm soát",
+            "type": "noun",
+            "example": {
+                "en": "I'll telexed Hans'licence plate to all the checkpoint.",
+                "vi": "Tôi đã gửi biển số xe của Hans tới tất cả các trạm kiểm soát."
+            }
+        },
+        {
+            "content": "điểm kiểm",
+            "type": "",
+            "example": {
+                "en": "Drive across the last checkpoint and you're home free.",
+                "vi": "Băng qua điểm kiểm tra cuối thì các anh sẽ được tự do."
+            }
+        }
+    ]
+}

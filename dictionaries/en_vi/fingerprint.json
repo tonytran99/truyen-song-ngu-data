@@ -1,0 +1,59 @@
+{
+    "word": "fingerprint",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiNGɡərˌprint/",
+            "/ˈfɪŋɡərˌprɪnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪŋɡəprɪnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lấy dấu điềm chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Vân tay",
+            "type": "",
+            "example": {
+                "en": "His fingerprints were all over the storage room out on the base where he did it.",
+                "vi": "Vân tay của anh ta ở khắp nơi trong nhà kho nơi anh ta thực hiện hành vi của mình."
+            }
+        },
+        {
+            "content": "dấu vân tay",
+            "type": "",
+            "example": {
+                "en": "He's got an explanation for the fingerprints, right?",
+                "vi": "Vụ dấu vân tay, lão giải thích ngon lành."
+            }
+        },
+        {
+            "content": "vân tay",
+            "type": "",
+            "example": {
+                "en": "Maybe he left a fingerprint on one of those pieces.",
+                "vi": "Có thể anh ta có để lại vân tay trên đó."
+            }
+        },
+        {
+            "content": "điểm chỉ",
+            "type": "",
+            "example": {
+                "en": "We'd like to request that the defendant Undergo the process of brain fingerprinting.",
+                "vi": "Chúng tôi muốn yêu cầu bị cáo trải qua quá trình lấy dấu điểm chỉ não."
+            }
+        }
+    ]
+}

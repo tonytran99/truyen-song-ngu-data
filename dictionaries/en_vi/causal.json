@@ -1,0 +1,43 @@
+{
+    "word": "causal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôzəl/",
+            "/ˈkɔzəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːz(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên nhân",
+            "type": "noun",
+            "example": {
+                "en": "And indeed, people know the causal links quite well",
+                "vi": "Và thật ra, mọi người đã biết khá rõ nguyên nhân"
+            }
+        },
+        {
+            "content": "nhân quả",
+            "type": "",
+            "example": {
+                "en": "The reason for this originates from Buddhism 's causality .",
+                "vi": "Lý do này bắt nguồn từ quan hệ nhân quả của Phật giáo ."
+            }
+        },
+        {
+            "content": "quan hệ nhân quả",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "convent",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänˌvent/",
+            "/ˈkɑnˌvɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnv(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà tu kín",
+            "type": "",
+            "example": {
+                "en": "I grew up in a convent with lots of other girls, of course.",
+                "vi": "Em lớn lên trong một nhà tu kín, tất nhiên là có rất nhiều cô gái khác."
+            }
+        },
+        {
+            "content": "nữ tu viện",
+            "type": "noun",
+            "example": {
+                "en": "Two months later, we were transferred to Gliwice, a convent that had been transformed into a work camp.",
+                "vi": "Hai tháng sau, chúng tôi bị chuyển đến Gliwice, một nữ tu viện được đổi thành trại lao động."
+            }
+        },
+        {
+            "content": "tu viện",
+            "type": "noun",
+            "example": {
+                "en": "Do you know the convent on the hill?",
+                "vi": "Tôi đã từng làm việc ở cái tu viện trên đồi."
+            }
+        }
+    ]
+}

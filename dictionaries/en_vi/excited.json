@@ -1,0 +1,83 @@
+{
+    "word": "excited",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsīdəd/",
+            "/ɪkˈsaɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsʌɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "And in the case of the whale hunt, also this idea of an excitement level.",
+                "vi": "Và trong câu chuyện săn cá voi còn cả mức độ kích thích nữa."
+            }
+        },
+        {
+            "content": "bị kích thích",
+            "type": "",
+            "example": {
+                "en": "My excitement from the top of someplace very high!",
+                "vi": "Tôi đang bị kích thích cao độ đây."
+            }
+        },
+        {
+            "content": "bị kích động",
+            "type": "",
+            "example": {
+                "en": "You have any excitement from your mother away.",
+                "vi": "Các bạn không được làm cho bà ấy bị kích động."
+            }
+        },
+        {
+            "content": "hào hứng",
+            "type": "adjective",
+            "example": {
+                "en": "Last night's game was exciting.",
+                "vi": "Trò chơi tối hôm qua rất hào hứng"
+            }
+        },
+        {
+            "content": "kích động",
+            "type": "adjective",
+            "example": {
+                "en": "He seems strangely unconcerned by all the excitement he's causing.",
+                "vi": "Lạ lùng là hắn có vẻ không để ý tới những kích động mà hắn đang gây ra."
+            }
+        },
+        {
+            "content": "phấn khởi",
+            "type": "adjective",
+            "example": {
+                "en": "At first it is exciting to be young again, but the excitement wears off quickly.",
+                "vi": "Thoạt tiên, đó là điều phấn khởi được trẻ lại, nhưng rồi niềm phấn khởi cũng tàn nhanh."
+            }
+        },
+        {
+            "content": "phấn kích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {
+                "en": "Campuses are supposed to be places of life and excitement.",
+                "vi": "Sân trường phải là nơi dành cho sinh hoạt và sôi nổi."
+            }
+        }
+    ]
+}

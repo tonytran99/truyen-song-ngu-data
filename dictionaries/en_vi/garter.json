@@ -1,0 +1,43 @@
+{
+    "word": "garter",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärdər/",
+            "/ˈɡɑrdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nịt bít tất",
+            "type": "noun",
+            "example": {
+                "en": "This was the garter that I was saving for my wedding.",
+                "vi": "Đây là cái nịt bít tất tớ để dành từ đám cưới của mình."
+            }
+        },
+        {
+            "content": "nịt",
+            "type": "",
+            "example": {
+                "en": "This was the garter that I was saving for my wedding.",
+                "vi": "Đây là cái nịt bít tất tớ để dành từ đám cưới của mình."
+            }
+        },
+        {
+            "content": "dây siết buồm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

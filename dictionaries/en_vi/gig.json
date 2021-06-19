@@ -1,0 +1,70 @@
+{
+    "word": "gig",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡiɡ/",
+            "/ɡɪɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɪɡ/",
+            "/dʒɪɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu diễn",
+            "type": "",
+            "example": {
+                "en": "I forgot my music files here, and I've got another gig.",
+                "vi": "Tôi quên mấy file nhạc ở đây và tôi có buổi biểu diễn khác rồi."
+            }
+        },
+        {
+            "content": "cái xiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "GIG Việt Nam",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buổi biểu diễn",
+            "type": "",
+            "example": {
+                "en": "I forgot my music files here, and I've got another gig.",
+                "vi": "Tôi quên mấy file nhạc ở đây và tôi có buổi biểu diễn khác rồi."
+            }
+        },
+        {
+            "content": "công việc tạm thời",
+            "type": "",
+            "example": {
+                "en": "Don't worry, I'm not trying to calculate when I'm gonna need to get another gig.",
+                "vi": "Đừng lo, em không cố tính toán khi nào em sẽ cần tìm công việc tạm thời khác."
+            }
+        },
+        {
+            "content": "việc hữu hạn",
+            "type": "danh từ",
+            "example": {
+                "en": "Rachel was let go from a gig at a cable network as the office shifted to working from home.",
+                "vi": "Rachel được cho nghỉ việc hữu hạn ở 1 đài truyền hình khi văn phòng cho làm việc tại nhà."
+            }
+        },
+        {
+            "content": "gigabyte",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

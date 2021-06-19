@@ -1,0 +1,43 @@
+{
+    "word": "enchanting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈCHan(t)iNG/",
+            "/ɪnˈtʃæn(t)ɪŋ/",
+            "/enˈCHan(t)iNG/",
+            "/ɛnˈtʃæn(t)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtʃɑːntɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ bùa mê",
+            "type": "",
+            "example": {
+                "en": "Luka's chick is enchanting.",
+                "vi": "Cô gái của Luka đang bỏ bùa mê."
+            }
+        },
+        {
+            "content": "làm say mê",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm vui thích",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

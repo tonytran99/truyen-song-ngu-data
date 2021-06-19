@@ -1,0 +1,64 @@
+{
+    "word": "yeast",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yēst/",
+            "/jist/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jiːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "men",
+            "type": "noun",
+            "example": {
+                "en": "They become accessible to the yeast as food.",
+                "vi": "Chúng sẽ tiếp cận được với men thực phẩm."
+            }
+        },
+        {
+            "content": "men bia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nấm men",
+            "type": "",
+            "example": {
+                "en": "In microbiology, the most exciting thing I get to work with is yeast. SHELDON:",
+                "vi": "Trong vi sinh, điều thú vị nhất Tôi có thể làm việc với nấm men."
+            }
+        },
+        {
+            "content": "bọt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "men rượu",
+            "type": "",
+            "example": {
+                "en": "It needs to be the yeast.\"",
+                "vi": "Nó cần là men rượu cơ.''"
+            }
+        },
+        {
+            "content": "Nấm men",
+            "type": "",
+            "example": {
+                "en": "In microbiology, the most exciting thing I get to work with is yeast. SHELDON:",
+                "vi": "Trong vi sinh, điều thú vị nhất Tôi có thể làm việc với nấm men."
+            }
+        }
+    ]
+}

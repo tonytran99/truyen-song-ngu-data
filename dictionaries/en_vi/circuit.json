@@ -1,0 +1,141 @@
+{
+    "word": "circuit",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsərkət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsəːkɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạch",
+            "type": "noun",
+            "example": {
+                "en": "With this system a protection circuit has been built in.",
+                "vi": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong."
+            }
+        },
+        {
+            "content": "mạch điện",
+            "type": "",
+            "example": {
+                "en": "We can start to actually look at how circuits are configured.",
+                "vi": "Chúng ta có thể bắt đầu thấy cách các mạch điện hình thành."
+            }
+        },
+        {
+            "content": "vòng đua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường vòng quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản điện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chu trình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chu tuyến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chu vi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc kinh lý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc tuần du",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc tuần tra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "grid c.mạch lưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hệ thống rạp hát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "open ạch mở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "power c.mạch lực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rạp chiếu bóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sơ đồ",
+            "type": "",
+            "example": {
+                "en": "And for them, this looked like a circuit diagram.",
+                "vi": "Với McCulloch và Pitts, trông nó như một sơ đồ mạch điện."
+            }
+        },
+        {
+            "content": "sự đi vòng quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng quanh",
+            "type": "noun",
+            "example": {
+                "en": "A circuit overseer is appointed to serve the congregations in each circuit.",
+                "vi": "Một giám thị vòng quanh được bổ nhiệm để phục vụ các hội thánh trong mỗi vòng quanh."
+            }
+        },
+        {
+            "content": "đi vòng quanh",
+            "type": "",
+            "example": {
+                "en": "Word... travels around in the carny circuit.",
+                "vi": "Đi vòng quanh đất nước... với vai trò người biểu diễn tạm thời."
+            }
+        },
+        {
+            "content": "hành trình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "inebriate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈnēbrēˌāt/",
+            "/ɪˈnibriˌeɪt/",
+            "/iˈnēbrēət/",
+            "/ɪˈnibriət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈniːbrɪeɪt/",
+            "/ɪˈniːbrɪət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "say",
+            "type": "adjective",
+            "example": {
+                "en": "An inebriated college girl deserves to make it home safe at night.",
+                "vi": "Cô sinh viên say rượu xứng đáng được về nhà an toàn trong đêm."
+            }
+        },
+        {
+            "content": "làm say",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nghiện rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người say rượu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

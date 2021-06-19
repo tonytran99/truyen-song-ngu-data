@@ -1,0 +1,44 @@
+{
+    "word": "chinese",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌCHīˈnēz/",
+            "/ˌtʃaɪˈniz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃʌɪˈniːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Trung quốc",
+            "type": "",
+            "example": {
+                "en": "I started learning Chinese last week.",
+                "vi": "Tuần trước tôi mới bắt đầu học tiếng Trung quốc."
+            }
+        },
+        {
+            "content": "nhân dân Trung quốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trung quốc",
+            "type": "",
+            "example": {
+                "en": "I started learning Chinese last week.",
+                "vi": "Tuần trước tôi mới bắt đầu học tiếng Trung quốc."
+            }
+        }
+    ]
+}

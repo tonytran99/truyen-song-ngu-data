@@ -1,0 +1,45 @@
+{
+    "word": "conservatory",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsərvəˌtôrē/",
+            "/kənˈsərvəˌtɔri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəːvət(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "conservatoire",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà kính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhạc viện",
+            "type": "noun",
+            "example": {
+                "en": "Didn't you girls say you went to a conservatory?",
+                "vi": "Không phải hai cô nói là đã từng học nhạc viện sao?"
+            }
+        },
+        {
+            "content": "Trường nhạc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

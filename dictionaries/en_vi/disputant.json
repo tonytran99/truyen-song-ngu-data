@@ -1,0 +1,49 @@
+{
+    "word": "disputant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diˈspyo͞otnt/",
+            "/dɪˈspjutnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspjuːt(ə)nt/",
+            "/ˈdɪspjʊt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn cãi",
+            "type": "",
+            "example": {
+                "en": "And that calculation isn't much in dispute.",
+                "vi": "Và tính toán đó là không phải bàn cãi."
+            }
+        },
+        {
+            "content": "người bàn cãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tranh luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh luận",
+            "type": "",
+            "example": {
+                "en": "Strife, arguing, and disputations.",
+                "vi": "Sự xung đột, cãi vã và tranh luận."
+            }
+        }
+    ]
+}

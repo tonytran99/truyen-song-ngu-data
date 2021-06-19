@@ -1,0 +1,76 @@
+{
+    "word": "flaunt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flônt/",
+            "/flɔnt/",
+            "/flänt/",
+            "/flɑnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɔːnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoe",
+            "type": "verb",
+            "example": {
+                "en": "She's a married mother publicly flaunting the geriatric she's sleeping with.",
+                "vi": "Cô ta là bà mẹ có chồng thích khoe lão già khụ mà cô ta đã ngủ cùng."
+            }
+        },
+        {
+            "content": "sự khoe khoang",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự phô trương",
+            "type": "noun",
+            "example": {
+                "en": "she was mocking the gleeful flaunting of privilege.",
+                "vi": "cô ấy mỉa mai sự phô trương đặc quyền ấy."
+            }
+        },
+        {
+            "content": "bay phất phới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chưng diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoe khoang",
+            "type": "",
+            "example": {
+                "en": "He wouldn't brag about or flaunt his latest kill.",
+                "vi": "Hắn sẽ không khoe khoang hoặc phô trương lần giết mới nhất của mình."
+            }
+        },
+        {
+            "content": "phô trương",
+            "type": "",
+            "example": {
+                "en": "He wouldn't brag about or flaunt his latest kill.",
+                "vi": "Hắn sẽ không khoe khoang hoặc phô trương lần giết mới nhất của mình."
+            }
+        },
+        {
+            "content": "sự chưng diện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

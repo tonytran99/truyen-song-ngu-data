@@ -1,0 +1,114 @@
+{
+    "word": "invite",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvīt/",
+            "/ɪnˈvaɪt/",
+            "/ˈinvīt/",
+            "/ˈɪnvaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvʌɪt/",
+            "/ˈɪnvʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mời",
+            "type": "verb",
+            "example": {
+                "en": "You may invite to the festival whoever wants to come.",
+                "vi": "Bạn có thể mời bất ai muốn đến Festival."
+            }
+        },
+        {
+            "content": "gây hứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "That pool really looks inviting.",
+                "vi": "Bể bơi đó nhìn rất hấp dẫn."
+            }
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giấy mời",
+            "type": "",
+            "example": {
+                "en": "I asked Harriet if she had seen an invitation.",
+                "vi": "Tôi hỏi Harriet xem bà có thấy giấy mời không."
+            }
+        },
+        {
+            "content": "lời mời",
+            "type": "",
+            "example": {
+                "en": "She didn't accept the invitation.",
+                "vi": "Bà ấy từ chối lời mời của anh ta."
+            }
+        },
+        {
+            "content": "rủ rê",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự mời",
+            "type": "",
+            "example": {
+                "en": "However, the blessings would be the same irrespective of the order of invitation.12",
+                "vi": "Tuy nhiên, các phước lành sẽ giống nhau bất kể thứ tự của sự mời gọi.12"
+            }
+        },
+        {
+            "content": "đem lại",
+            "type": "",
+            "example": {
+                "en": "The example of my mother as a teacher in the home invites another thought, more generally about teaching.",
+                "vi": "Tấm gương của mẹ tôi là người thầy dạy trong nhà đem lại một ý nghĩ khác, tổng quát hơn về việc giảng dạy."
+            }
+        },
+        {
+            "content": "đưa ra lời mời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rủ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thỉnh",
+            "type": "",
+            "example": {
+                "en": "I am about to invite an army to march south.",
+                "vi": "Con đã thỉnh cầu một đạo quân đi xuống phía nam."
+            }
+        },
+        {
+            "content": "đề nghị",
+            "type": "verb",
+            "example": {
+                "en": "My recommendation to you is to accept their invitations.",
+                "vi": "Tôi đề nghị các anh chị em nên chấp nhận lời mời của họ."
+            }
+        }
+    ]
+}

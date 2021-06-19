@@ -1,0 +1,42 @@
+{
+    "word": "fatherland",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfäT͟Hərˌland/",
+            "/ˈfɑðərˌlænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɑːðəland/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tổ quốc",
+            "type": "noun",
+            "example": {
+                "en": "You must tell them what it means to serve your fatherland.",
+                "vi": "Cậu phải nói cho họ biết ý nghĩa của việc phục vụ tổ quốc là gì."
+            }
+        },
+        {
+            "content": "non nước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đất nước",
+            "type": "noun",
+            "example": {
+                "en": "I gave my life to the Fatherland!",
+                "vi": "Ta đã cống hiến cả đời cho đất nước."
+            }
+        }
+    ]
+}

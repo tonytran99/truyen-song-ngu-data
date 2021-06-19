@@ -1,0 +1,80 @@
+{
+    "word": "intermediate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈmēdēət/",
+            "/ˌɪn(t)ərˈmidiət/",
+            "/ˌin(t)ərˈmēdēāt/",
+            "/ˌɪn(t)ərˈmidieɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈmiːdɪət/",
+            "/ˌɪntəˈmiːdɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trung gian",
+            "type": "adjective",
+            "example": {
+                "en": "After all, what did the intermediate forms look like?",
+                "vi": "Sau hết tất cả, các dạng thức trung gian của nó trông giống cái gì nhì?"
+            }
+        },
+        {
+            "content": "trung cấp",
+            "type": "adjective",
+            "example": {
+                "en": "A resource cannot be created at the destination until one or more intermediate collections (folders) have been created",
+                "vi": "Không thể tạo một tài nguyên tại đích, cho đến khi một hay nhiều tập hợp trung cấp (thư mục) đã được tạo"
+            }
+        },
+        {
+            "content": "trung đẳng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm môi giới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hoà giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người làm trung gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật trung gian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật ở giữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở giữa",
+            "type": "",
+            "example": {
+                "en": "I do not think its intermediate from the alarm and locked the doors",
+                "vi": "Em không nghĩ nó ở giữa còi báo và những cánh cửa được khóa"
+            }
+        }
+    ]
+}

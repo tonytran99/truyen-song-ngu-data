@@ -1,0 +1,44 @@
+{
+    "word": "interpretable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtərprədəb(ə)l/",
+            "/ɪnˈtərprədəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtəːprɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể dịch được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể hiểu được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể trình diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể hiện",
+            "type": "",
+            "example": {
+                "en": "I need time with people in order to interpret them.",
+                "vi": "tôi cần thời gian với mọi người để thể hiện"
+            }
+        }
+    ]
+}

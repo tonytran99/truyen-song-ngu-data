@@ -1,0 +1,52 @@
+{
+    "word": "artwork",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärtˌwərk/",
+            "/ˈɑrtˌwərk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːtwəːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên cảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nguyên đồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tác phẩm nghệ thuật",
+            "type": "",
+            "example": {
+                "en": "We all know that seeing the artwork in person is amazing.",
+                "vi": "Ta đều biết thật tuyệt khi được trực tiếp chiêm ngưỡng các tác phẩm nghệ thuật."
+            }
+        },
+        {
+            "content": "đồ nghệ thuật",
+            "type": "",
+            "example": {
+                "en": "have started creating artwork with technology.",
+                "vi": "đã bắt đàu tạo ra đồ nghệ thuật sử sụng công nghệ."
+            }
+        },
+        {
+            "content": "đồ trang sức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "irrelevant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈreləvənt/",
+            "/əˈrɛləvənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈrɛlɪv(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thích hợp",
+            "type": "",
+            "example": {
+                "en": "Crimes that the government considered irrelevant.",
+                "vi": "Tội ác mà chính phủ coi là không thích hợp."
+            }
+        },
+        {
+            "content": "không thích đáng",
+            "type": "",
+            "example": {
+                "en": "And that was completely irrelevant.",
+                "vi": "Và điều đó hoàn toàn không thích đáng."
+            }
+        },
+        {
+            "content": "không liên quan",
+            "type": "",
+            "example": {
+                "en": "Every night at midnight, it deletes the irrelevant list.",
+                "vi": "Mỗi đêm vào lúc nửa đêm, nó xóa các danh sách không liên quan."
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "chew",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHo͞o/",
+            "/tʃu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhai",
+            "type": "verb",
+            "example": {
+                "en": "I chewed the gum.",
+                "vi": "Tôi đã nhai kẹo gum."
+            }
+        },
+        {
+            "content": "nhá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhằn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cud",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngẫm nghĩ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhai thuốc lá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

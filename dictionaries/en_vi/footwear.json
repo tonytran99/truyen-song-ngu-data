@@ -1,0 +1,45 @@
+{
+    "word": "footwear",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝otwer/",
+            "/ˈfʊtwɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊtwɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giày dép",
+            "type": "noun",
+            "example": {
+                "en": "Tidy Boots is very fussy about his footwear.",
+                "vi": "Tidy Boots thì rất cầu kì về giày dép."
+            }
+        },
+        {
+            "content": "dép",
+            "type": "noun",
+            "example": {
+                "en": "Tidy Boots is very fussy about his footwear.",
+                "vi": "Tidy Boots thì rất cầu kì về giày dép."
+            }
+        },
+        {
+            "content": "giày",
+            "type": "noun",
+            "example": {
+                "en": "Why did a Roman soldier need good footwear, and what does it illustrate?",
+                "vi": "Tại sao người lính La Mã cần có giày dép tốt, và điều này minh họa gì?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "decipher",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsīfər/",
+            "/dəˈsaɪfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsʌɪfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giải mã",
+            "type": "verb",
+            "example": {
+                "en": "I would have words alone, and see it deciphered.",
+                "vi": "Tôi muốn nói chuyện một mình với cô ấy, và giải mã chuyện đó."
+            }
+        },
+        {
+            "content": "giải",
+            "type": "verb noun",
+            "example": {
+                "en": "I would have words alone, and see it deciphered.",
+                "vi": "Tôi muốn nói chuyện một mình với cô ấy, và giải mã chuyện đó."
+            }
+        },
+        {
+            "content": "dịch mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải mật mã",
+            "type": "",
+            "example": {
+                "en": "John, if we're going to decipher this code, we need to look for more evidence.",
+                "vi": "John, nếu chúng ta muốn giải mật mã này, chúng ta phải tìm thêm bằng chứng."
+            }
+        },
+        {
+            "content": "sự giải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc mật mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoán",
+            "type": "",
+            "example": {
+                "en": "I also think his metaphors are tough enough to decipher after he's said them.",
+                "vi": "Tôi cũng nghĩ rằng cái ẩn dụ đó rất là khoai để mà đoán một khi anh ta nói ra."
+            }
+        }
+    ]
+}

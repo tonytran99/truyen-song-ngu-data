@@ -1,0 +1,41 @@
+{
+    "word": "hooray",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈrā/",
+            "/həˈreɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʊˈreɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "萬歲",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "hoan hô",
+            "type": "interjection",
+            "example": {
+                "en": "The brain puts it together and hooray !",
+                "vi": "Ở đây não làm nhiệm vụ kết hợp các âm thanh lại với nhau và hoan hô ."
+            }
+        },
+        {
+            "content": "vạn tuế",
+            "type": "interjection",
+            "example": {}
+        }
+    ]
+}

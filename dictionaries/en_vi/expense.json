@@ -1,0 +1,68 @@
+{
+    "word": "expense",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈspens/",
+            "/ɪkˈspɛns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspɛns/",
+            "/ɛkˈspɛns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phí tổn",
+            "type": "noun",
+            "example": {
+                "en": "Obviously, expenses must be calculated before a move is undertaken.",
+                "vi": "Rõ ràng, phải tính toán phí tổn trước khi dọn ra nước ngoài."
+            }
+        },
+        {
+            "content": "chi phí",
+            "type": "noun",
+            "example": {
+                "en": "The expense is 10000 yen at lowest.",
+                "vi": "Chi phí tối thiểu là 10000 yen."
+            }
+        },
+        {
+            "content": "công tác phí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phí công tác",
+            "type": "noun",
+            "example": {
+                "en": "(Titus 2:9, 10) Jurandir, who works at a government agency, was honest when reporting his travel expenses.",
+                "vi": "Anh Jurandir, làm việc tại một cơ quan của chính phủ, đã trung thực khi báo cáo về chi phí công tác."
+            }
+        },
+        {
+            "content": "phụ phí",
+            "type": "noun",
+            "example": {
+                "en": "For starters they've got reams of cheques he wrote for false expenses.",
+                "vi": "Ví dụ như, họ có hàng chồng séc anh ta kê khai là chi tiêu phụ phí."
+            }
+        },
+        {
+            "content": "sự tiêu",
+            "type": "noun",
+            "example": {
+                "en": "but not, of course, at the expense of our own sanity.",
+                "vi": "nhưng không phải, tất nhiên, bằng sự tiêu phí sự tinh thần của chúng ta."
+            }
+        }
+    ]
+}

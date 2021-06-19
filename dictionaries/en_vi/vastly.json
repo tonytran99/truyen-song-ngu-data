@@ -1,0 +1,52 @@
+{
+    "word": "vastly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvas(t)lē/",
+            "/ˈvæs(t)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɑːstli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "to",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bao la",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "mênh mông",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "rộng lớn",
+            "type": "adverb",
+            "example": {
+                "en": "so we have this vastly rich multiverse",
+                "vi": "vậy chúng ta có một đa vũ trụ rộng lớn"
+            }
+        },
+        {
+            "content": "vô cùng",
+            "type": "adjective noun adverb",
+            "example": {
+                "en": "are going to make you vastly overconfident",
+                "vi": "làm cho bạn trở nên vô cùng ngạo mạn"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "word": "cancerous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkansərəs/",
+            "/ˈkænsərəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkans(ə)rəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ung thư",
+            "type": "noun",
+            "example": {
+                "en": "The doctors are engaged in cancer research.",
+                "vi": "Những vị bác sĩ được tuyển vào trương trình nghiên cứu bệnh ung thư."
+            }
+        }
+    ]
+}

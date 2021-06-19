@@ -1,0 +1,56 @@
+{
+    "word": "wakeful",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwākfəl/",
+            "/ˈweɪkfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪkfʊl/",
+            "/ˈweɪkf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cảnh giác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ngủ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thao thức",
+            "type": "",
+            "example": {
+                "en": "Or do you wake up in the middle of the night and lie awake for hours , anxiously watching the clock ?",
+                "vi": "Hay là bạn thức giấc lúc đêm và lại nằm thao thức hàng tiếng đồng hồ , bồn chồn nhìn thời gian trôi ?"
+            }
+        },
+        {
+            "content": "tỉnh táo",
+            "type": "",
+            "example": {
+                "en": "Give me a chance to wake up sweetheart.",
+                "vi": "Cho tôi tỉnh táo một tí đã chứ, cô gái."
+            }
+        },
+        {
+            "content": "thức",
+            "type": "verb noun",
+            "example": {
+                "en": "Millions of spiritual creatures walk the earth unseen, both when we wake, and when we sleep.",
+                "vi": "Hàng triệu sinh vật thuộc linh hồn đi trên Trái Đất không được nhìn thấy, cả khi chúng ta thức, và khi chúng ta ngủ."
+            }
+        }
+    ]
+}

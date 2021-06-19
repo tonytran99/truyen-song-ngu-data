@@ -1,0 +1,47 @@
+{
+    "word": "gravy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrāvē/",
+            "/ˈɡreɪvi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪvi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nước thịt",
+            "type": "",
+            "example": {
+                "en": "And make some gravy out of the grease.",
+                "vi": "Và làm chút nước thịt từ mỡ heo."
+            }
+        },
+        {
+            "content": "nước chấm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "món lời dễ kiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước xốt",
+            "type": "noun",
+            "example": {
+                "en": "which cost 4p each, and gravy was free.",
+                "vi": "mỗi thứ chỉ tốn 4 xu, và nước xốt miễn phí"
+            }
+        }
+    ]
+}

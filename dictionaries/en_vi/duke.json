@@ -1,0 +1,61 @@
+{
+    "word": "duke",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/d(y)o͞ok/",
+            "/d(j)uk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/djuːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công tước",
+            "type": "noun",
+            "example": {
+                "en": "A thousand rich dukes and satraps want to be kings.",
+                "vi": "Hàng ngàn tên công tước và phó vương giàu sụ muốn làm vua."
+            }
+        },
+        {
+            "content": "nắm tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nắm đấm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quận công",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "công",
+            "type": "noun",
+            "example": {
+                "en": "A thousand rich dukes and satraps want to be kings.",
+                "vi": "Hàng ngàn tên công tước và phó vương giàu sụ muốn làm vua."
+            }
+        },
+        {
+            "content": "Công tước",
+            "type": "",
+            "example": {
+                "en": "They say the duke deflowered his niece.",
+                "vi": "Chúng bảo là Ngài Công tước hãm hiếp cháu gái."
+            }
+        }
+    ]
+}

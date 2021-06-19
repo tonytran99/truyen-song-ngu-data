@@ -1,0 +1,56 @@
+{
+    "word": "grime",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrīm/",
+            "/ɡraɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bụi bẩn",
+            "type": "",
+            "example": {
+                "en": "In the process, they remove layers of built-up grime and reverse previous crude restoration attempts.",
+                "vi": "Trong tiến trình thực hiện, họ tẩy đi những lớp bụi bẩn đóng lâu ngày và chỉnh lại những chỗ sửa không khéo trước kia."
+            }
+        },
+        {
+            "content": "cáu ghét",
+            "type": "",
+            "example": {
+                "en": "I'm covered in songwriting grime.",
+                "vi": "Người tôi đầy cáu ghét."
+            }
+        },
+        {
+            "content": "làm cho cáu ghét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bẩn",
+            "type": "adjective",
+            "example": {
+                "en": "Don't want to get my grime all over you.",
+                "vi": "Bố không muốn dính bẩn cho con."
+            }
+        },
+        {
+            "content": "đồ bẩn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

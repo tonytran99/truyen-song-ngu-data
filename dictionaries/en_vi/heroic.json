@@ -1,0 +1,84 @@
+{
+    "word": "heroic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈrōik/",
+            "/həˈroʊɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈrəʊɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh hùng",
+            "type": "adjective",
+            "example": {
+                "en": "Oh, and that sounds heroic to you, doesn't it?",
+                "vi": "Với em điều đó có vẻ anh hùng quá nhỉ?"
+            }
+        },
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cường điệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dám làm việc lớn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hào hùng",
+            "type": "",
+            "example": {
+                "en": "So they make kind of heroic assumptions about that.",
+                "vi": "Vì thế họ làm những giả thuyết hào hùng về điều đó."
+            }
+        },
+        {
+            "content": "hùng mạnh khác thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoa trương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quả cảm",
+            "type": "adjective",
+            "example": {
+                "en": "Some require heroic action, but most are less spectacular.",
+                "vi": "Một số điều đòi hỏi hành động quả cảm nhưng hầu hết đều ít ngoạn mục hơn."
+            }
+        },
+        {
+            "content": "to lớn khác thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dũng cảm",
+            "type": "adjective",
+            "example": {
+                "en": "In a heroic act, the man pushed his wife aside and let the shark take him.",
+                "vi": "Người chồng dũng cảm đẩy vợ qua một bên và để cho cá mập nuốt ông."
+            }
+        }
+    ]
+}

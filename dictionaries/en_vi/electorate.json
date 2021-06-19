@@ -1,0 +1,39 @@
+{
+    "word": "electorate",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlekt(ə)rət/",
+            "/əˈlɛkt(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛkt(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "toàn bộ cử tri",
+            "type": "",
+            "example": {
+                "en": "Twelve percent of the electorate strongly opposes me.",
+                "vi": "12% của toàn bộ cử tri đối nghịch với tôi."
+            }
+        },
+        {
+            "content": "khu bầu cử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đất tuyển hầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

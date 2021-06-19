@@ -1,0 +1,39 @@
+{
+    "word": "analects",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanlˌek(t)s/",
+            "/ˈænlˌɛk(t)s/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈanəlɛkts/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "選集",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyển tập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sách văn tuyển",
+            "type": "plural",
+            "example": {
+                "en": "The Analects (Confucianism) 480 B.C.E.",
+                "vi": "Sách Văn Tuyển 480 TCN"
+            }
+        }
+    ]
+}

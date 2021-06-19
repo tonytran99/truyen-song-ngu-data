@@ -1,0 +1,202 @@
+{
+    "word": "find",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fīnd/",
+            "/faɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tìm",
+            "type": "verb",
+            "example": {
+                "en": "How do you find food in outer space?",
+                "vi": "Làm sao để tìm được thức ăn khi đang ở ngoài không gian?"
+            }
+        },
+        {
+            "content": "tìm thấy",
+            "type": "",
+            "example": {
+                "en": "You won't find much news in today's newspaper.",
+                "vi": "Bạn không thể tìm thấy tin tức gì nhiều trong báo ngày hôm nay."
+            }
+        },
+        {
+            "content": "thấy",
+            "type": "verb",
+            "example": {
+                "en": "Students often find it very difficult to understand a lecture in a foreign language.",
+                "vi": "Sinh viên cảm thường thấy rất khó hiểu một bài giảng bằng tiếng nước ngoài."
+            }
+        },
+        {
+            "content": "kiếm",
+            "type": "verb",
+            "example": {
+                "en": "Whenever I find something I like, it's too expensive.",
+                "vi": "Hễ tôi kiếm được cái gì tôi thích thì nó lại đắt quá."
+            }
+        },
+        {
+            "content": "được",
+            "type": "verb",
+            "example": {
+                "en": "Whenever I find something I like, it's too expensive.",
+                "vi": "Hễ tôi kiếm được cái gì tôi thích thì nó lại đắt quá."
+            }
+        },
+        {
+            "content": "nhận",
+            "type": "verb",
+            "example": {
+                "en": "I think you'll find our little island quite charming.",
+                "vi": "Hy vọng quý vị nhận thấy hòn đảo nhỏ của chúng tôi đáng yêu."
+            }
+        },
+        {
+            "content": "bắt được",
+            "type": "",
+            "example": {
+                "en": "Just because you caught me Doesn't mean you'll find him.",
+                "vi": "Chỉ vì cậu bắt được tôi không có nghĩa là cậu sẽ tìm ra nó."
+            }
+        },
+        {
+            "content": "nhận thấy",
+            "type": "",
+            "example": {
+                "en": "I think you'll find our little island quite charming.",
+                "vi": "Hy vọng quý vị nhận thấy hòn đảo nhỏ của chúng tôi đáng yêu."
+            }
+        },
+        {
+            "content": "gặp",
+            "type": "verb",
+            "example": {
+                "en": "I need to find him and his boss.",
+                "vi": "Tôi muốn gặp hắn, cũng như ông chủ của hắn."
+            }
+        },
+        {
+            "content": "tới",
+            "type": "adjective verb adposition",
+            "example": {
+                "en": "She said she'd find me someone for the wedding.",
+                "vi": "Cô ta nói cô ta sẽ tìm cho tôi một ai đó để tới lễ cưới."
+            }
+        },
+        {
+            "content": "trúng",
+            "type": "verb",
+            "example": {
+                "en": "A shot in the dark rarely finds its target.",
+                "vi": "Một phát đạn trong bóng tối hiếm khi trúng đích."
+            }
+        },
+        {
+            "content": "cung cấp",
+            "type": "",
+            "example": {
+                "en": "Depends on the loads I find.",
+                "vi": "Điều đó phụ thuộc vào nhà cung cấp."
+            }
+        },
+        {
+            "content": "nhận được",
+            "type": "",
+            "example": {
+                "en": "Last time, they couldn't find it, and that was unacceptable.",
+                "vi": "Lần trước, họ không thể tìm thấy, và như thế thật không chấp nhận được."
+            }
+        },
+        {
+            "content": "sự tìm thấy",
+            "type": "",
+            "example": {
+                "en": "Entrusted by Hilkiah with this sensational find, Shaphan the secretary reported to the king what had transpired.",
+                "vi": "Với sự tìm thấy kỳ diệu này, được Hinh-kia ủy thác, thư ký Sa-phan tường trình với vua điều đã xảy ra."
+            }
+        },
+        {
+            "content": "thấy có",
+            "type": "",
+            "example": {
+                "en": "How surprised he was to find as many blueberries as ever.",
+                "vi": "Nó ngạc nhiên biết bao khi thấy có rất nhiều quả dâu xanh hơn bao giờ hết."
+            }
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {
+                "en": "The police will get you to find the bullets.",
+                "vi": "Cảnh sát sẽ bắt bạn tìm ra mấy viên đạn."
+            }
+        },
+        {
+            "content": "vật tìm thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xét thấy",
+            "type": "",
+            "example": {
+                "en": "But when they find one innocent, it will have been “loosened in heaven.”",
+                "vi": "Nhưng khi họ xét thấy người ấy vô tội thì phán quyết của họ “sẽ là điều đã mở ở trên trời”."
+            }
+        },
+        {
+            "content": "đạt tới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "coi",
+            "type": "interjection verb",
+            "example": {
+                "en": "Now, find out if she's going to the ball tomorrow night.",
+                "vi": "Giờ thì xem coi bà ta có đến buổi dạ hội tối mai hay không."
+            }
+        },
+        {
+            "content": "quơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "I find a lot of people find it very, very unlikely that we should do that.",
+                "vi": "Tôi thấy rất nhiều người cho rằng chúng ta không nên giải quyết cái đó."
+            }
+        },
+        {
+            "content": "kiếm thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tìm được",
+            "type": "",
+            "example": {
+                "en": "How do you find food in outer space?",
+                "vi": "Làm sao để tìm được thức ăn khi đang ở ngoài không gian?"
+            }
+        }
+    ]
+}

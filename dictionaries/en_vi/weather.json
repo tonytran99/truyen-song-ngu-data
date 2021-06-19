@@ -1,0 +1,104 @@
+{
+    "word": "weather",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweT͟Hər/",
+            "/ˈwɛðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thời tiết",
+            "type": "noun",
+            "example": {
+                "en": "According to the weather forecast, it'll snow tomorrow.",
+                "vi": "Theo dự báo thời tiết, mai sẽ có tuyết."
+            }
+        },
+        {
+            "content": "時節",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mòn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sống sót",
+            "type": "",
+            "example": {
+                "en": "\" The survivors are now trying to survive the cold weather . \"",
+                "vi": "\" Những người sống sót bây giờ đang cố sống trong thời tiết lạnh lẽo . \""
+            }
+        },
+        {
+            "content": "chiến thắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầm mưa dãi gió",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả nước cũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm giả sắc cũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong hóa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phơi nắng phơi sương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rã ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiết trời",
+            "type": "",
+            "example": {
+                "en": "Is it shorts weather where we're going?",
+                "vi": "Chỗ chúng ta đi tiết trời nắng ráo chứ?"
+            }
+        },
+        {
+            "content": "vượt qua",
+            "type": "",
+            "example": {
+                "en": "I just need you guys to help me weather the storm.",
+                "vi": "Tôi chỉ muốn các anh giúp tôi vượt qua cơn bão này thôi."
+            }
+        },
+        {
+            "content": "đổi màu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

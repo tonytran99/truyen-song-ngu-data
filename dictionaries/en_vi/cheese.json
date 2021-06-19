@@ -1,0 +1,124 @@
+{
+    "word": "cheese",
+    "type": [
+        "interjection",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHēz/",
+            "/tʃiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃiːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "pho mát",
+            "type": "noun",
+            "example": {
+                "en": "I noticed that the cheese was just like American cheese.",
+                "vi": "Tôi để ý thấy pho mát giống như pho mát Mỹ."
+            }
+        },
+        {
+            "content": "phó mát",
+            "type": "noun",
+            "example": {
+                "en": "Will you take them some bread with butter and cheese?",
+                "vi": "Anh có thể đem bánh mì và phó mát cho chúng được không?"
+            }
+        },
+        {
+            "content": "phô ma",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phô mai",
+            "type": "noun",
+            "example": {
+                "en": "Mother made us cheese sandwiches for lunch.",
+                "vi": "Mẹ làm bánh mỳ kẹp phô mai cho bọn tôi ăn trưa."
+            }
+        },
+        {
+            "content": "mát",
+            "type": "adjective",
+            "example": {
+                "en": "Your virginity breeds mites, much like a cheese.",
+                "vi": "Màng trinh của mụ có giòi chui ra, lỗ chỗ như pho mát rồi."
+            }
+        },
+        {
+            "content": "thôi",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "ngừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh phó mát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bậc nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chú ý",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phó-mát",
+            "type": "",
+            "example": {
+                "en": "Will you take them some bread with butter and cheese?",
+                "vi": "Anh có thể đem bánh mì và phó mát cho chúng được không?"
+            }
+        },
+        {
+            "content": "sữa trớ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trớ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật đóng bánh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phó",
+            "type": "",
+            "example": {
+                "en": "Will you take them some bread with butter and cheese?",
+                "vi": "Anh có thể đem bánh mì và phó mát cho chúng được không?"
+            }
+        },
+        {
+            "content": "Pho mát",
+            "type": "",
+            "example": {
+                "en": "The cheese will be served after the cakes, my lady.",
+                "vi": "Pho mát sẽ được mang ra sau khi phu nhân dùng xong bánh ạ."
+            }
+        }
+    ]
+}

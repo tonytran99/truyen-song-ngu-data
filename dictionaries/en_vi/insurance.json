@@ -1,0 +1,79 @@
+{
+    "word": "insurance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈSHo͝orəns/",
+            "/ɪnˈʃʊrəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈʃʊər(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảo hiểm",
+            "type": "noun",
+            "example": {
+                "en": "We're talking about a guy who was insured by my client.",
+                "vi": "Nói về người được bảo hiểm bởi khách hàng tôi."
+            }
+        },
+        {
+            "content": "hợp đồng bảo hiểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bảo hiểm",
+            "type": "",
+            "example": {
+                "en": "I got plenty of insurance.",
+                "vi": "Tôi có kha khá sự bảo hiểm rồi."
+            }
+        },
+        {
+            "content": "tiền đóng bảo hiểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảo vệ",
+            "type": "noun",
+            "example": {
+                "en": "Border patrol asks for proof of insurance to get back in.",
+                "vi": "Bảo vệ biên giới sẽ yêu cầu chứng minh bảo hiểm xe để vào lại Mỹ."
+            }
+        },
+        {
+            "content": "bảo đảm",
+            "type": "noun",
+            "example": {
+                "en": "They're providing the pollination insurance alongside our honeybees.",
+                "vi": "Chúng bảo đảm cho sự thụ phấn cùng với ong mật của chúng ta."
+            }
+        },
+        {
+            "content": "tiền bảo hiểm",
+            "type": "",
+            "example": {
+                "en": "She was dropped from her insurance carrier when she hit stage Ill.",
+                "vi": "Cô ấy bị cắt tiền bảo hiểm khi bị bệnh."
+            }
+        },
+        {
+            "content": "Bảo hiểm",
+            "type": "",
+            "example": {
+                "en": "Border patrol asks for proof of insurance to get back in.",
+                "vi": "Bảo vệ biên giới sẽ yêu cầu chứng minh bảo hiểm xe để vào lại Mỹ."
+            }
+        }
+    ]
+}

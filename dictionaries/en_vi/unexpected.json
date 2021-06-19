@@ -1,0 +1,86 @@
+{
+    "word": "unexpected",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəkˈspektəd/",
+            "/ˌənəkˈspɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪkˈspɛktɪd/",
+            "/ʌnɛkˈspɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất ngờ",
+            "type": "adjective",
+            "example": {
+                "en": "But what if there is an unexpected emergency?",
+                "vi": "Nhưng nói gì nếu có một sự khẩn trương bất ngờ?"
+            }
+        },
+        {
+            "content": "không ngờ",
+            "type": "",
+            "example": {
+                "en": "Seeing you so unexpected has lifted questionable spirits.",
+                "vi": "Gặp lại anh một cách tình cờ đã nâng đỡ tinh thần không ngờ."
+            }
+        },
+        {
+            "content": "bất kỳ",
+            "type": "adjective",
+            "example": {
+                "en": "They use good judgment when handling any unexpected disturbances.",
+                "vi": "Các anh phải sáng suốt khi giải quyết bất kỳ tình huống nào bất ngờ xảy ra."
+            }
+        },
+        {
+            "content": "không mong đợi",
+            "type": "adjective",
+            "example": {
+                "en": "I wanted to save Geordi, but experienced something unexpected.",
+                "vi": "Tôi muốn cứu Geordi, nhưng tôi cảm nhận một điều gì đó mà tôi không mong đợi."
+            }
+        },
+        {
+            "content": "sự kiện bất ngờ",
+            "type": "noun",
+            "example": {
+                "en": "Then, one day, an unexpected event changed the nature of the city and the nation.",
+                "vi": "Rồi đến một ngày, một sự kiện bất ngờ đã làm thay đổi thành phố này và cả nước Nhật."
+            }
+        },
+        {
+            "content": "thình lình",
+            "type": "adjective",
+            "example": {
+                "en": "It gives him the likelihood of sudden and unexpected death.",
+                "vi": "Nó cũng làm cho anh ta chết tươi bất thình lình."
+            }
+        },
+        {
+            "content": "điều không ngờ",
+            "type": "noun",
+            "example": {
+                "en": "We must resort to the unexpected.",
+                "vi": "Chúng ta phải dùng đến điều không ngờ."
+            }
+        },
+        {
+            "content": "đột xuất",
+            "type": "adjective",
+            "example": {
+                "en": "Not if there were unexpected maintenance with his plane.",
+                "vi": "Không đâu, nếu như có việc bảo trì đột xuất đối với máy bay của anh ta."
+            }
+        }
+    ]
+}

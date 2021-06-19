@@ -1,0 +1,78 @@
+{
+    "word": "fishy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiSHē/",
+            "/ˈfɪʃi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪʃi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá",
+            "type": "noun",
+            "example": {
+                "en": "I've smelled the fishy, fishy breath of humpback whales",
+                "vi": "Tôi ngửi thấy luồng hít đầy cá của những chú cá voi lưng gù"
+            }
+        },
+        {
+            "content": "ám muội",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đáng nghi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tanh",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "có mùi cá",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khả nghi",
+            "type": "",
+            "example": {
+                "en": "Now what's so mighty fishy about this trail?",
+                "vi": "Bây giờ, có cái gì khả nghi trên con đường này?"
+            }
+        },
+        {
+            "content": "lắm cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiều cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "như cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quẹo cọ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

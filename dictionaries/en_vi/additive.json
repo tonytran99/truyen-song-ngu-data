@@ -1,0 +1,50 @@
+{
+    "word": "additive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadədiv/",
+            "/ˈædədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadɪtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phụ gia",
+            "type": "",
+            "example": {
+                "en": "Are you familiar with the racing fuel additive, nitro methane?",
+                "vi": "Cậu có từng biết qua nhiên liệu phụ gia để đua, nitro mêtan không?"
+            }
+        },
+        {
+            "content": "vật để cộng vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật để thêm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để cộng vào",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "để thêm vào",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "chaplain",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHaplən/",
+            "/ˈtʃæplən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃaplɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giáo sĩ",
+            "type": "",
+            "example": {
+                "en": "So he called for the college chaplain to receive the books.",
+                "vi": "Vì vậy ông gọi vị giáo sĩ của trường đại học đến nhận sách."
+            }
+        },
+        {
+            "content": "Tuyên úy",
+            "type": "",
+            "example": {
+                "en": "However, chaplains in the military could not really answer my questions either.",
+                "vi": "Ngay cả sĩ quan tuyên úy cũng không thể thật sự giải đáp những thắc mắc của tôi."
+            }
+        },
+        {
+            "content": "cha tuyên úy",
+            "type": "",
+            "example": {
+                "en": "One day during the war, a chaplain visited Father’s unit.",
+                "vi": "Một hôm, cha tuyên úy đến thăm đơn vị cha tôi tại chiến trường."
+            }
+        }
+    ]
+}

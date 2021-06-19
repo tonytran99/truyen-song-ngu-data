@@ -1,0 +1,63 @@
+{
+    "word": "exceptional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌikˈsepSH(ə)n(ə)l/",
+            "/ˌɪkˈsɛpʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈsɛpʃ(ə)n(ə)l/",
+            "/ɛkˈsɛpʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đặc biệt",
+            "type": "noun",
+            "example": {
+                "en": "Claire, you're an exceptional young woman, and you deserve an exceptional education.",
+                "vi": "Claire, cháu là một phụ nữ trẻ đặc biệt, Cháu xứng đáng với sự giáo dục như vậy."
+            }
+        },
+        {
+            "content": "khác thường",
+            "type": "noun",
+            "example": {
+                "en": "A person of exceptional intellectual ability, someone with a totally unique way of thinking.",
+                "vi": "Một người có tài trí khác thường, một người với một kiểu tư duy hoàn toàn khác biệt."
+            }
+        },
+        {
+            "content": "ngoại lệ",
+            "type": "adjective",
+            "example": {
+                "en": "I think he'd make an exception for a thief.",
+                "vi": "Tôi nghĩ anh ta sẽ có ngoại lệ cho một tên trộm."
+            }
+        },
+        {
+            "content": "phi thường",
+            "type": "noun",
+            "example": {
+                "en": "You did exceptional work the last couple of days.",
+                "vi": "Cô đã làm việc phi thường vài ngày qua."
+            }
+        },
+        {
+            "content": "hiếm có",
+            "type": "",
+            "example": {
+                "en": "Forgive my appearance, but I really am quite exceptional with numbers.",
+                "vi": "Xin thứ lỗi vì diện mạo của tôi, nhưng đối với các con số thì tôi là dạng hiếm có."
+            }
+        }
+    ]
+}

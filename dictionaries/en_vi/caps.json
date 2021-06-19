@@ -1,0 +1,40 @@
+{
+    "word": "caps",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaps/",
+            "/kæps/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaps/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chữ hoa",
+            "type": "noun",
+            "example": {
+                "en": "Warning: Caps Lock on",
+                "vi": "Cảnh báo: phím khoá chữ hoa Caps Lock đã bật"
+            }
+        },
+        {
+            "content": "các chữ hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "những chữ cái hoa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

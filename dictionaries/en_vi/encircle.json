@@ -1,0 +1,82 @@
+{
+    "word": "encircle",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsərk(ə)l/",
+            "/ɪnˈsərk(ə)l/",
+            "/enˈsərk(ə)l/",
+            "/ɛnˈsərk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsəːk(ə)l/",
+            "/ɛnˈsəːk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao vây",
+            "type": "verb",
+            "example": {
+                "en": "By then, the camp was encircled by military forces ready to storm it at the first command.",
+                "vi": "Lúc đó, quân đội đã bao vây trại, sẵn sàng tấn công ngay khi có lệnh."
+            }
+        },
+        {
+            "content": "vây",
+            "type": "verb",
+            "example": {
+                "en": "By then, the camp was encircled by military forces ready to storm it at the first command.",
+                "vi": "Lúc đó, quân đội đã bao vây trại, sẵn sàng tấn công ngay khi có lệnh."
+            }
+        },
+        {
+            "content": "ôm",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "bao quanh",
+            "type": "verb",
+            "example": {
+                "en": "The whole herd encircles the calf with a protective wall of horns.",
+                "vi": "Cả đàn bao quanh con bê với bức tường sừng bảo vệ nó."
+            }
+        },
+        {
+            "content": "bủa vây",
+            "type": "",
+            "example": {
+                "en": "Lead, kindly Light, amid th’ encircling gloom; Lead thou me on!",
+                "vi": "Ánh Sáng nhân từ, xin dắt dìu, qua bóng tối bủa vây con; xin dắt dìu con tiến tới!"
+            }
+        },
+        {
+            "content": "chạy vòng quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vây quanh",
+            "type": "",
+            "example": {
+                "en": "Though ropes of death encircle me, I call to you,",
+                "vi": "Lúc hoạn nạn, dây chết vây quanh thì con cầu xin Cha:"
+            }
+        },
+        {
+            "content": "đi vòng quanh",
+            "type": "",
+            "example": {
+                "en": "I circle the globe in search of a creature who can encircle a globe.",
+                "vi": "Ta đi vòng quanh trái đất để tìm kiếm sinh vật mà có thể vòng quay trái đất."
+            }
+        }
+    ]
+}

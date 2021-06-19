@@ -1,0 +1,92 @@
+{
+    "word": "dwelling",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdweliNG/",
+            "/ˈdwɛlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdwɛlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà ở",
+            "type": "noun",
+            "example": {
+                "en": "Many caves still serve as dwellings.",
+                "vi": "Nhiều hang động vẫn được dùng làm nhà ở."
+            }
+        },
+        {
+            "content": "chỗ ở",
+            "type": "noun",
+            "example": {
+                "en": "Some of those homes are very basic dwellings.",
+                "vi": "Một số nhà là những chỗ ở rất đơn sơ."
+            }
+        },
+        {
+            "content": "nhà cửa",
+            "type": "noun",
+            "example": {
+                "en": "Some have repeatedly been forced to leave their dwellings.",
+                "vi": "Có người phải bỏ nhà cửa ra đi đến mấy lần."
+            }
+        },
+        {
+            "content": "phòng ốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dừng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ngụ ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đứng chững lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "Some have repeatedly been forced to leave their dwellings.",
+                "vi": "Có người phải bỏ nhà cửa ra đi đến mấy lần."
+            }
+        },
+        {
+            "content": "sự cư ngụ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nơi cư trú",
+            "type": "",
+            "example": {
+                "en": "Many who lost their homes needed transitional housing to tide them over until they could find more-permanent dwellings.",
+                "vi": "Nhiều người mất nhà cần nơi cư trú tạm thời cho đến khi họ tìm được chỗ ở ổn định hơn."
+            }
+        }
+    ]
+}

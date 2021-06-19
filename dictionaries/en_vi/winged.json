@@ -1,0 +1,43 @@
+{
+    "word": "winged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiNGd/",
+            "/wɪŋd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪŋd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có cánh",
+            "type": "",
+            "example": {
+                "en": "Love must have wings to fly away from love, and to fly back again.",
+                "vi": "Tình yêu phải có cánh để bay khỏi tình yêu, và lại bay trở lại."
+            }
+        },
+        {
+            "content": "nhanh",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Odus was just winged.",
+                "vi": "Aaron và CC ngã xuống đất chết, còn Odus nhanh hơn."
+            }
+        },
+        {
+            "content": "được chắp cánh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

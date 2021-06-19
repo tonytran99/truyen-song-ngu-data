@@ -1,0 +1,48 @@
+{
+    "word": "lateral",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈladərəl/",
+            "/ˈlædərəl/",
+            "/ˈlatrəl/",
+            "/ˈlætrəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlat(ə)r(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở bên",
+            "type": "adjective",
+            "example": {
+                "en": "Nine years later he was visiting a friend across town when the missionaries knocked at the door.",
+                "vi": "Chín năm sau khi anh ấy đang đi thăm một người bạn sống ở bên kia phố thì những người truyền giáo đến gõ cửa."
+            }
+        },
+        {
+            "content": "bộ phận bên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần bên",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vật bên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

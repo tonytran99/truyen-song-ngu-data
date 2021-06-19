@@ -1,0 +1,83 @@
+{
+    "word": "diverge",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvərj/",
+            "/dəˈvərdʒ/",
+            "/dīˈvərj/",
+            "/daɪˈvərdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈvəːdʒ/",
+            "/dɪˈvəːdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "They have different interests. They have divergent values.",
+                "vi": "Chúng có sở thích khác nhau. Chúng có giá trị khác nhau."
+            }
+        },
+        {
+            "content": "rẽ ra",
+            "type": "",
+            "example": {
+                "en": "Two roads diverged in a wood, and I—",
+                "vi": "Có hai con đường rẽ ra trong một khu rừng, và tôi—"
+            }
+        },
+        {
+            "content": "trệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất đồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm phân kỳ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm rẽ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm trệch đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân kỳ",
+            "type": "",
+            "example": {
+                "en": "that explains this great divergence,",
+                "vi": "giải thích cho sự phân kỳ tuyệt vời này,"
+            }
+        },
+        {
+            "content": "phân kỳ lệch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi trệch",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

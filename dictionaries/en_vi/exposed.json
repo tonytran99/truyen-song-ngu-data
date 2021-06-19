@@ -1,0 +1,51 @@
+{
+    "word": "exposed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ikˈsplōdəd/",
+            "/ɪkˈsploʊdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspəʊzd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hổng hểnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phơi bày",
+            "type": "adjective",
+            "example": {
+                "en": "That I just don't want to end up more exposed.",
+                "vi": "Rằng em không muốn bị phơi bày thêm nữa."
+            }
+        },
+        {
+            "content": "phơi ra",
+            "type": "adjective",
+            "example": {
+                "en": "And third, layers of those rocks must be naturally exposed.",
+                "vi": "Và thứ ba, các lớp của những tảng đá kia phải được phơi ra một cách tự nhiên"
+            }
+        },
+        {
+            "content": "trống trải",
+            "type": "adjective",
+            "example": {
+                "en": "According to the blueprint, the substructure is completely exposed.",
+                "vi": "theo như bản vẽ này, cấu trúc bên dưới nó hoàn toàn trống trải."
+            }
+        }
+    ]
+}

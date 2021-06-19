@@ -1,0 +1,52 @@
+{
+    "word": "werewolf",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwerˌwo͝olf/",
+            "/ˈwɛrˌwʊlf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛːwʊlf/",
+            "/ˈwɪəːwʊlf/",
+            "/ˈwəːwʊlf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người sói",
+            "type": "noun",
+            "example": {
+                "en": "You see, long before I evolved, mine beat as a werewolf.",
+                "vi": "Trước khi tôi chưa chuyển hóa, nhịp đập tim tôi là của một người sói."
+            }
+        },
+        {
+            "content": "ma sói",
+            "type": "noun",
+            "example": {
+                "en": "I'm sorry I let you get attacked by a werewolf and then ended the world.",
+                "vi": "Anh xin lỗi đã để em bị ma sói tấn công và dẫn tới ngày tàn của thế giới."
+            }
+        },
+        {
+            "content": "ma chó sói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Người sói",
+            "type": "",
+            "example": {
+                "en": "The werewolf only responds to the call of its own kind.",
+                "vi": "Người sói chỉ trả lời tiếng gọi của đồng loại mình."
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "immigration",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌiməˈɡrāSH(ə)n/",
+            "/ˌɪməˈɡreɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmɪˈɡreɪʃn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhập cư",
+            "type": "noun",
+            "example": {
+                "en": "Looks like some sort of way station for undocumented immigrants.",
+                "vi": "Trông giống một kiểu trạm dừng giữa đường cho người nhập cư không giấy tờ."
+            }
+        },
+        {
+            "content": "sự nhập cư",
+            "type": "noun",
+            "example": {
+                "en": "So an assimilationist approach to immigration removes a lot of these problems.",
+                "vi": "Vậy sự đồng hóa tiếp cận sự nhập cư loại bỏ rất nhiều những vấn đề này."
+            }
+        },
+        {
+            "content": "sự di cư",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự di trú",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Nhập cư",
+            "type": "",
+            "example": {
+                "en": "Looks like some sort of way station for undocumented immigrants.",
+                "vi": "Trông giống một kiểu trạm dừng giữa đường cho người nhập cư không giấy tờ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "backpack",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakˌpak/",
+            "/ˈbækˌpæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbakpak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ba lô",
+            "type": "noun",
+            "example": {
+                "en": "Doug, if you're gonna leave the Hummer, take the backpack.",
+                "vi": "Doug, nếu anh bỏ xe ra ngoài thì mang ba lô theo."
+            }
+        },
+        {
+            "content": "balô",
+            "type": "noun",
+            "example": {
+                "en": "Why not just make old Foreman lift the key from the kid's backpack?",
+                "vi": "Sao không để ông bạn già Foreman lấy chìa khóa từ balô của thằng bé?"
+            }
+        },
+        {
+            "content": "Ba lô",
+            "type": "",
+            "example": {
+                "en": "Doug, if you're gonna leave the Hummer, take the backpack.",
+                "vi": "Doug, nếu anh bỏ xe ra ngoài thì mang ba lô theo."
+            }
+        }
+    ]
+}

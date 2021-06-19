@@ -1,0 +1,57 @@
+{
+    "word": "gel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jel/",
+            "/dʒɛl/",
+            "/ɡel/",
+            "/ɡɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɛl/",
+            "/ɡɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gel",
+            "type": "",
+            "example": {
+                "en": "The use of illegal protective gel is cause for elimination.",
+                "vi": "Lý do bị loại là sử dụng gel bảo vệ không hợp lệ."
+            }
+        },
+        {
+            "content": "gien",
+            "type": "",
+            "example": {
+                "en": "And, technically, it's a gel matrix.",
+                "vi": "Và, về mặt kỹ thật, đó là một ma trận gien."
+            }
+        },
+        {
+            "content": "chất gien",
+            "type": "",
+            "example": {
+                "en": "would turn into quite a rigid gel",
+                "vi": "sẽ chuyển thành một chất gien cứng"
+            }
+        },
+        {
+            "content": "Gel",
+            "type": "",
+            "example": {
+                "en": "Data relay gel dispersing in circuitry suit.",
+                "vi": "Gel rờ le dữ liệu đang phân ra mạch điện của giáp."
+            }
+        }
+    ]
+}

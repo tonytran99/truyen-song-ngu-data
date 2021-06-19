@@ -1,0 +1,30 @@
+{
+    "word": "defined",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfīnd/",
+            "/dəˈfaɪnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfʌɪnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xác định",
+            "type": "adjective verb",
+            "example": {
+                "en": "So in other words, I define what I wanted.",
+                "vi": "Nói cách khác, tôi xác định thứ tôi muốn."
+            }
+        }
+    ]
+}

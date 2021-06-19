@@ -1,0 +1,55 @@
+{
+    "word": "eastward",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēs(t)wərd/",
+            "/ˈis(t)wərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːstwəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hướng đông",
+            "type": "",
+            "example": {
+                "en": "Within a day or two the loaded wagons were moving eastward through the snow.",
+                "vi": "Trong vòng một hai ngày những toa xe kéo chất đầy đồ đã đi về hướng đông xuyên qua màn tuyết."
+            }
+        },
+        {
+            "content": "về phía đông",
+            "type": "",
+            "example": {
+                "en": "He made his way eastward through town and into adjacent fields.",
+                "vi": "Ông đi về phía đông xuyên qua thị trấn và vào các cánh đồng bên cạnh."
+            }
+        },
+        {
+            "content": "về hướng đông",
+            "type": "",
+            "example": {
+                "en": "Within a day or two the loaded wagons were moving eastward through the snow.",
+                "vi": "Trong vòng một hai ngày những toa xe kéo chất đầy đồ đã đi về hướng đông xuyên qua màn tuyết."
+            }
+        },
+        {
+            "content": "đông",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "He made his way eastward through town and into adjacent fields.",
+                "vi": "Ông đi về phía đông xuyên qua thị trấn và vào các cánh đồng bên cạnh."
+            }
+        }
+    ]
+}

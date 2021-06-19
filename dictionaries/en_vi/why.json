@@ -1,0 +1,81 @@
+{
+    "word": "why",
+    "type": [
+        "noun",
+        "adverb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wī/",
+            "/(h)waɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tại sao",
+            "type": "adverb, Adverbial; Noun",
+            "example": {
+                "en": "Stop beating around the bush and tell me directly why you're so angry.",
+                "vi": "Thôi đừng quanh co nữa, hãy nói thẳng cho tôi biết tại sao anh tức giận như vậy."
+            }
+        },
+        {
+            "content": "vì sao",
+            "type": "adverb",
+            "example": {
+                "en": "Please explain the reason why she was arrested.",
+                "vi": "Xin hãy giải thích lý do vì sao cô ta đã bị bắt giữ."
+            }
+        },
+        {
+            "content": "hà cớ",
+            "type": "adverb",
+            "example": {
+                "en": "Why does that boy Chongzhan want to kill me?",
+                "vi": "Tểu tử Sùng Chính... Hà cớ gì lại muốn ta chết chứ?"
+            }
+        },
+        {
+            "content": "sao",
+            "type": "adverb",
+            "example": {
+                "en": "Stop beating around the bush and tell me directly why you're so angry.",
+                "vi": "Thôi đừng quanh co nữa, hãy nói thẳng cho tôi biết tại sao anh tức giận như vậy."
+            }
+        },
+        {
+            "content": "lý do",
+            "type": "noun",
+            "example": {
+                "en": "That's why Tom came.",
+                "vi": "Đó là lý do Tom đến."
+            }
+        },
+        {
+            "content": "lý do tại sao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sao đành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế nào",
+            "type": "",
+            "example": {
+                "en": "You'd totally understand why if you knew how I grew up.",
+                "vi": "Anh sẽ hiểu vì sao nếu anh biết tôi phải lớn lên ở nơi như thế nào."
+            }
+        }
+    ]
+}

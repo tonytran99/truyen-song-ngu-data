@@ -1,0 +1,49 @@
+{
+    "word": "wireless",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwī(ə)rləs/",
+            "/ˈwaɪ(ə)rləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwʌɪəlɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không dây",
+            "type": "adjective",
+            "example": {
+                "en": "Many of you all know about the concept of scanning for wireless networks.",
+                "vi": "Nhiều người trong số các bạn biết khái niệm quét tìm mạng không dây."
+            }
+        },
+        {
+            "content": "rađiô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vô tuyến",
+            "type": "adjective",
+            "example": {
+                "en": "The way we transmit wireless data is by using electromagnetic waves —",
+                "vi": "Cách mà chúng ta truyền dữ liệu vô tuyến là bằng cách sử dụng sóng điện từ —"
+            }
+        },
+        {
+            "content": "đánh điện bằng rađiô",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

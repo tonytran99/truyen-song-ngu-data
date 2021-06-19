@@ -1,0 +1,37 @@
+{
+    "word": "ewe",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞o/",
+            "/ju/",
+            "/ˈyo͞oā/",
+            "/ˈjueɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juː/",
+            "/ˈeɪweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuu cai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cừu cái",
+            "type": "noun",
+            "example": {
+                "en": "Increase in flock size depended on the number of ewes entrusted to a shepherd.",
+                "vi": "Mức độ gia tăng của bầy tùy thuộc vào số lượng cừu cái mà người chăn nhận."
+            }
+        }
+    ]
+}

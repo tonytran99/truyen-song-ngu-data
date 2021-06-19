@@ -1,0 +1,40 @@
+{
+    "word": "jackhammer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjakˌhamər/",
+            "/ˈdʒækˌhæmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒakhamə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "búa chèn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "búa khoan",
+            "type": "",
+            "example": {
+                "en": "He was working a jackhammer on a new trunkline.",
+                "vi": "Anh ta đang làm việc với búa khoan trên đường chính mới."
+            }
+        },
+        {
+            "content": "cái búa khoan",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

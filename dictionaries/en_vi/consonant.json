@@ -1,0 +1,66 @@
+{
+    "word": "consonant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänsənənt/",
+            "/ˈkɑnsənənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒns(ə)nənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phụ âm",
+            "type": "noun",
+            "example": {
+                "en": "They stay still, and the vowels dance around the consonants.",
+                "vi": "Chúng ngồi yên, và các nguyên âm nhảy múa xung quanh các phụ âm."
+            }
+        },
+        {
+            "content": "du dương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoà hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phù hợp",
+            "type": "verb",
+            "example": {
+                "en": "Today our outlook is starkly different from a century ago but perhaps a bit more consonant with reality.",
+                "vi": "Ngày nay, quan điểm chúng ta hoàn toàn khác biệt so với thế kỷ trước nhưng có lẽ phù hợp hơn với thực tế."
+            }
+        },
+        {
+            "content": "thuận tai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "êm ái",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "Phụ âm",
+            "type": "",
+            "example": {
+                "en": "to produce consonants and vowels.",
+                "vi": "để phát ra các nguyên âm và phụ âm."
+            }
+        }
+    ]
+}

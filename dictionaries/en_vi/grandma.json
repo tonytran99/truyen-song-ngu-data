@@ -1,0 +1,37 @@
+{
+    "word": "grandma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)ˌmä/",
+            "/ˈɡræn(d)ˌmɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)mɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Even my grandma can send a text.",
+                "vi": "Ngay cả bà của tôi còn có thể gởi tin nhắn nữa là."
+            }
+        },
+        {
+            "content": "bà nội",
+            "type": "noun",
+            "example": {
+                "en": "Alonso’s grandson questions his grandma’s love for him.",
+                "vi": "Alonso hỏi bà nội của nó về tình yêu thương của bà đối với nó."
+            }
+        }
+    ]
+}

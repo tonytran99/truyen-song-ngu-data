@@ -1,0 +1,91 @@
+{
+    "word": "expensive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈspensiv/",
+            "/ɪkˈspɛnsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspɛnsɪv/",
+            "/ɛkˈspɛnsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đắt",
+            "type": "adjective",
+            "example": {
+                "en": "That book is thick, but it's not very expensive.",
+                "vi": "Quyển sách đó dày, nhưng nó không đắt lắm."
+            }
+        },
+        {
+            "content": "đắt tiền",
+            "type": "adjective",
+            "example": {
+                "en": "It makes no difference what you say. I'm still going to buy that expensive car.",
+                "vi": "Những điều anh nói không quan trọng. Tôi sẽ vẫn mua chiếc xe hơi đắt tiền đó."
+            }
+        },
+        {
+            "content": "mắc",
+            "type": "adjective",
+            "example": {
+                "en": "You're a rich man, so your medicine is expensive.",
+                "vi": "Bởi vì ông là người giàu sang nên dùng thuốc phải xài loại mắc tiền chứ."
+            }
+        },
+        {
+            "content": "mắc tiền",
+            "type": "adjective",
+            "example": {
+                "en": "You're a rich man, so your medicine is expensive.",
+                "vi": "Bởi vì ông là người giàu sang nên dùng thuốc phải xài loại mắc tiền chứ."
+            }
+        },
+        {
+            "content": "sang",
+            "type": "adjective",
+            "example": {
+                "en": "He wears very expensive suits.",
+                "vi": "Hắn mặc đồ rất cao sang."
+            }
+        },
+        {
+            "content": "rồi đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xa hoa",
+            "type": "",
+            "example": {
+                "en": "Heard you had an expensive weekend in Vegas.",
+                "vi": "Nghe nói anh đã có một kì nghĩ xa hoa ở Vegas."
+            }
+        },
+        {
+            "content": "đắt đỏ",
+            "type": "",
+            "example": {
+                "en": "But to make large forms was too heavy and expensive.",
+                "vi": "Nhưng để làm những hình thể lớn thì quá nặng và đắt đỏ."
+            }
+        },
+        {
+            "content": "quý",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "Jeroboam certainly has the means to lavish expensive gifts on his friends.",
+                "vi": "Giê-rô-bô-am chắc chắn có khả năng ban những món quà quý giá cho bạn của ông."
+            }
+        }
+    ]
+}

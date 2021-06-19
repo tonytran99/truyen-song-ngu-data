@@ -1,0 +1,36 @@
+{
+    "word": "veterinary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvet(ə)rəˌnerē/",
+            "/ˈvɛt(ə)rəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛt(ə)rɪn(ə)ri/",
+            "/ˈvɛt(ə)nri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "veterinarian",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú y",
+            "type": "",
+            "example": {
+                "en": "Two fine veterinary surgeons under my direction were able to save his life.",
+                "vi": "Hai nhà phẫu phuật thú y dưới sự điều khiển của tôi đã cứu được mạng của nó."
+            }
+        }
+    ]
+}

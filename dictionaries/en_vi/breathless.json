@@ -1,0 +1,64 @@
+{
+    "word": "breathless",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbreTHləs/",
+            "/ˈbrɛθləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɛθləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hết hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "hổn hển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộc tốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kịp thở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lặng gió",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nín thở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tắt thở",
+            "type": "",
+            "example": {
+                "en": "I'm breathless to hear it.",
+                "vi": "Em suýt tắt thở khi nghe anh nói vậy."
+            }
+        }
+    ]
+}

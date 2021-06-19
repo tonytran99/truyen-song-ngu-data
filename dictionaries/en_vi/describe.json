@@ -1,0 +1,84 @@
+{
+    "word": "describe",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskrīb/",
+            "/dəˈskraɪb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrʌɪb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mô tả",
+            "type": "verb",
+            "example": {
+                "en": "Can you describe that strange guy?",
+                "vi": "Anh có thể mô tả gã đàn ông lạ mặt đó không?"
+            }
+        },
+        {
+            "content": "tả",
+            "type": "verb",
+            "example": {
+                "en": "Can you describe that strange guy?",
+                "vi": "Anh có thể mô tả gã đàn ông lạ mặt đó không?"
+            }
+        },
+        {
+            "content": "diễn tả",
+            "type": "verb",
+            "example": {
+                "en": "In which language did you describe the above?",
+                "vi": "Bạn đã diễn tả bên trên bằng ngôn ngữ nào?"
+            }
+        },
+        {
+            "content": "miêu tả",
+            "type": "verb",
+            "example": {
+                "en": "And then we follow the process I've described.",
+                "vi": "Và kế đến chúng tôi theo quy trình mà tôi đã miêu tả."
+            }
+        },
+        {
+            "content": "vạch",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "cho là",
+            "type": "",
+            "example": {
+                "en": "People went up to the roofs of their houses to hear what they described as voices coming from heaven.",
+                "vi": "Họ lên mái nhà để nghe những điều mà họ cho là những tiếng nói từ trời đến."
+            }
+        },
+        {
+            "content": "vẽ",
+            "type": "verb",
+            "example": {
+                "en": "Those thoughts, of course, describe the ideal childhood.",
+                "vi": "Dĩ nhiên, những hình ảnh trên vẽ nên bức tranh về một tuổi thơ êm đềm."
+            }
+        },
+        {
+            "content": "coi là",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định rõ tính chất",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

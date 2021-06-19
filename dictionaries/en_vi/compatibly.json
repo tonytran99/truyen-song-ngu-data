@@ -1,0 +1,30 @@
+{
+    "word": "compatibly",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/-blē/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tương hợp",
+            "type": "",
+            "example": {
+                "en": "VNC-compatible server to share KDE desktops",
+                "vi": "Máy chủ tương hợp với VNC để chia sẻ màn hình KDE"
+            }
+        },
+        {
+            "content": "tương thích",
+            "type": "",
+            "example": {
+                "en": "The atmospheric composition on our ship is not compatible with humans.",
+                "vi": "Thành phần khí quyển trong phi thuyền chúng ta không tương thích với loài người."
+            }
+        }
+    ]
+}

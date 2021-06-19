@@ -1,0 +1,57 @@
+{
+    "word": "comical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämək(ə)l/",
+            "/ˈkɑmək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khôi hài",
+            "type": "",
+            "example": {
+                "en": "I mean, some of the things you say are just comical.",
+                "vi": "Ý tôi là, một số điều cậu nói rất khôi hài."
+            }
+        },
+        {
+            "content": "tức cười",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hài hước",
+            "type": "",
+            "example": {
+                "en": "In kind of a comical turn in that particular case,",
+                "vi": "Một khía cạnh hài hước trong vụ này,"
+            }
+        },
+        {
+            "content": "kỳ cục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lố bịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vui nhộn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

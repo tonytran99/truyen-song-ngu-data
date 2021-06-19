@@ -1,0 +1,57 @@
+{
+    "word": "elevator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈeləˌvādər/",
+            "/ˈɛləˌveɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛlɪveɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thang máy",
+            "type": "noun",
+            "example": {
+                "en": "No, two of them are here because they just got on the wrong elevator.",
+                "vi": "Không, hai người họ ở đó vì vào nhầm thang máy thôi."
+            }
+        },
+        {
+            "content": "bánh lái độ cao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ nâng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy nâng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thang máy",
+            "type": "",
+            "example": {
+                "en": "No, two of them are here because they just got on the wrong elevator.",
+                "vi": "Không, hai người họ ở đó vì vào nhầm thang máy thôi."
+            }
+        }
+    ]
+}

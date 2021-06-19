@@ -1,0 +1,59 @@
+{
+    "word": "invasive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvāsiv/",
+            "/ɪnˈveɪsɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈveɪsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lan tràn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xâm chiếm",
+            "type": "",
+            "example": {
+                "en": "So, the house is no longer suitable for invasion.",
+                "vi": "Căn nhà không còn thích hợp để xâm chiếm nữa."
+            }
+        },
+        {
+            "content": "xâm lược",
+            "type": "adjective",
+            "example": {
+                "en": "Then more and more as an invasion, an invasion of the American army.",
+                "vi": "Rồi ngày càng đông đảo, như một cuộc xâm lược, một cuộc xâm lược của lính Mỹ."
+            }
+        },
+        {
+            "content": "xâm lấn",
+            "type": "",
+            "example": {
+                "en": "And that's one of the reasons they say a robot invasion is happening.",
+                "vi": "Và đó là một trong những lý do người ta nói một cuộc xâm lấn bằng robot đang xảy ra."
+            }
+        },
+        {
+            "content": "xâm phạm",
+            "type": "",
+            "example": {
+                "en": "Given that the invasions have taken place in the evening, it could be anything.",
+                "vi": "Do các vụ xâm phạm diễn ra vào buổi tối, nó có thể là bất cứ gì."
+            }
+        }
+    ]
+}

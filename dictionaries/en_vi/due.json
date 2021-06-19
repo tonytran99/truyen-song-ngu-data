@@ -1,0 +1,199 @@
+{
+    "word": "due",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/d(y)o͞o/",
+            "/d(j)u/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/djuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vì",
+            "type": "conjunction",
+            "example": {
+                "en": "Due to the intense sunlight, his back was sunburnt.",
+                "vi": "Lưng anh ấy bị cháy nắng vì ánh nắng mặt trời gay gắt."
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "In due time he called them to account for their errors.",
+                "vi": "Vào đúng thời điểm, ngài đã bắt họ chịu trách nhiệm về những lỗi lầm ấy."
+            }
+        },
+        {
+            "content": "thuế",
+            "type": "noun",
+            "example": {
+                "en": "We do not tithe, charge dues, or take up collections.",
+                "vi": "Chúng tôi không thu thuế thập phân, phí thành viên hoặc tổ chức quyên góp."
+            }
+        },
+        {
+            "content": "thích đáng",
+            "type": "",
+            "example": {
+                "en": "And to the islands he will repay their due.",
+                "vi": "Ngài cũng báo trả các hải đảo cách thích đáng."
+            }
+        },
+        {
+            "content": "đến hạn",
+            "type": "",
+            "example": {
+                "en": "Departmental budgets are due this week.",
+                "vi": "Ngân sách của khoa đã đến hạn tuần này."
+            }
+        },
+        {
+            "content": "do",
+            "type": "",
+            "example": {
+                "en": "And , that is due to many factors including conflict and lack of development .",
+                "vi": "Và , đó là do nhiều yếu tố bao gồm xung đột và kém phát triển ."
+            }
+        },
+        {
+            "content": "đáng",
+            "type": "adjective verb",
+            "example": {
+                "en": "My Khan, my son, they will have what is due them.",
+                "vi": "Khả Hãn của ta, con trai của ta sẽ có được thứ họ xứng đáng."
+            }
+        },
+        {
+            "content": "phải",
+            "type": "verb",
+            "example": {
+                "en": "With all due respect, maybe a game changer's not what we need.",
+                "vi": "Với tất cả sự tôn trọng, có thể sự xoay chuyển không phải thứ ta cần."
+            }
+        },
+        {
+            "content": "tại",
+            "type": "adposition",
+            "example": {
+                "en": "All due respect, sir, may I ask why I'm here?",
+                "vi": "Với toàn lòng kính trọng, thưa ông, xin hỏi tại sao tôi lại ở đây?"
+            }
+        },
+        {
+            "content": "cái phải trả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái được hưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do bởi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội phí",
+            "type": "",
+            "example": {
+                "en": "$ 2 for initiation fee, $ 2 for this month's dues.",
+                "vi": "Hai đô phí gia nhập, và hai đô hội phí hàng tháng."
+            }
+        },
+        {
+            "content": "món nợ",
+            "type": "",
+            "example": {
+                "en": "The serpent's head will be struck from its body in due course.",
+                "vi": "Đầu con rắn sẽ được cắm vào thân của nó bằng món nợ máu."
+            }
+        },
+        {
+            "content": "nhờ có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phải trả",
+            "type": "",
+            "example": {
+                "en": "Tonight's the night you pay me my due.",
+                "vi": "Đêm nay là thời hạn ngươi phải trả nợ cho ta."
+            }
+        },
+        {
+            "content": "phải đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyền được hưởng",
+            "type": "",
+            "example": {
+                "en": "We just want what we are due.",
+                "vi": "Chúng ta chỉ muốn cái chúng ta có quyền được hưởng"
+            }
+        },
+        {
+            "content": "tiền nợ",
+            "type": "",
+            "example": {
+                "en": "Your king's payment was due 3 months ago.",
+                "vi": "Đức vua ông đã chưa trả tiền nợ 3 tháng rồi."
+            }
+        },
+        {
+            "content": "xứng đáng",
+            "type": "",
+            "example": {
+                "en": "My Khan, my son, they will have what is due them.",
+                "vi": "Khả Hãn của ta, con trai của ta sẽ có được thứ họ xứng đáng."
+            }
+        },
+        {
+            "content": "đoàn phí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đến kỳ",
+            "type": "",
+            "example": {
+                "en": "He knew that it was not yet God’s due time for this.",
+                "vi": "Ngài biết rằng chưa đến kỳ định của Đức Chúa Trời để làm điều đó."
+            }
+        },
+        {
+            "content": "đến kỳ đòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đến ngày",
+            "type": "",
+            "example": {
+                "en": "five days before he was due to receive his pension.",
+                "vi": "chỉ năm ngày trước khi đến ngày nhận được trợ cấp lương hưu."
+            }
+        },
+        {
+            "content": "mang ơn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

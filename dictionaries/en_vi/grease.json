@@ -1,0 +1,90 @@
+{
+    "word": "grease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrēs/",
+            "/ɡris/",
+            "/ɡrēz/",
+            "/ɡriz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡriːs/",
+            "/ɡriːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mỡ",
+            "type": "noun",
+            "example": {
+                "en": "And make some gravy out of the grease.",
+                "vi": "Và làm chút nước thịt từ mỡ heo."
+            }
+        },
+        {
+            "content": "bôi mỡ",
+            "type": "",
+            "example": {
+                "en": "We need to get something to grease his face.",
+                "vi": "Cần phải bôi mỡ lên đầu cậu ấy."
+            }
+        },
+        {
+            "content": "dầu",
+            "type": "noun",
+            "example": {
+                "en": "We're lucky the rifles were packed in grease.",
+                "vi": "Chúng ta quá may mắn khi họ đã bảo quản chúng trong dầu nhờn."
+            }
+        },
+        {
+            "content": "bơm mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu nhờn",
+            "type": "",
+            "example": {
+                "en": "We're lucky the rifles were packed in grease.",
+                "vi": "Chúng ta quá may mắn khi họ đã bảo quản chúng trong dầu nhờn."
+            }
+        },
+        {
+            "content": "làm thối gót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuốc mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xoa mỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "油",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu mỡ",
+            "type": "",
+            "example": {
+                "en": "But it's nothing a little grease can't fix.",
+                "vi": "Nhưng không có thứ gì không sửa được bằng một ít dầu mỡ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "graveyard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrāvˌyärd/",
+            "/ˈɡreɪvˌjɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪvjɑːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nghĩa địa",
+            "type": "noun",
+            "example": {
+                "en": "Maybe it has something to do with the fact that we're laying in a graveyard.",
+                "vi": "Có lẽ nó có liên quan đến việc ta đang nằm trong một nghĩa địa."
+            }
+        },
+        {
+            "content": "nghĩa trang",
+            "type": "noun",
+            "example": {
+                "en": "We're off to meet Mercy in the graveyard.",
+                "vi": "Chúng tôi đến để gặp Mercy ở nghĩa trang."
+            }
+        },
+        {
+            "content": "bãi tha ma",
+            "type": "noun",
+            "example": {
+                "en": "There's also mandates for those dead geostationary spacecraft to be moved into a graveyard orbit.",
+                "vi": "Và cũng có cả quy định dành cho những vệ tinh chết ở địa tĩnh phải được chuyển ra bãi tha ma."
+            }
+        },
+        {
+            "content": "mộ địa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tha ma",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

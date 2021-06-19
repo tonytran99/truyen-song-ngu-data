@@ -1,0 +1,80 @@
+{
+    "word": "whenever",
+    "type": [
+        "conjunction",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wenˈevər/",
+            "/(h)wɛnˈɛvər/",
+            "/(h)wəˈnevər/",
+            "/(h)wəˈnɛvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɛnˈɛvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hễ",
+            "type": "adverb",
+            "example": {
+                "en": "Whenever I find something I like, it's too expensive.",
+                "vi": "Hễ tôi kiếm được cái gì tôi thích thì nó lại đắt quá."
+            }
+        },
+        {
+            "content": "bất cứ lúc nào",
+            "type": "adverb",
+            "example": {
+                "en": "Come and see me whenever you are free.",
+                "vi": "Đến gặp tôi bất cứ lúc nào bạn rảnh."
+            }
+        },
+        {
+            "content": "bất kỳ khi nào",
+            "type": "adverb",
+            "example": {
+                "en": "Villains always cringe in fear whenever Thunderbolt is here!",
+                "vi": "Tội phạm luôn luôn sợ sệt bất kỳ khi nào Thunderbolt có mặt ở đây!"
+            }
+        },
+        {
+            "content": "hễ khi nào",
+            "type": "",
+            "example": {
+                "en": "8 For whenever I speak, I must cry out and proclaim,",
+                "vi": "8 Hễ khi nào con nói, đều phải la lớn hô to rằng:"
+            }
+        },
+        {
+            "content": "lúc nào",
+            "type": "",
+            "example": {
+                "en": "Come and see me whenever you are free.",
+                "vi": "Đến gặp tôi bất cứ lúc nào bạn rảnh."
+            }
+        },
+        {
+            "content": "mỗi khi",
+            "type": "",
+            "example": {
+                "en": "Tom becomes nervous whenever he has to speak in public.",
+                "vi": "Tom bối rối mỗi khi nó nói chuyện trước công chúng."
+            }
+        },
+        {
+            "content": "mỗi lần",
+            "type": "",
+            "example": {
+                "en": "And whenever he came home, it was a different case.",
+                "vi": "Và mỗi lần ông ấy về, mọi chuyện khác hẳn."
+            }
+        }
+    ]
+}

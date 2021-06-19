@@ -1,0 +1,39 @@
+{
+    "word": "unspecified",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈspesəˌfīd/",
+            "/ˌənˈspɛsəˌfaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈspɛsɪfʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không chỉ rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nói rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không xác định",
+            "type": "",
+            "example": {
+                "en": "Homeland security just reported a bomb threat for an unspecified urban area.",
+                "vi": "Bộ nội an vừa báo 1 quả bom đe dọa một khu đô thị không xác định."
+            }
+        }
+    ]
+}

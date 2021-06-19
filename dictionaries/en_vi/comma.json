@@ -1,0 +1,45 @@
+{
+    "word": "comma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämə/",
+            "/ˈkɑmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dấu phẩy",
+            "type": "noun",
+            "example": {
+                "en": "What would German be without commas!",
+                "vi": "Tiếng Đức sẽ như thế nào nếu không có dấu phẩy!"
+            }
+        },
+        {
+            "content": "phẩy",
+            "type": "",
+            "example": {
+                "en": "What would German be without commas!",
+                "vi": "Tiếng Đức sẽ như thế nào nếu không có dấu phẩy!"
+            }
+        },
+        {
+            "content": "dấy phẩy",
+            "type": "",
+            "example": {
+                "en": "which is just about the size of a comma in a sentence.",
+                "vi": "chúng chỉ bé bằng dấy phẩy trong một câu mà thôi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "i",
+    "type": [
+        "Letter",
+        "noun",
+        "adjective",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ī/",
+            "/aɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "i",
+            "type": "noun",
+            "example": {
+                "en": "But I can't keep apologizing for it Mum.",
+                "vi": "Nh ° ng con không thĂ cé xin l × i v́ iÁu ó."
+            }
+        },
+        {
+            "content": "i ngắn",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

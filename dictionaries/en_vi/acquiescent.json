@@ -1,0 +1,54 @@
+{
+    "word": "acquiescent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌakwēˈes(ə)nt/",
+            "/ˌækwiˈɛs(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/akwɪˈɛs(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bằng lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bằng lòng ngầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc nhận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phục tùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng ý",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ưng thuận",
+            "type": "",
+            "example": {
+                "en": "How are we to explain his limp acquiescence?",
+                "vi": "Chúng ta giải thích thế nào về việc A-đam yếu ớt ưng thuận theo vợ?"
+            }
+        }
+    ]
+}

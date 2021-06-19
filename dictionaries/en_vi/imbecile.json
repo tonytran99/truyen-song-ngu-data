@@ -1,0 +1,53 @@
+{
+    "word": "imbecile",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈimbəsəl/",
+            "/ˈɪmbəsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪmbɪsiːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đần",
+            "type": "adjective",
+            "example": {
+                "en": "Well, speaking on behalf of the impossibly imbecilic Scotland Yard, that chair is definitely empty.",
+                "vi": "Thay mặt cho cục cảnh sát ngu đần... tôi khẳng định chiếc ghế đó hoàn toàn không có ai ngồi."
+            }
+        },
+        {
+            "content": "khờ dại",
+            "type": "adjective",
+            "example": {
+                "en": "Your imbecility being what it is, I should've known to say:",
+                "vi": "Hành động khờ dại của mày là ở chỗ đó, lẽ ra thầy phải nói:"
+            }
+        },
+        {
+            "content": "người khờ dại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đần độn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

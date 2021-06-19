@@ -1,0 +1,50 @@
+{
+    "word": "housing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhouziNG/",
+            "/ˈhaʊzɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊzɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhà ở",
+            "type": "noun",
+            "example": {
+                "en": "Some examples could cost more than an Amsterdam house at this time .",
+                "vi": "Vài mẫu có thể mua đắt hơn cả một ngôi nhà ở Amsterdam lúc bấy giờ ."
+            }
+        },
+        {
+            "content": "sự cho ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cất vào kho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc nhà ở",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vải phủ lưng ngựa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

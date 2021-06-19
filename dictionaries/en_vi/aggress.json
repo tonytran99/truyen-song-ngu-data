@@ -1,0 +1,38 @@
+{
+    "word": "aggress",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈɡres/",
+            "/əˈɡrɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈɡrɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gây hấn",
+            "type": "",
+            "example": {
+                "en": "When cats play , mock aggression is always a part of it .",
+                "vi": "Khi mèo đùa giỡn , sự gây hấn giả luôn là một phần của trò chơi ."
+            }
+        },
+        {
+            "content": "gây sự",
+            "type": "",
+            "example": {
+                "en": "You have to be aggressive with the larger apes.",
+                "vi": "Anh phải gây sự với con khỉ đột lớn hơn."
+            }
+        }
+    ]
+}

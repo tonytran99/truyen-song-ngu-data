@@ -1,0 +1,87 @@
+{
+    "word": "encyclopedia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˌsīkləˈpēdēə/",
+            "/ɪnˌsaɪkləˈpidiə/",
+            "/enˌsīkləˈpēdēə/",
+            "/ɛnˌsaɪkləˈpidiə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛnˌsʌɪklə(ʊ)ˈpiːdɪə/",
+            "/ɪnˌsʌɪklə(ʊ)ˈpiːdɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bách khoa toàn thư",
+            "type": "noun",
+            "example": {
+                "en": "When I was a kid, we had a set of encyclopedias at my house.",
+                "vi": "Khi tôi còn là đứa trẻ, nhà tôi có một bộ bách khoa toàn thư."
+            }
+        },
+        {
+            "content": "sách bách khoa",
+            "type": "noun",
+            "example": {
+                "en": "the whole encyclopedia before they let you go out and play,",
+                "vi": "toàn bộ đống sách bách khoa toàn thư trước khi họ cho bạn ra ngoài và chơi đùa"
+            }
+        },
+        {
+            "content": "bách khoa",
+            "type": "noun",
+            "example": {
+                "en": "A poster child example was the encyclopedia business.",
+                "vi": "Ví dụ điển hình là kiểu kinh doanh bách khoa thư."
+            }
+        },
+        {
+            "content": "冊百科",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bách khoa thư",
+            "type": "noun",
+            "example": {
+                "en": "A poster child example was the encyclopedia business.",
+                "vi": "Ví dụ điển hình là kiểu kinh doanh bách khoa thư."
+            }
+        },
+        {
+            "content": "百科全書",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bộ sách bách khoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bách khoa từ điển",
+            "type": "noun",
+            "example": {
+                "en": "At this meal “real communication exists between ancestors and family members,” says one encyclopedia.",
+                "vi": "Một bách khoa từ điển cho biết trong bữa ăn, “tổ tiên thật sự giao tiếp với những người trong gia đình”."
+            }
+        },
+        {
+            "content": "từ điển bách khoa",
+            "type": "noun",
+            "example": {
+                "en": "Wikipedia has used thousands of volunteers to create a free encyclopedia",
+                "vi": "Wikipedia nhờ hàng ngàn tình nguyện viên để tạo từ điển bách khoa toàn thư miễn phí"
+            }
+        }
+    ]
+}

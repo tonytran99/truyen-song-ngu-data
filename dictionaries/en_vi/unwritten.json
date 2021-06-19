@@ -1,0 +1,50 @@
+{
+    "word": "unwritten",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈritn/",
+            "/ˌənˈrɪtn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈrɪt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trắng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bất thành văn",
+            "type": "adjective",
+            "example": {
+                "en": "There's such a thing as the unwritten law.",
+                "vi": "Có một thứ luật gọi là luật bất thành văn."
+            }
+        },
+        {
+            "content": "chưa viết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không viết ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói miệng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

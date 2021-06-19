@@ -1,0 +1,41 @@
+{
+    "word": "egyptian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈjipSH(ə)n/",
+            "/əˈdʒɪpʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈdʒɪpʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Ai-cập",
+            "type": "",
+            "example": {
+                "en": "Tonight was egyptian undulation.",
+                "vi": "Tối nay sẽ học gợn sóng kiểu Ai Cập."
+            }
+        },
+        {
+            "content": "danh từ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thuốc lá Ai-cập",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "venom",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvenəm/",
+            "/ˈvɛnəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛnəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nọc độc",
+            "type": "",
+            "example": {
+                "en": "A few inches lower, the venom would have stilled your heart.",
+                "vi": "Thấp xuống vài inch thôi nọc độc sẽ chạy vào tim ngươi."
+            }
+        },
+        {
+            "content": "độc",
+            "type": "adjective",
+            "example": {
+                "en": "A few inches lower, the venom would have stilled your heart.",
+                "vi": "Thấp xuống vài inch thôi nọc độc sẽ chạy vào tim ngươi."
+            }
+        },
+        {
+            "content": "nọc",
+            "type": "noun",
+            "example": {
+                "en": "A few inches lower, the venom would have stilled your heart.",
+                "vi": "Thấp xuống vài inch thôi nọc độc sẽ chạy vào tim ngươi."
+            }
+        },
+        {
+            "content": "sự nham nhiểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ác ý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự độc ác",
+            "type": "",
+            "example": {
+                "en": "This they did, with evil venom, for three hours from 9:00 a.m. to noon.",
+                "vi": "Họ đã làm điều này, với sự độc ác xấu xa, trong ba giờ đồng hồ từ 9 giờ sáng đến 12 giờ trưa."
+            }
+        }
+    ]
+}

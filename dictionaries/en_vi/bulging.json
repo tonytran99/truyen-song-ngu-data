@@ -1,0 +1,51 @@
+{
+    "word": "bulging",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəljiNG/",
+            "/ˈbəldʒɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌldʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cồm cộm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "kếch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lồi ra",
+            "type": "adjective",
+            "example": {
+                "en": "Like a bulging high wall ready to fall.",
+                "vi": "Như tường cao lồi ra và sắp đổ."
+            }
+        },
+        {
+            "content": "phình lên",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phồng ra",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

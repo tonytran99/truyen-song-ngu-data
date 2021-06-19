@@ -1,0 +1,36 @@
+{
+    "word": "bustling",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbəsliNG/",
+            "/ˈbəslɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌslɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhộn nhàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhộn nhịp",
+            "type": "adjective",
+            "example": {
+                "en": "It's so bustling and I mean those pictures, full of colour.",
+                "vi": "Lúc nào nó cũng nhộn nhịp và nhìn mấy bức tranh kìa, sặc sỡ ghê."
+            }
+        }
+    ]
+}

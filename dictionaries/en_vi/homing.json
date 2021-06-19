@@ -1,0 +1,43 @@
+{
+    "word": "homing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmiNG/",
+            "/ˈhoʊmɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về nhà",
+            "type": "",
+            "example": {
+                "en": "If possible, I'd like to go home now.",
+                "vi": "Nếu có thể, tôi muốn được về nhà ngay bây giowf."
+            }
+        },
+        {
+            "content": "trở về nhà",
+            "type": "",
+            "example": {
+                "en": "My sister was robbed of her bag on her way home last night.",
+                "vi": "Chị tôi bị mất cắp túi xách tay tối qua trên đường trở về nhà."
+            }
+        },
+        {
+            "content": "đưa thư",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

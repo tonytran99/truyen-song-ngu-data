@@ -1,0 +1,67 @@
+{
+    "word": "caustic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôstik/",
+            "/ˈkɔstɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːstɪk/",
+            "/ˈkɒstɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chua cay",
+            "type": "",
+            "example": {
+                "en": "These caustic emotions are like rust that slowly corrodes the body of a car.",
+                "vi": "Những cảm xúc chua cay này không khác gì rỉ sét dần dần ăn mòn thân một chiếc xe hơi."
+            }
+        },
+        {
+            "content": "ăn da",
+            "type": "adjective",
+            "example": {
+                "en": "Few creatures can live in such caustic water.",
+                "vi": "Rất ít sinh vật có thể sống trong loại nước ăn da này."
+            }
+        },
+        {
+            "content": "cay độc",
+            "type": "",
+            "example": {
+                "en": "Rumor in the cafeteria was Caustic Guy was waking up Coma Guy.",
+                "vi": "Có tin đồn ở nhà ăn là ông Cay Độc vừa đánh thức ông Hôn Mê."
+            }
+        },
+        {
+            "content": "châm biếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "châm chọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất ăn da",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tụ quang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

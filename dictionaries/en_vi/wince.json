@@ -1,0 +1,55 @@
+{
+    "word": "wince",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wins/",
+            "/wɪns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "co rúm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rụt lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự co rúm lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rụt lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhăn mặt",
+            "type": "",
+            "example": {
+                "en": "Her muscles bulging in her forehead when she winces like that.",
+                "vi": "Các cơ trên trán cô ấy giãn ra khi cô ấy nhăn mặt như thế này."
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "word": "haze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hāz/",
+            "/heɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/heɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sương mù",
+            "type": "noun",
+            "example": {
+                "en": "AS A curtain of haze gradually lifted, the American commodore Matthew C.",
+                "vi": "Khi màn sương mù dần dần tan biến, vị hạm trưởng Hoa-kỳ của tàu Susquehanna là Matthew C."
+            }
+        },
+        {
+            "content": "bắt nạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mù",
+            "type": "adjective",
+            "example": {
+                "en": "This is what causes the haze that gave the big Smoky Mountains their name.",
+                "vi": "Nó gây nên lớp bụi mù làm cho dãy núi Smoky mang tên như vậy."
+            }
+        },
+        {
+            "content": "bụi mù",
+            "type": "",
+            "example": {
+                "en": "This is what causes the haze that gave the big Smoky Mountains their name.",
+                "vi": "Nó gây nên lớp bụi mù làm cho dãy núi Smoky mang tên như vậy."
+            }
+        },
+        {
+            "content": "khói mù",
+            "type": "",
+            "example": {
+                "en": "This haze probably came from outgassing from the volcanoes of Titan.",
+                "vi": "Đám khói mù màu cam quanhTitan. có thể được phun ra từ núi lửa của Titan."
+            }
+        },
+        {
+            "content": "làm mù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phủ mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hoang mang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự lờ mờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mơ hồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự rối rắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn hiếp",
+            "type": "",
+            "example": {
+                "en": "It's a little freshman hazing.",
+                "vi": "Đó chỉ một chút ăn hiếp học sinh năm nhất thôi mà."
+            }
+        }
+    ]
+}

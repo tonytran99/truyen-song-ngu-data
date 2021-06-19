@@ -1,0 +1,44 @@
+{
+    "word": "inferno",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfərnō/",
+            "/ɪnˈfərnoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfəːnəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "địa ngục",
+            "type": "proper",
+            "example": {
+                "en": "And then he apparently went back into the inferno to search for stragglers.",
+                "vi": "Và rồi rõ ràng ông đã trở lại cảnh địa ngục đó để tìm kiếm những người đi tụt hậu."
+            }
+        },
+        {
+            "content": "地獄",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảnh rùng rợn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi rùng rợn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

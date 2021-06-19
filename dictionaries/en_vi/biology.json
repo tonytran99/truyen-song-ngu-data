@@ -1,0 +1,42 @@
+{
+    "word": "biology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bīˈäləjē/",
+            "/baɪˈɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌɪˈɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh vật học",
+            "type": "noun",
+            "example": {
+                "en": "I was having my inscriptions, my admission to biology.",
+                "vi": "Tôi nộp hồ sơ và được nhận vào ngành sinh vật học."
+            }
+        },
+        {
+            "content": "sinh học",
+            "type": "noun",
+            "example": {
+                "en": "We also do it through biology, working closely with experimentalists.",
+                "vi": "Chúng tôi cũng thông qua sinh học, hợp tác chặt chẽ với các nhà thực nghiệm."
+            }
+        },
+        {
+            "content": "生物學",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "word": "dude",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/do͞od/",
+            "/dud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/d(j)uːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "anh chàng ăn diện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "công tử bột",
+            "type": "",
+            "example": {
+                "en": "You saved that dude's life.",
+                "vi": "Cậu đã cứu mạng tên công tử bột đó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "heck",
+    "type": [
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hek/",
+            "/hɛk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɛk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồ chết tiệt",
+            "type": "",
+            "example": {
+                "en": "Heck, give me a peck of dirt any day of the week.",
+                "vi": "Đồ chết tiệt, hãy mang cho ta một đấu đất bất kể ngày nào trong tuần."
+            }
+        },
+        {
+            "content": "cái đăng",
+            "type": "",
+            "example": {
+                "en": "There was a heck of a crowd on the piste.",
+                "vi": "Vâng, có 1 cái đăng bắt cá trên sông."
+            }
+        },
+        {
+            "content": "địa ngục",
+            "type": "proper",
+            "example": {
+                "en": "Ah, what the heck.",
+                "vi": "A, địa ngục gì thế này."
+            }
+        },
+        {
+            "content": "đồ quỷ tha",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

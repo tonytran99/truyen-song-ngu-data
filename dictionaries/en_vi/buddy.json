@@ -1,0 +1,43 @@
+{
+    "word": "buddy",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbədē/",
+            "/ˈbədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʌdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bạn thân",
+            "type": "noun",
+            "example": {
+                "en": "Just because you're best buddies doesn't mean you're safe!",
+                "vi": "Nếu chỉ vì hắn là bạn thân nhất của anh không có nghĩa anh sẽ an toàn!"
+            }
+        },
+        {
+            "content": "bạn",
+            "type": "noun",
+            "example": {
+                "en": "So on our last night, me and a buddy, we stole his beret.",
+                "vi": "Nên đêm cuối, tối với tên bạn chôm cái mũ nồi của hắn."
+            }
+        },
+        {
+            "content": "cánh hẩu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

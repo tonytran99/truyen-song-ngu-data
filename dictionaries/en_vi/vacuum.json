@@ -1,0 +1,56 @@
+{
+    "word": "vacuum",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvakˌyo͞o(ə)m/",
+            "/ˈvækˌju(ə)m/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈvakjuːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chân không",
+            "type": "noun",
+            "example": {
+                "en": "The vertical gun will shoot the aluminium bead into the vacuum chamber filled with atmospheric gases.",
+                "vi": "Khẩu súng này sẽ bắn viên nhôm vào trong buồng chân không được đổ đầy khí."
+            }
+        },
+        {
+            "content": "vacuum_cleaner",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chân không",
+            "type": "",
+            "example": {
+                "en": "The vertical gun will shoot the aluminium bead into the vacuum chamber filled with atmospheric gases.",
+                "vi": "Khẩu súng này sẽ bắn viên nhôm vào trong buồng chân không được đổ đầy khí."
+            }
+        },
+        {
+            "content": "真空",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "máy hút bụi",
+            "type": "",
+            "example": {
+                "en": "Do you guys know where the vacuum is?",
+                "vi": "Con biết cái máy hút bụi đâu không?"
+            }
+        }
+    ]
+}

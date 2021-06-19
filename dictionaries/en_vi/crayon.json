@@ -1,0 +1,82 @@
+{
+    "word": "crayon",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrāˌän/",
+            "/ˈkreɪˌɑn/",
+            "/ˈkrāən/",
+            "/ˈkreɪən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkreɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bút chì màu",
+            "type": "noun",
+            "example": {
+                "en": "How many colors will this killer add to his box of crayons?",
+                "vi": "Có bao nhiêu màu tên giết người này sẽ thêm vào hộp bút chì màu của mình?"
+            }
+        },
+        {
+            "content": "viết chì màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bức vẽ chì màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bức vẽ phấn màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bức vẽ than màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phác hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phấn vẽ màu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vẽ bằng chì màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẽ bằng phấn màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẽ bằng than màu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẽ phác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

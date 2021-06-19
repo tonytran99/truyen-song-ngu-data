@@ -1,0 +1,47 @@
+{
+    "word": "intruder",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtro͞odər/",
+            "/ɪnˈtrudər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtruːdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người xâm nhập",
+            "type": "",
+            "example": {
+                "en": "There is an intruder in Storage Facility B.",
+                "vi": "Có người xâm nhập vào phòng lưu trữ kho B."
+            }
+        },
+        {
+            "content": "người vào bừa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người xâm phạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đột nhập",
+            "type": "noun",
+            "example": {
+                "en": "Yes, I've got an intruder in room 405.",
+                "vi": "Có người đột nhập vào Phòng 405."
+            }
+        }
+    ]
+}

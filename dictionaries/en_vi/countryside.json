@@ -1,0 +1,83 @@
+{
+    "word": "countryside",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəntrēˌsīd/",
+            "/ˈkəntriˌsaɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌntrɪsʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "miền quê",
+            "type": "",
+            "example": {
+                "en": "My father had a farm in the peaceful countryside.",
+                "vi": "Cha tôi có một nông trại tại miền quê thanh bình."
+            }
+        },
+        {
+            "content": "nông thôn",
+            "type": "",
+            "example": {
+                "en": "They lived in the countryside during the war.",
+                "vi": "Chúng tôi sống ở vùng nông thôn khi có chiến tranh."
+            }
+        },
+        {
+            "content": "vùng nông thôn",
+            "type": "",
+            "example": {
+                "en": "They lived in the countryside during the war.",
+                "vi": "Chúng tôi sống ở vùng nông thôn khi có chiến tranh."
+            }
+        },
+        {
+            "content": "hương thôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân dân miền quê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhân dân địa phương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thôn dã",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thôn quê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vùng quê",
+            "type": "noun",
+            "example": {
+                "en": "Instead of a countryside pockmarked by shell fire, I found peaceful, verdant fields.",
+                "vi": "Thay vì một vùng quê lởm chởm hố bom, tôi thấy những thửa ruộng bình yên, xanh ngát."
+            }
+        },
+        {
+            "content": "địa phương",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

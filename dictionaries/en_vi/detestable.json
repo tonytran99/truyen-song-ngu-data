@@ -1,0 +1,44 @@
+{
+    "word": "detestable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtestəb(ə)l/",
+            "/dəˈtɛstəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛstəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đáng ghét",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khó thương",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khả ố",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đáng ghê tởm",
+            "type": "adjective",
+            "example": {
+                "en": "Should I, then, make the rest of it into a detestable thing?",
+                "vi": "Vậy, ta có nên dùng nửa còn lại mà làm ra vật đáng ghê tởm chăng?"
+            }
+        }
+    ]
+}

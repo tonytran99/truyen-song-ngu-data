@@ -1,0 +1,35 @@
+{
+    "word": "electronic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlekˈtränik/",
+            "/əˌlɛkˈtrɑnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪlɛkˈtrɒnɪk/",
+            "/ɛlɛkˈtrɒnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "điện tử",
+            "type": "adjective noun",
+            "example": {
+                "en": "May have tried pawning off some electronics, some jewelry.",
+                "vi": "Có thể đã cố cầm cố thiết bị điện tử, trang sức."
+            }
+        },
+        {
+            "content": "thuộc điện tử",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

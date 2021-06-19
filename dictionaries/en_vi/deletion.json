@@ -1,0 +1,44 @@
+{
+    "word": "deletion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlēSHən/",
+            "/dəˈliʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈliːʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xóa",
+            "type": "",
+            "example": {
+                "en": "We found a deleted file with an account number to a bank in Zurich.",
+                "vi": "Trong ổ cứng có dữ liệu bị xóa ghi số tài khoản ngân hàng Zurich."
+            }
+        },
+        {
+            "content": "sự bỏ đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gạch đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xoá đi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

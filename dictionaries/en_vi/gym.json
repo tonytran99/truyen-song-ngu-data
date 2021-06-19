@@ -1,0 +1,43 @@
+{
+    "word": "gym",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jim/",
+            "/dʒɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gymnasium",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng tập thể dục",
+            "type": "",
+            "example": {
+                "en": "I couldn't sleep, so I went to the gym.",
+                "vi": "Anh không ngủ được, nên anh đến phòng tập thể dục."
+            }
+        },
+        {
+            "content": "thể dục",
+            "type": "noun",
+            "example": {
+                "en": "Come on, we're gonna be late for gym class, and that would be a huge tragedy.",
+                "vi": "Nhanh nào, chúng ta trễ lớp học thể dục mất. Và nó sẽ là một bi kịch đấy."
+            }
+        }
+    ]
+}

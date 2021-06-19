@@ -1,0 +1,44 @@
+{
+    "word": "underpin",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈpin/",
+            "/ˌəndərˈpɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈpɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chống bằng trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nền",
+            "type": "",
+            "example": {
+                "en": "One of the things that underpins it is this idea of resilience.",
+                "vi": "Một trong những điều làm nền tảng cho nó là ý tưởng về khả năng phục hồi."
+            }
+        }
+    ]
+}

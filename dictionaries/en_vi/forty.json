@@ -1,0 +1,67 @@
+{
+    "word": "forty",
+    "type": [
+        "noun",
+        "adjective",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrdē/",
+            "/ˈfɔrdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bốn mươi",
+            "type": "",
+            "example": {
+                "en": "Their company created forty new jobs.",
+                "vi": "Công ty của họ đã tạo ra thêm bốn mươi chỗ làm."
+            }
+        },
+        {
+            "content": "bốn chục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số bốn mươi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tứ tuần",
+            "type": "adjective",
+            "example": {
+                "en": "The guy was in his late forties, head of his department.",
+                "vi": "Cậu ta đã ở tuổi tứ tuần, người đứng đầu bộ phận của mình."
+            }
+        },
+        {
+            "content": "boán möôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bốn mười",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuổi bốn mươi",
+            "type": "",
+            "example": {
+                "en": "What gets me... is I'm in my forties.",
+                "vi": "Những gì em còn lại là em đang trong tuổi bốn mươi."
+            }
+        }
+    ]
+}

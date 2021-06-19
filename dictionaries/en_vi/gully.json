@@ -1,0 +1,53 @@
+{
+    "word": "gully",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəlē/",
+            "/ˈɡəli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʌli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rãnh",
+            "type": "",
+            "example": {
+                "en": "I'll meet the chopper just south of the gully in the field.",
+                "vi": "Cho trực thăng tới ngay rãnh phía nam ở đây nhanh."
+            }
+        },
+        {
+            "content": "mương",
+            "type": "",
+            "example": {
+                "en": "Dozens of them. south of the gully",
+                "vi": "Cả tá luôn, phía nam con mương"
+            }
+        },
+        {
+            "content": "khe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khe xói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mương xói",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

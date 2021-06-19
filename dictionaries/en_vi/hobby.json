@@ -1,0 +1,60 @@
+{
+    "word": "hobby",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhäbē/",
+            "/ˈhɑbi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɒbi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sở thích",
+            "type": "noun",
+            "example": {
+                "en": "My hobby is taking pictures of wild flowers.",
+                "vi": "Sở thích của tôi là chụp những bức ảnh hoa dại."
+            }
+        },
+        {
+            "content": "sở thích riêng",
+            "type": "",
+            "example": {
+                "en": "One of my many hobbies is observing the people around me.",
+                "vi": "Tôi có sở thích riêng là quan sát những người quanh mình."
+            }
+        },
+        {
+            "content": "chim cắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "con ngựa nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú riêng",
+            "type": "",
+            "example": {
+                "en": "I see you found my little... hobby.",
+                "vi": "Tôi thấy cô đã tìm ra thú riêng của tôi."
+            }
+        },
+        {
+            "content": "xe đạp cổ xưa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

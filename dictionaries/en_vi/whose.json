@@ -1,0 +1,42 @@
+{
+    "word": "whose",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ho͞oz/",
+            "/huz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/huːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của ai",
+            "type": "pronoun",
+            "example": {
+                "en": "Whose pens are these?",
+                "vi": "Những chiếc bút này là của ai?"
+            }
+        },
+        {
+            "content": "mà",
+            "type": "pronoun",
+            "example": {
+                "en": "There is one teacher whose life overshadows all others.",
+                "vi": "Có một giảng viên mà cuộc sống của Ngài làm lu mờ tất cả những người khác."
+            }
+        },
+        {
+            "content": "của người mà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

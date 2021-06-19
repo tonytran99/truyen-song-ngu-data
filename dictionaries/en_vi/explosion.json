@@ -1,0 +1,67 @@
+{
+    "word": "explosion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsplōZHən/",
+            "/ɪkˈsploʊʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈspləʊʒ(ə)n/",
+            "/ɛkˈspləʊʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nổ",
+            "type": "noun",
+            "example": {
+                "en": "Lindsey, I'm gonna short out the explosive in your head.",
+                "vi": "Lindsey, tôi sẽ vô hiệu kíp nổ trong đầu cô."
+            }
+        },
+        {
+            "content": "sự nổ",
+            "type": "noun",
+            "example": {
+                "en": "In that explosion, hydrogen atoms combined to form helium.",
+                "vi": "Trong sự nổ đó, các nguyên tử hyđro hợp lại tạo thành chất heli."
+            }
+        },
+        {
+            "content": "tiếng nổ",
+            "type": "",
+            "example": {
+                "en": "He can't handle sharp noises anymore, gunshots, explosions send him into a panic.",
+                "vi": "Bây giờ nó không chịu được âm thanh chói tai, tiếng súng, tiếng nổ sẽ làm nó sợ."
+            }
+        },
+        {
+            "content": "sự nổ bùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vụ nổ",
+            "type": "noun",
+            "example": {
+                "en": "A call from this cell phone will trigger the explosion.",
+                "vi": "Một cuộc gọi từ điện thoại di động này sẽ kích hoạt vụ nổ."
+            }
+        },
+        {
+            "content": "sự bùng nổ",
+            "type": "noun",
+            "example": {
+                "en": "With technology you are witnessing an explosion of knowledge.",
+                "vi": "Với công nghệ, các em đang chứng kiến một sự bùng nổ về kiến thức."
+            }
+        }
+    ]
+}

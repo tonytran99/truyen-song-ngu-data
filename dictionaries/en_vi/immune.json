@@ -1,0 +1,52 @@
+{
+    "word": "immune",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈmyo͞on/",
+            "/ɪˈmjun/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈmjuːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "miễn khỏi",
+            "type": "",
+            "example": {
+                "en": "Yet the faithful will not be totally immune from the events on this planet.",
+                "vi": "Tuy nhiên, người trung tín sẽ không hoàn toàn được miễn khỏi các sự kiện xảy ra trên thế gian này."
+            }
+        },
+        {
+            "content": "miễn dịch",
+            "type": "adjective",
+            "example": {
+                "en": "The body needs vitamin A for the visual and immune systems to work properly .",
+                "vi": "Cơ thể cần vitamin A giúp hệ miễn dịch và thị giác hoạt động tốt ."
+            }
+        },
+        {
+            "content": "người được miễn dịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được miễn",
+            "type": "",
+            "example": {
+                "en": "And I had the good fortune to secure myself immunity in exchange for my cooperation.",
+                "vi": "Tôi có may mắn là được miễn trừ truy cứu để đổi lấy sự hợp tác."
+            }
+        }
+    ]
+}

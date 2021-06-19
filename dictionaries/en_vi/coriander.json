@@ -1,0 +1,49 @@
+{
+    "word": "coriander",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrēˌandər/",
+            "/ˈkɔriˌændər/",
+            "/ˌkôrēˈandər/",
+            "/ˌkɔriˈændər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒrɪˈandə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngò",
+            "type": "noun",
+            "example": {
+                "en": "I forgot the coriander.",
+                "vi": "Quên mua ngò rồi."
+            }
+        },
+        {
+            "content": "rau mùi",
+            "type": "",
+            "example": {
+                "en": "Ah, roasted lizard with a little bit of coriander and sea salt.",
+                "vi": "Ah, thằn lằn rang với một chút rau mùi và muối biển."
+            }
+        },
+        {
+            "content": "cây rau mùi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngò gai",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "word": "knowing",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnōiNG/",
+            "/ˈnoʊɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnəʊɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiểu biết",
+            "type": "",
+            "example": {
+                "en": "They will understand and know things that others cannot.",
+                "vi": "Họ sẽ hiểu biết những điều mà những người khác không thể hiểu biết được."
+            }
+        },
+        {
+            "content": "biết",
+            "type": "verb",
+            "example": {
+                "en": "I know that you put your best effort into it.",
+                "vi": "Tôi biết rằng anh đã cố gắng hết sức."
+            }
+        },
+        {
+            "content": "bảnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diện",
+            "type": "",
+            "example": {
+                "en": "You know, I'm really not dressed for a nightclub.",
+                "vi": "Mẹ chưa mặc diện đồ để đi hộp đêm đâu."
+            }
+        },
+        {
+            "content": "láu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ranh mãnh",
+            "type": "",
+            "example": {
+                "en": "Mr. White looked up sharply , just in time to intercept a knowing glance between mother and son .",
+                "vi": "Ông White quắt nhìn lên , vừa đúng lúc bắt gặp ánh mắt ranh mãnh giữa hai mẹ con ."
+            }
+        },
+        {
+            "content": "sang",
+            "type": "adjective verb",
+            "example": {
+                "en": "You know the last person who called me that is no longer breathing.",
+                "vi": "Lần trước người nói với tôi như vậy, đã sang Tây Thiên rồi."
+            }
+        },
+        {
+            "content": "thạo",
+            "type": "adjective",
+            "example": {
+                "en": "You seem to know this one.",
+                "vi": "Anh trông có vẻ thạo khẩu này đó."
+            }
+        },
+        {
+            "content": "tính khôn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

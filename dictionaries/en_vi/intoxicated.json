@@ -1,0 +1,46 @@
+{
+    "word": "intoxicated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈtäksəkādəd/",
+            "/ɪnˈtɑksəkeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɒksɪkeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "say",
+            "type": "adjective",
+            "example": {
+                "en": "If you're intoxicated, I'd be glad to be the designated driver.",
+                "vi": "Nếu ông bị say, tôi sẽ rất vui được làm tài xế thay thế."
+            }
+        },
+        {
+            "content": "say sưa",
+            "type": "",
+            "example": {
+                "en": "For example, the use of alcohol to the point of intoxication is common.",
+                "vi": "Thí dụ, uống rượu đến độ say sưa là điều thông thường."
+            }
+        },
+        {
+            "content": "say rượu",
+            "type": "adjective",
+            "example": {
+                "en": "I am not intoxicated.",
+                "vi": "Tôi không say rượu."
+            }
+        }
+    ]
+}

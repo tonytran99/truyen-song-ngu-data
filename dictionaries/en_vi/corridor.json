@@ -1,0 +1,52 @@
+{
+    "word": "corridor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrədər/",
+            "/ˈkɔrədər/",
+            "/ˈkôrəˌdôr/",
+            "/ˈkɔrəˌdɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒrɪdɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hành lang",
+            "type": "noun",
+            "example": {
+                "en": "We have just met on the corridor.",
+                "vi": "Chúng tôi mới vừa gặp nhau ở hành lang."
+            }
+        },
+        {
+            "content": "đường hành lang",
+            "type": "",
+            "example": {
+                "en": "that used to control the eastern corridor of Mexico.",
+                "vi": "tổ chức này kiểm soát đường hành lang phía đông của Mexico."
+            }
+        },
+        {
+            "content": "lang",
+            "type": "adjective",
+            "example": {
+                "en": "We have just met on the corridor.",
+                "vi": "Chúng tôi mới vừa gặp nhau ở hành lang."
+            }
+        },
+        {
+            "content": "địa chất) hành lang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

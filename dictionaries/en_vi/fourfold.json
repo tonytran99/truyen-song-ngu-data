@@ -1,0 +1,42 @@
+{
+    "word": "fourfold",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌfōld/",
+            "/ˈfɔrˌfoʊld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːfəʊld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bốn lần",
+            "type": "",
+            "example": {
+                "en": "roughly three- to fourfold.",
+                "vi": "khoảng ba tới bốn lần."
+            }
+        },
+        {
+            "content": "bội bốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gấp bốn lần",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

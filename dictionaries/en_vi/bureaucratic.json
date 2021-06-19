@@ -1,0 +1,46 @@
+{
+    "word": "bureaucratic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbyo͝orəˈkradik/",
+            "/ˌbjʊrəˈkrædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbjɔːrəˈkratɪk/",
+            "/ˌbjʊərəˈkratɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ máy quan liêu",
+            "type": "",
+            "example": {
+                "en": "can be created with neither the bureaucratic structure of the firm",
+                "vi": "được tạo ra không phải với bộ máy quan liêu của công ty"
+            }
+        },
+        {
+            "content": "công chức",
+            "type": "",
+            "example": {
+                "en": "I've been a bureaucrat my whole life.",
+                "vi": "Cả đời tôi là công chức nhà nước."
+            }
+        },
+        {
+            "content": "quan liêu",
+            "type": "adjective noun",
+            "example": {
+                "en": "The bureaucratic mentality is the only constant in the universe.",
+                "vi": "Tính quan liêu là hằng số duy nhất trong vũ trụ."
+            }
+        }
+    ]
+}

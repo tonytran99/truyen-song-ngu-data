@@ -1,0 +1,51 @@
+{
+    "word": "drawn",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drôn/",
+            "/drɔn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɔːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất phân thắng bại",
+            "type": "adjective",
+            "example": {
+                "en": "police and military drawn into an unwinnable war",
+                "vi": "cảnh sát và quân đội chìm vào cuộc chiến bất phân thắng bại"
+            }
+        },
+        {
+            "content": "hòa",
+            "type": "adjective",
+            "example": {
+                "en": "She was drawn to the boy’s mild and pleasing personality, which made him stand out in stark contrast to other boys.",
+                "vi": "Cô thấy mến tính hòa nhã và dễ chịu của cậu học trò, khiến em nổi bật hẳn lên giữa các em khác."
+            }
+        },
+        {
+            "content": "kéo rèm",
+            "type": "",
+            "example": {
+                "en": "Keep the blinds drawn and the doors locked.",
+                "vi": "Luôn kéo rèm và khoá cửa."
+            }
+        },
+        {
+            "content": "mệt mỏi",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

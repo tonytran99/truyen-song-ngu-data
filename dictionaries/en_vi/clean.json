@@ -1,0 +1,304 @@
+{
+    "word": "clean",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klēn/",
+            "/klin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kliːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sạch",
+            "type": "adjective",
+            "example": {
+                "en": "Mary asked Tom to help her clean her office.",
+                "vi": "Mary nhờ Tom giúp cô làm sạch văn phòng của cô ấy."
+            }
+        },
+        {
+            "content": "sạch sẽ",
+            "type": "adjective",
+            "example": {
+                "en": "John's hand is clean.",
+                "vi": "Bàn tay của John rất sạch sẽ."
+            }
+        },
+        {
+            "content": "lau",
+            "type": "verb noun",
+            "example": {
+                "en": "Do you know how hard it'd be to clean?",
+                "vi": "Anh có biết lau dọn cái nhà đó khó thế nào không?"
+            }
+        },
+        {
+            "content": "lau chùi",
+            "type": "verb",
+            "example": {
+                "en": "Every day, he's cleaning horses and cleaning up their dung.",
+                "vi": "Mỗi ngày hắn lau chùi tắm rửa cho ngựa, và dọn dẹp cứt đái cho chúng."
+            }
+        },
+        {
+            "content": "rửa",
+            "type": "verb",
+            "example": {
+                "en": "So pretty please, with sugar on top, clean the fuckin'car.",
+                "vi": "Vì vậy làm ơn, với viên đường trên đầu, rửa cái xe chó chết đó đi."
+            }
+        },
+        {
+            "content": "gột",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đẹp",
+            "type": "adjective",
+            "example": {
+                "en": "I'm supposed to be cleaning up my act.",
+                "vi": "Tôi phải để sự nghiệp diễn xuất của mình diễn ra êm đẹp."
+            }
+        },
+        {
+            "content": "nạo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thẳng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nhẵn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chính xác",
+            "type": "",
+            "example": {
+                "en": "Jack, I'm in position, but I can't get a clean shot.",
+                "vi": "Jack, tôi vào vị trí rồi nhưng không nhắm chính xác được"
+            }
+        },
+        {
+            "content": "hẳn",
+            "type": "",
+            "example": {
+                "en": "But it went clean through.",
+                "vi": "Nhưng nó đã xuyên hẳn qua người anh."
+            }
+        },
+        {
+            "content": "trong lành",
+            "type": "adjective",
+            "example": {
+                "en": "And he's going to need to drink clean water and breathe clean air.",
+                "vi": "Và nó sẽ được uống nguồn nước sạch, thở không khí trong lành."
+            }
+        },
+        {
+            "content": "nhanh",
+            "type": "adjective adverb",
+            "example": {}
+        },
+        {
+            "content": "bẵng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "rơ",
+            "type": "verb",
+            "example": {
+                "en": "Keep morally clean.—1 Corinthians 6:18.",
+                "vi": "Tránh làm những điều gây tổn hại cho hôn nhân.—Hê-bơ-rơ 13:4."
+            }
+        },
+        {
+            "content": "béng",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "giẩy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cân đối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cạo sạch",
+            "type": "",
+            "example": {
+                "en": "The next time I see that ugly face of yours, I want it clean-shaven!",
+                "vi": "Lần sau tôi thấy cái khuôn mặt xấu xí của cô, Tôi muốn nó được cạo sạch sẽ!"
+            }
+        },
+        {
+            "content": "dễ đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dọn sạch",
+            "type": "",
+            "example": {
+                "en": "I propose to clean up the mess, and you betray me!",
+                "vi": "Ta dự định sẽ dọn sạch đống hỗn độn đó, và ông đã phản bội ta!"
+            }
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "Soon you'll be gettin your clean bill of health.",
+                "vi": "Bà sẽ sớm khỏe mạnh hoàn toàn thôi."
+            }
+        },
+        {
+            "content": "khéo gọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bệnh tật",
+            "type": "",
+            "example": {
+                "en": "You paid off that lab tech to say you were clean?",
+                "vi": "Cậu hối lộ phòng xét nghiệm để họ nói rằng cậu không bệnh tật."
+            }
+        },
+        {
+            "content": "không bị ô uế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không có mấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không lỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nham nhở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quét dọn",
+            "type": "verb",
+            "example": {
+                "en": "Why are we cleaning up the city, sir?",
+                "vi": "Sao ta phải quét dọn thành phố thưa ngài?"
+            }
+        },
+        {
+            "content": "quét sạch",
+            "type": "",
+            "example": {
+                "en": "The gods threaten to wipe clean the blight of rebellion before we're able to mount attack.",
+                "vi": "Nguy cơ là thần linh sẽ quét sạch lũ phản loạn trước khi ta kịp tấn công."
+            }
+        },
+        {
+            "content": "rửa sạch",
+            "type": "",
+            "example": {
+                "en": "Now you boys get cleaned up and we'll proceed with the wedding.",
+                "vi": "Bây giờ, hai cậu tắm rửa sạch sẽ và chúng ta sẽ tiến hành hôn lễ."
+            }
+        },
+        {
+            "content": "tinh khiết",
+            "type": "adjective",
+            "example": {
+                "en": "Stark Tower is about to become a beacon of self-sustaining clean energy.",
+                "vi": "Toà tháp Stark chuẩn bị trở thành đèn hiệu bởi đặc tính năng lượng tinh khiết."
+            }
+        },
+        {
+            "content": "trong sạch",
+            "type": "adjective",
+            "example": {
+                "en": "Clean minds and clean speech are increasingly rare today.",
+                "vi": "Ngày nay tâm tư và ngôn ngữ trong sạch là những điều càng ngày càng hiếm thấy."
+            }
+        },
+        {
+            "content": "tẩy sạch",
+            "type": "",
+            "example": {
+                "en": "I have been cleaned and serviced three times.",
+                "vi": "Tôi đã được tẩy sạch và bảo trì ba lần."
+            }
+        },
+        {
+            "content": "vét sạch",
+            "type": "",
+            "example": {
+                "en": "Okay, we should go shopping in Port Angeles before all the good dresses get cleaned out.",
+                "vi": "Okay, ta nên đi mua sắm ở Port Angeles trước khi các bộ váy áo đẹp bị vét sạch."
+            }
+        },
+        {
+            "content": "đánh sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh",
+            "type": "",
+            "example": {
+                "en": "You can be polite with your clean plates, but I'm gonna be eating food.",
+                "vi": "Cứ giữ cái đĩa trống trơn mà làm người thanh lịch, còn tôi thì chén đây."
+            }
+        },
+        {
+            "content": "tẩy",
+            "type": "",
+            "example": {
+                "en": "I have been cleaned and serviced three times.",
+                "vi": "Tôi đã được tẩy sạch và bảo trì ba lần."
+            }
+        },
+        {
+            "content": "gọn gàng",
+            "type": "",
+            "example": {
+                "en": "Why is it important for us to be clean and neatly groomed?",
+                "vi": "Tại sao cách chải chuốt gọn gàng và sạch sẽ lại quan trọng đối với chúng ta?"
+            }
+        },
+        {
+            "content": "trong sáng",
+            "type": "",
+            "example": {
+                "en": "After all, he was a clean-cut returned missionary, and she hadn’t been active.",
+                "vi": "Xét cho cùng, anh là một người truyền giáo giải nhiệm trở về nhà với tác phong trong sáng, còn chị thì không tích cực."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "faucet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôsit/",
+            "/ˈfɔsɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːsɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòi",
+            "type": "noun",
+            "example": {
+                "en": "You could make hot water come out of the cold faucet. Oh, heh.",
+                "vi": "Chị có thể khiến vòi nước lạnh chảy ra nước nóng đấy."
+            }
+        },
+        {
+            "content": "van",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vòi nước",
+            "type": "noun",
+            "example": {
+                "en": "You could make hot water come out of the cold faucet. Oh, heh.",
+                "vi": "Chị có thể khiến vòi nước lạnh chảy ra nước nóng đấy."
+            }
+        }
+    ]
+}

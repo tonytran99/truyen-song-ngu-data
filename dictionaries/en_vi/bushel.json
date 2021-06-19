@@ -1,0 +1,38 @@
+{
+    "word": "bushel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝oSHəl/",
+            "/ˈbʊʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giạ",
+            "type": "",
+            "example": {
+                "en": "And it wasn't long before we started recording more than bushels of grain.",
+                "vi": "Và chẳng lâu sau đó, ghi chép của chúng ta bắt đầu vượt ra ngoài phạm vi một vài giạ gạo."
+            }
+        },
+        {
+            "content": "đấu",
+            "type": "noun",
+            "example": {
+                "en": "“Behold, do men light a candle and put it under a bushel?",
+                "vi": "“Này, có ai đốt nến mà lại để dưới cái đấu chăng?"
+            }
+        }
+    ]
+}

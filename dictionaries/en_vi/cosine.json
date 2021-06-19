@@ -1,0 +1,39 @@
+{
+    "word": "cosine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkōˌsīn/",
+            "/ˈkoʊˌsaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəʊsʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cosin",
+            "type": "",
+            "example": {
+                "en": "While other members of the family sleep, she forces herself through a marathon of memorizing equations, cosines, and square roots.",
+                "vi": "Trong khi mọi người đang ngủ, cô cố nhồi vào óc nào là phương trình, nào là cosin, nào là bình phương."
+            }
+        },
+        {
+            "content": "côsin",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cos",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

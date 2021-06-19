@@ -1,0 +1,64 @@
+{
+    "word": "casket",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaskət/",
+            "/ˈkæskət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːskɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tráp",
+            "type": "noun",
+            "example": {
+                "en": "Hendrick, bring me over my casket, that I may count out 622 doubloons for... 632.",
+                "vi": "Hendrick, đem cái tráp của tôi ra, để tôi lấy 622 đồng vàng cho... 632."
+            }
+        },
+        {
+            "content": "hòm",
+            "type": "noun",
+            "example": {
+                "en": "And then they show you the special caskets for the children.",
+                "vi": "Rồi họ sẽ giới thiệu cho anh những cái hòm đặc biệt dành cho con ít."
+            }
+        },
+        {
+            "content": "hộp tráp nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quan tài hạng tốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộp",
+            "type": "noun",
+            "example": {
+                "en": "Werferth, bring my mother's casket.",
+                "vi": "Werferth, mang hộp cốt của mẹ ta đến đây"
+            }
+        },
+        {
+            "content": "quan tài",
+            "type": "noun",
+            "example": {
+                "en": "I hate to break it to you, but it's not gonna be an open casket.",
+                "vi": "Tôi phải bẽ nó cho cậu, nhưng nó sẽ không là một quan tài trống trơn."
+            }
+        }
+    ]
+}

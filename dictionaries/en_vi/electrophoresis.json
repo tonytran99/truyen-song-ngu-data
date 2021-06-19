@@ -1,0 +1,42 @@
+{
+    "word": "electrophoresis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlektrəfəˈrēsis/",
+            "/əˌlɛktrəfəˈrisɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˌlɛktrə(ʊ)fəˈriːsɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hiện tượng điện chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Điện di",
+            "type": "",
+            "example": {
+                "en": "Okay, get an immunoglobulin level and electrophoresis.",
+                "vi": "Được rồi, hãy kiểm tra mức globulin miễn dịch và điện di."
+            }
+        },
+        {
+            "content": "điện di",
+            "type": "",
+            "example": {
+                "en": "Okay, get an immunoglobulin level and electrophoresis.",
+                "vi": "Được rồi, hãy kiểm tra mức globulin miễn dịch và điện di."
+            }
+        }
+    ]
+}

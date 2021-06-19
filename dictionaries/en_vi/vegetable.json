@@ -1,0 +1,75 @@
+{
+    "word": "vegetable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvejtəb(ə)l/",
+            "/ˈvɛdʒtəb(ə)l/",
+            "/ˈvəjədəb(ə)l/",
+            "/ˈvədʒədəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛdʒtəb(ə)l/",
+            "/ˈvɛdʒɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "rau",
+            "type": "noun",
+            "example": {
+                "en": "What can I do with the leftover vegetables?",
+                "vi": "Tôi có thể làm gì với phần rau thừa?"
+            }
+        },
+        {
+            "content": "rau cải",
+            "type": "",
+            "example": {
+                "en": "I'm guiding a masseur who's carrying my vegetables.",
+                "vi": "Tôi đang dẫn đường một ông đấm bóp mù gánh rau cải cho tôi."
+            }
+        },
+        {
+            "content": "thực vật",
+            "type": "noun",
+            "example": {
+                "en": "The marvelous process of photosynthesis supports vegetation on land and phytoplankton in the seas.",
+                "vi": "Tiến trình quang hợp kỳ diệu nuôi sống thực vật trên đất và thực vật nổi dưới biển."
+            }
+        },
+        {
+            "content": "hoắc lê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rau củ",
+            "type": "noun",
+            "example": {
+                "en": "Parsnips, squash, carrots, peas and sweet potatoes are considered starchy vegetables.",
+                "vi": "Củ cải vàng, bí, cà rốt, đậu và khoai lang được xem là các loại rau củ chứa nhiều tinh bột."
+            }
+        },
+        {
+            "content": "Rau",
+            "type": "",
+            "example": {
+                "en": "What can I do with the leftover vegetables?",
+                "vi": "Tôi có thể làm gì với phần rau thừa?"
+            }
+        },
+        {
+            "content": "rau, thöïc vaät",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

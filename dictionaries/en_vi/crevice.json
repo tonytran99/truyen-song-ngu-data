@@ -1,0 +1,46 @@
+{
+    "word": "crevice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrevəs/",
+            "/ˈkrɛvəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɛvɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẽ",
+            "type": "noun",
+            "example": {
+                "en": "We're searching every crack and crevice Under this roof.",
+                "vi": "Chúng tôi sẽ tìm từng vết nứt kẽ hở dưới mái nhà này."
+            }
+        },
+        {
+            "content": "kẽ hở",
+            "type": "noun",
+            "example": {
+                "en": "We're searching every crack and crevice Under this roof.",
+                "vi": "Chúng tôi sẽ tìm từng vết nứt kẽ hở dưới mái nhà này."
+            }
+        },
+        {
+            "content": "đường nứt",
+            "type": "noun",
+            "example": {
+                "en": "And they prefer crevices and grooves and holes,",
+                "vi": "Và chúng thích những đường nứt và rãnh, và những cái hố"
+            }
+        }
+    ]
+}

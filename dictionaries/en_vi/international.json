@@ -1,0 +1,35 @@
+{
+    "word": "international",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈnaSH(ə)n(ə)l/",
+            "/ˌɪn(t)ərˈnæʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈnaʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quốc tế",
+            "type": "adjective",
+            "example": {
+                "en": "Happy International Women's Day!",
+                "vi": "Chúc mừng ngày Quốc tế Phụ nữ!"
+            }
+        },
+        {
+            "content": "Quốc tế cộng sản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

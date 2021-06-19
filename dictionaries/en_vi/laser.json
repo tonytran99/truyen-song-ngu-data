@@ -1,0 +1,62 @@
+{
+    "word": "laser",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlāzər/",
+            "/ˈleɪzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "la-de",
+            "type": "noun",
+            "example": {
+                "en": "We used a bit of laser cutting on the plywood and some of the aluminum pieces.",
+                "vi": "Chúng tôi cắt bằng la-de một ít trên gỗ dán và vài mảnh nhôm."
+            }
+        },
+        {
+            "content": "laser",
+            "type": "",
+            "example": {
+                "en": "We use lasers for everything from eye surgery to cutting metal.",
+                "vi": "Chúng ta sử dụng laser cho mọi thứ từ phẫu thuật mắt đến cắt kim loại."
+            }
+        },
+        {
+            "content": "Laser",
+            "type": "",
+            "example": {
+                "en": "\" Hey, everybody Walt suddenly decided to invest in laser tag.",
+                "vi": "\" Này mọi người... đột nhiên Walt quyết định đầu tư vào trò Laser Tag."
+            }
+        },
+        {
+            "content": "tia la-de",
+            "type": "noun",
+            "example": {
+                "en": "Ultimately we figured out how to make things like lasers",
+                "vi": "Cuối cùng chúng ta đã phát minh được những thứ như tia la-de"
+            }
+        },
+        {
+            "content": "laze",
+            "type": "",
+            "example": {
+                "en": "Why isn't that laser beam cutting through the paint?",
+                "vi": "Sao cái súng bắn laze kia không làm tróc được vỏ sơn?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "word": "fail",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fāl/",
+            "/feɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/feɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hỏng",
+            "type": "verb",
+            "example": {
+                "en": "We work hard at X to make it safe to fail.",
+                "vi": "Tại xưởng X, chúng tôi rất tích cực làm hỏng các dự án."
+            }
+        },
+        {
+            "content": "thất bại",
+            "type": "noun",
+            "example": {
+                "en": "He worked hard for fear that he should fail.",
+                "vi": "Anh ta làm việc rất chăm chỉ vì sợ bị thất bại."
+            }
+        },
+        {
+            "content": "bại",
+            "type": "verb",
+            "example": {
+                "en": "He worked hard for fear that he should fail.",
+                "vi": "Anh ta làm việc rất chăm chỉ vì sợ bị thất bại."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "I know of his virtues and his failings.",
+                "vi": "Ta biết về đức tính của nó và thiếu sót của nó."
+            }
+        },
+        {
+            "content": "không đạt",
+            "type": "",
+            "example": {
+                "en": "If you fail to meet our standards or if you don't obey, you'll be thrown out.",
+                "vi": "Nếu trò không đạt được những tiêu chuẩn hay không vâng lời, trò sẽ bị ném ra khỏi đây."
+            }
+        },
+        {
+            "content": "không đủ",
+            "type": "",
+            "example": {
+                "en": "Every day they fail to eat, they lose a little bit of their future.",
+                "vi": "Mỗi ngày không đủ ăn, lũ trẻ dần mất đi 1 phần tương lai của mình."
+            }
+        },
+        {
+            "content": "đánh trượt",
+            "type": "",
+            "example": {
+                "en": "He failed me and I fell in love with him.",
+                "vi": "Anh ấy đánh trượt tôi và tôi phải lòng anh ấy."
+            }
+        },
+        {
+            "content": "không",
+            "type": "interjection numeral adverb",
+            "example": {
+                "en": "It serves you right that you failed your exam. You didn't study for it at all.",
+                "vi": "Bạn thi rớt là đáng đời. Bạn đã không học thi gì cả."
+            }
+        },
+        {
+            "content": "sai",
+            "type": "adjective verb",
+            "example": {
+                "en": "Robust systems are also fault tolerant and fail-safe.",
+                "vi": "Hệ thống bền vững cũng có lỗi dung sai và phòng hư."
+            }
+        },
+        {
+            "content": "bị hỏng",
+            "type": "noun",
+            "example": {
+                "en": "Is it possible their comm system has failed?",
+                "vi": "Có thể hệ thống liên lạc của họ bị hỏng?"
+            }
+        },
+        {
+            "content": "bị trượt",
+            "type": "noun",
+            "example": {
+                "en": "I'm gonna fail and have to go to community college.",
+                "vi": "Con sẽ bị trượt và sẽ phải học cao đẳng cộng đồng."
+            }
+        },
+        {
+            "content": "làm thất vọng",
+            "type": "",
+            "example": {
+                "en": "'Cause I failed both my wife and my son.",
+                "vi": "Vì tôi đã làm thất vọng cả vợ và con mình."
+            }
+        },
+        {
+            "content": "quên",
+            "type": "verb",
+            "example": {
+                "en": "Have you failed to notice you're our star author?",
+                "vi": "Anh quên rằng anh là tác giả sáng giá của chúng tôi à?"
+            }
+        },
+        {
+            "content": "trượt",
+            "type": "",
+            "example": {
+                "en": "And what is also quite clear is that you must have failed etiquette class.",
+                "vi": "Và một điều cũng khá rõ ràng là chắc hẳn cô đã trượt môn quy tắc xã giao."
+            }
+        },
+        {
+            "content": "lỡ",
+            "type": "verb",
+            "example": {
+                "en": "He failed to catch the 8:30 train.",
+                "vi": "Nó đã lỡ chuyến xe lửa 8:30."
+            }
+        },
+        {
+            "content": "trật",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bay",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bị phá sản",
+            "type": "",
+            "example": {
+                "en": "They know you can fail by starting a business that goes bankrupt",
+                "vi": "Họ biết bạn có thể thất bại khi bị phá sản"
+            }
+        },
+        {
+            "content": "hỏng hóc",
+            "type": "",
+            "example": {
+                "en": "are failing desperately in many ways.",
+                "vi": "đang hỏng hóc theo rất nhiều cách."
+            }
+        },
+        {
+            "content": "hỏng thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không chạy nữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không làm tròn",
+            "type": "",
+            "example": {
+                "en": "Their sin in failing to do so is grave indeed.",
+                "vi": "Họ quả đã phạm tội nặng vì không làm tròn trách nhiệm ấy."
+            }
+        },
+        {
+            "content": "không nhớ",
+            "type": "",
+            "example": {
+                "en": "We have yet to discuss what we'll do if Stefan fails to remember me.",
+                "vi": "Ta vẫn chưa thảo luận liệu ta sẽ làm gì nếu Stefan không nhớ ra ta."
+            }
+        },
+        {
+            "content": "không thành công",
+            "type": "",
+            "example": {
+                "en": "If it fails, no harm done anyway, right?",
+                "vi": "Nếu không thành công, thì cũng không có gì đáng ngại?"
+            }
+        },
+        {
+            "content": "không đúng",
+            "type": "",
+            "example": {
+                "en": "This certificate has failed the tests and should be considered invalid",
+                "vi": "Chứng nhận này không qua được các việc thẩm tra và nên được coi là không đúng đắn"
+            }
+        },
+        {
+            "content": "mất dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mỏng manh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người thi hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hỏng thi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thất bát",
+            "type": "verb",
+            "example": {
+                "en": "One should n't let the rice-hulling mill go empty because it symbolizes failed crops .",
+                "vi": "Không để cối xay gạo cạn sạch vì nó tượng trưng cho vụ mùa thất bát ."
+            }
+        },
+        {
+            "content": "thất hẹn với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tàn dần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yếu dần",
+            "type": "",
+            "example": {
+                "en": "The body's been failing lately, with things like diabetes, with blood pressure.",
+                "vi": "Gần đây cơ thể bị yếu dần, do những thứ như tiểu đường, huyết áp."
+            }
+        },
+        {
+            "content": "đánh hỏng",
+            "type": "",
+            "example": {
+                "en": "The best batters fail seven out of 10 times.",
+                "vi": "Những người đánh bóng giỏi nhất đánh hỏng 7 trên 10 lần."
+            }
+        }
+    ]
+}

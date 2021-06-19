@@ -1,0 +1,52 @@
+{
+    "word": "ha",
+    "type": [
+        "pronoun",
+        "interjection",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hä/",
+            "/hɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "A",
+            "type": "Letter interjection",
+            "example": {
+                "en": "Ah, no, no, it has to be something very special.",
+                "vi": "A không không, phải làm những điều thật đặc biệt"
+            }
+        },
+        {
+            "content": "a ha",
+            "type": "interjection",
+            "example": {
+                "en": "A-ha, yeah, of course.",
+                "vi": "A-ha, phải, tất nhiên."
+            }
+        },
+        {
+            "content": "ha ha",
+            "type": "",
+            "example": {
+                "en": "I just didn't know it was ha-ha big.",
+                "vi": "Nhưng không biết là lớn kiểu phải cười \" ha ha \". Okay."
+            }
+        },
+        {
+            "content": "kêu ha ha",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

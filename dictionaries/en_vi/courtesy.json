@@ -1,0 +1,83 @@
+{
+    "word": "courtesy",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərdəsē/",
+            "/ˈkərdəsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəːtɪsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lịch sự",
+            "type": "",
+            "example": {
+                "en": "Why don't you have the courtesy to look at me when you speak?",
+                "vi": "Tại sao anh không có phép lịch sự nhìn tôi khi nói chuyện?"
+            }
+        },
+        {
+            "content": "nhã nhặn",
+            "type": "",
+            "example": {
+                "en": "But don't try to pass it off as a courtesy.",
+                "vi": "Nhưng đừng để đáng mất đi sự nhã nhặn."
+            }
+        },
+        {
+            "content": "lễ phép",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự lịch sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhã nhặn",
+            "type": "",
+            "example": {
+                "en": "But don't try to pass it off as a courtesy.",
+                "vi": "Nhưng đừng để đáng mất đi sự nhã nhặn."
+            }
+        },
+        {
+            "content": "tác phong lịch sự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tác phong nhã nhặn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phép lịch sự",
+            "type": "noun",
+            "example": {
+                "en": "Why don't you have the courtesy to look at me when you speak?",
+                "vi": "Tại sao anh không có phép lịch sự nhìn tôi khi nói chuyện?"
+            }
+        },
+        {
+            "content": "lễ",
+            "type": "verb noun",
+            "example": {
+                "en": "You will extend Chancellor Gorkon full diplomatic courtesy, Captain.",
+                "vi": "Anh sẽ tiếp đón Thống soái Gorkon với đầy đủ nghi lễ ngoại giao, Thuyền trưởng Kirk."
+            }
+        }
+    ]
+}

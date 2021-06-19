@@ -1,0 +1,42 @@
+{
+    "word": "gravestone",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrāvˌstōn/",
+            "/ˈɡreɪvˌstoʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪvstəʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bia mộ",
+            "type": "noun",
+            "example": {
+                "en": "Maybe so, but at least it won't say on my gravestone what it'll say on yours.",
+                "vi": "Có lẽ thế, nhưng ít ra trên bia mộ tôi không khắc như trên bia của ông."
+            }
+        },
+        {
+            "content": "bia",
+            "type": "noun",
+            "example": {
+                "en": "Maybe so, but at least it won't say on my gravestone what it'll say on yours.",
+                "vi": "Có lẽ thế, nhưng ít ra trên bia mộ tôi không khắc như trên bia của ông."
+            }
+        },
+        {
+            "content": "mộ chí",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

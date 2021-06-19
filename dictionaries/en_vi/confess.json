@@ -1,0 +1,74 @@
+{
+    "word": "confess",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfes/",
+            "/kənˈfɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thú nhận",
+            "type": "verb",
+            "example": {
+                "en": "Why would he confess to murders he didn't commit?",
+                "vi": "Tại sao ông ta thú nhận vụ án mà ông ta không gây ra?"
+            }
+        },
+        {
+            "content": "xưng tội",
+            "type": "",
+            "example": {
+                "en": "The confessed falls in love with the woman who confessed him.",
+                "vi": "Người xưng tội sẽ yêu giáo sĩ rửa tội cho anh ta."
+            }
+        },
+        {
+            "content": "nghe xưng tội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú tội",
+            "type": "",
+            "example": {
+                "en": "The police forced a confession from her.",
+                "vi": "Cảnh sát đã bắt cô ta thú tội."
+            }
+        },
+        {
+            "content": "thổ lộ",
+            "type": "verb",
+            "example": {
+                "en": "He confessed that he had fallen in love with me.",
+                "vi": "Anh ấy đã thổ lộ là thích tôi."
+            }
+        },
+        {
+            "content": "tự thú",
+            "type": "verb",
+            "example": {
+                "en": "At this point nothing short of a signed confession from Brodeur.",
+                "vi": "Trong hoàn cảnh này, chỉ có bản tự thú do chính Brodeur kí mới được mà thôi."
+            }
+        },
+        {
+            "content": "nhận",
+            "type": "verb",
+            "example": {
+                "en": "He confessed his guilt.",
+                "vi": "Anh ấy nhận tội lỗi của mình."
+            }
+        }
+    ]
+}

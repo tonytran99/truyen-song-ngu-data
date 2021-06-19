@@ -1,0 +1,61 @@
+{
+    "word": "churn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHərn/",
+            "/tʃərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃəːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thùng đựng sữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "She taught us as we would wash the dishes, churn the butter, and help in many other ways.",
+                "vi": "Bà dạy chúng tôi khi chúng tôi rửa chén, đánh sữa lấy bơ và giúp đỡ trong những cách khác."
+            }
+        },
+        {
+            "content": "khuấy tung lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nổi sóng",
+            "type": "",
+            "example": {
+                "en": "a churning figure blurry in the distance,",
+                "vi": "một họa tiết nổi sóng che mờ trong khoảng cách,"
+            }
+        },
+        {
+            "content": "thùng đánh kem",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh sữa",
+            "type": "",
+            "example": {
+                "en": "She taught us as we would wash the dishes, churn the butter, and help in many other ways.",
+                "vi": "Bà dạy chúng tôi khi chúng tôi rửa chén, đánh sữa lấy bơ và giúp đỡ trong những cách khác."
+            }
+        }
+    ]
+}

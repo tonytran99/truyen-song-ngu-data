@@ -1,0 +1,57 @@
+{
+    "word": "arsenic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärs(ə)nik/",
+            "/ˈɑrs(ə)nɪk/",
+            "/ärˈsenik/",
+            "/ɑrˈsɛnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɑːs(ə)nɪk/",
+            "/ɑːˈsɛnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "asen",
+            "type": "noun",
+            "example": {
+                "en": "This rice is contaminated by arsenic.",
+                "vi": "Gạo này đã bị nhiễm độc asen."
+            }
+        },
+        {
+            "content": "Asen",
+            "type": "",
+            "example": {
+                "en": "This rice is contaminated by arsenic.",
+                "vi": "Gạo này đã bị nhiễm độc asen."
+            }
+        },
+        {
+            "content": "chất asen",
+            "type": "",
+            "example": {
+                "en": "Moreover, particulates in the effluent may contain small amounts of arsenic or other toxic substances.",
+                "vi": "Ngoài ra, các hạt trong nước bơm ra có thể chứa một lượng nhỏ chất asen hoặc các chất độc khác."
+            }
+        },
+        {
+            "content": "thạch tín",
+            "type": "noun",
+            "example": {
+                "en": "Biopsy a lesion, confirm that she's dying, and load her up with arsenic.",
+                "vi": "Sinh thiết chỗ tổn thương, xác nhận rằng cô ta sắp chết rồi bơm cô ta thạch tín."
+            }
+        }
+    ]
+}

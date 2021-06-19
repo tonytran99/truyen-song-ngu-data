@@ -1,0 +1,35 @@
+{
+    "word": "fascist",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaSHəst/",
+            "/ˈfæʃəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfaʃɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát xít",
+            "type": "adjective",
+            "example": {
+                "en": "Inside the trans movement there are people who are clearly fascists.",
+                "vi": "Trong phong trào chuyển giới, có những người rõ ràng là phát xít."
+            }
+        },
+        {
+            "content": "phần tử phát xít",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

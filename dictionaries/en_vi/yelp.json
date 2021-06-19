@@ -1,0 +1,50 @@
+{
+    "word": "yelp",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yelp/",
+            "/jɛlp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɛlp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu ăng ẳng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẳng",
+            "type": "interjection",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu ăng ẳng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ẳng ẳng",
+            "type": "verb, noun",
+            "example": {}
+        },
+        {
+            "content": "sủa",
+            "type": "verb",
+            "example": {
+                "en": "Now you can kill her without all his pathetic yelping.",
+                "vi": "Giờ cứ giết bà ta mà khỏi phải nghe tiếng sủa thảm hại của nó."
+            }
+        }
+    ]
+}

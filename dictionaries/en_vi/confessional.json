@@ -1,0 +1,43 @@
+{
+    "word": "confessional",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfeSH(ə)n(ə)l/",
+            "/kənˈfɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfɛʃ(ə)n(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng xưng tội",
+            "type": "",
+            "example": {
+                "en": "It was retrieved from a confessional in Florence.",
+                "vi": "Nó được nhặt tại phòng xưng tội ở Florence."
+            }
+        },
+        {
+            "content": "xưng tội",
+            "type": "",
+            "example": {
+                "en": "It was retrieved from a confessional in Florence.",
+                "vi": "Nó được nhặt tại phòng xưng tội ở Florence."
+            }
+        },
+        {
+            "content": "phòng nghe xưng tội",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

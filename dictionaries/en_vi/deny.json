@@ -1,0 +1,90 @@
+{
+    "word": "deny",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈnī/",
+            "/dəˈnaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈnʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phủ nhận",
+            "type": "verb",
+            "example": {
+                "en": "She denied having met him.",
+                "vi": "Cô ấy phủ nhận việc đã gặp anh ta."
+            }
+        },
+        {
+            "content": "chối",
+            "type": "verb",
+            "example": {
+                "en": "Tom denied any involvement in the killing.",
+                "vi": "Tôi chối bỏ bất cứ liên quan nào đến vụ giết người."
+            }
+        },
+        {
+            "content": "từ chối",
+            "type": "verb",
+            "example": {
+                "en": "There's nothing I'd deny you if you would not deny me.",
+                "vi": "Không có điều gì anh từ chối em nếu như em không từ chối anh."
+            }
+        },
+        {
+            "content": "chối cãi",
+            "type": "",
+            "example": {
+                "en": "There's no denying the tragedy that we've all endured here today.",
+                "vi": "Không thể chối cãi bi kịch mà chúng ta đã hứng chịu ngày hôm nay."
+            }
+        },
+        {
+            "content": "không cho",
+            "type": "",
+            "example": {
+                "en": "Finding, at last, the peace my mother denied him while he lived.",
+                "vi": "Cuối cùng cũng tìm thấy sự bình yên mà mẹ tôi không cho ông ấy lúc sống."
+            }
+        },
+        {
+            "content": "không cho gặp mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhận",
+            "type": "",
+            "example": {
+                "en": "You accuse me of crimes, I deny them, so you throw me into a cell to freeze and starve?",
+                "vi": "Các người buộc tội ta, ta không nhận, thế là các người ném ta vào ngục lạnh lẽo và đói khát?"
+            }
+        },
+        {
+            "content": "phản đối",
+            "type": "verb noun",
+            "example": {
+                "en": "When has son ever denied the father?",
+                "vi": "Từ khi nào con trai đã phản đối cha?"
+            }
+        },
+        {
+            "content": "phủ định",
+            "type": "",
+            "example": {
+                "en": "People say you deny the existence of mermaids to protect them.",
+                "vi": "Nghe nói anh phủ định mỹ nhân ngư là để bảo vệ họ?"
+            }
+        }
+    ]
+}

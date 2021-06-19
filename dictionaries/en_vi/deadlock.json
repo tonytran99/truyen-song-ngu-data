@@ -1,0 +1,50 @@
+{
+    "word": "deadlock",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdedˌläk/",
+            "/ˈdɛdˌlɑk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛdlɒk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự bế tắc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bế tắc",
+            "type": "noun",
+            "example": {
+                "en": "We'll need to appoint someone to break the four-four deadlock.",
+                "vi": "Ta cần chỉ định ai đó phá được thế bế tắc."
+            }
+        },
+        {
+            "content": "sự đình hẳn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Deadlock",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "deadlock",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

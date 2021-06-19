@@ -1,0 +1,49 @@
+{
+    "word": "exhausting",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iɡˈzôstiNG/",
+            "/ɪɡˈzɔstɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪɡˈzɔːstɪŋ/",
+            "/ɛɡˈzɔːstɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm kiệt sức",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm mệt lử",
+            "type": "adjective",
+            "example": {
+                "en": "They can be worrisome, oppressive, and exhausting.",
+                "vi": "Chúng có thể gây ra phiền toái, lòng nặng trĩu và làm mệt lử."
+            }
+        },
+        {
+            "content": "mệt lử",
+            "type": "",
+            "example": {
+                "en": "I finally reached home at three o’clock in the morning, frozen and exhausted.",
+                "vi": "Cuối cùng tôi về đến nhà lúc ba giờ sáng, người lạnh cóng và mệt lử."
+            }
+        },
+        {
+            "content": "mửa mật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

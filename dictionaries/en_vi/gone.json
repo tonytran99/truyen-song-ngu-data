@@ -1,0 +1,44 @@
+{
+    "word": "gone",
+    "type": [
+        "adjective",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡôn/",
+            "/ɡɔn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɒn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuất",
+            "type": "",
+            "example": {
+                "en": "+ For who can tell man what will happen under the sun after he is gone?",
+                "vi": "Ai có thể nói cho con người biết điều sẽ xảy ra dưới mặt trời sau khi người đã khuất?"
+            }
+        },
+        {
+            "content": "rồi đời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi",
+            "type": "verb",
+            "example": {
+                "en": "It's been a while since we've gone swimming together.",
+                "vi": "Một thời gian đã trôi qua kể từ khi chúng ta đi bơi cùng nhau."
+            }
+        }
+    ]
+}

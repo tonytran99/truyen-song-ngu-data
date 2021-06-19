@@ -1,0 +1,418 @@
+{
+    "word": "form",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôrm/",
+            "/fɔrm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình thức",
+            "type": "noun",
+            "example": {
+                "en": "Representative democracy is one form of government.",
+                "vi": "Dân chủ đại diện là một hình thức của chính phủ."
+            }
+        },
+        {
+            "content": "dạng",
+            "type": "noun",
+            "example": {
+                "en": "Ice is water in solid form.",
+                "vi": "Đá là nước ở dạng cứng."
+            }
+        },
+        {
+            "content": "hình",
+            "type": "noun",
+            "example": {
+                "en": "Democracy is the worst form of government, except all the others that have been tried.",
+                "vi": "Trong tất cả các loại hình chính phủ, dân chủ là tệ nhất, trừ mọi chính phủ mà đã tồn tại từ xưa đến giờ."
+            }
+        },
+        {
+            "content": "hình dạng",
+            "type": "noun",
+            "example": {
+                "en": "But in each case, I didn't design the form.",
+                "vi": "Nhưng trong mỗi trường hợp, tôi không thiết kế hình dạng."
+            }
+        },
+        {
+            "content": "hình thể",
+            "type": "noun",
+            "example": {
+                "en": "Stromatolites are some of the oldest forms of life that we can find on earth.",
+                "vi": "Thạch là một trong những hình thể sống lâu đời nhất trên trái đất."
+            }
+        },
+        {
+            "content": "tạo",
+            "type": "verb",
+            "example": {
+                "en": "It took all three scrolls to form the numbers.",
+                "vi": "Phải có ba cuộn giấy mới tạo thành những con số."
+            }
+        },
+        {
+            "content": "hình dáng",
+            "type": "",
+            "example": {
+                "en": "The red serum will turn them back to their normal forms.",
+                "vi": "Chất huyết thanh đỏ sẽ trả họ về với hình dáng bình thường ban đầu."
+            }
+        },
+        {
+            "content": "hình thái",
+            "type": "noun",
+            "example": {
+                "en": "How can we represent that form of uncertainty?",
+                "vi": "Làm thế nào để trình bày các hình thái không chắc chắn đó?"
+            }
+        },
+        {
+            "content": "cấu tạo",
+            "type": "verb noun",
+            "example": {
+                "en": "Ancient King David reflected on the physical makeup of his masterfully formed body.",
+                "vi": "Vua Đa-vít thuở xưa đã suy ngẫm về sự cấu tạo đáng thán phục của cơ thể mình."
+            }
+        },
+        {
+            "content": "hình thành",
+            "type": "",
+            "example": {
+                "en": "And it'll form probably a solar system, or whatever it forms.",
+                "vi": "Và nó có thể sẽ hình thành hệ Mặt trời, hoặc bất kì thứ gì khác."
+            }
+        },
+        {
+            "content": "làm thành",
+            "type": "",
+            "example": {
+                "en": "Fourteen of these letters form a part of the New Testament today.",
+                "vi": "Mười bốn bức thư trong số những bức thư nầy làm thành một phần của Tân Ước ngày nay."
+            }
+        },
+        {
+            "content": "nghi thức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nặn thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết lập",
+            "type": "",
+            "example": {
+                "en": "All Nova pilots, interlock and form a blockade.",
+                "vi": "Toàn phi đội Nova, kết nối và thiết lập rào chắn."
+            }
+        },
+        {
+            "content": "thành hình",
+            "type": "",
+            "example": {
+                "en": "What formed this “forest of cones and pillars of rock”?",
+                "vi": "Do đâu mà “những trụ đá và khối đá hình nón” này đã thành hình?"
+            }
+        },
+        {
+            "content": "thành lập",
+            "type": "",
+            "example": {
+                "en": "As far as we can tell, it started right after they formed the task force.",
+                "vi": "Theo như chúng tôi biết thì ngay từ khi thành lập lực lượng."
+            }
+        },
+        {
+            "content": "tạo thành",
+            "type": "",
+            "example": {
+                "en": "It took all three scrolls to form the numbers.",
+                "vi": "Phải có ba cuộn giấy mới tạo thành những con số."
+            }
+        },
+        {
+            "content": "tổ chức",
+            "type": "verb noun",
+            "example": {
+                "en": "Quickly, the branch formed emergency committees to organize relief efforts.",
+                "vi": "Chi nhánh đã nhanh chóng lập những ban cấp cứu để tổ chức việc cứu trợ."
+            }
+        },
+        {
+            "content": "xếp thành",
+            "type": "",
+            "example": {
+                "en": "You may come forward and form a circle.",
+                "vi": "Các bạn hãy tiến lên phía trước và xếp thành một vòng tròn."
+            }
+        },
+        {
+            "content": "đơn",
+            "type": "noun",
+            "example": {
+                "en": "Please fill in this application form.",
+                "vi": "Xin điền vào đơn này."
+            }
+        },
+        {
+            "content": "biểu mẫu",
+            "type": "",
+            "example": {
+                "en": "that was written to submit the form millions and millions of times.",
+                "vi": "được viết để điền biểu mẫu hàng triệu triệu lần."
+            }
+        },
+        {
+            "content": "rèn luyện",
+            "type": "verb",
+            "example": {
+                "en": "It can come in the form of training first, and if that is rejected, eventually as punishment.",
+                "vi": "Trước tiên nó có thể đến với hình thức rèn luyện, và nếu bác bỏ thì cuối cùng sẽ là sự trừng phạt."
+            }
+        },
+        {
+            "content": "đào tạo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "mẫu",
+            "type": "noun",
+            "example": {
+                "en": "What's holding us up now is the new form of this travel permit.",
+                "vi": "Bây giờ cái mà chúng tôi bị ngắc ngứ là cái mẫu giấy đi đường mới."
+            }
+        },
+        {
+            "content": "khuôn",
+            "type": "noun",
+            "example": {
+                "en": "A tiny body begins to form after a pattern of magnificent complexity.",
+                "vi": "Một cơ thể nhỏ bé bắt đầu hình thành từ khuôn mẫu gắn bó tuyệt vời."
+            }
+        },
+        {
+            "content": "tờ khai",
+            "type": "",
+            "example": {
+                "en": "Make sure that admittance forms are filled out correctly.",
+                "vi": "Hãy đảm bảo rằng các tờ khai nhập viện được điền chính xác."
+            }
+        },
+        {
+            "content": "tờ đơn",
+            "type": "noun",
+            "example": {
+                "en": "Now, I have some forms for you to fill out.",
+                "vi": "Giờ, tôi cho cô mấy tờ đơn để điền vào."
+            }
+        },
+        {
+            "content": "lớp",
+            "type": "noun",
+            "example": {
+                "en": "They form their own furls of cartilage around themselves.",
+                "vi": "Chúng tự tạo thành nhiều lớp sụn xung quanh."
+            }
+        },
+        {
+            "content": "sáng lập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủ tục",
+            "type": "",
+            "example": {
+                "en": "Me neither, but it's on the State form.",
+                "vi": "Tôi cũng thấy thế, nhưng đây là thủ tục."
+            }
+        },
+        {
+            "content": "lập",
+            "type": "verb",
+            "example": {
+                "en": "Patients with blue forms must immediately exit to the parking lot.",
+                "vi": "Bệnh nhân với đơn màu xanh phải lập tức đi ra ngay khỏi bệnh viện."
+            }
+        },
+        {
+            "content": "kiểu",
+            "type": "noun",
+            "example": {
+                "en": "I thought maybe he'd try some other form of contact.",
+                "vi": "Tôi đã tưởng rằng anh ta sẽ thử kiểu tiếp xúc khác."
+            }
+        },
+        {
+            "content": "gây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhiễm",
+            "type": "verb",
+            "example": {
+                "en": "For example, anything that spreads by a form of social contagion",
+                "vi": "Chẳng hạn, bất cứ thứ gì lan truyền bởi lây nhiễm khi tiếp xúc xã hội"
+            }
+        },
+        {
+            "content": "dạng // hình thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dạng thức",
+            "type": "noun",
+            "example": {
+                "en": "After all, what did the intermediate forms look like?",
+                "vi": "Sau hết tất cả, các dạng thức trung gian của nó trông giống cái gì nhì?"
+            }
+        },
+        {
+            "content": "ghế dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hang thỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạch định",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "huấn luyện",
+            "type": "",
+            "example": {
+                "en": "And I wanted to be formed to a training center and a research center.",
+                "vi": "Và tôi đã muốn được vào một trung tâm huấn luyện và một trung tâm khảo sát."
+            }
+        },
+        {
+            "content": "lề thói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nghĩ ra",
+            "type": "",
+            "example": {
+                "en": "Did you form this opinion prior to my little transformation?",
+                "vi": "Anh nghĩ ra câu này khi lên dốc nhà em ah?"
+            }
+        },
+        {
+            "content": "phát thành tiếng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phát âm rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rèn đúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phấn khởi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo đoạn thẳng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng sức khoẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tạo được",
+            "type": "",
+            "example": {
+                "en": "But how can we form such a bond?",
+                "vi": "Nhưng làm sao chúng ta tạo được mối quan hệ như thế?"
+            }
+        },
+        {
+            "content": "xếp thành hàng",
+            "type": "",
+            "example": {
+                "en": "We will form two lines.",
+                "vi": "Xếp thành 2 hàng nào."
+            }
+        },
+        {
+            "content": "được tạo thành",
+            "type": "",
+            "example": {
+                "en": "The hippocampus is formed of two sheets of cells,",
+                "vi": "Hồi hải mã được tạo thành từ hai lớp tế bào,"
+            }
+        },
+        {
+            "content": "ắc quy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách",
+            "type": "verb noun",
+            "example": {
+                "en": "in such a similar form but in such different belief systems,",
+                "vi": "cùng một phong cách giống nhau nhưng trong những hệ thống tín ngưỡng khác nhau,"
+            }
+        },
+        {
+            "content": "ñôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấu thành",
+            "type": "",
+            "example": {
+                "en": "The Valley of Achor forms part of the northeastern boundary of the land.",
+                "vi": "Thung Lũng A-cô cấu thành phần biên giới phía đông bắc của xứ."
+            }
+        },
+        {
+            "content": "ván khuôn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "fortunately",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrCH(ə)nətlē/",
+            "/ˈfɔrtʃ(ə)nətli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːtʃ(ə)nətli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "may mắn thay",
+            "type": "adverb",
+            "example": {
+                "en": "Fortunately, the weather was good.",
+                "vi": "May mắn thay, thời tiết rất tốt."
+            }
+        },
+        {
+            "content": "may thay",
+            "type": "adverb",
+            "example": {
+                "en": "The story could end there, but fortunately it hasn’t.",
+                "vi": "Câu chuyện có thể kết thúc ở đó, nhưng may thay không phải vậy."
+            }
+        }
+    ]
+}

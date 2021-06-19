@@ -1,0 +1,62 @@
+{
+    "word": "hearth",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/härTH/",
+            "/hɑrθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɑːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gia đình",
+            "type": "noun",
+            "example": {
+                "en": "For hearth and home, right, sir?",
+                "vi": "Vì gia đình và tổ quốc, phải không thưa ngài?"
+            }
+        },
+        {
+            "content": "khoảng lát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lòng lò sưởi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nền lò sưởi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tổ ấm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xi măng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lò sưởi",
+            "type": "",
+            "example": {
+                "en": "Open-ended, open hearth, open source, open door policy, open bar.",
+                "vi": "Kết thúc mở, lò sưởi mở nguồn mở, chính sách mở cửa quán rượu mở."
+            }
+        }
+    ]
+}

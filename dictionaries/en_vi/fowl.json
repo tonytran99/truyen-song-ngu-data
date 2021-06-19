@@ -1,0 +1,72 @@
+{
+    "word": "fowl",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/foul/",
+            "/faʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gà",
+            "type": "noun",
+            "example": {
+                "en": "I might be able to let you have a boiling fowl, too.",
+                "vi": "Tôi cũng có thể cung cấp cho ông thịt gà nấu chín nữa."
+            }
+        },
+        {
+            "content": "bắn chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt gà",
+            "type": "",
+            "example": {
+                "en": "I might be able to let you have a boiling fowl, too.",
+                "vi": "Tôi cũng có thể cung cấp cho ông thịt gà nấu chín nữa."
+            }
+        },
+        {
+            "content": "đánh bẫy chin",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gia cầm",
+            "type": "noun",
+            "example": {
+                "en": "I have transferred the documents in the innards of roasted beasts and fowls.",
+                "vi": "Con đã giấu thư mật trong các con heo và gia cầm quay."
+            }
+        },
+        {
+            "content": "gà vịt",
+            "type": "noun",
+            "example": {
+                "en": "Chickens and other fowl are often fed with grain.",
+                "vi": "Các loại gà vịt thường được nuôi bằng hạt ngũ cốc."
+            }
+        },
+        {
+            "content": "chim",
+            "type": "noun",
+            "example": {
+                "en": "If the sacrifice was from the fowls, it had to be from the turtledoves or young pigeons.",
+                "vi": "Nếu của-lễ là loài chim, thì phải là con cu đất hay bồ câu con."
+            }
+        }
+    ]
+}

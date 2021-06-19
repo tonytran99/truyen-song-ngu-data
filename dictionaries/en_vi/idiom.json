@@ -1,0 +1,60 @@
+{
+    "word": "idiom",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈidēəm/",
+            "/ˈɪdiəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪdɪəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thành ngữ",
+            "type": "noun",
+            "example": {
+                "en": "In this way he was able to learn the correct use of Gypsy idioms.",
+                "vi": "Nhờ đó, ông học cách sử dụng đúng các thành ngữ Gypsy."
+            }
+        },
+        {
+            "content": "thổ ngữ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cách diễn đạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách biểu diễn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặc ngữ",
+            "type": "",
+            "example": {
+                "en": "Idioms involving the hand are used in a variety of ways.",
+                "vi": "Các đặc ngữ liên quan đến tay được dùng nhiều cách khác nhau."
+            }
+        },
+        {
+            "content": "Thành ngữ",
+            "type": "",
+            "example": {
+                "en": "This ancient idiom alludes to the practice of cheating others when using dice.",
+                "vi": "Thành ngữ cổ xưa này ám chỉ việc dùng súc sắc để lừa bịp người khác."
+            }
+        }
+    ]
+}

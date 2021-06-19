@@ -1,0 +1,35 @@
+{
+    "word": "chipped",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHipt/",
+            "/tʃɪpt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɪpt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mẻ",
+            "type": "adjective",
+            "example": {
+                "en": "The boat was moving a lot, so I chipped her tooth.",
+                "vi": "Thậm chí thuyền còn lắc đến nỗi anh làm mẻ răng cô ta."
+            }
+        },
+        {
+            "content": "sứt",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

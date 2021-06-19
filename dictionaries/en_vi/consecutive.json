@@ -1,0 +1,49 @@
+{
+    "word": "consecutive",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsekyədiv/",
+            "/kənˈsɛkjədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsɛkjʊtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "liên tiếp",
+            "type": "",
+            "example": {
+                "en": "They have several consecutive quarters of record profits and revenues .",
+                "vi": "Họ có lợi nhuận và doanh thu cao kỷ lục trong một vài quý liên tiếp ."
+            }
+        },
+        {
+            "content": "liên tục",
+            "type": "",
+            "example": {
+                "en": "Brothers must have served as either an elder or a ministerial servant for at least two consecutive years.",
+                "vi": "Các anh phải là trưởng lão hoặc phụ tá hội thánh ít nhất hai năm liên tục."
+            }
+        },
+        {
+            "content": "tiếp liền nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuần tự",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

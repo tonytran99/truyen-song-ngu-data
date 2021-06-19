@@ -1,0 +1,211 @@
+{
+    "word": "want",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wänt/",
+            "/wɑnt/",
+            "/wônt/",
+            "/wɔnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "muốn",
+            "type": "verb",
+            "example": {
+                "en": "I don't want to work under these conditions.",
+                "vi": "Tôi không muốn làm việc trong những điều kiện như thế này."
+            }
+        },
+        {
+            "content": "cần",
+            "type": "verb",
+            "example": {
+                "en": "I want a wife and children, and so I need a house.",
+                "vi": "Tôi muốn có vợ và con cho nên tôi cần một căn nhà."
+            }
+        },
+        {
+            "content": "nhu cầu",
+            "type": "noun",
+            "example": {
+                "en": "He wanted to be taken care of in every need.",
+                "vi": "Người ấy muốn mọi nhu cầu của mình được người khác lo liệu."
+            }
+        },
+        {
+            "content": "thiếu",
+            "type": "verb",
+            "example": {
+                "en": "Certainly, we do not want to imitate his lack of appreciation.",
+                "vi": "Chắc hẳn chúng ta không muốn bắt chước hắn mà thiếu sự quí trọng."
+            }
+        },
+        {
+            "content": "tìm",
+            "type": "verb",
+            "example": {
+                "en": "It's just that I don't want anyone to try and slip me saltpeter.",
+                "vi": "Tôi chỉ không thích có ai tìm cách làm tôi điên thật."
+            }
+        },
+        {
+            "content": "ước mong",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kiếm",
+            "type": "noun",
+            "example": {
+                "en": "The older she got, the less she made selling her body, the more she wanted to drink.",
+                "vi": "Càng già, càng khó bán thân kiếm tiền, thì bà lại uống càng nhiều."
+            }
+        },
+        {
+            "content": "cảnh nghèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảnh túng thiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cần có",
+            "type": "",
+            "example": {
+                "en": "If you want to catch wolves, you need wolves.",
+                "vi": "Muốn bắt sói, chúng ta cần có sói."
+            }
+        },
+        {
+            "content": "cần dùng",
+            "type": "",
+            "example": {
+                "en": "Do you want the phase meter?",
+                "vi": "Chị có cần dùng máy đo pha không?"
+            }
+        },
+        {
+            "content": "eo hẹp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "I want to buy my children everything I never had.",
+                "vi": "Mình muốn mua cho lũ trẻ tất cả những gì mình không có."
+            }
+        },
+        {
+            "content": "mong muốn",
+            "type": "",
+            "example": {
+                "en": "Isn't that what they want?",
+                "vi": "Không phải đó chính là điều họ mong muốn sao?"
+            }
+        },
+        {
+            "content": "muốn có",
+            "type": "",
+            "example": {
+                "en": "I want a wife and children, and so I need a house.",
+                "vi": "Tôi muốn có vợ và con cho nên tôi cần một căn nhà."
+            }
+        },
+        {
+            "content": "những cái cần thiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự cần",
+            "type": "",
+            "example": {
+                "en": "If you don't know really what you want, what are you doing here?",
+                "vi": "Nếu anh không biết mình thực sự cần gì, thì anh đang làm gì ở đây?"
+            }
+        },
+        {
+            "content": "sự cần thiết",
+            "type": "",
+            "example": {
+                "en": "But I want to talk about the need for us to dream",
+                "vi": "Nhưng tôi muốn nói về sự cần thiết để chúng ta mơ"
+            }
+        },
+        {
+            "content": "sự khuyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự không có",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thiếu",
+            "type": "",
+            "example": {
+                "en": "As we obey the covenant of tithing, we are shielded from want and the power of the destroyer.",
+                "vi": "Khi chúng ta tuân theo giao ước thập phân, chúng ta được bảo vệ khỏi sự thiếu thốn và quyền lực của kẻ hủy diệt."
+            }
+        },
+        {
+            "content": "truy nã",
+            "type": "",
+            "example": {
+                "en": "The man is wanted for murder.",
+                "vi": "Người đàn ông bị truy nã về tội giết người."
+            }
+        },
+        {
+            "content": "tìm bắt",
+            "type": "",
+            "example": {
+                "en": "They didn't seem to want to try to take him'cause they had Cole.",
+                "vi": "Hình như họ không muốn tìm bắt nó bởi vì họ đã có Cole."
+            }
+        },
+        {
+            "content": "túng thiếu",
+            "type": "",
+            "example": {
+                "en": "Sometimes, though, because of adverse circumstances, he suffered want and deprivation.",
+                "vi": "Tuy nhiên, đôi khi vì nghịch cảnh, ông bị túng thiếu."
+            }
+        },
+        {
+            "content": "dục",
+            "type": "verb noun",
+            "example": {
+                "en": "that wants to double the education budget in the United States —",
+                "vi": "dành cho việc nhân đôi số tiền dành cho ngành Giáo dục tại Mỹ —"
+            }
+        },
+        {
+            "content": "nghèo đói",
+            "type": "",
+            "example": {
+                "en": "He wants to see me die poor and alone on some cold-",
+                "vi": "Ông ấy muốn thấy ta chết trong nghèo đói và cô độc tại..."
+            }
+        }
+    ]
+}

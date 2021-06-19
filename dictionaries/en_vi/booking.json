@@ -1,0 +1,78 @@
+{
+    "word": "booking",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝okiNG/",
+            "/ˈbʊkɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊkɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đặt",
+            "type": "verb",
+            "example": {
+                "en": "Once he graduated, they started getting booked even more.",
+                "vi": "Khi anh ấy tốt nghiệp thì chắc chắn họ sẽ được đặt lịch diễn nhiều hơn nữa."
+            }
+        },
+        {
+            "content": "thuê",
+            "type": "",
+            "example": {
+                "en": "It's calculated the charge rate for each person for this specific booking.",
+                "vi": "Người ta tính toán giá thuê mỗi người"
+            }
+        },
+        {
+            "content": "sắp",
+            "type": "noun",
+            "example": {
+                "en": "Oh, I booked you in for scuba diving tomorrow.",
+                "vi": "Anh đã sắp xếp cho em đi lặn biển."
+            }
+        },
+        {
+            "content": "giữ chỗ",
+            "type": "verb",
+            "example": {
+                "en": "They were all booked here.",
+                "vi": "Bọn họ đều đã được giữ chỗ ở đây."
+            }
+        },
+        {
+            "content": "lên lịch",
+            "type": "",
+            "example": {
+                "en": "I'll book the surgery for four weeks from now.",
+                "vi": "Tôi sẽ lên lịch phẫu thuật sau bốn tuần nữa kể từ hôm nay."
+            }
+        },
+        {
+            "content": "tổ chức",
+            "type": "verb noun",
+            "example": {
+                "en": "So I've been asked by the organizers to read from my book.",
+                "vi": "Và, những người tổ chức vừa mới hỏi tôi về việc đọc quyển sách của tôi."
+            }
+        },
+        {
+            "content": "đặt lịch",
+            "type": "",
+            "example": {
+                "en": "Once he graduated, they started getting booked even more.",
+                "vi": "Khi anh ấy tốt nghiệp thì chắc chắn họ sẽ được đặt lịch diễn nhiều hơn nữa."
+            }
+        }
+    ]
+}

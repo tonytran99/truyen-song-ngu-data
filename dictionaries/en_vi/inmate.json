@@ -1,0 +1,55 @@
+{
+    "word": "inmate",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌmāt/",
+            "/ˈɪnˌmeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnmeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bệnh",
+            "type": "",
+            "example": {
+                "en": "the other inmates at Briarcliff, whose stories broke my heart and inspired me to survive.",
+                "vi": "những người bệnh khác ở Briarcliff, những chuyện của họ khiến tôi tan nát và truyền cảm hứng cho tôi tồn tại,"
+            }
+        },
+        {
+            "content": "người ở cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ở tù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tù nhân",
+            "type": "",
+            "example": {
+                "en": "I don't understand what an inmate gains from scrambling up another inmate.",
+                "vi": "Tôi không hiểu một tù nhân được lợi gì. Từ việc nướng não tù nhân khác chứ."
+            }
+        },
+        {
+            "content": "bạn tù",
+            "type": "noun",
+            "example": {
+                "en": "Okay, so we don't just do inmate laundry, right?",
+                "vi": "Thế này, chúng ta không làm việc giặt bạn tù, phải không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "empower",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈpou(ə)r/",
+            "/əmˈpaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpaʊə/",
+            "/ɛmˈpaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho phép",
+            "type": "",
+            "example": {
+                "en": "because the Internet has greatly empowered many of these young people",
+                "vi": "bởi vì Internet thật sự đã cho phép người trẻ làm nhiều hơn"
+            }
+        },
+        {
+            "content": "cho quyền",
+            "type": "",
+            "example": {
+                "en": "how you will be empowered to participate.",
+                "vi": "cách mà các bạn sẽ được cho quyền tham gia."
+            }
+        },
+        {
+            "content": "làm cho có thể",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trao quyền",
+            "type": "",
+            "example": {
+                "en": "We believe that teachers should be empowered, not replaced.",
+                "vi": "Chúng tôi nghĩ giáo viên nên được trao quyền chứ không phải bị thay thế."
+            }
+        }
+    ]
+}

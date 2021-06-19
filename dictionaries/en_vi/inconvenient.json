@@ -1,0 +1,48 @@
+{
+    "word": "inconvenient",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinkənˈvēnyənt/",
+            "/ˌɪnkənˈvinjənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnkənˈviːnɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất tiện",
+            "type": "adjective",
+            "example": {
+                "en": "I know we've been an inconvenience for you since we've been here.",
+                "vi": "Tôi biết là chúng ta sẽ khá là bất tiện khi lên đây."
+            }
+        },
+        {
+            "content": "mất công",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "phiền phức",
+            "type": "",
+            "example": {
+                "en": "If you become any kind of an inconvenience, I'll shoot you.",
+                "vi": "Nếu anh gây phiền phức, tôi sẽ bắn anh."
+            }
+        },
+        {
+            "content": "thiếu tiện nghi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

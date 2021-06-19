@@ -1,0 +1,126 @@
+{
+    "word": "approximate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpräksəmət/",
+            "/əˈprɑksəmət/",
+            "/əˈpräksəˌmāt/",
+            "/əˈprɑksəˌmeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈprɒksɪmət/",
+            "/əˈprɒksɪmeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xấp xỉ",
+            "type": "adjective",
+            "example": {
+                "en": "They approximate the water content of a human body.",
+                "vi": "Nó có lượng nước xấp xỉ với lượng nước trong cơ thể người."
+            }
+        },
+        {
+            "content": "gần đúng",
+            "type": "",
+            "example": {
+                "en": "Now, the machine is — in this case, it's a real approximation of that,",
+                "vi": "Bây giờ, cái máy, trường hợp này, là một sự gần đúng thật sự,"
+            }
+        },
+        {
+            "content": "approximate to giống với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giống hệt với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gần đúng với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắn với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoảng",
+            "type": "adjective",
+            "example": {
+                "en": "She had been clean for approximately eight months.",
+                "vi": "Cô đã được cai thuốc khoảng tám tháng."
+            }
+        },
+        {
+            "content": "làm cho gắn với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rất gần nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "suýt soát",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "xấp xỉ với",
+            "type": "",
+            "example": {
+                "en": "They approximate the water content of a human body.",
+                "vi": "Nó có lượng nước xấp xỉ với lượng nước trong cơ thể người."
+            }
+        },
+        {
+            "content": "gaàn ñuùng, xaáp xæ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoảng chừng",
+            "type": "",
+            "example": {
+                "en": "So, for approximately two minutes, we got no evidence of people leaving or entering the bank.",
+                "vi": "Trong khoảng chừng 2 phút, ta không có bằng chứng về bất cứ người nào ra vào ngân hàng."
+            }
+        },
+        {
+            "content": "phỏng chừng",
+            "type": "",
+            "example": {
+                "en": "Approximate Decibel Level of Some Common Sounds",
+                "vi": "Mức độ đêxiben phỏng chừng của một số âm thanh thông thường"
+            }
+        },
+        {
+            "content": "áng chừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ước chừng",
+            "type": "",
+            "example": {
+                "en": "Dates and order of events are approximate.",
+                "vi": "Ngày tháng và thứ tự của các sự kiện đều là ước chừng."
+            }
+        }
+    ]
+}

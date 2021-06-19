@@ -1,0 +1,38 @@
+{
+    "word": "ufo",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌyo͞o ˌef ˈō/",
+            "/ˌju ˌɛf ˈoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːɛfˈəʊ/",
+            "/ˈjuːfəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vật thể bay không xác định",
+            "type": "noun",
+            "example": {
+                "en": "There have been many sightings lately of UFOs, Unidentified Flying Objects.",
+                "vi": "Có rất nhiều dấu hiệu của UFO - vật thể bay không xác định"
+            }
+        },
+        {
+            "content": "đĩa bay",
+            "type": "",
+            "example": {
+                "en": "Are UFOs alien spaceships, or perceptual cognitive mistakes, or even fakes?",
+                "vi": "UFO là đĩa bay ngoài hành tinh, nhầm lẫn giác quan, hay thậm chí là đồ giả?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "increment",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiNGkrəmənt/",
+            "/ˈɪŋkrəmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪŋkrɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tăng",
+            "type": "verb noun",
+            "example": {
+                "en": "But some of them have been much more incremental.",
+                "vi": "Nhưng 1 vài trong số đó đã gia tăng nhiều hơn."
+            }
+        },
+        {
+            "content": "lượng gia",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số gia",
+            "type": "",
+            "example": {
+                "en": "Cash deposits made daily in $ 9,000 increments.",
+                "vi": "Tiền gửi bằng tiền mặt hàng ngày trong 9,000 $ số gia tăng."
+            }
+        },
+        {
+            "content": "sự lớn lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền lãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiền lời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "độ lớn lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tăng lương",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

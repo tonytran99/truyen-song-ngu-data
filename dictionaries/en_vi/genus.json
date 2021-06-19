@@ -1,0 +1,53 @@
+{
+    "word": "genus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjēnəs/",
+            "/ˈdʒinəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒiːnəs/",
+            "/ˈdʒɛnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "chi",
+            "type": "verb noun",
+            "example": {
+                "en": "There are 13 species in the genus, and they have",
+                "vi": "Có 13 loài trong chi này, và chúng đều có"
+            }
+        },
+        {
+            "content": "loại",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chi",
+            "type": "",
+            "example": {
+                "en": "There are 13 species in the genus, and they have",
+                "vi": "Có 13 loài trong chi này, và chúng đều có"
+            }
+        }
+    ]
+}

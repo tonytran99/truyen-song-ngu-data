@@ -1,0 +1,40 @@
+{
+    "word": "garb",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡärb/",
+            "/ɡɑrb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɑːb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cách ăn mặc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quần áo",
+            "type": "noun",
+            "example": {
+                "en": "What did the purple triangle on their prison garb signify?",
+                "vi": "Tam giác tím thêu trên quần áo tù nhân có nghĩa gì?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "word": "fluent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflo͞oənt/",
+            "/ˈfluənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfluːənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lưu loát",
+            "type": "adjective adverb",
+            "example": {
+                "en": "Do it again and again until your reading is fluent.",
+                "vi": "Tập đi tập lại cho đến khi đọc lưu loát."
+            }
+        },
+        {
+            "content": "trôi chảy",
+            "type": "adjective",
+            "example": {
+                "en": "Well, it's a good thing I'm fluent in French.",
+                "vi": "Tốt, may mắn là tiếng Pháp tôi trôi chảy."
+            }
+        },
+        {
+            "content": "dễ dàng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cháy",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "dễ cháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạt bát",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thông thạo",
+            "type": "",
+            "example": {
+                "en": "Mr Nakajima can, as well as English, speak fluent German.",
+                "vi": "Ngoài tiếng Anh, ông Nakajima có thể nói thông thạo tiếng Đức."
+            }
+        },
+        {
+            "content": "uyển chuyển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viết lưu loát",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

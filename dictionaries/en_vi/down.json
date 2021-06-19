@@ -1,0 +1,402 @@
+{
+    "word": "down",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/doun/",
+            "/daʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/daʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuống",
+            "type": "adjective",
+            "example": {
+                "en": "We went down to the valley where the village is.",
+                "vi": "Chúng tôi đi xuống thung lũng nơi có ngôi làng."
+            }
+        },
+        {
+            "content": "xuôi",
+            "type": "adjective, adposition",
+            "example": {
+                "en": "Ways that might allow us to go on, down a new and uncharted road.",
+                "vi": "Những cách cho phép chúng ta tiếp tục, xuôi theo con đường mới chưa có dấu chân."
+            }
+        },
+        {
+            "content": "hạ",
+            "type": "verb noun",
+            "example": {
+                "en": "And nothing, and no one, is going to stop me from bringing him down.",
+                "vi": "Và không có gì, và không ai sẽ ngăn tôi hạ gục hắn."
+            }
+        },
+        {
+            "content": "bỏ xuống",
+            "type": "adjective",
+            "example": {
+                "en": "The axe is too important to set down.",
+                "vi": "Cái rìu thì quá quan trọng đến mức không thể bỏ xuống."
+            }
+        },
+        {
+            "content": "ghi chép",
+            "type": "",
+            "example": {
+                "en": "A woman is taking down some notes on a pad of paper.",
+                "vi": "Một người phụ nữ đang ghi chép lại một cái gì đó."
+            }
+        },
+        {
+            "content": "lông tơ chim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngã xuống",
+            "type": "adjective",
+            "example": {
+                "en": "I lost my balance and fell down the stairs.",
+                "vi": "Tôi bị mất thăng bằng và ngã xuống thang."
+            }
+        },
+        {
+            "content": "xuôi về",
+            "type": "",
+            "example": {
+                "en": "I saw it with my own eyes on our way down to Castle Black.",
+                "vi": "Là tôi tận mắt nhìn thấy trên đường xuôi về Hắc Thành."
+            }
+        },
+        {
+            "content": "dưới thấp",
+            "type": "adposition",
+            "example": {
+                "en": "Those rich kids still look down on me.",
+                "vi": "những kẻ giàu vẫn đánh giá tôi dưới thấp."
+            }
+        },
+        {
+            "content": "giảm xuống",
+            "type": "",
+            "example": {
+                "en": "Some people will move up, some people will move down.",
+                "vi": "Một số người làm nó tăng, một số làm giảm xuống."
+            }
+        },
+        {
+            "content": "dần",
+            "type": "",
+            "example": {
+                "en": "Been putting together a profile, narrowing down candidates.",
+                "vi": "Tôi đã nghiên cứu những hồ sơ, thu hẹp dần, với các ứng viên."
+            }
+        },
+        {
+            "content": "bắn rơi",
+            "type": "",
+            "example": {
+                "en": "I think he knew you told Fyers to shoot the plane down.",
+                "vi": "Tôi nghĩ ông ta biết cô bắt Fyer bắn rơi máy bay."
+            }
+        },
+        {
+            "content": "bắt im",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho đến tận",
+            "type": "",
+            "example": {
+                "en": "How encouraging these inspired records have been right down to our day!",
+                "vi": "Những lời tường thuật được soi dẫn này đã mang lại nhiều khích lệ biết bao cho đến tận thời chúng ta!"
+            }
+        },
+        {
+            "content": "chán nản",
+            "type": "adjective",
+            "example": {
+                "en": "You will get tired, and you may get overworked or feel down at times.",
+                "vi": "Có lúc bạn sẽ mệt, và bạn có thể làm nhiều quá sức hoặc chán nản."
+            }
+        },
+        {
+            "content": "cùng đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảnh sa sút",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cồn cát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giảm bớt",
+            "type": "",
+            "example": {
+                "en": "We worked our bills down and kept our expenses low.",
+                "vi": "Vợ chồng tôi giảm bớt và hạn chế các khoản chi tiêu."
+            }
+        },
+        {
+            "content": "gục xuống",
+            "type": "",
+            "example": {
+                "en": "Unless you want me to put you down with it.",
+                "vi": "Trừ khi cô muốn tôi cho cô gục xuống luôn luôn."
+            }
+        },
+        {
+            "content": "hạ bớt",
+            "type": "adverb",
+            "example": {
+                "en": "But you need to lay off that until your cholesterol's down.",
+                "vi": "Nhưng anh phải tạm ngưng đi cho đến khi cholesterol hạ bớt."
+            }
+        },
+        {
+            "content": "hạ xuống",
+            "type": "",
+            "example": {
+                "en": "See, that skylight goes down and becomes that one.",
+                "vi": "Thấy chưa, cái cửa sổ ở mái đó hạ xuống và trở thành cái đó."
+            }
+        },
+        {
+            "content": "im đi",
+            "type": "",
+            "example": {
+                "en": "That's when I like to be down here.",
+                "vi": "Ta hi vọng chúng sớm im đi."
+            }
+        },
+        {
+            "content": "kiệt sức",
+            "type": "adjective",
+            "example": {
+                "en": "I feel run-down like maybe something big is coming on.",
+                "vi": "Tôi cảm thấy kiệt sức kiểu như có thứ gì đó kinh khủng đang tới."
+            }
+        },
+        {
+            "content": "làm kiệt sức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lông tơ",
+            "type": "",
+            "example": {
+                "en": "I've made the moss and down extra soft for you, Eglantine.",
+                "vi": "Mẹ đã làm một lớp đệm rêu và lông tơ cực kỳ mềm cho con, Eglantine ạ!"
+            }
+        },
+        {
+            "content": "lăn xả vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lặn xuống",
+            "type": "",
+            "example": {
+                "en": "The Buddha went down into the water and reappeared with a golden axe .",
+                "vi": "Bụt lặn xuống sông rồi nổi lên với chiếc rìu vàng ."
+            }
+        },
+        {
+            "content": "ngay mặt tiền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nản lòng",
+            "type": "adjective",
+            "example": {
+                "en": "I have to admit, though, that at times I am a bit down.",
+                "vi": "Phải thừa nhận rằng đôi khi tôi cảm thấy nản lòng."
+            }
+        },
+        {
+            "content": "nằm xuống",
+            "type": "adjective",
+            "example": {
+                "en": "After eating heartily, he lay down at one end of the heap.",
+                "vi": "Sau khi ăn uống no nê, ông nằm xuống nghỉ ngơi bên cạnh đống lúa."
+            }
+        },
+        {
+            "content": "thất vọng",
+            "type": "adjective",
+            "example": {
+                "en": "I certainly hope that you won't let me, and the world, down.",
+                "vi": "Tôi mong rằng mọi người sẽ không để tôi, và cả thế giới, thất vọng."
+            }
+        },
+        {
+            "content": "tơi bời",
+            "type": "verb",
+            "example": {
+                "en": "She told me you came down pretty hard on those policemen.",
+                "vi": "Cô ấy có kể rằng anh đã đánh 1 trận tơi bời với bọn cảnh sát."
+            }
+        },
+        {
+            "content": "vùng cao nguyên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vùng đồi",
+            "type": "",
+            "example": {
+                "en": "Is it going to look good down on the Croisette?",
+                "vi": "Đi vùng đồi núi Croisette có ngon lành không?"
+            }
+        },
+        {
+            "content": "vận xuống dốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuôi theo",
+            "type": "adverb",
+            "example": {
+                "en": "Ways that might allow us to go on, down a new and uncharted road.",
+                "vi": "Những cách cho phép chúng ta tiếp tục, xuôi theo con đường mới chưa có dấu chân."
+            }
+        },
+        {
+            "content": "xuống cho đến",
+            "type": "",
+            "example": {
+                "en": "You should keep your head down till we're out of the city.",
+                "vi": "Cứ cúi đầu xuống cho đến khi ra khỏi thành phố."
+            }
+        },
+        {
+            "content": "xông vào",
+            "type": "",
+            "example": {
+                "en": "Why don't you move in and take her down?",
+                "vi": "Sao ông không cho xông vào và bắt cô ta?"
+            }
+        },
+        {
+            "content": "đánh gục",
+            "type": "",
+            "example": {
+                "en": "There's just the wrong that doesn't pull you down.",
+                "vi": "Chỉ có những điều sai không đánh gục được ta."
+            }
+        },
+        {
+            "content": "đánh ngã",
+            "type": "",
+            "example": {
+                "en": "Pacquiao's feeling good now after knocking Marquez down.",
+                "vi": "Pacquiao đang rất hưng phấn sau khi đánh ngã Marquez."
+            }
+        },
+        {
+            "content": "đánh đập",
+            "type": "",
+            "example": {
+                "en": "My mother was beaten and hosed down in marches.",
+                "vi": "Mẹ tôi đã từng bị đánh đập và kéo lê trong các cuộc tuần hành."
+            }
+        },
+        {
+            "content": "đả đảo",
+            "type": "",
+            "example": {
+                "en": "Down with the British.",
+                "vi": "Đả đảo đế quốc Anh."
+            }
+        },
+        {
+            "content": "đặt xuống",
+            "type": "",
+            "example": {
+                "en": "It's going to come bring it over here and put it down.",
+                "vi": "Nó sẽ mang chúng lại đây và đặt xuống."
+            }
+        },
+        {
+            "content": "đụn cát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở dưới",
+            "type": "",
+            "example": {
+                "en": "I have a truck in the lot down by the pier.",
+                "vi": "Tôi có chiếc xe tải ở dưới chân cầu."
+            }
+        },
+        {
+            "content": "ở phía dưới",
+            "type": "adverb",
+            "example": {
+                "en": "Because the world would truly be a different place if North were down.",
+                "vi": "Bời vì thế giới sẽ chắc chắn là một nơi khác nếu cực Bắc ở phía dưới."
+            }
+        },
+        {
+            "content": "ở thế cùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở vùng dưới",
+            "type": "",
+            "example": {
+                "en": "I-I have a rash... down there.",
+                "vi": "Tôi bị phát ban ở vùng dưới."
+            }
+        },
+        {
+            "content": "về phía dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xuống dưới",
+            "type": "",
+            "example": {
+                "en": "You get down there, or I'll have you sleep down there.",
+                "vi": "Cậu xuống dưới đó, không tôi sẽ bắt cậu ngủ dưới đó."
+            }
+        },
+        {
+            "content": "xuống phía dưới",
+            "type": "",
+            "example": {
+                "en": "I gotta go down underneath and take a look.",
+                "vi": "Anh phải xuống phía dưới để coi qua."
+            }
+        }
+    ]
+}

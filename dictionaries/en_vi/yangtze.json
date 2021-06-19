@@ -1,0 +1,48 @@
+{
+    "word": "yangtze",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyäNG(k)tsē/",
+            "/ˈjɑŋ(k)tsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjaŋtsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Dương Tử",
+            "type": "proper",
+            "example": {
+                "en": "Just a year later the Yangtze flooded,",
+                "vi": "Một năm sau sông Dương Tử ngập nước,"
+            }
+        },
+        {
+            "content": "揚子",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "長江",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Trường Giang",
+            "type": "",
+            "example": {
+                "en": "And the Yangtze is the gateway to all China.",
+                "vi": "Mà Trường Giang lại là cửa ngõ dẫn tới toàn cõi Trung Hoa."
+            }
+        }
+    ]
+}

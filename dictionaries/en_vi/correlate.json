@@ -1,0 +1,53 @@
+{
+    "word": "correlate",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəˌlāt/",
+            "/ˈkɔrəˌleɪt/",
+            "/ˈkôrələt/",
+            "/ˈkɔrələt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒrələt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quan hệ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thể tương liên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tươgn quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương quan",
+            "type": "verb",
+            "example": {
+                "en": "Try to tell me if there's a correlation between the cowboy and the taxi driver.",
+                "vi": "Hãy cho ta biết nếu có sự tương quan giữa cao bồi và người lái xe taxi."
+            }
+        },
+        {
+            "content": "yếu tố tương liên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

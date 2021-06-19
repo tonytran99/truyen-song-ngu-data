@@ -1,0 +1,50 @@
+{
+    "word": "unnecessary",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈnesəˌserē/",
+            "/ˌənˈnɛsəˌsɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈnɛsəs(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không cần thiết",
+            "type": "adjective",
+            "example": {
+                "en": "How may we avoid making unnecessary noise in the hallways?",
+                "vi": "Làm thế nào chúng ta có thể tránh tạo tiếng động không cần thiết ở hành lang?"
+            }
+        },
+        {
+            "content": "thừa",
+            "type": "",
+            "example": {
+                "en": "Suddenly, time travel seems almost unnecessary, because every detail of life is so delightful.",
+                "vi": "Bỗng nhiên, việc du hành thời gian trở nên thừa thãi, bởi mỗi giây phút trong cuộc sống đều trở nên sống động vô cùng."
+            }
+        },
+        {
+            "content": "bất tất",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vô ích",
+            "type": "adjective",
+            "example": {
+                "en": "He persuades me not to make this unnecessary sacrifice",
+                "vi": "Bảo tôi phải nhớ rõ Kẻo lại hi sinh vô ích"
+            }
+        }
+    ]
+}

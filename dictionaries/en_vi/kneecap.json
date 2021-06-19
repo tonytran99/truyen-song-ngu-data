@@ -1,0 +1,38 @@
+{
+    "word": "kneecap",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈnēˌkap/",
+            "/ˈniˌkæp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈniːkap/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh chè",
+            "type": "noun",
+            "example": {
+                "en": "Last time someone touched her, they got a crack kneecap.",
+                "vi": "Lần cuối ai đó chạm vào người cô ta, họ phải nhận một cái xương bánh chè vỡ."
+            }
+        },
+        {
+            "content": "xương bánh chè",
+            "type": "",
+            "example": {
+                "en": "Last time someone touched her, they got a crack kneecap.",
+                "vi": "Lần cuối ai đó chạm vào người cô ta, họ phải nhận một cái xương bánh chè vỡ."
+            }
+        }
+    ]
+}

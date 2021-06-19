@@ -1,0 +1,84 @@
+{
+    "word": "cache",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaSH/",
+            "/kæʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kaʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trữ",
+            "type": "verb",
+            "example": {
+                "en": "about a cache of dodo bones that was found",
+                "vi": "về nơi trữ xương chim Dodo được tìm thấy"
+            }
+        },
+        {
+            "content": "giấu kín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lưu bộ nhớ ẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lương thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi giấu",
+            "type": "",
+            "example": {
+                "en": "(1) A cache of hidden treasures!",
+                "vi": "(1) Một nơi giấu báu vật!"
+            }
+        },
+        {
+            "content": "nơi trữ",
+            "type": "",
+            "example": {
+                "en": "about a cache of dodo bones that was found",
+                "vi": "về nơi trữ xương chim Dodo được tìm thấy"
+            }
+        },
+        {
+            "content": "thức ăn dự trữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật dụng giấu kín",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cache",
+            "type": "",
+            "example": {
+                "en": "Cache Remote Package Files",
+                "vi": "Cache file gói ở xa"
+            }
+        },
+        {
+            "content": "bộ đệm ẩn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

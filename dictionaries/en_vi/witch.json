@@ -1,0 +1,79 @@
+{
+    "word": "witch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiCH/",
+            "/wɪtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɪtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mụ phù thủy",
+            "type": "",
+            "example": {
+                "en": "Hold your tongue, you old witch, or you'll get another ducking.",
+                "vi": "Liệu mà giữ mồm giữ miệng, mụ phù thủy già, không là lại bị trôi sông đấy."
+            }
+        },
+        {
+            "content": "phù thủy",
+            "type": "noun",
+            "example": {
+                "en": "Who says that a witch can't hunt witches?",
+                "vi": "Ai nói phù thủy không thể săn phù thủy?"
+            }
+        },
+        {
+            "content": "làm mê hồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm say đắm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mê hoặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mụ già xấu xí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mụ phù thuỷ",
+            "type": "",
+            "example": {
+                "en": "That witch we found was a dead end, Mayor.",
+                "vi": "Thị trưởng, cái mụ phù thuỷ chúng tôi tìm được đã chết."
+            }
+        },
+        {
+            "content": "quyến rũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Phù thủy",
+            "type": "",
+            "example": {
+                "en": "Elena, this woman killed so many people that an entire coven of witches built her a permanent timeout!",
+                "vi": "Elena, người đàn bà này đã giết quá nhiều người đến nỗi cả một Hội Phù thủy đã phải trục xuất bà ta mãi mãi!"
+            }
+        }
+    ]
+}

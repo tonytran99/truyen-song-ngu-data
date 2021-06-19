@@ -1,0 +1,39 @@
+{
+    "word": "hairdresser",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈherˌdresər/",
+            "/ˈhɛrˌdrɛsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛːdrɛsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ cắt tóc nữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ hớt tóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thợ cắt tóc",
+            "type": "noun",
+            "example": {
+                "en": "I am the adopted son of a police officer, a Marine and a hairdresser.",
+                "vi": "Tôi được nhận nuôi bởi một sĩ quan, một lính hải quân và một thợ cắt tóc."
+            }
+        }
+    ]
+}

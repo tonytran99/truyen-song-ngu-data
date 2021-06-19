@@ -1,0 +1,36 @@
+{
+    "word": "varicose",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈverəˌkōs/",
+            "/ˈvɛrəˌkoʊs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvarɪkəʊs/",
+            "/ˈvarɪkəs/",
+            "/ˈvarɪkəʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị giãn tĩnh mạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng giãn tĩnh mạch",
+            "type": "noun",
+            "example": {
+                "en": "Yet the soles of his feet and the nascent varicose veins in his legs show otherwise.",
+                "vi": "Nhưng lòng bàn chân và chứng giãn tĩnh mạch sớm ở chân cho thấy ngược lại."
+            }
+        }
+    ]
+}

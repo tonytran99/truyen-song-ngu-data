@@ -1,0 +1,44 @@
+{
+    "word": "fireman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rmən/",
+            "/ˈfaɪ(ə)rmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công nhân đốt lò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đội viên chữa cháy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lính cứu hỏa",
+            "type": "",
+            "example": {
+                "en": "At no point will the fireman look taller than the fiddler. No point.",
+                "vi": "Không đời nào người lính cứu hỏa cao hơn tay nhạc công. Không bao giờ."
+            }
+        },
+        {
+            "content": "thợ nồi hơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "garlic",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡärlik/",
+            "/ˈɡɑrlɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɑːlɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tỏi",
+            "type": "noun",
+            "example": {
+                "en": "This brain is completely intact, marinating in some sort of garlic sauce.",
+                "vi": "Bộ não này hoàn toàn còn nguyên vẹn, lại còn được ướp trong nước sốt tỏi."
+            }
+        },
+        {
+            "content": "củ tỏi",
+            "type": "",
+            "example": {
+                "en": "Meanwhile, workers separate whole garlic bulbs into individual cloves.",
+                "vi": "Trong thời gian đó, công nhân sẽ tách củ tỏi thành những tép lẻ."
+            }
+        },
+        {
+            "content": "cây tỏi",
+            "type": "noun",
+            "example": {
+                "en": "Workers uproot the mature garlic plants and let them lie in the fields for five or six days.",
+                "vi": "Công nhân nhổ những cây tỏi trưởng thành và bỏ chúng ngoài đồng năm hoặc sáu ngày."
+            }
+        },
+        {
+            "content": "Tỏi",
+            "type": "",
+            "example": {
+                "en": "This brain is completely intact, marinating in some sort of garlic sauce.",
+                "vi": "Bộ não này hoàn toàn còn nguyên vẹn, lại còn được ướp trong nước sốt tỏi."
+            }
+        },
+        {
+            "content": "tối",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

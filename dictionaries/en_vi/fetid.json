@@ -1,0 +1,54 @@
+{
+    "word": "fetid",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfedid/",
+            "/ˈfɛdɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɛtɪd/",
+            "/ˈfiːtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hôi hám",
+            "type": "adjective",
+            "example": {
+                "en": "You breathe this fetid air of Rome, but you are not Roman.",
+                "vi": "Chú thở thứ không khí hôi hám của La Mã, nhưng chú không phải dân La Mã."
+            }
+        },
+        {
+            "content": "hôi thối",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nặng mùi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "xú uế",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mùi khó chịu",
+            "type": "",
+            "example": {
+                "en": "The air was fetid, the room a shambles.",
+                "vi": "Không khí có mùi khó chịu, căn phòng như đang đảo lộn."
+            }
+        }
+    ]
+}

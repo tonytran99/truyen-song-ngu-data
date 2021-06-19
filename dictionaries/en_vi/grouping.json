@@ -1,0 +1,56 @@
+{
+    "word": "grouping",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡro͞opiNG/",
+            "/ˈɡrupɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡruːpɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhóm",
+            "type": "noun",
+            "example": {
+                "en": "The class was too big so we split up into two smaller groups.",
+                "vi": "Lớp học quá đông nên chúng tôi chia ra thành hai nhóm nhỏ hơn."
+            }
+        },
+        {
+            "content": "tổ",
+            "type": "noun",
+            "example": {
+                "en": "How many witch hunter discussion groups are you a part of?",
+                "vi": "Cô tham gia vào bao nhiêu tổ chức phù thủy vậy?"
+            }
+        },
+        {
+            "content": "đội",
+            "type": "verb noun",
+            "example": {
+                "en": "The group of three men has arrived to reinforce the scout platoon.",
+                "vi": "Ba người chúng tôi được cử đến để tăng viện cho đội trinh sát."
+            }
+        },
+        {
+            "content": "sự họp thành nhóm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhóm lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

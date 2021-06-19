@@ -1,0 +1,51 @@
+{
+    "word": "housewife",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhousˌwīf/",
+            "/ˈhaʊsˌwaɪf/",
+            "/ˈhəzif/",
+            "/ˈhəzɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊswʌɪf/",
+            "/ˈhʌzɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà nội trợ",
+            "type": "noun",
+            "example": {
+                "en": "Would a housewife, a young person, or perhaps a businessman appreciate it?",
+                "vi": "Một bà nội trợ, thanh thiếu niên, hoặc có lẽ một thương gia sẽ quí trọng nó không?"
+            }
+        },
+        {
+            "content": "bà chủ nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hộp đồ khâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bà nội trợ",
+            "type": "",
+            "example": {
+                "en": "A dancer, a queen, a housewife, a churchgoer.",
+                "vi": "Một vũ công, một nữ hoàng, một bà nội trợ, một tín nữ."
+            }
+        }
+    ]
+}

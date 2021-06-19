@@ -1,0 +1,38 @@
+{
+    "word": "cooked",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ko͝okt/",
+            "/kʊkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʊkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chín",
+            "type": "numeral adjective",
+            "example": {
+                "en": "If you ask me, it's not food until you cook it.",
+                "vi": "Theo ý tớ thì chưa nấu chín thì chưa phải đồ ăn."
+            }
+        },
+        {
+            "content": "nấu chín",
+            "type": "",
+            "example": {
+                "en": "If you ask me, it's not food until you cook it.",
+                "vi": "Theo ý tớ thì chưa nấu chín thì chưa phải đồ ăn."
+            }
+        }
+    ]
+}

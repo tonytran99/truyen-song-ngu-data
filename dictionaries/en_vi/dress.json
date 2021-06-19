@@ -1,0 +1,348 @@
+{
+    "word": "dress",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dres/",
+            "/drɛs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/drɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặc",
+            "type": "verb",
+            "example": {
+                "en": "Tom said something crude about the way Mary was dressed.",
+                "vi": "Tom nói điều gì đó thô thiển về cách ăn mặc của Mary."
+            }
+        },
+        {
+            "content": "sửa soạn",
+            "type": "verb",
+            "example": {
+                "en": "People here always dress the deceased women that way.",
+                "vi": "Người dân ở đây vẫn luôn sửa soạn cho phụ nữ quá cố theo cách đó."
+            }
+        },
+        {
+            "content": "mặc quần áo",
+            "type": "",
+            "example": {
+                "en": "I am no longer dressing myself simply to not be naked.",
+                "vi": "Tôi không còn mặc quần áo chỉ để không ở trần nữa."
+            }
+        },
+        {
+            "content": "ăn mặc",
+            "type": "verb",
+            "example": {
+                "en": "Tom said something crude about the way Mary was dressed.",
+                "vi": "Tom nói điều gì đó thô thiển về cách ăn mặc của Mary."
+            }
+        },
+        {
+            "content": "quần áo",
+            "type": "noun, verb",
+            "example": {
+                "en": "I am no longer dressing myself simply to not be naked.",
+                "vi": "Tôi không còn mặc quần áo chỉ để không ở trần nữa."
+            }
+        },
+        {
+            "content": "băng bó",
+            "type": "verb",
+            "example": {
+                "en": "It'll need to be disinfected before I can dress it properly.",
+                "vi": "Cần phải khử trùng trước khi tôi băng bó vết thương."
+            }
+        },
+        {
+            "content": "áo dài",
+            "type": "noun",
+            "example": {
+                "en": "You'd wear that long dress and put your hair up.",
+                "vi": "Mẹ mặc một cái áo dài và bới tóc lên."
+            }
+        },
+        {
+            "content": "nêm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "áo đầm",
+            "type": "noun",
+            "example": {
+                "en": "Did you buy a new dress for our date tonight?",
+                "vi": "Cô mua áo đầm mới cho buổi hẹn tối nay của chúng ta à?"
+            }
+        },
+        {
+            "content": "đắp thuốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo",
+            "type": "noun",
+            "example": {
+                "en": "How did you stain your dress?",
+                "vi": "Thế nào mà mày đã làm ố cái áo?"
+            }
+        },
+        {
+            "content": "áo dài (phụ nữ)",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sửa",
+            "type": "verb",
+            "example": {
+                "en": "People here always dress the deceased women that way.",
+                "vi": "Người dân ở đây vẫn luôn sửa soạn cho phụ nữ quá cố theo cách đó."
+            }
+        },
+        {
+            "content": "chải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ cánh",
+            "type": "noun",
+            "example": {
+                "en": "With perfectly trimmed cuticles, dressed in something suitable.",
+                "vi": "Với đường nét tròn trịa, khoác lên mình bộ cánh trang nhã."
+            }
+        },
+        {
+            "content": "bộ váy",
+            "type": "noun",
+            "example": {
+                "en": "She was this pale old woman in a long black dress.",
+                "vi": "Bà ta là một bà già xanh xao trong bộ váy đen dài."
+            }
+        },
+        {
+            "content": "bộ đầm",
+            "type": "noun",
+            "example": {
+                "en": "Someone give that girl a new flower dress.",
+                "vi": "Ai đó thưởng cho cô ta bộ đầm mới đi."
+            }
+        },
+        {
+            "content": "nấu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "váy đầm",
+            "type": "noun",
+            "example": {
+                "en": "You stole some poor woman's dress?",
+                "vi": "Cô đã lấy chiếc váy đầm của người khác?"
+            }
+        },
+        {
+            "content": "đầm",
+            "type": "noun",
+            "example": {
+                "en": "Her dress looked cheap.",
+                "vi": "Chiếc đầm của nó trông có vẻ rẻ tiền."
+            }
+        },
+        {
+            "content": "rịt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hồ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vấn",
+            "type": "verb",
+            "example": {
+                "en": "Opinions about dress and grooming, health and nutrition, and other personal matters may also trigger controversy.",
+                "vi": "Các ý kiến về ngoại diện, sức khỏe, dinh dưỡng và những vấn đề cá nhân có lẽ cũng gây tranh cãi."
+            }
+        },
+        {
+            "content": "thuộc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {
+                "en": "Look, she's just window dressing.",
+                "vi": "Nghe này, cô ấy chỉ làm bình phong thôi."
+            }
+        },
+        {
+            "content": "aó dài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bày biện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bón phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấn chỉnh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chỉnh đốn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cái bọc ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mài giũa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mài nhẵn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặc lễ phục",
+            "type": "",
+            "example": {
+                "en": "I think I'll feel better when I'm dressed.",
+                "vi": "Có lẽ con sẽ thấy khá hơn khi mặc lễ phục vào."
+            }
+        },
+        {
+            "content": "nêm đồ gia vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắm quần áo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "treo cờ xí",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẻ ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vỏ ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xiêm y",
+            "type": "noun",
+            "example": {
+                "en": "Take them to be dressed.",
+                "vi": "Hãy mặc xiêm y cho chúng."
+            }
+        },
+        {
+            "content": "xếp thẳng hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn bận",
+            "type": "verb",
+            "example": {
+                "en": "Why are you dressed like that?",
+                "vi": "Sao cô lại ăn bận như thế?"
+            }
+        },
+        {
+            "content": "đẽo gọt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "váy",
+            "type": "noun",
+            "example": {
+                "en": "He sent his daughter a dress.",
+                "vi": "Anh ta gửi một chiếc váy cho con gái anh ta."
+            }
+        },
+        {
+            "content": "trang",
+            "type": "noun",
+            "example": {
+                "en": "I dressed her up, and sent her away.",
+                "vi": "Tôi đã trang điểm và tiễn đưa bà ấy."
+            }
+        },
+        {
+            "content": "may",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "trang phục",
+            "type": "noun",
+            "example": {
+                "en": "In the movie, this is when Andie assembled her own dress.",
+                "vi": "Trong phim đây là lúc Andie chọn trang phục cho mình."
+            }
+        },
+        {
+            "content": "y phục",
+            "type": "",
+            "example": {
+                "en": "Will you have my son dressed and in the car in five minutes?",
+                "vi": "Bà mặc y phục cho con tôi và vào xe trong vòng năm phút được không?"
+            }
+        },
+        {
+            "content": "áo váy",
+            "type": "",
+            "example": {
+                "en": "I'm done dressing up and pretending to be someone I'm not.",
+                "vi": "Con xong với việc áo váy. và giả vờ làm con gười khác rồi."
+            }
+        }
+    ]
+}

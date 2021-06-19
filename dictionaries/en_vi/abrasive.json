@@ -1,0 +1,57 @@
+{
+    "word": "abrasive",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbrāsiv/",
+            "/əˈbreɪsɪv/",
+            "/əˈbrāziv/",
+            "/əˈbreɪzɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbreɪsɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "để mài mòn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bột mài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chất mài mòn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm trầy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để cọ xơ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thô lỗ",
+            "type": "",
+            "example": {
+                "en": "Maud’s husband was an abrasive man with a rough exterior.",
+                "vi": "Chồng của chị Maud là một người khắc nghiệt khó chịu, có dáng điệu thô lỗ."
+            }
+        }
+    ]
+}

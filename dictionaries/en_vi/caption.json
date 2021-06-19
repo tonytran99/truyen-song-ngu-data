@@ -1,0 +1,69 @@
+{
+    "word": "caption",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapSH(ə)n/",
+            "/ˈkæpʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời chú thích",
+            "type": "",
+            "example": {
+                "en": "Under it was a caption, ‘Governmental consultant at the National Center.’",
+                "vi": "Dưới bức ảnh là lời chú thích: ‘Nhà cố vấn của chính phủ tại Trung Tâm Quốc Gia.’"
+            }
+        },
+        {
+            "content": "phụ đề",
+            "type": "noun",
+            "example": {
+                "en": "I think, after 30 years, the opportunity exists to create an enhanced version of closed captioning.",
+                "vi": "Tôi cho rằng 30 năm nữa, công nghệ sẽ cho phép ta làm ra loại phụ đề mới."
+            }
+        },
+        {
+            "content": "sự bắt bớ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giam giữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đoạn thuyết minh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu đề",
+            "type": "",
+            "example": {
+                "en": "Show the complete document path in the window caption",
+                "vi": "Hiển thị đường dẫn đầy đủ đến tài liệu trong đầu đề cửa sổ"
+            }
+        },
+        {
+            "content": "chú thích",
+            "type": "",
+            "example": {
+                "en": "First, what does it say in the caption under the picture on each website?",
+                "vi": "Thứ nhất, nội dung của dòng chú thích bên dưới bức ảnh trên mỗi trang web là gì"
+            }
+        }
+    ]
+}

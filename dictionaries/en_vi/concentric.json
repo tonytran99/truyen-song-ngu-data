@@ -1,0 +1,39 @@
+{
+    "word": "concentric",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsentrik/",
+            "/kənˈsɛntrɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsɛntrɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồng tâm",
+            "type": "",
+            "example": {
+                "en": "It's a set of concentric geodesic structures with linkages between each one.",
+                "vi": "Nó là một khối các cấu trúc trắc địa đồng tâm với các liên kết giữa chính chúng."
+            }
+        },
+        {
+            "content": "thuộc đồng trục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc đồng tâm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

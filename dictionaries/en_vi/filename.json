@@ -1,0 +1,29 @@
+{
+    "word": "filename",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīlnām/",
+            "/ˈfaɪlneɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪlneɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tên tập tin",
+            "type": "",
+            "example": {
+                "en": "The chosen filenames do not appear to be valid",
+                "vi": "Những tên tập tin đã chọn có vẻ không phải là hợp lệ"
+            }
+        }
+    ]
+}

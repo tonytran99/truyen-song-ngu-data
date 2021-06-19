@@ -1,0 +1,58 @@
+{
+    "word": "caller",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôlər/",
+            "/ˈkɔlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khách",
+            "type": "noun",
+            "example": {
+                "en": "Is she receiving callers?",
+                "vi": "Bả có tiếp khách không?"
+            }
+        },
+        {
+            "content": "người gọi",
+            "type": "",
+            "example": {
+                "en": "What else can you tell us about the caller?",
+                "vi": "Bà có thể cho biết thêm gì về người gọi không?"
+            }
+        },
+        {
+            "content": "người đến thăm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mát",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tươi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "mát mẻ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "word": "fun",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đùa",
+            "type": "verb",
+            "example": {
+                "en": "People get confused between construction work and having fun.",
+                "vi": "Người ta không biết là mình đang xây dựng hay chơi đùa."
+            }
+        },
+        {
+            "content": "sự vui đùa",
+            "type": "",
+            "example": {
+                "en": "But I think I'm past the point where I can just have fun.",
+                "vi": "Nhưng em nghĩ là đã đến lúc em cần nhiều hơn là sự vui đùa."
+            }
+        },
+        {
+            "content": "trò vui",
+            "type": "",
+            "example": {
+                "en": "Maybe you look like someone who has a lot of fun.",
+                "vi": "Có lẽ cô giống người có nhiều trò vui."
+            }
+        },
+        {
+            "content": "vui vẻ",
+            "type": "noun",
+            "example": {
+                "en": "Tom doesn't know how to have fun.",
+                "vi": "Tom không biết làm sao để vui vẻ."
+            }
+        },
+        {
+            "content": "nói đùa đùa cợt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vui thích",
+            "type": "",
+            "example": {
+                "en": "we don't have too much to worry about, it's going to be a lot of fun,",
+                "vi": "chúng ta không phải lo quá nhiều về nó, nó sẽ mang lại nhiều sự vui thích,"
+            }
+        },
+        {
+            "content": "trò vui đùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vui",
+            "type": "noun",
+            "example": {
+                "en": "We had a fun day at the beach.",
+                "vi": "Chúng tôi đã có một ngày thật vui ở bãi biển."
+            }
+        },
+        {
+            "content": "vui nhộn",
+            "type": "",
+            "example": {
+                "en": "And from then on, it really was just fun.",
+                "vi": "Và kể từ đó, khá là vui nhộn."
+            }
+        },
+        {
+            "content": "vui thú",
+            "type": "",
+            "example": {
+                "en": "Many people in this world do not understand the difference between fun and happiness.",
+                "vi": "Nhiều người trong thế gian này không hiểu sự khác biệt giữa vui thú và hạnh phúc."
+            }
+        },
+        {
+            "content": "vui đùa",
+            "type": "",
+            "example": {
+                "en": "It's important they see their President has some fun, doesn't take himself too seriously.",
+                "vi": "Việc họ thấy Tổng thống vui đùa và không tự đề cao mình là rất quan trọng."
+            }
+        },
+        {
+            "content": "Vui vẻ",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know how to have fun.",
+                "vi": "Tom không biết làm sao để vui vẻ."
+            }
+        },
+        {
+            "content": "sự vui vẻ",
+            "type": "",
+            "example": {
+                "en": "She had a great sense of humor, and she would always find ways to have fun.",
+                "vi": "Bà có tính hay khôi hài và bà thường tìm ra cách để có được sự vui vẻ."
+            }
+        }
+    ]
+}

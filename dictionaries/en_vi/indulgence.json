@@ -1,0 +1,81 @@
+{
+    "word": "indulgence",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈdəljəns/",
+            "/ɪnˈdəldʒəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈdʌldʒ(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự nuông chiều",
+            "type": "",
+            "example": {
+                "en": "They sacrifice fun time. They sacrifice personal indulgence.",
+                "vi": "Họ hi sinh thời gian giải trí. Họ hi sinh sự nuông chiều bản thân."
+            }
+        },
+        {
+            "content": "cái thú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chiều theo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gia hạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ham mê",
+            "type": "",
+            "example": {
+                "en": "I suppose that many of us have similarly offended our spirits at times by physical indulgences.",
+                "vi": "Tôi thiết tưởng đôi khi nhiều người trong chúng ta cũng đã làm tổn thương tinh thần của mình bởi sự ham mê vật chất."
+            }
+        },
+        {
+            "content": "sự miệt mài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thích thú",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xá tội",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ân xá",
+            "type": "noun",
+            "example": {
+                "en": "And there were no indulgences around that I could buy.",
+                "vi": "Và không một ân xá nào mà tôi có thể mua được."
+            }
+        },
+        {
+            "content": "đặc ân",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

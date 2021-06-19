@@ -1,0 +1,74 @@
+{
+    "word": "election",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlekSH(ə)n/",
+            "/əˈlɛkʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛkʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bầu cử",
+            "type": "",
+            "example": {
+                "en": "Come election day, sure enough, it was a landslide.",
+                "vi": "Ngày bầu cử tới, và đó là chiến thắng áp đảo."
+            }
+        },
+        {
+            "content": "cuộc tuyển cử",
+            "type": "",
+            "example": {
+                "en": "I've got a election to and a family to feed, okay?",
+                "vi": "Anh có một cuộc tuyển cử cần thắng và một gia đình cần nuôi, được chưa?"
+            }
+        },
+        {
+            "content": "sự bầu cử",
+            "type": "noun",
+            "example": {
+                "en": "But the election magic doesn't stop there.",
+                "vi": "Nhưng sự bầu cử kỳ diệu không dừng lại ở đó."
+            }
+        },
+        {
+            "content": "sự chọn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc bầu cử",
+            "type": "noun",
+            "example": {
+                "en": "The movement had a big influence on the Congressional elections .",
+                "vi": "Phong trào đã gây ảnh hưởng lớn đến các cuộc bầu cử Quốc hội ."
+            }
+        },
+        {
+            "content": "tuyển",
+            "type": "verb",
+            "example": {
+                "en": "We have to finish before the elections next month.",
+                "vi": "Ta phải hoàn thành trước cuôc tuyển cử tháng tới."
+            }
+        },
+        {
+            "content": "Bầu cử",
+            "type": "",
+            "example": {
+                "en": "Come election day, sure enough, it was a landslide.",
+                "vi": "Ngày bầu cử tới, và đó là chiến thắng áp đảo."
+            }
+        }
+    ]
+}

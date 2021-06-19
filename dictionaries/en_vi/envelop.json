@@ -1,0 +1,67 @@
+{
+    "word": "envelop",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ənˈveləp/",
+            "/ənˈvɛləp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛləp/",
+            "/ɛnˈvɛləp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao",
+            "type": "noun",
+            "example": {
+                "en": "Please give this envelope to the bishop for us.",
+                "vi": "Con làm ơn đưa bao thư này cho vị giám trợ của chúng ta."
+            }
+        },
+        {
+            "content": "phủ",
+            "type": "noun",
+            "example": {
+                "en": "The most wonderfully warm feeling began to envelop me and surge through me.",
+                "vi": "Cảm giác ấm áp kỳ diệu nhất bắt đầu bao phủ lấy tôi và dâng lên trong lòng tôi."
+            }
+        },
+        {
+            "content": "bọc",
+            "type": "verb noun",
+            "example": {
+                "en": "I read an oxygen-gravity envelope forming outside the Enterprise.",
+                "vi": "Tôi ghi nhận có một trường trọng lực oxygen hình thành và bao bọc bên ngoài tầu Enterprise."
+            }
+        },
+        {
+            "content": "bao phủ",
+            "type": "verb",
+            "example": {
+                "en": "The most wonderfully warm feeling began to envelop me and surge through me.",
+                "vi": "Cảm giác ấm áp kỳ diệu nhất bắt đầu bao phủ lấy tôi và dâng lên trong lòng tôi."
+            }
+        },
+        {
+            "content": "tiến hành bao vây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bao bọc",
+            "type": "",
+            "example": {
+                "en": "This is from the coast of Brittany, which is being enveloped in this green, algal slime.",
+                "vi": "Từ bờ biển của Brittany, cái mà được bao bọc bởi màu xanh lá, chất nhớt của tảo."
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "uninformed",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənənˈfôrmd/",
+            "/ˌənənˈfɔrmd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪnˈfɔːmd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không am hiểu",
+            "type": "",
+            "example": {
+                "en": "Forgive my ignorance, señorita, but I'm a little uninformed on the European perspective.",
+                "vi": "Thứ lỗi cho sự ngu dốt của tôi, thưa tiểu thơ, nhưng tôi không am hiểu nhiều về quan điểm của Châu Âu."
+            }
+        },
+        {
+            "content": "không biết trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không hay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không được báo tin",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

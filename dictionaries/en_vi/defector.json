@@ -1,0 +1,44 @@
+{
+    "word": "defector",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfektər/",
+            "/dəˈfɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ bỏ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ bỏ đảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ bội giáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ đào ngũ",
+            "type": "",
+            "example": {
+                "en": "Kohl's job was killing defectors.",
+                "vi": "Công việc của Kohl là thủ tiêu những kẻ đào ngũ."
+            }
+        }
+    ]
+}

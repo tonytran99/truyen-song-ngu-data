@@ -1,0 +1,50 @@
+{
+    "word": "bund",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bo͝ond/",
+            "/bʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bʌnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Anh",
+            "type": "adjective proper",
+            "example": {
+                "en": "He belongs to Shanghai Bund.",
+                "vi": "Anh ta thuộc về bến Thượng Hải."
+            }
+        },
+        {
+            "content": "đập",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "con chạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ân đê",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

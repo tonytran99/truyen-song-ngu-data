@@ -1,0 +1,39 @@
+{
+    "word": "elector",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektər/",
+            "/əˈlɛktər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cử tri",
+            "type": "noun",
+            "example": {
+                "en": "So how do states even get electoral votes?",
+                "vi": "Vậy làm thể nào để các bang nhận được phiếu bầu cử tri?"
+            }
+        },
+        {
+            "content": "người bỏ phiếu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Đức tuyển hầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

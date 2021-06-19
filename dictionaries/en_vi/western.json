@@ -1,0 +1,67 @@
+{
+    "word": "western",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwestərn/",
+            "/ˈwɛstərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɛst(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phương tây",
+            "type": "adjective",
+            "example": {
+                "en": "Pray you were of a western tribe.",
+                "vi": "Nếu con ở một bộ lạc phương tây."
+            }
+        },
+        {
+            "content": "tây",
+            "type": "adjective noun",
+            "example": {
+                "en": "France is in Western Europe.",
+                "vi": "Pháp là ở Tây Âu."
+            }
+        },
+        {
+            "content": "của phưng tây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người miền tây",
+            "type": "",
+            "example": {
+                "en": "Never been one to resist a little Western hospitality.",
+                "vi": "Tôi không thể nào kìm nổi tấm lòng hiếu khách của người miền Tây."
+            }
+        },
+        {
+            "content": "phía tây",
+            "type": "",
+            "example": {
+                "en": "Close to the western summit, there is the dried and frozen carcass of a leopard.",
+                "vi": "Gần đỉnh núi phía tây, có một cái xác khô và đông lạnh của một con báo."
+            }
+        },
+        {
+            "content": "tây phương",
+            "type": "adjective",
+            "example": {
+                "en": "She took me to a western-style house and rang the doorbell.",
+                "vi": "Cô giáo dẫn tôi đến một ngôi nhà kiểu Tây Phương và bấm chuông."
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "billboard",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbilbôrd/",
+            "/ˈbɪlbɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɪlbɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảng dán yết thị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng dán thông cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bảng quảng cáo",
+            "type": "",
+            "example": {
+                "en": "And the very last one is a billboard.",
+                "vi": "Và cuối cùng là một bảng quảng cáo."
+            }
+        }
+    ]
+}

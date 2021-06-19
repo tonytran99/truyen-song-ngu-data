@@ -1,0 +1,46 @@
+{
+    "word": "camping",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkampiNG/",
+            "/ˈkæmpɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkampɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự cắm trại",
+            "type": "",
+            "example": {
+                "en": "The people camp here and stay for a while.",
+                "vi": "Dân sự cắm trại tại đây và ở đó một thời gian."
+            }
+        },
+        {
+            "content": "Cắm trại",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know if Mary will go camping with us or not.",
+                "vi": "Tom không biết liệu Mary có đi cắm trại với bọn tôi hay không."
+            }
+        },
+        {
+            "content": "cắm trại",
+            "type": "",
+            "example": {
+                "en": "Tom doesn't know if Mary will go camping with us or not.",
+                "vi": "Tom không biết liệu Mary có đi cắm trại với bọn tôi hay không."
+            }
+        }
+    ]
+}

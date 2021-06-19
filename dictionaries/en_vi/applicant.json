@@ -1,0 +1,49 @@
+{
+    "word": "applicant",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈapləkənt/",
+            "/ˈæpləkənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaplɪk(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người xin việc",
+            "type": "",
+            "example": {
+                "en": "We even used to ask job applicants, \"Do you have access to a telephone?\"",
+                "vi": "Thậm chí chúng tôi thường hỏi người xin việc : \"Bạn có dùng điện thoại không?\""
+            }
+        },
+        {
+            "content": "nguyên cáo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nguyên đơn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thưa kiện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thỉnh cầu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

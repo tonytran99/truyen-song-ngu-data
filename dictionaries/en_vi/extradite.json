@@ -1,0 +1,42 @@
+{
+    "word": "extradite",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekstrəˌdīt/",
+            "/ˈɛkstrəˌdaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛkstrədʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dẫn đô",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "trao trả",
+            "type": "",
+            "example": {
+                "en": "By the time we get an extradition order, they'll be long gone.",
+                "vi": "Khi ta lấy được lệnh trao trả tội phạm, chúng đã cao bay xa chạy."
+            }
+        },
+        {
+            "content": "dẫn độ",
+            "type": "noun",
+            "example": {
+                "en": "Orders to extradite him back to Germany immediately.",
+                "vi": "Có lệnh là dẫn độ anh ta trở lại Đức ngay lập tức."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "badminton",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadmin(t)n/",
+            "/ˈbædmɪn(t)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadmɪnt(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cầu lông",
+            "type": "noun",
+            "example": {
+                "en": "The place is fully equipped with a rumpus room, badminton court.",
+                "vi": "Có phòng chơi chung, sân cầu lông."
+            }
+        },
+        {
+            "content": "Cầu lông",
+            "type": "",
+            "example": {
+                "en": "The place is fully equipped with a rumpus room, badminton court.",
+                "vi": "Có phòng chơi chung, sân cầu lông."
+            }
+        }
+    ]
+}

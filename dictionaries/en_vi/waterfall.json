@@ -1,0 +1,53 @@
+{
+    "word": "waterfall",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərˌfôl/",
+            "/ˈwɔdərˌfɔl/",
+            "/ˈwädərˌfôl/",
+            "/ˈwɑdərˌfɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːtəfɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thác",
+            "type": "noun",
+            "example": {
+                "en": "Hope is the rainbow over the waterfall of our life.",
+                "vi": "Hy vọng là cây cầu vồng băng qua thác nước của cuộc đời chúng ta."
+            }
+        },
+        {
+            "content": "thác nước",
+            "type": "noun",
+            "example": {
+                "en": "Hope is the rainbow over the waterfall of our life.",
+                "vi": "Hy vọng là cây cầu vồng băng qua thác nước của cuộc đời chúng ta."
+            }
+        },
+        {
+            "content": "ghềnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Thác",
+            "type": "",
+            "example": {
+                "en": "The waterfalls are straining to hold back the force that is building up above them.",
+                "vi": "Thác nước như đang căng mình để giữ lực đang lớn dần lên phía trên nó."
+            }
+        }
+    ]
+}

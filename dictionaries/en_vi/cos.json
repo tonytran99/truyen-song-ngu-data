@@ -1,0 +1,45 @@
+{
+    "word": "cos",
+    "type": [
+        "conjunction",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käs/",
+            "/kɑs/",
+            "/käz/",
+            "/kɑz/",
+            "/kəz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒs/",
+            "/kɒz/",
+            "/kəz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của cosine",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do",
+            "type": "",
+            "example": {
+                "en": "And the reason we haven't got stages is cos people are not going to the theater!",
+                "vi": "Và lý do chúng tôi không có sân khấu vì người ta không đi xem trong rạp!"
+            }
+        },
+        {
+            "content": "rau diếp cốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

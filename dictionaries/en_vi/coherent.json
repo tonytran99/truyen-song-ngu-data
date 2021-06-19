@@ -1,0 +1,60 @@
+{
+    "word": "coherent",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkōˈhirənt/",
+            "/ˌkoʊˈhɪrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kə(ʊ)ˈhɪər(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mạch lạc",
+            "type": "",
+            "example": {
+                "en": "How you turned his ramblings into something vaguely coherent.",
+                "vi": "Làm thế nào cậu sắp xếp các thứ hỗn độn một cách mạch lạc?"
+            }
+        },
+        {
+            "content": "chặt chẽ",
+            "type": "",
+            "example": {
+                "en": "I really need a more coherent response, especially",
+                "vi": "Tôi thực sự cần một phản ứng chặt chẽ hơn, đặc biệt là trên truyền hình quốc gia"
+            }
+        },
+        {
+            "content": "cố kết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dính liền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kết hợp",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nhất quán",
+            "type": "",
+            "example": {
+                "en": "His brain is struggling to rebuild a coherent self, but he's using the wrong parts.",
+                "vi": "Não của hắn đang vật lộn tạo dựng lại một con người nhất quán, nhưng hắn sử dụng nhầm đoạn rồi."
+            }
+        }
+    ]
+}

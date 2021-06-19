@@ -1,0 +1,55 @@
+{
+    "word": "waterway",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwôdərˌwā/",
+            "/ˈwɔdərˌweɪ/",
+            "/ˈwädərˌwā/",
+            "/ˈwɑdərˌweɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɔːtəweɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "các tuyến đường thủy",
+            "type": "noun",
+            "example": {
+                "en": "So we plant it later, along the waterways",
+                "vi": "Vì vậy chúng tôi trồng nó sau, dọc theo các tuyến đường thủy"
+            }
+        },
+        {
+            "content": "Đường thủy",
+            "type": "",
+            "example": {
+                "en": "It's an inland waterway that connects two seas.",
+                "vi": "Nó là đường thủy nội địa nối liền hai biển."
+            }
+        },
+        {
+            "content": "đường thuỷ",
+            "type": "",
+            "example": {
+                "en": "And inland waterways are, in general, dirtier.",
+                "vi": "Và thường thì các đường thuỷ nội địa sẽ bẩn hơn."
+            }
+        },
+        {
+            "content": "đường thủy",
+            "type": "noun",
+            "example": {
+                "en": "It's an inland waterway that connects two seas.",
+                "vi": "Nó là đường thủy nội địa nối liền hai biển."
+            }
+        }
+    ]
+}

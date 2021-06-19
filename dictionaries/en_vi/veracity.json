@@ -1,0 +1,37 @@
+{
+    "word": "veracity",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈrasədē/",
+            "/vəˈræsədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəˈrasɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính chân thực",
+            "type": "",
+            "example": {
+                "en": "The veracity of the responses does not seem to be in doubt .",
+                "vi": "Tính chân thực của hồi đáp không có vẻ gì là đáng ngờ ."
+            }
+        },
+        {
+            "content": "tính xác thực",
+            "type": "",
+            "example": {
+                "en": "We attack the veracity of their confidential informant's claim.",
+                "vi": "Chúng ta nhắm tới tính xác thực của việc cung cấp tin mật."
+            }
+        }
+    ]
+}

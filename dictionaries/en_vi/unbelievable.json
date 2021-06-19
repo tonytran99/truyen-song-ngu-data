@@ -1,0 +1,37 @@
+{
+    "word": "unbelievable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənbəˈlēvəb(ə)l/",
+            "/ˌənbəˈlivəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnbɪˈliːvəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thể tin được",
+            "type": "",
+            "example": {
+                "en": "Director Mace, that confession of yours was unbelievable!",
+                "vi": "Giám đốc Mace, lời thú nhận của ngài thật không thể tin được!"
+            }
+        },
+        {
+            "content": "khó tin",
+            "type": "",
+            "example": {
+                "en": "I cannot see the planes, but what I can see is an unbelievable sight.",
+                "vi": "Tôi không thể thấy máy bay, nhưng tôi có thể thấy một cảnh tượng khó tin."
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "uninfected",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəninˈfektəd/",
+            "/ˌənɪnˈfɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪnˈfɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không bị lây nhiễm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không bị nhiễm",
+            "type": "",
+            "example": {
+                "en": "smell different compared to people that are uninfected,",
+                "vi": "có mùi khác so với những người không bị nhiễm bệnh"
+            }
+        },
+        {
+            "content": "không suy đồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đồi bại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

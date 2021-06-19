@@ -1,0 +1,53 @@
+{
+    "word": "genome",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjēˌnōm/",
+            "/ˈdʒiˌnoʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒiːnəʊm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ gen",
+            "type": "noun",
+            "example": {
+                "en": "So, we are now able to read genomes.",
+                "vi": "Hiện nay chúng ta đã có thể đọc được bộ gen."
+            }
+        },
+        {
+            "content": "Bộ gen",
+            "type": "",
+            "example": {
+                "en": "Your genome is the entire sequence of your DNA.",
+                "vi": "Bộ gen của bạn là một chuỗi ADN hoàn thiện"
+            }
+        },
+        {
+            "content": "bộ gene",
+            "type": "",
+            "example": {
+                "en": "which people didn't like much. And then the human genome said,",
+                "vi": "Nhiều người không hề thích thế. và sau đó thì bộ gene của người nói,"
+            }
+        },
+        {
+            "content": "hệ gen",
+            "type": "",
+            "example": {
+                "en": "How's your genome today? Have you thought about it lately?",
+                "vi": "Ngày nay hệ gen của bạn như thế nào? Gần đây bạn đã từng nghĩ về nó chưa?"
+            }
+        }
+    ]
+}

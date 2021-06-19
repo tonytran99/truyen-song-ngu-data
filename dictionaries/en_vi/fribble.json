@@ -1,0 +1,38 @@
+{
+    "word": "fribble",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfribəl/",
+            "/ˈfrɪbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô ích",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "việc làm vớ vẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ý nghĩ vớ vẩn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "vegetate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvejəˌtāt/",
+            "/ˈvɛdʒəˌteɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛdʒɪteɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mọc",
+            "type": "verb",
+            "example": {
+                "en": "Diversity within the various kinds of vegetables grown in the United States has been slashed by 97 percent in less than 80 years!",
+                "vi": "Tính đa dạng của các loại rau cải mọc ở Hoa Kỳ đã giảm hẳn 97 phần trăm trong không đầy 80 năm!"
+            }
+        },
+        {
+            "content": "sinh trưởng",
+            "type": "",
+            "example": {
+                "en": "Trees and other vegetation within the floodplain adopt a different growth cycle from plants in nonflooded areas.",
+                "vi": "Thực vật trong vùng lũ sinh trưởng khác với thực vật trong vùng không bị lụt."
+            }
+        },
+        {
+            "content": "sống vô vị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

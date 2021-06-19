@@ -1,0 +1,37 @@
+{
+    "word": "heifer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhefər/",
+            "/ˈhɛfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bò cái tơ",
+            "type": "",
+            "example": {
+                "en": "11 Eʹphra·im was a trained heifer that loved to thresh,",
+                "vi": "11 Ép-ra-im là con bò cái tơ được huấn luyện, nó yêu thích đạp lúa,"
+            }
+        },
+        {
+            "content": "bê cái",
+            "type": "",
+            "example": {
+                "en": "When my bulls have finished their work here, I let him turn them out on his heifers.",
+                "vi": "Khi bò của tôi xong việc, tôi để anh ta dẫn chúng sang chổ bê cái."
+            }
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "word": "he",
+    "type": [
+        "pronoun",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hē/",
+            "/hi/",
+            "/ˈˌāCH ˈē/",
+            "/ˈˌeɪtʃ ˈi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nó",
+            "type": "pronoun",
+            "example": {
+                "en": "As he often tells lies, nobody believes him.",
+                "vi": "Khi nó thường xuyên nói dối, không ai sẽ tin nó."
+            }
+        },
+        {
+            "content": "anh ấy",
+            "type": "pronoun, noun",
+            "example": {
+                "en": "He's very shy. He says he wants to see you.",
+                "vi": "Anh ấy rất ngượng. Anh ấy nói anh ấy muốn gặp bạn."
+            }
+        },
+        {
+            "content": "hắn",
+            "type": "pronoun",
+            "example": {
+                "en": "Do you know what he did?",
+                "vi": "Anh có biết hắn đã làm gì không?"
+            }
+        },
+        {
+            "content": "ông ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "His anxiety was such that he could hardly sleep.",
+                "vi": "Nỗi lo lắng của ông ấy như thế nên ông ấy hầu như không thể nào ngủ được."
+            }
+        },
+        {
+            "content": "anh",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Tom tried to stand up, but he couldn't.",
+                "vi": "Tom đã cố gắng đứng lên, nhưng anh ấy không làm được."
+            }
+        },
+        {
+            "content": "ổng",
+            "type": "pronoun",
+            "example": {
+                "en": "Her father won't come, he is very busy.",
+                "vi": "Ba của nó sẽ không đến, ổng bận lắm."
+            }
+        },
+        {
+            "content": "ảnh",
+            "type": "pronoun, noun",
+            "example": {
+                "en": "He has a camera.",
+                "vi": "Nó có một máy ảnh."
+            }
+        },
+        {
+            "content": "con",
+            "type": "pronoun noun",
+            "example": {
+                "en": "He tried to behave as bravely as possible while he was being held hostage.",
+                "vi": "Anh ta cố gắng hành động dũng cảm nhất có thể trong khi bị giữ làm con tin."
+            }
+        },
+        {
+            "content": "anh chàng",
+            "type": "noun",
+            "example": {
+                "en": "He lives three doors from the post office.",
+                "vi": "Anh chàng đó sống ở cách bưu điện ba căn nhà."
+            }
+        },
+        {
+            "content": "anh ta",
+            "type": "pronoun",
+            "example": {
+                "en": "Though he is young, he is equal to the task.",
+                "vi": "Mặc dù anh ta còn trẻ, anh ta vẫn có đủ khà năng để làm nhiệm vụ."
+            }
+        },
+        {
+            "content": "anh ý",
+            "type": "pronoun",
+            "example": {
+                "en": "But he's about to fall in love with me!",
+                "vi": "Nhưng anh ý sắp sửa rơi vào lưới tình của em!"
+            }
+        },
+        {
+            "content": "bác",
+            "type": "pronoun",
+            "example": {
+                "en": "He told me his father was a doctor.",
+                "vi": "Anh ấy bảo tôi rằng cha của anh ấy là một bác sĩ."
+            }
+        },
+        {
+            "content": "bác ý",
+            "type": "pronoun",
+            "example": {
+                "en": "He was just collateral damage in Zoom's war.",
+                "vi": "Bác ý chỉ là tổn thất phụ trong cuộc chiến của Zoom."
+            }
+        },
+        {
+            "content": "bác ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "But he's nearly done with his citizenship program.",
+                "vi": "Nhưng gần đây bác ấy đã làm gì thế?"
+            }
+        },
+        {
+            "content": "chàng",
+            "type": "pronoun",
+            "example": {
+                "en": "He lives three doors from the post office.",
+                "vi": "Anh chàng đó sống ở cách bưu điện ba căn nhà."
+            }
+        },
+        {
+            "content": "chú",
+            "type": "pronoun",
+            "example": {
+                "en": "He is not my father, he is my uncle.",
+                "vi": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+            }
+        },
+        {
+            "content": "chú bé",
+            "type": "pronoun",
+            "example": {
+                "en": "But he was setting fiscal policy in that game for high school players who were playing with him.",
+                "vi": "Nhưng chú bé đã thiết lập một chính sách tài chính trong trò chơi đối với những người chơi đang tham gia cùng chú bé"
+            }
+        },
+        {
+            "content": "chú ý",
+            "type": "pronoun",
+            "example": {
+                "en": "He wanted to get short stack pancakes, I told him he was gaining a little weight.",
+                "vi": "Chú ý muốn ăn pancake trong khi mẹ bảo chú ý đang tăng cân."
+            }
+        },
+        {
+            "content": "chú ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "He said he was a friend of Daddy's.",
+                "vi": "Chú ấy nói rằng chú ấy là bạn của bố."
+            }
+        },
+        {
+            "content": "cậu bé",
+            "type": "pronoun",
+            "example": {
+                "en": "His parents are out of town, or he calls, Says he's ok.",
+                "vi": "Gia đình cậu bé rời khỏi thị trấn, hoặc cậu bé gọi nói ổn cả."
+            }
+        },
+        {
+            "content": "cậu ta",
+            "type": "pronoun",
+            "example": {
+                "en": "I don't like that he comes to my house so often.",
+                "vi": "Tôi không thích việc cậu ta đến nhà tôi quá thường xuyên."
+            }
+        },
+        {
+            "content": "cậu ý",
+            "type": "pronoun",
+            "example": {
+                "en": "The woman he was meant to be with.",
+                "vi": "Một người phụ nữ có ý nghĩa lớn lao với cậu ý."
+            }
+        },
+        {
+            "content": "cậu ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "Could Tom really be as busy as he says he is?",
+                "vi": "Liệu Tom có thật sự bận rộn như cậu ấy nói?"
+            }
+        },
+        {
+            "content": "em",
+            "type": "pronoun",
+            "example": {
+                "en": "He is very bright, and his brother is as bright.",
+                "vi": "Cậu ấy rất thông minh, cả em cậu ấy cũng vậy."
+            }
+        },
+        {
+            "content": "em ý",
+            "type": "pronoun",
+            "example": {
+                "en": "It's like he's been paying more attention to the dogs than me.",
+                "vi": "Cứ như là anh ta quan tâm tới lũ chó hơn em ý."
+            }
+        },
+        {
+            "content": "em ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "I know that if he’s watching, he has learned something.",
+                "vi": "Tôi biết rằng nếu em ấy đang xem, thì em ấy đã học được một điều gì đó."
+            }
+        },
+        {
+            "content": "hắn ta",
+            "type": "pronoun",
+            "example": {
+                "en": "He is a viler human being (if you can even call him that) than I could've ever known.",
+                "vi": "Hắn ta là người ghê tởm nhất mà tôi từng biết (nếu có thể gọi hắn là người)."
+            }
+        },
+        {
+            "content": "lão",
+            "type": "pronoun",
+            "example": {
+                "en": "We could watch him, hope he leads us to it.",
+                "vi": "Chúng ta có thể theo dõi lão, hy vọng lão dẫn ta tới đó."
+            }
+        },
+        {
+            "content": "lão ta",
+            "type": "pronoun",
+            "example": {
+                "en": "He's gonna get us all killed just because he can't face the truth.",
+                "vi": "Lão ta sẽ giết hết chúng ta chỉ vì lão không dám đối mặt với sự thật mất."
+            }
+        },
+        {
+            "content": "lão ấy",
+            "type": "pronoun",
+            "example": {
+                "en": "If he's not, i don't care what he thinks.",
+                "vi": "Nếu không, tôi chẳng quan tâm lão ấy nghĩ gì."
+            }
+        },
+        {
+            "content": "ngài",
+            "type": "pronoun",
+            "example": {
+                "en": "His followers must have wondered what he was going to do.",
+                "vi": "Các môn đồ chắc hẳn tự hỏi ngài sắp làm gì đây."
+            }
+        },
+        {
+            "content": "thằng cha đó",
+            "type": "pronoun",
+            "example": {
+                "en": "Well, he's their longest-standing employe no one's safe.",
+                "vi": "Thằng cha đó lúc nào cũng gồng người lên. chẳng ai an toàn hết."
+            }
+        },
+        {
+            "content": "thằng đó",
+            "type": "pronoun",
+            "example": {
+                "en": "I'll have to beat up her boyfriend when he knocks her up.",
+                "vi": "Rồi lỡ mang bầu, con lại phải đánh thằng đó."
+            }
+        },
+        {
+            "content": "ông ta",
+            "type": "pronoun",
+            "example": {
+                "en": "He is said to have been very poor when he was young.",
+                "vi": "Người ta bảo khi còn trẻ ông ta rất nghèo."
+            }
+        },
+        {
+            "content": "ông ý",
+            "type": "pronoun",
+            "example": {
+                "en": "If he is giving us food for the third time, then he really must be a saint.",
+                "vi": "Nếu chúng ta được nói chuyên với người ngoài thì ông ý mới là thánh."
+            }
+        },
+        {
+            "content": "ông",
+            "type": "pronoun",
+            "example": {
+                "en": "Do you believe that he is telling the truth?",
+                "vi": "Bạn có tin ông ta đang nói sự thật không?"
+            }
+        },
+        {
+            "content": "cậu",
+            "type": "noun",
+            "example": {
+                "en": "We are not the only ones to believe that he is not guilty.",
+                "vi": "Chúng tôi không phải là những người duy nhất tin rằng cậu ta không có tội."
+            }
+        },
+        {
+            "content": "y",
+            "type": "pronoun",
+            "example": {
+                "en": "I'm telling you, if he were my guy, I'd keep him off the frontlines.",
+                "vi": "Nói chứ, nếu y là người của tôi, tôi sẽ ngăn y khỏi tuyến đầu."
+            }
+        },
+        {
+            "content": "va",
+            "type": "noun",
+            "example": {
+                "en": "Jehovah’s angel repeated the instructions he had given to Manoah’s wife.",
+                "vi": "Thiên sứ của Đức Giê-hô-va lặp lại lời chỉ dẫn trước đây cho vợ Ma-nô-a."
+            }
+        },
+        {
+            "content": "đực",
+            "type": "adjective",
+            "example": {
+                "en": "Only I think that he's rather loving it here, right?",
+                "vi": "Tôi chỉ nghĩ rằng con đực thích được yêu ở đây hơn, đúng vậy."
+            }
+        },
+        {
+            "content": "con đực",
+            "type": "",
+            "example": {
+                "en": "When he finds one, he alights and mates.",
+                "vi": "Khi tìm được bạn tình, con đực đậu xuống và giao phối."
+            }
+        },
+        {
+            "content": "ông ấy *",
+            "type": "",
+            "example": {
+                "en": "His anxiety was such that he could hardly sleep.",
+                "vi": "Nỗi lo lắng của ông ấy như thế nên ông ấy hầu như không thể nào ngủ được."
+            }
+        },
+        {
+            "content": "đàn ông",
+            "type": "noun",
+            "example": {
+                "en": "That man was standing a little ways away, but he turned when he heard Tom shout.",
+                "vi": "Người đàn ông đó đứng cách xa một chút nhưng ông ta quay lại khi nghe thấy Tôm hét to."
+            }
+        },
+        {
+            "content": "ong",
+            "type": "noun",
+            "example": {
+                "en": "The GPS signal was active but he's not answering.",
+                "vi": "Các tín hiệu GPS được kích hoạt, nhưng ong ta khong trả lời máy."
+            }
+        }
+    ]
+}

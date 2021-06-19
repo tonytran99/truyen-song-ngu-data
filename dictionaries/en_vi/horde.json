@@ -1,0 +1,64 @@
+{
+    "word": "horde",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hôrd/",
+            "/hɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đám",
+            "type": "",
+            "example": {
+                "en": "Coming up “like clouds to cover the land,” Gog’s hordes will expect an easy victory.",
+                "vi": "Tiến lên “như một đám mây che-phủ đất”, đạo binh của Gót tưởng sẽ dễ dàng chiến thắng."
+            }
+        },
+        {
+            "content": "bầy người",
+            "type": "",
+            "example": {
+                "en": "The Horde keeps obsessing about the ones who haven't suffered.",
+                "vi": "Bầy Người cứ ám ảnh về những kẻ chưa chịu đau khổ."
+            }
+        },
+        {
+            "content": "bộ lạc du cư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "muồm lũ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lũ",
+            "type": "",
+            "example": {
+                "en": "Touch it and I'll set loose the marauding hordes of Photius.",
+                "vi": "Chạm nó là ta sẽ thả lũ cướp bóc của Photius."
+            }
+        },
+        {
+            "content": "bầy",
+            "type": "",
+            "example": {
+                "en": "You should've seen it before your horde of camel-ridding illiterates descended upon it.",
+                "vi": "Ông nên thấy nó trước khi bầy lạc đà ngu dốt của ông bất ngờ tràn đến."
+            }
+        }
+    ]
+}

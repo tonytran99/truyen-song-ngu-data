@@ -1,0 +1,42 @@
+{
+    "word": "helical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhēlik(ə)l/",
+            "/ˈhilɪk(ə)l/",
+            "/ˈhelik(ə)l/",
+            "/ˈhɛlɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛlɪk(ə)l/",
+            "/ˈhiːlɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xoắn ốc",
+            "type": "noun",
+            "example": {
+                "en": "A pair of helices and 40 wooden slats.",
+                "vi": "Hai đường xoắn ốc và 40 thanh gỗ."
+            }
+        },
+        {
+            "content": "mặt đinh ốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường đinh ốc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

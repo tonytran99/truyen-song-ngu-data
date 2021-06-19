@@ -1,0 +1,47 @@
+{
+    "word": "cylindrical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/səˈlindrik(ə)l/",
+            "/səˈlɪndrɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/sɪˈlɪndrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trụ",
+            "type": "",
+            "example": {
+                "en": "The core comes up as these cylindrical tubes of limestone.",
+                "vi": "Cái lõi rốt cuộc có dạng như những hình trụ ống bằng đá vôi như thế này"
+            }
+        },
+        {
+            "content": "hình trụ",
+            "type": "noun",
+            "example": {
+                "en": "A pillar is cylindrical in shape, and perhaps quite hard or solid.",
+                "vi": "Một cây cột luôn hình trụ, và có lẽ khá rắn chắc."
+            }
+        },
+        {
+            "content": "mặt trụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc hình trụ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

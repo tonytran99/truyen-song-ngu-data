@@ -1,0 +1,54 @@
+{
+    "word": "decibel",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdesəˌbel/",
+            "/ˈdɛsəˌbɛl/",
+            "/ˈdesəˌbəl/",
+            "/ˈdɛsəˌbəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛsɪbɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đêxiben",
+            "type": "",
+            "example": {
+                "en": "Normal conversation has a sound level of approximately 60 decibels.",
+                "vi": "Cuộc nói chuyện bình thường có mức độ âm lượng khoảng 60 đêxiben."
+            }
+        },
+        {
+            "content": "decibel",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đề-xi-ben",
+            "type": "noun",
+            "example": {
+                "en": "We make a version with this which puts out 155 decibels.",
+                "vi": "Chúng tôi làm một phiên bản phát ra 155 đề-xi-ben của cái máy này."
+            }
+        },
+        {
+            "content": "Decibel",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

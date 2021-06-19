@@ -1,0 +1,35 @@
+{
+    "word": "hydroplane",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhīdrəˌplān/",
+            "/ˈhaɪdrəˌpleɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌɪdrəpleɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuỷ phi cơ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thủy phi cơ",
+            "type": "noun",
+            "example": {
+                "en": "I'm taking my new hydroplane out in the morning.",
+                "vi": "Sáng nay tôi sẽ lấy ra chiếc thủy phi cơ mới."
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "yonder",
+    "type": [
+        "noun",
+        "adverb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈyändər/",
+            "/ˈjɑndər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjɒndə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xa",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "kia",
+            "type": "determiner",
+            "example": {
+                "en": "Go and fetch Agnes yonder, will you, baby?",
+                "vi": "Chạy đằng kia kêu Agnes được không, bé cưng?"
+            }
+        },
+        {
+            "content": "kìa",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "đằng kia",
+            "type": "adverb",
+            "example": {
+                "en": "Go and fetch Agnes yonder, will you, baby?",
+                "vi": "Chạy đằng kia kêu Agnes được không, bé cưng?"
+            }
+        },
+        {
+            "content": "đằng xa kia",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

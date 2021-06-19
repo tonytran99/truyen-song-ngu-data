@@ -1,0 +1,49 @@
+{
+    "word": "innumerable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈn(y)o͞om(ə)rəb(ə)l/",
+            "/ɪˈn(j)um(ə)rəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnjuːm(ə)rəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô số",
+            "type": "adjective",
+            "example": {
+                "en": "The blessings I have received from this decision have been innumerable.",
+                "vi": "Tôi đã nhận được vô số phước lành từ quyết định này."
+            }
+        },
+        {
+            "content": "hàng hà sa số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không đếm được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không kể xiết",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "vạn",
+            "type": "numeral",
+            "example": {}
+        }
+    ]
+}

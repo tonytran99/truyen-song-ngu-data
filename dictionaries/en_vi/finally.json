@@ -1,0 +1,63 @@
+{
+    "word": "finally",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīn(ə)lē/",
+            "/ˈfaɪn(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪnəli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuối cùng",
+            "type": "adverb",
+            "example": {
+                "en": "He finally said what day he would come.",
+                "vi": "Anh ta cuối cùng đã nói ra ngày sẽ đến."
+            }
+        },
+        {
+            "content": "rốt cuộc",
+            "type": "adverb",
+            "example": {
+                "en": "Who finally decided to show up for work.",
+                "vi": "Người rốt cuộc đã quyết định xuất hiện để nhận nhiệm vụ."
+            }
+        },
+        {
+            "content": "dứt khoát",
+            "type": "",
+            "example": {
+                "en": "Passing on the opportunity to finally cut ties with your father.",
+                "vi": "Bỏ qua một cơ hội cắt đứt dứt khoát với bố em."
+            }
+        },
+        {
+            "content": "nữa khi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sau cùng",
+            "type": "",
+            "example": {
+                "en": "Then you're finally convinced I'm not a vampire either?",
+                "vi": "Và cậu sau cùng cũng được thuyết phục rằng tôi không phải là một con quỷ hút máu."
+            }
+        },
+        {
+            "content": "sau hết",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

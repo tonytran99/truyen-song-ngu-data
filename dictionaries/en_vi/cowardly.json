@@ -1,0 +1,61 @@
+{
+    "word": "cowardly",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkouərdlē/",
+            "/ˈkaʊərdli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊədli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hèn nhát",
+            "type": "adjective",
+            "example": {
+                "en": "The only true heir was the one you have killed cowardly.",
+                "vi": "Chỉ một người duy nhất, người mày đã giết một cách hèn nhát."
+            }
+        },
+        {
+            "content": "nhát gan",
+            "type": "noun",
+            "example": {
+                "en": "Crowds would shout: “Why does he meet the sword in so cowardly a way?",
+                "vi": "Đám đông la hét: “Sao đấu mà nhát gan đến thế?"
+            }
+        },
+        {
+            "content": "nhút nhát",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "một cách hèn nhát",
+            "type": "adverb",
+            "example": {
+                "en": "The only true heir was the one you have killed cowardly.",
+                "vi": "Chỉ một người duy nhất, người mày đã giết một cách hèn nhát."
+            }
+        },
+        {
+            "content": "khiếp nhược",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ươn hèn",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

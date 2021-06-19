@@ -1,0 +1,66 @@
+{
+    "word": "accurate",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakyərət/",
+            "/ˈækjərət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈakjʊrət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chính xác",
+            "type": "adjective",
+            "example": {
+                "en": "Everything I've told you may not be accurate.",
+                "vi": "Mọi thứ tôi kể với bạn có thể không chính xác."
+            }
+        },
+        {
+            "content": "đúng đắn",
+            "type": "",
+            "example": {
+                "en": "There was a second, more accurate story of autism",
+                "vi": "Có một câu chuyện thứ hai đúng đắn hơn về tự kỷ"
+            }
+        },
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {
+                "en": "An opportunity to get killed would be more accurate.",
+                "vi": "Một cơ hội để bị giết thì đúng hơn."
+            }
+        },
+        {
+            "content": "chuẩn xác",
+            "type": "adjective",
+            "example": {
+                "en": "We'd still want to reconstruct an accurate picture of what was going on.",
+                "vi": "Chúng tôi vẫn muốn tái lập một hình ảnh chuẩn xác về điều sẽ xảy ra."
+            }
+        },
+        {
+            "content": "xác đáng",
+            "type": "adjective",
+            "example": {
+                "en": "I consider that an accurate depiction of events.",
+                "vi": "Tôi cho đó là một sự miêu tả sự kiện rất xác đáng."
+            }
+        },
+        {
+            "content": "chính xaùc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

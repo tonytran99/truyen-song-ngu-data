@@ -1,0 +1,45 @@
+{
+    "word": "invariant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinˈverēənt/",
+            "/ˌɪnˈvɛriənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛːrɪənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lượng bất biến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất biến",
+            "type": "",
+            "example": {
+                "en": "There were a bunch of these types of invariants.",
+                "vi": "Có một loạt các loại vật thể bất biến."
+            }
+        },
+        {
+            "content": "không thay đổi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lượng không đổi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

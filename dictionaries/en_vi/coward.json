@@ -1,0 +1,85 @@
+{
+    "word": "coward",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkou(ə)rd/",
+            "/ˈkaʊ(ə)rd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkaʊəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhát gan",
+            "type": "noun",
+            "example": {
+                "en": "If I weren't such a coward, where would you be?",
+                "vi": "Nếu mình không phải là một đứa nhát gan thì cậu đang ở đâu chứ?"
+            }
+        },
+        {
+            "content": "nhút nhát",
+            "type": "noun",
+            "example": {
+                "en": "I always stopped at the last moment because I'm a coward.",
+                "vi": "Tới phút cuối em luôn dừng lại bởi vì em nhút nhát."
+            }
+        },
+        {
+            "content": "con vật nhát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nhát gan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người nhút nhát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hèn",
+            "type": "",
+            "example": {
+                "en": "He is too much of a coward to attempt it.",
+                "vi": "Nó quá yếu hèn để cố gắn việc đó."
+            }
+        },
+        {
+            "content": "hèn nhát",
+            "type": "",
+            "example": {
+                "en": "I thought more of Spartacus, than a coward of secrets and schemes.",
+                "vi": "Tôi nghĩ Spartacus không hơn gì, một thằng hèn nhát với những bí mật và âm mưu."
+            }
+        },
+        {
+            "content": "kẻ hèn nhát",
+            "type": "",
+            "example": {
+                "en": "But he was a coward and was considered a joke.",
+                "vi": "Nhưng hắn là một kẻ hèn nhát và ai cũng chê cười hắn."
+            }
+        },
+        {
+            "content": "người hèn nhát",
+            "type": "",
+            "example": {
+                "en": "Pallas knows that you're a coward at heart, General.",
+                "vi": "Pallas biết ngươi là một người hèn nhát, Đại tướng."
+            }
+        }
+    ]
+}

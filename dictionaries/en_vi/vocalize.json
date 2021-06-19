@@ -1,0 +1,49 @@
+{
+    "word": "vocalize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvōkəˌlīz/",
+            "/ˈvoʊkəˌlaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvəʊk(ə)lʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đọc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nguyên âm hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phát âm",
+            "type": "noun",
+            "example": {
+                "en": "I used my ability to vocalize sound to be coupled to your brains.",
+                "vi": "tôi đã dùng khả năng phát âm để đưa âm thanh vào não bạn."
+            }
+        },
+        {
+            "content": "xướng nguyên âm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bày tỏ bằng lời",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

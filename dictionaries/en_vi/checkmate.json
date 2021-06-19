@@ -1,0 +1,82 @@
+{
+    "word": "checkmate",
+    "type": [
+        "verb",
+        "interjection",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHekˌmāt/",
+            "/ˈtʃɛkˌmeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛkmeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiếu bí",
+            "type": "",
+            "example": {
+                "en": "Checkmate, by the way.",
+                "vi": "Nhân tiện chiếu bí luôn."
+            }
+        },
+        {
+            "content": "chiếu hết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nước cờ chiếu hết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự chiếu tướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thất bại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bại",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "Chiếu",
+            "type": "",
+            "example": {
+                "en": "And checkmate, my little pawn.",
+                "vi": "Chiếu tướng, con tốt nhỏ của ta!"
+            }
+        },
+        {
+            "content": "chiếu tướng",
+            "type": "",
+            "example": {
+                "en": "We're two moves from being checkmated.",
+                "vi": "Chúng ta chỉ còn hai nước nữa là bị chiếu tướng."
+            }
+        }
+    ]
+}

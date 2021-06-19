@@ -1,0 +1,45 @@
+{
+    "word": "dorsal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdôrsəl/",
+            "/ˈdɔrsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɔːs(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ở lưng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lưng",
+            "type": "noun",
+            "example": {
+                "en": "And a male with a huge dorsal fin almost two metres high.",
+                "vi": "Và một con đực với cái vây lưng khổng lồ cao gần hai mét."
+            }
+        },
+        {
+            "content": "hình sống lưng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ở mặt lưng",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

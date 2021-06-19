@@ -1,0 +1,79 @@
+{
+    "word": "household",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhousˌ(h)ōld/",
+            "/ˈhaʊsˌ(h)oʊld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊshəʊld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hộ",
+            "type": "noun",
+            "example": {
+                "en": "So imagine that you're a retired household in Belgium and someone comes to your front door.",
+                "vi": "Tưởng tượng bạn là một hộ về hưu ở Bỉ, và ai đó đến trước cửa nhà bạn."
+            }
+        },
+        {
+            "content": "gia đình",
+            "type": "noun",
+            "example": {
+                "en": "How can family heads build up their households?",
+                "vi": "Làm thế nào người chủ gia đình có thể xây dựng gia đình mình về mặt thiêng liêng?"
+            }
+        },
+        {
+            "content": "bếp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hộ gia đình",
+            "type": "",
+            "example": {
+                "en": "The average American household spends 1,000 dollars a year on lotteries.",
+                "vi": "Trung bình mỗi hộ gia đình Mĩ tiêu 1000 đô la mỗi năm vào vé số."
+            }
+        },
+        {
+            "content": "bột loại hai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nội trợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn bộ người nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hộ gia đình",
+            "type": "",
+            "example": {
+                "en": "I've assumed that she lives in an average household",
+                "vi": "Tôi đã giả thiết rằng cô ấy sống trong một hộ gia đình tầm trung"
+            }
+        },
+        {
+            "content": "hoä, gia ñình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

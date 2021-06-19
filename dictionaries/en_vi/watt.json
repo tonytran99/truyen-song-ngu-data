@@ -1,0 +1,37 @@
+{
+    "word": "watt",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wät/",
+            "/wɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "watt",
+            "type": "noun",
+            "example": {
+                "en": "And these robots consume about 100 watts per pound.",
+                "vi": "Và những robot thế này tiêu thụ khoảng 100 watt mỗi pound."
+            }
+        },
+        {
+            "content": "oát",
+            "type": "noun",
+            "example": {
+                "en": "And it's actually as much as your laptop computer: it's just 10 watts.",
+                "vi": "Và thực tế là nó giống như chiếc laptop của bạn chỉ khoảng 10 oát"
+            }
+        }
+    ]
+}

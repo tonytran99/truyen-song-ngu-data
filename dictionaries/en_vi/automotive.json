@@ -1,0 +1,42 @@
+{
+    "word": "automotive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌôdəˈmōdiv/",
+            "/ˌɔdəˈmoʊdɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɔːtəˈməʊtɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ô tô",
+            "type": "noun",
+            "example": {
+                "en": "And I was actually collecting it from all the automotive shops in the area on my bicycle.",
+                "vi": "Và tôi thu lượm chúng từ tất cả các cửa hàng ô tô trong vùng bằng xe đạp."
+            }
+        },
+        {
+            "content": "máy móc tự động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự động",
+            "type": "",
+            "example": {
+                "en": "This bit, the big secret of automotive design —",
+                "vi": "Cái bí mật lớn nhất của thiết kế máy móc tự động —"
+            }
+        }
+    ]
+}

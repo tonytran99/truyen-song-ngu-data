@@ -1,0 +1,47 @@
+{
+    "word": "entrepreneur",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌäntrəprəˈnər/",
+            "/ˌɑntrəprəˈnər/",
+            "/ˌäntrəprəˈno͝o(ə)r/",
+            "/ˌɑntrəprəˈnʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɒntrəprəˈnəː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "doanh nhân",
+            "type": "",
+            "example": {
+                "en": "However, there is a secret to work with entrepreneurs.",
+                "vi": "Tuy nhiên, có một bí mật để làm việc với các doanh nhân."
+            }
+        },
+        {
+            "content": "người thầu khoán",
+            "type": "noun",
+            "example": {
+                "en": "The worst entrepreneur is the one who brings his company into bankruptcy.",
+                "vi": "Người thầu khoán tệ nhất là người đưa công ty của mình tới chỗ phá sản."
+            }
+        },
+        {
+            "content": "nhà doanh nghiệp",
+            "type": "",
+            "example": {
+                "en": "I left, and I became a social entrepreneur,",
+                "vi": "Tôi ra đi, và trở thành một nhà doanh nghiệp xã hội,"
+            }
+        }
+    ]
+}

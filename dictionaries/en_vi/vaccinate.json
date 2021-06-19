@@ -1,0 +1,50 @@
+{
+    "word": "vaccinate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaksəˌnāt/",
+            "/ˈvæksəˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaksɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủng",
+            "type": "verb",
+            "example": {
+                "en": "I went to get vaccinated.",
+                "vi": "Tôi đã đi để được tiêm chủng."
+            }
+        },
+        {
+            "content": "tiêm chủng",
+            "type": "",
+            "example": {
+                "en": "I went to get vaccinated.",
+                "vi": "Tôi đã đi để được tiêm chủng."
+            }
+        },
+        {
+            "content": "tiêm vắc xin",
+            "type": "",
+            "example": {
+                "en": "You vaccinate all the children in an area.",
+                "vi": "Bạn tiêm vắc xin cho tất cả trẻ em trong một vùng."
+            }
+        },
+        {
+            "content": "chủng đậu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

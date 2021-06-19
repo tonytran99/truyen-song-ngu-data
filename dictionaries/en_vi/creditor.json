@@ -1,0 +1,50 @@
+{
+    "word": "creditor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkredədər/",
+            "/ˈkrɛdədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkrɛdɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên có",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chủ nợ",
+            "type": "noun",
+            "example": {
+                "en": "Or to which of my creditors did I sell you?",
+                "vi": "Có chăng chủ nợ mà ta đã bán các ngươi?"
+            }
+        },
+        {
+            "content": "người cho vay",
+            "type": "noun",
+            "example": {
+                "en": "is to listen to international creditors rather than their own citizens.",
+                "vi": "là lắng nghe người cho vay trên quốc tế hơn là bản thân người dân của mình."
+            }
+        },
+        {
+            "content": "người chủ nợ",
+            "type": "",
+            "example": {
+                "en": "His creditor appeared and demanded payment in full.",
+                "vi": "Người chủ nợ của người ấy xuất hiện và đòi trả đủ món nợ."
+            }
+        }
+    ]
+}

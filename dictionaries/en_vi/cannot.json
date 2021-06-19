@@ -1,0 +1,46 @@
+{
+    "word": "cannot",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnät/",
+            "/kəˈnɑt/",
+            "/ˈkanˌät/",
+            "/ˈkænˌɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkanɒt/",
+            "/kaˈnɒt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có thể không",
+            "type": "",
+            "example": {
+                "en": "These invisible differences cannot be too complicated, however,",
+                "vi": "Những khác biệt vô hình này có thể không quá phức tạp, tuy nhiên,"
+            }
+        },
+        {
+            "content": "không thể",
+            "type": "adjective",
+            "example": {
+                "en": "I cannot accept the fact that he is dead.",
+                "vi": "Tớ không thể tin là anh ấy mất rồi."
+            }
+        },
+        {
+            "content": "mình tên tấn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

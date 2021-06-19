@@ -1,0 +1,91 @@
+{
+    "word": "wring",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/riNG/",
+            "/rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/rɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vắt",
+            "type": "verb",
+            "example": {
+                "en": "They've taken their T-shirts and they wring the sweat out.",
+                "vi": "Họ vắt áo thun cho mồ hôi chảy ra."
+            }
+        },
+        {
+            "content": "vặn",
+            "type": "verb",
+            "example": {
+                "en": "I will wring your neck, if you don't go with us.",
+                "vi": "Tôi sẽ vặn cổ của ông, nếu ông không đi với chúng tôi."
+            }
+        },
+        {
+            "content": "siết",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bóp",
+            "type": "verb",
+            "example": {
+                "en": "I should wring your neck!",
+                "vi": "Chắc tao phải bóp cổ mày quá."
+            }
+        },
+        {
+            "content": "làm cho quặn đau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đau khổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "siết chặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bóp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự siết chặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vắt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự vặn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vò xé",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "brigand",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbriɡənd/",
+            "/ˈbrɪɡənd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbrɪɡ(ə)nd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ cướp",
+            "type": "noun",
+            "example": {
+                "en": "And how would you deal with this brigand?",
+                "vi": "Anh giải quyết thế nào với tên kẻ cướp này?"
+            }
+        },
+        {
+            "content": "thổ phỉ",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

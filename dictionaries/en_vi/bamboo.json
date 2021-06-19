@@ -1,0 +1,60 @@
+{
+    "word": "bamboo",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bamˈbo͞o/",
+            "/bæmˈbu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bamˈbuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tre",
+            "type": "noun",
+            "example": {
+                "en": "This floor is made of glossy and durable bamboo skin.",
+                "vi": "Sàn này được làm từ mặt vỏ thân tre rất nhẵn và bền."
+            }
+        },
+        {
+            "content": "cây tre",
+            "type": "noun",
+            "example": {
+                "en": "We carried a machete to cut through bamboo that had fallen across the track.",
+                "vi": "Chúng tôi mang dao rựa để chặt cây tre đã ngã ngang đường."
+            }
+        },
+        {
+            "content": "trúc",
+            "type": "noun",
+            "example": {
+                "en": "And in this case, a man got hooked on a bamboo sleeping mat.",
+                "vi": "Và trong trường hợp này, người đàn ông chú ý vào chiếc chiếu trúc."
+            }
+        },
+        {
+            "content": "Tre",
+            "type": "",
+            "example": {
+                "en": "I'll send him some bamboo flowers symbolizing continued growth and prosperity.",
+                "vi": "Tôi sẽ gửi cho ông ấy hoa tre, tượng trưng cho sự tăng trưởng và thịnh vượng."
+            }
+        },
+        {
+            "content": "báng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

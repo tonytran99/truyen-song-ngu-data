@@ -1,0 +1,67 @@
+{
+    "word": "vow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vou/",
+            "/vaʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vaʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời nguyền",
+            "type": "",
+            "example": {
+                "en": "And now he's dead, so I'm stuck with my vow.",
+                "vi": "Và bây giờ ông ấy đã qua đời, nên tôi bị mắc kẹt với lời nguyền của mình."
+            }
+        },
+        {
+            "content": "lời thề",
+            "type": "noun",
+            "example": {
+                "en": "You took a vow, a very serious vow.",
+                "vi": "Con đã lập một lời thề, một lời thề vô cùng nghiêm trang."
+            }
+        },
+        {
+            "content": "nguyện",
+            "type": "",
+            "example": {
+                "en": "The priest will make the valuation according to what the one making the vow can afford.",
+                "vi": "Thầy tế lễ sẽ định giá theo những gì mà người hứa nguyện có thể dâng."
+            }
+        },
+        {
+            "content": "lời thề nguyện",
+            "type": "noun",
+            "example": {
+                "en": "Why was it acceptable for Paul to have his hair clipped short in connection with a vow?",
+                "vi": "Tại sao việc Phao-lô cạo đầu để giữ một lời thề nguyện là điều không phải là sai?"
+            }
+        },
+        {
+            "content": "thề",
+            "type": "",
+            "example": {
+                "en": "The vows you're about to take are not to be taken without careful thought and prayer.",
+                "vi": "Lời thề các con sắp nói phải được suy nghĩ cẩn thận và cầu nguyện."
+            }
+        },
+        {
+            "content": "thề bồi",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

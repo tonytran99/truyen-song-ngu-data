@@ -1,0 +1,61 @@
+{
+    "word": "grieve",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrēv/",
+            "/ɡriv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡriːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm đau lòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đau lòng",
+            "type": "",
+            "example": {
+                "en": "And I need time to grieve without being reminded why.",
+                "vi": "Con cần thời gian để đau lòng, mà không biết tại vì sao."
+            }
+        },
+        {
+            "content": "cảm khái",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "gây đau buồn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đau buồn",
+            "type": "",
+            "example": {
+                "en": "I went through a period of deep grieving for several years after Sarah was killed.",
+                "vi": "Tôi trải qua một thời gian đau buồn sâu sắc mấy năm sau khi Sarah bị giết."
+            }
+        },
+        {
+            "content": "đau khổ",
+            "type": "",
+            "example": {
+                "en": "All of us suffer and grieve in connection with the death of a loved one.",
+                "vi": "Tất cả chúng ta đều đau khổ và buồn bã vì cái chết của một người thân."
+            }
+        }
+    ]
+}

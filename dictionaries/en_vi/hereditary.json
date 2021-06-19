@@ -1,0 +1,38 @@
+{
+    "word": "hereditary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həˈredəˌterē/",
+            "/həˈrɛdəˌtɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪˈrɛdɪt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "di truyền",
+            "type": "noun, adjective",
+            "example": {
+                "en": "Synesthesia runs in families, so Galton said this is a hereditary basis, a genetic basis.",
+                "vi": "Giác quan trộn lẫn di truyền gia đình, nên Galton gọi đó là cơ sở di truyền."
+            }
+        },
+        {
+            "content": "cha truyền con nối",
+            "type": "adjective",
+            "example": {
+                "en": "They had just begun to come out of a hereditary kind of slavery.",
+                "vi": "Họ đã bắt đầu thoát khỏi chế độ nô lệ cha truyền con nối."
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "coronary",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəˌnerē/",
+            "/ˈkɔrəˌnɛri/",
+            "/ˈkärəˌnerē/",
+            "/ˈkɑrəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒr(ə)n(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hình vành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động mạch vành",
+            "type": "",
+            "example": {
+                "en": "It also dilates the coronary arteries, so it stops angina.",
+                "vi": "Nó cũng làm giãn các động mạch vành, do đó, nó ngăn cơn đau thắt ngực."
+            }
+        }
+    ]
+}

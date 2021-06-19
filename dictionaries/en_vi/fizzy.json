@@ -1,0 +1,40 @@
+{
+    "word": "fizzy",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfizē/",
+            "/ˈfɪzi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪzi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sủi bọt",
+            "type": "",
+            "example": {
+                "en": "The strong scent of sulfur and brine rises from the fizzy lake waters and hangs heavy in the hot air.",
+                "vi": "Mùi lưu huỳnh và nước mặn nồng nặc bốc lên từ mặt nước hồ sủi bọt và đọng lại trong làn không khí nóng."
+            }
+        },
+        {
+            "content": "xèo xèo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xì xì",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "fearsome",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfirsəm/",
+            "/ˈfɪrsəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪəs(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sợ",
+            "type": "verb",
+            "example": {
+                "en": "You just said the winners are the most fearsome monsters on campus.",
+                "vi": "Cô vừa nói người chiến thắng là những quái vật đáng sợ nhất trong trường."
+            }
+        },
+        {
+            "content": "sợ hãi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sợ sệt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

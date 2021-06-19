@@ -1,0 +1,53 @@
+{
+    "word": "incredible",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkredəb(ə)l/",
+            "/ɪnˈkrɛdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkrɛdɪb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khó tin",
+            "type": "adjective",
+            "example": {
+                "en": "It might seem incredible to many that mariners so long ago could have circumnavigated Africa.",
+                "vi": "Dường như nhiều người thấy khó tin thủy thủ thời xưa có thể đi vòng quanh châu Phi."
+            }
+        },
+        {
+            "content": "không thể tin được",
+            "type": "adjective",
+            "example": {
+                "en": "I have an incredible offer for you Gary.",
+                "vi": "Tôi có một đề nghị không thể tin được cho anh, Gary."
+            }
+        },
+        {
+            "content": "tuyệt diệu",
+            "type": "adjective",
+            "example": {
+                "en": "I had the most incredible sense of freedom.",
+                "vi": "Tôi có một cảm nhận về tự do rất tuyệt diệu"
+            }
+        },
+        {
+            "content": "lạ thường",
+            "type": "",
+            "example": {
+                "en": "You have the most incredible cellular structure I've ever seen.",
+                "vi": "Mình chưa từng gặp cấu trúc tế bào nào lạ thường thế này."
+            }
+        }
+    ]
+}

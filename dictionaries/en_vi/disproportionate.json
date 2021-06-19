@@ -1,0 +1,56 @@
+{
+    "word": "disproportionate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisprəˈpôrSH(ə)nət/",
+            "/ˌdɪsprəˈpɔrʃ(ə)nət/",
+            "/ˌdisprəˈpôrSHənāt/",
+            "/ˌdɪsprəˈpɔrʃəneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdɪsprəˈpɔːʃ(ə)nət/",
+            "/ˌdɪsprəˈpɔːʃ(ə)neɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiếu cân đối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không cân xứng",
+            "type": "",
+            "example": {
+                "en": "Africa has a disproportionate share of the infection.",
+                "vi": "Châu phi có một phần số người bị nhiễm không cân xứng."
+            }
+        },
+        {
+            "content": "không cân đối",
+            "type": "adjective",
+            "example": {
+                "en": "Africa has a disproportionate share of the numbers of doctors.",
+                "vi": "Châu Phi có một phần số lượng bác sĩ không cân đối."
+            }
+        },
+        {
+            "content": "không tỷ lệ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thiếu cân xứng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

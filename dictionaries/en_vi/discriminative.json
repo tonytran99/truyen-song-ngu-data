@@ -1,0 +1,61 @@
+{
+    "word": "discriminative",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈskriməˌnādiv/",
+            "/dəˈskrɪməˌneɪdɪv/",
+            "/dəˈskrimənədiv/",
+            "/dəˈskrɪmənədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrɪmɪnətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biết phân biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biết suy xét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có óc phán đoán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "sáng suốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách bạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "So they have to also discriminate between these products.",
+                "vi": "Họ phải có sự khác biệt giữa các sản phẩm của họ."
+            }
+        }
+    ]
+}

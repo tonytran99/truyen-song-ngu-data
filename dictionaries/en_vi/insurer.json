@@ -1,0 +1,39 @@
+{
+    "word": "insurer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈSHo͝orər/",
+            "/ɪnˈʃʊrər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈʃʊərə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công ty bảo hiểm",
+            "type": "noun",
+            "example": {
+                "en": "Well, you'll have to talk to the insurance company.",
+                "vi": "Vậy thì cô phải gặp công ty bảo hiểm rồi."
+            }
+        },
+        {
+            "content": "người bảo hiểm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người nhận bảo hiểm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "isothermal",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌīsəˈTHərm(ə)l/",
+            "/ˌaɪsəˈθərm(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌɪsə(ʊ)ˈθəːm(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đẳng nhiệt",
+            "type": "adjective",
+            "example": {
+                "en": "Isotherms connect locations that have the same temperature.",
+                "vi": "Đường đẳng nhiệt nối các điểm có cùng một nhiệt độ."
+            }
+        },
+        {
+            "content": "isotherm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

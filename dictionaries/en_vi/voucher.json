@@ -1,0 +1,65 @@
+{
+    "word": "voucher",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvouCHər/",
+            "/ˈvaʊtʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvaʊtʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biên lai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng chỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng từ",
+            "type": "noun",
+            "example": {
+                "en": "but you mentioned the cutting of funding and the vouchers",
+                "vi": "nhưng ông đã nhắc đến sự cắt giảm kinh phí và các chứng từ"
+            }
+        },
+        {
+            "content": "giấy chứng thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bảo đảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vé tạm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vé",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

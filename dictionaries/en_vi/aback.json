@@ -1,0 +1,63 @@
+{
+    "word": "aback",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbak/",
+            "/əˈbæk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbak/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lùi lại",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "về",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "trở lại",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "đằng sau",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "sửng sốt",
+            "type": "",
+            "example": {
+                "en": "And I was rather taken aback.",
+                "vi": "Tôi đã thực sự sửng sốt."
+            }
+        },
+        {
+            "content": "ngạc nhiên",
+            "type": "adverb",
+            "example": {
+                "en": "To my surprise, he was distinctly taken aback.",
+                "vi": "Thật bất ngờ, anh ta ngạc nhiên vì câu hỏi đó."
+            }
+        },
+        {
+            "content": "trở lại phía sau",
+            "type": "adverb",
+            "example": {}
+        }
+    ]
+}

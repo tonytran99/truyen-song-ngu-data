@@ -1,0 +1,40 @@
+{
+    "word": "authenticate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ôˈTHen(t)əˌkāt/",
+            "/ɔˈθɛn(t)əˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɔːˈθɛntɪkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhận thức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác nhận là đúng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chứng thực",
+            "type": "",
+            "example": {
+                "en": "Most of these tips are so new they haven't even been authenticated yet.",
+                "vi": "Hầu hết thông tin quá mới mà họ chưa chứng thực."
+            }
+        }
+    ]
+}

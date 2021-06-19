@@ -1,0 +1,104 @@
+{
+    "word": "document",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdäkyəmənt/",
+            "/ˈdɑkjəmənt/",
+            "/ˈdäkyəˌment/",
+            "/ˈdɑkjəˌmɛnt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɒkjʊm(ə)nt/",
+            "/ˈdɒkjʊmɛnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài liệu",
+            "type": "noun",
+            "example": {
+                "en": "We have to get that document back before Tom shows it to anyone.",
+                "vi": "Chúng ta phải lấy lại tài liệu đó trước khi Tom đưa nó cho bất cứ ai."
+            }
+        },
+        {
+            "content": "văn kiện",
+            "type": "noun",
+            "example": {
+                "en": "These two were given another ten minutes to decide to sign the document.",
+                "vi": "Hai người này được cho mười phút để quyết định ký vào văn kiện."
+            }
+        },
+        {
+            "content": "chứng từ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cung cấp tư liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tư liệu",
+            "type": "",
+            "example": {
+                "en": "In fact, on all these discs there were documents.",
+                "vi": "Thực tế, trong tất cả những cái đĩa này đều có những tư liệu."
+            }
+        },
+        {
+            "content": "đưa ra tài liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản",
+            "type": "noun",
+            "example": {
+                "en": "To do these documents is gonna take me months.",
+                "vi": "Làm xong đống bản vẽ đó phải mất hàng tháng."
+            }
+        },
+        {
+            "content": "giấy tờ",
+            "type": "noun",
+            "example": {
+                "en": "It was my grandfather who decided they needed false documents.",
+                "vi": "Chính ông tôi là người quyết định cần giấy tờ giả mạo."
+            }
+        },
+        {
+            "content": "hồ sơ",
+            "type": "noun",
+            "example": {
+                "en": "Prepare the documents and request a warrant right away.",
+                "vi": "Hãy chuẩn bị hồ sơ và lệnh truy nã ngay bây giờ."
+            }
+        },
+        {
+            "content": "văn bản",
+            "type": "noun",
+            "example": {
+                "en": "We next invited reporters to have a look at the documents.",
+                "vi": "Tiếp theo chúng tôi mời các phóng viên cùng xem các văn bản."
+            }
+        },
+        {
+            "content": "thư",
+            "type": "noun",
+            "example": {
+                "en": "I have transferred the documents in the innards of roasted beasts and fowls.",
+                "vi": "Con đã giấu thư mật trong các con heo và gia cầm quay."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "unaware",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənəˈwer/",
+            "/ˌənəˈwɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnəˈwɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không biết",
+            "type": "",
+            "example": {
+                "en": "It's a pity I'm only a farmer, unaware of anything.",
+                "vi": "Khổ nỗi tôi chỉ là một nông dân, không biết gì hết."
+            }
+        },
+        {
+            "content": "không hay",
+            "type": "",
+            "example": {
+                "en": "I was unaware you'd strayed so far from the comforts of mother Rome.",
+                "vi": "Tôi đã không hay rằng anh đã lạc đường quá xa khỏi sự thoải mái từ đất mẹ Rome."
+            }
+        },
+        {
+            "content": "không nhận thức được",
+            "type": "",
+            "example": {
+                "en": "The brain is often unaware of stage one sleep.",
+                "vi": "Não bộ thường không nhận thức được giai đoạn một của giấc ngủ."
+            }
+        }
+    ]
+}

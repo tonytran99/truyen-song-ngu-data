@@ -1,0 +1,102 @@
+{
+    "word": "fox",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fäks/",
+            "/fɑks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɒks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cáo",
+            "type": "noun",
+            "example": {
+                "en": "I have the eyes of a hawk and the ears of a fox.",
+                "vi": "Ta có đôi mắt diều hâu và đôi tai của cáo."
+            }
+        },
+        {
+            "content": "con cáo",
+            "type": "noun",
+            "example": {
+                "en": "He's not the fastest fox in the forest.",
+                "vi": "Cậu ta chả phải con cáo nhanh nhất rừng."
+            }
+        },
+        {
+            "content": "hồ ly",
+            "type": "noun",
+            "example": {
+                "en": "You made the cure for the fox-demon's poison.",
+                "vi": "Ngươi đã dùng nguyên khí của mình để giải trừ chất độc của loài hồ ly."
+            }
+        },
+        {
+            "content": "làm",
+            "type": "verb",
+            "example": {
+                "en": "Bruce Wayne, meet one of our junior executives, Lucius Fox.",
+                "vi": "Bruce Wayne, làm quen một trong những quản lí cao cấp của chúng tôi, Lucius Fox."
+            }
+        },
+        {
+            "content": "bằng miếng da mới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ da lông cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có những vết ố nâu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dùng mưu mẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dở trò xảo quyệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người láu cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người ranh ma",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người xảo quyệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cáo",
+            "type": "",
+            "example": {
+                "en": "I have the eyes of a hawk and the ears of a fox.",
+                "vi": "Ta có đôi mắt diều hâu và đôi tai của cáo."
+            }
+        }
+    ]
+}

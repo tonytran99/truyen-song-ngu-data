@@ -1,0 +1,58 @@
+{
+    "word": "complicated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämpləˌkādəd/",
+            "/ˈkɑmpləˌkeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmplɪkeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phức tạp",
+            "type": "adjective",
+            "example": {
+                "en": "In reality, the explanation is a bit more complicated than this, but you get the gist.",
+                "vi": "Trong thực tế, giải thích là một chút phức tạp hơn điều này, nhưng bạn nắm được ý chính."
+            }
+        },
+        {
+            "content": "rắc rối",
+            "type": "adjective",
+            "example": {
+                "en": "Too expensive, too complicated, you can't do it.",
+                "vi": "Quá đắt đỏ, quá rắc rối, anh không thể làm được."
+            }
+        },
+        {
+            "content": "複雜",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "diệu vợi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nhiêu khê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiền phức",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

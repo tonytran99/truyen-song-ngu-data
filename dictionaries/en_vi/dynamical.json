@@ -1,0 +1,42 @@
+{
+    "word": "dynamical",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīˈnamək(ə)l/",
+            "/daɪˈnæmək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪˈnamɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dynamic",
+            "type": "",
+            "example": {
+                "en": "\" property of massive dynamic \"?",
+                "vi": "Tài sản của Massive Dynamic?"
+            }
+        },
+        {
+            "content": "thuyết động học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "động lực",
+            "type": "noun",
+            "example": {
+                "en": "Applied mathematics and particle dynamics for physics majors.",
+                "vi": "Dạy toán ứng dụng và động lực hạt cho chuyên ngành vật lý."
+            }
+        }
+    ]
+}

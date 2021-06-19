@@ -1,0 +1,39 @@
+{
+    "word": "varicella",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌverəˈselə/",
+            "/ˌvɛrəˈsɛlə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌvarɪˈsɛlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh thuỷ đậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh thủy đậu",
+            "type": "noun",
+            "example": {
+                "en": "Chickenpox is now preventable through the varicella vaccine .",
+                "vi": "Bệnh thủy đậu hiện đã có thể phòng tránh được nhờ vào vắc xin ngừa thủy đậu . ."
+            }
+        },
+        {
+            "content": "bỏng rạ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

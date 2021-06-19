@@ -1,0 +1,57 @@
+{
+    "word": "ideology",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌīdēˈäləjē/",
+            "/ˌaɪdiˈɑlədʒi/",
+            "/ˌidēˈäləjē/",
+            "/ˌɪdiˈɑlədʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌʌɪdɪˈɒlədʒi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tư tưởng",
+            "type": "noun",
+            "example": {
+                "en": "Is that ideology important enough to kill each other over?",
+                "vi": "Cái hệ tư tưởng đó đã quá đủ để chém giết lẫn nhau như thế này sao?"
+            }
+        },
+        {
+            "content": "hệ tư tưởng",
+            "type": "noun",
+            "example": {
+                "en": "That is, it is how societies are taught ideologies.",
+                "vi": "Nó nói tới việc các xã hội được dạy về các hệ tư tưởng như thế nào."
+            }
+        },
+        {
+            "content": "ý thức hệ",
+            "type": "noun",
+            "example": {
+                "en": "But not over governments or religion or ideology.",
+                "vi": "Mà không qua một chính phủ hay ý thức hệ nào."
+            }
+        },
+        {
+            "content": "sự mơ tưởng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự mộng tưởng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

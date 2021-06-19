@@ -1,0 +1,38 @@
+{
+    "word": "heartbreaking",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärtˌbrākiNG/",
+            "/ˈhɑrtˌbreɪkɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːtbreɪkɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đau lòng",
+            "type": "",
+            "example": {
+                "en": "Leaving that little island with its beautiful people was heartbreaking.",
+                "vi": "Thật đau lòng khi phải rời hòn đảo nhỏ với những người dân thân thiện như thế!"
+            }
+        },
+        {
+            "content": "đau đớn",
+            "type": "adjective",
+            "example": {
+                "en": "My biggest heartbreak at that point was that nobody said anything.",
+                "vi": "Điều tôi đau đớn nhất lúc đó, là không ai nói gì"
+            }
+        }
+    ]
+}

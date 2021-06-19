@@ -1,0 +1,102 @@
+{
+    "word": "daily",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdālē/",
+            "/ˈdeɪli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhật báo",
+            "type": "noun",
+            "example": {
+                "en": "The discussion was triggered by an article that appeared that day in the Polish daily Dziennik Zachodni.",
+                "vi": "Vụ tranh luận do một bài đăng trong nhật báo tiếng Ba Lan Dziennik Zachodni gây ra."
+            }
+        },
+        {
+            "content": "hàng ngày",
+            "type": "adverb",
+            "example": {
+                "en": "Most people write about their daily life.",
+                "vi": "Phần nhiều người ta viết về chuyện cuộc đời hàng ngày."
+            }
+        },
+        {
+            "content": "hằng ngày",
+            "type": "adverb",
+            "example": {
+                "en": "With mustaches he waxes daily and tiny feet for dancing.",
+                "vi": "Với bộ ria cắt tỉa hằng ngày và bàn chân nhỏ để khiêu vũ."
+            }
+        },
+        {
+            "content": "mổi ngày",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "thường nhật",
+            "type": "adjective, adverb",
+            "example": {
+                "en": "You also need to look at your daily habits .",
+                "vi": "Bạn cũng cần nên xem lại các thói quen thường nhật của mình ."
+            }
+        },
+        {
+            "content": "mỗi ngày",
+            "type": "",
+            "example": {
+                "en": "The exchange rates for foreign currency change daily.",
+                "vi": "Tỷ giá hối đoái của ngoại tệ thay đổi mỗi ngày."
+            }
+        },
+        {
+            "content": "thường ngày",
+            "type": "",
+            "example": {
+                "en": "Do you consider the background and the daily activity of your listeners?",
+                "vi": "Bạn có để ý đến gốc gác và sinh hoạt thường ngày của người nghe không?"
+            }
+        },
+        {
+            "content": "báo hàng ngày",
+            "type": "",
+            "example": {
+                "en": "But the history books and the daily news tell us",
+                "vi": "Nhưng sách sử và báo hàng ngày cho chúng ta thấy"
+            }
+        },
+        {
+            "content": "bình thường",
+            "type": "adjective",
+            "example": {
+                "en": "I felt a little better, and then I went on with my normal daily activities.",
+                "vi": "Tôi cảm thấy vui hơn một chút và sau đó tôi tiếp tục với các sinh hoạt bình thường hàng ngày của mình."
+            }
+        },
+        {
+            "content": "nhật trình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhật tụng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

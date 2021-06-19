@@ -1,0 +1,44 @@
+{
+    "word": "developing",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈveləpiNG/",
+            "/dəˈvɛləpɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvɛləpɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát triển",
+            "type": "verb noun",
+            "example": {
+                "en": "Why didn't modern technology develop in China?",
+                "vi": "Tại sao công nghệ hiện đại lại không phát triển ở Trung Quốc?"
+            }
+        },
+        {
+            "content": "trên đà phát triển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang phát triển",
+            "type": "",
+            "example": {
+                "en": "They had a clinical trial for a drug that they've been developing.",
+                "vi": "Họ đã cho thử nghiệm lâm sàng một loại thuốc họ đang phát triển."
+            }
+        }
+    ]
+}

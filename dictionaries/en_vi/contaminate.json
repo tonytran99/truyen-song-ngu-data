@@ -1,0 +1,55 @@
+{
+    "word": "contaminate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtaməˌnāt/",
+            "/kənˈtæməˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtamɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm bẩn",
+            "type": "",
+            "example": {
+                "en": "Carry meat and fish in separate bins or bags so they do not contaminate other food.",
+                "vi": "Hãy đựng thịt cá trong bao, giỏ hoặc thùng riêng để không làm bẩn các loại thực phẩm khác."
+            }
+        },
+        {
+            "content": "làm hư hỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhiễm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm ô uế",
+            "type": "",
+            "example": {
+                "en": "If we're going to save Gwen, we have to find out what's contaminating the water.",
+                "vi": "Để cứu Gwenm chúng ta phải tìm ra cái gì đã làm ô uế nguồn nước."
+            }
+        },
+        {
+            "content": "làm ô nhiễm",
+            "type": "",
+            "example": {
+                "en": "Plant bee-friendly flowers, and don't contaminate these flowers, this bee food, with pesticides.",
+                "vi": "Trồng hoa thân thiện với ong, và không làm ô nhiễm những bông hoa, thức ăn của ong, với thuốc trừ sâu."
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "word": "console",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsōl/",
+            "/kənˈsoʊl/",
+            "/ˈkänˌsōl/",
+            "/ˈkɑnˌsoʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəʊl/",
+            "/ˈkɒnsəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "an ủi",
+            "type": "verb",
+            "example": {
+                "en": "She was a solace for us, and she consoled us.",
+                "vi": "Con bé là một sự an ủi cho chúng tôi, và nó đã an ủi chúng tôi."
+            }
+        },
+        {
+            "content": "rầm chìa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn kiểm soát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn điều khiển",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bảng điều khiển",
+            "type": "",
+            "example": {
+                "en": "I saw Crain doing something on the console.",
+                "vi": "Em thấy Crain làm gì đó với bảng điều khiển."
+            }
+        },
+        {
+            "content": "chân quỳ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dỗ dành",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "giải khuây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuyên giải",
+            "type": "verb",
+            "example": {
+                "en": "If it's any consolation, I don't think He knew what hit him.",
+                "vi": "Nếu có khuyên giải, tôi không nghĩ anh ta biết cái gì đánh anh ta."
+            }
+        },
+        {
+            "content": "vỗ về",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tự an ủi",
+            "type": "",
+            "example": {
+                "en": "It lives in the dirt, pecking insects out of the muck, consoling itself with its great beauty.",
+                "vi": "Chúng sống ở chỗ bẩn thỉu, mổ côn trùng từ nơi bùn đất. tự an ủi mình có vẻ đẹp kiêu sa."
+            }
+        }
+    ]
+}

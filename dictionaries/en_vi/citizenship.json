@@ -1,0 +1,60 @@
+{
+    "word": "citizenship",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈsidizənˌSHip/",
+            "/ˈsɪdɪzənˌʃɪp/",
+            "/ˈsidisənˌSHip/",
+            "/ˈsɪdɪsənˌʃɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsɪtɪzənˌʃɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quyền công dân",
+            "type": "noun",
+            "example": {
+                "en": "I had to give up my Jordanian citizenship.",
+                "vi": "Tôi phải bỏ quyền công dân là người Jordan."
+            }
+        },
+        {
+            "content": "bổn phận công dân",
+            "type": "noun",
+            "example": {
+                "en": "Would you describe that as global citizenship?",
+                "vi": "Ngài có ví nó với bổn phận công dân toàn cầu không?"
+            }
+        },
+        {
+            "content": "tư cách công dân",
+            "type": "noun",
+            "example": {
+                "en": "And what is the proof of your citizenship?",
+                "vi": "Điều gì chứng tỏ tư cách công dân của bạn?"
+            }
+        },
+        {
+            "content": "quoác tòch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quốc tịch",
+            "type": "noun",
+            "example": {
+                "en": "Some human governments require that those applying for citizenship speak the dominant language of the country.",
+                "vi": "Một số nước bắt buộc những người xin nhập quốc tịch phải nói được ngôn ngữ chính của nước ấy."
+            }
+        }
+    ]
+}

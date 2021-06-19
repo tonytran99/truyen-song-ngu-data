@@ -1,0 +1,37 @@
+{
+    "word": "armor",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈärmər/",
+            "/ˈɑrmər/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "áo giáp",
+            "type": "noun",
+            "example": {
+                "en": "You hide behind armor so you don't have to make sacrifices for victory!",
+                "vi": "Ngươi trốn đằng sau lớp áo giáp để không phải hy sinh cho chiến thắng."
+            }
+        },
+        {
+            "content": "giáp",
+            "type": "",
+            "example": {
+                "en": "You hide behind armor so you don't have to make sacrifices for victory!",
+                "vi": "Ngươi trốn đằng sau lớp áo giáp để không phải hy sinh cho chiến thắng."
+            }
+        },
+        {
+            "content": "armour",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

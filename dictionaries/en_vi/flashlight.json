@@ -1,0 +1,42 @@
+{
+    "word": "flashlight",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaSHˌlīt/",
+            "/ˈflæʃˌlaɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflaʃlʌɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đèn chớp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đèn nháy",
+            "type": "noun",
+            "example": {
+                "en": "You walk through with a handheld strobe, and wherever you point the flashlight, the animation pops to life.",
+                "vi": "Bạn đi qua nó với đèn nháy trên tay và bất cứ chỗ nào bạn nhấn đèn pin, hình ảnh hoạt hình sẽ hiện ra."
+            }
+        },
+        {
+            "content": "đèn pin",
+            "type": "noun",
+            "example": {
+                "en": "I lent Tom a flashlight.",
+                "vi": "Tôi cho Tom mượn một cái đèn pin."
+            }
+        }
+    ]
+}

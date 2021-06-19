@@ -1,0 +1,39 @@
+{
+    "word": "adenoma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌadnˈōmə/",
+            "/ˌædnˈoʊmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌadɪˈnəʊmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "u tuyến",
+            "type": "noun",
+            "example": {
+                "en": "Birth control pills caused a hepatocellular adenoma.",
+                "vi": "Thuốc tránh thai là nguyên nhân gây u tuyến tế bào gan."
+            }
+        },
+        {
+            "content": "adenomata",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số nhiều adenomas",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

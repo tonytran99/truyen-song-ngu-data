@@ -1,0 +1,34 @@
+{
+    "word": "cardiogram",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärdēəˌɡram/",
+            "/ˈkɑrdiəˌɡræm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːdɪə(ʊ)ɡram/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "như electrocardiogram",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tâm đồ",
+            "type": "noun",
+            "example": {
+                "en": "Study the verses from Alma 5 that are listed at the bottom of the spiritual cardiogram below.",
+                "vi": "Hãy nghiên cứu các câu từ An Ma 5 đã được liệt kê ở dưới cùng của tâm đồ thuộc linh dưới đây."
+            }
+        }
+    ]
+}

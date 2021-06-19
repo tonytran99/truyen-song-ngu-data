@@ -1,0 +1,38 @@
+{
+    "word": "botanical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈtanək(ə)l/",
+            "/bəˈtænək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈtanɪkl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực vật",
+            "type": "noun",
+            "example": {
+                "en": "You called it the botanical garden's open cinema.",
+                "vi": "Em đã gọi nó là rạp phim vườn thực vật."
+            }
+        },
+        {
+            "content": "thực vật học",
+            "type": "noun",
+            "example": {
+                "en": "i'll take you on that trip to the botanical gardens we've always talked about.",
+                "vi": "Tớ sẽ đưa cậu đến khu vườn nghiên cứu thực vật học mà ta suốt ngày nói đến."
+            }
+        }
+    ]
+}

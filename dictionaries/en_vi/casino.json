@@ -1,0 +1,50 @@
+{
+    "word": "casino",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈsēnō/",
+            "/kəˈsinoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈsiːnəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sòng bạc",
+            "type": "noun",
+            "example": {
+                "en": "May I please give you a demonstration of casino dominoes?",
+                "vi": "Tôi có thể biểu diễn cho ngài xem domino sòng bạc được không?"
+            }
+        },
+        {
+            "content": "câu lạc bộ",
+            "type": "noun",
+            "example": {
+                "en": "We don't see you much at the Casino.",
+                "vi": "Chúng tôi không gặp anh nhiều ở Câu lạc bộ."
+            }
+        },
+        {
+            "content": "nhà chơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sòng bài",
+            "type": "noun",
+            "example": {
+                "en": "He was employed as a security consultant at a Vinci casino, which recently burned down.",
+                "vi": "Hắn ta được thuê làm tư vấn an ninh tại sòng bài vừa bị hỏa hoạn tại Vinci."
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "buccaneer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbəkəˈnir/",
+            "/ˌbəkəˈnɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbʌkəˈnɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cướp biển",
+            "type": "noun",
+            "example": {
+                "en": "A famous admiral of buccaneers took the Knights'galley and the bird.",
+                "vi": "Một thuyền trưởng cướp biển lừng danh đã cướp chiếc thuyền và con chim của các Hiệp Sĩ."
+            }
+        },
+        {
+            "content": "kẻ gian hùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nghề cướp biển",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

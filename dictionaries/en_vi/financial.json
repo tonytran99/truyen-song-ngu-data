@@ -1,0 +1,40 @@
+{
+    "word": "financial",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈnan(t)SHəl/",
+            "/fəˈnæn(t)ʃəl/",
+            "/fīˈnan(t)SHəl/",
+            "/faɪˈnæn(t)ʃəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌɪˈnanʃ(ə)l/",
+            "/fɪˈnanʃ(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài chính",
+            "type": "",
+            "example": {
+                "en": "He relies on his wife financially.",
+                "vi": "Anh ấy phụ thuộc vợ về mặt tài chính."
+            }
+        },
+        {
+            "content": "về tài chính",
+            "type": "",
+            "example": {
+                "en": "I am wondering if you are in financial trouble.",
+                "vi": "Tôi tự hỏi có phải anh đang gặp khó khăn về tài chính không."
+            }
+        }
+    ]
+}

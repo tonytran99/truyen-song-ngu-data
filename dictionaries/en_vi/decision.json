@@ -1,0 +1,82 @@
+{
+    "word": "decision",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈsiZHən/",
+            "/dəˈsɪʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈsɪʒ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự giải quyết",
+            "type": "",
+            "example": {
+                "en": "It's their decision, not yours.",
+                "vi": "đó là sự giải quyết của họ không phải của các anh."
+            }
+        },
+        {
+            "content": "quyết nghị",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quyết định",
+            "type": "verb",
+            "example": {
+                "en": "You make a decision for yourself on this matter.",
+                "vi": "Việc này cậu tự quyết định là được rồi."
+            }
+        },
+        {
+            "content": "sự quyết định",
+            "type": "noun",
+            "example": {
+                "en": "It leaks into education, military, fiscal decision-making.",
+                "vi": "Nó xâm nhập vào nên giáo dục, quân sự, quyết định tài chính."
+            }
+        },
+        {
+            "content": "phán quyết",
+            "type": "noun",
+            "example": {
+                "en": "He will render righteous legal decisions for the nations.",
+                "vi": "Ngài sẽ ban phán quyết công minh cho các nước."
+            }
+        },
+        {
+            "content": "sự phán quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phân xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính kiên quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính quả quyết",
+            "type": "",
+            "example": {
+                "en": "15 Jehu was a decisive man.",
+                "vi": "15 Giê-hu là người có tính quả quyết."
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "word": "bream",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brim/",
+            "/brɪm/",
+            "/brēm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/briːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá tráp",
+            "type": "",
+            "example": {
+                "en": "This is cold slice of bream.",
+                "vi": "Đây là cá tráp lạnh đã được cắt."
+            }
+        },
+        {
+            "content": "cá vền",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

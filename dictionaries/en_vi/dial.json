@@ -1,0 +1,87 @@
+{
+    "word": "dial",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdī(ə)l/",
+            "/ˈdaɪ(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quay số",
+            "type": "",
+            "example": {
+                "en": "I use the voice dialing in my car, and everyone's on speed dial.",
+                "vi": "Tôi quay số bằng giọng nói trong xe. Ai cũng để quay số nhanh."
+            }
+        },
+        {
+            "content": "đĩa số",
+            "type": "",
+            "example": {
+                "en": "You turn up the dials, the wheel starts to turn.",
+                "vi": "Các bạn quay đĩa số, bánh quay sẽ chạy."
+            }
+        },
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "They sat me down. There are buttons and dials everywhere.",
+                "vi": "Họ đặt tôi ngồi xuống. Khắp nơi đều là nút bấm và mặt đồng hồ."
+            }
+        },
+        {
+            "content": "chỉ bằng đĩa số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "la bàn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mặt đồng hồ",
+            "type": "",
+            "example": {
+                "en": "They sat me down. There are buttons and dials everywhere.",
+                "vi": "Họ đặt tôi ngồi xuống. Khắp nơi đều là nút bấm và mặt đồng hồ."
+            }
+        },
+        {
+            "content": "đo bằng đĩa số",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng hồ mặt trời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Quay số",
+            "type": "",
+            "example": {
+                "en": "I use the voice dialing in my car, and everyone's on speed dial.",
+                "vi": "Tôi quay số bằng giọng nói trong xe. Ai cũng để quay số nhanh."
+            }
+        },
+        {
+            "content": "mặt số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "chemical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkemək(ə)l/",
+            "/ˈkɛmək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛmɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hóa học",
+            "type": "noun",
+            "example": {
+                "en": "When acid touches metal, a chemical reaction happens.",
+                "vi": "Khi axít tiếp xúc với kim loại, một phản ứng hóa học sẽ xảy ra."
+            }
+        },
+        {
+            "content": "hoá học",
+            "type": "noun",
+            "example": {
+                "en": "They're not just gonna let us waltz in there and run chemical tests on it.",
+                "vi": "Họ sẽ không để chúng ta đến gần nó và thử nghiệm hoá học trên nó."
+            }
+        },
+        {
+            "content": "thuộc hóa học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hóa chất",
+            "type": "noun",
+            "example": {
+                "en": "Now, it's not that chemicals are not important in psychiatric disorders.",
+                "vi": "Thực ra, không phải các hóa chất là không quan trọng ở các chứng rối loạn tâm thần."
+            }
+        }
+    ]
+}

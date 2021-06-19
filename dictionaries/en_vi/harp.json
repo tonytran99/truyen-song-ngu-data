@@ -1,0 +1,56 @@
+{
+    "word": "harp",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/härp/",
+            "/hɑrp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɑːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đàn hạc",
+            "type": "noun",
+            "example": {
+                "en": "She plays the harp and her car is paid for.",
+                "vi": "Cô ấy chơi đàn hạc và người ta trả tiền xe cho cô ấy."
+            }
+        },
+        {
+            "content": "đánh đàn hạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đàn Hạc",
+            "type": "noun",
+            "example": {
+                "en": "She plays the harp and her car is paid for.",
+                "vi": "Cô ấy chơi đàn hạc và người ta trả tiền xe cho cô ấy."
+            }
+        },
+        {
+            "content": "Hạc cầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thụ cầm",
+            "type": "",
+            "example": {
+                "en": "David is a very good player of the harp, and Saul likes the music that he plays.",
+                "vi": "Đa-vít khảy thụ cầm rất giỏi, và Sau-lơ thích nghe chàng khảy đàn."
+            }
+        }
+    ]
+}

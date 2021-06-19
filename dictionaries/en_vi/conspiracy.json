@@ -1,0 +1,42 @@
+{
+    "word": "conspiracy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈspirəsē/",
+            "/kənˈspɪrəsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈspɪrəsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "âm mưu",
+            "type": "noun",
+            "example": {
+                "en": "Maintain a conspiracy of lies at the highest levels of government.",
+                "vi": "Duy trì một âm mưu về lừa dối ở thượng tầng chính phủ?"
+            }
+        },
+        {
+            "content": "mưu",
+            "type": "noun",
+            "example": {
+                "en": "Maintain a conspiracy of lies at the highest levels of government.",
+                "vi": "Duy trì một âm mưu về lừa dối ở thượng tầng chính phủ?"
+            }
+        },
+        {
+            "content": "mưu đồ",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

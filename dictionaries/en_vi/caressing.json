@@ -1,0 +1,46 @@
+{
+    "word": "caressing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈresiNG/",
+            "/kəˈrɛsɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛsɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mơn trớn",
+            "type": "",
+            "example": {
+                "en": "Then they all caressed me at the same time.",
+                "vi": "Sau đó, họ mơn trớn tôi."
+            }
+        },
+        {
+            "content": "vuốt ve",
+            "type": "",
+            "example": {
+                "en": "Not a caress, but a wave of pain.",
+                "vi": "Không phải là một cái vuốt ve, mà là một làn sóng đau đớn."
+            }
+        },
+        {
+            "content": "âu yếm",
+            "type": "",
+            "example": {
+                "en": "With a caress I describe things that make me feel alive.",
+                "vi": "Với một sự âu yếm em ý thức được những điều khiến mình tồn tại."
+            }
+        }
+    ]
+}

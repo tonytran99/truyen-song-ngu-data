@@ -1,0 +1,76 @@
+{
+    "word": "academic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌakəˈdemik/",
+            "/ˌækəˈdɛmɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/akəˈdɛmɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lý thuyết suông",
+            "type": "",
+            "example": {
+                "en": "The Family Worship evening should be more than an academic exercise.",
+                "vi": "Buổi thờ phượng của gia đình không chỉ là buổi học lý thuyết suông."
+            }
+        },
+        {
+            "content": "hàn lâm",
+            "type": "",
+            "example": {
+                "en": "The academic publishing environment is very different now.",
+                "vi": "Môi trường hàn lâm đã khác biệt rất nhiều bây giờ"
+            }
+        },
+        {
+            "content": "hội viên học viện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thực tế",
+            "type": "",
+            "example": {
+                "en": "It may be academic, I just started him on dialysis.",
+                "vi": "Có lẽ là không thực tế. Tôi vừa cho cậu ta chạy thận."
+            }
+        },
+        {
+            "content": "kinh viện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trường đại học",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trừu tượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viện hàn lâm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viện sĩ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

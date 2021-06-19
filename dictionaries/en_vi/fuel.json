@@ -1,0 +1,69 @@
+{
+    "word": "fuel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfyo͞o(ə)l/",
+            "/ˈfju(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fjuː(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhiên liệu",
+            "type": "noun",
+            "example": {
+                "en": "The fuel I want to discuss is spiritual fuel.",
+                "vi": "Nhiên liệu mà tôi muốn thảo luận là nhiên liệu thuộc linh."
+            }
+        },
+        {
+            "content": "chất đốt",
+            "type": "noun",
+            "example": {
+                "en": "So, we have a seed to fuel program.",
+                "vi": "Do đó, chúng tôi cần hạt giống cấp chất đốt cho chương trình."
+            }
+        },
+        {
+            "content": "xăng dầu",
+            "type": "noun",
+            "example": {
+                "en": "Could we have fuel without fear?",
+                "vi": "Ta sẽ có loại xăng dầu an toàn phải không?"
+            }
+        },
+        {
+            "content": "燃料",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cung cấp chất đốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái khích động",
+            "type": "",
+            "example": {
+                "en": "that fuel the great anchoveta fisheries,",
+                "vi": "cái khích động nghề mắm cá phát triển"
+            }
+        },
+        {
+            "content": "lấy chất đốt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

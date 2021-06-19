@@ -1,0 +1,34 @@
+{
+    "word": "blacksmith",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblakˌsmiTH/",
+            "/ˈblækˌsmɪθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblaksmɪθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thợ rèn",
+            "type": "noun",
+            "example": {
+                "en": "We should've saved our money for the blacksmith.",
+                "vi": "Lẽ ra ta phải để dành tiền cho người thợ rèn."
+            }
+        },
+        {
+            "content": "Thợ rèn sắt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

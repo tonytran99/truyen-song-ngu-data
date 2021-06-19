@@ -1,0 +1,42 @@
+{
+    "word": "hamster",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamstər/",
+            "/ˈhæmstər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhamstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuột đồng",
+            "type": "",
+            "example": {
+                "en": "I can't believe I'm taking orders from a hamster.",
+                "vi": "Không thể tin mình lại nghe lệnh một con chuột đồng."
+            }
+        },
+        {
+            "content": "hamster",
+            "type": "",
+            "example": {
+                "en": "Dosages that wouldn't hurt a hamster if it was tied to the machine for a year.",
+                "vi": "Máy kiểu đó dùng một năm cũng không đủ làm đau một con hamster."
+            }
+        },
+        {
+            "content": "chuột hang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "eastern",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēstərn/",
+            "/ˈistərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːst(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đông",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "We've uncovered signs of tunnels on the eastern edge of the city.",
+                "vi": "Chúng ta tìm được những đường hầm ở phía đông."
+            }
+        },
+        {
+            "content": "người miền đông",
+            "type": "",
+            "example": {
+                "en": "The city of Dili came under siege, and many easterners fled for their lives.",
+                "vi": "Thành phố Dili bị bao vây, và nhiều người miền đông phải bỏ trốn để giữ mạng."
+            }
+        },
+        {
+            "content": "phía đông",
+            "type": "",
+            "example": {
+                "en": "We've uncovered signs of tunnels on the eastern edge of the city.",
+                "vi": "Chúng ta tìm được những đường hầm ở phía đông."
+            }
+        }
+    ]
+}

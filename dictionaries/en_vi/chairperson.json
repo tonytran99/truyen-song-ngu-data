@@ -1,0 +1,37 @@
+{
+    "word": "chairperson",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHerˌpərs(ə)n/",
+            "/ˈtʃɛrˌpərs(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃɛːpəːs(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ tịch",
+            "type": "noun",
+            "example": {
+                "en": "And Paul is the chairperson of the South Hampton historical commission.",
+                "vi": "Và Paul là chủ tịch của hội đồng lịch sử Nam Hampton."
+            }
+        },
+        {
+            "content": "Chủ tịch",
+            "type": "",
+            "example": {
+                "en": "And Paul is the chairperson of the South Hampton historical commission.",
+                "vi": "Và Paul là chủ tịch của hội đồng lịch sử Nam Hampton."
+            }
+        }
+    ]
+}

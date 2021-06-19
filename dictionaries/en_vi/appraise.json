@@ -1,0 +1,50 @@
+{
+    "word": "appraise",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈprāz/",
+            "/əˈpreɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpreɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đánh giá",
+            "type": "",
+            "example": {
+                "en": "To make our own appraisal of the situation.",
+                "vi": "Để đánh giá tình hình cho chính chúng tôi."
+            }
+        },
+        {
+            "content": "giám định",
+            "type": "verb",
+            "example": {
+                "en": "With two certified appraisals?",
+                "vi": "Với hai bản giám định đã được chứng thực?"
+            }
+        },
+        {
+            "content": "tâng bốc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "định giá",
+            "type": "",
+            "example": {
+                "en": "I haven't quite gotten them appraised yet, but they've seen many cool things.",
+                "vi": "Tớ chưa thẩm định giá của nó, nhưng nó đã được thấy những thứ tuyệt vời đấy."
+            }
+        }
+    ]
+}

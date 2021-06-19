@@ -1,0 +1,42 @@
+{
+    "word": "cardigan",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkärdəɡən/",
+            "/ˈkɑrdəɡən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɑːdɪɡ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "áo len đan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Cardigan",
+            "type": "",
+            "example": {
+                "en": "They made Ed Cardigan sheriff.",
+                "vi": "Họ cho Ed Cardigan làm Cảnh sát trưởng."
+            }
+        },
+        {
+            "content": "áo len",
+            "type": "",
+            "example": {
+                "en": "It's a cardigan, I have to button it.",
+                "vi": "Đó là một áo len, tôi phải cài khuy nó."
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "homogeneous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhōməˈjēnēəs/",
+            "/ˌhoʊməˈdʒiniəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhɒmə(ʊ)ˈdʒiːnɪəs/",
+            "/ˌhəʊmə(ʊ)ˈdʒiːnɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thuần nhất",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đồng nhất",
+            "type": "adjective",
+            "example": {
+                "en": "So how do you go from multiple causes to a syndrome that has some homogeneity?",
+                "vi": "Làm thế nào bạn suy luận được từ nhiều nguyên nhân sẽ dẫn đến một triệu chứng đồng nhất?"
+            }
+        },
+        {
+            "content": "đồng đều",
+            "type": "adjective",
+            "example": {
+                "en": "of homogeneity of societies, and so on,",
+                "vi": "tính đồng đều của các xã hội, vân vân,"
+            }
+        },
+        {
+            "content": "đồng thể",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

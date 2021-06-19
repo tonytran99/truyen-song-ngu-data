@@ -1,0 +1,46 @@
+{
+    "word": "workman",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwərkmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwəːkmən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công nhân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "người thợ",
+            "type": "noun",
+            "example": {
+                "en": "To him, a workman can't be an artist.",
+                "vi": "Đối với ổng, một người thợ không thể là một nghệ sĩ được."
+            }
+        },
+        {
+            "content": "thợ",
+            "type": "noun",
+            "example": {
+                "en": "To him, a workman can't be an artist.",
+                "vi": "Đối với ổng, một người thợ không thể là một nghệ sĩ được."
+            }
+        },
+        {
+            "content": "dân thợ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

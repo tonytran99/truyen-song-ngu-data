@@ -1,0 +1,68 @@
+{
+    "word": "gale",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡāl/",
+            "/ɡeɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡeɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơn gió mạnh",
+            "type": "noun",
+            "example": {
+                "en": "HAVE you ever watched a large tree being buffeted by gale-force winds?",
+                "vi": "Có bao giờ bạn thấy một cây to hứng chịu những cơn gió mạnh không?"
+            }
+        },
+        {
+            "content": "bão",
+            "type": "noun",
+            "example": {
+                "en": "I would see her undisturbed by the gale of words as well.",
+                "vi": "Tôi cũng muốn cô ấy không bị quấy rầy bởi cơn bão ngôn từ."
+            }
+        },
+        {
+            "content": "bão tố",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gió hiu hiu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gió nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nổ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phá lên",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trận bão",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

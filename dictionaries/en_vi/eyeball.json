@@ -1,0 +1,38 @@
+{
+    "word": "eyeball",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīˌbôl/",
+            "/ˈaɪˌbɔl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪbɔːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cầu mắt",
+            "type": "noun",
+            "example": {
+                "en": "Rather, they exist inside your eyeball.",
+                "vi": "Thực ra, chúng tồn tại trong cầu mắt của bạn."
+            }
+        },
+        {
+            "content": "nhãn cầu",
+            "type": "noun",
+            "example": {
+                "en": "It sounds gross , but you can get blisters inside your eyeballs .",
+                "vi": "Nghe có vẻ thô thiển nhưng trong nhãn cầu của bạn có thể bị dộp ."
+            }
+        }
+    ]
+}

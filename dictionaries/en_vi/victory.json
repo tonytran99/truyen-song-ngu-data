@@ -1,0 +1,77 @@
+{
+    "word": "victory",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvikt(ə)rē/",
+            "/ˈvɪkt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪkt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thắng lợi",
+            "type": "noun",
+            "example": {
+                "en": "We've fought many battles and won great victories.",
+                "vi": "Chúng ta đã chiến đấu rất nhiều trận chiến và giành được những thắng lợi lớn."
+            }
+        },
+        {
+            "content": "chiến thắng",
+            "type": "noun",
+            "example": {
+                "en": "That victory became a source of national pride.",
+                "vi": "Chiến thắng đó trở thành nguồn sức mạnh khơi dậy niềm tự hào dân tộc."
+            }
+        },
+        {
+            "content": "thắng",
+            "type": "verb noun",
+            "example": {
+                "en": "That victory became a source of national pride.",
+                "vi": "Chiến thắng đó trở thành nguồn sức mạnh khơi dậy niềm tự hào dân tộc."
+            }
+        },
+        {
+            "content": "vinh quang",
+            "type": "noun",
+            "example": {
+                "en": "They march for the spoils of war, of victory.",
+                "vi": "Họ tham chiến vì chiến lợi phẩm, vì vinh quang."
+            }
+        },
+        {
+            "content": "sự chiến thắng",
+            "type": "",
+            "example": {
+                "en": "We celebrate this morning His victory over death.",
+                "vi": "Buổi sáng hôm nay, chúng ta kỷ niệm sự chiến thắng cái chết của Ngài."
+            }
+        },
+        {
+            "content": "sự chế ngự được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khắc phục được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thắng cuộc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "usurious",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞oˈZHo͝orēəs/",
+            "/juˈʒʊriəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːˈʒʊərɪəs/",
+            "/juːˈzjʊrɪəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cắt cổ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nặng l i",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nặng lãi",
+            "type": "adjective",
+            "example": {
+                "en": "The people gave way to unrestrained greed by practicing bribery, extortion, and usury.",
+                "vi": "Dân chúng buông mình theo lối sống tham lam vô độ qua việc hối lộ, tống tiền và cho vay nặng lãi."
+            }
+        }
+    ]
+}

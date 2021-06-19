@@ -1,0 +1,137 @@
+{
+    "word": "vote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vōt/",
+            "/voʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bỏ phiếu",
+            "type": "noun",
+            "example": {
+                "en": "When it was time to vote, he abstained.",
+                "vi": "Khi đến giờ bỏ phiếu, anh ta đã bỏ phiếu trắng."
+            }
+        },
+        {
+            "content": "bầu cử",
+            "type": "",
+            "example": {
+                "en": "Tom has the right to vote.",
+                "vi": "Tom có quyền bầu cử."
+            }
+        },
+        {
+            "content": "biểu quyết",
+            "type": "verb",
+            "example": {
+                "en": "You got the rest of them to vote your way.",
+                "vi": "Anh khiến những người khác biểu quyết theo anh, phải không?"
+            }
+        },
+        {
+            "content": "sự bỏ phiếu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiếu",
+            "type": "",
+            "example": {
+                "en": "When it was time to vote, he abstained.",
+                "vi": "Khi đến giờ bỏ phiếu, anh ta đã bỏ phiếu trắng."
+            }
+        },
+        {
+            "content": "bầu",
+            "type": "noun",
+            "example": {
+                "en": "Tom has the right to vote.",
+                "vi": "Tom có quyền bầu cử."
+            }
+        },
+        {
+            "content": "thăm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bỏ phiếu thông qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lá phiếu",
+            "type": "",
+            "example": {
+                "en": "A vote for my plan is a vote for a live beautiful.",
+                "vi": "Một lá phiếu cho kế hoạch của tôi là một lá phiếu cho cuộc sống tươi đẹp."
+            }
+        },
+        {
+            "content": "nghị quyết",
+            "type": "",
+            "example": {
+                "en": "Or the resolution goes to a vote next week.",
+                "vi": "Không thì tuần tới, nghị quyết sẽ được đưa ra bỏ phiếu."
+            }
+        },
+        {
+            "content": "ngân sách",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phiếu bầu",
+            "type": "noun",
+            "example": {
+                "en": "So, I guess there's no point in asking for your vote, is there?",
+                "vi": "Vậy tôi đoán là không thể có được phiếu bầu của cô rồi nhỉ?"
+            }
+        },
+        {
+            "content": "số phiếu",
+            "type": "",
+            "example": {
+                "en": "You know that we have the votes to override your veto.",
+                "vi": "Ngài biết thừa là chúng tôi có đủ số phiếu để bác bỏ phủ quyết của ngài mà."
+            }
+        },
+        {
+            "content": "đầu phiếu",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đề nghị",
+            "type": "verb",
+            "example": {
+                "en": "To these several propositions they consented by a unanimous vote.",
+                "vi": "Họ đã đồng lòng ưng thuận những lời đề nghị này."
+            }
+        },
+        {
+            "content": "đồng thanh tuyên bố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bầu cử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

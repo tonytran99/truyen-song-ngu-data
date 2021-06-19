@@ -1,0 +1,39 @@
+{
+    "word": "friendliness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrendlēnəs/",
+            "/ˈfrɛndlinəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrɛn(d)lɪnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thân mật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thân thiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thân thiện",
+            "type": "",
+            "example": {
+                "en": "I'm not sure that your friendliness is very effective.",
+                "vi": "Tôi không chắc sự thân thiện của cô có nhiều hiệu quả."
+            }
+        }
+    ]
+}

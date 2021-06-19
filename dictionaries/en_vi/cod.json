@@ -1,0 +1,54 @@
+{
+    "word": "cod",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käd/",
+            "/kɑd/",
+            "/ˌsēˌōˈdē/",
+            "/ˌsiˌoʊˈdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒd/",
+            "/ˌsiːˌəʊˈdiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá tuyết",
+            "type": "",
+            "example": {
+                "en": "We hear a lot about the collapse of cod.",
+                "vi": "Chúng ta nghe rất nhiều về sự sụp đổ của cá tuyết."
+            }
+        },
+        {
+            "content": "cá moruy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa gạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh lừa",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

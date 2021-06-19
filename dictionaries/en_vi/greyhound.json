@@ -1,0 +1,43 @@
+{
+    "word": "greyhound",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrāˌhound/",
+            "/ˈɡreɪˌhaʊnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡreɪhaʊnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chó săn thỏ",
+            "type": "",
+            "example": {
+                "en": "♫ With a body like a greyhound ♫",
+                "vi": "♫Cơ thể hệt loài chó săn thỏ♫"
+            }
+        },
+        {
+            "content": "tàu biển chạy nhanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Greyhound",
+            "type": "",
+            "example": {
+                "en": "Money was put in a locker for me at a Greyhound station.",
+                "vi": "Tiền cho tôi được để trong tù đồ tại một ga ở Greyhound."
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "incriminate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkriməˌnāt/",
+            "/ɪnˈkrɪməˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkrɪmɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "buộc tội cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bắt lỗi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ trách nhiệm cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ tội cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổ lỗi",
+            "type": "",
+            "example": {
+                "en": "You were searching for something in your head to incriminate me.",
+                "vi": "Cậu đã lục tìm thứ gì đó trong đầu để đổ lỗi cho tôi."
+            }
+        }
+    ]
+}

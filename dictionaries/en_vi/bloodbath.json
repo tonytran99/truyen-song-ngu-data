@@ -1,0 +1,42 @@
+{
+    "word": "bloodbath",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblədˌbaTH/",
+            "/ˈblədˌbæθ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblʌdbɑːθ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giết chóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thảm sát",
+            "type": "verb",
+            "example": {
+                "en": "It's a bloodbath up here.",
+                "vi": "Ngoài này đang thảm sát rồi."
+            }
+        },
+        {
+            "content": "tàn sát",
+            "type": "",
+            "example": {
+                "en": "On a night just like this I returned home from a hunt to find a bloodbath.",
+                "vi": "Vào một đêm như thế này, tôi trở về sau chuyến đi săn và chứng kiến cuộc tàn sát."
+            }
+        }
+    ]
+}

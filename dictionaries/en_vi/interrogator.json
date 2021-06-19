@@ -1,0 +1,44 @@
+{
+    "word": "interrogator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/inˈterəˌɡādər/",
+            "/ɪnˈtɛrəˌɡeɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈtɛrəɡeɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người thẩm vấn",
+            "type": "",
+            "example": {
+                "en": "He also just happens to be the best interrogator on the force.",
+                "vi": "Nó đồng thời cũng là người thẩm vấn giỏi nhất trong lực lượng."
+            }
+        },
+        {
+            "content": "người chất vấn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người hỏi dò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tra hỏi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

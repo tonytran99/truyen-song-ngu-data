@@ -1,0 +1,111 @@
+{
+    "word": "incoming",
+    "type": [
+        "adjective",
+        "interjection",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈinˌkəmiNG/",
+            "/ˈɪnˌkəmɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnkʌmɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vào",
+            "type": "verb adposition",
+            "example": {
+                "en": "But if the incoming charge exceeds the outgoing charge the battery might explode!",
+                "vi": "Nhưng nếu đầu vào thiết bị sạc vượt quá đầu ra thiết bị sạc"
+            }
+        },
+        {
+            "content": "doanh thu",
+            "type": "",
+            "example": {
+                "en": "Apple is making some 75 percent of its income from product lines introduced within the past five years .",
+                "vi": "Khoảng 75% doanh thu của Apple đến từ các dòng sản phẩm được giới thiệu trong năm năm qua ."
+            }
+        },
+        {
+            "content": "dồn lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kế tục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lợi tức",
+            "type": "",
+            "example": {
+                "en": "It's difficult to live here without a big income.",
+                "vi": "Rất khó sống ở đây mà không có lợi tức."
+            }
+        },
+        {
+            "content": "mới đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mới đến nhậm chức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mới đến ở",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhập cư",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "sự vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thay thế",
+            "type": "",
+            "example": {
+                "en": "I would instead put income per person.",
+                "vi": "và thay thế cho nó ở đây, tôi đặt số thu nhập của mỗi người vào."
+            }
+        },
+        {
+            "content": "thu nhập",
+            "type": "",
+            "example": {
+                "en": "His income is now double what it was ten years ago.",
+                "vi": "Thu nhập của anh ấy đã tăng gấp đôi so với 10 năm trước."
+            }
+        },
+        {
+            "content": "đang đến",
+            "type": "",
+            "example": {
+                "en": "We got an incoming storm front.",
+                "vi": "Có một cơn bão đang đến từ phía trước."
+            }
+        }
+    ]
+}

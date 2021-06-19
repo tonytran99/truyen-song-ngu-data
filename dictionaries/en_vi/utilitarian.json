@@ -1,0 +1,43 @@
+{
+    "word": "utilitarian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yo͞oˌtiləˈterēən/",
+            "/juˌtɪləˈtɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jʊˌtɪlɪˈtɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vị lợi",
+            "type": "noun",
+            "example": {
+                "en": "If you feel that way, that's a utilitarian choice.",
+                "vi": "Nếu bạn cảm thấy theo cách đó đó là một lựa chọn vị lợi."
+            }
+        },
+        {
+            "content": "người vị lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiết thực",
+            "type": "noun",
+            "example": {
+                "en": "an industrious, utilitarian solution:",
+                "vi": "một giải pháp công nghiệp và thiết thực:"
+            }
+        }
+    ]
+}

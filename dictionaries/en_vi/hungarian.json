@@ -1,0 +1,39 @@
+{
+    "word": "hungarian",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌhəNGˈɡerēən/",
+            "/ˌhəŋˈɡɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌŋˈɡɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Hung-ga-ri",
+            "type": "adjective",
+            "example": {
+                "en": "At Bratislava the program was in English, Hungarian, Slovak, and Slovakian Sign Language.",
+                "vi": "Tại Bratislava, chương trình diễn ra bằng tiếng Anh, Hung-ga-ri, Slovak và tiếng Slovak ra dấu."
+            }
+        },
+        {
+            "content": "hung-ga-ri",
+            "type": "",
+            "example": {
+                "en": "At Bratislava the program was in English, Hungarian, Slovak, and Slovakian Sign Language.",
+                "vi": "Tại Bratislava, chương trình diễn ra bằng tiếng Anh, Hung-ga-ri, Slovak và tiếng Slovak ra dấu."
+            }
+        }
+    ]
+}

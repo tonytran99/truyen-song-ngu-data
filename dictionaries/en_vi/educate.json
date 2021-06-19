@@ -1,0 +1,63 @@
+{
+    "word": "educate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈejəˌkāt/",
+            "/ˈɛdʒəˌkeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛdjʊkeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dạy",
+            "type": "verb",
+            "example": {
+                "en": "My father saved every penny he earned to buy me a proper education.",
+                "vi": "Cha tôi chắt bóp từng đồng xu một để tôi được dạy dỗ đàng hoàng."
+            }
+        },
+        {
+            "content": "giáo dục",
+            "type": "noun",
+            "example": {
+                "en": "What do you think about Japan's educational system?",
+                "vi": "Bạn nghĩ gì về hệ thống giáo dục của Nhật Bản?"
+            }
+        },
+        {
+            "content": "giáo",
+            "type": "verb",
+            "example": {
+                "en": "What do you think about Japan's educational system?",
+                "vi": "Bạn nghĩ gì về hệ thống giáo dục của Nhật Bản?"
+            }
+        },
+        {
+            "content": "cho ăn học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rèn luyện",
+            "type": "",
+            "example": {
+                "en": "So I started to educate myself on this molecular level.",
+                "vi": "Vây nên tôi bắt đầu rèn luyện mình ở cấp độ phân tử."
+            }
+        },
+        {
+            "content": "nuôi dưỡng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

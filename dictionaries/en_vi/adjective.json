@@ -1,0 +1,69 @@
+{
+    "word": "adjective",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈajəktiv/",
+            "/ˈædʒəktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadʒɪktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính từ",
+            "type": "noun",
+            "example": {
+                "en": "We prefer to use a different adjective to describe Martinez's mouth.",
+                "vi": "Chúng tôi thích dùng tính từ khác để miêu tả miệng của Martinez's hơn."
+            }
+        },
+        {
+            "content": "hình dung từ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "có tính chất tính từ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không đứng một mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lệ thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phụ vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêm vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tính từ",
+            "type": "",
+            "example": {
+                "en": "We prefer to use a different adjective to describe Martinez's mouth.",
+                "vi": "Chúng tôi thích dùng tính từ khác để miêu tả miệng của Martinez's hơn."
+            }
+        }
+    ]
+}

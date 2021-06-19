@@ -1,0 +1,65 @@
+{
+    "word": "compiler",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpīlər/",
+            "/kəmˈpaɪlər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpʌɪlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người biên soạn",
+            "type": "noun",
+            "example": {
+                "en": "The men who compiled the history attested to the accuracy of the work.",
+                "vi": "Những người biên soạn quyển lịch sử này chứng thực sự chính xác của công việc này."
+            }
+        },
+        {
+            "content": "biên soạn",
+            "type": "",
+            "example": {
+                "en": "Mormon did not record where he was when he compiled this book.",
+                "vi": "Mặc Môn không ghi lại nơi nào ông đang ở khi biên soạn sách này."
+            }
+        },
+        {
+            "content": "bộ biên dịch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chương trình biên dịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "soạn giả",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "trình biên dịch",
+            "type": "noun",
+            "example": {
+                "en": "And the universe is now a compiler.",
+                "vi": "Và vũ trụ bây giờ là một trình biên dịch."
+            }
+        },
+        {
+            "content": "biên dịch viên",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

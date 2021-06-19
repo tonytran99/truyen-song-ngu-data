@@ -1,0 +1,53 @@
+{
+    "word": "tv",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈˌtē ˈvē/",
+            "/ˈˌti ˈvi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tiːˈviː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tivi",
+            "type": "noun",
+            "example": {
+                "en": "Tom likes to watch baseball games on TV.",
+                "vi": "Tom thích xem chương trình bóng chày trên tivi."
+            }
+        },
+        {
+            "content": "TV",
+            "type": "noun",
+            "example": {
+                "en": "The only thing Tom likes to do after dinner is watch TV.",
+                "vi": "Việc duy nhất Tom thích sau bữa tối là xem TV."
+            }
+        },
+        {
+            "content": "máy truyền hình",
+            "type": "noun",
+            "example": {
+                "en": "I set the book on top of the TV and went to bed.",
+                "vi": "Tôi để quyển sách lên trên đầu máy truyền hình và đi ngủ."
+            }
+        },
+        {
+            "content": "ti vi",
+            "type": "",
+            "example": {
+                "en": "I can watch TV all day without getting bored.",
+                "vi": "Tớ có thể xem ti-vi cả ngày không chán."
+            }
+        }
+    ]
+}

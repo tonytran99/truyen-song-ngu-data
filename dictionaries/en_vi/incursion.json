@@ -1,0 +1,60 @@
+{
+    "word": "incursion",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈkərZHən/",
+            "/ɪnˈkərʒən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkəːʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự chảy vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xâm nhập",
+            "type": "",
+            "example": {
+                "en": "Confirm Team Viper's on board, ready for incursion.",
+                "vi": "Xác nhận, đội Viper đã trên máy bay, sẵn sàng cho sự xâm nhập."
+            }
+        },
+        {
+            "content": "sự đột nhập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tập kích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đột kích",
+            "type": "verb",
+            "example": {
+                "en": "His brother was one of the raw recruits killed in that incursion.",
+                "vi": "Em trai anh ta là một lính mới bị giết trong cuộc đột kích đó."
+            }
+        },
+        {
+            "content": "đột nhập",
+            "type": "",
+            "example": {
+                "en": "I was in Georgia during the incursion in'08.",
+                "vi": "Tôi đã ở Georgia trong vụ đột nhập năm 08."
+            }
+        }
+    ]
+}

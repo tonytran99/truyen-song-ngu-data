@@ -1,0 +1,45 @@
+{
+    "word": "footnote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝otˌnōt/",
+            "/ˈfʊtˌnoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊtnəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chú thích",
+            "type": "",
+            "example": {
+                "en": "In this revised edition, those omitted verses are indicated by a footnote at the location of the omission.",
+                "vi": "Trong bản dịch này, những câu ấy được đánh dấu chú thích ở nơi chúng bị loại bỏ."
+            }
+        },
+        {
+            "content": "chú thích ở cuối trang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi chú cuối trang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chú ở cuối trang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

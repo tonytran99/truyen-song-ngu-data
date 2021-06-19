@@ -1,0 +1,62 @@
+{
+    "word": "creek",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krēk/",
+            "/krik/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lạch",
+            "type": "noun",
+            "example": {
+                "en": "You cross the creek, and you come to a big rock.",
+                "vi": "Qua khỏi con lạch, tới một tảng đá lớn."
+            }
+        },
+        {
+            "content": "vùng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhánh sông",
+            "type": "",
+            "example": {
+                "en": "We caught these three by the creek.",
+                "vi": "Bắt được ba tên này ở nhánh sông."
+            }
+        },
+        {
+            "content": "sông con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thung lũng hẹp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vịnh",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vũng sông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "conic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänik/",
+            "/ˈkɑnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cônic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hình nón",
+            "type": "noun",
+            "example": {
+                "en": "Spinosaurus's conical teeth evolved to grip prey rather than tear off flesh.",
+                "vi": "Kiểu răng hình nón của Spinosaurus phát triển để giữ con mồi chứ không phải để xé thịt."
+            }
+        },
+        {
+            "content": "line c cônic tuyến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt nón",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đường bậc hai",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "hat",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hat/",
+            "/hæt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hat/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mũ",
+            "type": "noun",
+            "example": {
+                "en": "I love my woolly hat.",
+                "vi": "Tôi thích cái mũ len của tôi."
+            }
+        },
+        {
+            "content": "nón",
+            "type": "noun",
+            "example": {
+                "en": "She brushed her husband's hat.",
+                "vi": "Cô ta chải sạch cái nón của chồng mình."
+            }
+        },
+        {
+            "content": "cái mũ",
+            "type": "",
+            "example": {
+                "en": "I love my woolly hat.",
+                "vi": "Tôi thích cái mũ len của tôi."
+            }
+        },
+        {
+            "content": "đội mũ cho",
+            "type": "",
+            "example": {
+                "en": "It's like putting a hat on your knee.",
+                "vi": ". Nó giống như đội mũ cho đầu gối vậy."
+            }
+        },
+        {
+            "content": "Mũ",
+            "type": "",
+            "example": {
+                "en": "I love my woolly hat.",
+                "vi": "Tôi thích cái mũ len của tôi."
+            }
+        },
+        {
+            "content": "mão",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

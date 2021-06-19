@@ -1,0 +1,29 @@
+{
+    "word": "conductive",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdəktiv/",
+            "/kənˈdəktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʌktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dẫn",
+            "type": "adjective",
+            "example": {
+                "en": "And that's evident here with the slower conduction.",
+                "vi": "Bằng chứng là có sự suy giảm tính dẫn điện."
+            }
+        }
+    ]
+}

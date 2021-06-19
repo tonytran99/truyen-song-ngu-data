@@ -1,0 +1,50 @@
+{
+    "word": "banal",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈnäl/",
+            "/bəˈnɑl/",
+            "/bəˈnal/",
+            "/bəˈnæl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈnɑːl/",
+            "/bəˈnal/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sáo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tầm thường",
+            "type": "",
+            "example": {
+                "en": "Cos it seems very basic and banal but it's not.",
+                "vi": "Bởi vì nó có vẻ rất cơ bản và tầm thường nhưng không."
+            }
+        },
+        {
+            "content": "thường",
+            "type": "adjective",
+            "example": {
+                "en": "Cos it seems very basic and banal but it's not.",
+                "vi": "Bởi vì nó có vẻ rất cơ bản và tầm thường nhưng không."
+            }
+        },
+        {
+            "content": "vô vị",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

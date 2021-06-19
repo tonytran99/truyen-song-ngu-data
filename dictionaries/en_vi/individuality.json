@@ -1,0 +1,50 @@
+{
+    "word": "individuality",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌindəˌvijo͞oˈalədē/",
+            "/ˌɪndəˌvɪdʒuˈælədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪndɪvɪdʒʊˈalɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá nhân",
+            "type": "adjective noun",
+            "example": {
+                "en": "The preparation of that record is our individual and collective responsibility.",
+                "vi": "Việc chuẩn bị cho tập hồ sơ đó là trách nhiệm cá nhân và của chung chúng ta."
+            }
+        },
+        {
+            "content": "tính chất cá nhân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đặc tính cá nhân",
+            "type": "noun",
+            "example": {
+                "en": "They make up a mix of influences as individual and idiosyncratic as the woman herself.",
+                "vi": "Chúng là một chuỗi ảnh hưởng mang đặc tính cá nhân như bản thân của người phụ nữ."
+            }
+        },
+        {
+            "content": "cá tính",
+            "type": "",
+            "example": {
+                "en": "Each iceberg has its own individual personality.",
+                "vi": "Mỗi tảng băng đều có một cá tính của nó."
+            }
+        }
+    ]
+}

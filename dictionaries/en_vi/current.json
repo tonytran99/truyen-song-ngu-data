@@ -1,0 +1,193 @@
+{
+    "word": "current",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkərənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dòng",
+            "type": "noun",
+            "example": {
+                "en": "Around and around it was carried, unable to make its way back into the main current.",
+                "vi": "Tàu xoay vòng quanh, không thể trở lại dòng nước chính."
+            }
+        },
+        {
+            "content": "luồng",
+            "type": "noun",
+            "example": {
+                "en": "Then the strong wind and current pushed them north.",
+                "vi": "Và rồi những luồng gió mạnh và dòng hải lưu đã đẩy họ lên hướng bắc."
+            }
+        },
+        {
+            "content": "hiện tại",
+            "type": "noun",
+            "example": {
+                "en": "Our current way of thinking is not working.",
+                "vi": "Cách nghĩ hiện tại của ta không hiệu quả."
+            }
+        },
+        {
+            "content": "hiện hành",
+            "type": "",
+            "example": {
+                "en": "There are links to the most current resource guides in the right column.",
+                "vi": "Có những mạng nối kết với các tài liệu chỉ dẫn hiện hành nhất ở bên cột tay phải."
+            }
+        },
+        {
+            "content": "dòng nước",
+            "type": "noun",
+            "example": {
+                "en": "Around and around it was carried, unable to make its way back into the main current.",
+                "vi": "Tàu xoay vòng quanh, không thể trở lại dòng nước chính."
+            }
+        },
+        {
+            "content": "hướng",
+            "type": "noun",
+            "example": {
+                "en": "If the current's warm, you're going the right way.",
+                "vi": "Nếu dòng biển ấm, thì cháu đi đúng hướng rồi đó."
+            }
+        },
+        {
+            "content": "đương",
+            "type": "noun",
+            "example": {
+                "en": "People in this group still didn't like the current governor.",
+                "vi": "Những người ở nhóm này vẫn không thích chính trị gia đương nhiệm."
+            }
+        },
+        {
+            "content": "đương kim",
+            "type": "adjective",
+            "example": {
+                "en": "But current reigning champ, Ripslinger, is just seconds behind him.",
+                "vi": "Hiện tại đương kim vô địch, Ripslinger, ở ngay vị trí thứ 2."
+            }
+        },
+        {
+            "content": "đương nhiệm",
+            "type": "adjective",
+            "example": {
+                "en": "People in this group still didn't like the current governor.",
+                "vi": "Những người ở nhóm này vẫn không thích chính trị gia đương nhiệm."
+            }
+        },
+        {
+            "content": "chiều",
+            "type": "noun",
+            "example": {
+                "en": "We live in a complex world with currents of conflict everywhere to be found.",
+                "vi": "Chúng ta sống trong một thế giới phức tạp với nhiều chiều hướng xung đột ở khắp nơi."
+            }
+        },
+        {
+            "content": "này",
+            "type": "determiner",
+            "example": {
+                "en": "I have become aware of Lorenzo's current circumstance.",
+                "vi": "Tôi nhận ra hoàn cảnh của Lorenzo lúc này."
+            }
+        },
+        {
+            "content": "cường độ",
+            "type": "",
+            "example": {
+                "en": "Happens when high-amperage currents travel or arc through the air.",
+                "vi": "Xảy ra khi cường độ dòng điện cao phát ra hoặc nổ ra ngoài không khí."
+            }
+        },
+        {
+            "content": "dòng chảy",
+            "type": "",
+            "example": {
+                "en": "He say that it's hard to paddle when there is a current.",
+                "vi": "Anh ấy nói khó để quạt nước khi có dòng chảy."
+            }
+        },
+        {
+            "content": "dòng || hiện hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dòng điện",
+            "type": "noun",
+            "example": {
+                "en": "When people circle together, they generate a current.",
+                "vi": "Khi con người đứng thành vòng tròn, họ tao ra dòng điện."
+            }
+        },
+        {
+            "content": "hiện nay",
+            "type": "",
+            "example": {
+                "en": "The good news is, the tech is useless to them in my current condition.",
+                "vi": "Tin tốt lành là công nghệ vô dụng với chúng trong tình trạng hiện nay của anh."
+            }
+        },
+        {
+            "content": "hiện taị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hiện thời",
+            "type": "",
+            "example": {
+                "en": "The current file has been modified. Do you want to save it?",
+                "vi": "Tập tin hiện thời đã bị sửa đổi. Bạn có muốn lưu nó không?"
+            }
+        },
+        {
+            "content": "phổ biến",
+            "type": "adjective",
+            "example": {
+                "en": "And believe me, these are current pictures.",
+                "vi": "Tin tôi đi, đây là các hình ảnh phổ biến hiện nay."
+            }
+        },
+        {
+            "content": "thông dụng",
+            "type": "adjective",
+            "example": {
+                "en": "Our equipment requires a great deal of current.",
+                "vi": "Thiết bị của chúng tôi đòi hỏi một vấn đề lớn thông dụng."
+            }
+        },
+        {
+            "content": "thịnh hành",
+            "type": "",
+            "example": {
+                "en": "You wouldn't know any current bands.",
+                "vi": "Bố có biết ban nhạc thịnh hành nào đâu."
+            }
+        },
+        {
+            "content": "đang dùng/làm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đang lưu hành",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

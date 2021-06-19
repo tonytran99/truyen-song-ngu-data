@@ -1,0 +1,53 @@
+{
+    "word": "connected",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnektəd/",
+            "/kəˈnɛktəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnɛktɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có họ hàng với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có quan hệ vơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên thông",
+            "type": "",
+            "example": {
+                "en": "Connects to the building next door.",
+                "vi": "Nó liên thông với tòa nhà kế bên."
+            }
+        },
+        {
+            "content": "mạch lạc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được nối",
+            "type": "",
+            "example": {
+                "en": "The administration building, is connected to the chapel.",
+                "vi": "Tòa nhà ban quản trị được nối với nhà thờ nhỏ."
+            }
+        }
+    ]
+}

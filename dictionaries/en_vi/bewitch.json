@@ -1,0 +1,57 @@
+{
+    "word": "bewitch",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bəˈwiCH/",
+            "/bəˈwɪtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈwɪtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm say mê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ếm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bỏ bùa",
+            "type": "",
+            "example": {
+                "en": "Your sister, it seems, is somewhat bewitched by you.",
+                "vi": "Chị con, có vẻ như, đã bị con bỏ bùa."
+            }
+        },
+        {
+            "content": "bỏ bùa mê",
+            "type": "",
+            "example": {
+                "en": "Even dead, that Creature still bewitches you!",
+                "vi": "Ngay cả khi chết, con quỷ đó vẫn có thể bỏ bùa mê ngươi!"
+            }
+        },
+        {
+            "content": "làm mê mẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm say đắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

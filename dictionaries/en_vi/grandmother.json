@@ -1,0 +1,55 @@
+{
+    "word": "grandmother",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)ˌməT͟Hər/",
+            "/ˈɡræn(d)ˌməðər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡran(d)mʌðə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà",
+            "type": "noun",
+            "example": {
+                "en": "Fadil also took care of his grandmother.",
+                "vi": "Fadil cũng chăm sóc bà của anh ấy."
+            }
+        },
+        {
+            "content": "bà ngoại",
+            "type": "noun",
+            "example": {
+                "en": "And, you know, my grandmother was the greatest.",
+                "vi": "Và bạn biết đấy, bà ngoại tôi là người vĩ đại nhất."
+            }
+        },
+        {
+            "content": "bà nội",
+            "type": "noun",
+            "example": {
+                "en": "She could have been my grandmother or great grandmother.",
+                "vi": "Bà ấy có thể là bà nội hoặc bà cố của ta."
+            }
+        },
+        {
+            "content": "nuông chiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nâng niu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

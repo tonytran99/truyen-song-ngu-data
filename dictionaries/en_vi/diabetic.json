@@ -1,0 +1,45 @@
+{
+    "word": "diabetic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdīəˈbedik/",
+            "/ˌdaɪəˈbɛdɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪəˈbɛtɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh đái đường",
+            "type": "",
+            "example": {
+                "en": "Does your mother know you're sitting here, eating diabetes?",
+                "vi": "Không biết mẹ mi có biết mi lê la chỗ này, đang ăn bệnh đái đường không nhỉ?"
+            }
+        },
+        {
+            "content": "mắc bệnh đái đường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngöôøi bò beänh tieåu ñöôøng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc bệnh tiểu đường",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "inviting",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvīdiNG/",
+            "/ɪnˈvaɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvʌɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp dẫn",
+            "type": "adjective verb noun",
+            "example": {
+                "en": "That pool really looks inviting.",
+                "vi": "Bể bơi đó nhìn rất hấp dẫn."
+            }
+        },
+        {
+            "content": "lôi cuốn",
+            "type": "adjective",
+            "example": {
+                "en": "Parasites invite us to resist the allure of obvious stories.",
+                "vi": "Loài kí sinh khiến ta cưỡng lại sức lôi cuốn của những câu chuyện hiển nhiên."
+            }
+        },
+        {
+            "content": "mời mọc",
+            "type": "",
+            "example": {
+                "en": "The forces you confront are powerful and inviting.",
+                "vi": "Những cám dỗ mà các em đương đầu thì mạnh mẽ và đầy mời mọc."
+            }
+        }
+    ]
+}

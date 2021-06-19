@@ -1,0 +1,71 @@
+{
+    "word": "crease",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krēs/",
+            "/kris/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kriːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nếp gấp",
+            "type": "",
+            "example": {
+                "en": "It must have been a tightly packed shelf, going by the severity of the crease.",
+                "vi": "Nó hẳn là một kệ sách có chút chật chội, xét vào độ chặt của nếp gấp."
+            }
+        },
+        {
+            "content": "nếp nhăn",
+            "type": "",
+            "example": {
+                "en": "Yeah, but there's no crease in the paper.",
+                "vi": "Đúng, nhưng tớ giấy không có nếp nhăn nào."
+            }
+        },
+        {
+            "content": "nếp",
+            "type": "noun",
+            "example": {
+                "en": "The creases in the material and the sort of nuances.",
+                "vi": "Các nếp gập ở vật liệu và các sắc thái."
+            }
+        },
+        {
+            "content": "nhàu",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "có nếp gấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gấp nếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm nhăn mặt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

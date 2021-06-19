@@ -1,0 +1,90 @@
+{
+    "word": "inspect",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈspekt/",
+            "/ɪnˈspɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈspɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thanh tra",
+            "type": "verb",
+            "example": {
+                "en": "At the end of the week, the minister will come to inspect.",
+                "vi": "Cuối tuần này, ngài Bộ trưởng sẽ tới thanh tra."
+            }
+        },
+        {
+            "content": "kiểm tra",
+            "type": "verb noun",
+            "example": {
+                "en": "How often do those inspections reveal a problem?",
+                "vi": "Cô thường tìm ra lỗi với những lần kiểm tra đó không?"
+            }
+        },
+        {
+            "content": "duyệt",
+            "type": "verb",
+            "example": {
+                "en": "It will take four hours to get ready for inspection.",
+                "vi": "Phải mất tới bốn tiếng để chuẩn bị duyệt binh."
+            }
+        },
+        {
+            "content": "xem xét kỹ",
+            "type": "",
+            "example": {
+                "en": "Upon closer inspection, several problems become obvious.",
+                "vi": "Khi xem xét kỹ hơn các mẫu hóa thạch, người ta thấy được một số vấn đề."
+            }
+        },
+        {
+            "content": "xem",
+            "type": "verb",
+            "example": {
+                "en": "Houston, from first inspection, comms panel appears to be dead.",
+                "vi": "Houston, xem xét ban đầu cho thấy bo mạch liên lạc đã hỏng."
+            }
+        },
+        {
+            "content": "coi",
+            "type": "interjection verb",
+            "example": {}
+        },
+        {
+            "content": "nghiệm",
+            "type": "verb",
+            "example": {
+                "en": "This inspection is merely a formality.",
+                "vi": "Hơn nữa, khám nghiệm chỉ là thủ tục."
+            }
+        },
+        {
+            "content": "giám sát",
+            "type": "",
+            "example": {
+                "en": "Well, I'd like you know that visual inspection of the equipment is imperative to mission success.",
+                "vi": "Tôi muốn anh biết rằng giám sát thiết bị là việc bắt buộc để đảm bảo sứ mệnh thành công."
+            }
+        },
+        {
+            "content": "giám thị",
+            "type": "noun",
+            "example": {
+                "en": "Consider the example of a zone overseer who was inspecting the operations of one of the branch offices of Jehovah’s Witnesses.",
+                "vi": "Hãy xem gương của anh giám thị vùng đến để xem xét hoạt động của một văn phòng chi nhánh của Nhân Chứng Giê-hô-va."
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "asiatic",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌāZHēˈadik/",
+            "/ˌeɪʒiˈædɪk/",
+            "/ˌāzēˈadik/",
+            "/ˌeɪziˈædɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeɪʒɪˈatɪk/",
+            "/ˌeɪʃɪˈatɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "á",
+            "type": "adjective",
+            "example": {
+                "en": "Asiatic city of innumerable churches.",
+                "vi": "Thành phố Châu Á của vô số nhà thờ."
+            }
+        },
+        {
+            "content": "Châu á",
+            "type": "",
+            "example": {
+                "en": "Asiatic city of innumerable churches.",
+                "vi": "Thành phố Châu Á của vô số nhà thờ."
+            }
+        },
+        {
+            "content": "người Châu á",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

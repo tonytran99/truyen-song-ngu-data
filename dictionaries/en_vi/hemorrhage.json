@@ -1,0 +1,45 @@
+{
+    "word": "hemorrhage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhem(ə)rij/",
+            "/ˈhɛm(ə)rɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuất huyết",
+            "type": "",
+            "example": {
+                "en": "Intraventricular hemorrhage is bleeding in the brain .",
+                "vi": "Xuất huyết não thất là dạng xuất huyết não ."
+            }
+        },
+        {
+            "content": "sự chảy máu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự xuất huyết",
+            "type": "noun",
+            "example": {
+                "en": "Yes, but the hemorrhaging...",
+                "vi": "Vâng, nhưng sự xuất huyết..."
+            }
+        },
+        {
+            "content": "chảy máu",
+            "type": "",
+            "example": {
+                "en": "And , it obviously also helps to reduce post-partum hemorrhage immediately after birth and bleeding .",
+                "vi": "Và rõ ràng nó còn giảm chảy máu và giảm xuất huyết lập tức sau khi sinh ."
+            }
+        }
+    ]
+}

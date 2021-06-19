@@ -1,0 +1,51 @@
+{
+    "word": "unchanged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈCHānjd/",
+            "/ˌənˈtʃeɪndʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtʃeɪn(d)ʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "y nguyên",
+            "type": "adjective",
+            "example": {
+                "en": "The search for a supposed hidden message depends upon an absolutely unchanging text.",
+                "vi": "Cuộc tìm kiếm một thông điệp ẩn giấu tin là có trong Kinh Thánh lệ thuộc vào một bản văn tuyệt đối còn y nguyên."
+            }
+        },
+        {
+            "content": "không thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "The two programs have been improved, but their purpose remains unchanged.",
+                "vi": "Hai chương trình này đã được cải tiến nhưng mục đích của chúng vẫn không thay đổi."
+            }
+        },
+        {
+            "content": "không bị thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "Cooperation only lasts as long as the status quo is unchanged.",
+                "vi": "Thoả thuận này chỉ kéo dài được tới khi tình thế không bị thay đổi."
+            }
+        },
+        {
+            "content": "như cũ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

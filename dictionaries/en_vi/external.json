@@ -1,0 +1,68 @@
+{
+    "word": "external",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈstərnl/",
+            "/ɪkˈstərnl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈstəːn(ə)l/",
+            "/ɛkˈstəːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngoài",
+            "type": "adjective",
+            "example": {
+                "en": "Okay, her computer and external hard drives are missing.",
+                "vi": "Máy tính và ổ cứng ngoài của cô ta đều biến mất hết."
+            }
+        },
+        {
+            "content": "bên ngoài",
+            "type": "adjective",
+            "example": {
+                "en": "Within a society, external threats usually create group integrations.",
+                "vi": "Trong một xã hội, các mối đe dọa bên ngoài thường tạo tính liên hợp nhóm."
+            }
+        },
+        {
+            "content": "để dùng bên ngoài",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đối ngoại",
+            "type": "adjective",
+            "example": {
+                "en": "Financial accounting is concerned with external reporting to parties outside the firm .",
+                "vi": "Kế toán tài chính quan tâm đến việc báo cáo đối ngoại cho các bên ở ngoài doanh nghiệp ."
+            }
+        },
+        {
+            "content": "ở ngoài",
+            "type": "adjective",
+            "example": {
+                "en": "Financial accounting is concerned with external reporting to parties outside the firm .",
+                "vi": "Kế toán tài chính quan tâm đến việc báo cáo đối ngoại cho các bên ở ngoài doanh nghiệp ."
+            }
+        },
+        {
+            "content": "ngoại",
+            "type": "noun",
+            "example": {
+                "en": "The Hollow Man is motivated by external pressures.",
+                "vi": "Người rỗng tuếch được thúc đẩy bởi ngoại lực."
+            }
+        }
+    ]
+}

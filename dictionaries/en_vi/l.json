@@ -1,0 +1,50 @@
+{
+    "word": "l",
+    "type": [
+        "Letter",
+        "adjective",
+        "interjection",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/el/",
+            "/ɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "L",
+            "type": "Letter",
+            "example": {
+                "en": "There were no bullets in any of l-GRlPs'guns.",
+                "vi": "Chẳng có 1 viên đạn nào trong súng của bọn L-grip cả"
+            }
+        },
+        {
+            "content": "50",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật hình L",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tôi",
+            "type": "pronoun verb noun",
+            "example": {
+                "en": "Yeah, it's against the law where l come from, too.",
+                "vi": "Phải, điều đó cũng trái với luật ở chỗ tôi."
+            }
+        }
+    ]
+}

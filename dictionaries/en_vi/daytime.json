@@ -1,0 +1,43 @@
+{
+    "word": "daytime",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdāˌtīm/",
+            "/ˈdeɪˌtaɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪtʌɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ban ngày",
+            "type": "noun",
+            "example": {
+                "en": "Greta, nothing has ever happened to anyone in daytime.",
+                "vi": "Greta, không có chuyện gì xảy ra với ai vào ban ngày ban mặt cả."
+            }
+        },
+        {
+            "content": "ngày",
+            "type": "noun",
+            "example": {
+                "en": "Greta, nothing has ever happened to anyone in daytime.",
+                "vi": "Greta, không có chuyện gì xảy ra với ai vào ban ngày ban mặt cả."
+            }
+        },
+        {
+            "content": "日",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

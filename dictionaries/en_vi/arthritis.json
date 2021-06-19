@@ -1,0 +1,47 @@
+{
+    "word": "arthritis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ärˈTHrīdəs/",
+            "/ɑrˈθraɪdəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɑːˈθrʌɪtɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chứng viêm khớp",
+            "type": "noun",
+            "example": {
+                "en": "And it's not just aging that causes arthritis.",
+                "vi": "Không phải tuổi tác gây ra chứng viêm khớp."
+            }
+        },
+        {
+            "content": "phong thấp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viêm khớp",
+            "type": "",
+            "example": {
+                "en": "Most people with gout will experience repeated bouts of gouty arthritis over the years .",
+                "vi": "Hầu hết các bệnh nhân gút đều bị viêm khớp tái phát do gút trong nhiều năm ."
+            }
+        },
+        {
+            "content": "beänh vieâm khôùp xöông",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "hectare",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhekˌter/",
+            "/ˈhɛkˌtɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛktɛː/",
+            "/ˈhɛktɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hecta",
+            "type": "",
+            "example": {
+                "en": "That's over 1,000 hectares of the most fertile land for your men and their families to farm.",
+                "vi": "Hàng ngàn hecta đất cũng như là nông trại sẽ được chuyển cho các anh."
+            }
+        },
+        {
+            "content": "héc-ta",
+            "type": "noun",
+            "example": {
+                "en": "This is an area of about 50 million hectares.",
+                "vi": "Khu vực này có diện tích khoảng 50 triệu héc-ta."
+            }
+        },
+        {
+            "content": "héc ta",
+            "type": "",
+            "example": {
+                "en": "This is an area of about 50 million hectares.",
+                "vi": "Khu vực này có diện tích khoảng 50 triệu héc-ta."
+            }
+        }
+    ]
+}

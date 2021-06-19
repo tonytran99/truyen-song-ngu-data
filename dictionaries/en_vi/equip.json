@@ -1,0 +1,34 @@
+{
+    "word": "equip",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈkwip/",
+            "/əˈkwɪp/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈkwɪp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trang bị",
+            "type": "verb",
+            "example": {
+                "en": "The expedition was very well equipped with equipment and technology.",
+                "vi": "Cuộc thám hiểm được trang bị đầy đủ thiết bị và công nghệ."
+            }
+        },
+        {
+            "content": "trang bò",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

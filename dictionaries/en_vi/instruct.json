@@ -1,0 +1,88 @@
+{
+    "word": "instruct",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈstrəkt/",
+            "/ɪnˈstrəkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈstrʌkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chỉ dẫn",
+            "type": "",
+            "example": {
+                "en": "I left instructions to lower it slowly so we don't risk hypoperfusing his organs.",
+                "vi": "Tôi đã cho chỉ dẫn hạ từ từ để không gây hại đến nội tạng."
+            }
+        },
+        {
+            "content": "dạy",
+            "type": "verb",
+            "example": {
+                "en": "For example, for the children of preschool age, we kept the instruction fairly basic.",
+                "vi": "Thí dụ, đối với những đứa chưa đi học, chúng tôi giữ cho sự dạy dỗ giản dị."
+            }
+        },
+        {
+            "content": "hướng dẫn",
+            "type": "",
+            "example": {
+                "en": "If you want her back, then you will follow my instructions precisely.",
+                "vi": "Nếu anh muốn cứu cô ta. Thì hãy làm theo chính xác hướng dẫn của tôi."
+            }
+        },
+        {
+            "content": "cho biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho hay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỉ thị",
+            "type": "verb",
+            "example": {
+                "en": "I believe you were also instructed to avoid him too, Raymond.",
+                "vi": "Tôi tin là ông cũng được chỉ thị phải tránh anh ta, Raymond."
+            }
+        },
+        {
+            "content": "chỉ thị cho",
+            "type": "",
+            "example": {
+                "en": "I've instructed the staff to patrol the perimeter.",
+                "vi": "Tôi đã chỉ thị cho các giáo viên đi tuần tra ở vành ngoài."
+            }
+        },
+        {
+            "content": "huấn dụ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyền kiến thức cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đào tạo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

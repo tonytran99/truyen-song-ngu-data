@@ -1,0 +1,55 @@
+{
+    "word": "icy",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsē/",
+            "/ˈaɪsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lạnh lẽo",
+            "type": "adjective",
+            "example": {
+                "en": "I awoke in an icy cell without bread, water, or a blanket.",
+                "vi": "Tôi tỉnh lại trong một phòng giam lạnh lẽo không có bánh mì, nước uống hay chăn mền."
+            }
+        },
+        {
+            "content": "đóng băng",
+            "type": "",
+            "example": {
+                "en": "Would one of us have the nerve to dive into the icy water and save them?",
+                "vi": "Liệu ai trong chúng ta dám lặn xuống dòng nước đóng băng để cứu người?"
+            }
+        },
+        {
+            "content": "băng giá",
+            "type": "adjective",
+            "example": {
+                "en": "As soon as you step off the plane, you realize that you are in an icy climate.",
+                "vi": "Vừa xuống máy bay, bạn liền nhận ra mình đang ở trong vùng khí hậu băng giá."
+            }
+        },
+        {
+            "content": "có băng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phủ băng",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

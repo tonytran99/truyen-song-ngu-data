@@ -1,0 +1,38 @@
+{
+    "word": "devoid",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈvoid/",
+            "/dəˈvɔɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈvɔɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trống rỗng",
+            "type": "",
+            "example": {
+                "en": "I've known Jon long enough to see he isn't devoid of emotion.",
+                "vi": "Tôi biết Jon đủ lâu để hiểu rằng anh ta không có sự trống rỗng trong cảm xúc."
+            }
+        },
+        {
+            "content": "không có",
+            "type": "",
+            "example": {
+                "en": "A thief, physically capable, compulsively devious and utterly devoid of soul.",
+                "vi": "Một tên trộm, có năng lực thể chất, nghịch ngợm và hoàn toàn không có linh hồn."
+            }
+        }
+    ]
+}

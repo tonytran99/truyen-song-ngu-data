@@ -1,0 +1,46 @@
+{
+    "word": "fishmonger",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfiSHˌməNGɡər/",
+            "/ˈfɪʃˌməŋɡər/",
+            "/ˈfiSHˌmäNGɡər/",
+            "/ˈfɪʃˌmɑŋɡər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɪʃmʌŋɡə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bán cá",
+            "type": "noun",
+            "example": {
+                "en": "Do you trust fishmongers?",
+                "vi": "Bạn có tin vào người bán cá không?"
+            }
+        },
+        {
+            "content": "ngưởi bán cá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người buôn cá",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thuyền buôn cá",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

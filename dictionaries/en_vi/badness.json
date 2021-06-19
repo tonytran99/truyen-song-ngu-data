@@ -1,0 +1,42 @@
+{
+    "word": "badness",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadnəs/",
+            "/ˈbædnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbadnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự tồi",
+            "type": "",
+            "example": {
+                "en": "No, that sounds exactly as bad as it was.",
+                "vi": "Không, nó thực sự tồi tệ như vậy đấy."
+            }
+        },
+        {
+            "content": "sự xấu",
+            "type": "",
+            "example": {
+                "en": "But is the world system really that bad?",
+                "vi": "Nhưng hệ thống thế gian có thật sự xấu xa như vậy không?"
+            }
+        },
+        {
+            "content": "tính ác",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "gradual",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡraj(o͞o)əl/",
+            "/ˈɡrædʒ(u)əl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡradʒʊəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dần dần",
+            "type": "adjective",
+            "example": {
+                "en": "They then gradually work toward holding all five weekly congregation meetings.",
+                "vi": "Rồi họ dần dần sắp xếp để có cả năm buổi họp của hội thánh mỗi tuần."
+            }
+        },
+        {
+            "content": "từ từ",
+            "type": "adjective",
+            "example": {
+                "en": "Then gradually increase the amount you drink on subsequent occasions.",
+                "vi": "Rồi những lần sau, hãy từ từ uống nhiều hơn."
+            }
+        },
+        {
+            "content": "từng bước",
+            "type": "adjective",
+            "example": {
+                "en": "It's going to come gradually at first. It's going to pick up speed.",
+                "vi": "Ban đầu nó sẽ diễn ra từng bước một sau đó tăng tốc dần."
+            }
+        },
+        {
+            "content": "từng bước một",
+            "type": "",
+            "example": {
+                "en": "It's going to come gradually at first. It's going to pick up speed.",
+                "vi": "Ban đầu nó sẽ diễn ra từng bước một sau đó tăng tốc dần."
+            }
+        },
+        {
+            "content": "lần lần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiệm tiến",
+            "type": "",
+            "example": {
+                "en": "(Daniel 2:28) But he would do so gradually, progressively.",
+                "vi": "(Đa-ni-ên 2:28, Tòa Tổng Giám Mục) Nhưng Ngài tỏ lộ dần dần, một cách tiệm tiến."
+            }
+        },
+        {
+            "content": "tuần tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuần tự nhi tiến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "garrison",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡerəsən/",
+            "/ˈɡɛrəsən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡarɪs(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đóng quân",
+            "type": "",
+            "example": {
+                "en": "Did you think that a garrison on open ground would go undefended?",
+                "vi": "Mày nghĩ một đội quân đóng quân ở vùng đất trống mà không phòng bị hả?"
+            }
+        },
+        {
+            "content": "đơn vị đồn trú",
+            "type": "noun",
+            "example": {
+                "en": "But city garrisons can't stand up to them.",
+                "vi": "Nhưng các đơn vị đồn trú không thể chống lại được chúng."
+            }
+        },
+        {
+            "content": "đồn trại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "firing",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)riNG/",
+            "/ˈfaɪ(ə)rɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất đốt",
+            "type": "",
+            "example": {
+                "en": "Unless those enjoying the fire supply it with fuel, it will go out.",
+                "vi": "Họ phải thêm chất đốt, nếu không ngọn lửa sẽ tắt."
+            }
+        },
+        {
+            "content": "cuộc bắn",
+            "type": "",
+            "example": {
+                "en": "And the firing was indiscriminate.",
+                "vi": "Rồi cuộc bắn giết trở nên bừa bãi."
+            }
+        },
+        {
+            "content": "nhiên liệu",
+            "type": "noun",
+            "example": {
+                "en": "Is the wing on fire or is the spray on fire?",
+                "vi": "Chính xác là cánh máy bay bốc cháy hay là tia nhiên liệu phun ra từ cánh bốc cháy?"
+            }
+        },
+        {
+            "content": "sự bắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giật mình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nung gạch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đốt cháy",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự đốt lò",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "word": "imperative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈperədiv/",
+            "/əmˈpɛrədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈpɛrətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cấp bách",
+            "type": "",
+            "example": {
+                "en": "It is imperative that you release the antivirus before this occurs, or Umbrella will have won.",
+                "vi": "Thật cấp bách, cô phải phát tán kháng virus ngay... hoặc Umbrella sẽ thắng."
+            }
+        },
+        {
+            "content": "mệnh lệnh",
+            "type": "",
+            "example": {
+                "en": "May I suggest three imperatives for our consideration.",
+                "vi": "Tôi xin đề nghị ba mệnh lệnh để chúng ta xem xét."
+            }
+        },
+        {
+            "content": "bắt buộc",
+            "type": "noun",
+            "example": {
+                "en": "It's imperative you don't try to apprehend him alone.",
+                "vi": "Bắt buộc các cậu không được cố bắt giữ cậu ta một mình."
+            }
+        },
+        {
+            "content": "cưỡng bách",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cưỡng chế",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khẩn thiết",
+            "type": "",
+            "example": {
+                "en": "D&C 123:11: “It is an imperative duty that we owe to all the rising generation.”",
+                "vi": "GLGƯ 123:11: “Và đó cũng là một bổn phận khẩn thiết mà chúng ta cần phải có đối với tất cả thế hệ đang lên.”"
+            }
+        },
+        {
+            "content": "lối mệnh lệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhu cầu",
+            "type": "",
+            "example": {
+                "en": "I'm pretty sure biological imperative qualifies as medical sense.",
+                "vi": "Yên tâm là nhu cầu sinh lý cũng có ý nghĩa về y học nhé."
+            }
+        },
+        {
+            "content": "nhất thiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bắt buộc",
+            "type": "",
+            "example": {
+                "en": "and is not just a moral imperative.",
+                "vi": "và không chỉ là sự bắt buộc mang tính đạo đức."
+            }
+        }
+    ]
+}

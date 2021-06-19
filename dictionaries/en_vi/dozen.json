@@ -1,0 +1,79 @@
+{
+    "word": "dozen",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəzən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌz(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tá",
+            "type": "noun",
+            "example": {
+                "en": "They proved it a dozen different ways in court.",
+                "vi": "Họ đã chứng minh điều đó hàng tá cách trên tòa."
+            }
+        },
+        {
+            "content": "chục",
+            "type": "noun",
+            "example": {
+                "en": "I have seen you in dozens of countries and on every continent.",
+                "vi": "Tôi đã thấy các em trong hằng chục quốc gia và trên mỗi lục địa."
+            }
+        },
+        {
+            "content": "nhiều",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một chục",
+            "type": "noun",
+            "example": {
+                "en": "Your troops have killed over a dozen Palestinians in house raids.",
+                "vi": "Các cuộc đột kích của các bà đã khiến hơn một chục người Palestine thiệt mạng."
+            }
+        },
+        {
+            "content": "lố",
+            "type": "noun",
+            "example": {
+                "en": "This is three dozen for $ 5.99.",
+                "vi": "Đây là ba lố với giá 5 đô 99."
+            }
+        },
+        {
+            "content": "bộ 12 cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một tá",
+            "type": "",
+            "example": {
+                "en": "I'll send you a dozen shorts from the latest collection.",
+                "vi": "Tôi sẽ gởi cho cậu một tá quần lót trong bộ sưu tập mới nhất."
+            }
+        },
+        {
+            "content": "nửa tá",
+            "type": "",
+            "example": {
+                "en": "There are half a dozen kids going in there today.",
+                "vi": "Hôm nay có nửa tá đứa tới đó."
+            }
+        }
+    ]
+}

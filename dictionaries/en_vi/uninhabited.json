@@ -1,0 +1,47 @@
+{
+    "word": "uninhabited",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəninˈhabidəd/",
+            "/ˌənɪnˈhæbɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnɪnˈhabɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có người ở",
+            "type": "adjective",
+            "example": {
+                "en": "But moreover, I'd never lived on an uninhabited island.",
+                "vi": "Nhưng hơn thế nữa, tôi không bao giờ sống trên một hòn đảo không có người ở"
+            }
+        },
+        {
+            "content": "hoang",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bỏ hoang",
+            "type": "adjective",
+            "example": {
+                "en": "Their homeland is left uninhabited, desolated.",
+                "vi": "Quê hương của họ bị bỏ hoang, không người ở."
+            }
+        },
+        {
+            "content": "bỏ không",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

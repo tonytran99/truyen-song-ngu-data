@@ -1,0 +1,58 @@
+{
+    "word": "gasoline",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡasəˈlēn/",
+            "/ˌɡæsəˈlin/",
+            "/ˈɡasəlēn/",
+            "/ˈɡæsəlin/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡasəliːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xăng",
+            "type": "noun",
+            "example": {
+                "en": "This lawn mower runs on gasoline.",
+                "vi": "Cái máy cắt cỏ này chạy bằng xăng."
+            }
+        },
+        {
+            "content": "dầu xăng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "xăng dầu",
+            "type": "",
+            "example": {
+                "en": "Canadian cities, they consume half the gasoline of American cities.",
+                "vi": "Các thành phố Canada, họ tiêu thụ một nửa xăng dầu của các thành phố Mỹ."
+            }
+        },
+        {
+            "content": "dầu hoả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dầu lửa",
+            "type": "",
+            "example": {
+                "en": "A small pan of gasoline in the hands of my fellow worker ignited.",
+                "vi": "Một đồng nghiệp của tôi đang cầm một chảo nhỏ đựng dầu lửa, bỗng nhiên dầu bốc cháy."
+            }
+        }
+    ]
+}

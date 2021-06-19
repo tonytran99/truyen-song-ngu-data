@@ -1,0 +1,66 @@
+{
+    "word": "keynote",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌnōt/",
+            "/ˈkiˌnoʊt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːnəʊt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "âm chủ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ý chủ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chính",
+            "type": "adjective",
+            "example": {
+                "en": "It turns out I'm not giving the keynote tonight.",
+                "vi": "Hóa ra tối nay bố không phải người phát biểu chính."
+            }
+        },
+        {
+            "content": "chủ chốt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chủ đạo",
+            "type": "",
+            "example": {
+                "en": "and I had no opposition in having Tim Berners-Lee as the keynote speaker.",
+                "vi": "và tôi không hề phản đối việc Tim Berners-Lee là diễn giả chủ đạo."
+            }
+        },
+        {
+            "content": "nguyên tắc chủ đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "then chốt",
+            "type": "",
+            "example": {
+                "en": "The keynote at the next convention.",
+                "vi": "Vấn đề then chốt tại hội nghị lần tới."
+            }
+        }
+    ]
+}

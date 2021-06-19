@@ -1,0 +1,47 @@
+{
+    "word": "exculpate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈekskəlˌpāt/",
+            "/ˈɛkskəlˌpeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛkskʌlpeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bào chữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giải tội",
+            "type": "",
+            "example": {
+                "en": "There is no exculpation I expect of you.",
+                "vi": "Mình chẳng mong cậu sẽ giải tội cho."
+            }
+        },
+        {
+            "content": "gỡ tội",
+            "type": "",
+            "example": {
+                "en": "Your disdain for human interaction doesn't exculpate you, it inculpates you.",
+                "vi": "Sự khinh bỉ chuyện giao tiếp với người ta không gỡ tội cho anh mà buộc tội anh đấy."
+            }
+        },
+        {
+            "content": "tuyên bố vô tội",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

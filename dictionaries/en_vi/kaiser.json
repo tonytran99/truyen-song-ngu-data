@@ -1,0 +1,50 @@
+{
+    "word": "kaiser",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkīzər/",
+            "/ˈkaɪzər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌɪzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoàng đế",
+            "type": "noun",
+            "example": {
+                "en": "Boys, me and the kaiser want you back in time to march tomorrow.",
+                "vi": "Các bạn, tôi và Hoàng đế muốn các bạn trở về kịp giờ hành quân ngày mai."
+            }
+        },
+        {
+            "content": "vua Aó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vua Đức",
+            "type": "",
+            "example": {
+                "en": "Make the Kaiser rue the day he dared to cross swords with us.",
+                "vi": "Hãy khiến vua Đức hối hận ngày chúng dám tấn công chúng ta."
+            }
+        },
+        {
+            "content": "Kaiser",
+            "type": "",
+            "example": {
+                "en": "My orders are to assume immediate command of the Kaiser's personal bodyguards.",
+                "vi": "Tôi được lệnh đảm nhận vị trí chỉ huy đội cận vệ của ngài Kaiser."
+            }
+        }
+    ]
+}

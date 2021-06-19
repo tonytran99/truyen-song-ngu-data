@@ -1,0 +1,75 @@
+{
+    "word": "itch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iCH/",
+            "/ɪtʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngứa",
+            "type": "verb",
+            "example": {
+                "en": "My feet be itching ever since I got here.",
+                "vi": "Chân tao cứ ngứa từ khi tao vào đây."
+            }
+        },
+        {
+            "content": "sự ngứa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "rất mong muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghẻ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bệnh ghẻ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh ngứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho ngứa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm khó chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quấy rầy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sự rất mong muốn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

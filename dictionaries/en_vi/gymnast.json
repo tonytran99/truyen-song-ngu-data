@@ -1,0 +1,39 @@
+{
+    "word": "gymnast",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjimˌnast/",
+            "/ˈdʒɪmˌnæst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪmnast/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuyên viên thể dục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "huấn luyện viên thể dục",
+            "type": "",
+            "example": {
+                "en": "The Greek word Paul used literally means ‘having been trained like a gymnast.’",
+                "vi": "Từ Hy Lạp mà Phao-lô dùng có nghĩa đen là ‘được luyện tập giống như một huấn luyện viên thể dục’."
+            }
+        },
+        {
+            "content": "vận động viên thể dục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

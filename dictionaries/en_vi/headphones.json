@@ -1,0 +1,37 @@
+{
+    "word": "headphones",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedˌfōnz/",
+            "/ˈhɛdˌfoʊnz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdfəʊnz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tai nghe",
+            "type": "plural",
+            "example": {
+                "en": "But if you don't have that, maybe you can listen on your headphones.",
+                "vi": "Nếu không, bạn có thể nghe bằng tai nghe."
+            }
+        },
+        {
+            "content": "Tai nghe",
+            "type": "",
+            "example": {
+                "en": "But if you don't have that, maybe you can listen on your headphones.",
+                "vi": "Nếu không, bạn có thể nghe bằng tai nghe."
+            }
+        }
+    ]
+}

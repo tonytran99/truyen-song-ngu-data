@@ -1,0 +1,35 @@
+{
+    "word": "cain",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kān/",
+            "/keɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/keɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẻ giết anh em",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ sát nhân",
+            "type": "",
+            "example": {
+                "en": "But remember the first murderer, Cain.",
+                "vi": "Nhưng hãy nhớ lại trường hợp của kẻ sát nhân đầu tiên là Ca-in."
+            }
+        }
+    ]
+}

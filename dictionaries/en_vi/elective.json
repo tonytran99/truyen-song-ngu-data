@@ -1,0 +1,43 @@
+{
+    "word": "elective",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlektiv/",
+            "/əˈlɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có quyền bầu cử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dân cử",
+            "type": "",
+            "example": {
+                "en": "You're allowed to have an elected government, collect taxes,",
+                "vi": "Bạn được phép có một chính phủ dân cử, thu thuế,"
+            }
+        },
+        {
+            "content": "sự bầu cử",
+            "type": "",
+            "example": {
+                "en": "But the election magic doesn't stop there.",
+                "vi": "Nhưng sự bầu cử kỳ diệu không dừng lại ở đó."
+            }
+        }
+    ]
+}

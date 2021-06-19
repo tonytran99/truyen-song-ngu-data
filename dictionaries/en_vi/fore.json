@@ -1,0 +1,68 @@
+{
+    "word": "fore",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb",
+        "interjection",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fôr/",
+            "/fɔr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "before",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nùi tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đằng trước",
+            "type": "",
+            "example": {
+                "en": "Their hats should be creased fore and aft like a fedora.",
+                "vi": "Nón của họ cần phải bẻ lên đằng trước và đằng sau như một cái nón nỉ."
+            }
+        },
+        {
+            "content": "ở mũi tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở phía trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở đằng mũi tàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở đằng trước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

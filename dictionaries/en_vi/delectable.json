@@ -1,0 +1,40 @@
+{
+    "word": "delectable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈlektəb(ə)l/",
+            "/dəˈlɛktəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈlɛktəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khoái trá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngon lành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú vị",
+            "type": "adjective",
+            "example": {
+                "en": "Whatever it is, she smells most delectable.",
+                "vi": "Dù là mùi gì thì nó cũng rất thú vị."
+            }
+        }
+    ]
+}

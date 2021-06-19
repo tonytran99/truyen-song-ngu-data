@@ -1,0 +1,106 @@
+{
+    "word": "hungry",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəNGɡrē/",
+            "/ˈhəŋɡri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhʌŋɡri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đói",
+            "type": "noun",
+            "example": {
+                "en": "If you are hungry, why don't you eat?",
+                "vi": "Nếu ấy đói thì sao không ăn đi?"
+            }
+        },
+        {
+            "content": "đói bụng",
+            "type": "",
+            "example": {
+                "en": "Neither hungry nor full, neither in company nor alone.",
+                "vi": "Không đói bụng mà cũng không no bụng, không đi cùng ai mà cũng không đi một mình."
+            }
+        },
+        {
+            "content": "xấu",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cảm thấy đói",
+            "type": "",
+            "example": {
+                "en": "He can't feel even that he's hungry or tired.",
+                "vi": "Anh ta thậm chí không thể cảm thấy đói hay mệt mỏi."
+            }
+        },
+        {
+            "content": "gợi thèm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ham muốn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khao khát",
+            "type": "",
+            "example": {
+                "en": "So, it means you came across that bridge every day hungry to succeed.",
+                "vi": "Vậy có nghĩa mỗi ngày cậu khao khát thành công."
+            }
+        },
+        {
+            "content": "khô cằn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho thấy đói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ra vẻ đói ăn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thèm khát",
+            "type": "",
+            "example": {
+                "en": "And what was the objective of this battle-hungry sanitation vehicle?",
+                "vi": "Và mục tiêu của phương tiện vệ sinh thèm khát chiến tranh này là gì?"
+            }
+        },
+        {
+            "content": "cơ",
+            "type": "noun adjective Suffix",
+            "example": {}
+        },
+        {
+            "content": "đợi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đóilòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

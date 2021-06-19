@@ -1,0 +1,63 @@
+{
+    "word": "fang",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faNG/",
+            "/fæŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/faŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "răng nanh",
+            "type": "noun",
+            "example": {
+                "en": "As their fangs despoiled your daughter's pure flesh.",
+                "vi": "Khi răng nanh chúng lóc từng miếng thịt tươi của con gái ngươi."
+            }
+        },
+        {
+            "content": "răng nọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chân răng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cái chuôi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "răng móc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nanh",
+            "type": "",
+            "example": {
+                "en": "As their fangs despoiled your daughter's pure flesh.",
+                "vi": "Khi răng nanh chúng lóc từng miếng thịt tươi của con gái ngươi."
+            }
+        }
+    ]
+}

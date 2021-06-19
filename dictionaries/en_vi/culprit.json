@@ -1,0 +1,53 @@
+{
+    "word": "culprit",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkəlprət/",
+            "/ˈkəlˌprit/",
+            "/ˈkəlˌprɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkʌlprɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thủ phạm",
+            "type": "noun",
+            "example": {
+                "en": "Four decades later the culprit most likely to maim children is the land mine.",
+                "vi": "Bốn thập niên sau, thủ phạm chính thường làm thương tật trẻ em là mìn."
+            }
+        },
+        {
+            "content": "bị cáo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kẻ có tội",
+            "type": "",
+            "example": {
+                "en": "Hello, this man is obviously the culprit here.",
+                "vi": "Xin chào, gã này rõ ràng là kẻ có tội ở đây."
+            }
+        },
+        {
+            "content": "người phạm tội",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phạm nhân",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

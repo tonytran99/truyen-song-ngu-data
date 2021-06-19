@@ -1,0 +1,36 @@
+{
+    "word": "hick",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hik/",
+            "/hɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân quê",
+            "type": "",
+            "example": {
+                "en": "Watch who you callin'a hick!",
+                "vi": "Coi chừng, anh gọi ai là dân quê mùa?"
+            }
+        },
+        {
+            "content": "dân tỉnh nhỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "cheesecake",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHēzˌkāk/",
+            "/ˈtʃizˌkeɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃiːzkeɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh pho mát",
+            "type": "",
+            "example": {
+                "en": "And in cheesecake and all kinds of desserts,",
+                "vi": "Và trong bánh pho mát và đủ món tráng miệng,"
+            }
+        },
+        {
+            "content": "bánh kem",
+            "type": "noun",
+            "example": {
+                "en": "Brought you cheesecake from work.",
+                "vi": "tôi mang bánh kem từ chỗ làm cho anh nè"
+            }
+        },
+        {
+            "content": "bánh kem phó mát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bánh pho mát",
+            "type": "",
+            "example": {
+                "en": "Cheesecake and a date, if you're giving them out.",
+                "vi": "Bánh pho mát và một cuộc hẹn, nếu cô bán thứ đó."
+            }
+        }
+    ]
+}

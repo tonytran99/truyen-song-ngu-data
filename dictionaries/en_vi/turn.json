@@ -1,0 +1,691 @@
+{
+    "word": "turn",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tərn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/təːn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quẹo",
+            "type": "verb",
+            "example": {
+                "en": "Did you see how he turned the helicopter?",
+                "vi": "Thấy hắn quẹo chiếc trực thăng thế nào không?"
+            }
+        },
+        {
+            "content": "quay",
+            "type": "verb",
+            "example": {
+                "en": "That man was standing a little ways away, but he turned when he heard Tom shout.",
+                "vi": "Người đàn ông đó đứng cách xa một chút nhưng ông ta quay lại khi nghe thấy Tôm hét to."
+            }
+        },
+        {
+            "content": "xoay",
+            "type": "verb",
+            "example": {
+                "en": "Turn the light over here, will you?",
+                "vi": "Xoay đèn lại hướng này giùm."
+            }
+        },
+        {
+            "content": "lượt",
+            "type": "noun",
+            "example": {
+                "en": "Interpreters do not translate turn by turn.",
+                "vi": "Những thông dịch viên không dịch lần lượt."
+            }
+        },
+        {
+            "content": "rẽ",
+            "type": "verb",
+            "example": {
+                "en": "Walk along the street and turn left at the third intersection.",
+                "vi": "Đi dọc theo con phố và rẽ trái ở nút giao thứ ba."
+            }
+        },
+        {
+            "content": "trở nên",
+            "type": "verb",
+            "example": {
+                "en": "And it has turned into just absolute mayhem.",
+                "vi": "Và mọi chuyện đang dần trở nên hỗn loạn."
+            }
+        },
+        {
+            "content": "trở",
+            "type": "verb",
+            "example": {
+                "en": "All that glory would suddenly turn to shame and foolishness.",
+                "vi": "Và mọi vinh quang đó sẽ trở thành nỗi xấu hổ và tủi nhục."
+            }
+        },
+        {
+            "content": "phiên",
+            "type": "noun",
+            "example": {
+                "en": "They drove the car by turns.",
+                "vi": "Họ luân phiên lái xe."
+            }
+        },
+        {
+            "content": "dịch",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "quành",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "trở thành",
+            "type": "verb",
+            "example": {
+                "en": "All that glory would suddenly turn to shame and foolishness.",
+                "vi": "Và mọi vinh quang đó sẽ trở thành nỗi xấu hổ và tủi nhục."
+            }
+        },
+        {
+            "content": "biến",
+            "type": "verb noun",
+            "example": {
+                "en": "Our trip to Africa is turning into a catastrophe.",
+                "vi": "Chuyến đi đến châu Phi của chúng biến thành một thảm hoạ."
+            }
+        },
+        {
+            "content": "chuyển",
+            "type": "verb",
+            "example": {
+                "en": "The leaves turn red in the fall.",
+                "vi": "Lá chuyển sang màu đỏ vào mùa thu."
+            }
+        },
+        {
+            "content": "lật",
+            "type": "",
+            "example": {
+                "en": "If they do not match, turn them back over.",
+                "vi": "Nếu các tờ giấy so không tương xứng với nhau, lật úp chúng lại."
+            }
+        },
+        {
+            "content": "vặn",
+            "type": "",
+            "example": {
+                "en": "Turn down the volume, please.",
+                "vi": "Làm ơn, vặn nhỏ loa xuống."
+            }
+        },
+        {
+            "content": "ngoặt",
+            "type": "",
+            "example": {
+                "en": "What then happened would be a turning point in her life forever.",
+                "vi": "Điều xảy ra lúc đó sẽ là một khúc ngoặt trong đời chị mãi mãi."
+            }
+        },
+        {
+            "content": "lộn",
+            "type": "verb",
+            "example": {
+                "en": "Maybe I can turn this thing around before she gets in the loop.",
+                "vi": "Có thể tôi sẽ đảo lộn vài thứ trước khi bà ấy nhúng tay vào chuyện này."
+            }
+        },
+        {
+            "content": "gạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "biến thành",
+            "type": "",
+            "example": {
+                "en": "Our trip to Africa is turning into a catastrophe.",
+                "vi": "Chuyến đi đến châu Phi của chúng biến thành một thảm hoạ."
+            }
+        },
+        {
+            "content": "quay về",
+            "type": "",
+            "example": {
+                "en": "We didn't turn back, and we're not going to.",
+                "vi": "Mình không quay về, và sẽ không quay về."
+            }
+        },
+        {
+            "content": "sự quay",
+            "type": "",
+            "example": {
+                "en": "Turns out that it's not that difficult once you dive right into it.",
+                "vi": "Những sự quay trở về không phải là khó Vấn đề là làm nó như thế nào."
+            }
+        },
+        {
+            "content": "sự rẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng xoắn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổi hướng",
+            "type": "",
+            "example": {
+                "en": "The wind may turn, but the animal will always turn its nose into the wind.",
+                "vi": "Gió có thể đổi hướng, nhưng con vật cũng sẽ xoay mũi về hướng gió."
+            }
+        },
+        {
+            "content": "đổi",
+            "type": "verb",
+            "example": {
+                "en": "Well, look, I mean the tide is definitely turning.",
+                "vi": "Vâng, cuối cùng thì tình hình đã thay đổi."
+            }
+        },
+        {
+            "content": "giở",
+            "type": "",
+            "example": {
+                "en": "He turns, it won't just bring Fisk down.",
+                "vi": "Hắn mà giở mặt là không chỉ mỗi hạ bệ được Fisk đâu."
+            }
+        },
+        {
+            "content": "khúc cua",
+            "type": "noun",
+            "example": {
+                "en": "They leave the starting grid, going into turn one.",
+                "vi": "Họ đang xuất phát, tiến tới khúc cua đầu tiên."
+            }
+        },
+        {
+            "content": "khúc quanh",
+            "type": "noun",
+            "example": {
+                "en": "The book Deliverance, however, marked a turning point.",
+                "vi": "Tuy nhiên cuốn sách Deliverance là một khúc quanh cho đời tôi."
+            }
+        },
+        {
+            "content": "quay về phía",
+            "type": "",
+            "example": {
+                "en": "A man who turns towards me and smiles.",
+                "vi": "Một người đàn ông quay về phía tôi và mỉm cười."
+            }
+        },
+        {
+            "content": "tập trung",
+            "type": "",
+            "example": {
+                "en": "Distractions may turn our attention away from what is being said.",
+                "vi": "Chúng ta có thể bị phân tâm mà không tập trung tư tưởng vào lời giảng."
+            }
+        },
+        {
+            "content": "đổi màu",
+            "type": "",
+            "example": {
+                "en": "Just turned blue so I went to the doctor.",
+                "vi": "Nó đổi màu xanh nên em đi bác sĩ."
+            }
+        },
+        {
+            "content": "lần",
+            "type": "noun",
+            "example": {
+                "en": "This nobody still outfoxed you at every turn.",
+                "vi": "Thằng vô danh này lần nào cũng qua mặt được cô đấy."
+            }
+        },
+        {
+            "content": "day",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đâm",
+            "type": "verb",
+            "example": {
+                "en": "Immediately after the bird strike they are turning back for the airport.",
+                "vi": "Ngay sau khi chim đâm vào họ đã quay về sân bay."
+            }
+        },
+        {
+            "content": "dở",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "tiện",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngoắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tránh",
+            "type": "verb",
+            "example": {
+                "en": "Having the desire to enter the temple in the future can help you turn away from temptation today.",
+                "vi": "Việc có ước muốn vào đền thờ trong tương lai có thể giúp các em tránh xa cám dỗ ngày nay."
+            }
+        },
+        {
+            "content": "lân",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "phen",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cú",
+            "type": "interjection noun",
+            "example": {}
+        },
+        {
+            "content": "quá",
+            "type": "adjective verb",
+            "example": {
+                "en": "She feels guilty for turning us into latchkey kids.",
+                "vi": "Chị ấy thấy hối hận vì đã để chúng ta quá tự do."
+            }
+        },
+        {
+            "content": "vố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quặt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nấc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bận",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "chầu",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "buồn mửa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "buồn nôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chiều hướng",
+            "type": "",
+            "example": {
+                "en": "They indicate a turning inward on oneself, a state of depression.",
+                "vi": "Nó diễn tả chiều hướng nội tâm của một người, một tình trạng suy nhược."
+            }
+        },
+        {
+            "content": "chỗ ngoặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ rẽ",
+            "type": "",
+            "example": {
+                "en": "Rather, there will be forks and turnings in the road, to say nothing of the unanticipated bumps.",
+                "vi": "Thay vì thế, sẽ có những ngã ba đường và chỗ rẽ trên đường, chưa kể đến những ổ gà bất ngờ."
+            }
+        },
+        {
+            "content": "chữ sắp ngược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách đối đãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể tiện được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dự kiến",
+            "type": "",
+            "example": {
+                "en": "turned out to be less comprehensive than envisaged,",
+                "vi": "hóa ra ít toàn diện hơn so với dự kiến"
+            }
+        },
+        {
+            "content": "hoa lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hành vi",
+            "type": "",
+            "example": {
+                "en": "To what conduct were wicked priests turning a blind eye?",
+                "vi": "Các thầy tế lễ tội lỗi nhắm mắt làm ngơ trước hành vi nào?"
+            }
+        },
+        {
+            "content": "hành động",
+            "type": "verb noun",
+            "example": {
+                "en": "We have to turn that anger into action.",
+                "vi": "Chúng ta phải biến giận dữ thành hành động."
+            }
+        },
+        {
+            "content": "hướng về",
+            "type": "",
+            "example": {
+                "en": "I turned to the face in the mirror .",
+                "vi": "Tôi hướng về khuôn mặt trong gương ."
+            }
+        },
+        {
+            "content": "khuynh hướng",
+            "type": "",
+            "example": {
+                "en": "Resist the temptation to turn your head in the direction of every noise or movement.",
+                "vi": "Hãy cưỡng lại khuynh hướng quay đầu nhìn về phía có tiếng ồn hay cử động."
+            }
+        },
+        {
+            "content": "làm buồn nôn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho",
+            "type": "verb",
+            "example": {
+                "en": "That ought to turn them back into us.",
+                "vi": "Vậy sẽ làm cho họ quay lại phía chúng ta."
+            }
+        },
+        {
+            "content": "làm chua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm hoa lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm khó chịu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm say sưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm điên cuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lợm giọng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mục đích",
+            "type": "noun",
+            "example": {
+                "en": "this guy, Plato, it turns out he's a designer.",
+                "vi": "Ví dụ như Plato, một nhà triết gia đầy mục đích."
+            }
+        },
+        {
+            "content": "ngoảnh về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "năng khiếu",
+            "type": "",
+            "example": {
+                "en": "And you turned down a scholarship at the Oaks... a school specializing in the education of gifted children?",
+                "vi": "Và anh từ chối học bổng ở Oaks... một trường chuyên đào tạo trẻ em có năng khiếu?"
+            }
+        },
+        {
+            "content": "quay cuồng",
+            "type": "",
+            "example": {
+                "en": "that still point of the turning world.",
+                "vi": "điểm đứng yên trong thế giới quay cuồng."
+            }
+        },
+        {
+            "content": "sinh ra",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sắp xếp",
+            "type": "verb",
+            "example": {
+                "en": "How you turned his ramblings into something vaguely coherent.",
+                "vi": "Làm thế nào cậu sắp xếp các thứ hỗn độn một cách mạch lạc?"
+            }
+        },
+        {
+            "content": "sắp đặt",
+            "type": "",
+            "example": {
+                "en": "'Cause I'm proud to be with her, and things turned out as planned.",
+                "vi": "Bởi ở bên cô ấy tôi thật tự hào, và mọi chuyện giống như đã được sắp đặt."
+            }
+        },
+        {
+            "content": "sự diễn biến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thay đổi",
+            "type": "",
+            "example": {
+                "en": "Ultimately, life on all grasslands depends on the turn of the seasons.",
+                "vi": "Rốt cuộc, cuộc sống trên tất cả đồng cỏ phụ thuộc vào sự thay đổi của mùa."
+            }
+        },
+        {
+            "content": "sự xúc động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự đổi hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thiên hướng",
+            "type": "",
+            "example": {
+                "en": "They alone have the capacity to turn to the sun to capture its energy.",
+                "vi": "Chúng chỉ có thiên hướng hấp thụ năng lượng Mặt Trời."
+            }
+        },
+        {
+            "content": "thành chua",
+            "type": "",
+            "example": {
+                "en": "14 His food will turn sour inside him;",
+                "vi": "14 Đồ ăn sẽ thành chua chát trong mình hắn;"
+            }
+        },
+        {
+            "content": "tiết mục",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tâm tính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính khí",
+            "type": "",
+            "example": {
+                "en": "The mood of the people, sire, it's turning ugly.",
+                "vi": "Tính khí của mọi người, thưa Ngài, nó ngày càng xấu đi."
+            }
+        },
+        {
+            "content": "vòng cuộn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng quay",
+            "type": "",
+            "example": {
+                "en": "Three turns should do it, I think.",
+                "vi": "Ba vòng quay là đủ rồi, ta nghĩ thế."
+            }
+        },
+        {
+            "content": "xoay tròn",
+            "type": "",
+            "example": {
+                "en": "And finally, we can also do turning very nicely",
+                "vi": "Chúng tôi có thể làm cho nó xoay tròn rất đẹp,"
+            }
+        },
+        {
+            "content": "ý định",
+            "type": "",
+            "example": {
+                "en": "I turned down the idea of going for a walk and stayed at home.",
+                "vi": "Tôi gạt bỏ ý định đi dạo, và ở lại nhà."
+            }
+        },
+        {
+            "content": "đi quanh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi vòng rẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi về",
+            "type": "",
+            "example": {
+                "en": "Then we'll turn southwest and head for Mexico.",
+                "vi": "Vậy chúng ta sẽ theo hướng tây nam đi về Mexico."
+            }
+        },
+        {
+            "content": "đâm ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đổi chiều",
+            "type": "",
+            "example": {
+                "en": "It seems the tables have turned again, Dr. Evil.",
+                "vi": "Có vẻ hoàn cảnh đã đổi chiều lần nữa, Bác sĩ Evil."
+            }
+        },
+        {
+            "content": "đổi thành",
+            "type": "",
+            "example": {
+                "en": "During the pupal stage, the caterpillar begins to turn into a butterfly.",
+                "vi": "Trong giai đoạn nhộng, sâu bắt đầu đổi thành bướm."
+            }
+        },
+        {
+            "content": "trao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn",
+            "type": "noun",
+            "example": {
+                "en": "He can turn back time.",
+                "vi": "Lão Tây Dương này có bàn tay hồi xuân à."
+            }
+        },
+        {
+            "content": "hóa chua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi dạo",
+            "type": "",
+            "example": {
+                "en": "We took a turn around the city in our car.",
+                "vi": "Chúng tôi đi dạo một vòng quanh thành phố bằng xe hơi."
+            }
+        }
+    ]
+}

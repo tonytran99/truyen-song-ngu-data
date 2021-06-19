@@ -1,0 +1,77 @@
+{
+    "word": "concerning",
+    "type": [
+        "adjective",
+        "noun",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsərniNG/",
+            "/kənˈsərnɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈsəːnɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "về việc",
+            "type": "adverb",
+            "example": {
+                "en": "Isaac Reiter became a living sermon concerning honoring the priesthood.",
+                "vi": "Isaac Reiter đã trở thành một bài học sống về việc làm vinh hiển chức tư tế."
+            }
+        },
+        {
+            "content": "lieân quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên quan đến",
+            "type": "adverb",
+            "example": {
+                "en": "In his Word much space is devoted to instructions concerning family relationships.",
+                "vi": "Lời Ngài chứa đựng nhiều sự chỉ dẫn liên quan đến các mối liên hệ gia đình."
+            }
+        },
+        {
+            "content": "lo lắng",
+            "type": "adjective",
+            "example": {
+                "en": "It would certainly be understandable if she felt concern —or even impatience.",
+                "vi": "Nếu bà lo lắng hay thậm chí mất kiên nhẫn thì cũng là điều dễ hiểu."
+            }
+        },
+        {
+            "content": "lo ngại",
+            "type": "adjective",
+            "example": {
+                "en": "And this makes the political system still a very big concern.",
+                "vi": "Chính điều này làm hệ thống chính trị trở thành một mối lo ngại rất lớn."
+            }
+        },
+        {
+            "content": "quan tâm",
+            "type": "adjective",
+            "example": {
+                "en": "So, when you say you're concerned about him, you actually are concerned?",
+                "vi": "Vậy, khi anh nói anh quan tâm đến anh ấy Anh thực sự quan tâm?"
+            }
+        },
+        {
+            "content": "về",
+            "type": "verb",
+            "example": {
+                "en": "I saw there was no reason for my concern and left.",
+                "vi": "Tôi thấy không lý do nào phải lo lắng nên tôi về."
+            }
+        }
+    ]
+}

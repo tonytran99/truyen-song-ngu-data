@@ -1,0 +1,46 @@
+{
+    "word": "gourmet",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɡôrˈmā/",
+            "/ˌɡɔrˈmeɪ/",
+            "/ˌɡo͝orˈmā/",
+            "/ˌɡʊrˈmeɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡʊəmeɪ/",
+            "/ˈɡɔːmeɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người sành ăn",
+            "type": "",
+            "example": {
+                "en": "I want to start a sustainable gourmet shop, okay?",
+                "vi": "Anh muốn mở 1 cửa hàng dành cho người sành ăn"
+            }
+        },
+        {
+            "content": "người sành rượu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sành ăn",
+            "type": "",
+            "example": {
+                "en": "Looks like we have a gourmet leopard on our hands.",
+                "vi": "Có vẻ như mình có một con báo sành ăn ở đây."
+            }
+        }
+    ]
+}

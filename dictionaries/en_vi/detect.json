@@ -1,0 +1,99 @@
+{
+    "word": "detect",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈtekt/",
+            "/dəˈtɛkt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈtɛkt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát hiện",
+            "type": "",
+            "example": {
+                "en": "I learned how to effectively communicate across borders without being detected.",
+                "vi": "Tôi học cách liên lạc hiệu quả xuyên biên giới mà không bị phát hiện."
+            }
+        },
+        {
+            "content": "tìm ra",
+            "type": "",
+            "example": {
+                "en": "This can detect and locate signals the Drakenbal broadcasts.",
+                "vi": "Nó có thể tìm ra sự xuất hiện của những viên ngọc"
+            }
+        },
+        {
+            "content": "tìm",
+            "type": "verb",
+            "example": {
+                "en": "These devices were made to detect anomalies, not cause them.",
+                "vi": "Thiết bị này dùng để dò tìm chứ không phải tạo ra điểm dị thường."
+            }
+        },
+        {
+            "content": "dò",
+            "type": "",
+            "example": {
+                "en": "These devices were made to detect anomalies, not cause them.",
+                "vi": "Thiết bị này dùng để dò tìm chứ không phải tạo ra điểm dị thường."
+            }
+        },
+        {
+            "content": "dò ra",
+            "type": "",
+            "example": {
+                "en": "Gideon, are you able to detect the Professor's life functions remotely?",
+                "vi": "cô có thể dò ra... ảnh hưởng từ mạng sống của Giáo sư từ xa được không?"
+            }
+        },
+        {
+            "content": "khám phá ra",
+            "type": "",
+            "example": {
+                "en": "We need women who can detect deception in all of its forms.",
+                "vi": "Chúng ta cần những người phụ nữ có thể khám phá ra sự lừa dối trong mọi hình thức của nó."
+            }
+        },
+        {
+            "content": "nhận ra",
+            "type": "",
+            "example": {
+                "en": "May I inquire as to how you've avoided detection?",
+                "vi": "Cho phép tôi hỏi cô tránh bị nhận ra thế nào?"
+            }
+        },
+        {
+            "content": "nhận thấy",
+            "type": "",
+            "example": {
+                "en": "As I detect that you've recently changed the brand of soap with which you shave.",
+                "vi": "Em nhận thấy có sự thay đổi trong loại xà bông anh dùng cao râu."
+            }
+        },
+        {
+            "content": "phát hiện ra",
+            "type": "",
+            "example": {
+                "en": "Once it 's under control , it 's usually impossible to detect .",
+                "vi": "Khi đã kiểm soát được gàu thì thường người ta không dễ phát hiện ra nó ."
+            }
+        },
+        {
+            "content": "tách sóng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

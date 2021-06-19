@@ -1,0 +1,86 @@
+{
+    "word": "early",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈərlē/",
+            "/ˈərli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəːli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sớm",
+            "type": "adjective",
+            "example": {
+                "en": "She found it necessary to accustom her child to getting up early.",
+                "vi": "Cô ấy nhận ra điều cần thiết là tập cho bọn trẻ của cô ấy thức dậy sớm."
+            }
+        },
+        {
+            "content": "ban đầu",
+            "type": "adjective",
+            "example": {
+                "en": "Enter PageRank, one of the early cornerstones of Google.",
+                "vi": "một trong những nền tảng ban đầu của Google."
+            }
+        },
+        {
+            "content": "đầu mùa",
+            "type": "adjective",
+            "example": {
+                "en": "Like the first of the early figs on a fig tree I saw your forefathers.",
+                "vi": "Ta thấy tổ phụ các ngươi như trái vả đầu mùa trên cây."
+            }
+        },
+        {
+            "content": "đầu",
+            "type": "noun",
+            "example": {
+                "en": "Tom got up early in order to catch the first train.",
+                "vi": "Tôm đã dậy sớm để bắt chuyến tàu đầu tiên."
+            }
+        },
+        {
+            "content": "gần đây",
+            "type": "adverb",
+            "example": {
+                "en": "Newer concepts and early testing now",
+                "vi": "một khái niệm mới và sự thử nghiệm gần đây"
+            }
+        },
+        {
+            "content": "ở lúc ban đầu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở đầu mùa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tảo",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhanh chóng",
+            "type": "",
+            "example": {
+                "en": "We'd better get ready early because the train won't wait.",
+                "vi": "Tốt hơn là mình nên nhanh chóng chuẩn bị cho xong vì mưa không đợi ai đâu."
+            }
+        }
+    ]
+}

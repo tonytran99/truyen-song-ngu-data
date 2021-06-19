@@ -1,0 +1,38 @@
+{
+    "word": "contaminated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtaməˌnādəd/",
+            "/kənˈtæməˌneɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈtamɪneɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị nhiễm",
+            "type": "adjective",
+            "example": {
+                "en": "This rice is contaminated by arsenic.",
+                "vi": "Gạo này đã bị nhiễm độc asen."
+            }
+        },
+        {
+            "content": "nhiễm bẩn",
+            "type": "adjective",
+            "example": {
+                "en": "Perhaps a contaminant from the water altered the process.",
+                "vi": "Có lẽ sự nhiễm bẩn từ dòng nước làm thay đổi quá trình."
+            }
+        }
+    ]
+}

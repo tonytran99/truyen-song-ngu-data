@@ -1,0 +1,66 @@
+{
+    "word": "discrepant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/disˈkrep(ə)nt/",
+            "/dɪsˈkrɛp(ə)nt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈskrɛpənt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "However, officials now attribute the discrepancy to a simple clerical error.",
+                "vi": "Tuy nhiên, giới chức vẫn có ý kiến khác nhau... Cho một lỗi nghiệp vụ trong việc này."
+            }
+        },
+        {
+            "content": "không nhất quán",
+            "type": "",
+            "example": {
+                "en": "There's no discrepancy or a problem.",
+                "vi": "Chẳng có sự không nhất quán hay vấn đề gì cả."
+            }
+        },
+        {
+            "content": "không phù hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thống nhất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân kỳ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trái ngược nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mâu thuẫn",
+            "type": "noun",
+            "example": {
+                "en": "If there's a discrepancy to be found in an application, the six of them will find it.",
+                "vi": "Nếu như có những mâu thuẫn được tìm thấy trong một lá đơn, sáu trong số họ sẽ tìm ra nó."
+            }
+        }
+    ]
+}

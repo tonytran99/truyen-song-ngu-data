@@ -1,0 +1,81 @@
+{
+    "word": "grunt",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrʌnt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "càu nhàu",
+            "type": "verb",
+            "example": {
+                "en": "Is it an animal that grunts and growls?",
+                "vi": "Là con thú hay cằn nhằn và càu nhàu đây?"
+            }
+        },
+        {
+            "content": "cằn nhằn",
+            "type": "verb",
+            "example": {
+                "en": "Is it an animal that grunts and growls?",
+                "vi": "Là con thú hay cằn nhằn và càu nhàu đây?"
+            }
+        },
+        {
+            "content": "ịt",
+            "type": "verb",
+            "example": {
+                "en": "He's made a fortune by grunting like a pig.",
+                "vi": "Hắn đã kiếm được cả một gia tài bằng cách kêu ụt ịt như một con heo."
+            }
+        },
+        {
+            "content": "lẩm bẩm",
+            "type": "",
+            "example": {
+                "en": "I'm sitting here making grunting sounds basically,",
+                "vi": "Tôi đang ngồi đây nói ra những tiếng lẩm bẩm,"
+            }
+        },
+        {
+            "content": "tiếng càu nhàu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng cằn nhằn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tiếng kêu ủn ỉn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng lẩm bẩm",
+            "type": "",
+            "example": {
+                "en": "I'm sitting here making grunting sounds basically,",
+                "vi": "Tôi đang ngồi đây nói ra những tiếng lẩm bẩm,"
+            }
+        },
+        {
+            "content": "ủn ỉn",
+            "type": "interjection",
+            "example": {}
+        }
+    ]
+}

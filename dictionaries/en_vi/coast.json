@@ -1,0 +1,97 @@
+{
+    "word": "coast",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōst/",
+            "/koʊst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bờ biển",
+            "type": "noun",
+            "example": {
+                "en": "I'm from the West Coast.",
+                "vi": "Tôi đến từ bờ biển phía tây."
+            }
+        },
+        {
+            "content": "sự lao dốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự lao xuống",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đường lao",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bờ bến",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "duyên hải",
+            "type": "noun",
+            "example": {
+                "en": "This place right here has more shoreline... than the whole coast of California.",
+                "vi": "Nơi này có nhiều bờ biển hơn toàn vùng duyên hải California."
+            }
+        },
+        {
+            "content": "lao xuống",
+            "type": "",
+            "example": {
+                "en": "It would coast downhill, but it had to be pushed uphill.",
+                "vi": "Nó lao xuống dốc nhưng vẫn cần phải được đẩy khi lên dốc."
+            }
+        },
+        {
+            "content": "thả cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trượt xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ven biển",
+            "type": "noun",
+            "example": {
+                "en": "Airports around the world are located on the coast.",
+                "vi": "Có nhiều sân bay trên thế giới nằm ở ven biển,"
+            }
+        },
+        {
+            "content": "đi men bờ biển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Bờ biển",
+            "type": "",
+            "example": {
+                "en": "I'm from the West Coast.",
+                "vi": "Tôi đến từ bờ biển phía tây."
+            }
+        }
+    ]
+}

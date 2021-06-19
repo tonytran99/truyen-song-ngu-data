@@ -1,0 +1,68 @@
+{
+    "word": "hectic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhektik/",
+            "/ˈhɛktɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛktɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bận rộn",
+            "type": "adjective",
+            "example": {
+                "en": "Others lead hectic lives and have little time to spare.",
+                "vi": "Những người khác thì rất bận rộn, ít có thì giờ rảnh."
+            }
+        },
+        {
+            "content": "cuồng nhiệt",
+            "type": "",
+            "example": {
+                "en": "I also continued to smoke and drink, and I maintained a hectic social life.",
+                "vi": "Tôi vẫn hút thuốc, uống rượu và ăn chơi cuồng nhiệt."
+            }
+        },
+        {
+            "content": "lao phổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mắc bệnh lao phổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ráo riết",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "say sưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sôi nổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sốt lao phổi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

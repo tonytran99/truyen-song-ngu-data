@@ -1,0 +1,42 @@
+{
+    "word": "democratize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈmäkrəˌtīz/",
+            "/dəˈmɑkrəˌtaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈmɒkrətʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dân chủ hoá",
+            "type": "",
+            "example": {
+                "en": "In short, the tech companies have democratized encryption.",
+                "vi": "Tóm lại, những công ty công nghệ đã dân chủ hoá việc mã hoá."
+            }
+        },
+        {
+            "content": "民主化",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dân chủ hóa",
+            "type": "",
+            "example": {
+                "en": "And technology democratized music by making everything available.",
+                "vi": "Và công nghệ dân chủ hóa âm nhạc bằng cách làm cho tất cả mọi thứ có sẵn."
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "flax",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flaks/",
+            "/flæks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flaks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gai",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cây lanh",
+            "type": "",
+            "example": {
+                "en": "She had the spies hide among stalks of flax that were laid out to dry on the flat roof of her house.",
+                "vi": "Bà giấu hai do thám dưới những thân cây lanh đang phơi trên mái nhà."
+            }
+        },
+        {
+            "content": "sợi lanh",
+            "type": "",
+            "example": {
+                "en": "Once separated, the flax fibers were used to produce linen, which was then made into sails, tents, and clothes.",
+                "vi": "Khi có được sợi lanh, người ta dùng chúng dệt vải lanh, hay vải gai, để may buồm, lều và quần áo."
+            }
+        },
+        {
+            "content": "vải lanh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

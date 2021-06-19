@@ -1,0 +1,53 @@
+{
+    "word": "camellia",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmēlyə/",
+            "/kəˈmiljə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈmiːlɪə/",
+            "/kəˈmɛlɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hoa chè",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hoa trà",
+            "type": "noun",
+            "example": {
+                "en": "Today , Camellia sinensis grows throughout Asia and parts of the Middle East and Africa .",
+                "vi": "Ngày nay , cây hoa trà được trồng ở khắp châu Á và nhiều vùng ở Trung Đông và Châu Phi ."
+            }
+        },
+        {
+            "content": "cây hoa trà",
+            "type": "",
+            "example": {
+                "en": "Today , Camellia sinensis grows throughout Asia and parts of the Middle East and Africa .",
+                "vi": "Ngày nay , cây hoa trà được trồng ở khắp châu Á và nhiều vùng ở Trung Đông và Châu Phi ."
+            }
+        },
+        {
+            "content": "sơn trà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chi trà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

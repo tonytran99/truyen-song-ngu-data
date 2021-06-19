@@ -1,0 +1,80 @@
+{
+    "word": "cackle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkak(ə)l/",
+            "/ˈkæk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkak(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cười khúc khích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng gà cục tác",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ba hoa khoác lác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện ba toác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện mách qué",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện vớ vẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cục tác",
+            "type": "interjection",
+            "example": {
+                "en": "Listen to them cackling.",
+                "vi": "Hãy nghe họ cục tác."
+            }
+        },
+        {
+            "content": "nói dai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói lảm nhảm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói mách qué",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng cười khúc khích",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

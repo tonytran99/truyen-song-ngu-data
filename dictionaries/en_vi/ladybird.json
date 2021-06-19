@@ -1,0 +1,44 @@
+{
+    "word": "ladybird",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlādēˌbərd/",
+            "/ˈleɪdiˌbərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪdɪbəːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người hiền",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nhu-nhược",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bọ cánh cứng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bọ rùa",
+            "type": "noun",
+            "example": {
+                "en": "Would you like to see a ladybird?",
+                "vi": "Anh muốn xem bọ rùa không?"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "infernal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfərnl/",
+            "/ɪnˈfərnl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfəːn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ghê gớm",
+            "type": "",
+            "example": {
+                "en": "What an infernal fuss.",
+                "vi": "Đúng là quấy rầy ghê gớm."
+            }
+        },
+        {
+            "content": "quỷ quái",
+            "type": "",
+            "example": {
+                "en": "Well, you're acquainted with my infernal devices.",
+                "vi": "Chà, các ngươi có nghe qua mấy thiết bị quỷ quái của ta chưa."
+            }
+        },
+        {
+            "content": "trời đánh thánh vật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa ngục",
+            "type": "noun",
+            "example": {
+                "en": "But not if we fall prey to this infernal alliance.",
+                "vi": "Nhưng không nếu chúng ta rơi vào cái liên minh địa ngục này."
+            }
+        },
+        {
+            "content": "ở địa ngục",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

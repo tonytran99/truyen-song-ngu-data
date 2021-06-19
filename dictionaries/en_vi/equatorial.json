@@ -1,0 +1,51 @@
+{
+    "word": "equatorial",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌekwəˈtôrēəl/",
+            "/ˌɛkwəˈtɔriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛkwəˈtɔːrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gần xích đạo",
+            "type": "",
+            "example": {
+                "en": "The equatorial regions are warm because there's more sunlight.",
+                "vi": "Thời tiết ấm ở vùng gần xích đạo vì có nhiều ánh sáng hơn."
+            }
+        },
+        {
+            "content": "kính xích đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thuộc xích đạo",
+            "type": "",
+            "example": {
+                "en": "The Phoenix Islands and all the equatorial parts of our planet",
+                "vi": "Quần đảo Phượng hoàng và tất cả những phần thuộc xích đạo trên hành tinh của chúng ta"
+            }
+        },
+        {
+            "content": "xích đạo",
+            "type": "noun",
+            "example": {
+                "en": "The equatorial regions are warm because there's more sunlight.",
+                "vi": "Thời tiết ấm ở vùng gần xích đạo vì có nhiều ánh sáng hơn."
+            }
+        }
+    ]
+}

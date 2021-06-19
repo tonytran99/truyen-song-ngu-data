@@ -1,0 +1,56 @@
+{
+    "word": "hairpin",
+    "type": [
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈherˌpin/",
+            "/ˈhɛrˌpɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛːpɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cái cặp tóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cặp tóc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẹp tóc",
+            "type": "",
+            "example": {
+                "en": "We found Gemma's hairpin in the Dumpster outside your apartment.",
+                "vi": "Chúng tôi tìm thấy kẹp tóc của Gemma ở trong thùng rác bên ngoài căn hộ của anh."
+            }
+        },
+        {
+            "content": "cái kẹp tóc",
+            "type": "noun",
+            "example": {
+                "en": "Missing hairpin and makeup.",
+                "vi": "Mất một cái kẹp tóc và trang điểm sao."
+            }
+        },
+        {
+            "content": "trâm",
+            "type": "",
+            "example": {
+                "en": "One of them helps himself to something, a little hairpin.",
+                "vi": "Một trong số họ lấy cho mình một thứ, một chiếc trâm cài nhỏ."
+            }
+        }
+    ]
+}

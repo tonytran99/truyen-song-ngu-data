@@ -1,0 +1,105 @@
+{
+    "word": "error",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈerər/",
+            "/ˈɛrər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɛrə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lỗi",
+            "type": "noun",
+            "example": {
+                "en": "Excuse me; allow me to point out three errors in the above article.",
+                "vi": "Xin lỗi, cho phép tôi chỉ ra ba lỗi trong bài viết trên."
+            }
+        },
+        {
+            "content": "sai số",
+            "type": "noun",
+            "example": {
+                "en": "We know within precise error bars how close it is.",
+                "vi": "Ta biết trong biểu đồ sai số ta gần tận cùng vũ trụ thế nào."
+            }
+        },
+        {
+            "content": "sai lầm",
+            "type": "noun",
+            "example": {
+                "en": "Releasing Galavan was a grave error on your part.",
+                "vi": "Thả Galavan ra ngoài là một sai lầm lớn của anh."
+            }
+        },
+        {
+            "content": "độ sai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai suyễn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sai sót",
+            "type": "noun",
+            "example": {
+                "en": "So there really was no tolerable margin of error.",
+                "vi": "Vì thế, thực sự không có sự chấp nhận sai sót nào."
+            }
+        },
+        {
+            "content": "sự mất thích ứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự sai lầm",
+            "type": "",
+            "example": {
+                "en": "Besides, the error was an innocent mistake.",
+                "vi": "Hơn nữa, sự sai lầm chỉ là một lỗi vô ý ."
+            }
+        },
+        {
+            "content": "sự sai sót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự vi phạm",
+            "type": "",
+            "example": {
+                "en": "Though there is no error, they run and get themselves ready.",
+                "vi": "Những người mạnh dạn nhóm-hiệp nhau nghịch tôi; chẳng phải vì sự vi-phạm tôi, cũng chẳng vì tội-lỗi tôi."
+            }
+        },
+        {
+            "content": "thiếu sót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tình trạng sai lầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ý kiến sai lầm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

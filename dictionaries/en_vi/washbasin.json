@@ -1,0 +1,46 @@
+{
+    "word": "washbasin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäSHˌbāsən/",
+            "/ˈwɑʃˌbeɪsən/",
+            "/ˈwôSHˌbāsən/",
+            "/ˈwɔʃˌbeɪsən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒʃbeɪs(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chậu rửa",
+            "type": "",
+            "example": {
+                "en": "8 Moʹab is my washbasin.",
+                "vi": "8 Mô-áp là chậu rửa của ta."
+            }
+        },
+        {
+            "content": "lavabo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lavabô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "la-va-bô",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

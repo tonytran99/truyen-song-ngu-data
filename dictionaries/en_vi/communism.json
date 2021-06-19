@@ -1,0 +1,39 @@
+{
+    "word": "communism",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämyəˌnizəm/",
+            "/ˈkɑmjəˌnɪzəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmjʊnɪz(ə)m/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chủ nghĩa cộng sản",
+            "type": "noun",
+            "example": {
+                "en": "A lot of people say that communism was defeated by the Rolling Stones.",
+                "vi": "Nhiều người nói rằng chủ nghĩa cộng sản đã bị đánh bại bởi ban nhạc Rolling Stones."
+            }
+        },
+        {
+            "content": "主義共產",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Chủ nghĩa cộng sản",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "word": "grid",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrid/",
+            "/ɡrɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡrɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vỉ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lưới",
+            "type": "noun",
+            "example": {
+                "en": "The Petersburg grid is experiencing a power drain right now.",
+                "vi": "Mạng lưới phát điện Petersburg đang trải qua sự kiệt quệ năng lượng ngay lúc này."
+            }
+        },
+        {
+            "content": "đường kẻ ô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chấn song",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "mạng lưới",
+            "type": "noun",
+            "example": {
+                "en": "Bourne's been off the grid for a long time.",
+                "vi": "Bourne đã rời mạng lưới một thời gian dài."
+            }
+        },
+        {
+            "content": "chấn song sắt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cực lưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hệ thống đường dây",
+            "type": "noun",
+            "example": {
+                "en": "The AI is going to flow across the grid -- the cloud -- in the same way electricity did.",
+                "vi": "Al sẽ chảy qua hệ thống đường dây -đám mây- với cách giống như dòng điện."
+            }
+        },
+        {
+            "content": "lưới điều khiển",
+            "type": "",
+            "example": {
+                "en": "He's off the grid going on three hours.",
+                "vi": "Không thấy ông ấy trên mạng lưới điều khiển đã ba tiếng rồi."
+            }
+        },
+        {
+            "content": "lưới điện",
+            "type": "",
+            "example": {
+                "en": "We needed access to the city's power grid.",
+                "vi": "Chúng tôi cần đăng nhập vào mạng lưới điện của thành phố."
+            }
+        },
+        {
+            "content": "mạng lưới phát điện",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

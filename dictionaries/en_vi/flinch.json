@@ -1,0 +1,69 @@
+{
+    "word": "flinch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flin(t)SH/",
+            "/flɪn(t)ʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflɪn(t)ʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nao núng",
+            "type": "verb",
+            "example": {
+                "en": "And if I see you flinch, you're out.",
+                "vi": "Và nếu tôi thấy cậu nao núng, thì cậu sẽ bị loại."
+            }
+        },
+        {
+            "content": "chùn bước",
+            "type": "",
+            "example": {
+                "en": "A Christian does not flinch from these difficulties.",
+                "vi": "Một người Cơ Đốc không chùn bước trước những khó khăn đó."
+            }
+        },
+        {
+            "content": "flench",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "do dự",
+            "type": "",
+            "example": {
+                "en": "She can crack the Worthington 1000 without flinching.",
+                "vi": "Cô ấy có thể bẻ khóa một chiếc Worthington 1000 không chút do dự."
+            }
+        },
+        {
+            "content": "e ngại",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lưỡng lự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngần ngại",
+            "type": "",
+            "example": {
+                "en": "You no longer flinch upon hearing your new name.",
+                "vi": "Cậu không còn ngần ngại khi nghe tên mới của mình nữa."
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "corresponding",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkôrəˈspändiNG/",
+            "/ˌkɔrəˈspɑndɪŋ/",
+            "/ˌkärəˈspändiNG/",
+            "/ˌkɑrəˈspɑndɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɒrɪˈspɒndɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tương ứng",
+            "type": "adjective",
+            "example": {
+                "en": "I have a corresponding milestone to robust human rejuvenation.",
+                "vi": "Tôi có một cột mốc tương ứng với sự trẻ hóa mạnh mẽ ở người."
+            }
+        },
+        {
+            "content": "phù hợp",
+            "type": "adjective",
+            "example": {
+                "en": "And in this case, the stereotype corresponds to reality.",
+                "vi": "Trong trường hợp này, ý niệm đó phù hợp với thực tế."
+            }
+        },
+        {
+            "content": "thông tin",
+            "type": "",
+            "example": {
+                "en": "My clerk can help with the smaller correspondences and instructions. BLAKE:",
+                "vi": "Trợ lí của tôi sẽ giúp bất cứ ai cần thông tin chi tiết"
+            }
+        },
+        {
+            "content": "trao đổi thư từ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đúng với",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "greeting",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrēdiNG/",
+            "/ˈɡridɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡriːtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời chào mừng",
+            "type": "",
+            "example": {
+                "en": "After this talk, greetings were read, and the chairman handed a diploma to each graduate.",
+                "vi": "Sau bài giảng này là các lời chào mừng, và anh chủ tọa trao bằng tốt nghiệp cho học viên."
+            }
+        },
+        {
+            "content": "chúc mừng",
+            "type": "",
+            "example": {
+                "en": "You should have your own line of inspirational greeting cards, sir.",
+                "vi": "Sếp nên có vài lời chúc mừng đầy cảm xúc chứ, thưa sếp."
+            }
+        },
+        {
+            "content": "lời chào hỏi ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời chúc mừng",
+            "type": "",
+            "example": {
+                "en": "You should have your own line of inspirational greeting cards, sir.",
+                "vi": "Sếp nên có vài lời chúc mừng đầy cảm xúc chứ, thưa sếp."
+            }
+        },
+        {
+            "content": "lời chào hỏi",
+            "type": "",
+            "example": {
+                "en": "A warm smile and a friendly greeting will help.",
+                "vi": "Một nụ cười nồng hậu và lời chào hỏi thân thiện sẽ giúp bạn đạt mục tiêu ấy."
+            }
+        },
+        {
+            "content": "lời chào",
+            "type": "",
+            "example": {
+                "en": "Grunted a very pleasant greeting at me, actually.",
+                "vi": "Rặn ra mấy lời chào dễ nghe với chị."
+            }
+        }
+    ]
+}

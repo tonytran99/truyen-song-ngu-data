@@ -1,0 +1,53 @@
+{
+    "word": "whom",
+    "type": [
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ho͞om/",
+            "/hum/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/huːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ai",
+            "type": "pronoun",
+            "example": {
+                "en": "With whom am I speaking?",
+                "vi": "Tôi đang nói chuyện với ai đây?"
+            }
+        },
+        {
+            "content": "người nào",
+            "type": "",
+            "example": {
+                "en": "Find someone with whom you can be compatible.",
+                "vi": "Hãy tìm ra một người nào đó mà các em thấy tâm đầu ý hợp."
+            }
+        },
+        {
+            "content": "với ai",
+            "type": "",
+            "example": {
+                "en": "With whom am I speaking?",
+                "vi": "Tôi đang nói chuyện với ai đây?"
+            }
+        },
+        {
+            "content": "người mà",
+            "type": "",
+            "example": {
+                "en": "I was now reading about someone whom I knew loved me.",
+                "vi": "Lúc bấy giờ tôi đã đọc về một người mà tôi biết đã yêu mến tôi."
+            }
+        }
+    ]
+}

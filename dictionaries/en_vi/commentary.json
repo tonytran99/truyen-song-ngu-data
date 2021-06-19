@@ -1,0 +1,55 @@
+{
+    "word": "commentary",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämənˌterē/",
+            "/ˈkɑmənˌtɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmənt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài bình luận",
+            "type": "noun",
+            "example": {
+                "en": "The commentary edited by J.",
+                "vi": "Bài bình luận do J."
+            }
+        },
+        {
+            "content": "bài tường thuật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bình luận",
+            "type": "noun",
+            "example": {
+                "en": "I think our unanimous vote is all the commentary you need.",
+                "vi": "Tôi nghĩ việc nhất trí của chúng tôi là tất cả những bình luận các anh cần."
+            }
+        },
+        {
+            "content": "lời chú thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời dẫn giải",
+            "type": "noun",
+            "example": {
+                "en": "Avoid excessive teacher commentary.",
+                "vi": "Tránh lời dẫn giải thái quá của giảng viên."
+            }
+        }
+    ]
+}

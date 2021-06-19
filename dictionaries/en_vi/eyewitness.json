@@ -1,0 +1,35 @@
+{
+    "word": "eyewitness",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīˌwitnəs/",
+            "/ˈaɪˌwɪtnəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪwɪtnəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người chứng kiến",
+            "type": "",
+            "example": {
+                "en": "John, who was an eyewitness, added pertinent details.",
+                "vi": "Giăng, người chứng kiến sự việc trên, cho biết thêm nhiều chi tiết liên hệ."
+            }
+        },
+        {
+            "content": "người mục kích",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

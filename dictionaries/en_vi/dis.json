@@ -1,0 +1,47 @@
+{
+    "word": "dis",
+    "type": [
+        "verb",
+        "noun",
+        "pronoun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dis/",
+            "/dɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất",
+            "type": "",
+            "example": {
+                "en": "And that, my friends, is how a revolution dies.",
+                "vi": "Và các bạn của tôi, đó là cách 1 cuộc cách mạng thất bại."
+            }
+        },
+        {
+            "content": "không",
+            "type": "interjection numeral adverb",
+            "example": {
+                "en": "Tell me you'd have died if I hadn't come back.",
+                "vi": "Hãy nói cô sẽ chết nếu tôi không quay về."
+            }
+        },
+        {
+            "content": "bất",
+            "type": "Prefix",
+            "example": {
+                "en": "This man died in an accident involving an illegally modded Synth.",
+                "vi": "Người này chết trong một tai nạn liên quan đến một người máy được mod bất hợp pháp."
+            }
+        }
+    ]
+}

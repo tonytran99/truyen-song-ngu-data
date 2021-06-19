@@ -1,0 +1,53 @@
+{
+    "word": "assimilate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsiməˌlāt/",
+            "/əˈsɪməˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈsɪmɪleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiêu hoá",
+            "type": "adjective verb noun",
+            "example": {}
+        },
+        {
+            "content": "đồng hoá",
+            "type": "",
+            "example": {
+                "en": "And his story was hushed as he assimilated.",
+                "vi": "Và câu chuyện của ông đi vào im lặng khi ông bị đồng hoá."
+            }
+        },
+        {
+            "content": "so sánh với",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được tiêu hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "được đồng hoá",
+            "type": "",
+            "example": {
+                "en": "Now, they're assimilated to your body.",
+                "vi": "Bây giờ, chúng sẽ được đồng hoá trên thân thể của anh."
+            }
+        }
+    ]
+}

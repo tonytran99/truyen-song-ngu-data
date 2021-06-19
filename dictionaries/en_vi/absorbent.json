@@ -1,0 +1,56 @@
+{
+    "word": "absorbent",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əbˈzôrbənt/",
+            "/əbˈzɔrbənt/",
+            "/əbˈsôrbənt/",
+            "/əbˈsɔrbənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əbˈzɔːb(ə)nt/",
+            "/əbˈsɔːb(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất hút thu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hút nước",
+            "type": "adjective",
+            "example": {
+                "en": "The sponge will absorb water only if it is submerged in it.",
+                "vi": "Cái khăn chỉ hút nước nếu được nhúng vào nước."
+            }
+        },
+        {
+            "content": "máy hút thu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thấm",
+            "type": "",
+            "example": {
+                "en": "Some of the poison was absorbed by the cereal, which was forced out when she threw up.",
+                "vi": "Một phần chất độc thấm vào cháo được thải ra ngoài khi em nôn ra."
+            }
+        },
+        {
+            "content": "thấm hút",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

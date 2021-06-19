@@ -1,0 +1,38 @@
+{
+    "word": "horseflesh",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhôrsˌfleSH/",
+            "/ˈhɔrsˌflɛʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɔːsflɛʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngựa",
+            "type": "noun",
+            "example": {
+                "en": "Well, she's a lady with an eye for horseflesh, sir.",
+                "vi": "Cổ là một quý cô biết nhìn ngựa, thưa ngài."
+            }
+        },
+        {
+            "content": "thịt ngựa",
+            "type": "",
+            "example": {
+                "en": "You're the bait, Quinn, 1,600 pounds of horseflesh.",
+                "vi": "Anh là mồi, Quinn, 1,600 pounds thịt ngựa."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "footer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͝odər/",
+            "/ˈfʊdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʊtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lề dưới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "môn bóng đá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần chân trang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chân trang",
+            "type": "",
+            "example": {
+                "en": "Spacing between footer and body",
+                "vi": "Khoảng cách giữa chân trang và thân"
+            }
+        }
+    ]
+}

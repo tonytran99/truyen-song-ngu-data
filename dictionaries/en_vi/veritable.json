@@ -1,0 +1,36 @@
+{
+    "word": "veritable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvərədəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛrɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực",
+            "type": "adjective",
+            "example": {
+                "en": "a veritable shard of our cultural genome.",
+                "vi": "một mảnh thực của hệ gien văn hoá cuả chúng ta."
+            }
+        },
+        {
+            "content": "thực sự",
+            "type": "adverb",
+            "example": {
+                "en": "it's like a veritable universe.",
+                "vi": "nó giống như một vũ trụ thực sự."
+            }
+        }
+    ]
+}

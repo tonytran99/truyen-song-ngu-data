@@ -1,0 +1,58 @@
+{
+    "word": "disappear",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdisəˈpir/",
+            "/ˌdɪsəˈpɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪsəˈpɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biến mất",
+            "type": "",
+            "example": {
+                "en": "The snow has disappeared in less than no time.",
+                "vi": "Tuyết đã biến mất trong khoảnh khắc."
+            }
+        },
+        {
+            "content": "biến đi",
+            "type": "",
+            "example": {
+                "en": "Then tell her to disappear before someone comes.",
+                "vi": "Vậy thì kêu cổ biến đi trước khi có ai đó tới."
+            }
+        },
+        {
+            "content": "tiêu vong",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tàng hình",
+            "type": "verb",
+            "example": {
+                "en": "MudBud, this would be a very good time for us to disappear.",
+                "vi": "MudBud, tới lúc dùng chiêu tàng hình rồi."
+            }
+        },
+        {
+            "content": "mất đi",
+            "type": "",
+            "example": {
+                "en": "So the human touch, you see, it's disappearing.",
+                "vi": "Nên dấu vết loài người, dần biến mất đi."
+            }
+        }
+    ]
+}

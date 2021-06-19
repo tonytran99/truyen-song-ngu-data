@@ -1,0 +1,35 @@
+{
+    "word": "vend",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vend/",
+            "/vɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bán",
+            "type": "verb Prefix",
+            "example": {
+                "en": "So, this is a vending machine for crows.",
+                "vi": "Thế, đây là máy bán tự động cho quạ."
+            }
+        },
+        {
+            "content": "công bố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

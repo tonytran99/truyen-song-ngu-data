@@ -1,0 +1,38 @@
+{
+    "word": "easter",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈēstər/",
+            "/ˈistər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiːstə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lễ Phục sinh",
+            "type": "",
+            "example": {
+                "en": "Most of us think of chocolate and baskets as traditional Easter gifts.",
+                "vi": "Hầu hết mọi người đều tặng chocolate, giỏ hay thỏ vào lễ phục sinh."
+            }
+        },
+        {
+            "content": "lễ phục sinh",
+            "type": "",
+            "example": {
+                "en": "Most of us think of chocolate and baskets as traditional Easter gifts.",
+                "vi": "Hầu hết mọi người đều tặng chocolate, giỏ hay thỏ vào lễ phục sinh."
+            }
+        }
+    ]
+}

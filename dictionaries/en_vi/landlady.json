@@ -1,0 +1,49 @@
+{
+    "word": "landlady",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)ˌlādē/",
+            "/ˈlæn(d)ˌleɪdi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlan(d)leɪdi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bà chủ nhà",
+            "type": "noun",
+            "example": {
+                "en": "The only problem is I have a nosy landlady.",
+                "vi": "Vấn đề duy nhất là bà chủ nhà hơi tò mò."
+            }
+        },
+        {
+            "content": "bà chủ khách sạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bà chủ nhà trọ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mụ địa ch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "địa chủ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

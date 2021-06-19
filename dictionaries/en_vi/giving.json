@@ -1,0 +1,31 @@
+{
+    "word": "giving",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡiviNG/",
+            "/ˈɡɪvɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪvɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho",
+            "type": "verb adposition",
+            "example": {
+                "en": "Tom, give me a minute. I need to think.",
+                "vi": "Tom, cho tôi một phút. Tôi cần nghĩ đã."
+            }
+        }
+    ]
+}

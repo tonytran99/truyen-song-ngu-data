@@ -1,0 +1,47 @@
+{
+    "word": "insurrection",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinsəˈrekSH(ə)n/",
+            "/ˌɪnsəˈrɛkʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪnsəˈrɛkʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự khởi nghĩa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cuộc khởi nghĩa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc nổi dậy",
+            "type": "",
+            "example": {
+                "en": "No more war, no more insurrections.",
+                "vi": "Không còn chiến tranh, không còn các cuộc nổi dậy"
+            }
+        },
+        {
+            "content": "sự nổi dậy",
+            "type": "noun",
+            "example": {
+                "en": "Yet they do not hate non-Witnesses; nor have they ever been a seedbed of insurrection against governments.",
+                "vi": "Nhưng họ không ghét những người không phải là Nhân-chứng; và họ cũng không hề phát động sự nổi dậy chống chính phủ."
+            }
+        }
+    ]
+}

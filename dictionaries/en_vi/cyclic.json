@@ -1,0 +1,50 @@
+{
+    "word": "cyclic",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsīklik/",
+            "/ˈsaɪklɪk/",
+            "/ˈsiklik/",
+            "/ˈsɪklɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsʌɪklɪk/",
+            "/ˈsɪklɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tuần hoàn",
+            "type": "",
+            "example": {
+                "en": "\" Oh, this whole thing, this is a cyclical phenomenon.",
+                "vi": "\" Ôi dào, mấy chuyện này đều là những hiện tượng tuần hoàn mà."
+            }
+        },
+        {
+            "content": "xiclic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tròn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "theo chu kỳ",
+            "type": "",
+            "example": {
+                "en": "The activity of the sun is cyclical with a period of roughly 11 years .",
+                "vi": "Mặt Trời hoạt động theo chu kỳ khoảng 11 năm ."
+            }
+        }
+    ]
+}

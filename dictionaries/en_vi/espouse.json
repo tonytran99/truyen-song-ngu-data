@@ -1,0 +1,48 @@
+{
+    "word": "espouse",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈspouz/",
+            "/ɪˈspaʊz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈspaʊz/",
+            "/ɛˈspaʊz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gả",
+            "type": "verb",
+            "example": {
+                "en": "“To be taxed with Mary his espoused wife, being great with child.",
+                "vi": "“Để khai vào sổ tên mình và tên Ma Ri, là người đã hứa gả cho mình đang có thai."
+            }
+        },
+        {
+            "content": "theo",
+            "type": "verb adposition",
+            "example": {}
+        },
+        {
+            "content": "lấy làm vợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tán thành",
+            "type": "",
+            "example": {
+                "en": "they espouse a philosophy of learning as productive activity.",
+                "vi": "họ tán thành một triết lý học tập là một hoạt động hữu ích."
+            }
+        }
+    ]
+}

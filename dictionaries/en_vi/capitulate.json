@@ -1,0 +1,42 @@
+{
+    "word": "capitulate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpiCHəˌlāt/",
+            "/kəˈpɪtʃəˌleɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈpɪtjʊleɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầu hàng",
+            "type": "",
+            "example": {
+                "en": "Clearly, I will not capitulate to the blackmail of a creditor.",
+                "vi": "tôi sẽ không đầu hàng bởi thư tống tiền của chủ nợ."
+            }
+        },
+        {
+            "content": "quy hàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu hàng có điều kiện",
+            "type": "",
+            "example": {
+                "en": "When the russian capitulates tomorrow, we'll never get to Moscow.",
+                "vi": "Ngày mai, khi người Nga đầu hàng có điều kiện, chúng ta sẽ không bao giờ đến được Moscow."
+            }
+        }
+    ]
+}

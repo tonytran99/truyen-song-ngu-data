@@ -1,0 +1,42 @@
+{
+    "word": "isomer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsəmər/",
+            "/ˈaɪsəmər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsəmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất đồng phân",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đồng phân",
+            "type": "",
+            "example": {
+                "en": "I need a single isomer anesthetic and a heart-lung bypass machine.",
+                "vi": "Tôi cần một liều gây mê đồng phân và máy tim phổi nhân tạo."
+            }
+        },
+        {
+            "content": "đồng phân",
+            "type": "",
+            "example": {
+                "en": "I need a single isomer anesthetic and a heart-lung bypass machine.",
+                "vi": "Tôi cần một liều gây mê đồng phân và máy tim phổi nhân tạo."
+            }
+        }
+    ]
+}

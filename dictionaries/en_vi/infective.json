@@ -1,0 +1,70 @@
+{
+    "word": "infective",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfektiv/",
+            "/ɪnˈfɛktɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈfɛktɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhiễm",
+            "type": "verb",
+            "example": {
+                "en": "Keep her dry and clean so the rash doesn't become infected.",
+                "vi": "Giữ nó khô ráo sạch sẽ kẻo vết phát ban bị nhiễm trùng."
+            }
+        },
+        {
+            "content": "lây",
+            "type": "",
+            "example": {
+                "en": "The code you're claiming infected the data center isn't there.",
+                "vi": "Không hề có đoạn mã mà cậu nói đã lây nhiễm tới trung tâm dữ liệu."
+            }
+        },
+        {
+            "content": "dễ lây",
+            "type": "",
+            "example": {
+                "en": "In general , infections that cause diarrhea are highly contagious .",
+                "vi": "Nói chung , các bệnh nhiễm trùng gây tiêu chảy thường rất dễ lây lan ."
+            }
+        },
+        {
+            "content": "lan truyền",
+            "type": "",
+            "example": {
+                "en": "Farmers can unknowingly spread the infection with their cutting tools .",
+                "vi": "Nông dân có thể vô tình làm căn bệnh lan truyền bằng dụng cụ cắt chuối của họ ."
+            }
+        },
+        {
+            "content": "lây nhiễm",
+            "type": "",
+            "example": {
+                "en": "The code you're claiming infected the data center isn't there.",
+                "vi": "Không hề có đoạn mã mà cậu nói đã lây nhiễm tới trung tâm dữ liệu."
+            }
+        },
+        {
+            "content": "nhiễm trùng",
+            "type": "",
+            "example": {
+                "en": "An abdominal infection causes sepsis, low blood pressure.",
+                "vi": "Bụng bị nhiễm trùng gây nên nhiễm trùng máu, làm hạ huyết áp."
+            }
+        }
+    ]
+}

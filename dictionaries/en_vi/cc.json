@@ -1,0 +1,51 @@
+{
+    "word": "cc",
+    "type": [
+        "verb",
+        "noun",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌsēˈsē/",
+            "/ˌsiˈsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/siːˈsiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phân khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bản sao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "centimet khối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng gửi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cc",
+            "type": "",
+            "example": {
+                "en": "If you'd be more comfortable, I might be able to deal with a few less cc's of morphine.",
+                "vi": "Nếu cô thấy thoải mái hơn tôi có thể chịu được với vài cc morphine ít hơn."
+            }
+        }
+    ]
+}

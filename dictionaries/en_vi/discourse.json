@@ -1,0 +1,114 @@
+{
+    "word": "discourse",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdisˌkôrs/",
+            "/ˈdɪsˌkɔrs/",
+            "/disˈkôrs/",
+            "/dɪsˈkɔrs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪskɔːs/",
+            "/dɪsˈkɔːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài thuyết trình",
+            "type": "noun",
+            "example": {
+                "en": "is more Europe, and that is not to be an easy discourse",
+                "vi": "Châu Âu sẽ có thêm nhiều thành viên, và đây là không phải một bài thuyết trình đơn giản"
+            }
+        },
+        {
+            "content": "luận",
+            "type": "noun",
+            "example": {
+                "en": "These aggressions are committed by people who don't have a clear, open and democratic discourse.",
+                "vi": "Sự hiếu chiến này đến từ những người không tham gia các buổi đàm luận rõ ràng, rộng mở, dân chủ."
+            }
+        },
+        {
+            "content": "diễn ngôn",
+            "type": "",
+            "example": {
+                "en": "I don't think that this transdisciplinary discourse",
+                "vi": "Tôi không nghĩ diễn ngôn xuyên ngành"
+            }
+        },
+        {
+            "content": "bài diễn thuyết",
+            "type": "",
+            "example": {
+                "en": "Companions of the man Job heard no fewer than ten of his discourses.",
+                "vi": "Những người bạn của Gióp đã ngồi nghe ít nhất mười bài diễn thuyết của ông."
+            }
+        },
+        {
+            "content": "bài giảng đạo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bài luận văn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bài nghị luận",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chuyện trò",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cuộc nói chuyện",
+            "type": "",
+            "example": {
+                "en": "At the conclusion of your conversation or your discourse.",
+                "vi": "Lúc kết thúc cuộc nói chuyện hay bài giảng."
+            }
+        },
+        {
+            "content": "cuộc đàm luận",
+            "type": "",
+            "example": {
+                "en": "We need to develop a feminine discourse",
+                "vi": "Chúng tôi cần phát triển một cuộc đàm luận mang tính nữ"
+            }
+        },
+        {
+            "content": "nghị luận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện",
+            "type": "verb noun",
+            "example": {
+                "en": "At the conclusion of your conversation or your discourse.",
+                "vi": "Lúc kết thúc cuộc nói chuyện hay bài giảng."
+            }
+        },
+        {
+            "content": "đàm luận",
+            "type": "",
+            "example": {
+                "en": "These aggressions are committed by people who don't have a clear, open and democratic discourse.",
+                "vi": "Sự hiếu chiến này đến từ những người không tham gia các buổi đàm luận rõ ràng, rộng mở, dân chủ."
+            }
+        }
+    ]
+}

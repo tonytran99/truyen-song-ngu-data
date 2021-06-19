@@ -1,0 +1,66 @@
+{
+    "word": "yen",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/yen/",
+            "/jɛn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jɛn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "yên",
+            "type": "adjective noun",
+            "example": {
+                "en": "Suppose you had ten million yen, what would you do?",
+                "vi": "Giả sử bạn có 10 triệu yên, bạn sẽ làm gì?"
+            }
+        },
+        {
+            "content": "thèm",
+            "type": "",
+            "example": {
+                "en": "You get a crazy yen for a fella, and come hot-footing it out here squealing about salvation.",
+                "vi": "Cô thèm muốn một anh chàng và ba chân bốn cẳng chạy ra đây rên la nhờ cứu giúp."
+            }
+        },
+        {
+            "content": "sự thèm muốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thèm thuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thèm thuồng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng yên",
+            "type": "",
+            "example": {
+                "en": "But the problem is that the yen has been rising , making Japan less competitive abroad .",
+                "vi": "Vần đề ở đây là đồng yên đang tăng giá , làm cho Nhật Bản kém cạnh tranh ở nước ngoài ."
+            }
+        },
+        {
+            "content": "yên Nhật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

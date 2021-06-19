@@ -1,0 +1,81 @@
+{
+    "word": "frontal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrən(t)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrʌnt(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trán",
+            "type": "noun",
+            "example": {
+                "en": "His frontal lobe is working way better than mine.",
+                "vi": "Thùy trán của anh ta làm việc còn tốt hơn của tôi."
+            }
+        },
+        {
+            "content": "tuyến",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "biên",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "mặt tiền",
+            "type": "adjective",
+            "example": {
+                "en": "His main force was moved north to a valley just outside of Ai and appeared poised for a frontal attack.",
+                "vi": "Cánh quân chính của ông di tản về hướng bắc trong một thung lũng ngay trước mặt cửa thành giả vờ tấn công mặt tiền."
+            }
+        },
+        {
+            "content": "từ",
+            "type": "conjunction verb noun",
+            "example": {
+                "en": "Brain scans prove that the frontal lobe becomes active when you think of a word or call up memories.",
+                "vi": "Các cuộc chiếu hình não chứng tỏ thùy trán hoạt động mạnh khi bạn nghĩ đến một từ ngữ hay hồi tưởng lại kỷ niệm."
+            }
+        },
+        {
+            "content": "ở",
+            "type": "verb adposition",
+            "example": {
+                "en": "Really, consciousness is seated in the frontal lobe.",
+                "vi": "Thực sự ý thức được đặt ở thùy trán."
+            }
+        },
+        {
+            "content": "chính diện",
+            "type": "",
+            "example": {
+                "en": "All our forces must be focused on frontal assault",
+                "vi": "Chúng ta phải tập trung lực lượng, nhằm chính diện Tào quân công kích."
+            }
+        },
+        {
+            "content": "mặt trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đằng trước mặt",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "hesitant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhezədənt/",
+            "/ˈhɛzədənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛzɪt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "do dự",
+            "type": "adjective",
+            "example": {
+                "en": "You hesitate, and that hesitation could kill you.",
+                "vi": "Em do dự và sự do dự đó sẽ giết em."
+            }
+        },
+        {
+            "content": "lưỡng lự",
+            "type": "adjective",
+            "example": {
+                "en": "Paul, if we don't comply, they won't hesitate.",
+                "vi": "Paul, nếu ta không chiều theo, chúng sẽ không lưỡng lự."
+            }
+        },
+        {
+            "content": "ngại",
+            "type": "adjective",
+            "example": {
+                "en": "If you have any questions, don't hesitate to ask.",
+                "vi": "Nếu bạn có bất kỳ câu hỏi nào, cứ hỏi đừng ngại"
+            }
+        },
+        {
+            "content": "dùng dằng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không nhất quyết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngập ngừng",
+            "type": "adjective",
+            "example": {
+                "en": "You should make sure of the fact without hesitation.",
+                "vi": "Bạn nên khẳng định sự việc một cách không ngập ngừng."
+            }
+        }
+    ]
+}

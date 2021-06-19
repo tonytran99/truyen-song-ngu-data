@@ -1,0 +1,73 @@
+{
+    "word": "employee",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/emˈploiē/",
+            "/ɛmˈplɔɪi/",
+            "/emˌploiˈē/",
+            "/ɛmˌplɔɪˈi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛmplɔɪˈiː/",
+            "/ɛmˈplɔɪiː/",
+            "/ɪmˈplɔɪiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhân viên",
+            "type": "noun",
+            "example": {
+                "en": "Tom is the best employee we've ever had.",
+                "vi": "Tom là nhân viên tốt nhất mà chúng ta chưa từng có."
+            }
+        },
+        {
+            "content": "người làm công",
+            "type": "noun",
+            "example": {
+                "en": "By this point, I was definitely not going to be an employee.",
+                "vi": "Nhờ điểm này, tôi rõ ràng không phải trở thành 1 người làm công."
+            }
+        },
+        {
+            "content": "công nhân viên",
+            "type": "noun",
+            "example": {
+                "en": "How many employees might benefit and want to take advantage of the plan ?",
+                "vi": "Có bao nhiêu công nhân viên hưởng lợi và muốn nhận lợi ích của kế hoạch ?"
+            }
+        },
+        {
+            "content": "người lao động",
+            "type": "noun",
+            "example": {
+                "en": "Doing background checks on some of our employees.",
+                "vi": "Tôi đang điều tra xã hội đối với một vài người lao động."
+            }
+        },
+        {
+            "content": "công nhân",
+            "type": "noun",
+            "example": {
+                "en": "How many employees might benefit and want to take advantage of the plan ?",
+                "vi": "Có bao nhiêu công nhân viên hưởng lợi và muốn nhận lợi ích của kế hoạch ?"
+            }
+        },
+        {
+            "content": "người làm",
+            "type": "noun",
+            "example": {
+                "en": "I conduct employee background checks. I oversee loss prevention.",
+                "vi": "Tôi kiểm tra lai lịch người làm, giảm thiểu rủi ro cho công ty."
+            }
+        }
+    ]
+}

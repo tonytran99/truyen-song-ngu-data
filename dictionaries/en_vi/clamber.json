@@ -1,0 +1,43 @@
+{
+    "word": "clamber",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklambər/",
+            "/ˈklæmbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklambə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "leo",
+            "type": "adjective",
+            "example": {
+                "en": "If you bought a meal for the driver, he allowed you to clamber onto his truck.",
+                "vi": "Nếu mua thức ăn cho tài xế, ông sẽ để chúng tôi leo lên xe tải."
+            }
+        },
+        {
+            "content": "trèo",
+            "type": "",
+            "example": {
+                "en": "Can you clamber out?",
+                "vi": "Có thể trèo ra được không?"
+            }
+        },
+        {
+            "content": "sự leo trèo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

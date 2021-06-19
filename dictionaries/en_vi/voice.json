@@ -1,0 +1,143 @@
+{
+    "word": "voice",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vois/",
+            "/vɔɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vɔɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giọng nói",
+            "type": "noun",
+            "example": {
+                "en": "I want to hear your voice.",
+                "vi": "Tôi muốn nghe giọng nói của bạn."
+            }
+        },
+        {
+            "content": "tiếng nói",
+            "type": "noun",
+            "example": {
+                "en": "It gives a voice to those who otherwise would not have a voice.",
+                "vi": "Nó trao tiếng nói cho những người mà, không có nó, thì sẽ không có tiếng nói."
+            }
+        },
+        {
+            "content": "tiếng",
+            "type": "noun",
+            "example": {
+                "en": "She was blind, yet she recognized my voice.",
+                "vi": "Bà bị mù, nhưng vẫn nhận ra tiếng nói của tôi."
+            }
+        },
+        {
+            "content": "giọng",
+            "type": "noun",
+            "example": {
+                "en": "Your voice is strange. What's wrong?",
+                "vi": "Sao giọng bạn nghe lạ vậy. Bạn bị sao à?"
+            }
+        },
+        {
+            "content": "nói lên",
+            "type": "verb",
+            "example": {
+                "en": "Don, we don't label and we don't raise our voices, right?",
+                "vi": "Don, chúng ta không nói lên tiếng nói của chúng ta, phải không?"
+            }
+        },
+        {
+            "content": "phát thành âm kêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thế lực",
+            "type": "noun",
+            "example": {
+                "en": "Leading voices in Europe say another European should head this fund .",
+                "vi": "Các thế lực lãnh đạo ở châu Âu đề nghị một người châu Âu khác nên lãnh đạo quỹ này ."
+            }
+        },
+        {
+            "content": "lời",
+            "type": "noun",
+            "example": {
+                "en": "Would my wife could voice such simple wisdom.",
+                "vi": "Giá vợ ta cũng có thể nói vài lời khoan ngoan đơn giản thế này."
+            }
+        },
+        {
+            "content": "dạng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bày tỏ",
+            "type": "",
+            "example": {
+                "en": "I was basically silenced for voicing a dissenting opinion.",
+                "vi": "Cơ bản là tôi đã im lặng để bày tỏ ý kiến bất đồng."
+            }
+        },
+        {
+            "content": "lời nói",
+            "type": "noun",
+            "example": {
+                "en": "Do I detect a note of jealousy in your voice?",
+                "vi": "Em nghe thấy giọng ghen tị trong lời nói của anh thì phải?"
+            }
+        },
+        {
+            "content": "sự bày tỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự phát biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "âm kêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ý kiến",
+            "type": "noun",
+            "example": {
+                "en": "And its chamber shall be filled with your voice.",
+                "vi": "Và ý kiến của người sẽ được hội đồng lắng nghe."
+            }
+        },
+        {
+            "content": "thanh",
+            "type": "noun",
+            "example": {
+                "en": "to move the tubes around my voice box.",
+                "vi": "để dịch chuyển các ống thông quanh thanh quản của tôi."
+            }
+        },
+        {
+            "content": "hát",
+            "type": "verb noun",
+            "example": {
+                "en": "Well, I think a voice is like an instrument.",
+                "vi": "Tôi nghĩ giọng hát giống như một nhạc cụ."
+            }
+        }
+    ]
+}

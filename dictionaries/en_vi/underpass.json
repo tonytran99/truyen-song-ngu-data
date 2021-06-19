@@ -1,0 +1,34 @@
+{
+    "word": "underpass",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəndərˌpas/",
+            "/ˈəndərˌpæs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌndəpɑːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đường hầm",
+            "type": "noun",
+            "example": {
+                "en": "Some guy broke down by the underpass.",
+                "vi": "Vài gã hỏng xe ở đường hầm"
+            }
+        },
+        {
+            "content": "đường ngầm",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

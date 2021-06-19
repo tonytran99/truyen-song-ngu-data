@@ -1,0 +1,268 @@
+{
+    "word": "judge",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəj/",
+            "/dʒədʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒʌdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thẩm phán",
+            "type": "noun",
+            "example": {
+                "en": "The prisoner was brought before a judge.",
+                "vi": "Phạm nhân được đưa đến trước thẩm phán."
+            }
+        },
+        {
+            "content": "quan tòa",
+            "type": "noun",
+            "example": {
+                "en": "I'm actually the best judge you could give your story to.",
+                "vi": "Tôi là quan tòa tốt nhất cho những câu chuyện của cô."
+            }
+        },
+        {
+            "content": "xét xử",
+            "type": "verb",
+            "example": {
+                "en": "Samuel justly judged his people and effected deliverance for them.",
+                "vi": "Sa-mu-ên xét xử dân sự cách công bình và giải cứu họ."
+            }
+        },
+        {
+            "content": "pháp quan",
+            "type": "",
+            "example": {
+                "en": "Hiding behind the scenes, the clergy sometimes attack us through lawmakers, judges, and others.",
+                "vi": "Giới giáo phẩm đôi khi ngấm ngầm vận động các nhà lập pháp, quan tòa, hay những giới chức khác để tấn công chúng ta."
+            }
+        },
+        {
+            "content": "xét đoán",
+            "type": "verb",
+            "example": {
+                "en": "Let's hang him first, we will judge him later sometime!",
+                "vi": "Hãy treo anh ta lên trước đã, chúng ta sẽ xét đoán anh ta sau."
+            }
+        },
+        {
+            "content": "phán xét",
+            "type": "verb",
+            "example": {
+                "en": "And judge not so that you not be judged.",
+                "vi": "Và không phán xét để chúng ta không bị phán xét."
+            }
+        },
+        {
+            "content": "phán đoán",
+            "type": "",
+            "example": {
+                "en": "This one seems to be pretty popular judging by the string of names on the forward.",
+                "vi": "Cái này có vẻ là phán đoán khá phổ biến bởi các chuỗi tên chuyển tiếp."
+            }
+        },
+        {
+            "content": "xét",
+            "type": "",
+            "example": {
+                "en": "Let's hang him first, we will judge him later sometime!",
+                "vi": "Hãy treo anh ta lên trước đã, chúng ta sẽ xét đoán anh ta sau."
+            }
+        },
+        {
+            "content": "chánh án",
+            "type": "noun",
+            "example": {
+                "en": "Afterward, though, the judge called us into his chambers.",
+                "vi": "Nhưng sau đó, chánh án gọi chúng tôi vào phòng làm việc của ông."
+            }
+        },
+        {
+            "content": "người am hiểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phê bình",
+            "type": "",
+            "example": {
+                "en": "I no longer have the right to judge them.",
+                "vi": "Cũng không có cái quyền để phê bình họ."
+            }
+        },
+        {
+            "content": "trọng tài",
+            "type": "noun",
+            "example": {
+                "en": "What do I need to do for the judges to give me the fight?",
+                "vi": "Tôi phải làm gì để các trọng tài cho tôi thắng?"
+            }
+        },
+        {
+            "content": "đánh giá",
+            "type": "",
+            "example": {
+                "en": "You shouldn't judge a man by his appearance.",
+                "vi": "Bạn không nên đánh giá một người bằng vẻ bề ngoài của anh ta."
+            }
+        },
+        {
+            "content": "xử",
+            "type": "verb",
+            "example": {
+                "en": "Why don't you judge him according to your own laws?",
+                "vi": "Sao các ngươi không xử hắn theo chính luật của các ngươi?"
+            }
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "And from the sound of gunfire, I'd say at least one of your two judges is still alive.",
+                "vi": "Và xét theo tiếng súng, tôi cho rằng ít nhất một thẩm phán còn sống."
+            }
+        },
+        {
+            "content": "chỉ trích",
+            "type": "",
+            "example": {
+                "en": "So maybe instead of judging him, you should just be thanking him.",
+                "vi": "Thế nên thay vì chỉ trích anh ta, thì chú nên cám ơn anh ta đi."
+            }
+        },
+        {
+            "content": "làm người phân xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm quan toà",
+            "type": "",
+            "example": {
+                "en": "And why was he to be the judge?",
+                "vi": "Tại sao anh ấy muốn làm quan toà cơ chứ?"
+            }
+        },
+        {
+            "content": "làm trọng tài",
+            "type": "",
+            "example": {
+                "en": "The boy will be the judge.",
+                "vi": "Thằng nhỏ sẽ làm trọng tài."
+            }
+        },
+        {
+            "content": "người phân xử",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người sành sỏi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhận xét",
+            "type": "",
+            "example": {
+                "en": "Now, there are times we must judge others.",
+                "vi": "Giờ đây, có những lúc chúng ta cần phải đưa ra lời nhận xét về những người khác."
+            }
+        },
+        {
+            "content": "nhận định",
+            "type": "verb",
+            "example": {
+                "en": "Mr. Mercker can judge fouls from outside the cage.",
+                "vi": "Ông Mercker có thể nhận định lỗi từ bên ngoài lồng."
+            }
+        },
+        {
+            "content": "phân xử",
+            "type": "",
+            "example": {
+                "en": "Do you always punish your prisoners before they're judged?",
+                "vi": "Các ngươi luôn trừng phạt tù nhân trước khi phân xử hay sao?"
+            }
+        },
+        {
+            "content": "quan toà",
+            "type": "",
+            "example": {
+                "en": "We make a video of the test and we show it to the judge.",
+                "vi": "Chúng ta sẽ làm một đoạn video về thử nghiệm này và sẽ đưa nó cho quan toà."
+            }
+        },
+        {
+            "content": "thấy rằng",
+            "type": "",
+            "example": {
+                "en": "Micah 7:3 indicates that “the prince is asking for something, and the one who is judging does so for the reward.”",
+                "vi": "Mi-chê 7:3 cho thấy rằng “quan trưởng thì đòi của, quan-xét thì tham hối-lộ”."
+            }
+        },
+        {
+            "content": "xét thấy",
+            "type": "",
+            "example": {
+                "en": "“You come willingly and have been judged to be worthy.",
+                "vi": "“Anh chị tự nguyện đến và đã được xét thấy là xứng đáng."
+            }
+        },
+        {
+            "content": "phán",
+            "type": "",
+            "example": {
+                "en": "The prisoner was brought before a judge.",
+                "vi": "Phạm nhân được đưa đến trước thẩm phán."
+            }
+        },
+        {
+            "content": "quyết",
+            "type": "verb",
+            "example": {
+                "en": "What do you judge to be the answer to Satan’s assertions?",
+                "vi": "Bạn nghĩ sao về lời quả quyết của Sa-tan?"
+            }
+        },
+        {
+            "content": "Thẩm phán",
+            "type": "",
+            "example": {
+                "en": "The prisoner was brought before a judge.",
+                "vi": "Phạm nhân được đưa đến trước thẩm phán."
+            }
+        },
+        {
+            "content": "quan toøa, thaåm phaùn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quan tài phán",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xem xét",
+            "type": "",
+            "example": {
+                "en": "Well, consider some of the facts and judge for yourself.",
+                "vi": "Hãy xem xét vài sự kiện và chính bạn hãy tự xét lấy."
+            }
+        }
+    ]
+}

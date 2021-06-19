@@ -1,0 +1,58 @@
+{
+    "word": "vampire",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvamˌpī(ə)r/",
+            "/ˈvæmˌpaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvampʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ma cà rồng",
+            "type": "noun",
+            "example": {
+                "en": "I am Mikael, the vampire who hunts vampires.",
+                "vi": "Ta là Mikael, con ma cà rồng chuyên săn ma cà rồng."
+            }
+        },
+        {
+            "content": "dơi hút máu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ma hút máu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ bóc lột",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kẻ hút máu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Ma cà rồng",
+            "type": "",
+            "example": {
+                "en": "Let's hope the corpse oil will attract the vampire.",
+                "vi": "Hy vọng là tinh dầu sẽ thu hút con Ma cà rồng."
+            }
+        }
+    ]
+}

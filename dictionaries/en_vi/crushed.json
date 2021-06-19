@@ -1,0 +1,59 @@
+{
+    "word": "crushed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krəSHt/",
+            "/krəʃt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/krʌʃt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bẹp",
+            "type": "adjective",
+            "example": {
+                "en": "It will crush those kingdoms and bring them to an end but will itself endure forever.",
+                "vi": "Nó sẽ đè bẹp các vương quốc khác rồi tiêu diệt chúng và bền vững đến muôn đời."
+            }
+        },
+        {
+            "content": "bị nghiến nát",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "bị nghiền",
+            "type": "adjective",
+            "example": {
+                "en": "The statue was crushed into powder and blew away in the wind.",
+                "vi": "Cả pho tượng bị nghiền nát thành bụi và bị gió thổi đi."
+            }
+        },
+        {
+            "content": "nát",
+            "type": "adjective",
+            "example": {
+                "en": "Half that number would be enough to crush the men we have.",
+                "vi": "Nửa số đó đủ để nghiền nát quân ta."
+            }
+        },
+        {
+            "content": "vụn",
+            "type": "adjective",
+            "example": {
+                "en": "And it can actually crush an empty soda can.",
+                "vi": "Và nó có thể bóp vụn một lon soda không."
+            }
+        }
+    ]
+}

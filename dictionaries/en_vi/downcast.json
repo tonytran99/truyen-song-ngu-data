@@ -1,0 +1,62 @@
+{
+    "word": "downcast",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdounˌkast/",
+            "/ˈdaʊnˌkæst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaʊnkɑːst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thất vọng",
+            "type": "adjective noun",
+            "example": {
+                "en": "He started with a sorrowful heart and downcast look.",
+                "vi": "Người ấy bắt đầu với một tấm lòng đau khổ và vẻ mặt đầy thất vọng."
+            }
+        },
+        {
+            "content": "chán nản",
+            "type": "adjective",
+            "example": {
+                "en": "LOOK at the downcast face of a starving child.",
+                "vi": "HÃY nhìn bộ mặt chán nản, thất vọng của một đứa trẻ sắp chết đói."
+            }
+        },
+        {
+            "content": "cúi xuống",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lò thông hơi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhìn xuống",
+            "type": "adjective",
+            "example": {
+                "en": "Megan 's eyes were downcast as if she wanted to disappear .",
+                "vi": "Megan lầm lũi nhìn xuống đất như thể cô bé chỉ muốn tan biến đi ."
+            }
+        },
+        {
+            "content": "nản lòng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

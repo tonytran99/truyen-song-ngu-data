@@ -1,0 +1,38 @@
+{
+    "word": "hymnal",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhimnəl/",
+            "/ˈhɪmnəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɪmn(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sách thánh ca",
+            "type": "",
+            "example": {
+                "en": "They're running heroin on the water every Sunday when you preach, through hymnals that are passed to their dealers from your boat.",
+                "vi": "Chúng chuyển heroin trên nước mỗi Chủ nhật khi anh giảng, qua những sách thánh ca được truyền cho bọn bán lẻ từ tàu anh."
+            }
+        },
+        {
+            "content": "thánh ca",
+            "type": "noun",
+            "example": {
+                "en": "I see some who have access to hymnals but do not sing.",
+                "vi": "Tôi thấy một số người có quyển thánh ca nhưng không hát."
+            }
+        }
+    ]
+}

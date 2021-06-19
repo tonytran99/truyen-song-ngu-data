@@ -1,0 +1,440 @@
+{
+    "word": "hand",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hand/",
+            "/hænd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hand/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tay",
+            "type": "noun",
+            "example": {
+                "en": "John and Mary always walk hand in hand.",
+                "vi": "John và Mary luôn đi bên nhau tay trong tay."
+            }
+        },
+        {
+            "content": "bàn tay",
+            "type": "noun",
+            "example": {
+                "en": "John's hand is clean.",
+                "vi": "Bàn tay của John rất sạch sẽ."
+            }
+        },
+        {
+            "content": "ván",
+            "type": "noun",
+            "example": {
+                "en": "The advantage to knocking out your opponent is that you keep it out of their hands.",
+                "vi": "Lợi thế của việc hạ đo ván đối thủ là không để họ quyết định ai thắng."
+            }
+        },
+        {
+            "content": "kim",
+            "type": "noun",
+            "example": {
+                "en": "We code the data into the movement of the second hand.",
+                "vi": "Mã hóa dữ liệu vào chuyển động của kim giây."
+            }
+        },
+        {
+            "content": "đưa",
+            "type": "verb",
+            "example": {
+                "en": "Untie my hands, I'll give it to you.",
+                "vi": "Cởi trói ra, tao sẽ đưa nó cho mày."
+            }
+        },
+        {
+            "content": "bên",
+            "type": "noun",
+            "example": {
+                "en": "What about the nice bottle of Bordeaux in your middle left hand drawer.",
+                "vi": "Chai Bordeaux hảo hạng trong ngăn kéo bên trái ở giữa thì sao."
+            }
+        },
+        {
+            "content": "phía",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hướng",
+            "type": "noun",
+            "example": {
+                "en": "Have all the spare hands placed on the windward rail.",
+                "vi": "Bố trí tất cả anh em ngay hướng gió."
+            }
+        },
+        {
+            "content": "nhân công",
+            "type": "noun",
+            "example": {
+                "en": "Same thing I do as a hired hand, except with less help.",
+                "vi": "Cũng giống như một nhân công, có điều không ai giúp thôi."
+            }
+        },
+        {
+            "content": "quyền hành",
+            "type": "noun",
+            "example": {
+                "en": "No one truly believes the boy guides his own hand.",
+                "vi": "Chẳng ai thực sự tin là thằng nhóc đó nắm quyền hành trong tay cả."
+            }
+        },
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "On the other hand, discretion is the better part of valor.",
+                "vi": "Mặt khác, thận trọng là mặt tốt hơn của lòng dũng cảm."
+            }
+        },
+        {
+            "content": "đỡ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giúp",
+            "type": "verb",
+            "example": {
+                "en": "Thanks for giving me a hand, but is too slippery.",
+                "vi": "Cám ơn đã giúp tôi! Nhưng trơn quá."
+            }
+        },
+        {
+            "content": "quyền",
+            "type": "noun",
+            "example": {
+                "en": "I'm sorry, but it's out of my hands.",
+                "vi": "Tôi xin lỗi, nhưng việc này vượt quá thẩm quyền của tôi."
+            }
+        },
+        {
+            "content": "buộc",
+            "type": "noun",
+            "example": {
+                "en": "You, on the other hand, accused us of molesting our son.",
+                "vi": "Còn anh thì buộc tội chúng tôi quấy rối nó."
+            }
+        },
+        {
+            "content": "chân trước",
+            "type": "noun",
+            "example": {
+                "en": "The priests were to wash both their hands and their feet before performing their duties at the tabernacle.",
+                "vi": "Các thầy tế lễ thì phải rửa tay chân trước khi làm phận sự trong đền tạm."
+            }
+        },
+        {
+            "content": "hoan hô",
+            "type": "noun",
+            "example": {
+                "en": "I got to hand it to you, kid the way you beat up old Galovitch this afternoon.",
+                "vi": "Tôi phải hoan hô anh, anh bạn cái cách anh hạ Galovitch chiều hôm đó."
+            }
+        },
+        {
+            "content": "sự giúp đỡ",
+            "type": "",
+            "example": {
+                "en": "Yet, she perceives Jehovah’s strengthening hand helping her to endure in many ways.",
+                "vi": "Em đã cảm nhận được sự giúp đỡ của Đức Giê-hô-va qua nhiều cách."
+            }
+        },
+        {
+            "content": "tiếng vỗ tay",
+            "type": "noun",
+            "example": {
+                "en": "But in that cacophony of sounds, I strained to hear two hands only.",
+                "vi": "Nhưng trong đó một tạp âm. Đó là tiếng vỗ tay một cách gượng ép"
+            }
+        },
+        {
+            "content": "tràng pháo tay",
+            "type": "noun",
+            "example": {
+                "en": "A big hand, folks, for the bravest girl I've ever met!",
+                "vi": "1 tràng pháo tay, quí vị, cho người con gái dũng cảm nhất tôi đã từng gặp!"
+            }
+        },
+        {
+            "content": "xấp bài",
+            "type": "",
+            "example": {
+                "en": "Voice: Why not? That's a very good hand.",
+                "vi": "Giọng nói: Tại sao không? Đó là một xấp bài tốt."
+            }
+        },
+        {
+            "content": "đóng góp",
+            "type": "noun",
+            "example": {
+                "en": "When the box was full, she handed the money over to be used for the preaching work.",
+                "vi": "Khi hộp đầy, em đóng góp số tiền ấy cho công việc rao giảng."
+            }
+        },
+        {
+            "content": "chữ viết",
+            "type": "noun",
+            "example": {
+                "en": "I'm going to have my hand writing 'faster,'",
+                "vi": "tôi sẽ có chữ viết tay của mình \"nhanh hơn\""
+            }
+        },
+        {
+            "content": "công nhân",
+            "type": "noun",
+            "example": {
+                "en": "A ranch hand and his wife are taking care of her.",
+                "vi": "Vợ chồng một công nhân nông trại đang chăm sóc cho nó."
+            }
+        },
+        {
+            "content": "thủy thủ",
+            "type": "noun",
+            "example": {
+                "en": "I was a good hand at teaching young crews.",
+                "vi": "Tôi là một chuyên gia dạy các thủy thủ trẻ."
+            }
+        },
+        {
+            "content": "chữ ký",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nắm",
+            "type": "noun",
+            "example": {
+                "en": "You can't shake someone's hand with a clenched fist.",
+                "vi": "Khi bắt tay ai không được nắm chặt quá."
+            }
+        },
+        {
+            "content": "trao",
+            "type": "verb",
+            "example": {
+                "en": "I wanted to hand this to you while you were still president.",
+                "vi": "Tôi muốn trao tận tay ngài thứ này khi ngài vẫn còn là Tổng thống."
+            }
+        },
+        {
+            "content": "kim đồng hồ",
+            "type": "noun",
+            "example": {
+                "en": "Big hand points to minutes.",
+                "vi": "Kim đồng hồ chỉ đến hàng phút."
+            }
+        },
+        {
+            "content": "thuỷ thủ",
+            "type": "",
+            "example": {
+                "en": "The aircraft carrier, USS Roosevelt, goes down off the East Coast all hands lost.",
+                "vi": "Tàu sân bay USS Roosevelt chìm ở bờ biển phía đông, toàn bộ thuỷ thủ thiệt mạng."
+            }
+        },
+        {
+            "content": "trao tay",
+            "type": "verb",
+            "example": {
+                "en": "What would you say to 80, cash in hand?",
+                "vi": "Ông muốn bao nhiêu, 80 - tiền trao tay hả?"
+            }
+        },
+        {
+            "content": "nải",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mẻ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đoàn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "nguồn",
+            "type": "noun",
+            "example": {
+                "en": "On the other hand, “a heart at peace gives life to the body.”",
+                "vi": "Ngược lại, “tâm hồn bình an là nguồn sống cho thể xác”."
+            }
+        },
+        {
+            "content": "baøn tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bàn chân trước",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "băng ca",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chân đánh bài",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "chữ viết tay",
+            "type": "",
+            "example": {
+                "en": "I'm going to have my hand writing 'faster,'",
+                "vi": "tôi sẽ có chữ viết tay của mình \"nhanh hơn\""
+            }
+        },
+        {
+            "content": "một tay",
+            "type": "",
+            "example": {
+                "en": "Tom has never laid a hand on me.",
+                "vi": "Tom chưa bao giờ đặt một tay vào tôi"
+            }
+        },
+        {
+            "content": "người chơi",
+            "type": "",
+            "example": {
+                "en": "so he can go ahead and hand off the toy and change the person,",
+                "vi": "nên bé có thể đưa mẹ đồ chơi và thay đổi người chơi,"
+            }
+        },
+        {
+            "content": "người làm",
+            "type": "noun",
+            "example": {
+                "en": "The lazy, on the other hand, opt for “two handfuls” of rest and squander precious time.",
+                "vi": "Ngược lại, người làm biếng chọn “hai tay” nghỉ ngơi và lãng phí thời gian quý báu."
+            }
+        },
+        {
+            "content": "phần tham gia",
+            "type": "",
+            "example": {
+                "en": "We summarized the assembly program with the participants on hand.",
+                "vi": "Chúng tôi rút ngắn chương trình hội nghị với những người có phần tham gia hiện có mặt."
+            }
+        },
+        {
+            "content": "sự có sãn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự hứa hôn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự khéo léo",
+            "type": "",
+            "example": {
+                "en": "using the full dexterity of our hands?",
+                "vi": "bằng cách sử dụng đầy đủ sự khéo léo của bàn tay của chúng ta?"
+            }
+        },
+        {
+            "content": "sự khéo tay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự kiểm soát",
+            "type": "",
+            "example": {
+                "en": "I'm happy we're in safe hands.",
+                "vi": "Tôi rất vui khi chúng ta có được sự kiểm soát an toàn"
+            }
+        },
+        {
+            "content": "sự nhúng tay vào",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự nắm giữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tham gia",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ván bài",
+            "type": "noun",
+            "example": {
+                "en": "Every at bat's like a hand of blackjack.",
+                "vi": "Mỗi lượt đập bóng như một ván bài xì dách."
+            }
+        },
+        {
+            "content": "xe ba gác",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thủ",
+            "type": "",
+            "example": {
+                "en": "The coaches directed the players to shake hands with the opposing team members.",
+                "vi": "Các huấn luyện viên hướng dẫn các cầu thủ bắt tay với những người ở đội bên kia."
+            }
+        },
+        {
+            "content": "Bàn tay",
+            "type": "",
+            "example": {
+                "en": "John's hand is clean.",
+                "vi": "Bàn tay của John rất sạch sẽ."
+            }
+        },
+        {
+            "content": "chuyển giao",
+            "type": "",
+            "example": {
+                "en": "They arrested her, handed her over to me.",
+                "vi": "Người ta đã bắt giữ cô ấy và chuyển giao lại cho tôi."
+            }
+        },
+        {
+            "content": "cây kim",
+            "type": "noun",
+            "example": {
+                "en": "You got three hands you can control.",
+                "vi": "Cháu có thể điều chỉnh 3 cây kim ở đây."
+            }
+        }
+    ]
+}

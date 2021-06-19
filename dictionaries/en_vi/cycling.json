@@ -1,0 +1,44 @@
+{
+    "word": "cycling",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsīk(ə)liNG/",
+            "/ˈsaɪk(ə)lɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈsʌɪklɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đi xe đạp",
+            "type": "noun",
+            "example": {
+                "en": "All this cycling makes me feel like Lance Armstrong.",
+                "vi": "Cái kiểu như đi xe đạp thế này khiến tôi thấy như Lance Armstrong ý."
+            }
+        },
+        {
+            "content": "sự đi xe đạp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đạp xe",
+            "type": "",
+            "example": {
+                "en": "I hate cycling, and you know I do.",
+                "vi": "Em ghét đạp xe và em đã làm đây!"
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "hutch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/həCH/",
+            "/hətʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌtʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chuồng thỏ",
+            "type": "",
+            "example": {
+                "en": "We're gonna have a big vegetable patch and we're gonna have a rabbit hutch.",
+                "vi": "Chúng ta sẽ có một vườn rau lớn và chúng ta sẽ có một cái chuồng thỏ."
+            }
+        },
+        {
+            "content": "chòi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lều",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "quán",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "cardiovascular",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkärdēōˈvaskyələr/",
+            "/ˌkɑrdioʊˈvæskjələr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkɑːdɪəʊˈvaskjʊlə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tim mạch",
+            "type": "",
+            "example": {
+                "en": "So , he tested the effects of music on the cardiovascular system .",
+                "vi": "Vì vậy ông đã kiểm tra các tác động của âm nhạc trên hệ tim mạch ."
+            }
+        },
+        {
+            "content": "thuộc tim mạch",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tim và mạch máu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

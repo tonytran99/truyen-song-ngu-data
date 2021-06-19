@@ -1,0 +1,50 @@
+{
+    "word": "inventor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈven(t)ər/",
+            "/ɪnˈvɛn(t)ər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛntə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người sáng chế",
+            "type": "",
+            "example": {
+                "en": "The inventor is an old schoolmate of mine.",
+                "vi": "Người sáng chế ra nó là bạn học cũ của tôi."
+            }
+        },
+        {
+            "content": "người phát minh",
+            "type": "",
+            "example": {
+                "en": "If you guys were the inventors of Facebook you'd have invented Facebook.",
+                "vi": "Nếu các cậu là người phát minh ra Facebook, các cậu hẳn đã viết ra Facebook."
+            }
+        },
+        {
+            "content": "nhà phát minh",
+            "type": "",
+            "example": {
+                "en": "And the inventor of the door rests happily in his grave.",
+                "vi": "Và nhà phát minh ra cửa đã ra đi yên bình trong quan tài."
+            }
+        },
+        {
+            "content": "người sáng tạo",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

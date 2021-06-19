@@ -1,0 +1,62 @@
+{
+    "word": "include",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈklo͞od/",
+            "/ɪnˈklud/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkluːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao gồm",
+            "type": "verb",
+            "example": {
+                "en": "The entrée includes a beverage.",
+                "vi": "Vé vào cửa bao gồm cả nước giải khát."
+            }
+        },
+        {
+            "content": "gồm",
+            "type": "verb",
+            "example": {
+                "en": "The entrée includes a beverage.",
+                "vi": "Vé vào cửa bao gồm cả nước giải khát."
+            }
+        },
+        {
+            "content": "gồm có",
+            "type": "",
+            "example": {
+                "en": "Foods that contain lactose include milk, ice cream, yogurt, butter, and cheeses.",
+                "vi": "Những thức ăn chứa đựng lactose gồm có sữa, kem, sữa chua, bơ và phó mát."
+            }
+        },
+        {
+            "content": "kể cả",
+            "type": "",
+            "example": {
+                "en": "She would do anything for them, including getting up in the middle of the night to feed them.",
+                "vi": "Bà sẵn sàng làm mọi thứ, kể cả việc thức dậy lúc nửa đêm để cho con bú."
+            }
+        },
+        {
+            "content": "tính đến",
+            "type": "",
+            "example": {
+                "en": "nursing homes and hospitals were not included in this investigation .",
+                "vi": "Nghiên cứu này không tính đến những người đang nằm viện hoặc ở trong viện dưỡng lão ."
+            }
+        }
+    ]
+}

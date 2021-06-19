@@ -1,0 +1,40 @@
+{
+    "word": "caw",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kô/",
+            "/kɔ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kêu",
+            "type": "verb",
+            "example": {
+                "en": "– Then somehow that bird will rise from the rock and kind of caw...",
+                "vi": "Bằng cách nào đó con chim này sẽ trỗi dậy từ hòn đá và như quạ kêu..."
+            }
+        },
+        {
+            "content": "kêu như quạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng quạ kêu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

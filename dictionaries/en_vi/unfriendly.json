@@ -1,0 +1,50 @@
+{
+    "word": "unfriendly",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈfren(d)lē/",
+            "/ˌənˈfrɛn(d)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈfrɛn(d)li/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thân thiện",
+            "type": "adjective",
+            "example": {
+                "en": "May these cloaks help shield you from unfriendly eyes.",
+                "vi": "Mong những tấm áo này sẽ che chở các bạn khỏi ánh nhìn không thân thiện."
+            }
+        },
+        {
+            "content": "bất lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cừu địch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thuận lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thân mật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

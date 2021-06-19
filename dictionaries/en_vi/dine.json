@@ -1,0 +1,50 @@
+{
+    "word": "dine",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīn/",
+            "/daɪn/",
+            "/dəˈnā/",
+            "/dəˈneɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪn/",
+            "/dəˈneɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hàng",
+            "type": "verb noun",
+            "example": {}
+        },
+        {
+            "content": "thết cơm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ăn cơm",
+            "type": "",
+            "example": {
+                "en": "It is my pleasure that you dine with me in Wadi Rumm!",
+                "vi": "Tôi sẽ hân hạnh mời các người ăn cơm với tôi ở Wadi Rumm!"
+            }
+        },
+        {
+            "content": "bữa tối",
+            "type": "",
+            "example": {
+                "en": "She has invited me to dine with her.",
+                "vi": "Cô ấy mời con đến ăn bữa tối."
+            }
+        }
+    ]
+}

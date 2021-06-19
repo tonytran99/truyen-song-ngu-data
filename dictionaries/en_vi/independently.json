@@ -1,0 +1,58 @@
+{
+    "word": "independently",
+    "type": [
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌindəˈpendəntlē/",
+            "/ˌɪndəˈpɛndəntli/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪndɪˈpɛnd(ə)ntli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không lệ thuộc",
+            "type": "",
+            "example": {
+                "en": "The goal was to help people help themselves become independent.",
+                "vi": "Mục tiêu là để giúp người ta tự giúp bản thân mình trở nên không lệ thuộc."
+            }
+        },
+        {
+            "content": "không phụ thuộc",
+            "type": "",
+            "example": {
+                "en": "I'm economically independent of my parents.",
+                "vi": "Tôi không phụ thuộc chuyện tiền bạc vào bố mẹ tôi"
+            }
+        },
+        {
+            "content": "không tuỳ thuộc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "một cách độc lập",
+            "type": "",
+            "example": {
+                "en": "They've been killing independently of each other for a year now.",
+                "vi": "Họ đã bị giết chết một cách độc lập với nhau một năm nay."
+            }
+        },
+        {
+            "content": "độc lập",
+            "type": "adjective noun",
+            "example": {
+                "en": "Our people thirst for independence.",
+                "vi": "Người dân của chúng tôi đang khát khao sự độc lập."
+            }
+        }
+    ]
+}

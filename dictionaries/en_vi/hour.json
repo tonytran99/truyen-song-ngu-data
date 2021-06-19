@@ -1,0 +1,71 @@
+{
+    "word": "hour",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈou(ə)r/",
+            "/ˈaʊ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈaʊə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giờ",
+            "type": "noun",
+            "example": {
+                "en": "I've been waiting for her for an hour.",
+                "vi": "Cho đến giờ tôi đã đợi cô ta một tiếng đồng hồ."
+            }
+        },
+        {
+            "content": "tiếng",
+            "type": "noun",
+            "example": {
+                "en": "I have to go shopping. I'll be back in an hour.",
+                "vi": "Tôi đi mua sắm một chút. Một tiếng sau trở lại."
+            }
+        },
+        {
+            "content": "lúc",
+            "type": "noun",
+            "example": {
+                "en": "You left me in my hour of need, my friend.",
+                "vi": "Anh bỏ tôi trong lúc tôi cần anh nhất."
+            }
+        },
+        {
+            "content": "giờ phút",
+            "type": "",
+            "example": {
+                "en": "These sedatives will alleviate your suffering during these final hours.",
+                "vi": "Những viên thuốc an thần này sẽ làm dịu bớt đau đớn trong những giờ phút cuối cùng."
+            }
+        },
+        {
+            "content": "kinh tụng hằng ngày",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng hồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng đồng hồ",
+            "type": "noun",
+            "example": {
+                "en": "She was made to wait for over an hour.",
+                "vi": "Chị ấy bị bắt chờ hơn một tiếng đồng hồ."
+            }
+        }
+    ]
+}

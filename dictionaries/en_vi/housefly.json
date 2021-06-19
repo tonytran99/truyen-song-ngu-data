@@ -1,0 +1,45 @@
+{
+    "word": "housefly",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhousˌflī/",
+            "/ˈhaʊsˌflaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhaʊsflʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Ruồi nhà",
+            "type": "",
+            "example": {
+                "en": "Houseflies carry disease-causing agents on their feet",
+                "vi": "Ruồi nhà mang mầm bệnh nơi chân chúng"
+            }
+        },
+        {
+            "content": "con ruồi",
+            "type": "",
+            "example": {
+                "en": "The brain of a human is far superior to that of a housefly.",
+                "vi": "Não bộ con người hơn não con ruồi nhiều."
+            }
+        },
+        {
+            "content": "ruồi nhà",
+            "type": "noun",
+            "example": {
+                "en": "Houseflies carry disease-causing agents on their feet",
+                "vi": "Ruồi nhà mang mầm bệnh nơi chân chúng"
+            }
+        }
+    ]
+}

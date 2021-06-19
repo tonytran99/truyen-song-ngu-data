@@ -1,0 +1,60 @@
+{
+    "word": "imbibe",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/imˈbīb/",
+            "/ɪmˈbaɪb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbʌɪb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hấp thụ",
+            "type": "verb",
+            "example": {
+                "en": "What values and principles did they imbibe with their mother's milk,",
+                "vi": "Những giá trị và nguyên lý nào mà chúng hấp thụ từ dòng sữa mẹ,"
+            }
+        },
+        {
+            "content": "uống",
+            "type": "noun",
+            "example": {
+                "en": "You know I don't imbibe.",
+                "vi": "Cô biết là tôi không uống mà."
+            }
+        },
+        {
+            "content": "hít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nốc",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hút",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tiêm nhiễm",
+            "type": "",
+            "example": {
+                "en": "(b) What personality traits develop in those who imbibe “the spirit of the world”?",
+                "vi": "(b) Những người tiêm nhiễm “tinh thần thế gian” phát triển những tính nết nào?"
+            }
+        }
+    ]
+}

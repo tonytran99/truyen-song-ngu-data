@@ -1,0 +1,41 @@
+{
+    "word": "kebab",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈbäb/",
+            "/kəˈbɑb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪˈbab/",
+            "/kəˈbɑːb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Kebab",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kebab",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thịt nướng",
+            "type": "",
+            "example": {
+                "en": "If a kebab comes along, pull out the stick and eat it up.",
+                "vi": "Nếu mà có thịt nướng để ra ngoài cái que xiên thì em có thể ăn hết."
+            }
+        }
+    ]
+}

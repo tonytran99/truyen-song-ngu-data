@@ -1,0 +1,37 @@
+{
+    "word": "firefly",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌflī/",
+            "/ˈfaɪ(ə)rˌflaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəflʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đom đóm",
+            "type": "noun",
+            "example": {
+                "en": "The abdomen of a firefly contains an organic substance known as luciferin.",
+                "vi": "Bụng đom đóm có chứa một chất hữu cơ được gọi là luxiferin."
+            }
+        },
+        {
+            "content": "con đom đóm",
+            "type": "",
+            "example": {
+                "en": "Scientists have not studied all species of this firefly.",
+                "vi": "Các nhà khoa học chưa nghiên cứu mọi loại của con đom đóm này."
+            }
+        }
+    ]
+}

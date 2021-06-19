@@ -1,0 +1,67 @@
+{
+    "word": "isolate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsəˌlāt/",
+            "/ˈaɪsəˌleɪt/",
+            "/ˈīsələt/",
+            "/ˈaɪsələt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsəleɪt/",
+            "/ˈʌɪsələt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cách ly",
+            "type": "verb",
+            "example": {
+                "en": "Ted Kaczynksi carried out a campaign of isolation and murder.",
+                "vi": "Ted Kaczynksi đã thực hiện chiến dịch cách ly và giết người."
+            }
+        },
+        {
+            "content": "cô lập",
+            "type": "",
+            "example": {
+                "en": "We take it back to Geneva for taxonomy and isolation.",
+                "vi": "Chúng tôi sẽ mang nó trở lại Geneva để kiểm tra, cô lập nó."
+            }
+        },
+        {
+            "content": "cách",
+            "type": "verb noun",
+            "example": {
+                "en": "Ted Kaczynksi carried out a campaign of isolation and murder.",
+                "vi": "Ted Kaczynksi đã thực hiện chiến dịch cách ly và giết người."
+            }
+        },
+        {
+            "content": "chia cắt",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cách bức",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {
+                "en": "Technicians isolate and use many plasma proteins.",
+                "vi": "Các nhà kỹ thuật tách ra và dùng nhiều chất protein chiết ra từ huyết tương."
+            }
+        }
+    ]
+}

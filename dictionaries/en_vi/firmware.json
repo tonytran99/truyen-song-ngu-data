@@ -1,0 +1,44 @@
+{
+    "word": "firmware",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfərmwer/",
+            "/ˈfərmwɛr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfəːmwɛː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kiên liệu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần dẻo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Firmware",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phần sụn",
+            "type": "noun",
+            "example": {
+                "en": "hardware, firmware and software,",
+                "vi": "phần cứng, phần sụn và phần mềm"
+            }
+        }
+    ]
+}

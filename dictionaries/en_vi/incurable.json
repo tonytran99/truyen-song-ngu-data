@@ -1,0 +1,51 @@
+{
+    "word": "incurable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinˈkyo͝orəb(ə)l/",
+            "/ˌɪnˈkjʊrəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkjʊərəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất trị",
+            "type": "adjective",
+            "example": {
+                "en": "Miller, you are an incurable showoff.",
+                "vi": "Miller, anh đúng là một tên ba hoa bất trị."
+            }
+        },
+        {
+            "content": "không thể chữa được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể cứu chữa",
+            "type": "",
+            "example": {
+                "en": "She's an incurable romantic.",
+                "vi": "Bà ấy là người lãng mạn không thể cứu chữa nổi."
+            }
+        },
+        {
+            "content": "nan y",
+            "type": "adjective",
+            "example": {
+                "en": "Think of the woman who, for 12 years, endured an incurable disease.",
+                "vi": "Hãy nghĩ về người đàn bà đã phải chịu đựng một căn bệnh nan y trong 12 năm."
+            }
+        }
+    ]
+}

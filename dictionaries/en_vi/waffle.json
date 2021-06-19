@@ -1,0 +1,63 @@
+{
+    "word": "waffle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwäfəl/",
+            "/ˈwɑfəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɒf(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh quế",
+            "type": "noun",
+            "example": {
+                "en": "I don't hate you and I care about waffles.",
+                "vi": "Tôi không ghét anh và tôi thích ăn bánh quế."
+            }
+        },
+        {
+            "content": "bánh kẹp",
+            "type": "",
+            "example": {
+                "en": "Thought you spent it all on shrimp and waffles.",
+                "vi": "Tưởng cậu đã tiêu hết vào món tôm và bánh kẹp rồi."
+            }
+        },
+        {
+            "content": "chuyện gẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chuyện liến thoắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện gẫu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nói chuyện liến thoắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầng sáp ong",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

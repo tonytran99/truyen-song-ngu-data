@@ -1,0 +1,133 @@
+{
+    "word": "here",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hir/",
+            "/hɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đây",
+            "type": "noun, adverb",
+            "example": {
+                "en": "America is a lovely place to be, if you are here to earn money.",
+                "vi": "Sống ở Mỹ rất thích nếu là ở đây để kiếm tiền."
+            }
+        },
+        {
+            "content": "ở đây",
+            "type": "noun",
+            "example": {
+                "en": "America is a lovely place to be, if you are here to earn money.",
+                "vi": "Sống ở Mỹ rất thích nếu là ở đây để kiếm tiền."
+            }
+        },
+        {
+            "content": "tại đây",
+            "type": "adverb",
+            "example": {
+                "en": "I came to Tokyo three years ago and I've been living here since.",
+                "vi": "Tôi tới Tokyo ba năm trước đây và từ đó tôi sống tại đây."
+            }
+        },
+        {
+            "content": "bên này",
+            "type": "adverb",
+            "example": {
+                "en": "Get over here, Tom.",
+                "vi": "Qua bên này đi Tom."
+            }
+        },
+        {
+            "content": "này",
+            "type": "determiner",
+            "example": {
+                "en": "I'm in pain here.",
+                "vi": "Tôi bị đau ở chỗ này."
+            }
+        },
+        {
+            "content": "chính",
+            "type": "adjective",
+            "example": {
+                "en": "But right in the middle here where there's a sweet spot, the noise is dominated by human ships.",
+                "vi": "Nhưng ngay chính giữa là điểm thay đổi, tiếng ồn chủ yếu bởi tàu của con người."
+            }
+        },
+        {
+            "content": "ngay tại đây",
+            "type": "",
+            "example": {
+                "en": "Right here direct from the lamp, right here for your very much wish fulfillment.",
+                "vi": "Ngay bây giờ trực tiếp từ cây đèn, ngay tại đây anh bạn muốn thật nhiều điều ước."
+            }
+        },
+        {
+            "content": "tại điểm này",
+            "type": "",
+            "example": {
+                "en": "It is here that the holy spirit can intercede for us.",
+                "vi": "Chính tại điểm này mà thánh linh có thể can thiệp giùm chúng ta."
+            }
+        },
+        {
+            "content": "ở nơi đây",
+            "type": "adverb",
+            "example": {
+                "en": "Still nice to be able to live here.",
+                "vi": "Nhưng vẫn có thể ở nơi đây đã tốt lắm rồi."
+            }
+        },
+        {
+            "content": "nơi đây",
+            "type": "noun",
+            "example": {
+                "en": "Still nice to be able to live here.",
+                "vi": "Nhưng vẫn có thể ở nơi đây đã tốt lắm rồi."
+            }
+        },
+        {
+            "content": "ở chỗ này",
+            "type": "",
+            "example": {
+                "en": "I'm in pain here.",
+                "vi": "Tôi bị đau ở chỗ này."
+            }
+        },
+        {
+            "content": "nì",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chốn này",
+            "type": "",
+            "example": {
+                "en": "I suggest you go someplace very far away from here.",
+                "vi": "Tôi đề nghị là anh nên đi đâu đó xa thật là xa khỏi chốn này."
+            }
+        },
+        {
+            "content": "nhà",
+            "type": "noun",
+            "example": {
+                "en": "Is this because I come over here without knocking and eat your food?",
+                "vi": "Có phải là vì tớ tự nhiên vào nhà không gõ cửa và ăn thức ăn không?"
+            }
+        }
+    ]
+}

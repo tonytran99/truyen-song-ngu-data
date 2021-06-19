@@ -1,0 +1,52 @@
+{
+    "word": "latest",
+    "type": [
+        "noun",
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlādist/",
+            "/ˈleɪdɪst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈleɪtɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giờ chót",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gần đây nhất",
+            "type": "",
+            "example": {
+                "en": "Dr. Wells, we just got the latest weather report.",
+                "vi": "Tiến sĩ Wells, chúng ta vừa nhận được báo cáo thời tiết gần đây nhất."
+            }
+        },
+        {
+            "content": "muộn nhất",
+            "type": "",
+            "example": {
+                "en": "I need to leave, this evening, or tomorrow morning at the latest.",
+                "vi": "Tôi cần rời đi, tối nay hoặc muộn nhất là sáng mai."
+            }
+        },
+        {
+            "content": "mới nhất",
+            "type": "adjective",
+            "example": {
+                "en": "I'll bring you up to date with the latest news from the village.",
+                "vi": "Tôi sắp thông báo cho anh những thông tin mới nhất từ làng."
+            }
+        }
+    ]
+}

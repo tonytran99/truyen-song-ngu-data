@@ -1,0 +1,37 @@
+{
+    "word": "discotheque",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdiskəˌtek/",
+            "/ˈdɪskəˌtɛk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪskətɛk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sàn nhảy",
+            "type": "",
+            "example": {
+                "en": "KR: Turn on the radio. Pop into the discotheque.",
+                "vi": "KR: Bật radio lên. Hoặc đến các sàn nhảy."
+            }
+        },
+        {
+            "content": "vũ trường",
+            "type": "",
+            "example": {
+                "en": "Well, I have been known to frequent discotheques in my heyday.",
+                "vi": "Biết chứ, ta đã từng thường xuyên lui tới các vũ trường trong thời hoàng kim của mình."
+            }
+        }
+    ]
+}

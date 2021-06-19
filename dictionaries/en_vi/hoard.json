@@ -1,0 +1,87 @@
+{
+    "word": "hoard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hôrd/",
+            "/hɔrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hɔːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tích trữ",
+            "type": "verb",
+            "example": {
+                "en": "We don't have to hoard cans of spaghetti or go down into the basement.",
+                "vi": "Chúng ta không phải tích trữ mỳ ăn hoặc trốn dưới tầng hầm."
+            }
+        },
+        {
+            "content": "trữ",
+            "type": "verb",
+            "example": {
+                "en": "Maybe it's a chipmunk thing, like hoarding, you know?",
+                "vi": "Chắc là thói quen của sóc chuột, như trữ hạt, biết chứ?"
+            }
+        },
+        {
+            "content": "chỗ cất giấu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "của dành dụm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dành dum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dự trữ",
+            "type": "verb noun",
+            "example": {
+                "en": "You're hoarding gear, not sides of beef.",
+                "vi": "Cậu là một phụ tùng dự trữ chứ không phải là một khúc thịt."
+            }
+        },
+        {
+            "content": "kho dự trữ",
+            "type": "noun",
+            "example": {
+                "en": "To their surprise, they discovered a veritable treasure trove, subsequently named the Nahal Mishmar hoard.",
+                "vi": "Họ ngạc nhiên khi phát hiện báu vật, sau này được đặt tên là kho dự trữ Nahal Mishmar."
+            }
+        },
+        {
+            "content": "kho tích trữ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tích trữ lương thực",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kho",
+            "type": "verb",
+            "example": {
+                "en": "Many questions remain concerning the origin and background of the treasure hoard.",
+                "vi": "Vẫn còn nhiều nghi vấn liên quan đến nguồn gốc và lai lịch của kho báu ấy."
+            }
+        }
+    ]
+}

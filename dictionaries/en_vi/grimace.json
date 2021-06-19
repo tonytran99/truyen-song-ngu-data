@@ -1,0 +1,56 @@
+{
+    "word": "grimace",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡriməs/",
+            "/ˈɡrɪməs/",
+            "/ɡrəˈmās/",
+            "/ɡrəˈmeɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrɪməs/",
+            "/ɡrɪˈmeɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhăn mặt",
+            "type": "",
+            "example": {
+                "en": "John grimaced and quickly informed his two friends that it was time to leave.",
+                "vi": "John nhăn mặt và nhanh chóng nói với hai người bạn của mình rằng đã đến lúc phải ra về."
+            }
+        },
+        {
+            "content": "nhăn nhó",
+            "type": "",
+            "example": {
+                "en": "As you can see, he's looking at the moment. He's got a little grimace on his face.",
+                "vi": "trên mặt anh ta có một chút nhăn nhó."
+            }
+        },
+        {
+            "content": "sự cau mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự nhăn mặt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vẻ nhăn nhó",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

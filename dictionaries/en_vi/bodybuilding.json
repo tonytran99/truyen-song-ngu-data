@@ -1,0 +1,52 @@
+{
+    "word": "bodybuilding",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˈbädēˌbildiNG/",
+            "/ˈbɑdiˌbɪldɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɒdɪbɪldɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tập",
+            "type": "verb noun",
+            "example": {
+                "en": "Soon I got involved in gymnastics and bodybuilding.",
+                "vi": "Tôi ra sức tập thể hình và thể dục dụng cụ."
+            }
+        },
+        {
+            "content": "thể hình",
+            "type": "",
+            "example": {
+                "en": "We've connected these people to the bodybuilders you were talking about.",
+                "vi": "Bọn tôi đã khớp nối mấy người này với bọn thể hình mà ông từng kể."
+            }
+        },
+        {
+            "content": "tập tạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thể dục thể hình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thể dục thể hình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

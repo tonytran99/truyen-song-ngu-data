@@ -1,0 +1,51 @@
+{
+    "word": "appalling",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpôliNG/",
+            "/əˈpɔlɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpɔːlɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kinh khủng",
+            "type": "",
+            "example": {
+                "en": "It is a tragic story about an appalling tradition.",
+                "vi": "Nó là một câu chuyện thương tâm về một truyền thống kinh khủng."
+            }
+        },
+        {
+            "content": "làm kinh hoảng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh hãi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm kinh sợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm thất kinh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "word": "fracture",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrak(t)SHər/",
+            "/ˈfræk(t)ʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfraktʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gãy",
+            "type": "",
+            "example": {
+                "en": "I didn't twist my ankle, I fractured it.",
+                "vi": "Tôi không bị trặc chân, mà bị gãy rồi."
+            }
+        },
+        {
+            "content": "nứt",
+            "type": "",
+            "example": {
+                "en": "We've got a hull fracture in the engine room!",
+                "vi": "Chúng ta đã có một vết nứt ở vỏ trong phòng động cơ!"
+            }
+        },
+        {
+            "content": "rạn",
+            "type": "",
+            "example": {
+                "en": "They have fractured from the man and yet hold the city.",
+                "vi": "Chúng rạn nứt với Spartacus và ở lại giữ thành."
+            }
+        },
+        {
+            "content": "bẻ gây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gãy xương",
+            "type": "",
+            "example": {
+                "en": "If you have osteoporosis , you have an increased risk for fractured bones ( broken bones ) .",
+                "vi": "Nếu bạn bị loãng xương , thì nguy cơ bạn bị gãy xương tăng cao ."
+            }
+        },
+        {
+            "content": "khe nứt",
+            "type": "",
+            "example": {
+                "en": "where the infiltrating water along cracks, fractures,",
+                "vi": "nước thấm qua khe nứt,"
+            }
+        },
+        {
+            "content": "làm gây",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đứt đoạn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nết đứt gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Vết vỡ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự gãy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vết rạn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

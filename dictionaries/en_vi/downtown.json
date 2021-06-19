@@ -1,0 +1,47 @@
+{
+    "word": "downtown",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌdounˈtoun/",
+            "/ˌdaʊnˈtaʊn/",
+            "/ˈdountoun/",
+            "/ˈdaʊntaʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdaʊntaʊn/",
+            "/daʊnˈtaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khu vực thành phố",
+            "type": "noun",
+            "example": {
+                "en": "Downtown Suva, Fiji, was looted and burned.",
+                "vi": "Khu vực thành phố Suva, Fiji, bị cướp phá và đốt cháy."
+            }
+        },
+        {
+            "content": "trung tâm thành phố",
+            "type": "",
+            "example": {
+                "en": "Now, this thing is rigged to fly straight downtown at a push of a button.",
+                "vi": "Chỉ cần ấn nút, nó sẽ bay thẳng đến mục tiêu là trung tâm thành phố."
+            }
+        },
+        {
+            "content": "đi vào thành phố",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

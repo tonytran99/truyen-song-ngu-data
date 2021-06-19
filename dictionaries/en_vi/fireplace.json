@@ -1,0 +1,37 @@
+{
+    "word": "fireplace",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfī(ə)rˌplās/",
+            "/ˈfaɪ(ə)rˌpleɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪəpleɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò sưởi",
+            "type": "noun",
+            "example": {
+                "en": "I made sure it was the best, with corner windows and a fireplace.",
+                "vi": "Cha chắc rằng nó là tốt nhất, với cửa sổ và lò sưởi."
+            }
+        },
+        {
+            "content": "Lò sưởi",
+            "type": "",
+            "example": {
+                "en": "The fireplace in the great room at Rosings would be much larger than that.",
+                "vi": "Lò sưởi phòng lớn ở Rosings chắc phải to hơn thế."
+            }
+        }
+    ]
+}

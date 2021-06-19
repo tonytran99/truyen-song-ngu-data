@@ -1,0 +1,43 @@
+{
+    "word": "infrared",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinfrəˈred/",
+            "/ˌɪnfrəˈrɛd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnfrəˈrɛd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hồng ngoại",
+            "type": "adjective",
+            "example": {
+                "en": "Infrared and ultra-violet rays are types of light invisible to the human eye.",
+                "vi": "Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được."
+            }
+        },
+        {
+            "content": "tia hồng ngoại",
+            "type": "",
+            "example": {
+                "en": "Infrared and ultra-violet rays are types of light invisible to the human eye.",
+                "vi": "Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được."
+            }
+        },
+        {
+            "content": "siêu đỏ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

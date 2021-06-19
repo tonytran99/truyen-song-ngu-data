@@ -1,0 +1,42 @@
+{
+    "word": "vicar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvikər/",
+            "/ˈvɪkər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪkə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cha sở",
+            "type": "noun",
+            "example": {
+                "en": "Anything would be better though than the last vicar.",
+                "vi": "Bất cứ gì cũng đều tốt hơn ông cha sở cũ thôi mà."
+            }
+        },
+        {
+            "content": "cha xứ",
+            "type": "",
+            "example": {
+                "en": "Why can't we be vicars or priests?",
+                "vi": "Sao chúng tôi không thể làm cha xứ hay linh mục?"
+            }
+        },
+        {
+            "content": "giáo chức đại diện",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

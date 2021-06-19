@@ -1,0 +1,37 @@
+{
+    "word": "headless",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhedləs/",
+            "/ˈhɛdləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɛdləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không có đầu",
+            "type": "",
+            "example": {
+                "en": "These headless bodies can live for about a day,",
+                "vi": "Cơ thể không có đầu kia có thể sống được trong một ngày,"
+            }
+        },
+        {
+            "content": "không đầu",
+            "type": "adjective",
+            "example": {
+                "en": "Then, of course, all the attention turned to that headless brother of yours.",
+                "vi": "Vậy, dĩ nhiên, tất cả sự tập trung quay... sang thằng em không đầu của cô."
+            }
+        }
+    ]
+}

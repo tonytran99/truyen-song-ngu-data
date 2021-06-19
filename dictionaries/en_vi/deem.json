@@ -1,0 +1,53 @@
+{
+    "word": "deem",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dēm/",
+            "/dim/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/diːm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tưởng rằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho rằng",
+            "type": "verb",
+            "example": {
+                "en": "I've been deemed under protection by the almighty Klaus.",
+                "vi": "Tôi cho rằng mình đang được bảo vệ bởi một Klaus toàn năng."
+            }
+        },
+        {
+            "content": "nghĩ rằng",
+            "type": "",
+            "example": {
+                "en": "You are not wrong, who deem That my days have been a dream.",
+                "vi": "Em đã không sai khi nghĩ rằng cuộc đời anh không phải là giấc mơ."
+            }
+        },
+        {
+            "content": "thấy rằng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cho raèng, thaáy raèng, ñaùnh giaù",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "american",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmerəkən/",
+            "/əˈmɛrəkən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈmɛrɪk(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "của Mỹ",
+            "type": "adjective",
+            "example": {
+                "en": "The american computer calculating a response.",
+                "vi": "Máy tính của Mỹ đang tính toán để đáp trả lại nước đi."
+            }
+        },
+        {
+            "content": "mỹ",
+            "type": "adjective",
+            "example": {
+                "en": "I'm American, but I can speak Japanese a little.",
+                "vi": "Tôi là người Mỹ, nhưng tôi có thể nói được một ít tiếng Nhật."
+            }
+        },
+        {
+            "content": "thuộc Mỹ",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

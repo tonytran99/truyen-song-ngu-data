@@ -1,0 +1,41 @@
+{
+    "word": "duchess",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdəCHəs/",
+            "/ˈdətʃəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʌtʃəs/",
+            "/ˈdʌtʃɛs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nữ công tước",
+            "type": "",
+            "example": {
+                "en": "And then you'll have killed a police inspector and a duchess.",
+                "vi": "Và ngài đã giết một Thám trưởng và một nữ công tước."
+            }
+        },
+        {
+            "content": "vợ công tước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bà bệ vệ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

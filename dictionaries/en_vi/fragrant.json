@@ -1,0 +1,60 @@
+{
+    "word": "fragrant",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrāɡrənt/",
+            "/ˈfreɪɡrənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfreɪɡr(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thơm",
+            "type": "adjective",
+            "example": {
+                "en": "As the wood decays, it secretes fragrant oil and resin.",
+                "vi": "Khi gỗ bị mục thì dầu và nhựa thơm chảy ra."
+            }
+        },
+        {
+            "content": "thơm ngát",
+            "type": "adjective",
+            "example": {
+                "en": "The fragrant wattle flower is used in perfume making.",
+                "vi": "Hoa keo thơm ngát được dùng để sản xuất nước hoa."
+            }
+        },
+        {
+            "content": "có mùi thơm",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thơm phưng phức",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thơm phức",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hương",
+            "type": "adjective",
+            "example": {
+                "en": "Before you fast please take this famous Fragrant Rain tea",
+                "vi": "Trước khi đi... xin hãy thưởng thức trà Hương Vũ trứ danh"
+            }
+        }
+    ]
+}

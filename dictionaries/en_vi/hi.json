@@ -1,0 +1,102 @@
+{
+    "word": "hi",
+    "type": [
+        "noun",
+        "adjective",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hī/",
+            "/haɪ/",
+            "/ˈˌāCH ˈī/",
+            "/ˈˌeɪtʃ ˈaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/hʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chào",
+            "type": "interjection",
+            "example": {
+                "en": "Hi, George! How's it going?",
+                "vi": "Chào George! Dạo này cậu thế nào?"
+            }
+        },
+        {
+            "content": "anh",
+            "type": "pronoun noun",
+            "example": {
+                "en": "It is his defiant attitude that made the chief angry.",
+                "vi": "Thái độ thách đố của anh ta khiến thủ trưởng tức giận."
+            }
+        },
+        {
+            "content": "bà",
+            "type": "pronoun noun",
+            "example": {
+                "en": "Now, let's go kill Castle in his miserable hole.",
+                "vi": "Giờ thì đi giết Castle và mụ đàn bà kia nữa."
+            }
+        },
+        {
+            "content": "chị",
+            "type": "pronoun noun",
+            "example": {
+                "en": "It was his wish to go to Paris.",
+                "vi": "Chị ấy có nguyện vọng đi Paris."
+            }
+        },
+        {
+            "content": "cô",
+            "type": "pronoun noun",
+            "example": {
+                "en": "My client took an infant under his wing for one reason only.",
+                "vi": "Thân chủ của tôi nuôi nấng cô bé chỉ vì một lý do."
+            }
+        },
+        {
+            "content": "em",
+            "type": "adjective pronoun noun",
+            "example": {
+                "en": "His house and mine are adjacent.",
+                "vi": "Khi tôi về đến nhà, em trai tôi đã làm xong bài tập về nhà."
+            }
+        },
+        {
+            "content": "quí vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ông",
+            "type": "pronoun noun",
+            "example": {
+                "en": "When will his new novel come out?",
+                "vi": "Khi nào mới phát hành quyển tiểu thuyết của ông ấy?"
+            }
+        },
+        {
+            "content": "xin chào",
+            "type": "interjection",
+            "example": {
+                "en": "Is that how you say hi in Texas?",
+                "vi": "Đó là cách nói xin chào ở Texas à?"
+            }
+        },
+        {
+            "content": "lời chào",
+            "type": "",
+            "example": {
+                "en": "Oh, and tell your wife I said hi.",
+                "vi": "Cho tôi gởi lời chào tới vợ ông luôn nhé!"
+            }
+        }
+    ]
+}

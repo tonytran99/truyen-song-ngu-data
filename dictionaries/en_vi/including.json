@@ -1,0 +1,54 @@
+{
+    "word": "including",
+    "type": [
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈklo͞odiNG/",
+            "/ɪnˈkludɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈkluːdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bao gồm",
+            "type": "",
+            "example": {
+                "en": "The entrée includes a beverage.",
+                "vi": "Vé vào cửa bao gồm cả nước giải khát."
+            }
+        },
+        {
+            "content": "bao gồm cả",
+            "type": "",
+            "example": {
+                "en": "The entrée includes a beverage.",
+                "vi": "Vé vào cửa bao gồm cả nước giải khát."
+            }
+        },
+        {
+            "content": "gồm có",
+            "type": "",
+            "example": {
+                "en": "Foods that contain lactose include milk, ice cream, yogurt, butter, and cheeses.",
+                "vi": "Những thức ăn chứa đựng lactose gồm có sữa, kem, sữa chua, bơ và phó mát."
+            }
+        },
+        {
+            "content": "kể cả",
+            "type": "",
+            "example": {
+                "en": "He has a list of targets, including a man who's running for Congress.",
+                "vi": "Hắn có một danh sách mục tiêu, kể cả người ứng cử vào Quốc Hội."
+            }
+        }
+    ]
+}

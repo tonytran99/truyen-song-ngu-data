@@ -1,0 +1,78 @@
+{
+    "word": "wafer",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwāfər/",
+            "/ˈweɪfər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈweɪfə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bánh xốp",
+            "type": "noun",
+            "example": {
+                "en": "Would you like to know who ate the wafer?",
+                "vi": "Ngài có muốn biết ai đã ăn bánh xốp không?"
+            }
+        },
+        {
+            "content": "đĩa bán dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "niêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh quế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh thánh",
+            "type": "",
+            "example": {
+                "en": "Close, but no wafer.",
+                "vi": "Gần đúng, nhưng không có bánh thánh."
+            }
+        },
+        {
+            "content": "dấu xi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gắn xi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "niêm phong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòng giấy niêm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Đĩa bán dẫn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

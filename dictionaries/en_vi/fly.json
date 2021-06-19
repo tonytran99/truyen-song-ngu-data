@@ -1,0 +1,261 @@
+{
+    "word": "fly",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flī/",
+            "/flaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bay",
+            "type": "verb",
+            "example": {
+                "en": "Love must have wings to fly away from love, and to fly back again.",
+                "vi": "Tình yêu phải có cánh để bay khỏi tình yêu, và lại bay trở lại."
+            }
+        },
+        {
+            "content": "ruồi",
+            "type": "noun",
+            "example": {
+                "en": "I've got a fly without any wings in my cap.",
+                "vi": "Trong nón em có một con ruồi không có cánh."
+            }
+        },
+        {
+            "content": "con ruồi",
+            "type": "noun",
+            "example": {
+                "en": "I've got a fly without any wings in my cap.",
+                "vi": "Trong nón em có một con ruồi không có cánh."
+            }
+        },
+        {
+            "content": "thả",
+            "type": "verb",
+            "example": {
+                "en": "He's flying a kite!",
+                "vi": "Cậu ta đang thả diều!"
+            }
+        },
+        {
+            "content": "chạy trốn",
+            "type": "",
+            "example": {
+                "en": "He seeks to fly before discovery.",
+                "vi": "Hắn tìm cách chạy trốn trước khi bị phát hiện"
+            }
+        },
+        {
+            "content": "đi máy bay",
+            "type": "",
+            "example": {
+                "en": "I never understood why people would take the bus when they can fly.",
+                "vi": "Tôi không hiểu sao người ta lại đi xe buýt khi có thể đi máy bay."
+            }
+        },
+        {
+            "content": "lái",
+            "type": "verb",
+            "example": {
+                "en": "You're sure there's nobody else who can fly a helicopter?",
+                "vi": "Không còn ai có thể lái trực thăng được sao ạ?"
+            }
+        },
+        {
+            "content": "tung",
+            "type": "verb",
+            "example": {
+                "en": "Unless we want his jawbone flying across the room.",
+                "vi": "Trừ khi muốn xương hàm cậu ta bay lung tung trong phòng."
+            }
+        },
+        {
+            "content": "ruổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bay phấp phới",
+            "type": "",
+            "example": {
+                "en": "and I had a ski pole with a Union Jack, you know, flying in the wind.",
+                "vi": "và tôi có 1 cái sào trượt tuyết treo cờ Anh bay phấp phới."
+            }
+        },
+        {
+            "content": "bay vút lên cao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh do ruồi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cao bay xa chạy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chạy nhanh",
+            "type": "",
+            "example": {
+                "en": "Says The World Book Encyclopedia: “The ostrich cannot fly, but it is known for its speed on the ground.",
+                "vi": "The World Book Encyclopedia (Bách khoa tự điển thế giới) ghi nhận: “Tuy đà điểu không biết bay nhưng nổi tiếng là chạy nhanh."
+            }
+        },
+        {
+            "content": "cánh cửa lều vải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cảnh giác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cẩn thận",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "fly-wheel",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm bay phấp phới",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm tung bay",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quãng đường bay",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ruồi giả",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rảo bước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sâu bệnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự bay",
+            "type": "noun",
+            "example": {
+                "en": "Using careful photography, Muybridge proved that at certain points as it gallops, a horse really is flying.",
+                "vi": "Dùng hình ảnh, Muybridge chứng minh trong vài lúc khi nó phi, nó thực sự bay."
+            }
+        },
+        {
+            "content": "tung bay",
+            "type": "",
+            "example": {
+                "en": "Oh, let's go fly a kite.",
+                "vi": "Hãy tung bay cánh diều."
+            }
+        },
+        {
+            "content": "tẩu thoát",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỉnh táo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vạt cài cúc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xe độc mã",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi nhanh",
+            "type": "",
+            "example": {
+                "en": "How fast the minutes fly away and every minute colder?",
+                "vi": "mỗi phút trôi đi nhanh quá, và mỗi phút càng lạnh hơn."
+            }
+        },
+        {
+            "content": "đi trốn",
+            "type": "verb",
+            "example": {
+                "en": "But the Sultan came looking for the Princess and begged her to fly away with him on a magical tapestry of silk.",
+                "vi": "Nhưng quốc vương tới tìm cô Công chúa và năn nỉ cổ bay đi trốn với ông trên một tấm thảm thần bằng lụa."
+            }
+        },
+        {
+            "content": "đuôi cờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đáp máy bay",
+            "type": "",
+            "example": {
+                "en": "I have often had opportunity to fly from one country to another.",
+                "vi": "Tôi thường có dịp đáp máy bay từ nước nọ sang nước kia."
+            }
+        },
+        {
+            "content": "đằng vân",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phi",
+            "type": "noun Prefix conjunction verb",
+            "example": {
+                "en": "If I can get this down, we can fly out.",
+                "vi": "Nếu mang phi cơ xuống được, ta sẽ có thể cất cánh."
+            }
+        },
+        {
+            "content": "bảy",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bơi bướm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

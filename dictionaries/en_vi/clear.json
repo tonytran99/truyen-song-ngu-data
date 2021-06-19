@@ -1,0 +1,611 @@
+{
+    "word": "clear",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklir/",
+            "/ˈklɪr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trong",
+            "type": "adjective",
+            "example": {
+                "en": "The pattern has been clear and consistent throughout the ages.",
+                "vi": "Mẫu mực đều giản dị và nhất quán trong suốt các thời đại."
+            }
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {
+                "en": "It's pretty clear you have a problem.",
+                "vi": "Rõ ràng là cậu có vấn đề."
+            }
+        },
+        {
+            "content": "dọn",
+            "type": "verb",
+            "example": {
+                "en": "They cleared something away from here not minutes ago.",
+                "vi": "Họ dọn dẹp vài thứ rồi Chỉ vài phút trước thôi."
+            }
+        },
+        {
+            "content": "minh bạch",
+            "type": "adjective",
+            "example": {
+                "en": "And we should be very, very clear about that.",
+                "vi": "Chúng ta phải thật minh bạch về chuyện này."
+            }
+        },
+        {
+            "content": "rõ",
+            "type": "adjective",
+            "example": {
+                "en": "It's pretty clear you have a problem.",
+                "vi": "Rõ ràng là cậu có vấn đề."
+            }
+        },
+        {
+            "content": "dọn sạch",
+            "type": "",
+            "example": {
+                "en": "Told us that hunters had paid the General to clear out this entire area.",
+                "vi": "Nói với chúng tôi hằng, những thợ săn được trả tiền để dọn sạch khu vực này."
+            }
+        },
+        {
+            "content": "không có trở ngại",
+            "type": "",
+            "example": {
+                "en": "We cleared my schedule for a meeting with a shareholder?",
+                "vi": "Không có trở ngại gì trong lịch trình của ông cho một cuộc họp với một cổ đông."
+            }
+        },
+        {
+            "content": "minh oan",
+            "type": "",
+            "example": {
+                "en": "Give me a chance to clear my name.",
+                "vi": "Hãy cho tôi một cơ hội để tự minh oan."
+            }
+        },
+        {
+            "content": "trong sạch",
+            "type": "adjective",
+            "example": {
+                "en": "She fell in and drowned, so your conscience is clear.",
+                "vi": "Cô ấy đã ngã xuống hồ và chết đuối, vì vậy lương tâm của anh trong sạch."
+            }
+        },
+        {
+            "content": "trong trẻo",
+            "type": "adjective",
+            "example": {
+                "en": "Have you ever been called home by the clear ringing of silver trumpets?",
+                "vi": "Anh có bao giờ được gọi về nhà trong tiếng nhạc trong trẻo của cây kèn trumpet bạc?"
+            }
+        },
+        {
+            "content": "trở nên trong trẻo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáng",
+            "type": "adjective",
+            "example": {
+                "en": "I can't go until this misunderstanding clears up.",
+                "vi": "Em không thể đi trừ khi chuyện hiểu lầm này sáng tỏ."
+            }
+        },
+        {
+            "content": "quang",
+            "type": "adjective",
+            "example": {
+                "en": "One day he lit a fire to clear his portion of the village farmland for planting.",
+                "vi": "Một ngày nọ, ông đốt lửa để khai quang phần đất để làm ruộng của làng."
+            }
+        },
+        {
+            "content": "tránh",
+            "type": "verb",
+            "example": {
+                "en": "All aircraft are ordered to clear the airspace immediately.",
+                "vi": "Tất cả máy bay đều phải tránh khu vực này ngay"
+            }
+        },
+        {
+            "content": "thông",
+            "type": "adjective",
+            "example": {
+                "en": "I just cleared the blockage in energy and blood flow for her.",
+                "vi": "Tôi mới đả thông khí huyết, kinh mạch cho bà ấy."
+            }
+        },
+        {
+            "content": "chắc",
+            "type": "adjective",
+            "example": {
+                "en": "It's on your mind still, plain and clear.",
+                "vi": "Và chắc chắn trong đầu cô vẫn nung nấu ý định đó một cách rõ ràng."
+            }
+        },
+        {
+            "content": "lãi",
+            "type": "noun",
+            "example": {
+                "en": "We maybe cleared less money, but we got a bigger piece of the pie.",
+                "vi": "Chúng ta có thể lãi ít hơn, nhưng chúng ta đã có miếng bánh to hơn."
+            }
+        },
+        {
+            "content": "trọn",
+            "type": "adverb",
+            "example": {}
+        },
+        {
+            "content": "dứt khoát",
+            "type": "adjective",
+            "example": {
+                "en": "The answers from the leading philosophers of the day were loud and clear.",
+                "vi": "Các triết gia quan trọng nhất vào thời ấy trả lời một cách rõ ràng và dứt khoát."
+            }
+        },
+        {
+            "content": "hiển nhiên",
+            "type": "adjective",
+            "example": {
+                "en": "Their clear focus was on the temple and their covenants.",
+                "vi": "Sự tập trung hiển nhiên của họ là vào đền thờ và các giao ước của họ."
+            }
+        },
+        {
+            "content": "thông thoáng",
+            "type": "adjective",
+            "example": {
+                "en": "There's just no way to make it economically feasible to keep it clear.",
+                "vi": "Không có cách nào để giữ cho nó thông thoáng được một cách kinh tế."
+            }
+        },
+        {
+            "content": "đủ",
+            "type": "adverb",
+            "example": {
+                "en": "That much is clear.",
+                "vi": "Vậy là đủ rồi."
+            }
+        },
+        {
+            "content": "chuyển",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vượt",
+            "type": "",
+            "example": {
+                "en": "I believe it's clear that these alone constitute just cause for a level 3 alert.",
+                "vi": "Tôi tin rằng nó sẽ vượt quá báo động cấp 3."
+            }
+        },
+        {
+            "content": "hẳn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tròn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cút",
+            "type": "interjection verb noun",
+            "example": {}
+        },
+        {
+            "content": "nạo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "stick",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "cạo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "tẩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chắc chắn",
+            "type": "adjective adverb",
+            "example": {
+                "en": "It's on your mind still, plain and clear.",
+                "vi": "Và chắc chắn trong đầu cô vẫn nung nấu ý định đó một cách rõ ràng."
+            }
+        },
+        {
+            "content": "dễ hiểu",
+            "type": "",
+            "example": {
+                "en": "His message is straightforward, his wording simple, his meaning clear.",
+                "vi": "Thông điệp của ngài rõ ràng với những lời giản dị, dễ hiểu."
+            }
+        },
+        {
+            "content": "dọn dẹp",
+            "type": "",
+            "example": {
+                "en": "They cleared something away from here not minutes ago.",
+                "vi": "Họ dọn dẹp vài thứ rồi Chỉ vài phút trước thôi."
+            }
+        },
+        {
+            "content": "dọn đi",
+            "type": "",
+            "example": {
+                "en": "'The air-bag needed to be got out of the way'just as John cleared the station.",
+                "vi": "Túi hơi đã phải được dọn đi khi John tránh khỏi trạm cứu hộ."
+            }
+        },
+        {
+            "content": "giũ sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoàn toàn",
+            "type": "",
+            "example": {
+                "en": "No, they weren't cleared until after the op.",
+                "vi": "Không được rồi, chúng hoàn toàn biến mất sau chiến dịch. Vào đi."
+            }
+        },
+        {
+            "content": "hết nhăn nhó",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai khẩn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khai thông",
+            "type": "",
+            "example": {
+                "en": "The National Guard might be called out to clear streets and roads.",
+                "vi": "Vệ binh Quốc gia có thể được triệu tập để khai thông đường xá."
+            }
+        },
+        {
+            "content": "khúc chiết",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "làm sáng sủa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sáng tỏ",
+            "type": "",
+            "example": {
+                "en": "Once she's back, you clear up her legal situation with the French.",
+                "vi": "Khi nó đã về, anh làm sáng tỏ tình trạng pháp lý của nó với người Pháp."
+            }
+        },
+        {
+            "content": "làm sạch",
+            "type": "",
+            "example": {
+                "en": "Because I got to clear the pool deck.",
+                "vi": "Bởi vì em sắp làm sạch thành bể."
+            }
+        },
+        {
+            "content": "làm trong sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm đăng quang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lãi đứt đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lấy đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lọc trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mang đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhảy qua",
+            "type": "",
+            "example": {
+                "en": "Did you know the French cleared one meter eightyfive at the Paris Olympics to win the gold medal?",
+                "vi": "Mày biết người Pháp đã nhảy qua 1,85m tại Thế vận hội ở Pa ri để... đoạt huy chương vàng chứ?"
+            }
+        },
+        {
+            "content": "phá hoang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phát quang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quang đãng",
+            "type": "adjective",
+            "example": {
+                "en": "The atmosphere clears up to allow more sunlight to reach the ground.",
+                "vi": "Bầu trời quang đãng giúp ánh sáng chiếu xuống mặt đất nhiều hơn."
+            }
+        },
+        {
+            "content": "ra rời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rành rọt",
+            "type": "",
+            "example": {
+                "en": "It was so clear... and no one else could hear it.",
+                "vi": "Nó rành rọt... mà những người khác đâu nghe thấy."
+            }
+        },
+        {
+            "content": "rõ nét",
+            "type": "",
+            "example": {
+                "en": "to the most clear, joyful, playful image that you have,",
+                "vi": "để đạt được trạng thái vui đùa thoải mái và rõ nét nhất mà bạn có thể nghĩ ra,"
+            }
+        },
+        {
+            "content": "rõ rệt",
+            "type": "",
+            "example": {
+                "en": "Many analysts see a clear difference between the two companies .",
+                "vi": "Nhiều nhà phân tích nhận thấy sự khác biệt rõ rệt giữa hai công ty này ."
+            }
+        },
+        {
+            "content": "rạch ròi",
+            "type": "adjective",
+            "example": {
+                "en": "There must and will be a clear line between them and us.",
+                "vi": "Phải có ranh giới rạch ròi giữa ta và chúng."
+            }
+        },
+        {
+            "content": "rời bến",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáng sủa",
+            "type": "adjective",
+            "example": {
+                "en": "Sweetheart, we're just waiting on this weather to clear!",
+                "vi": "Cưng ơi, chúng ta phải đợi cho thời tiết sáng sủa hơn."
+            }
+        },
+        {
+            "content": "sáng sủa ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sáng tỏ",
+            "type": "adjective",
+            "example": {
+                "en": "Once she's back, you clear up her legal situation with the French.",
+                "vi": "Khi nó đã về, anh làm sáng tỏ tình trạng pháp lý của nó với người Pháp."
+            }
+        },
+        {
+            "content": "tan biến",
+            "type": "",
+            "example": {
+                "en": "and something in him cooled down and cleared out.",
+                "vi": "và cái gì đó trong cậu nguội đi và tan biến."
+            }
+        },
+        {
+            "content": "tan đi",
+            "type": "",
+            "example": {
+                "en": "Clearing me of my delusions yet again.",
+                "vi": "Một lần nữa giúp tôi xóa tan đi những ảo tưởng."
+            }
+        },
+        {
+            "content": "thanh minh",
+            "type": "",
+            "example": {
+                "en": "An announcement was made at the school, thus clearing Jehovah’s name of reproach.",
+                "vi": "Thông báo được loan ra trong trường, nhờ đó danh Đức Giê-hô-va được thanh minh."
+            }
+        },
+        {
+            "content": "thanh toán",
+            "type": "",
+            "example": {
+                "en": "But if you want that check to clear, there are two conditions.",
+                "vi": "Nhưng nếu cô muốn chi phiếu này được thanh toán, có hai điều kiện."
+            }
+        },
+        {
+            "content": "thoát khỏi",
+            "type": "",
+            "example": {
+                "en": "That's not to say that I've remained clear",
+                "vi": "Nhưng điều đó không có nghĩa là tôi đã hoàn toàn thoát khỏi"
+            }
+        },
+        {
+            "content": "thông trống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu tan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toàn bộ",
+            "type": "adjective noun",
+            "example": {
+                "en": "Do you really want to clear the entire history?",
+                "vi": "Bạn có thực sự muốn xóa toàn bộ lịch sử?"
+            }
+        },
+        {
+            "content": "trang trải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trang trải hết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trong suốt",
+            "type": "",
+            "example": {
+                "en": "The pattern has been clear and consistent throughout the ages.",
+                "vi": "Mẫu mực đều giản dị và nhất quán trong suốt các thời đại."
+            }
+        },
+        {
+            "content": "trong vắt",
+            "type": "",
+            "example": {
+                "en": "A stream of clear clean fresh water bubbles up right out of the rocks there.",
+                "vi": "Một dòng suối nước trong vắt sủi bọt chảy từ những tảng đá."
+            }
+        },
+        {
+            "content": "trả hết",
+            "type": "",
+            "example": {
+                "en": "I was inquiring about the deposit, and your husband cleared it up.",
+                "vi": "Tôi muốn hỏi về các khoảng tiền cọc, và chồng cô đã trả hết."
+            }
+        },
+        {
+            "content": "trần trụi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "trọn vẹn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tách ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tươi lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tự bào chữa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vét sạch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xa ra",
+            "type": "",
+            "example": {
+                "en": "I advise you to stay clear.",
+                "vi": "Tôi khuyên cô nên tránh xa ra."
+            }
+        },
+        {
+            "content": "xoá bỏ",
+            "type": "verb",
+            "example": {
+                "en": "But there are hurdles that need to be cleared .",
+                "vi": "Tuy nhiên ở đó vẫn có những rào cản cần được xoá bỏ ."
+            }
+        },
+        {
+            "content": "đi né sang bên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ở xa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thanh",
+            "type": "",
+            "example": {
+                "en": "But once I bring back this creature, my name will be cleared.",
+                "vi": "Nhưng một khi tôi mang về sinh vật này, thanh danh tôi sẽ được rũ sạch."
+            }
+        },
+        {
+            "content": "xoá, rõ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

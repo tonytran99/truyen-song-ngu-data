@@ -1,0 +1,94 @@
+{
+    "word": "garage",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəˈräZH/",
+            "/ɡəˈrɑʒ/",
+            "/ɡəˈräj/",
+            "/ɡəˈrɑdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡarɑː(d)ʒ/",
+            "/ˈɡarɪdʒ/",
+            "/ɡəˈrɑːʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ga ra",
+            "type": "noun",
+            "example": {
+                "en": "How did Tom get you to help him clean the garage?",
+                "vi": "Làm thế nào mà Tom khiến cậu giúp anh ấy dọn dẹp ga-ra?"
+            }
+        },
+        {
+            "content": "ga-ra",
+            "type": "",
+            "example": {
+                "en": "How did Tom get you to help him clean the garage?",
+                "vi": "Làm thế nào mà Tom khiến cậu giúp anh ấy dọn dẹp ga-ra?"
+            }
+        },
+        {
+            "content": "nhà để ô tô",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ga-ra xe",
+            "type": "noun",
+            "example": {
+                "en": "Down through my garage, okay?",
+                "vi": "Đi xuống ga ra xe của tôi."
+            }
+        },
+        {
+            "content": "nhà để xe",
+            "type": "",
+            "example": {
+                "en": "On the outside it looks like a very typical garage, a nice garage.",
+                "vi": "Bên ngoài nó là một nhà để xe điển hình, một nhà xe khá đẹp."
+            }
+        },
+        {
+            "content": "chỗ chữa ô tô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà xe",
+            "type": "noun",
+            "example": {
+                "en": "On the outside it looks like a very typical garage, a nice garage.",
+                "vi": "Bên ngoài nó là một nhà để xe điển hình, một nhà xe khá đẹp."
+            }
+        },
+        {
+            "content": "Nhà để xe",
+            "type": "",
+            "example": {
+                "en": "On the outside it looks like a very typical garage, a nice garage.",
+                "vi": "Bên ngoài nó là một nhà để xe điển hình, một nhà xe khá đẹp."
+            }
+        },
+        {
+            "content": "nhà sửa xe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhà để xe hơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "booklet",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝oklit/",
+            "/ˈbʊklɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊklɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuốn sách nhỏ",
+            "type": "noun",
+            "example": {
+                "en": "One of these, the booklet Hope, captured my interest.",
+                "vi": "Một trong những sách báo đó, cuốn sách nhỏ Hope, đã làm tôi chú ý."
+            }
+        },
+        {
+            "content": "sách mỏng",
+            "type": "",
+            "example": {
+                "en": "Books, booklets, and tracts had been distributed by the hundreds of millions.",
+                "vi": "Các sách, sách mỏng và giấy nhỏ được phân phối đến hàng trăm triệu bản."
+            }
+        }
+    ]
+}

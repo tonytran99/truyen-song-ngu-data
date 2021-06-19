@@ -1,0 +1,82 @@
+{
+    "word": "barbarian",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌbärˈberēən/",
+            "/ˌbɑrˈbɛriən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɑːˈbɛːrɪən/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người dã man",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "dã man",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "野蠻",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "người man rợ",
+            "type": "",
+            "example": {
+                "en": "The inhabitants are “foreign-speaking people,” literally “barbarians” (Greek, barʹba·ros).",
+                "vi": "Dân cư ở đấy là “những người nói tiếng lạ”, gọi nôm na là những người “man rợ” (tiếng Hy lạp là barʹba·ros)."
+            }
+        },
+        {
+            "content": "rợ",
+            "type": "noun",
+            "example": {
+                "en": "Do you really think bandits and barbarians can win you the throne?",
+                "vi": "Ngươi thực sự nghĩ bọn trộm cướp và lũ mọi rợ sẽ giúp ngươi lên ngôi?"
+            }
+        },
+        {
+            "content": "không có văn hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "man rợ",
+            "type": "noun",
+            "example": {
+                "en": "And annihilate those French barbarians with their lumbering metal cannon.",
+                "vi": "Tiêu diệt đám quân Pháp man rợ và đám đại bác nặng nề."
+            }
+        },
+        {
+            "content": "người thô lỗ",
+            "type": "",
+            "example": {
+                "en": "Barbarian with a badge.",
+                "vi": "Người thô lỗ mang quân hàm."
+            }
+        },
+        {
+            "content": "thô lỗ",
+            "type": "noun",
+            "example": {
+                "en": "Barbarian with a badge.",
+                "vi": "Người thô lỗ mang quân hàm."
+            }
+        }
+    ]
+}

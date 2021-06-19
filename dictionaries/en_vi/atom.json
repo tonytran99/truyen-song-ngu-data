@@ -1,0 +1,72 @@
+{
+    "word": "atom",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈadəm/",
+            "/ˈædəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈatəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nguyên tử",
+            "type": "noun",
+            "example": {
+                "en": "The atoms that make up solids, liquids, and gases are moving all the time.",
+                "vi": "Những nguyên tử tạo thành chất rắn, lỏng, và khí lúc nào cũng chuyển động."
+            }
+        },
+        {
+            "content": "原子",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vật nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tý",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chút xíu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mảnh đất nhỏ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "yếu tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đơn tố",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nguyên tử",
+            "type": "",
+            "example": {
+                "en": "When Einstein came up with the atomic bomb, did they ask him to prove that it worked?",
+                "vi": "Khi Einstein đưa ra bom nguyên tử, họ có yêu cầu ông ấy chứng minh không?"
+            }
+        }
+    ]
+}

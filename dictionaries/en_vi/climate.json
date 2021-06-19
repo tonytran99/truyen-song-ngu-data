@@ -1,0 +1,74 @@
+{
+    "word": "climate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklīmit/",
+            "/ˈklaɪmɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklʌɪmət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khí hậu",
+            "type": "noun",
+            "example": {
+                "en": "Surrounded by the sea, Japan has a mild climate.",
+                "vi": "Bao quanh bở biển, Nhật Bản có khí hậu ôn hoà."
+            }
+        },
+        {
+            "content": "氣候",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thời tiết",
+            "type": "noun",
+            "example": {
+                "en": "I get paid to complain about climate models.",
+                "vi": "Tôi được trả tiền để kêu ca về kiểu hình thời tiết mà."
+            }
+        },
+        {
+            "content": "miền",
+            "type": "noun",
+            "example": {
+                "en": "Climate: Subtropical, milder in the mountains",
+                "vi": "Khí hậu: Cận nhiệt đới, miền núi thì ôn hòa hơn"
+            }
+        },
+        {
+            "content": "miền khí hậu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong thổ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cách đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không khí",
+            "type": "noun",
+            "example": {
+                "en": "His atelier, or workshop, made of palm fronds sewn together was refreshingly airy in the steamy climate.",
+                "vi": "Xưởng làm việc của anh làm bằng lá cọ đan với nhau, giúp không khí thoáng mát."
+            }
+        }
+    ]
+}

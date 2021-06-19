@@ -1,0 +1,53 @@
+{
+    "word": "forehead",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrˌhed/",
+            "/ˈfɔrˌhɛd/",
+            "/ˈfôrəd/",
+            "/ˈfɔrəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːhɛd/",
+            "/ˈfɒrɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trán",
+            "type": "noun",
+            "example": {
+                "en": "Um, could you take a look at this spot on her forehead?",
+                "vi": "Um, anh có thể xem chỗ này trên trán cô ấy không?"
+            }
+        },
+        {
+            "content": "cái trán",
+            "type": "noun",
+            "example": {
+                "en": "You have a high, round forehead.",
+                "vi": "Cô có một cái trán cao và rộng."
+            }
+        },
+        {
+            "content": "Trán",
+            "type": "",
+            "example": {
+                "en": "Your forehead wrinkles when you're upset.",
+                "vi": "Trán cô nhăn lại khi cô bực mình."
+            }
+        },
+        {
+            "content": "traùn",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

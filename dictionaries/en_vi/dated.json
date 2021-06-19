@@ -1,0 +1,51 @@
+{
+    "word": "dated",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdādəd/",
+            "/ˈdeɪdəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdeɪtɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cũ kỹ",
+            "type": "",
+            "example": {
+                "en": "They were not just old photographs with names and dates scribbled on the back.",
+                "vi": "Họ không phải chỉ là hình ảnh cũ kỹ với tên tuổi và ngày tháng viết nguệch ngoạc ở đằng sau."
+            }
+        },
+        {
+            "content": "không hợp thời",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lỗi thời",
+            "type": "",
+            "example": {
+                "en": "That old hackers being nerds cliché, that's pretty dated now.",
+                "vi": "Hackers là mấy tên mọt sách đó là chuyện lỗi thời rồi."
+            }
+        },
+        {
+            "content": "đề nghị",
+            "type": "verb",
+            "example": {
+                "en": "Well, I suggest you pick one soon, or we'll have to push the pub date.",
+                "vi": "Tôi đề nghị cô nhanh chóng chọn, hoặc ta sẽ phải rời ngày phát hành."
+            }
+        }
+    ]
+}

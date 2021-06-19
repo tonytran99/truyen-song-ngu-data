@@ -1,0 +1,64 @@
+{
+    "word": "brim",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brim/",
+            "/brɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/brɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vành",
+            "type": "noun",
+            "example": {
+                "en": "Cover your skin with tightly long-sleeved shirts , long pants and wide-brimmed hats .",
+                "vi": "Mặc áo sơ mi kín tay dài , quần dài và đội mũ rộng vành ."
+            }
+        },
+        {
+            "content": "đổ đầy ắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chén",
+            "type": "noun",
+            "example": {
+                "en": "Another rendition is: “My cup is brimming over.”",
+                "vi": "Một bản dịch khác viết: “Chén tôi trào rượu” (bản dịch của linh mục Nguyễn thế Thuấn)."
+            }
+        },
+        {
+            "content": "miệng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tràn ngập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầy đến miệng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồ đầy đến miệng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "erase",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrās/",
+            "/əˈreɪs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈreɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xóa",
+            "type": "",
+            "example": {
+                "en": "A memory can be erased only so many times.",
+                "vi": "Ký ức có thể bị xóa đi xóa lại nhiều lần."
+            }
+        },
+        {
+            "content": "xoá",
+            "type": "",
+            "example": {
+                "en": "I'll have you erase from this world just like this tattoo.",
+                "vi": "Tao sẽ để bọn nó xoá sổ mày khỏi thế giới này như là tẩy vết xăm ấy."
+            }
+        },
+        {
+            "content": "bôi",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "xoá bỏ",
+            "type": "verb",
+            "example": {
+                "en": "You know, you think you can erase something.",
+                "vi": "Ông nghĩ là ông có thể xoá bỏ điều gì đó."
+            }
+        }
+    ]
+}

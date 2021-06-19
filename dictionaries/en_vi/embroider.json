@@ -1,0 +1,53 @@
+{
+    "word": "embroider",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əmˈbroidər/",
+            "/əmˈbrɔɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪmˈbrɔɪdə/",
+            "/ɛmˈbrɔɪdə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thêu",
+            "type": "verb",
+            "example": {
+                "en": "It costs extra to get more than three letters embroidered on your uniform.",
+                "vi": "Tốn thêm tiền để thêu nhiều hơn ba chữ trên đồng phục."
+            }
+        },
+        {
+            "content": "đai",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "thêu dệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêu thùa",
+            "type": "verb",
+            "example": {
+                "en": "You paint tables, play the piano and embroider cushions.",
+                "vi": "Họ thiết kế những cái bàn, chơi piano Và thêu thùa"
+            }
+        },
+        {
+            "content": "tô vẽ",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

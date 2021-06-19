@@ -1,0 +1,43 @@
+{
+    "word": "epistle",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈpisəl/",
+            "/əˈpɪsəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈpɪs(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thư",
+            "type": "noun",
+            "example": {
+                "en": "The second epistle of Mormon to his son Moroni.",
+                "vi": "Bức thư thứ hai của Mặc Môn viết cho con trai là Mô Rô Ni."
+            }
+        },
+        {
+            "content": "thư của sứ đồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thư từ",
+            "type": "",
+            "example": {
+                "en": "As long as the Apostles were available, they could correct the doctrine by way of epistles or personal sermons.",
+                "vi": "Chừng nào còn có Các Sứ Đồ thì họ có thể sửa chỉnh giáo lý bằng thư từ hoặc bài giảng cá nhân."
+            }
+        }
+    ]
+}

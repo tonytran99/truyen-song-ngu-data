@@ -1,0 +1,115 @@
+{
+    "word": "interested",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈintrəstəd/",
+            "/ˈɪntrəstəd/",
+            "/ˈin(t)ərəstəd/",
+            "/ˈɪn(t)ərəstəd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnt(ə)rɪstɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quan tâm",
+            "type": "verb",
+            "example": {
+                "en": "Everyone is more or less interested in art.",
+                "vi": "Ai cũng ít nhiều có chút quan tâm đến nghệ thuật."
+            }
+        },
+        {
+            "content": "có chú ý",
+            "type": "",
+            "example": {
+                "en": "Publishers should use good judgment to determine the individual’s interest.",
+                "vi": "Người công bố nên suy xét để xác định một người có chú ý hay không."
+            }
+        },
+        {
+            "content": "có cổ phần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có dính dáng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có liên quan",
+            "type": "",
+            "example": {
+                "en": "The tape came from a conspiracy theory group that's interested in Savage.",
+                "vi": "Cuộn băng từ một nhóm theo lý thuyết âm mưu mà có liên quan đến Savage"
+            }
+        },
+        {
+            "content": "có lợi ích riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có quan tâm",
+            "type": "",
+            "example": {
+                "en": "By the way, in case you're interested, I'm not pregnant.",
+                "vi": "Nhân tiện, nếu anh có quan tâm, em không có thai."
+            }
+        },
+        {
+            "content": "có vốn đầu tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cầu lợi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không vô tư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "liên quan đến",
+            "type": "",
+            "example": {
+                "en": "Now let me explain why vibrational theory has some sort of interest in it.",
+                "vi": "Giờ tôi sẽ giải thích tại sao giả thuyết độ rung lại liên quan đến nó."
+            }
+        },
+        {
+            "content": "sở quan",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thích làm gì",
+            "type": "",
+            "example": {
+                "en": "Blessed is just about everyone with an interest in the status quo, right, Reg?",
+                "vi": "Có phước chăng là những ai không thích làm gì hết."
+            }
+        },
+        {
+            "content": "thích thú",
+            "type": "",
+            "example": {
+                "en": "He is not just interested, he's crazy about it.",
+                "vi": "Anh ta không những thích thú mà còn phát điên về nó."
+            }
+        }
+    ]
+}

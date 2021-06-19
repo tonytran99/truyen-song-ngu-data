@@ -1,0 +1,69 @@
+{
+    "word": "eve",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ēv/",
+            "/iv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iːv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chiều tối",
+            "type": "",
+            "example": {
+                "en": "Hence, no trials could be held on the eve of a Sabbath or a festival.",
+                "vi": "Do đó, không thể có phiên xử vào chiều tối trước ngày Sa-bát hoặc ngày lễ."
+            }
+        },
+        {
+            "content": "ngày hôm trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thời gian trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đêm trước",
+            "type": "noun",
+            "example": {
+                "en": "Why does he leave on the eve of battle?",
+                "vi": "Sao ngài ấy lại ra đi vào đêm trước cuộc chiến?"
+            }
+        },
+        {
+            "content": "eva",
+            "type": "",
+            "example": {
+                "en": "Said the snake to Eve.",
+                "vi": "Giống như con rắn xúi giục Eva."
+            }
+        },
+        {
+            "content": "buổi tối",
+            "type": "",
+            "example": {
+                "en": "Thank you for being here tonight on the eve of the 75th Hunger Games!",
+                "vi": "Cảm ơn, chúc một buổi tối tốt lành!"
+            }
+        },
+        {
+            "content": "hôm trước",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

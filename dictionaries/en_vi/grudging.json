@@ -1,0 +1,49 @@
+{
+    "word": "grudging",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrəjiNG/",
+            "/ˈɡrədʒɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrʌdʒɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất đắc dĩ",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "miễn cưỡng",
+            "type": "adjective, noun",
+            "example": {
+                "en": "But you gotta have a grudging respect for your wife at this point, right?",
+                "vi": "Nhưng lúc này chắc anh đang nể nang vợ anh một cách miễn cưỡng phải chứ?"
+            }
+        },
+        {
+            "content": "ghen tức",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hằn học",
+            "type": "noun",
+            "example": {
+                "en": "How long are you gonna hold a grudge?",
+                "vi": "Càng giữ cái thái độ hằn học này lâu chừng nào."
+            }
+        }
+    ]
+}

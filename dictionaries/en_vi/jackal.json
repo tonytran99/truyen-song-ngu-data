@@ -1,0 +1,43 @@
+{
+    "word": "jackal",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjak(ə)l/",
+            "/ˈdʒæk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒakəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chó rừng",
+            "type": "noun",
+            "example": {
+                "en": "It was eaten by jackals in the desert.",
+                "vi": "Nó đã bị chó rừng sa mạc ăn hết rồi."
+            }
+        },
+        {
+            "content": "sa-can",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Chó rừng",
+            "type": "",
+            "example": {
+                "en": "It was eaten by jackals in the desert.",
+                "vi": "Nó đã bị chó rừng sa mạc ăn hết rồi."
+            }
+        }
+    ]
+}

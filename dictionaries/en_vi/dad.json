@@ -1,0 +1,79 @@
+{
+    "word": "dad",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dad/",
+            "/dæd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dad/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bố",
+            "type": "noun",
+            "example": {
+                "en": "She lives with her dad.",
+                "vi": "Cô ấy sống cùng với bố."
+            }
+        },
+        {
+            "content": "cha",
+            "type": "noun",
+            "example": {
+                "en": "Tom found out his dad wasn't his real dad.",
+                "vi": "Tom đã phát hiện ra rằng cha của anh ấy không phải là cha đẻ."
+            }
+        },
+        {
+            "content": "ba",
+            "type": "noun",
+            "example": {
+                "en": "Wha- Dad! What is this?! You said nobody was here.",
+                "vi": "Ba ! Vậy là sao ! Sao ba bảo sẽ không có ai mà."
+            }
+        },
+        {
+            "content": "thầy",
+            "type": "noun",
+            "example": {
+                "en": "Hey, my dad taught me about computers, and he was my third-base coach.",
+                "vi": "Bố tớ dạy tớ về máy tính, ông ấy là người thầy đầu tiên của tớ."
+            }
+        },
+        {
+            "content": "tía",
+            "type": "noun",
+            "example": {
+                "en": "Yes, dad, come out to say hello to all bros",
+                "vi": "Tía, ra chào mấy vị đại ca một tiếng."
+            }
+        },
+        {
+            "content": "cậu",
+            "type": "noun",
+            "example": {
+                "en": "Swanny here knew your dad.",
+                "vi": "Tôi nghĩ là Sonny cũng đã gặp chuyện giống như các cậu."
+            }
+        },
+        {
+            "content": "bọ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phụ thân",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

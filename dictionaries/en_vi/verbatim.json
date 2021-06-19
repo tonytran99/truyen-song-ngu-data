@@ -1,0 +1,51 @@
+{
+    "word": "verbatim",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vərˈbādəm/",
+            "/vərˈbeɪdəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vəːˈbeɪtɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đúng",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "nguyên văn",
+            "type": "",
+            "example": {
+                "en": "Here's what Mr Barasa said, 100% verbatim, word for word.",
+                "vi": "Đây là những gì ông Barasa nói, 100% nguyên văn, từng từ một."
+            }
+        },
+        {
+            "content": "đúng nguyên văn",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "đúng từ chữ một",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ñuùng nguyeân vaên, ñuùng töøng chöõ moät",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

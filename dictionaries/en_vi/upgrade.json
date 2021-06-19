@@ -1,0 +1,33 @@
+{
+    "word": "upgrade",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈəpˌɡrād/",
+            "/ˈəpˌɡreɪd/",
+            "/ˌəpˈɡrād/",
+            "/ˌəpˈɡreɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌpˈɡreɪd/",
+            "/ˈʌpɡreɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nâng cấp",
+            "type": "",
+            "example": {
+                "en": "So it turns out that we have upgraded.",
+                "vi": "Và thực tế là con người chúng ta đã nâng cấp."
+            }
+        }
+    ]
+}

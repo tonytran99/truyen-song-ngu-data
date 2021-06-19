@@ -1,0 +1,36 @@
+{
+    "word": "antivirus",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌan(t)ēˈvīrəs/",
+            "/ˌæn(t)iˈvaɪrəs/",
+            "/ˌanˌtīˈvīrəs/",
+            "/ˌænˌtaɪˈvaɪrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈantɪvʌɪrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chống virus",
+            "type": "",
+            "example": {
+                "en": "This is a virus pretending to look like antivirus software,",
+                "vi": "Đây là virus đội lốt phần mềm chống virus"
+            }
+        },
+        {
+            "content": "Phần mềm diệt virus",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

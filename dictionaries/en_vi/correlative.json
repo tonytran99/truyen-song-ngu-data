@@ -1,0 +1,48 @@
+{
+    "word": "correlative",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrelədiv/",
+            "/kəˈrɛlədɪv/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈrɛlətɪv/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giống nhau",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương quan",
+            "type": "adjective",
+            "example": {
+                "en": "And eventually we may be able to understand if they're not just correlative differences, but causative.",
+                "vi": "Và cuối cùng có thể hiểu chúng không có sự khác biệt tương quan mà có nguyên nhân."
+            }
+        },
+        {
+            "content": "tương tự",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tương ứng",
+            "type": "adjective",
+            "example": {
+                "en": "Okay, so first I assign point values, correlate to the effect of removal.",
+                "vi": "Đầu tiên anh đặt giá trị cho từng quân bài, tương ứng với hiệu ứng loại trừ."
+            }
+        }
+    ]
+}

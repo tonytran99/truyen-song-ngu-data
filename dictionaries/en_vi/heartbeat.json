@@ -1,0 +1,47 @@
+{
+    "word": "heartbeat",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärtˌbēt/",
+            "/ˈhɑrtˌbit/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːtbiːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhịp đập của tim",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự xúc động",
+            "type": "",
+            "example": {
+                "en": "A heartbeat away from the presidency is a serious matter now.",
+                "vi": "Sự xúc động khi phải rời xa một nhiệm kỳ Tổng thống là vấn đề thực sự nghiêm trọng lúc này."
+            }
+        },
+        {
+            "content": "nhịp tim",
+            "type": "",
+            "example": {
+                "en": "The, wires translate voltage from your heartbeat into graphic notations on paper.",
+                "vi": "Mớ dây này phiên dịch điện thế từ nhịp tim đập thành biểu đồ trên giấy."
+            }
+        },
+        {
+            "content": "trống ngực",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

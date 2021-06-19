@@ -1,0 +1,87 @@
+{
+    "word": "whale",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wāl/",
+            "/(h)weɪl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/weɪl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cá voi",
+            "type": "noun",
+            "example": {
+                "en": "And some of those whale meat samples were whale meat.",
+                "vi": "Và một vài mẫu thịt cá voi đúng thật là thịt cá voi."
+            }
+        },
+        {
+            "content": "kình ngư",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cá ông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cá ông voi",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kình",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cá kình",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đánh",
+            "type": "verb",
+            "example": {
+                "en": "Where is that whale figurine that you stole from me?",
+                "vi": "Cái tượng cá voi cô đánh cắp khỏi tôi ở đâu rồi hả?"
+            }
+        },
+        {
+            "content": "quất",
+            "type": "verb noun",
+            "example": {
+                "en": "Things were simpler when I could just whale on the guy",
+                "vi": "Nghĩ đơn giản đi khi tôi quất vào hắn. anh ấy làm gì vậy?"
+            }
+        },
+        {
+            "content": "đánh cá voi",
+            "type": "",
+            "example": {
+                "en": "It's an abandoned whaling station.",
+                "vi": "Đó là một trạm đánh cá voi đã bỏ hoang."
+            }
+        },
+        {
+            "content": "Cá voi",
+            "type": "",
+            "example": {
+                "en": "Killer whales teach and killer whales share food.",
+                "vi": "Cá voi sát thủ dạy bảo và cá voi sát thủ chia sẻ đồ ăn."
+            }
+        }
+    ]
+}

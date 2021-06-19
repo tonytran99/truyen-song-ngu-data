@@ -1,0 +1,61 @@
+{
+    "word": "condensed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdenst/",
+            "/kənˈdɛnst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdɛnst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cô lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cô đặc",
+            "type": "",
+            "example": {
+                "en": "There's video data condensed in the still frames.",
+                "vi": "Có một sự cô đặc dữ liệu video trong khung hình tĩnh."
+            }
+        },
+        {
+            "content": "nén lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "súc tích",
+            "type": "",
+            "example": {
+                "en": "Well, I'm afraid you're going to suffer a short, condensed history lesson",
+                "vi": "Tôi âu rằng rằng các bạn sẽ phải chịu đựng một tiết học ngắn và súc tích về lịch sử"
+            }
+        },
+        {
+            "content": "đậm đặc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đặc",
+            "type": "adjective",
+            "example": {
+                "en": "Swollen nasal membranes or condensation can also cause a stuffed schnozzle .",
+                "vi": "Màng mũi bị sưng phồng hoặc hóa đặc cũng có thể gây ra nghẹt mũi ."
+            }
+        }
+    ]
+}

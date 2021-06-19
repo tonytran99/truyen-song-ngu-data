@@ -1,0 +1,63 @@
+{
+    "word": "harmless",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhärmləs/",
+            "/ˈhɑrmləs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhɑːmləs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô hại",
+            "type": "adjective",
+            "example": {
+                "en": "Are these not little more than harmless trinkets?",
+                "vi": "Những điều này chỉ là những đồ vật vô hại mà thôi, phải không?"
+            }
+        },
+        {
+            "content": "không có hại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không làm hại ai",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không độc",
+            "type": "",
+            "example": {
+                "en": "and allows them to pass it out as a harmless salt",
+                "vi": "và cho phép chúng đi qua như là loại muối không độc hại"
+            }
+        },
+        {
+            "content": "ngây thơ",
+            "type": "",
+            "example": {
+                "en": "Harmless passes for nice these days.",
+                "vi": "Ngày nay ngây thơ được cho là dễ thương."
+            }
+        },
+        {
+            "content": "vô tội",
+            "type": "",
+            "example": {
+                "en": "How could anyone want to kill her innocent, harmless child?",
+                "vi": "Tại sao lại có người muốn giết đứa con ngây thơ, vô tội của cô?"
+            }
+        }
+    ]
+}

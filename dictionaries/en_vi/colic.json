@@ -1,0 +1,40 @@
+{
+    "word": "colic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkälik/",
+            "/ˈkɑlɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒlɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơn đau bụng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bão",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đau bụng",
+            "type": "",
+            "example": {
+                "en": "Where were you, Dad, when she woke up with colic every night for the first few months?",
+                "vi": "Khi đêm nào nó cũng thức dậy vì đau bụng trong suốt mấy tháng đầu?"
+            }
+        }
+    ]
+}

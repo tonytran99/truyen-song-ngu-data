@@ -1,0 +1,54 @@
+{
+    "word": "truce",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tro͞os/",
+            "/trus/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/truːs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hưu chiến",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đình chiến",
+            "type": "noun",
+            "example": {
+                "en": "The Volturi won't honor a truce with the werewolves.",
+                "vi": "Nhà Volturi sẽ không vui gì về sự đình chiến với người sói."
+            }
+        },
+        {
+            "content": "sự ngừng bắn",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự tạm nghỉ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tạm ngừng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự tạm đình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

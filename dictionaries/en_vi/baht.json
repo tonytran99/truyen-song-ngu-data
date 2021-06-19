@@ -1,0 +1,43 @@
+{
+    "word": "baht",
+    "type": [
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bät/",
+            "/bɑt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɑːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "baht",
+            "type": "noun",
+            "example": {
+                "en": "Very cheap, just 500 baht.",
+                "vi": "Rẻ thật, chỉ có 500 baht."
+            }
+        },
+        {
+            "content": "bạt",
+            "type": "noun",
+            "example": {
+                "en": "Can you sell it for eight baht?",
+                "vi": "Chú có thể bán cho cháu 8 bạt được không ạ?"
+            }
+        },
+        {
+            "content": "số nhiều bahts",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

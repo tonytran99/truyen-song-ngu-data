@@ -1,0 +1,35 @@
+{
+    "word": "aids",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ādz/",
+            "/eɪdz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eɪdz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bệnh aids",
+            "type": "",
+            "example": {
+                "en": "Millions of children are left without parents—they died from AIDS.",
+                "vi": "Hàng triệu trẻ em mồ côi—cha mẹ chết vì bệnh AIDS."
+            }
+        },
+        {
+            "content": "bệnh liệt kháng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

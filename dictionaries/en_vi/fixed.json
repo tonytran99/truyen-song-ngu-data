@@ -1,0 +1,74 @@
+{
+    "word": "fixed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fikst/",
+            "/fɪkst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fɪkst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cố định",
+            "type": "adjective",
+            "example": {
+                "en": "We've had people pretend that this is a problem that's been fixed.",
+                "vi": "Chúng tôi đã có những người giả vờ rằng điều này là một vấn đề được cố định."
+            }
+        },
+        {
+            "content": "bất động",
+            "type": "adjective",
+            "example": {
+                "en": "That fixed behavior — which is rigid and stereotyped",
+                "vi": "Thái độ bất động của chú gấu— thường lặp lại đúng như vậy"
+            }
+        },
+        {
+            "content": "được bố trí trước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chòng chọc",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứng yên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ấn định",
+            "type": "",
+            "example": {
+                "en": "No, they'll both say that the meetings were fixed weeks ago.",
+                "vi": "Không, họ sẽ nói là các cuộc họp đã được ấn định từ trước."
+            }
+        },
+        {
+            "content": "ổn định",
+            "type": "",
+            "example": {
+                "en": "so that the rivers became more fixed in their course.",
+                "vi": "bởi vậy những con sông trở nên ổn định hơn trong dòng chảy của chúng."
+            }
+        }
+    ]
+}

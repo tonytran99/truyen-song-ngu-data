@@ -1,0 +1,34 @@
+{
+    "word": "keypad",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkēˌpad/",
+            "/ˈkiˌpæd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkiːpad/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bàn phím",
+            "type": "",
+            "example": {
+                "en": "First, you input the desired period of time on this keypad.",
+                "vi": "Đầu tiên, bạn gõ khỏang thời gian bạn mún nhớ vào cái bàn phím này."
+            }
+        },
+        {
+            "content": "vùng phím số",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

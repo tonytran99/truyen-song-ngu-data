@@ -1,0 +1,44 @@
+{
+    "word": "corporate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrp(ə)rət/",
+            "/ˈkɔrp(ə)rət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːp(ə)rət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đoàn thể",
+            "type": "",
+            "example": {
+                "en": "I just love requisitions and corporate record reports.",
+                "vi": "Tôi yêu các đơn yêu cầu và báo cáo đoàn thể lắm ý."
+            }
+        },
+        {
+            "content": "công ty",
+            "type": "noun",
+            "example": {
+                "en": "Maurice is gonna talk to you about some corporate restructuring.",
+                "vi": "Maurice sẽ nói rõ hơn về việc cơ cấu lại sở hữu công ty."
+            }
+        },
+        {
+            "content": "hợp thành đoàn thể",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

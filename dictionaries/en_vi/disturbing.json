@@ -1,0 +1,54 @@
+{
+    "word": "disturbing",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈstərbiNG/",
+            "/dəˈstərbɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈstəːbɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "làm xáo trộn",
+            "type": "adjective",
+            "example": {
+                "en": "We have met together in peace without disturbance of any kind.",
+                "vi": "Chúng ta đã cùng nhau tụ họp trong sự bình an mà không có bất cứ điều gì làm xáo trộn."
+            }
+        },
+        {
+            "content": "nhiễu loạn",
+            "type": "noun",
+            "example": {
+                "en": "Keep it quiet, but I've cross-referenced and analyzed the global disturbances.",
+                "vi": "Giữ yên lặng, nhưng anh có chỉ dẫn và phân tích sự nhiễu loạn toàn cầu"
+            }
+        },
+        {
+            "content": "xáo trộn",
+            "type": "noun",
+            "example": {
+                "en": "Change it now, and they might find it very disturbing.",
+                "vi": "Nếu thay đổi, họ sẽ cảm thấy bị xáo trộn."
+            }
+        },
+        {
+            "content": "đáng lo ngại",
+            "type": "",
+            "example": {
+                "en": "How disturbing it is to see that religion is increasingly the cause of division!",
+                "vi": "Thật đáng lo ngại khi nhìn thấy tôn giáo càng ngày càng gây chia rẽ thêm!"
+            }
+        }
+    ]
+}

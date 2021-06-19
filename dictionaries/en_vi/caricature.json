@@ -1,0 +1,71 @@
+{
+    "word": "caricature",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkerikəCHər/",
+            "/ˈkɛrɪkətʃər/",
+            "/ˈkerikəˌCHo͝or/",
+            "/ˈkɛrɪkəˌtʃʊr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkarɪkətjʊə/",
+            "/ˈkarɪkətʃɔː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lối vẽ biếm hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tranh biếm hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạn họa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hoạt hoạ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hý họa",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vẽ biếm hoạ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Biếm họa",
+            "type": "",
+            "example": {
+                "en": "A caricature, a pitiful thing.",
+                "vi": "Một hình biếm họa, một sinh vật tội nghiệp."
+            }
+        },
+        {
+            "content": "tranh biếm họa",
+            "type": "noun",
+            "example": {
+                "en": "So this work is a caricature of an upside-down man.",
+                "vi": "Tác phẩm này là tranh biếm họa chổng ngược của 1 người."
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "word": "clinic",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklinik/",
+            "/ˈklɪnɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈklɪnɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng khám bệnh",
+            "type": "",
+            "example": {
+                "en": "He kept checking on me and then took me to a clinic for treatment.",
+                "vi": "Anh theo dõi tôi thường xuyên và sau đó đưa tôi đến một phòng khám bệnh."
+            }
+        },
+        {
+            "content": "bệnh viện thực hành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bịnh viện",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phòng mạch",
+            "type": "noun",
+            "example": {
+                "en": "We sell those to half of the hospitals and clinics in the state.",
+                "vi": "Chúng tôi bán chúng cho cả một nửa số bệnh viện và phòng mạch trong bang."
+            }
+        },
+        {
+            "content": "Phòng khám",
+            "type": "",
+            "example": {
+                "en": "This clinic was his mother's.",
+                "vi": "Phòng khám này là của mẹ anh ấy."
+            }
+        },
+        {
+            "content": "beänh xaù",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bệnh viện",
+            "type": "noun",
+            "example": {
+                "en": "I even went down to the clinic, do you know that?",
+                "vi": "Em đã đến bệnh viện, anh có biết không?"
+            }
+        },
+        {
+            "content": "nhà thương",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "phòng khám",
+            "type": "noun",
+            "example": {
+                "en": "Why'd you go to the clinic last year?",
+                "vi": "Tại sao chị đến phòng khám năm ngoái?"
+            }
+        }
+    ]
+}

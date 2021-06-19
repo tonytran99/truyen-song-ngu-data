@@ -1,0 +1,42 @@
+{
+    "word": "janitor",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjanədər/",
+            "/ˈdʒænədər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒanɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người coi nhà",
+            "type": "",
+            "example": {
+                "en": "I' il have the janitor come on up",
+                "vi": "Tôi sẽ gọi người coi nhà lên dọn dẹp"
+            }
+        },
+        {
+            "content": "người gác cổng",
+            "type": "",
+            "example": {
+                "en": "Actually, he was completely alone and it was hours before the janitor found him.",
+                "vi": "Lúc đó ông ta ở một mình và người gác cổng tìm thấy ông ta vài giờ sau."
+            }
+        },
+        {
+            "content": "người trông coi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "varying",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈveriiNG/",
+            "/ˈvɛrɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛːrɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hay biến đổi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "khác nhau",
+            "type": "adjective",
+            "example": {
+                "en": "Social customs vary from country to country.",
+                "vi": "Phong tục nè nếp biến đổi khác nhau ở mỗi quốc gia."
+            }
+        },
+        {
+            "content": "khác biệt",
+            "type": "adjective",
+            "example": {
+                "en": "Legal procedures and papers vary from place to place.",
+                "vi": "Có sự khác biệt về thủ tục và giấy tờ hợp pháp tùy nơi."
+            }
+        }
+    ]
+}

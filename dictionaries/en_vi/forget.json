@@ -1,0 +1,73 @@
+{
+    "word": "forget",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fərˈɡet/",
+            "/fərˈɡɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəˈɡɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quên",
+            "type": "verb",
+            "example": {
+                "en": "Tom will never forget all the time Mary spent with him.",
+                "vi": "Tom sẽ không bao giờ quên quãng thời gian Mary ở bên anh ấy."
+            }
+        },
+        {
+            "content": "không nhớ",
+            "type": "verb",
+            "example": {
+                "en": "Sometimes, if you forget something, you have less pain to bear.",
+                "vi": "Có những chuyện không nhớ ra, sẽ bớt đau khổ."
+            }
+        },
+        {
+            "content": "nhãng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quên lãng",
+            "type": "",
+            "example": {
+                "en": "And you see them every day and every day you forget about them.",
+                "vi": "Bạn thấy chúng mỗi ngày và mỗi ngày bạn quên lãng chúng."
+            }
+        },
+        {
+            "content": "bỏ quên",
+            "type": "",
+            "example": {
+                "en": "You made me forget my favorite skirt back at the motel...",
+                "vi": "Anh làm tôi bỏ quên cái váy ưa thích của tôi ở khách sạn."
+            }
+        },
+        {
+            "content": "coi nhẹ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "coi thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không nhớ đến",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

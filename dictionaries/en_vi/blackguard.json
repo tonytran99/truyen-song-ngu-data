@@ -1,0 +1,48 @@
+{
+    "word": "blackguard",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblaɡərd/",
+            "/ˈblæɡərd/",
+            "/ˈblaˌɡärd/",
+            "/ˈblæˌɡɑrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈblaɡɑːd/",
+            "/ˈblaɡəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chửi rủa tục tĩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người đê tiện",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tục tĩu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đê tiện",
+            "type": "",
+            "example": {
+                "en": "Unless you're a blackguard, steal a horse, stay away for a few days.",
+                "vi": "Trừ khi cậu là một tên đê tiện, chôm một con ngựa, lẫn trốn vài ngày."
+            }
+        }
+    ]
+}

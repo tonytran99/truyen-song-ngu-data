@@ -1,0 +1,39 @@
+{
+    "word": "digitize",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdijəˌtīz/",
+            "/ˈdɪdʒəˌtaɪz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɪdʒɪtʌɪz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lượng tử hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rời rạc hoá",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "số hoá",
+            "type": "",
+            "example": {
+                "en": "Google Books aims to digitize the publishing industry .",
+                "vi": "Google Books cố gắng số hoá ngành công nghiệp xuất bản ."
+            }
+        }
+    ]
+}

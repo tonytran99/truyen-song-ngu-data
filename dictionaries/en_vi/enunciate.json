@@ -1,0 +1,49 @@
+{
+    "word": "enunciate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnənsēˌāt/",
+            "/əˈnənsiˌeɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈnʌnsɪeɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phát âm",
+            "type": "noun",
+            "example": {
+                "en": "Could you enunciate that last word a little bit?",
+                "vi": "Anh phát âm cái từ cuối một lần nữa được không?"
+            }
+        },
+        {
+            "content": "phát biểu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nói ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đề ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

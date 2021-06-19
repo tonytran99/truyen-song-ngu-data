@@ -1,0 +1,45 @@
+{
+    "word": "animals",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "chim muông",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "cầm thú",
+            "type": "noun",
+            "example": {
+                "en": "I wanted you to protect me from that animal.",
+                "vi": "Tôi muốn cô bảo vệ tôi khỏi bọn cầm thú đó."
+            }
+        },
+        {
+            "content": "thú vật",
+            "type": "noun",
+            "example": {
+                "en": "They're as prolific as animals and they live like animals.",
+                "vi": "Chúng sinh sản như thú vật và chúng sống như thú vật."
+            }
+        },
+        {
+            "content": "động vật",
+            "type": "noun",
+            "example": {
+                "en": "I don't feel like eating animal proteins today.",
+                "vi": "Hôm nay tôi không muốn ăn đạm động vật."
+            }
+        },
+        {
+            "content": "loài vật",
+            "type": "",
+            "example": {
+                "en": "The cheetah is the fastest animal.",
+                "vi": "Báo đốm là loài vật nhanh nhất."
+            }
+        }
+    ]
+}

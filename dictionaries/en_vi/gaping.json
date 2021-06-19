@@ -1,0 +1,46 @@
+{
+    "word": "gaping",
+    "type": [
+        "adjective",
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡāpiNG/",
+            "/ˈɡeɪpɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡeɪpɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "huếch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hếch hoác",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "hổng",
+            "type": "",
+            "example": {
+                "en": "I welded the breech, but the valve is still gaping.",
+                "vi": "Tôi đã hàn lại phần dưới, nhưng chiếc van vẫn có lỗ hổng."
+            }
+        },
+        {
+            "content": "hở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

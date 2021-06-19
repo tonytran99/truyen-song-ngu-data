@@ -1,0 +1,29 @@
+{
+    "word": "foodstuff",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfo͞odˌstəf/",
+            "/ˈfudˌstəf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfuːdstʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thực phẩm",
+            "type": "noun",
+            "example": {
+                "en": "Rice and other foodstuffs were gathered together and taken there.",
+                "vi": "Họ gom góp gạo và các thực phẩm khác và chở đến đó."
+            }
+        }
+    ]
+}

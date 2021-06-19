@@ -1,0 +1,45 @@
+{
+    "word": "aroma",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrōmə/",
+            "/əˈroʊmə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈrəʊmə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mùi thơm",
+            "type": "noun",
+            "example": {
+                "en": "You take in its aroma before adding it to the growing mound in the basket.",
+                "vi": "Bạn ngửi mùi thơm của nó trước khi bỏ vào giỏ."
+            }
+        },
+        {
+            "content": "hương thơm",
+            "type": "",
+            "example": {
+                "en": "You warm the cup with your hands, like this and swirl to release the aroma.",
+                "vi": "Cô làm ấm cốc rượu bằng tay như thế này, và xoáy cốc để hương thơm tỏa ra."
+            }
+        },
+        {
+            "content": "hương vị",
+            "type": "",
+            "example": {
+                "en": "The daughter smiled , as she tasted its rich aroma .",
+                "vi": "Cô gái mỉm cười thưởng thức hương vị cà phê thơm lừng ."
+            }
+        }
+    ]
+}

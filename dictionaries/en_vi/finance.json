@@ -1,0 +1,73 @@
+{
+    "word": "finance",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfīnans/",
+            "/ˈfaɪnæns/",
+            "/fəˈnans/",
+            "/fəˈnæns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfʌɪnans/",
+            "/fʌɪˈnans/",
+            "/fɪˈnans/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài chính",
+            "type": "noun",
+            "example": {
+                "en": "And how about finances? Anybody check that today?",
+                "vi": "Thế còn tài chính thì sao ạ? Đã có ai kiểm tra tài chính hôm nay chưa?"
+            }
+        },
+        {
+            "content": "tài trợ",
+            "type": "",
+            "example": {
+                "en": "Which is a front for certain countries to finance terrorist activities.",
+                "vi": "Có tổ chức ở nhiều nước tài trợ cho bọn khủng bố."
+            }
+        },
+        {
+            "content": "bỏ vốn cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cấp tiền cho",
+            "type": "",
+            "example": {
+                "en": "You didn't mind being the daughter of a-a man who financed terrorism?",
+                "vi": "Cô không phiền lòng khi là con gái của người cấp tiền cho khủng bố à?"
+            }
+        },
+        {
+            "content": "tiền của",
+            "type": "",
+            "example": {
+                "en": "I'm trying to save your finances.",
+                "vi": "Tôi đang tìm cách cứu tiền của của bà."
+            }
+        },
+        {
+            "content": "tài vụ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "tìm vốn cho",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

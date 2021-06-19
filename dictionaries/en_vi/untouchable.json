@@ -1,0 +1,51 @@
+{
+    "word": "untouchable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənˈtəCHəb(ə)l/",
+            "/ˌənˈtətʃəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnˈtʌtʃəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bất khả xâm phạm",
+            "type": "adjective",
+            "example": {
+                "en": "His money and political ties make him untouchable.",
+                "vi": "Tiền và các mối quan hệ chính trị khiến hắn bất khả xâm phạm."
+            }
+        },
+        {
+            "content": "không thể sờ được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không thể động đến",
+            "type": "adjective",
+            "example": {
+                "en": "Ness and the Untouchables took down Capone.",
+                "vi": "Ness và điều luật không thể động đến lại bị phá vỡ bởi Capone."
+            }
+        },
+        {
+            "content": "tiện dân",
+            "type": "",
+            "example": {
+                "en": "She's what they used to call an untouchable.",
+                "vi": "Cô ấy thuộc tầng lớp tiện dân."
+            }
+        }
+    ]
+}

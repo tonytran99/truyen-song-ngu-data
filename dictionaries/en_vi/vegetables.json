@@ -1,0 +1,32 @@
+{
+    "word": "vegetables",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "rau",
+            "type": "noun",
+            "example": {
+                "en": "What can I do with the leftover vegetables?",
+                "vi": "Tôi có thể làm gì với phần rau thừa?"
+            }
+        },
+        {
+            "content": "rau cỏ",
+            "type": "plural",
+            "example": {
+                "en": "Even its soil had power —to grow vegetation, yielding nutritious, unpolluted food.",
+                "vi": "Ngay cả đất cũng có sức để sanh rau cỏ, cung cấp đồ ăn bổ dưỡng không bị ô nhiễm."
+            }
+        },
+        {
+            "content": "rau quả",
+            "type": "plural",
+            "example": {
+                "en": "If we start poking around inside, the vegetable goes bad.",
+                "vi": "Chúng ta khua khoắng bên trong, rau quả sẽ hỏng hết."
+            }
+        }
+    ]
+}

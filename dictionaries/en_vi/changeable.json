@@ -1,0 +1,55 @@
+{
+    "word": "changeable",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHānjəb(ə)l/",
+            "/ˈtʃeɪndʒəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃeɪn(d)ʒəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dễ thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "Professor Smith says that Americans love to see themselves as changeable and inventive .",
+                "vi": "Giáo sư Smith nói rằng người Mỹ thích tự coi mình là người dễ thay đổi và sáng tạo ."
+            }
+        },
+        {
+            "content": "hay thay đổi",
+            "type": "adjective",
+            "example": {
+                "en": "Alaska, however, does present challenges —not only the changeable weather but also the vast distances.",
+                "vi": "Tuy nhiên, vùng Alaska có những thử thách của nó—không những thời tiết hay thay đổi mà khoảng cách lại rộng mênh mông nữa."
+            }
+        },
+        {
+            "content": "bất thường",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có thể thay đổi",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "thay đổi",
+            "type": "verb",
+            "example": {
+                "en": "Alaska, however, does present challenges—not only the changeable weather but also the vast distances.",
+                "vi": "Tuy nhiên, vùng Alaska có những thử thách của nó—không những thời tiết hay thay đổi mà khoảng cách lại rộng mênh mông nữa."
+            }
+        }
+    ]
+}

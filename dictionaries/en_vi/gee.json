@@ -1,0 +1,69 @@
+{
+    "word": "gee",
+    "type": [
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jē/",
+            "/dʒi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "gờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghê",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giê",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "thế",
+            "type": "conjunction verb noun",
+            "example": {
+                "en": "Gee, I wonder what this is gonna be about.",
+                "vi": "Gee, đã biết là sẽ như thế này mà."
+            }
+        },
+        {
+            "content": "được",
+            "type": "verb",
+            "example": {
+                "en": "Gee, they all look so good.",
+                "vi": "chúng có vẻ được đấy nhỉ!"
+            }
+        },
+        {
+            "content": "cứ thế",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khuấy thán từ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đi nào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

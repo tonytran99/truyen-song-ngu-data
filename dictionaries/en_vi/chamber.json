@@ -1,0 +1,100 @@
+{
+    "word": "chamber",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈCHāmbər/",
+            "/ˈtʃeɪmbər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈtʃeɪmbə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phòng",
+            "type": "noun",
+            "example": {
+                "en": "Undisturbed, possibly in his roof chamber, he no doubt meditated deeply on the meaning of such passages.",
+                "vi": "Có thể trong phòng trên lầu, ông tập trung suy ngẫm về ý nghĩa của những lời đó."
+            }
+        },
+        {
+            "content": "buồng",
+            "type": "noun",
+            "example": {
+                "en": "The walls of the heart 's chambers are composed almost entirely of muscle fibers .",
+                "vi": "Vách buồng tim gần như được cấu tạo hoàn toàn từ sợi cơ ."
+            }
+        },
+        {
+            "content": "viện",
+            "type": "noun",
+            "example": {
+                "en": "You will split the chamber, the unity of the Republic!",
+                "vi": "Ngài sẽ chia rẽ nghị viện, sự thống nhất của nền Cộng hòa!"
+            }
+        },
+        {
+            "content": "hộp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "buồng ngủ",
+            "type": "",
+            "example": {
+                "en": "Stay in your chamber.",
+                "vi": "Cứ ở trong buồng ngủ của cậu."
+            }
+        },
+        {
+            "content": "bỏ vào phòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoan rỗng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khoét thành hốc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhốt vào phòng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng luật sư",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phòng ngủ",
+            "type": "",
+            "example": {
+                "en": "Please, dear husband, will you share my chamber?",
+                "vi": "Phu quân yêu quý, anh có đồng ý chia sẻ phòng ngủ với tôi không?"
+            }
+        },
+        {
+            "content": "ổ đạn",
+            "type": "",
+            "example": {
+                "en": "Ten in the mag, one in the chamber.",
+                "vi": "Mười viên trong băng đạn, một viên trong ổ đạn."
+            }
+        }
+    ]
+}

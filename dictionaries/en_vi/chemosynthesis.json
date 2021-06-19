@@ -1,0 +1,45 @@
+{
+    "word": "chemosynthesis",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkēmōˈsinTHəsəs/",
+            "/ˌkimoʊˈsɪnθəsəs/",
+            "/ˌkemōˈsinTHəsəs/",
+            "/ˌkɛmoʊˈsɪnθəsəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkiːmə(ʊ)ˈsɪnθɪsɪs/",
+            "/ˌkɛmə(ʊ)ˈsɪnθɪsɪs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự hoá tổng hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hóa tổng hợp",
+            "type": "",
+            "example": {
+                "en": "They live in an environment of chemosynthesis.",
+                "vi": "Chúng sống trong môi trường hóa tổng hợp."
+            }
+        },
+        {
+            "content": "sự hóa tổng hợp",
+            "type": "noun",
+            "example": {
+                "en": "is coming from inside the Earth — so, chemosynthesis.",
+                "vi": "đều đến từ trong lòng trái đất - sự hóa tổng hợp"
+            }
+        }
+    ]
+}

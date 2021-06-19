@@ -1,0 +1,33 @@
+{
+    "word": "dazzled",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "chói mắt",
+            "type": "adjective",
+            "example": {
+                "en": "Why were all those guys dazzling me with their lights?",
+                "vi": "Tại sao mấy gã đó rọi đèn làm chói mắt anh?"
+            }
+        },
+        {
+            "content": "lóa mắt",
+            "type": "adjective",
+            "example": {
+                "en": "Why haven't you dazzled us with these philosophical speculations of yours?",
+                "vi": "Sao anh không làm cho chúng tôi lóa mắt với những nghiên cứu triết lý của anh đi?"
+            }
+        },
+        {
+            "content": "quáng",
+            "type": "noun",
+            "example": {
+                "en": "all dazzle and bewitch us.",
+                "vi": "Làm mù quáng và say lòng chúng ta!"
+            }
+        }
+    ]
+}

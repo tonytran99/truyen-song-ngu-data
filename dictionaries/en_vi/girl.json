@@ -1,0 +1,83 @@
+{
+    "word": "girl",
+    "type": [
+        ""
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡərl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡəːl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con gái",
+            "type": "noun",
+            "example": {
+                "en": "She is a tender girl of questionable morals.",
+                "vi": "Cô ta là một đứa con gái tinh tế với đạo đức đáng ngờ."
+            }
+        },
+        {
+            "content": "gái",
+            "type": "noun",
+            "example": {
+                "en": "Who is the pretty girl sitting beside Jack?",
+                "vi": "Cô gái xinh đẹp ngồi cạnh Jack là ai?"
+            }
+        },
+        {
+            "content": "cô bé",
+            "type": "noun",
+            "example": {
+                "en": "The girl has a gene mutation that makes her immune.",
+                "vi": "Cô bé có gen đột biến khiến cô bé miễn dịch."
+            }
+        },
+        {
+            "content": "cô gái",
+            "type": "noun",
+            "example": {
+                "en": "Both girls have blue eyes.",
+                "vi": "Cả hai cô gái đều có đôi mắt xanh."
+            }
+        },
+        {
+            "content": "thiếu nữ",
+            "type": "noun",
+            "example": {
+                "en": "They convinced some other girls to drink it, and they all got in trouble.",
+                "vi": "Họ thuyết phục một số các thiếu nữ khác uống rượu, và họ đều gặp rắc rối."
+            }
+        },
+        {
+            "content": "cô gái giúp việc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người tình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người yêu",
+            "type": "noun",
+            "example": {
+                "en": "He's back with his girl and his kid, so there's that.",
+                "vi": "Anh ấy đã quay lại với người yêu và con của mình, chuyện là vậy."
+            }
+        },
+        {
+            "content": "nữ tử",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

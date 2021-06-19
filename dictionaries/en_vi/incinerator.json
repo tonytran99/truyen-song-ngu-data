@@ -1,0 +1,52 @@
+{
+    "word": "incinerator",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈsinəˌrādər/",
+            "/ɪnˈsɪnəˌreɪdər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈsɪnəreɪtə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lò thiêu",
+            "type": "noun",
+            "example": {
+                "en": "Please remove your clothes and place them in the incineration hatch.",
+                "vi": "Xin hãy cởi đồ và đặt chúng vào trong lò thiêu."
+            }
+        },
+        {
+            "content": "người thiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lò hoả táng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lò đốt rác",
+            "type": "",
+            "example": {
+                "en": "Anything's not nailed to the floor is going in the incinerator.",
+                "vi": "Thứ gì không được đóng đinh xuống sàn sẽ được tống vào lò đốt rác."
+            }
+        },
+        {
+            "content": "người hoả táng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

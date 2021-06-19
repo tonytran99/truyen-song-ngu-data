@@ -1,0 +1,92 @@
+{
+    "word": "announce",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnouns/",
+            "/əˈnaʊns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈnaʊns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "báo",
+            "type": "noun verb",
+            "example": {
+                "en": "Ladies and gentlemen, we have an unexpected announcement.",
+                "vi": "Thưa quý bà và quý ông, chúng tôi có một thông báo bất ngờ."
+            }
+        },
+        {
+            "content": "loan báo",
+            "type": "verb",
+            "example": {
+                "en": "In the light of the typhoon signal number 8 being announced",
+                "vi": "Tin tức về cơn bão số 8 đã được loan báo rộng rãi"
+            }
+        },
+        {
+            "content": "công bố",
+            "type": "",
+            "example": {
+                "en": "I'm going to make announcement of our wedding.",
+                "vi": "Hôm nay tôi sẽ công bố chuyện kết hôn với người đó."
+            }
+        },
+        {
+            "content": "thông báo",
+            "type": "verb",
+            "example": {
+                "en": "Ladies and gentlemen, we have an unexpected announcement.",
+                "vi": "Thưa quý bà và quý ông, chúng tôi có một thông báo bất ngờ."
+            }
+        },
+        {
+            "content": "rao",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "báo hiệu",
+            "type": "",
+            "example": {
+                "en": "I did not hear welcoming horns announcing Tiberius'approach with balance of men.",
+                "vi": "Tôi không nghe thấy tiếng kèn báo hiệu Tiberius và đoàn người đã đến."
+            }
+        },
+        {
+            "content": "thông tri",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tuyên bố",
+            "type": "",
+            "example": {
+                "en": "So I can announce a candidacy from some hiding place?",
+                "vi": "Vậy tôi có thể tuyên bố ra tranh cử từ trong chổ ẩn núp?"
+            }
+        },
+        {
+            "content": "đọc chương trình",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "giới thiệu",
+            "type": "verb",
+            "example": {
+                "en": "When the chairman introduces a student’s assignment, he will not announce the study point.",
+                "vi": "Khi giới thiệu bài của học viên, chủ tọa sẽ không cho biết điểm thực tập."
+            }
+        }
+    ]
+}

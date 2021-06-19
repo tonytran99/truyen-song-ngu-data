@@ -1,0 +1,54 @@
+{
+    "word": "canoe",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈno͞o/",
+            "/kəˈnu/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xuồng",
+            "type": "",
+            "example": {
+                "en": "Then when you get home, throw the canoe away.",
+                "vi": "Và khi các cậu về nhà, quăng cái xuồng đi đi."
+            }
+        },
+        {
+            "content": "bơi xuồng",
+            "type": "verb",
+            "example": {
+                "en": "Had we elected to continue canoeing, we would have put our lives in great peril.",
+                "vi": "Nếu chúng tôi chọn tiếp tục bơi xuồng đi, thì có lẽ chúng tôi đã có nguy cơ mất mạng rồi."
+            }
+        },
+        {
+            "content": "Xuồng",
+            "type": "",
+            "example": {
+                "en": "Your canoe will be right down there by the water.",
+                "vi": "Xuồng của cậu đã ở dưới đó rồi đấy."
+            }
+        },
+        {
+            "content": "thuyền độc mộc",
+            "type": "",
+            "example": {
+                "en": "We traveled in a dugout canoe equipped with an outboard motor.",
+                "vi": "Chúng tôi đi bằng thuyền độc mộc có gắn động cơ."
+            }
+        }
+    ]
+}

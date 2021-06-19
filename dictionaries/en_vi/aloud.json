@@ -1,0 +1,76 @@
+{
+    "word": "aloud",
+    "type": [
+        "adjective",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈloud/",
+            "/əˈlaʊd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈlaʊd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "to",
+            "type": "adjective",
+            "example": {
+                "en": "Repeat the activity by reading aloud other scenarios.",
+                "vi": "Lặp lại sinh hoạt này bằng cách đọc to các tình huống còn lại."
+            }
+        },
+        {
+            "content": "inh lên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớn tiếng to",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "oang oang",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rõ rành rành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thấy rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ầm ầm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lớn tiếng",
+            "type": "",
+            "example": {
+                "en": "Then begin to practice reading this portion aloud.",
+                "vi": "Rồi bắt đầu tập đọc lớn tiếng đoạn văn ấy."
+            }
+        },
+        {
+            "content": "thành tiếng",
+            "type": "",
+            "example": {
+                "en": "We should speak aloud, and one at a time.",
+                "vi": "Chúng ta nên nói thành tiếng, và từng người một."
+            }
+        }
+    ]
+}

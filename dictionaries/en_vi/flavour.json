@@ -1,0 +1,82 @@
+{
+    "word": "flavour",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfleɪvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mùi vị",
+            "type": "noun",
+            "example": {
+                "en": "It does have a flavouring I'm not familiar with.",
+                "vi": "Nó có mùi vị rất lạ đối với tôi."
+            }
+        },
+        {
+            "content": "mùi thơm",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vị ngon",
+            "type": "",
+            "example": {
+                "en": "There can't be any nice flavour in that, cos it's all rubbery, look.",
+                "vi": "Không thể có vị ngon trong đó vì nó là cao su, nhìn nè."
+            }
+        },
+        {
+            "content": "nêm",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cho gia vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hương vị phảng phất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khí vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phong vị",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thêm thắt vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Hương",
+            "type": "proper",
+            "example": {
+                "en": "Heh, heh. We put in just a touch of formaldehyde for flavour.",
+                "vi": "Chúng tôi cho một chút vào cho có hương vị"
+            }
+        },
+        {
+            "content": "hương vị",
+            "type": "",
+            "example": {
+                "en": "Heh, heh. We put in just a touch of formaldehyde for flavour.",
+                "vi": "Chúng tôi cho một chút vào cho có hương vị"
+            }
+        }
+    ]
+}

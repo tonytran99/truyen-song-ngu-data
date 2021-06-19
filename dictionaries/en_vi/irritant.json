@@ -1,0 +1,48 @@
+{
+    "word": "irritant",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirədənt/",
+            "/ˈɪrədənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪrɪt(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất kích thích",
+            "type": "",
+            "example": {
+                "en": "Natural foods such as chili peppers , which contain a substance irritating to the skin , can cause a burning sensation .",
+                "vi": "Thức ăn tự nhiên như là quả ớt , chứa chất kích thích với da , có thể gây ra cảm giác phỏng ."
+            }
+        },
+        {
+            "content": "kích thích",
+            "type": "verb noun",
+            "example": {
+                "en": "Colds and other viruses may also irritate the lining of the nose .",
+                "vi": "Bệnh cảm lạnh và nhiều loại vi-rút khác cũng có thể làm kích thích niêm mạc mũi ."
+            }
+        },
+        {
+            "content": "làm cáu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điều làm cái",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

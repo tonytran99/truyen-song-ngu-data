@@ -1,0 +1,51 @@
+{
+    "word": "cornered",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrnərd/",
+            "/ˈkɔrnərd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːnəd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị dồn vào chân tường",
+            "type": "",
+            "example": {
+                "en": "You never know what a person will do until you push him into a corner.",
+                "vi": "Cô sẽ không biết được một người sẽ làm gì khi bị dồn vào chân tường đâu."
+            }
+        },
+        {
+            "content": "bị dồn vào góc",
+            "type": "adjective",
+            "example": {
+                "en": "Like Goehring, he's unlikely to surrender if he's cornered.",
+                "vi": "Như Goehring, hắn sẽ không đầu hàng nếu hắn bị dồn vào góc tường."
+            }
+        },
+        {
+            "content": "bị dồn vào thế bí",
+            "type": "adjective",
+            "example": {
+                "en": "Never more than now, when you're cornered.",
+                "vi": "Như lúc này đây, khi em bị dồn vào thế bí."
+            }
+        },
+        {
+            "content": "có góc",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

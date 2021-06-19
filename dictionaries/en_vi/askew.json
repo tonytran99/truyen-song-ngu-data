@@ -1,0 +1,45 @@
+{
+    "word": "askew",
+    "type": [
+        "adverb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈskyo͞o/",
+            "/əˈskju/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈskjuː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lệch",
+            "type": "",
+            "example": {
+                "en": "her hair was askew.",
+                "vi": "mái tóc bà lệch sang 1 bên."
+            }
+        },
+        {
+            "content": "trẹo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "xiên",
+            "type": "adjective verb noun",
+            "example": {}
+        },
+        {
+            "content": "nghiêng",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

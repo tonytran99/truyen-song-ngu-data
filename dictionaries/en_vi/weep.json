@@ -1,0 +1,79 @@
+{
+    "word": "weep",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wēp/",
+            "/wip/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːp/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khóc",
+            "type": "verb",
+            "example": {
+                "en": "As he sat in my office, he began to weep.",
+                "vi": "Khi ngồi trong văn phòng tôi, anh bắt đầu khóc."
+            }
+        },
+        {
+            "content": "chy nước",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có cành rủ xuống",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khóc cho",
+            "type": "",
+            "example": {
+                "en": "Your vassal queen shall weep till she sees you again.",
+                "vi": "Nữ hoàng nước chư hầu của ngài sẽ than khóc cho đến ngày được gặp lại ngài."
+            }
+        },
+        {
+            "content": "khóc than về",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khóc về",
+            "type": "",
+            "example": {
+                "en": "You wanna weep over Tommy Russo, fine, we can drink to Tommy.",
+                "vi": "Anh muốn than khóc về vụ Tommy Russo, được thôi, chúng ta có thể uống cho Tommy."
+            }
+        },
+        {
+            "content": "rỉ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ứa nước",
+            "type": "",
+            "example": {
+                "en": "Well, for one thing, you're openly weeping.",
+                "vi": "Vì một thứ thôi, cậu ứa nước mắt cách công khai kìa"
+            }
+        },
+        {
+            "content": "ứa ra",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

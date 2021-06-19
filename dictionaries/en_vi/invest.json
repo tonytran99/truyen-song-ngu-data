@@ -1,0 +1,58 @@
+{
+    "word": "invest",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvest/",
+            "/ɪnˈvɛst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɛst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đầu tư",
+            "type": "verb",
+            "example": {
+                "en": "The government doesn't invest much in education.",
+                "vi": "Chính phủ không đầu tư nhiều vào giáo dục."
+            }
+        },
+        {
+            "content": "投資",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "bỏ vốn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "truyền cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đầu tư vốn",
+            "type": "",
+            "example": {
+                "en": "I got a contract that represents an investment of capital.",
+                "vi": "Tôi có ở đây một cái hợp đồng đại diện một khoản đầu tư vốn liếng."
+            }
+        },
+        {
+            "content": "phong chức",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

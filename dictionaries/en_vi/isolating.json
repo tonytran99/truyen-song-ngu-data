@@ -1,0 +1,37 @@
+{
+    "word": "isolating",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈīsəˌlādiNG/",
+            "/ˈaɪsəˌleɪdɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌɪsəleɪtɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bị cách li",
+            "type": "adjective",
+            "example": {
+                "en": "His entire stretch, he was isolated from gen pop.",
+                "vi": "Toàn bộ thời gian, hắn bị cách li khỏi phòng giam thông thường."
+            }
+        },
+        {
+            "content": "bị cô lập",
+            "type": "adjective",
+            "example": {
+                "en": "I feel isolated, and exposed at the same time.",
+                "vi": "Tôi thấy mình vừa bị cô lập vừa bị vạch trần cùng lúc."
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "exclaim",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ikˈsklām/",
+            "/ɪkˈskleɪm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪkˈskleɪm/",
+            "/ɛkˈskleɪm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "la lên",
+            "type": "",
+            "example": {
+                "en": "Hyrum was shot first and fell calmly, exclaiming: I am a dead man!",
+                "vi": "Hyrum bị bắn trước và ngã xuống một cách bình tĩnh và la lên: Chết tôi rồi!"
+            }
+        },
+        {
+            "content": "kêu lên",
+            "type": "",
+            "example": {
+                "en": "\"This is what I was looking for!\" he exclaimed.",
+                "vi": "\"Đây đúng là thứ mà tôi đang tìm\" anh ta kêu lên."
+            }
+        }
+    ]
+}

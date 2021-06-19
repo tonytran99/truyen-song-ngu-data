@@ -1,0 +1,77 @@
+{
+    "word": "compensate",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkämpənˌsāt/",
+            "/ˈkɑmpənˌseɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒmpɛnseɪt/",
+            "/ˈkɒmp(ə)nseɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bù",
+            "type": "verb",
+            "example": {
+                "en": "Because the death of a child is compensated by one more child.",
+                "vi": "Bởi vì một đứa trẻ mất đi được bù đắp bởi một đứa trẻ nữa."
+            }
+        },
+        {
+            "content": "đền bù",
+            "type": "",
+            "example": {
+                "en": "I'm sure they were compensated for it as well.",
+                "vi": "Tôi chắc là họ đã được đền bù thích đáng."
+            }
+        },
+        {
+            "content": "bồi thường",
+            "type": "",
+            "example": {
+                "en": "If you use the tractor, I want compensation!",
+                "vi": "Nếu anh đụng vào máy kéo, thì tôi muốn bồi thường đấy!"
+            }
+        },
+        {
+            "content": "bõ",
+            "type": "Verbal; Adjectival",
+            "example": {}
+        },
+        {
+            "content": "bù đắp",
+            "type": "verb",
+            "example": {
+                "en": "Because the death of a child is compensated by one more child.",
+                "vi": "Bởi vì một đứa trẻ mất đi được bù đắp bởi một đứa trẻ nữa."
+            }
+        },
+        {
+            "content": "bổ chính",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bù lại",
+            "type": "",
+            "example": {
+                "en": "I'll need to reset the particle parameters to compensate.",
+                "vi": "Tôi cần phải thiết lập lại các thông số hạt... để bù lại số lượng."
+            }
+        },
+        {
+            "content": "đền bồi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "unambiguous",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌənamˈbiɡyo͞oəs/",
+            "/ˌənæmˈbɪɡjuəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌnamˈbɪɡjʊəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chẻ hoe",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không mơ hồ",
+            "type": "adjective",
+            "example": {
+                "en": "For the most part, their prophetic speeches, unlike those of the oracles, seem to be unambiguous.",
+                "vi": "Trong hầu hết các trường hợp, những lời tiên tri của họ không mơ hồ, khác với những lời bói thẻ."
+            }
+        },
+        {
+            "content": "rõ ràng",
+            "type": "adjective",
+            "example": {
+                "en": "But this trend is less unambiguous.",
+                "vi": "Tuy nhiên xu hướng này vẫn không rõ ràng."
+            }
+        }
+    ]
+}

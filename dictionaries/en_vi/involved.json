@@ -1,0 +1,71 @@
+{
+    "word": "involved",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈvälvd/",
+            "/ɪnˈvɑlvd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈvɒlvd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phức tạp",
+            "type": "adjective",
+            "example": {
+                "en": "Much time is consumed unnecessarily by lengthy, involved introductions.",
+                "vi": "Không nên mất nhiều thì giờ vô ích cho những nhập đề dài dòng và phức tạp."
+            }
+        },
+        {
+            "content": "bị dính dáng",
+            "type": "",
+            "example": {
+                "en": "You knew the risks when you got involved.",
+                "vi": "Ông biết mối hiểm họa khi ông bị dính dáng mà."
+            }
+        },
+        {
+            "content": "bị liên luỵ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị mắc míu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bị thu hút vào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bọ dính líu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "rắc rối",
+            "type": "",
+            "example": {
+                "en": "What is it you think you're involved in?",
+                "vi": "Thế anh nghĩ anh dính vào rắc rối gì."
+            }
+        },
+        {
+            "content": "rối rắm",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

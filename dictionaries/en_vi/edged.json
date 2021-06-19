@@ -1,0 +1,77 @@
+{
+    "word": "edged",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ejd/",
+            "/ɛdʒd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛdʒd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "có bờ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có cạnh",
+            "type": "",
+            "example": {
+                "en": "White surfaces have long edges, black ones have short ones.",
+                "vi": "Bề mặt trắng có cạnh dài, mặt đen có cạnh ngắn."
+            }
+        },
+        {
+            "content": "có gờ",
+            "type": "",
+            "example": {
+                "en": "A hypodermic needle in contrast , has a sharp edge and its insertion cuts out a small cylinder .",
+                "vi": "Ngược lại , kim tiêm dưới da có gờ sắc và khi tiêm vào da , nó cắt tế bào hình trụ ."
+            }
+        },
+        {
+            "content": "có lưỡi",
+            "type": "",
+            "example": {
+                "en": "I've never held a sword with a proper edge.",
+                "vi": "Tôi chưa từng cầm 1 thanh kiếm có lưỡi thật."
+            }
+        },
+        {
+            "content": "có lề",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có rìa",
+            "type": "",
+            "example": {
+                "en": "In some cases, a scroll’s top and bottom edges were trimmed, rubbed smooth with pumice stone, and dyed.",
+                "vi": "Một số cuộn sách có rìa trên và dưới được cắt tỉa, chà mịn bằng đá mài và được nhuộm."
+            }
+        },
+        {
+            "content": "có viền",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sắc",
+            "type": "adjective noun",
+            "example": {
+                "en": "You scrape shavings off it with a stick that is split for a sharp edge.",
+                "vi": "Bạn mài nó bằng cành cây được vót sắc."
+            }
+        }
+    ]
+}

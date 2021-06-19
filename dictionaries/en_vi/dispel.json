@@ -1,0 +1,43 @@
+{
+    "word": "dispel",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈspel/",
+            "/dəˈspɛl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈspɛl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "xua tan",
+            "type": "",
+            "example": {
+                "en": "Friendship unites the human family, dispelling hatred and misunderstanding.",
+                "vi": "Tình bạn kết hợp gia đình nhân loại, xua tan lòng căm ghét và sự hiểu lầm."
+            }
+        },
+        {
+            "content": "xua đuổi đi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xua đuổi",
+            "type": "",
+            "example": {
+                "en": "What helps to dispel our “disquieting thoughts”?",
+                "vi": "Điều gì giúp chúng ta xua đuổi những “tư-tưởng bộn-bề”?"
+            }
+        }
+    ]
+}

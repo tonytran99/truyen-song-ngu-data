@@ -1,0 +1,43 @@
+{
+    "word": "caviar",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkavēˌär/",
+            "/ˈkæviˌɑr/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkavɪɑː/",
+            "/ˌkavɪˈɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trứng cá muối",
+            "type": "",
+            "example": {
+                "en": "I love tadpoles on toast almost as much as I love caviar.",
+                "vi": "Ta thích trứng ếch nướng với bánh mì cũng như trứng cá muối."
+            }
+        },
+        {
+            "content": "caviar trứng cá muối",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Trứng cá muối",
+            "type": "",
+            "example": {
+                "en": "It's the caviar of baloneys.",
+                "vi": "Trứng cá muối và xúc xích hun khói."
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "endoscopy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/enˈdäskəpē/",
+            "/ɛnˈdɑskəpi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛnˈdɒskəpi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phép soi trong",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Nội soi",
+            "type": "",
+            "example": {
+                "en": "It shouldn't show anything the endoscopy didn't.",
+                "vi": "Nội soi không có gì thì chắc nó cũng không có gì đâu."
+            }
+        }
+    ]
+}

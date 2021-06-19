@@ -1,0 +1,31 @@
+{
+    "word": "interfering",
+    "type": [
+        "noun",
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌin(t)ərˈfiriNG/",
+            "/ˌɪn(t)ərˈfɪrɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɪntəˈfɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhiễu",
+            "type": "verb",
+            "example": {
+                "en": "My antenna never interfered with my old TV.",
+                "vi": "Cái ăn-ten này không bao giờ làm nhiễu sóng tivi cũ của tôi."
+            }
+        }
+    ]
+}

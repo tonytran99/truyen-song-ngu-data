@@ -1,0 +1,66 @@
+{
+    "word": "abominate",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbäməˌnāt/",
+            "/əˈbɑməˌneɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈbɒmɪneɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "căm ghét",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "ghê tởm",
+            "type": "",
+            "example": {
+                "en": "You think I want that abomination running amok upstairs?",
+                "vi": "Cậu nghĩ ta muốn thứ ghê tởm đó chạy điên cuồng lên lầu trên sao?"
+            }
+        },
+        {
+            "content": "ghét",
+            "type": "verb",
+            "example": {
+                "en": "That's the abominable snowman.",
+                "vi": "Đó là người tuyết đáng ghét."
+            }
+        },
+        {
+            "content": "ghét cay ghét đắng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghét mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kinh tởm",
+            "type": "",
+            "example": {
+                "en": "I am an angel in a land of abominations.",
+                "vi": "Tôi là một thiên thần ở trong mảnh đất của những thứ kinh tởm."
+            }
+        }
+    ]
+}

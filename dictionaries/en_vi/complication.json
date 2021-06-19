@@ -1,0 +1,53 @@
+{
+    "word": "complication",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkämpləˈkāSH(ə)n/",
+            "/ˌkɑmpləˈkeɪʃ(ə)n/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒmplɪˈkeɪʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biến chứng",
+            "type": "noun",
+            "example": {
+                "en": "During the delivery, complications arose and the baby died.",
+                "vi": "Trong lúc sinh, những biến chứng xảy ra và đứa bé chết."
+            }
+        },
+        {
+            "content": "sự phức tạp",
+            "type": "",
+            "example": {
+                "en": "but using it in genomics is particularly complicated.",
+                "vi": "tuy nhiên, sử dụng nó trong gen thì thực sự phức tạp."
+            }
+        },
+        {
+            "content": "tình trạng phức tạp",
+            "type": "",
+            "example": {
+                "en": "Others had more complicated situations.",
+                "vi": "Những người khác gặp tình trạng phức tạp hơn."
+            }
+        },
+        {
+            "content": "sự rắc rối",
+            "type": "",
+            "example": {
+                "en": "because these things are so complicated.",
+                "vi": "bởi vì chúng thật sự rắc rối"
+            }
+        }
+    ]
+}

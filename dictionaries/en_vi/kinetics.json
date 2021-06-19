@@ -1,0 +1,38 @@
+{
+    "word": "kinetics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəˈnediks/",
+            "/kəˈnɛdɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɪˈnɛtɪks/",
+            "/kʌɪˈnɛtɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "động học",
+            "type": "noun",
+            "example": {
+                "en": "What about kinetic energy disruption?",
+                "vi": "Thế còn đánh thủng năng lượng bằng động học?"
+            }
+        },
+        {
+            "content": "động lực học",
+            "type": "",
+            "example": {
+                "en": "Einstein showed that mass can be converted into useful kinetic energy.",
+                "vi": "Einstein cho thấy rằng khối lượng có thể chuyển hóa thành năng lượng động lực học hữu ích."
+            }
+        }
+    ]
+}

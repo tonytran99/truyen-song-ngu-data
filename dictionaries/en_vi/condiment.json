@@ -1,0 +1,39 @@
+{
+    "word": "condiment",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkändəmənt/",
+            "/ˈkɑndəmənt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒndɪm(ə)nt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "đồ gia vị",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "hương liệu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "gia vị",
+            "type": "noun",
+            "example": {
+                "en": "A houseful of condiments and no food.",
+                "vi": "Một nhà đầy gia vị mà chả có thức ăn."
+            }
+        }
+    ]
+}

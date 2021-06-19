@@ -1,0 +1,64 @@
+{
+    "word": "coal",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kōl/",
+            "/koʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "than đá",
+            "type": "noun",
+            "example": {
+                "en": "So I shorted gas and went long on coal.",
+                "vi": "Thế là tôi cắt giảm xăng dầu và đẩy hẳn sang than đá."
+            }
+        },
+        {
+            "content": "than",
+            "type": "noun",
+            "example": {
+                "en": "So I shorted gas and went long on coal.",
+                "vi": "Thế là tôi cắt giảm xăng dầu và đẩy hẳn sang than đá."
+            }
+        },
+        {
+            "content": "lấy than",
+            "type": "",
+            "example": {
+                "en": "Well, the council pulled back everyone on the coal crew from going on the run.",
+                "vi": "\" Hội đồng \" đã rút lại tất cả những người trong đội lấy than khỏi cuộc đi săn."
+            }
+        },
+        {
+            "content": "tiếp tế than cho",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viên than đá",
+            "type": "",
+            "example": {
+                "en": "I'm sorry to say, we've burnt the last of the coal.",
+                "vi": "Tôi rất tiếc để nói với ông là, chúng ta đã đốt đến viên than đá cuối cùng."
+            }
+        },
+        {
+            "content": "ăn than",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

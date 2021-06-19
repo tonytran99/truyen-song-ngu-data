@@ -1,0 +1,50 @@
+{
+    "word": "underlying",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈlīiNG/",
+            "/ˌəndərˈlaɪɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈlʌɪɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cơ bản",
+            "type": "adjective",
+            "example": {
+                "en": "The underlying ethnicity is hard to fully hide from trained ears.",
+                "vi": "Các giọng nói cơ bản rất khó che giấu được khỏi những người đã qua đào tạo."
+            }
+        },
+        {
+            "content": "cơ sở",
+            "type": "noun",
+            "example": {
+                "en": "There are no proofs nor underlying laws that can determine the outcome of matters of the heart.",
+                "vi": "Không có bằng chứng nào hay một cơ sở luật pháp nào có thể xác định được kết quả các vấn đề của trái tim."
+            }
+        },
+        {
+            "content": "dưới",
+            "type": "adposition",
+            "example": {
+                "en": "in terms of their underlying emotions and mental states.",
+                "vi": "xét về khía cạnh những cảm xúc bên dưới và những trạng thái tinh thần."
+            }
+        },
+        {
+            "content": "nằm dưới",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

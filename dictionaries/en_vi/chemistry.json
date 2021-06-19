@@ -1,0 +1,60 @@
+{
+    "word": "chemistry",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkeməstrē/",
+            "/ˈkɛməstri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɛmɪstri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hóa học",
+            "type": "noun",
+            "example": {
+                "en": "And the key thing is to have lots of complex chemistry just bubbling away.",
+                "vi": "Và điều quan trọng là có nhiều hợp chất hóa học chỉ là dạng bong bóng."
+            }
+        },
+        {
+            "content": "hoá học",
+            "type": "noun",
+            "example": {
+                "en": "We do all of this to understand the chemistry of one molecule.",
+                "vi": "Chúng tôi làm tất cả chỉ để tìm hiểu tính chất hoá học của một phân tử."
+            }
+        },
+        {
+            "content": "化學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ngành hoá học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoá",
+            "type": "verb noun",
+            "example": {
+                "en": "We do all of this to understand the chemistry of one molecule.",
+                "vi": "Chúng tôi làm tất cả chỉ để tìm hiểu tính chất hoá học của một phân tử."
+            }
+        },
+        {
+            "content": "môn hoá học",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

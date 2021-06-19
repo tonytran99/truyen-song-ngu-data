@@ -1,0 +1,57 @@
+{
+    "word": "confectionery",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfekSHəˌnerē/",
+            "/kənˈfɛkʃəˌnɛri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈfɛkʃ(ə)n(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "kẹo",
+            "type": "noun",
+            "example": {
+                "en": "Then Theodotos was asked to care for his employer’s new confectionery parlor in Port Taufiq, near Suez, so we moved there.",
+                "vi": "Khi Theodotos được yêu cầu chăm sóc cửa hiệu bánh kẹo mới của chủ ở cảng Taufiq gần Suez, chúng tôi dọn đến đó."
+            }
+        },
+        {
+            "content": "mứt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "bánh kẹo",
+            "type": "",
+            "example": {
+                "en": "Then Theodotos was asked to care for his employer’s new confectionery parlor in Port Taufiq, near Suez, so we moved there.",
+                "vi": "Khi Theodotos được yêu cầu chăm sóc cửa hiệu bánh kẹo mới của chủ ở cảng Taufiq gần Suez, chúng tôi dọn đến đó."
+            }
+        },
+        {
+            "content": "cửa hàng mứt kẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mứt kẹo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bánh cửa hàng",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

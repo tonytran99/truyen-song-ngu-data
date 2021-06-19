@@ -1,0 +1,35 @@
+{
+    "word": "gibberish",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈjib(ə)riSH/",
+            "/ˈdʒɪb(ə)rɪʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdʒɪb(ə)rɪʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lời nói lắp bắp",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "vô nghĩa",
+            "type": "adjective",
+            "example": {
+                "en": "Only Turing would pass notes written in gibberish.",
+                "vi": "Chỉ có Turing mới đưa thư trong lớp viết bằng thứ vô nghĩa."
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "anisotropy",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˌanīˈsätrəpē/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/ˌanʌɪˈsɒtrəpi/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tính không đẳng hướng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tính dị hướng",
+            "type": "",
+            "example": {
+                "en": "Set here the angular integration step (in degrees) analogous to anisotropy",
+                "vi": "Ở đây hãy đặt bước tích phân góc theo độ tương tự với tính dị hướng"
+            }
+        }
+    ]
+}

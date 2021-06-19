@@ -1,0 +1,34 @@
+{
+    "word": "greengrocer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡrēnˌɡrōsər/",
+            "/ˈɡrinˌɡroʊsər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡriːnɡrəʊsə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "người bán rau cải",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người bán rau quả",
+            "type": "noun",
+            "example": {
+                "en": "in supermarkets, greengrocers, bakers, in our homes,",
+                "vi": "trong các siêu thị, những người bán rau quả, bánh mì, và cả ở nhà mình,"
+            }
+        }
+    ]
+}

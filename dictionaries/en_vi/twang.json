@@ -1,0 +1,65 @@
+{
+    "word": "twang",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twaNG/",
+            "/twæŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/twaŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "búng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tưng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bật",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "giọng mũi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gảy đàn",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "nói giọng mũi",
+            "type": "",
+            "example": {
+                "en": "This results in a nasal twang.",
+                "vi": "Do đó một người nói giọng mũi."
+            }
+        },
+        {
+            "content": "sự nói giọng mũi",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đọc giọng mũi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

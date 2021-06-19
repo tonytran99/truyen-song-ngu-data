@@ -1,0 +1,40 @@
+{
+    "word": "weekend",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwēkˌend/",
+            "/ˈwikˌɛnd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːkˈɛnd/",
+            "/ˈwiːkɛnd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cuối tuần",
+            "type": "noun",
+            "example": {
+                "en": "Of all the things Tom did last weekend, he says that windsurfing was the most fun.",
+                "vi": "Trong những thứ Tom đã làm cuối tuần rồi, anh ta nói rằng lướt ván buồm là vui nhất."
+            }
+        },
+        {
+            "content": "ngày cuối tuần",
+            "type": "",
+            "example": {
+                "en": "One weekend I was assigned to preside at a stake conference.",
+                "vi": "Một ngày cuối tuần nọ, tôi được chỉ định chủ tọa một buổi đại hội giáo khu."
+            }
+        }
+    ]
+}

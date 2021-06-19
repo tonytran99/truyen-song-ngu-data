@@ -1,0 +1,37 @@
+{
+    "word": "abc",
+    "type": [
+        "noun",
+        "abbreviation"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌāˌbēˈsē/",
+            "/ˌeɪˌbiˈsi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌeɪbiːˈsiː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bảng chữ cái",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ sở",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "khái niệm cơ sở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

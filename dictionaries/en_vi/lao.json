@@ -1,0 +1,52 @@
+{
+    "word": "lao",
+    "type": [
+        "adjective",
+        "noun",
+        "proper"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/lou/",
+            "/laʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/laʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tiếng Lào",
+            "type": "proper",
+            "example": {
+                "en": "The dynasty prohibited people from wearing style clothes and speaking the Lao and Cambodian languages .",
+                "vi": "Người dân không được mặc trang phục theo kiểu và không được nói tiếng Lào và CamPuChia ."
+            }
+        },
+        {
+            "content": "Lào",
+            "type": "proper",
+            "example": {
+                "en": "Lisa Tabak just hopped a flight to Laos, didn't she?",
+                "vi": "Lisa Tabak mới lên máy bay đi sang Lào, đúng ko?"
+            }
+        },
+        {
+            "content": "người Lào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Tiếng Lào",
+            "type": "",
+            "example": {
+                "en": "The dynasty prohibited people from wearing style clothes and speaking the Lao and Cambodian languages .",
+                "vi": "Người dân không được mặc trang phục theo kiểu và không được nói tiếng Lào và CamPuChia ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "convex",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌkänˈveks/",
+            "/ˌkɑnˈvɛks/",
+            "/ˈkänveks/",
+            "/ˈkɑnvɛks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnvɛks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lồi",
+            "type": "adjective",
+            "example": {
+                "en": "So I learned the lesson of convex lens leadership from that.",
+                "vi": "Thế nên tôi đã học được bài học về sự lãnh đạo thấu kính lồi từ đó."
+            }
+        },
+        {
+            "content": "khum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mặt lồi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

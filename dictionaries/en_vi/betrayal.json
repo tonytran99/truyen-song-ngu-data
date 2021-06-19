@@ -1,0 +1,39 @@
+{
+    "word": "betrayal",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 0,
+        "phoneticSpelling": [
+            "/bəˈtrāəl/",
+            "/bəˈtreɪəl/",
+            "/bēˈtrāəl/",
+            "/biˈtreɪəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bɪˈtreɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự phản bội",
+            "type": "",
+            "example": {
+                "en": "I need to punish you for your betrayal.",
+                "vi": "Tôi cần trừng phạt ông vì sự phản bội đó."
+            }
+        },
+        {
+            "content": "phản bội",
+            "type": "verb",
+            "example": {
+                "en": "I can forgive all kinds of betrayal and dishonesty.",
+                "vi": "Tôi có thể tha thứ cho tất cả các kiểu phản bội và dối trá."
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "capuchin",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkap(y)ə(t)SHən/",
+            "/ˈkæp(j)ə(t)ʃən/",
+            "/kəˈp(y)o͞o(t)SHən/",
+            "/kəˈp(j)u(t)ʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkapʊtʃɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khỉ mũ",
+            "type": "",
+            "example": {
+                "en": "And this, if we believe the capuchin monkey results,",
+                "vi": "Và nếu chúng ta tin vào kết quả từ loại khỉ mũ"
+            }
+        },
+        {
+            "content": "thầy tu dòng Fran-xít",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "áo choàng có mũ",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "convolute",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkänvəˌlo͞ot/",
+            "/ˈkɑnvəˌlut/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɒnvəluːt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quấn",
+            "type": "verb",
+            "example": {
+                "en": "Generates the convolution of one vector with another",
+                "vi": "Tạo ra sự quấn lại của véc-tơ này với véc-tơ khác. Name"
+            }
+        },
+        {
+            "content": "sự quấn lại",
+            "type": "",
+            "example": {
+                "en": "Generates the convolution of one vector with another",
+                "vi": "Tạo ra sự quấn lại của véc-tơ này với véc-tơ khác. Name"
+            }
+        },
+        {
+            "content": "sự xoắn lại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

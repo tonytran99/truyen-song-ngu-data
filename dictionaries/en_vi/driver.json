@@ -1,0 +1,101 @@
+{
+    "word": "driver",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrīvər/",
+            "/ˈdraɪvər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdrʌɪvə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tài xế",
+            "type": "noun",
+            "example": {
+                "en": "Does Mary live next door to the bus driver with whom John worked?",
+                "vi": "Có phải Mary sống cạnh nhà tài xế xe buýt - người đã làm việc với Join không?"
+            }
+        },
+        {
+            "content": "người lái",
+            "type": "noun",
+            "example": {
+                "en": "Abed did not even mention the bus driver.",
+                "vi": "Abed không hề nhắc đến người lái xe buýt."
+            }
+        },
+        {
+            "content": "bánh xe phát động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ kích thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ truyền động",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chương trình điều khiển",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cái bạt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dụng cụ để đóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lái xe",
+            "type": "verb",
+            "example": {
+                "en": "I'm not old enough to get a driver's license.",
+                "vi": "Tớ chưa đủ tuổi lấy bằng lái xe."
+            }
+        },
+        {
+            "content": "máy đóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người lái xe",
+            "type": "noun",
+            "example": {
+                "en": "The better the technology gets, the less reliable the driver is going to get.",
+                "vi": "Công nghệ càng tân tiến, người lái xe càng ít được tin tưởng."
+            }
+        },
+        {
+            "content": "người điều khiển",
+            "type": "",
+            "example": {
+                "en": "Who is the driver of the team of horses?",
+                "vi": "Ai là người điều khiển cặp ngựa?"
+            }
+        },
+        {
+            "content": "khiển trình",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

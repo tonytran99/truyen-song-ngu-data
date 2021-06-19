@@ -1,0 +1,34 @@
+{
+    "word": "blah",
+    "type": [
+        "adjective",
+        "verb",
+        "noun",
+        "interjection"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blä/",
+            "/blɑ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blɑː/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ba hoa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời nói huênh hoang",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "word": "inevitable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈevidəb(ə)l/",
+            "/ɪnˈɛvɪdəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnˈɛvɪtəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không thể tránh khỏi",
+            "type": "",
+            "example": {
+                "en": "There's two great forces that are both volitional but inevitable.",
+                "vi": "Có hai nguồn lực lớn đều tự nguyện nhưng không thể tránh khỏi."
+            }
+        },
+        {
+            "content": "không thể tránh được",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chắc chắn xảy ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tránh được",
+            "type": "noun",
+            "example": {
+                "en": "An increase of natural disasters appears to be inevitable.",
+                "vi": "Càng ngày thiên tai càng gia tăng dường như là điều không tránh được."
+            }
+        },
+        {
+            "content": "quen thuộc",
+            "type": "",
+            "example": {
+                "en": "Why do you always feel so inevitable to me?",
+                "vi": "Tại sao mình luôn cảm thấy quen thuộc đối với em?"
+            }
+        },
+        {
+            "content": "tất yếu",
+            "type": "",
+            "example": {
+                "en": "And the best thing I can do is slow it down, but that will only delay the inevitable.",
+                "vi": "Chẳng ngăn nó lại được. nhưng nó chỉ trì hoãn sự tất yếu thôi."
+            }
+        },
+        {
+            "content": "vẫn thường nghe",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẫn thường thấy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không tránh khỏi",
+            "type": "",
+            "example": {
+                "en": "Despite what the others say, war is inevitable.",
+                "vi": "Dù những người khác nói gì, chiến tranh là không tránh khỏi."
+            }
+        },
+        {
+            "content": "tất nhiên",
+            "type": "adverb",
+            "example": {
+                "en": "Of course, it was inevitable.",
+                "vi": "Tất nhiên, việc đó không tránh được."
+            }
+        }
+    ]
+}

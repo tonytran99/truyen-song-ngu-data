@@ -1,0 +1,109 @@
+{
+    "word": "bluff",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/bləf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/blʌf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "chất phác",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lừa gạt",
+            "type": "",
+            "example": {
+                "en": "You know the key to running a convincing bluff?",
+                "vi": "Cậu biết cách để lừa gạt người khác chứ?"
+            }
+        },
+        {
+            "content": "bịp",
+            "type": "",
+            "example": {
+                "en": "You don't bluff me, I don't bluff you.",
+                "vi": "Cô không bịp tôi, tôi không bịp cô."
+            }
+        },
+        {
+            "content": "loè",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "lòe",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "chân thật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "có dốc đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cục mịch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dốc đứng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời bịp bợm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "lời lừa gạt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lừa phỉnh",
+            "type": "",
+            "example": {
+                "en": "The world's too stupid to realize that Moscow wasn't a bluff.",
+                "vi": "Thế giới quá ngu ngốc để nhận ra Moscow chỉ là lừa phỉnh."
+            }
+        },
+        {
+            "content": "sự tháu cáy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tháu cáy",
+            "type": "",
+            "example": {
+                "en": "How's a body to tell when an Injun's running a bluff or not?",
+                "vi": "Làm sao nhìn mặt một tên da đỏ mà biết được hắn đang tháu cáy?"
+            }
+        },
+        {
+            "content": "lừa bịp",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

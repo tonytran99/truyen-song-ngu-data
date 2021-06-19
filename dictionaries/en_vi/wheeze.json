@@ -1,0 +1,78 @@
+{
+    "word": "wheeze",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/(h)wēz/",
+            "/(h)wiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/wiːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thở khò khè",
+            "type": "",
+            "example": {
+                "en": "Symptoms include wheezing , shortness of breath , coughing and chest tightness .",
+                "vi": "Triệu chứng là thở khò khè , khó thở , ho và tức ngực ."
+            }
+        },
+        {
+            "content": "mưu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kế",
+            "type": "Suffix noun",
+            "example": {}
+        },
+        {
+            "content": "cách riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cò cử",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "khoé riêng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "khò khè",
+            "type": "",
+            "example": {
+                "en": "He's having trouble breathing, and there's a lot of wheezing.",
+                "vi": "Nó bị khó thở, và có nhiều tiếng khò khè."
+            }
+        },
+        {
+            "content": "kêu vo vo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "kêu vu vu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự thở khò khè",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

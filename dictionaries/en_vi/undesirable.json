@@ -1,0 +1,50 @@
+{
+    "word": "undesirable",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndəˈzī(ə)rəb(ə)l/",
+            "/ˌəndəˈzaɪ(ə)rəb(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndɪˈzʌɪərəb(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "không ai thích",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không ai ưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "người không ai ưa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bất hảo",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "không mong muốn",
+            "type": "",
+            "example": {
+                "en": "There's a built-in noise reduction system to eliminate all undesirable sound.",
+                "vi": "Có một hệ thống giảm tiếng ồn để loại bỏ các tiếng động không mong muốn."
+            }
+        }
+    ]
+}

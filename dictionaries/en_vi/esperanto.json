@@ -1,0 +1,43 @@
+{
+    "word": "esperanto",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌespəˈrän(t)ō/",
+            "/ˌɛspəˈrɑn(t)oʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌɛspəˈrantəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quốc tế ngữ",
+            "type": "proper",
+            "example": {
+                "en": "In my city, there is no school for learning Esperanto.",
+                "vi": "Trong thành phố của tôi, chẳng có trường nào dạy Quốc tế ngữ."
+            }
+        },
+        {
+            "content": "tiếng etperantô",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "esperanto",
+            "type": "",
+            "example": {
+                "en": "A text in Esperanto is written phonetically using an alphabet of 28 letters.",
+                "vi": "Esperanto được viết theo âm bằng bảng 27 chữ cái."
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "goalkeeper",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡōlˌkēpər/",
+            "/ˈɡoʊlˌkipər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡəʊlkiːpə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thủ môn",
+            "type": "noun",
+            "example": {
+                "en": "The ball went one way and the goalkeeper went the other.",
+                "vi": "Bóng đi một đường và thủ môn đi một nẻo."
+            }
+        },
+        {
+            "content": "thủ thành",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "Thủ môn",
+            "type": "",
+            "example": {
+                "en": "The ball went one way and the goalkeeper went the other.",
+                "vi": "Bóng đi một đường và thủ môn đi một nẻo."
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "flooding",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflədiNG/",
+            "/ˈflədɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈflʌdɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lũ lụt",
+            "type": "",
+            "example": {
+                "en": "A forest that may be able to laminate the water and prevent the flooding?",
+                "vi": "Một khu rừng có thể dát mỏng dòng nước và ngăn chặn lũ lụt?"
+            }
+        },
+        {
+            "content": "ngập lụt",
+            "type": "",
+            "example": {
+                "en": "But this is called the flooded forest for a reason.",
+                "vi": "Nhưng đây được gọi là rừng ngập lụt vì một lý do."
+            }
+        },
+        {
+            "content": "lũ",
+            "type": "",
+            "example": {
+                "en": "It was gone in the flood, leaving nothing to clean up.",
+                "vi": "Nó đã bị lũ cuốn trôi, không hề còn lại gì để phải dọn cả."
+            }
+        }
+    ]
+}

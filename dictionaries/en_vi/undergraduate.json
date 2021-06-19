@@ -1,0 +1,30 @@
+{
+    "word": "undergraduate",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəndərˈɡrajo͞oət/",
+            "/ˌəndərˈɡrædʒuət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ʌndəˈɡradjʊət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sinh viên",
+            "type": "noun",
+            "example": {
+                "en": "So let's put a point on the graph. There's an undergraduate.",
+                "vi": "Ta sẽ biểu diễn nó bằng đồ thị. Đây là một sinh viên đại học."
+            }
+        }
+    ]
+}

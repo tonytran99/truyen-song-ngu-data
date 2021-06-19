@@ -1,0 +1,67 @@
+{
+    "word": "chorus",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkôrəs/",
+            "/ˈkɔrəs/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈkɔːrəs/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "hợp xướng",
+            "type": "",
+            "example": {
+                "en": "Soon, a sweet and overwhelming chorus of voices filled the chapel.",
+                "vi": "Chẳng bao lâu, một ban hợp xướng tuyệt vời và xuất sắc tràn ngập giáo đường."
+            }
+        },
+        {
+            "content": "cùng nói",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đồng ca",
+            "type": "",
+            "example": {
+                "en": "Millerettes sounds like a man named Miller has a chorus line.",
+                "vi": "Millerettes nghe như dàn đồng ca của một người tên Miller."
+            }
+        },
+        {
+            "content": "đoạn điệp khúc",
+            "type": "noun",
+            "example": {
+                "en": "How many times does the chorus repeat in your favorite song?",
+                "vi": "Bạn có để ý số lần lặp lại của đoạn điệp khúc trong bài hát bạn yêu thích?"
+            }
+        },
+        {
+            "content": "điệp khúc",
+            "type": "",
+            "example": {
+                "en": "How many times does the chorus repeat in your favorite song?",
+                "vi": "Bạn có để ý số lần lặp lại của đoạn điệp khúc trong bài hát bạn yêu thích?"
+            }
+        },
+        {
+            "content": "đoạn điệp",
+            "type": "",
+            "example": {
+                "en": "Until recently, I understood that chorus to be divine direction to parents.",
+                "vi": "Mãi cho đến gần đây, tôi mới hiểu rằng đoạn điệp khúc đó là sự hướng dẫn thiêng liêng dành cho cha mẹ."
+            }
+        }
+    ]
+}

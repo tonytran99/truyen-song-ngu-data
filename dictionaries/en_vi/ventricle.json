@@ -1,0 +1,37 @@
+{
+    "word": "ventricle",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈventrək(ə)l/",
+            "/ˈvɛntrək(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɛntrɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tâm thất",
+            "type": "noun",
+            "example": {
+                "en": "The mitral valve is between the heart 's left atrium and left ventricle .",
+                "vi": "Van hai lá nằm giữa tâm nhĩ trái và tâm thất trái của tim ."
+            }
+        },
+        {
+            "content": "thất",
+            "type": "",
+            "example": {
+                "en": "We need to take a better look at his fourth ventricle.",
+                "vi": "Chúng ta cần phải nhìn kỹ hơn vách não thất của thằng nhóc."
+            }
+        }
+    ]
+}

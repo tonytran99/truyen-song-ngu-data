@@ -1,0 +1,40 @@
+{
+    "word": "declared",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈklerd/",
+            "/dəˈklɛrd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈklɛːd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "công khai",
+            "type": "",
+            "example": {
+                "en": "If that ship crosses the line, they will have declared war against the United States.",
+                "vi": "Nếu con tàu đó vượt qua ranh giới có nghĩa là công khai tuyên chiến với nước Mỹ."
+            }
+        },
+        {
+            "content": "công nhiên",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "không úp mở",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

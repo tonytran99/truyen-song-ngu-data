@@ -1,0 +1,40 @@
+{
+    "word": "inorganic",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌinôrˈɡanik/",
+            "/ˌɪnɔrˈɡænɪk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪnɔːˈɡanɪk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "vô cơ",
+            "type": "adjective",
+            "example": {
+                "en": "We have to take out any inorganic parts and destroy them.",
+                "vi": "Chúng tôi phải gỡ hết những phần vô cơ ra và hủy chúng đi."
+            }
+        },
+        {
+            "content": "không cơ bản",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "ngoại lai",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "geld",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡeld/",
+            "/ɡɛld/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɡɛld/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thiến",
+            "type": "",
+            "example": {
+                "en": "Where is the man who owns the bay gelding outside?",
+                "vi": "Người đàn ông có con ngựa thiến bên ngoài đâu rồi?"
+            }
+        },
+        {
+            "content": "hoạn",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "compassion",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpaSHən/",
+            "/kəmˈpæʃən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəmˈpaʃ(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "lòng thương",
+            "type": "noun",
+            "example": {
+                "en": "And there are some charity workers who call this compassion fatigue.",
+                "vi": "Và có những người làm từ thiện gọi việc này là sự mệt mỏi của lòng thương xót."
+            }
+        },
+        {
+            "content": "lòng trắc ẩn",
+            "type": "noun",
+            "example": {
+                "en": "You also can show compassion, hard work, and optimism.",
+                "vi": "Các em cũng có thể bày tỏ lòng trắc ẩn, sự chăm chỉ, và tính lạc quan."
+            }
+        },
+        {
+            "content": "trắc ẩn",
+            "type": "",
+            "example": {
+                "en": "You also can show compassion, hard work, and optimism.",
+                "vi": "Các em cũng có thể bày tỏ lòng trắc ẩn, sự chăm chỉ, và tính lạc quan."
+            }
+        },
+        {
+            "content": "từ bi",
+            "type": "",
+            "example": {
+                "en": "Shaolin temple preaches compassion, I wouldn't do that to you.",
+                "vi": "Thiếu Lâm tự từ bi, ta sẽ không làm vậy đâu"
+            }
+        }
+    ]
+}

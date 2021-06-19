@@ -1,0 +1,52 @@
+{
+    "word": "flog",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fläɡ/",
+            "/flɑɡ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/flɒɡ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bán",
+            "type": "verb Prefix",
+            "example": {
+                "en": "There must be a moisturiser or an eye shadow somewhere that needs your vapid mush to flog it.",
+                "vi": "Chắc phải có loại kem dưỡng ẩm hay kẻ mắt gì đó... cần đến vẻ lãng mạn nhạt nhẽo của em để bán được hàng."
+            }
+        },
+        {
+            "content": "quăng đi quăng lại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "quần quật",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đánh bằng roi",
+            "type": "",
+            "example": {
+                "en": "Then they were flogged.",
+                "vi": "Rồi họ bị đánh bằng roi."
+            }
+        },
+        {
+            "content": "đánh thắng",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

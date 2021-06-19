@@ -1,0 +1,68 @@
+{
+    "word": "foal",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fōl/",
+            "/foʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fəʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ngựa con",
+            "type": "",
+            "example": {
+                "en": "will neglect the foal, refusing to nurse,",
+                "vi": "sẽ lờ ngựa con, từ chối chăm sóc nó"
+            }
+        },
+        {
+            "content": "lừa con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "câu",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sinh",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "đẻ lừa con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ ngựa con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ ra",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ngựa non",
+            "type": "noun",
+            "example": {
+                "en": "on the part of the mare, in her foal.",
+                "vi": "đối với con ngựa cái, đối với ngựa non."
+            }
+        }
+    ]
+}

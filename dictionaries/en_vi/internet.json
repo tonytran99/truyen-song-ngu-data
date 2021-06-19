@@ -1,0 +1,46 @@
+{
+    "word": "internet",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)ərˌnet/",
+            "/ˈɪn(t)ərˌnɛt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪntənɛt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Internet",
+            "type": "",
+            "example": {
+                "en": "I use the internet in the bathroom.",
+                "vi": "Tôi dùng internet trong phòng tắm."
+            }
+        },
+        {
+            "content": "internet",
+            "type": "",
+            "example": {
+                "en": "I use the internet in the bathroom.",
+                "vi": "Tôi dùng internet trong phòng tắm."
+            }
+        },
+        {
+            "content": "mạng internet",
+            "type": "noun",
+            "example": {
+                "en": "It's the world's most popular internet search engine, processing an average of 94% of all internet search requests.",
+                "vi": "Đó là bộ máy tìm kiếm trên mạng thông dụng nhất thế giới, xử lý trung bình khoảng 94% các tìm kiếm trên mạng internet."
+            }
+        }
+    ]
+}

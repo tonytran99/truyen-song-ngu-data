@@ -1,0 +1,65 @@
+{
+    "word": "winnow",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwinō/",
+            "/ˈwɪnoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwɪnəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "quạt",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đập",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vỗ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chọn lựa",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phân biệt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sàng lọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sàng",
+            "type": "",
+            "example": {
+                "en": "Boaz oversaw the winnowing of his grain, which grew into a great heap.",
+                "vi": "Bô-ô giám sát công việc sàng lúa, và lúa được chất thành một đống to."
+            }
+        }
+    ]
+}

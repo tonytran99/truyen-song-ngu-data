@@ -1,0 +1,47 @@
+{
+    "word": "homework",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhōmˌwərk/",
+            "/ˈhoʊmˌwərk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəʊmwəːk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bài làm",
+            "type": "noun",
+            "example": {
+                "en": "Look over homework assignments, notes, and test results.",
+                "vi": "Hãy xem qua bài làm ở nhà, vở ghi chú và kết quả bài thi của con."
+            }
+        },
+        {
+            "content": "bài làm ở nhà",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bài tập về nhà",
+            "type": "noun",
+            "example": {
+                "en": "It is very nice of you to help me with my homework.",
+                "vi": "Bạn thật tốt khi giúp tôi làm bài tập về nhà."
+            }
+        },
+        {
+            "content": "công việc làm ở nhà",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

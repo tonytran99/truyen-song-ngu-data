@@ -1,0 +1,59 @@
+{
+    "word": "cheque",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/CHek/",
+            "/tʃɛk/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/tʃɛk/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "séc",
+            "type": "noun",
+            "example": {
+                "en": "For starters they've got reams of cheques he wrote for false expenses.",
+                "vi": "Ví dụ như, họ có hàng chồng séc anh ta kê khai là chi tiêu phụ phí."
+            }
+        },
+        {
+            "content": "chi phiếu",
+            "type": "noun",
+            "example": {
+                "en": "He sends cheques, but do cheques replace a father?",
+                "vi": "Ông chỉ gởi chi phiếu thôi, nhưng làm sao chi phiếu có thể thay thế một người cha?"
+            }
+        },
+        {
+            "content": "支票",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "kiểm tra",
+            "type": "verb noun",
+            "example": {
+                "en": "The envelopes were destroyed after the cheques were deposited and processed.",
+                "vi": "Phong bì bị hủy sau khi kiểm tra được gửi đi và xử lý."
+            }
+        },
+        {
+            "content": "Séc",
+            "type": "adjective proper",
+            "example": {
+                "en": "For starters they've got reams of cheques he wrote for false expenses.",
+                "vi": "Ví dụ như, họ có hàng chồng séc anh ta kê khai là chi tiêu phụ phí."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "word": "conch",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/käNGk/",
+            "/kɑŋk/",
+            "/känCH/",
+            "/kɑntʃ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kɒŋk/",
+            "/kɒn(t)ʃ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "concha",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vòm trần",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vỏ ốc",
+            "type": "",
+            "example": {
+                "en": "The impossible challenge involved stringing a thread through a conch shell.",
+                "vi": "Một việc không thể làm nổi bao gồm xỏ một sợi dây xuyên qua vỏ ốc xà cừ."
+            }
+        },
+        {
+            "content": "ốc xà cừ",
+            "type": "",
+            "example": {
+                "en": "The impossible challenge involved stringing a thread through a conch shell.",
+                "vi": "Một việc không thể làm nổi bao gồm xỏ một sợi dây xuyên qua vỏ ốc xà cừ."
+            }
+        }
+    ]
+}

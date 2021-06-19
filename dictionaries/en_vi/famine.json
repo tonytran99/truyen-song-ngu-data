@@ -1,0 +1,60 @@
+{
+    "word": "famine",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfamən/",
+            "/ˈfæmən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfamɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nạn đói",
+            "type": "noun",
+            "example": {
+                "en": "And this was yet another famine in Ethiopia.",
+                "vi": "Đó là một nạn đói ở Ethiopia mà chúng ta đã biết."
+            }
+        },
+        {
+            "content": "nạn đói kém",
+            "type": "",
+            "example": {
+                "en": "Now they hear about famine, crime, drug abuse, poverty.",
+                "vi": "Rồi họ nghe nói về nạn đói kém, sự bạo động, lạm dụng ma túy, sự nghèo khó."
+            }
+        },
+        {
+            "content": "nạn đói kém sự khan hiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự khan hiếm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cơ",
+            "type": "noun adjective Suffix",
+            "example": {}
+        },
+        {
+            "content": "Nạn đói",
+            "type": "",
+            "example": {
+                "en": "It is “like a dam protecting mankind from famine.”",
+                "vi": "Cỏ “giống như một cái đập nước che chở nhân loại khỏi nạn đói”."
+            }
+        }
+    ]
+}

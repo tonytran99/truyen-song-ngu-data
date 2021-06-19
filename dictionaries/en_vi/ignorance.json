@@ -1,0 +1,63 @@
+{
+    "word": "ignorance",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈiɡnərəns/",
+            "/ˈɪɡnərəns/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪɡn(ə)r(ə)ns/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự thiếu hiểu biết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự dốt nát",
+            "type": "",
+            "example": {
+                "en": "It's a pity, arguing from ignorance.",
+                "vi": "Thật là đáng thương, chứng tỏ một sự dốt nát."
+            }
+        },
+        {
+            "content": "sự không biết",
+            "type": "",
+            "example": {
+                "en": "You cannot use ignorance as an excuse for unacceptable behavior.",
+                "vi": "Các em không thể dùng sự không biết làm sự bào chữa cho hành vi không thể chấp nhận được."
+            }
+        },
+        {
+            "content": "sự ngu dốt",
+            "type": "",
+            "example": {
+                "en": "Yes, well, I've always found your ignorance quite amusing.",
+                "vi": "Tôi thì luôn tìm thấy niềm vui từ sự ngu dốt của kẻ khác."
+            }
+        },
+        {
+            "content": "ngu dốt",
+            "type": "noun",
+            "example": {
+                "en": "They don't even know you because they're too ignorant to try.",
+                "vi": "Chúng còn không hiểu con vì chúng quá ngu dốt để thử làm việc đó."
+            }
+        },
+        {
+            "content": "sự không hiểu",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

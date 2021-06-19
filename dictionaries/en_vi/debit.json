@@ -1,0 +1,51 @@
+{
+    "word": "debit",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdebit/",
+            "/ˈdɛbɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈdɛbɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bên nợ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "sự ghi nợ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "lưu lượng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "món nợ khoản nợ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ghi nợ",
+            "type": "",
+            "example": {
+                "en": "Donations via electronic bank transfer, debit card, or credit card.",
+                "vi": "Chuyển tiền qua tài khoản, thẻ tín dụng hoặc thẻ ghi nợ."
+            }
+        }
+    ]
+}

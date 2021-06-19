@@ -1,0 +1,66 @@
+{
+    "word": "conjecture",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈjekCHər/",
+            "/kənˈdʒɛktʃər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kənˈdʒɛktʃə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phỏng đoán",
+            "type": "verb",
+            "example": {
+                "en": "There's way too much conjecture for my liking.",
+                "vi": "Có quá nhiều phỏng đoán nên tôi không thích."
+            }
+        },
+        {
+            "content": "đoán",
+            "type": "verb",
+            "example": {
+                "en": "This is a conjecture of mine, I need you to confirm it.",
+                "vi": "Nhưng đây chỉ là suy đoán của tôi. Tôi cần cậu đi xác nhận điều đó."
+            }
+        },
+        {
+            "content": "sự phỏng đoán",
+            "type": "noun",
+            "example": {
+                "en": "But it was always a conjecture.",
+                "vi": "Nhưng nó vẫn luôn là một sự phỏng đoán."
+            }
+        },
+        {
+            "content": "cách lần đọc",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự giả định",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "sự ước đoán",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "ước đoán",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

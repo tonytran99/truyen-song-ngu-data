@@ -1,0 +1,79 @@
+{
+    "word": "define",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dəˈfīn/",
+            "/dəˈfaɪn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dɪˈfʌɪn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "định nghĩa",
+            "type": "verb",
+            "example": {
+                "en": "Science is not defined by the method section of a paper.",
+                "vi": "Khoa học không phải là được định nghĩa bởi phần phương pháp trên lý thuyết."
+            }
+        },
+        {
+            "content": "xác định",
+            "type": "verb",
+            "example": {
+                "en": "So in other words, I define what I wanted.",
+                "vi": "Nói cách khác, tôi xác định thứ tôi muốn."
+            }
+        },
+        {
+            "content": "chỉ rõ tính chất",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hoạch định",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "miêu tả",
+            "type": "verb",
+            "example": {
+                "en": "There are many ways to define our fragile existence.",
+                "vi": "Có rất nhiều cách để miêu tả sự tồn tại mong manh của chúng ta."
+            }
+        },
+        {
+            "content": "vạch rõ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "xác định đặc điểm",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "định rõ",
+            "type": "",
+            "example": {
+                "en": "So let the next choice be the one that defines you.",
+                "vi": "Nên hãy để lựa chọn tiếp theo là cái định rõ con."
+            }
+        },
+        {
+            "content": "ấn định",
+            "type": "verb",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "espresso",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/eˈspresˌō/",
+            "/ɛˈsprɛsˌoʊ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɛˈsprɛsəʊ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "espresso",
+            "type": "",
+            "example": {
+                "en": "A brewed coffee with an extra shot of espresso to keep you running all day.",
+                "vi": "Cà phê xoay nhuyễn được cho thêm espresso để khiến cậu chạy cả ngày."
+            }
+        },
+        {
+            "content": "cà phê espresso",
+            "type": "",
+            "example": {
+                "en": "Would you like to master the challenging art of brewing espresso?",
+                "vi": "Bạn có muốn trở thành người lão luyện pha cà phê espresso không?"
+            }
+        },
+        {
+            "content": "tiệm cà phê hơi",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

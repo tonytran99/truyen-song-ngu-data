@@ -1,0 +1,45 @@
+{
+    "word": "gymnasium",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jimˈnāzēəm/",
+            "/dʒɪmˈneɪziəm/",
+            "/ɡimˈnäzēˌo͝om/",
+            "/ɡɪmˈnɑziˌʊm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒɪmˈneɪzɪəm/",
+            "/ɡɪmˈnɑːzɪəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thể dục",
+            "type": "noun",
+            "example": {
+                "en": "I picked up the little present you left in the gymnasium.",
+                "vi": "Tôi đã lấy món quà nhỏ mà cậu đặt trong phòng thể dục."
+            }
+        },
+        {
+            "content": "phòng tập thể dục",
+            "type": "noun",
+            "example": {
+                "en": "It was late summer, and the gymnasium became stiflingly hot.",
+                "vi": "Đó là cuối mùa hè, phòng tập thể dục trở nên oi bức ngột ngạt."
+            }
+        },
+        {
+            "content": "trường trung học",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

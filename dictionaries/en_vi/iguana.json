@@ -1,0 +1,50 @@
+{
+    "word": "iguana",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˈɡwänə/",
+            "/əˈɡwɑnə/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈɡwɑːnə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cự đà",
+            "type": "noun",
+            "example": {
+                "en": "My screeching iguana clock does tend to startle some people.",
+                "vi": "Cái đồng hồ cự đà của tôi khi rít lên thì thường làm cho mọi người giật mình."
+            }
+        },
+        {
+            "content": "kỳ nhông",
+            "type": "noun",
+            "example": {
+                "en": "Three o'clock sharp, the bag of cats and iguanas go over the fence.",
+                "vi": "Đúng 3 giờ là vất mèo và kỳ nhông qua hàng rào."
+            }
+        },
+        {
+            "content": "con cự đà",
+            "type": "noun",
+            "example": {
+                "en": "But then, so, of course, does the screeching iguana.",
+                "vi": "Nhưng thôi, tất nhiên rồi, con cự đà rít lên."
+            }
+        },
+        {
+            "content": "con giông mào",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

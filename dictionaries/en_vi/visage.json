@@ -1,0 +1,47 @@
+{
+    "word": "visage",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvizij/",
+            "/ˈvɪzɪdʒ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈvɪzɪdʒ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "mặt",
+            "type": "noun",
+            "example": {
+                "en": "She merely wanted to borrow the visage of Diana.",
+                "vi": "Cô ta đơn thuần chỉ muốn mượn mặt nạ của Diana ( nữ thần săn bắn )."
+            }
+        },
+        {
+            "content": "nét mặt",
+            "type": "",
+            "example": {
+                "en": "He is upset by your visage.",
+                "vi": "Nó bị xáo lộn vì nét mặt mày."
+            }
+        },
+        {
+            "content": "sắc mặt",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "vẻ mặt",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "word": "cleanse",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klenz/",
+            "/klɛnz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/klɛnz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tẩy",
+            "type": "",
+            "example": {
+                "en": "The fire cleansed them of the sins of the world.",
+                "vi": "Ngọn lửa đã thanh tẩy toàn bộ tội lỗi của họ trên thế giới."
+            }
+        },
+        {
+            "content": "rửa",
+            "type": "verb",
+            "example": {
+                "en": "Only if you cleanse yourself of all the impurities.",
+                "vi": "Chỉ khi con chịu gột rửa những tạp chất khỏi cơ thể."
+            }
+        },
+        {
+            "content": "lọc",
+            "type": "verb",
+            "example": {
+                "en": "Sadder still, these reports are often eclipsed by accounts of ethnic cleansing, genocide, and terrorism.",
+                "vi": "Đáng buồn hơn, chúng không đáng kể so với những tin về nạn thanh lọc chủng tộc, diệt chủng và khủng bố."
+            }
+        },
+        {
+            "content": "nạo",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "vét",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "làm cho sạch sẽ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm cho tinh khiết",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "làm sạch",
+            "type": "",
+            "example": {
+                "en": "I think at least a week before the winds cleanse the air.",
+                "vi": "Tôi nghĩ ít nhất là một tuần trước khi gió đã làm sạch không khí."
+            }
+        },
+        {
+            "content": "sạch",
+            "type": "adjective",
+            "example": {
+                "en": "High Command has ordered us to cleanse the combat zone.",
+                "vi": "Bộ chỉ huy tối cao ban hành lệnh thanh trừng và làm trong sạch lãnh thổ tác chiến."
+            }
+        }
+    ]
+}

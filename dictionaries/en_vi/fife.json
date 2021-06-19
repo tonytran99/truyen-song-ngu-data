@@ -1,0 +1,71 @@
+{
+    "word": "fife",
+    "type": [
+        "verb",
+        "noun",
+        "numeral"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fīf/",
+            "/faɪf/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/fʌɪf/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "fifer",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi sáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thổi địch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống sáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống tiêu",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "ống địch",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiêu",
+            "type": "noun",
+            "example": {
+                "en": "A fife and drum began to play",
+                "vi": "♪ Tiếng trống và tiếng tiêu bắt đầu chơi"
+            }
+        },
+        {
+            "content": "sáo",
+            "type": "noun",
+            "example": {}
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "buddhist",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbo͝odəst/",
+            "/ˈbʊdəst/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbʊdɪst/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "Người Phật giáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "phật tử",
+            "type": "",
+            "example": {
+                "en": "By their efforts, Buddhists hope to gain enlightenment.",
+                "vi": "Các Phật tử tin rằng qua những cố gắng riêng, họ hy vọng được giác ngộ."
+            }
+        },
+        {
+            "content": "tín đồ đạo Phật",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

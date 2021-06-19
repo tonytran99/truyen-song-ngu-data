@@ -1,0 +1,60 @@
+{
+    "word": "university",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌyo͞onəˈvərsədē/",
+            "/ˌjunəˈvərsədi/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/juːnɪˈvəːsɪti/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "trường đại học",
+            "type": "noun",
+            "example": {
+                "en": "How far is it to this university?",
+                "vi": "Đến trường đại học này bao xa?"
+            }
+        },
+        {
+            "content": "đại học",
+            "type": "noun",
+            "example": {
+                "en": "They study in order that they may enter the university.",
+                "vi": "Chúng học với mục đích vào đại học."
+            }
+        },
+        {
+            "content": "大學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "đội đại học",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "trường đại học tổng hợp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "viện đại học",
+            "type": "",
+            "example": {
+                "en": "Edward was a psychiatrist at the university teaching hospital.",
+                "vi": "Edward là một bác sĩ tâm thần ở bệnh viện đại học."
+            }
+        }
+    ]
+}

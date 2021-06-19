@@ -1,0 +1,45 @@
+{
+    "word": "earring",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈirˌ(r)iNG/",
+            "/ˈɪrˌ(r)ɪŋ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪərɪŋ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khuyên tai",
+            "type": "",
+            "example": {
+                "en": "I gotta take this thing off my ear.",
+                "vi": "Tớ phải cởi đôi khuyên tai này ra."
+            }
+        },
+        {
+            "content": "bông tai",
+            "type": "noun",
+            "example": {
+                "en": "How could he get video of me buying those earrings?",
+                "vi": "Sao hắn lại có đoạn phim anh mua đôi bông tai?"
+            }
+        },
+        {
+            "content": "hoa tai",
+            "type": "noun",
+            "example": {
+                "en": "Now, if she's a servant, there is no way she could afford a pair of pearl earrings.",
+                "vi": "Nếu là một người hầu, cô ta không thể mua nổi một đôi hoa tai ngọc trai được."
+            }
+        }
+    ]
+}

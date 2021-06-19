@@ -1,0 +1,63 @@
+{
+    "word": "cub",
+    "type": [
+        "verb",
+        "noun",
+        "Acronym"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kəb/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/kʌb/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "con thú con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đứa trẻ mất dạy",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "sói con",
+            "type": "",
+            "example": {
+                "en": "The cubs are growing fast and are always hungry.",
+                "vi": "Lũ sói con sẽ lớn nhanh và luôn luôn đói."
+            }
+        },
+        {
+            "content": "săn cáo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "đẻ con",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thú con",
+            "type": "",
+            "example": {
+                "en": "Yeah, because a cub is a baby bear.",
+                "vi": "Phải bởi vì thú con chính là gấu nhỏ."
+            }
+        }
+    ]
+}

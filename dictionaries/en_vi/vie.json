@@ -1,0 +1,50 @@
+{
+    "word": "vie",
+    "type": [
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vī/",
+            "/vaɪ/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/vʌɪ/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "ganh đua",
+            "type": "verb",
+            "example": {
+                "en": "Has the king really brought all these wealthy women here to vie to purchase his son?",
+                "vi": "Đức Vua thật sự đem tất cả những người phụ nữ ở đây để ganh đua giành con trai ổng sao?"
+            }
+        },
+        {
+            "content": "đua",
+            "type": "verb",
+            "example": {
+                "en": "Street vendors vie for the attention of passing tourists.",
+                "vi": "Những người bán hàng rong đua nhau mời mọc du khách qua lại."
+            }
+        },
+        {
+            "content": "ganh",
+            "type": "",
+            "example": {
+                "en": "Has the king really brought all these wealthy women here to vie to purchase his son?",
+                "vi": "Đức Vua thật sự đem tất cả những người phụ nữ ở đây để ganh đua giành con trai ổng sao?"
+            }
+        },
+        {
+            "content": "thi đua",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

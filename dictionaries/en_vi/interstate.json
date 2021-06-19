@@ -1,0 +1,40 @@
+{
+    "word": "interstate",
+    "type": [
+        "adjective",
+        "noun",
+        "adverb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈin(t)ərˌstāt/",
+            "/ˈɪn(t)ərˌsteɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntəˈsteɪt/",
+            "/ˈɪntəsteɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "giữa các nước",
+            "type": "",
+            "example": {
+                "en": "Yeah, right off the Interstate.",
+                "vi": "Vâng, ngay giữa các nước."
+            }
+        },
+        {
+            "content": "xuyên bang",
+            "type": "noun",
+            "example": {
+                "en": "But with the rise of interstate trucking, it was used less and less.",
+                "vi": "Nhưng với sự phát triển của xe tải chạy xuyên bang, đường ray này được sử dụng ngày càng ít đi."
+            }
+        }
+    ]
+}

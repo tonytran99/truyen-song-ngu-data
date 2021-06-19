@@ -1,0 +1,55 @@
+{
+    "word": "freezer",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfrēzər/",
+            "/ˈfrizər/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfriːzə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "máy làm kem",
+            "type": "",
+            "example": {
+                "en": "They locked us in the freezer.",
+                "vi": "Bọn họ đã nhốt chúng tôi trong máy làm kem."
+            }
+        },
+        {
+            "content": "máy ướp lạnh",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tủ lạnh",
+            "type": "noun",
+            "example": {
+                "en": "He showed me these chunks of meat in his freezer.",
+                "vi": "Hắn đã chỉ cho tôi hai khoanh thịt trong tủ lạnh."
+            }
+        },
+        {
+            "content": "phòng lạnh",
+            "type": "",
+            "example": {
+                "en": "And we now have many bacterial strains in our freezer",
+                "vi": "Và hiện nay chúng tôi đã có rất nhiều chủng vi khuẩn trong phòng lạnh"
+            }
+        },
+        {
+            "content": "hộc nước đá trong tủ lạnh",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

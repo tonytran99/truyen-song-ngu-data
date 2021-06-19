@@ -1,0 +1,45 @@
+{
+    "word": "yowl",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/youl/",
+            "/jaʊl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jaʊl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "tru",
+            "type": "noun verb",
+            "example": {
+                "en": "Sergeant, tell them Indians to stop that yowling.",
+                "vi": "Trung sĩ, kếu mấy người da đỏ đó thôi tru tréo đi."
+            }
+        },
+        {
+            "content": "ngao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng ngao",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tiếng tru",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

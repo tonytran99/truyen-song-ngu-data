@@ -1,0 +1,50 @@
+{
+    "word": "burial",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈberēəl/",
+            "/ˈbɛriəl/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈbɛrɪəl/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "việc chôn cất",
+            "type": "noun",
+            "example": {
+                "en": "In the future, options like these may replace burial completely.",
+                "vi": "Trong tương lai, các hình thức này có thể sẽ thay thế hoàn toàn việc chôn cất."
+            }
+        },
+        {
+            "content": "an táng",
+            "type": "",
+            "example": {
+                "en": "When she put this perfumed oil on my body, she did it to prepare me for burial.",
+                "vi": "Chị ấy đổ dầu thơm trên mình tôi để chuẩn bị an táng tôi."
+            }
+        },
+        {
+            "content": "sự mai táng",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "việc mai táng",
+            "type": "noun",
+            "example": {
+                "en": "I hope his burial provided you with a modicum of closure.",
+                "vi": "Tôi hi vọng việc mai táng của anh ấy không ầm ĩ."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "wrinkly",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈriNGk(ə)lē/",
+            "/ˈrɪŋk(ə)li/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈrɪŋkli/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhàu",
+            "type": "adjective noun",
+            "example": {}
+        },
+        {
+            "content": "gấp nếp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "gợn sóng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nhăn nheo",
+            "type": "",
+            "example": {
+                "en": "Wrinkly old bunion looked like my grandma.",
+                "vi": "Nốt chai già nua nhăn nheo như bà tôi ấy."
+            }
+        }
+    ]
+}

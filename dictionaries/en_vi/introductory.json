@@ -1,0 +1,47 @@
+{
+    "word": "introductory",
+    "type": [
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌintrəˈdəkt(ə)rē/",
+            "/ˌɪntrəˈdəkt(ə)ri/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪntrəˈdʌkt(ə)ri/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "khơi mào",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mở đầu",
+            "type": "",
+            "example": {
+                "en": "In this promise, that introductory phrase, “come unto me,” is crucial.",
+                "vi": "Trong lời hứa này, câu mở đầu đó, “hãy đến cùng ta” là cốt yếu."
+            }
+        },
+        {
+            "content": "đề dẫn",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "để giới thiệu",
+            "type": "noun",
+            "example": {
+                "en": "Limit introductory comments to less than a minute, and follow with a question-and-answer discussion.",
+                "vi": "Dùng dưới một phút để giới thiệu bài, rồi thảo luận theo lối vấn đáp."
+            }
+        }
+    ]
+}

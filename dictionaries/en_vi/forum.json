@@ -1,0 +1,70 @@
+{
+    "word": "forum",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfôrəm/",
+            "/ˈfɔrəm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈfɔːrəm/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "diễn đàn",
+            "type": "noun",
+            "example": {
+                "en": "Mr. Jane, this is not a forum for you to chat with the jurors.",
+                "vi": "Anh Jane, đây không phải diễn đàn cho anh lên tán gẫu với ban hội thẩm."
+            }
+        },
+        {
+            "content": "chợ",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "4rum",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hội thảo",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "chỗ hội họp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "nơi công cộng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "toà án",
+            "type": "noun",
+            "example": {
+                "en": "And Fourth Amendment issues will always weigh more heavily in an appellate forum.",
+                "vi": "Sửa Đổi Thứ 4 ban hành luôn có sức nặng hơn toà án phúc thẩm."
+            }
+        },
+        {
+            "content": "forum",
+            "type": "",
+            "example": {
+                "en": "And I'm following instructions on a hacker forum.",
+                "vi": "Và em đang xem hướng dẫn trên forum hacker."
+            }
+        }
+    ]
+}

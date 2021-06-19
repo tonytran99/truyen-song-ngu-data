@@ -1,0 +1,45 @@
+{
+    "word": "given",
+    "type": [
+        "adjective",
+        "noun",
+        "verb",
+        "adposition"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡivən/",
+            "/ˈɡɪvən/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɡɪv(ə)n/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "cho",
+            "type": "verb adposition",
+            "example": {
+                "en": "I've given you more time than this nonsense deserves.",
+                "vi": "Tôi đã phí thời gian cho những chuyện nhảm nhí này rồi."
+            }
+        },
+        {
+            "content": "xác định",
+            "type": "adjective verb",
+            "example": {}
+        },
+        {
+            "content": "đã cho",
+            "type": "",
+            "example": {
+                "en": "You've given me more than I've ever given you.",
+                "vi": "Em đã cho anh nhiều hơn những gì anh từng cho em."
+            }
+        }
+    ]
+}

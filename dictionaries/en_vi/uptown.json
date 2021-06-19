@@ -1,0 +1,42 @@
+{
+    "word": "uptown",
+    "type": [
+        "noun",
+        "adverb",
+        "adjective"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˌəpˈtoun/",
+            "/ˌəpˈtaʊn/",
+            "/ˈəptoun/",
+            "/ˈəptaʊn/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈʌptaʊn/",
+            "/ʌpˈtaʊn/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "phố trên",
+            "type": "",
+            "example": {
+                "en": "But that's way uptown.",
+                "vi": "Nhưng nó lại ở khu phố trên."
+            }
+        },
+        {
+            "content": "ở phố trên",
+            "type": "",
+            "example": {
+                "en": "The Natural History Museum is just uptown.",
+                "vi": "Bảo Tàng Tự Nhiên Quốc Gia ở phố trên đi thôi"
+            }
+        }
+    ]
+}

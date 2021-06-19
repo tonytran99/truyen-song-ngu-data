@@ -1,0 +1,52 @@
+{
+    "word": "laminate",
+    "type": [
+        "adjective",
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlaməˌnāt/",
+            "/ˈlæməˌneɪt/",
+            "/ˈlamənət/",
+            "/ˈlæmənət/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlamɪneɪt/",
+            "/ˈlamɪnət/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dát",
+            "type": "verb",
+            "example": {
+                "en": "What it is, it's a lamination of two different metals together.",
+                "vi": "Nó là gì, nó là sự dát mỏng cùng nhau của hai kim loạt khác nhau."
+            }
+        },
+        {
+            "content": "cán",
+            "type": "verb",
+            "example": {}
+        },
+        {
+            "content": "cán mỏng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "dát mỏng",
+            "type": "",
+            "example": {
+                "en": "What it is, it's a lamination of two different metals together.",
+                "vi": "Nó là gì, nó là sự dát mỏng cùng nhau của hai kim loạt khác nhau."
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "elliptical",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/iˈliptik(ə)l/",
+            "/ɪˈlɪptɪk(ə)l/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˈlɪptɪk(ə)l/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "eliptic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "elliptic",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bầu dục",
+            "type": "noun",
+            "example": {
+                "en": "It goes up delivers the capsule into an elliptical orbit.",
+                "vi": "Bay lên, đẩy thân tàu vào quỹ đạo hình bầu dục."
+            }
+        },
+        {
+            "content": "tĩnh lược",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tỉnh lược",
+            "type": "adjective",
+            "example": {}
+        }
+    ]
+}

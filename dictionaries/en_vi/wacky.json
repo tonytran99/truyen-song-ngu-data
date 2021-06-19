@@ -1,0 +1,48 @@
+{
+    "word": "wacky",
+    "type": [
+        "adjective",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwakē/",
+            "/ˈwæki/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈwaki/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "dở người",
+            "type": "adjective",
+            "example": {}
+        },
+        {
+            "content": "lập dị",
+            "type": "adjective",
+            "example": {
+                "en": "And I knew that I would be promoted from \"Diner Diner\" to \"Wacky Best Friend\" in no time.",
+                "vi": "Và tôi biết rằng tôi sẽ được thăng tiến từ \"khách dự tiệc\" đến \"cô bạn thân lập dị\" trong thời gian ngắn."
+            }
+        },
+        {
+            "content": "tàng tàng",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điên điên",
+            "type": "",
+            "example": {
+                "en": "But that wacky old coot is Belle's father",
+                "vi": "♪ Nhưng sư cụ điên điên kia là cha của Belle ♪"
+            }
+        }
+    ]
+}

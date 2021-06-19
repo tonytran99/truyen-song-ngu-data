@@ -1,0 +1,53 @@
+{
+    "word": "infiltrate",
+    "type": [
+        "verb",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/inˈfilˌtrāt/",
+            "/ɪnˈfɪlˌtreɪt/",
+            "/ˈinfəlˌtrāt/",
+            "/ˈɪnfəlˌtreɪt/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈɪnfɪltreɪt/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thâm nhập",
+            "type": "verb",
+            "example": {
+                "en": "Well, James, we want you to infiltrate the cult.",
+                "vi": "James à, bọn tôi muốn anh thâm nhập vào giáo phái."
+            }
+        },
+        {
+            "content": "rỉ qua",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "thâm nhiễm",
+            "type": "",
+            "example": {
+                "en": "These clouded areas of the upper lobes, they're the infiltrates we found yesterday.",
+                "vi": "... vùng đục ở thùy trên này đó là những chỗ thâm nhiễm chúng tôi phát hiện hôm qua."
+            }
+        },
+        {
+            "content": "xâm nhập",
+            "type": "",
+            "example": {
+                "en": "Lymphoma could cause infiltrates in his reproductive organs and his brain.",
+                "vi": "U lympho có thể xâm nhập vào cơ quan sinh dục và não của ổng."
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "amplifier",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈampləˌfī(ə)r/",
+            "/ˈæmpləˌfaɪ(ə)r/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈamplɪfʌɪə/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "bộ khuếch đại",
+            "type": "noun",
+            "example": {
+                "en": "That coil is connected to an R.F. amplifier",
+                "vi": "Cuộn dây đó được nối với một bộ khuếch đại sóng rađiô"
+            }
+        },
+        {
+            "content": "máy khuếch đại",
+            "type": "noun",
+            "example": {
+                "en": "And the reason for that is, when two billion people use your brands that's the amplifier.",
+                "vi": "Và lý do đó là, khi hai tỷ người sử dụng những thương hiệu của bạn đó chính là một chiếc máy khuếch đại."
+            }
+        },
+        {
+            "content": "bộ khuyếch đại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "bộ khuếch/phóng đại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "mạch khuếch/phóng đại",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "tầng khuếch/phóng đại",
+            "type": "",
+            "example": {}
+        }
+    ]
+}

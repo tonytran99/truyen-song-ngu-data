@@ -1,0 +1,29 @@
+{
+    "word": "capita",
+    "type": [
+        "noun"
+    ],
+    "meanings": [
+        {
+            "content": "per capita",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "theo đầu người",
+            "type": "",
+            "example": {
+                "en": "But from now on, we count per capita.",
+                "vi": "Tuy vậy, kể từ nay, chúng tôi tính theo đầu người."
+            }
+        },
+        {
+            "content": "đầu",
+            "type": "noun",
+            "example": {
+                "en": "Three, decrease per capita expenditure across a continuum.",
+                "vi": "Ba, giảm chi phí bình quân đầu người cho việc theo bệnh."
+            }
+        }
+    ]
+}

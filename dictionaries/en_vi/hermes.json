@@ -1,0 +1,35 @@
+{
+    "word": "hermes",
+    "type": [
+        "proper",
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhərmēz/",
+            "/ˈhərmiz/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈhəːmiːz/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "thần Héc-mét",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "hermes",
+            "type": "",
+            "example": {
+                "en": "Can the Hermes function for 533 days beyond the scheduled mission?",
+                "vi": "Tàu Hermes có thể hoạt động thêm 533 ngày ngoài lịch trình dự kiến không?"
+            }
+        }
+    ]
+}

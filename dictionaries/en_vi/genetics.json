@@ -1,0 +1,42 @@
+{
+    "word": "genetics",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/jəˈnediks/",
+            "/dʒəˈnɛdɪks/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʒəˈnɛtɪks/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "di truyền học",
+            "type": "noun",
+            "example": {
+                "en": "Trying to start an artificial genetic system running in the computer.",
+                "vi": "Cố gắng bắt đầu một hệ thống di truyền học nhân tạo chạy trong máy tính."
+            }
+        },
+        {
+            "content": "遺傳學",
+            "type": "noun",
+            "example": {}
+        },
+        {
+            "content": "Di truyền học",
+            "type": "",
+            "example": {
+                "en": "Couldn't do it by conventional genetics, but just scanning it",
+                "vi": "Di truyền học thông thường không thể làm được, nhưng chỉ cần xem lướt qua mẫu ADN,"
+            }
+        }
+    ]
+}

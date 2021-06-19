@@ -1,0 +1,25 @@
+{
+    "word": "eats",
+    "type": [
+        "noun",
+        "verb"
+    ],
+    "meanings": [
+        {
+            "content": "thức ăn",
+            "type": "noun",
+            "example": {
+                "en": "I can't eat or drink very hot things.",
+                "vi": "Tôi không thể ăn hay uống những thức ăn rất nóng."
+            }
+        },
+        {
+            "content": "đồ ăn",
+            "type": "",
+            "example": {
+                "en": "Nothing makes me happier than eating good food.",
+                "vi": "Không có gì sướng bằng được ăn đồ ăn ngon."
+            }
+        }
+    ]
+}

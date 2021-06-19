@@ -1,0 +1,30 @@
+{
+    "word": "dyed",
+    "type": [
+        "adjective",
+        "verb"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dīd/",
+            "/daɪd/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/dʌɪd/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "nhuộm",
+            "type": "verb",
+            "example": {
+                "en": "Well, you've dyed your hair, but I know you.",
+                "vi": "Cô đã nhuộm tóc, nhưng tôi vẫn nhận ra cô."
+            }
+        }
+    ]
+}

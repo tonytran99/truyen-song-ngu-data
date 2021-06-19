@@ -1,0 +1,42 @@
+{
+    "word": "larceny",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlärs(ə)nē/",
+            "/ˈlɑrs(ə)ni/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ˈlɑːs(ə)ni/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "sự ăn cắp",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "cắp",
+            "type": "verb",
+            "example": {
+                "en": "I don't know this office doesn't handle petty larceny.",
+                "vi": "Tôi thực sự không chắc.Văn phòng này không giải quyết chuyện ăn cắp vặt."
+            }
+        },
+        {
+            "content": "trộm cắp",
+            "type": "",
+            "example": {
+                "en": "Aggravated assault, larceny and arson.",
+                "vi": "Gây thương tích nghiêm trọng, trộm cắp và phóng hỏa."
+            }
+        }
+    ]
+}

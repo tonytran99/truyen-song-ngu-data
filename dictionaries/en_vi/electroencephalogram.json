@@ -1,0 +1,40 @@
+{
+    "word": "electroencephalogram",
+    "type": [
+        "noun"
+    ],
+    "us": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/əˌlektrōənˈsefələɡram/",
+            "/əˌlɛktroʊənˈsɛfələɡræm/"
+        ]
+    },
+    "uk": {
+        "hasAudio": 1,
+        "phoneticSpelling": [
+            "/ɪˌlɛktrəʊɪnˈsɛf(ə)ləɡram/",
+            "/ɪˌlɛktrəʊɪnˈkɛf(ə)ləɡram/"
+        ]
+    },
+    "meanings": [
+        {
+            "content": "biểu đồ sóng não",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "não điện đồ",
+            "type": "",
+            "example": {}
+        },
+        {
+            "content": "điện não đồ",
+            "type": "noun",
+            "example": {
+                "en": "If we've got them wired up with an electroencephalogram,",
+                "vi": "Nếu ta đo điện não đồ của họ,"
+            }
+        }
+    ]
+}

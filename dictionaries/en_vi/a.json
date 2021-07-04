@@ -31,7 +31,9 @@
     "meanings": [
         {
             "content": "một",
-            "type": "article",
+            "type": [
+                "article"
+            ],
             "example": {
                 "en": "Students often find it very difficult to understand a lecture in a foreign language.",
                 "vi": "Sinh viên cảm thường thấy rất khó hiểu một bài giảng bằng tiếng nước ngoài."
@@ -39,7 +41,9 @@
         },
         {
             "content": "a",
-            "type": "Letter noun",
+            "type": [
+                "Letter"
+            ],
             "example": {
                 "en": "Draw a line from A to B.",
                 "vi": "Vẽ một đường từ A đến B."
@@ -47,7 +51,9 @@
         },
         {
             "content": "con",
-            "type": "noun",
+            "type": [
+                "noun"
+            ],
             "example": {
                 "en": "Tom doesn't know how to milk a cow.",
                 "vi": "Tom không biết làm thế nào để vắt sữa con bò"
@@ -55,7 +61,9 @@
         },
         {
             "content": "chiếc",
-            "type": "noun",
+            "type": [
+                "noun"
+            ],
             "example": {
                 "en": "She gave me a watch.",
                 "vi": "Cô ấy đã cho tôi 1 chiếc đồng hồ."
@@ -63,7 +71,7 @@
         },
         {
             "content": "mỗi",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "Mother comes to stay with us at least once a month.",
                 "vi": "Mẹ đến ở với chúng tôi ít nhất là một lần mỗi tháng."
@@ -71,7 +79,9 @@
         },
         {
             "content": "người",
-            "type": "Article",
+            "type": [
+                "Article"
+            ],
             "example": {
                 "en": "Tom told me you were looking for a babysitter.",
                 "vi": "Tom đã nói với tôi là bạn đang tìm người giữ trẻ."
@@ -79,7 +89,9 @@
         },
         {
             "content": "cái",
-            "type": "Article",
+            "type": [
+                "Article"
+            ],
             "example": {
                 "en": "Can anyone fix a flat tire?",
                 "vi": "Có ai có thể vá cái lốp xẹp này không?"
@@ -87,7 +99,9 @@
         },
         {
             "content": "cuốn",
-            "type": "Article",
+            "type": [
+                "Article"
+            ],
             "example": {
                 "en": "I have never read such a scary novel.",
                 "vi": "Tôi chưa từng đọc cuốn tiểu thuyết nào đáng sợ như vậy."
@@ -95,7 +109,10 @@
         },
         {
             "content": "la",
-            "type": "verb noun",
+            "type": [
+                "verb",
+                "noun"
+            ],
             "example": {
                 "en": "Do you have change for a dollar?",
                 "vi": "Bạn có đồng đô la tiền lẻ không?"
@@ -103,7 +120,7 @@
         },
         {
             "content": "hạng nhất",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "We fly first class to Detroit and lay low for a couple weeks.",
                 "vi": "Chúng ta sẽ đi máy bay hạng nhất đến Detroit và đặt một tuần dành cho 2 người."
@@ -111,7 +128,7 @@
         },
         {
             "content": "loại a",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "we're looking for what the cia classifies a type-a personality.",
                 "vi": "Chúng ta đang tìm cái mà CIA phân loại là hồ sơ cá nhân loại A."
@@ -119,7 +136,7 @@
         },
         {
             "content": "mỗi một",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "And they all just want one thing from a girl.",
                 "vi": "Và tất cả bọn họ chỉ muốn mỗi một thứ của một cô gái."
@@ -127,7 +144,7 @@
         },
         {
             "content": "một người",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "A woman is taking down some notes on a pad of paper.",
                 "vi": "Một người phụ nữ đang ghi chép lại một cái gì đó."
@@ -135,7 +152,9 @@
         },
         {
             "content": "nhất",
-            "type": "adjective",
+            "type": [
+                "adjective"
+            ],
             "example": {
                 "en": "Mother comes to stay with us at least once a month.",
                 "vi": "Mẹ đến ở với chúng tôi ít nhất là một lần mỗi tháng."
@@ -143,12 +162,12 @@
         },
         {
             "content": "Tiếng Đài Loan",
-            "type": "",
+            "type": [],
             "example": {}
         },
         {
             "content": "máy phát",
-            "type": "",
+            "type": [],
             "example": {
                 "en": "We developed a gel that contained hundreds of transmitters per ml.",
                 "vi": "Chúng tôi đã phát triển một loại gel chứ hàng trăm máy phát trong một ml."
@@ -156,7 +175,7 @@
         },
         {
             "content": "đánh dấu trọng âm",
-            "type": "",
+            "type": [],
             "example": {}
         }
     ]

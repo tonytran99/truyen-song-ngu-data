@@ -42,7 +42,8 @@
         {
             "content": "a",
             "type": [
-                "Letter"
+                "Letter",
+                "none"
             ],
             "example": {
                 "en": "Draw a line from A to B.",
